@@ -1,0 +1,112 @@
+NationalEnergyFoundation
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+National Energy Foundation
+UK charity working to
+Improve the Use of Energy in Buildings
+Type
+Registered charity &
+Company Limited by Guarantee
+Industry
+Energy Efficiency
+Founded
+1988
+Headquarters
+Milton Keynes, United Kingdom
+Key people
+Dr Kerry Mashford (CEO)
+John Walker (Chair)
+Website
+www.nef.org.uk
+The National Energy Foundation (NEF) is an independent British charity, established to encourage the more sustainable use and generation of energy.
+Contents
+1 Aims
+2 Activities
+3 Renewable Energy
+4 Work with young people
+5 Buildings
+6 Leadership
+7 See also
+8 References
+9 External links
+Aims[edit]
+The charity aims to improve the use of energy in buildings. This statement simplified the earlier stated mission to mobilise individuals, businesses and communities to make their contribution to reducing carbon dioxide emissions through energy efficiency and use of sustainable energy sources (notably renewable energy) to maintain affordable energy services and combat global climate change.
+Activities[edit]
+NEF was founded in 1988 by Milton Keynes Development Corporation to preserve for the future benefit of the UK public some of the energy initiatives that had been undertaken within the new city. Its initial projects included extending a technical home energy label (known as the Milton Keynes Energy Cost Index  MKECI) into a more generally applicable home energy rating called the National Home Energy Rating (NHER), and technical energy monitoring work on low energy homes in the Milton Keynes Energy Park. In 1994, the NHER Scheme was injected into a subsidiary company (sold in 2011) to run the business on behalf of the charity. In recent years, many of its projects have more of an applied research element, including collaborative projects with UK universities.
+From 19932001 NEF worked closely with the Energy Saving Trust, setting up the UK's network of Energy Efficiency Advice Centres (EEACs) on their behalf, and managing the network for the first five years. But as domestic energy efficiency moved more into the mainstream, NEF expanded its interests into Renewable Energy (from 1995) and non-domestic energy efficiency, through its management of the Energy Efficiency Accreditation Scheme from 1998 onwards. In 2005 this scheme was transferred to the Carbon Trust but still managed by NEF; in 2008 it was relaunched as the Carbon Trust Standard with some NEF administrative involvement until 2013. NEF's current focus includes post-occupancy building performance evaluation, as well as identifying strategies to minimise the performance gap between the design and in-use energy consumption of buildings. It also works with housing stock owners (such as UK local authorities and housing associations) to minimise tenants' housing use, and operates a number of regional programmes to combat fuel poverty.
+After around 2002, most local and regional domestic energy efficiency activities were handed over to the United Sustainable Energy Agency (formerly Milton Keynes Energy Agency  MKEA), but NEF retained involvement in projects such as Milton Keynes' Low Carbon Living (formerly ThimkAgain!) campaign, and in 2013 agreed to merge with USEA. The Foundation undertakes work with local communities across the UK in partnership with the Sustainable Energy Academy, most notably through the Superhomes project (originally known as Old Home Superhome), and through its involvement with the Local United and Communities & Climate Action Alliance projects.
+The National Energy Foundation offices in Milton Keynes, England
+Most of the charity's work is within the UK, although it participates in a number of EU projects, has undertaken some work in SE Asia and actively supports international standardisation work through CEN and ISO.
+Renewable Energy[edit]
+NEF has also been active in the area of renewable energy and, in particular, with integrating it into buildings and assisting local authorities and other bodies to create the right environment for a wider uptake of sustainable energy. Since 2015, it has operated the formerly independent Yougen website, targeted mainly at UK households wishing to install small-scale renewable energy measures. Historically, it also provided secretariat functions to trade associations such as the Solar Trade Association and the Ground Source Heat Pump Association, as well as running from 2010-15 the Green Energy Supply Certification Scheme that implemented Ofgem's guidelines for marketing "green" electricity.
+Work with young people[edit]
+Although working mainly with organisations and the general public, NEF has from time to time run projects aimed at educating young people. This includes the Energy Envoys project, aimed at encouraging students undertaking the Duke of Edinburgh's Award to become involved in saving energy.[1] In 2007-8 it launched a global warming game called Logicity, funded by the Defra Climate Challenge Programme, in an attempt to raise interest in the subject among young adults. For several years it ran a mobile education unit called the Green Energy Machine.
+Buildings[edit]
+NEF occupies a purpose built low energy building designed to demonstrate some of the features that it espouses. Built in 2002-3, its office is heated by a Ground Source Heat Pump, with hot water being partly provided by an evacuated tube solar water heating system. There is a winter back-up heating system in the form of a wood pellet stove. The building is naturally ventilated, with brise-soleils to prevent overheating in summer, and use of daylight is encouraged through Light tubes ('SunPipes'). Around a fifth of the office's energy is supplied by a 6.47kWp photovoltaic array. As well as energy features, its environmental credentials include the use of rainwater for toilet flushing and a low thermal mass sustainably sourced timber frame structure.
+The adjacent low energy building was constructed in 1999 to show how super-insulation can enable a 1,000m2 building to be heated from a gas condensing boiler little larger than would be used in a typical UK home. This served as NEF's headquarters until 2004. A 39kWp photovoltaic array was added to this building in 2012, taking advantage of special fixings that had been designed into the original building.
+Leadership[edit]
+President: Dame Mary Archer
+Chair: John Walker
+Chief Executive: Dr Kerry Mashford
+Deputy chief executive: Ian Byrne
+Past chairs include Brian White, Eryl McNally and Professor John Chesshire.
+See also[edit]
+Energy portal
+Energy use and conservation in the United Kingdom
+Global warming
+Renewable energy commercialisation
+References[edit]
+^ http://www.dofe.info/en/content/cms/leaders/approved-providers/The_National_Energy_/
+External links[edit]
+Official website
+Charity Commission. The National Energy Foundation, registered charity no. 298951.
+NewPP limit report
+Parsed by mw1171
+Cached time: 20161120124633
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.112 seconds
+Real time usage: 0.148 seconds
+Preprocessor visited node count: 858/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 10588/2097152 bytes
+Template argument size: 923/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.043/10.000 seconds
+Lua memory usage: 1.91 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+127.365
+1 - -total
+36.64%
+46.668
+1 - Template:Infobox_company
+24.01%
+30.583
+1 - Template:EW_charity
+23.17%
+29.512
+1 - Template:Infobox
+22.36%
+28.485
+1 - Template:Cite_book
+17.67%
+22.510
+1 - Template:EngvarB
+10.95%
+13.942
+1 - Template:Official_website
+8.05%
+10.259
+2 - Template:DMCA
+7.07%
+9.005
+2 - Template:Dated_maintenance_category
+4.97%
+6.332
+1 - Template:Comma_separated_entries
+Saved in parser cache with key enwiki:pcache:idhash:12812073-0!*!0!!en!4!* and timestamp 20161120124633 and revision id 739195458
+Retrieved from "https://en.wikipedia.org/w/index.php?title=National_Energy_Foundation&oldid=739195458"
+Categories: Environmental charities based in the United KingdomLow-energy building in the United KingdomMilton KeynesClimate change organizationsCharities based in BuckinghamshireHidden categories: EngvarB from October 2013Use dmy dates from October 2013Pages using deprecated image syntax

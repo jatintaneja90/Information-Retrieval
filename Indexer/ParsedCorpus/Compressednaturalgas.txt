@@ -1,0 +1,440 @@
+Compressednaturalgas
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"CNG" redirects here. For other uses, see CNG (disambiguation).
+Blue diamond symbol used on CNG-powered vehicles in North America
+Green bordered white diamond symbol used on CNG-powered vehicles in China
+A CNG powered bus. Neoplan AN440A, operated by ABQ RIDE in Albuquerque, New Mexico.
+CNG tanks atop a BEST bus in Mumbai.
+Compressed natural gas (CNG) (methane stored at high pressure) can be used in place of gasoline (petrol), Diesel fuel and propane/LPG. CNG combustion produces fewer undesirable gases than the fuels mentioned above. It is safer than other fuels in the event of a spill, because natural gas is lighter than air and disperses quickly when released. CNG may be found above oil deposits, or may be collected from landfills or wastewater treatment plants where it is known as biogas.
+CNG is made by compressing natural gas (which is mainly composed of methane, CH4), to less than 1 percent of the volume it occupies at standard atmospheric pressure. It is stored and distributed in hard containers at a pressure of 2025MPa (2,9003,600psi), usually in cylindrical or spherical shapes.
+CNG is used in traditional gasoline/internal combustion engine automobiles that have been modified or in vehicles which were manufactured for CNG use, either alone ('dedicated'), with a segregated gasoline system to extend range (dual fuel) or in conjunction with another fuel such as diesel (bi-fuel). Natural gas vehicles are increasingly used in Iran, especially Pakistan,[1] the Asia-Pacific region, Indian capital of Delhi, and other large cities like Ahmedabad, Mumbai, Pune, Kolkataas well as cities such as Lucknow, Kanpur, etc. Its use is also increasing in South America, Europe and North America because of rising gasoline prices.[2] In response to high fuel prices and environmental concerns, CNG is starting to be used also in tuk-tuks and pickup trucks, transit and school buses, and trains.
+The cost and placement of fuel storage tanks is the major barrier to wider/quicker adoption of CNG as a fuel. It is also why municipal government, public transportation vehicles were the most visible early adopters of it, as they can more quickly amortize the money invested in the new (and usually cheaper) fuel. In spite of these circumstances, the number of vehicles in the world using CNG has grown steadily (30 percent per year).[3] Now, as a result of the industry's steady growth, the cost of such fuel storage tanks has been brought down to a much more acceptable level. Especially for the CNG Type 1 and Type 2 tanks, many countries are able to make reliable and cost effective tanks for conversion need.[4]
+CNG's volumetric energy density is estimated to be 42 percent that of liquefied natural gas (because it is not liquefied), and 25 percent that of diesel fuel.[5]
+Contents
+1 Uses
+1.1 Motor vehicles
+1.2 Locomotives
+2 Advantages
+3 Drawbacks
+4 Codes and standards
+5 Comparison with other natural gas fuels
+6 Worldwide
+6.1 South America
+6.2 Asia
+6.3 Africa
+6.4 Europe
+6.5 North America
+6.5.1 Canada
+6.5.2 United States
+6.6 Oceania
+7 Deployments
+8 See also
+9 References
+Uses[edit]
+Motor vehicles[edit]
+CNG pumps at a Brazilian gasoline fueling station
+Main article: Natural gas vehicle
+Worldwide, there were 14.8 million natural gas vehicles by 2011, led by Iran with 2.86 million, Pakistan (2.85 million), Argentina (2.07 million), Brazil (1.7 million) and India (1.1 million).[6] with the Asia-Pacific region leading with 5.7 million NGVs, followed by Latin America with almost four million vehicles.[2]
+Several manufacturers (Fiat, Opel/General Motors, Peugeot, Volkswagen, Toyota, Honda and others) sell bi-fuel cars. In 2006, Fiat introduced the Siena Tetrafuel in the Brazilian market, equipped with a 1.4L FIRE engine that runs on E100, E25 (Standard Brazilian Gasoline), Ethanol and CNG.
+Any existing gasoline vehicle can be converted to a dual-fuel (gasoline/CNG) vehicle. Authorized shops can do the retrofitting and involves installing a CNG cylinder, plumbing, a CNG injection system and the electronics. The cost of installing a CNG conversion kit[7] can often reach $8,000 on passenger cars and light trucks and is usually reserved for vehicles that travel many miles each year. CNG costs about 50% less than gasoline and emits up to 90% fewer emissions than gasoline[8]
+Locomotives[edit]
+CNG locomotives are operated by several railroads. The Napa Valley Wine Train successfully retrofit a diesel locomotive to run on compressed natural gas before 2002.[9] This converted locomotive was upgraded to utilize a computer controlled fuel injection system in May 2008, and is now the Napa Valley Wine Train's primary locomotive.[10] Ferrocarril Central Andino in Peru, has run a CNG locomotive on a freight line since 2005.[11] Vtkovice machinery group in Czech republic starts to operate new CNG locomotive at 2014. It s based on CKD chassis 714 fully restored by CZ Loko and fitted with CAT 3412 engine reworked by MARAT engineering. The engine has fully electronic engine control system including electronically controlled ignition and multipoint fuel blowing and torque mapping. CNG locomotives are usually diesel locomotives that have been converted to use compressed natural gas generators instead of diesel generators to generate the electricity that drives the traction motors. Some CNG locomotives are able to fire their cylinders only when there is a demand for power, which, theoretically, gives them a higher fuel efficiency than conventional diesel engines. CNG is also cheaper than petrol or diesel.
+Advantages[edit]
+CNG powered bus in Madrid, Spain being refueled.
+CNG-powered vehicles have lower maintenance costs than other hydrocarbon-fuel-powered vehicles.
+CNG fuel systems are sealed, preventing fuel losses from spills or evaporation.
+Increased life of lubricating oils, as CNG does not contaminate and dilute the crankcase oil.
+Being a gaseous fuel, CNG mixes easily and evenly in air.
+CNG is less likely to ignite on hot surfaces, since it has a high auto-ignition temperature (540C), and a narrow range (515 percent) of flammability.[12]
+CNG-powered vehicles are considered to be safer than gasoline-powered vehicles.[13][14][15]
+Less pollution and more efficiency:
+CNG emits significantly less pollution directly than gasoline or oil when combusted (e.g., carbon dioxide (CO2), unburned hydrocarbons (UHC), carbon monoxide (CO), nitrogen oxides (NOx), sulfur oxides (SOx) and PM (particulate matter). For example, an engine running on petrol for 100km emits 22kilograms of CO2, while covering the same distance on CNG emits only 16.3kilograms of CO2.[16]
+Due to lower carbon dioxide emissions, switching to CNG can help mitigate greenhouse gas emissions.[12] However, natural gas leaks (both in the direct use and in the production and delivery of the fuel) represent an increase in greenhouse gas emissions. The ability of CNG to reduce greenhouse gas emissions over the entire fuel lifecycle will depend on the source of the natural gas and the fuel it is replacing.
+The lifecycle greenhouse gas emissions for CNG compressed from California's pipeline natural gas is given a value of 67.70grams of CO2-equivalent per megajoule (gCO2e/MJ) by CARB (the California Air Resources Board), approximately 28 percent lower than the average gasoline fuel in that market (95.86 gCO2e/MJ).
+CNG produced from landfill biogas was found by CARB to have the lowest greenhouse gas emissions of any fuel analyzed, with a value of 11.26 gCO2e/MJ (more than 88 percent lower than conventional gasoline) in the low-carbon fuel standard that went into effect on January 12, 2010.[17]
+Drawbacks[edit]
+Compressed natural gas vehicles require a greater amount of space for fuel storage than conventional gasoline powered vehicles. Since it is a compressed gas, rather than a liquid like gasoline, CNG takes up more space for each GGE (gasoline gallon equivalent). However, the tanks used to store the CNG take up space in the trunk of a car or bed of a pickup truck which has been modified to additionally run on CNG. This problem is solved in factory-built CNG vehicles that install the tanks under the body of the vehicle, leaving the trunk free (e.g., Fiat Multipla, New Fiat Panda, Volkswagen Touran Ecofuel, Volkswagen Caddy Ecofuel, Chevy Taxi - which sold in countries such as Peru). Another option is installation on roof (typical on buses), requiring, however, solution of structural strength issues. In 2014, a test (by the Danish Technological Institute) of Euro6 heavy vehicles on CNG and diesel showed that CNG had higher consumption, but same noise and pollution of CO2 and particulates, however NOx emission was lower.[18]
+Codes and standards[edit]
+The lack of harmonized codes and standards across international jurisdictions is an additional barrier to NGV market penetration.[19] The International Organization for Standardization has an active technical committee working on a standard for natural gas fuelling stations for vehicles.[20]
+Despite the lack of harmonized international codes, natural gas vehicles have an excellent global safety record. Existing international standards include ISO 14469-2:2007 which applies to CNG vehicle nozzles and receptacle[21] and ISO 15500-9:2012 specifies tests and requirements for the pressure regulator.[22]
+NFPA-52 covers natural gas vehicle safety standards in the US.
+Comparison with other natural gas fuels[edit]
+Compressed natural gas is often confused with LNG (liquefied natural gas). Both are stored forms of natural gas. The main difference is that CNG is stored at ambient temperature and high pressure, while LNG is stored at low temperature and nearly ambient pressure. In their respective storage conditions, LNG is a liquid and CNG is a supercritical fluid. CNG has a lower cost of production and storage compared to LNG as it does not require an expensive cooling process and cryogenic tanks. However, CNG requires a much larger volume to store the energy equivalent of gasoline or petrol and the use of very high pressures (3000 to 4000 psi, or 205 to 275 bar). As a consequence of this, LNG is often used for transporting natural gas over large distances, in ships, trains or pipelines, where the gas is converted into CNG before distribution to the end user.
+CNG is being experimentally stored at lower pressure in a form known as an ANG (adsorbed natural gas) tank, at 35 bar (500 psi, the pressure of gas in natural gas pipelines) in various sponge like materials, such as activated carbon[23] and MOFs (metal-organic frameworks).[24] The fuel is stored at similar or greater energy density than CNG. This means that vehicles can be refueled from the natural gas network without extra gas compression, the fuel tanks can be slimmed down and made of lighter, weaker materials.
+Compressed natural gas is sometimes mixed with hydrogen (HCNG) which increases the H/C ratio (hydrogen/carbon ratio) of the fuel and gives it a flame speed up to eight times higher than CNG.[25]
+Worldwide[edit]
+Iran, Pakistan, Argentina, Brazil and China have the highest number of CNG run vehicles in the world.[6]
+Top ten countries
+with the largest NGV vehicle fleets - 2013[26][27]
+(millions)
+Rank
+Country
+Registered
+fleet
+Rank
+Country
+Registered
+fleet
+1
+Iran
+3.50
+6
+Italy
+0.82
+2
+Pakistan
+2.79
+7
+Colombia
+0.46
+3
+Argentina
+2.28
+8
+Uzbekistan
+0.45
+4
+Brazil
+1.75
+9
+Thailand
+0.42
+5
+China
+1.58
+10
+Indonesia
+0.38
+World Total = 18.09 million NGV vehicles
+South America[edit]
+CNG station in Rosario, Argentina.
+CNG vehicles are commonly used in South America, where these vehicles are mainly used as taxicabs in main cities of Argentina and Brazil.[28] Normally, standard gasoline vehicles are retrofitted in specialized shops, which involve installing the gas cylinder in the trunk and the CNG injection system and electronics. Argentina and Brazil are the two countries with the largest fleets of CNG vehicles,[28] with a combined total fleet of more than 3.4 million vehicles by 2009.[2] Conversion has been facilitated by a substantial price differential with liquid fuels, locally produced conversion equipment and a growing CNG-delivery infrastructure.
+As of 2009 Argentina had 1,807,186 NGV's with 1,851 refueling stations across the nation,[2] or 15 percent of all vehicles;[28] and Brazil had 1,632,101 vehicles and 1,704 refueling stations,[2] with a higher concentration in the cities of Rio de Janeiro and So Paulo.[28][29]
+Colombia had an NGV fleet of 300,000 vehicles, and 460 refueling stations, as of 2009.[2] Bolivia has increased its fleet from 10,000 in 2003 to 121,908 units in 2009, with 128 refueling stations.[2] Peru had 81,024 NGVs and 94 fueling stations as 2009,[2] but that number is expected to skyrocket as Peru sits on South America's largest gas reserves.[28] In Peru several factory-built NGVs have the tanks installed under the body of the vehicle, leaving the trunk free. Among the models built with this feature are the Fiat Multipla, the newFiat Panda, the Volkswagen Touran Ecofuel, the Volkswagen Caddy Ecofuel and the Chevy Taxi. Other countries with significant NGV fleets are Venezuela (15,000) and Chile (8,064) as of 2009.[2]
+Asia[edit]
+A CNG powered Volvo B10BLE bus, operated by SBS Transit in Singapore.
+A CNG powered Hino bus, operated by BMTA in Thailand.
+A CNG powered Toyota Wish Yellow-Top Taxi in Singapore
+In Singapore, CNG is increasingly being used by public transport vehicles like buses and taxis, as well as goods vehicles. However, according to Channel NewsAsia and North Korea State Television on April 18, 2008, more owners of private cars in this country are converting their petrol-driven vehicles to also run on CNG  motivated no doubt by rising petrol prices. The initial cost of converting a regular vehicle to dual fuel at the German conversion workshop of C. Melchers, for example, is around S$3,800; with the promise of real cost-savings that dual-fuel vehicles bring over the long term.
+Singapore currently has five operating filling stations for natural gas. SembCorp Gas Pte Ltd. runs the station on Jurong Island and, jointly with Singapore Petroleum Company, the filling station at Jalan Buroh. Both these stations are in the western part of the country. Another station on the mainland is in Mandai Link to the north and is operated by SMART Energy. SMART also own a second station on Serangoon North Ave 5 which was set up end of March 2009; The fifth and largest station in the world was opened by the UNION Group in September 2009. This station is recognized by the Guniness World Records as being the largest in the world with 46 refuelling hoses. This station is located in Toh Tuck. The Union Group, which operates 1000 CNG Toyota Wish taxis plan to introduce another three daughter stations and increase the CNG taxi fleet to 8000 units.
+As a key incentive for using this eco-friendly fuel Singapore has a green vehicle rebate for users of CNG technology. First introduced in January 2001, the GVR grants a 40 percent discount on the OMV (open market value) cost of newly registered green passenger vehicles. This initiative will end at the end of 2012 as the government believes the 'critical mass' of CNG vehicles would then have been built up.
+The Ministry of Transport of Myanmar passed a law in 2005 which required that all public transport vehicles - buses, trucks and taxis, be converted to run on CNG. The Government permitted several private companies to handle the conversion of existing diesel and petrol cars, and also to begin importing CNG variants of buses and taxis. Accidents and rumours of accidents, partly fueled by Myanmar's position in local hydrocarbon politics,[30] has discouraged citizens from using CNG vehicles, although now almost every taxi and public bus in Yangon, Myanmar's largest city, run on CNG. CNG stations have been set up around Yangon and other cities, but electricity shortages mean that vehicles may have to queue up for hours to fill their gas containers.[31] The Burmese opposition movements are against the conversion to CNG, as they accuse the companies as being proxies of the junta, and also that the petrodollars earned by the regime would go towards the defense sector, rather than towards improving the infrastructure or welfare of the people.
+In Malaysia, the use of CNG was originally introduced for taxicabs and airport limousines during the late-1990s, when new taxis were launched with CNG engines while taxicab operators were encouraged to send in existing taxis for full engine conversions. The practice of using CNG remained largely confined to taxicabs predominantly in the Klang Valley and Penang due to a lack of interest. No incentives were offered for those besides taxicab owners to use CNG engines, while government subsidies on petrol and diesel made conventional road vehicles cheaper to use in the eyes of the consumers. Petronas, Malaysia's state-owned oil company, also monopolises the provision of CNG to road users. As of July 2008, Petronas only operates about 150 CNG refueling stations, most of which are concentrated in the Klang Valley. At the same time, another 50 were expected by the end of 2008.[32]
+As fuel subsidies were gradually removed in Malaysia starting June 5, 2008, the subsequent 41 percent price hike on petrol and diesel led to a 500 percent increase in the number of new CNG tanks installed.[33][34] National car maker Proton considered fitting its Waja, Saga and Persona models with CNG kits from Prins Autogassystemen by the end of 2008,[35] while a local distributor of locally assembled Hyundai cars offers new models with CNG kits.[36] Conversion centres, which also benefited from the rush for lower running costs, also perform partial conversions to existing road vehicles, allowing them to run on both petrol or diesel and CNG with a cost varying between RM3,500 to RM5,000 for passenger cars.[33][37]
+A CNG powered bus in Beijing. CNG buses in Beijing were introduced in late 1998.
+In China, companies such as Sino-Energy are active in expanding the footprint of CNG filling stations in medium-size cities across the interior of the country, where at least two natural gas pipelines are operational.[citation needed]
+In Pakistan, the Karachi government under the order of Supreme Court in 2004 made it mandatory for all city buses and auto rickshaws to run on CNG with the intention of reducing air pollution.
+In Pakistan in 2012, the federal government announced plans to gradually phase out CNG over a period of approximately three years given natural gas shortages which have been negatively affecting the manufacturing sector.[38] Aside from limiting electricity generation capacity, gas shortages in Pakistan have also raised the costs of business for key industries including the fertilizer, cement and textile sectors.[39]
+Iran has one of the largest fleets of CNG vehicles and CNG distribution networks in the world. There are 2335 CNG fueling stations, with a total of 13,534 CNG nozzles.[40] The number of CNG burning vehicles in Iran exceeds 3.5 million. CNG consumption by Irans transportation sector is around 20 million cubic meters per day.[41]
+Africa[edit]
+Egypt is amongst the top 10 countries in CNG adoption, with 128,754 CNG vehicles and 124 CNG fueling stations. Egypt was also the first nation in Africa and the Middle East to open a public CNG fueling station in January 1996.[42]
+The vast majority 780000 have been produced as dual fuel vehicles by the auto manufacturer in the last two years, and the remainder have been converted utilizing after market conversion kits in workshops. There are 750 active refueling stations country wide with an additional 660 refueling stations under construction and expected to come on stream. Currently the major problem facing the industry as a whole is the building of refueling stations that is lagging behind dual fuel vehicle production, forcing many to use petrol instead.
+Nigeria CNG started with a pilot project in Benin City Edo State in 2010 by Green Gas Limited. Green Gas Limited is a Joint Venture Company of NGC (Nigerian Gas Company Ltd.) & NIPCO PLC. As at October 2012 about seven CNG stations have been built in Benin City Edo State, with about 1,000 cars running on CNG in Benin City Edo state. In Benin City Edo state, major companies such as Coca-cola are using CNG to power their fork-lifts/trucks while Edo City Transport Ltd (ECTS) is also running some of its busus on CNG.
+Europe[edit]
+CNG powered bus in Italy
+In Italy, there are more than 1173 CNG stations.[43] The use of methane for vehicles, started in the 1930s and has continued off and on until today. Since 2008 there have been a large market expansion for natural gas vehicles (CNG and LPG) caused by the rise of gasoline prices and by the need to reduce air pollution emissions.[44] Before 1995 the only way to have a CNG-powered car was by having it retrofitted with an after-market kit. A large producer was Landi Renzo, Tartarini Auto, Prins Autogassystemen, OMVL, BiGAs,... and AeB for electronic parts used by the most part of kit producer. Landi Renzo and Tartarini selling vehicles in Asia and South America. After 1995 bi-fuel cars (gasoline/CNG) became available from several major manufacturers. Currently Fiat, Opel, Volkswagen, Citron, Renault, Volvo and Mercedes sell various car models and small trucks that are gasoline/CNG powered. Usually CNG parts used by major car manufacturers are actually produced by automotive aftermarket kit manufacturers, e.g. Fiat use Tartarini Auto components, Volkswagen use Teleflex GFI[45] and Landi Renzo components.
+In Belgium CNG is a very new fuel. At the beginning of 2014 there were only 17 refuelling stations, all of them in Flanders, but the number is now increasing rapidly. As of the beginning of 2015 there will be 29 refuelling stations in Belgium, all of them in Flanders.[citation needed] As a fuel and compared to petrol, CNG has an advantageous fiscal treatment with lower excises duties (although VAT is always paid). Since CNG, as a car fuel, is not totally exempted of excise duties, CNG cars do not pay a prime road tax to partially compensate the State for the loss of revenue. Instead LPG cars pay a prime road tax in Belgium, because LPG is totally exempted from excise duties. Since CNG is not totally exempted of excise duties, in Belgium it is allowed to connect a car to the home network of natural gas and to refuel the car from home. The purchase of CNG cars is not subsidised by the government, but by the Belgian producers and distributors of natural gas. Fiat and Volkswagen sell factory-equipped CNG-cars in Belgium. At the end of 2013 there were only 344 cars running with CNG in Belgium.[citation needed]
+CNG powered bus in Germany
+In Germany, CNG-generated vehicles are expected to increase to two million units of motor-transport by the year 2020. The cost for CNG fuel is between 1/3 and 1/2 compared to other fossil fuels in Europe.[citation needed] In 2016 there are around 900 CNG stations in Germany[46] and major German car manufacturers like Volkswagen,Mercedes,Opel,Audi offer CNG engines on most of their models. Augsburg is one of the few cities that only run CNG operated public buses since 2011.[47]
+In Turkey, Ankara municipality is increasingly using CNG buses, where numbers have reached 1090 by 2011.[48] Istanbul has started in 2014 with an order of 110 buses.[49] Konya also added 60 buses to its fleet the same year.[50][51]
+In Portugal there are 340 CNG refueling stations as of May 30, 2016.[52]
+In Hungary there are four public CNG refueling stations in the cities Budapest, Szeged, Pcs and Gyr. The public transportation company of Szeged runs buses mainly on CNG.[citation needed]
+In Bulgaria, there are 96 CNG refueling stations as of July 2011. One can be found in most of Bulgaria's big towns.[53] In the capital Sofia there are 22 CNG stations making it possibly the city with the most publicly available CNG stations in Europe. There are also quite a few in Plovdiv, Ruse, Stara Zagora and Veliko Tarnovo as well as in the towns on the Black Sea  Varna, Burgas, Nesebar and Kavarna. CNG vehicles are becoming more and more popular in the country. The fuel is mostly used by taxi drivers because of its much lower price compared to petrol. Currently (as of July, 2015) the city of Sofia is rapidly renewing its public transport fleet with MAN Lion's City buses running on CNG.[54] Also, many companies switch to CNG cargo vans and even heavy trucks for their daily operations within city limits.
+In Macedonia, there is one CNG station located in the capital Skopje, but it is not for public use. Only twenty buses of the local Public Transport Company have been fitted to use a mixture of diesel and CNG. The first commercial CNG station in Skopje is in the advanced stage of development and is expected to start operation in July 2011.[citation needed]
+In Serbia, there are five public CNG refuelling stations two of which are in the capital Belgrade and the rest in the towns of Panevo, Kruevac and aak.[citation needed]
+In Slovenia, there are two public CNG refuelling station in the capital Ljubljana and in Maribor.[citation needed]
+In Croatia, there is only one CNG station situated close to the center of Zagreb.[55] At least 60 CNG buses are in use as a form of a public transport (Zagreb public transport services).
+In Estonia, there are five public CNG refuelling stations - two in the country's capital Tallinn and the others one in Tartu, Prnu and Narva.[56] From 2011, Tartu has five Scania manufactured CNG buses operating its inner-city routes.[57]
+CNG powered bus in Sweden
+In Sweden there are currently 90 CNG filling stations available to the public (as compared to about 10 LPG filling stations), primarily located in the southern and western parts of the country as well the Mlardalen region[58] Another 70-80 CNG filling stations are under construction or in a late stage of planning (completions 2009-2010). Several of the planned filling stations are located in the northern parts of the country, which will greatly improve the infrastructure for CNG car users.[59] There are approx. 14,500 CNG vehicles in Sweden (2007), of which approx. 13,500 are passenger cars and the remainder includes buses and trucks.[60] In Stockholm, the public transportation company SL currently operates 50 CNG buses but have a capacity to operate 500.[61] The Swedish government recently prolonged its subsidies for the development of CNG filling stations, from 2009-12-31 to 2010-12-31.[62]
+In Spain CNG is a very new fuel and the refueling network is being developed. In Madrid, the EMT, uses 672 buses running with CNG. At the beginning of 2015 there were 35 CNG refueling stations in Spain. Several car brands sell brand-new cars running with CNG, including Fiat, Volkswagen, Seat and Skoda among others.[citation needed]
+As of 2013, there are 47 public CNG filling stations in the Czech Republic, mainly in the big cities.[63] Local bus manufacturers SOR Libchavy and Tedom produce CNG versions of their vehicles, with roof-mounted tanks.
+North America[edit]
+The Honda Civic GX is factory-built to run on CNG and it is available in several U.S. regional markets.
+Buses powered with CNG are common in the United States such as the New Flyer Industries C40LF bus shown here.
+Canada[edit]
+Natural gas has been used as a motor fuel in Canada for over 20 years.[64] With assistance from federal and provincial research programs, demonstration projects and NGV market deployment programs during the 1980s and 1990s, the population of light-duty NGVs grew to over 35,000 by the early 1990s. This assistance resulted in a significant adoption of natural gas transit buses as well.[65]
+The NGV market started to decline after 1995, eventually reaching todays vehicle population of about 12,000.[65]
+This figure includes 150 urban transit buses, 45 school buses, 9,450 light-duty cars and trucks, and 2,400 forklifts and ice-resurfacers. The total fuel use in all NGV markets in Canada was 1.9 PJs (petajoules) in 2007 (or 54.6 million litres of gasoline litres equivalent), down from 2.6 PJs in 1997. Public CNG refuelling stations have declined in quantity from 134 in 1997 to 72 today. There are 22 in British Columbia, 12 in Alberta, 10 in Saskatchewan, 27 in Ontario and two in Qubec. There are only 12 private fleet stations.[19]
+Canadian industry has developed CNG-fueled truck and bus engines, CNG-fueled transit buses, and light trucks and taxis.
+Fuelmaker Corporation of Toronto, the Honda-owned manufacturer of CNG auto refueling units, was forced into bankruptcy by parent Honda USA for an unspecified reason in 2009.[66] The various assets of Fuelmaker were subsequently acquired by Fuel Systems Corporation of Santa Ana, California.
+United States[edit]
+This MARTA Bus is a New Flyer XN40 which runs on CNG. 70% of MARTA's bus fleet is CNG.
+Similar to Canada, the United States has implemented various NGV initiatives and programs since 1980, but has had limited success in sustaining the market. There were 105,000 NGVs in operation in 2000; this figure peaked at 121,000 in 2004, and decreased to 110,000 in 2009.[65]
+In the United States, federal tax credits are available for buying a new CNG vehicle. Use of CNG varies from state to state; only 34 states have at least one CNG fueling site.[67]
+In Texas, Railroad Commissioner David Porter launched his Texas Natural Gas Initiative in October 2013 to encourage the adoption of natural gas fuel in the transportation and exploration and production sectors.[68] As of 2015 Texas is rapidly becoming a leader in natural gas infrastructure in the US with 137 natural gas fueling stations (private and public).[69] Nine months into FY2015 Commissioner Porter reports Texas CNG, LNG Sales Show 78 Percent Increase Over FY 2014 year to date.[70] Per Commissioner Porter[70] in June 2015: Natural gas vehicles are becoming mainstream faster than expected. These collections are nearly double the amount collected last year at this time. At 15 cents per gallon equivalent, $3,033,600 of motor fuel tax equates to the sale of 20,224,000 gallon equivalents of natural gas. The $3 million in Texas natural gas tax receipts is for both CNG and LNG for FY2015 through the May 2015. The Texas fiscal year starts Sept 1 so 9 months tax collections are represented.
+In Athens, Ala., the city and its Gas Department installed a public CNG station on the Interstate 65 Corridor, making it the only public CNG station between Birmingham and Nashville as of February 2014. The city's larger fleet vehicles such as garbage trucks also use this public station for fueling. The city also has two slow-fill non-public CNG stations for its fleet. Athens has added CNG/gasoline Tahoes for police and fire, a CNG Honda Civic, CNG Heil garbage trucks, and CNG/gasoline Dodge pickup trucks to its fleet.
+In California, CNG is used extensively in local city and county fleets, as well as public transportation (city/school buses). There are 90 public fueling stations in southern California alone, and travel from San Diego so the Bay Area to Las Vegas and Utah is routine with the advent of online station maps such as www.cngprices.com. Compressed natural gas is typically available for 30-60 percent less than the cost of gasoline in much of California.
+Gwinnett County Transit Orion VII CNG 029 on the 35 Bus on Peachtree Corners.
+The 28 buses running the Gwinnett County Transit local routes run on 100 percent CNG. Additionally, about half of the Georgia Regional Transportation Authority express fleet, which runs and refuels out of the Gwinnett County Transit facility, uses CNG.[71]
+The Massachusetts Bay Transportation Authority was running 360 CNG buses as early as in 2007, and is the largest user in the state.[72]
+The Metropolitan Transportation Authority (MTA) of New York City currently has over 900 buses powered by compressed natural gas with CNG bus depots located in Brooklyn, The Bronx and Queens.
+The Nassau Inter-County Express (or NICE Bus/formerly New York MTA Long Island Bus) runs a 100% Orion CNG-fueled bus fleet for fixed route service consisting of 360 buses for service in Nassau County, parts of Queens, New York, and the western sections of Suffolk County.
+The City of Harrisburg, Pennsylvania has switched some of the city's vehicles to compressed natural gas in an effort to save money on fuel costs. Trucks used by the city's street and water, sewer and gas departments have been converted from gasoline to CNG.[73]
+Personal use of CNG is a small niche market currently, though with current tax incentives and a growing number of public fueling stations available, it is experiencing unprecedented growth. The state of Utah offers a subsidised statewide network of CNG filling stations at a rate of $1.57/gge,[74] while gasoline is above $4.00/gal.
+ANGI manufacturer In 1983 Sayre Bus of Milton Wisconsin, a regional school bus company, converted their bus fleet, then created ANGI Automotive Natural Gas Incorporated. Specializing in gas/CNG dual fuel conversions of autos, buses, and trucks, they'd built sequential order storage tank cascades, complete compression units for commercial applications. www.angienergy.com 2012, relocated to Janesville, Wisconsin Presently they're building cascades, compression stations.
+Elsewhere in the nation, retail prices average around $2.50/gge, with home refueling units compressing gas from residential gas lines for under $1/gge. Other than aftermarket conversions, and government used vehicle auctions, the only currently[when?] produced CNG vehicle in the United States is the Honda Civic GX sedan, which is made in limited numbers and available only in states with retail fueling outlets.
+An initiative, known as Pickens Plan, calls for the expansion of the use of CNG as a standard fuel for heavy vehicles has been recently started by oilman and entrepreneur T. Boone Pickens. California voters defeated Proposition 10 in the 2008 General Election by a significant (59.8 percent to 40.2 percent) margin. Proposition 10 was a $5 billion bond measure that, among other things, would have given rebates to state residents that purchase CNG vehicles.
+On February 21, 2013, T. Boone Pickens and New York Mayor, Michael Bloomberg unveiled a CNG powered mobile pizzeria. The company, Neapolitan Express uses alternative energy to run the truck as well as 100 percent recycled and compostable materials for their carryout boxes.[75]
+Congress has encouraged conversion of cars to CNG with a tax credits of up to 50 percent of the auto conversion cost and the CNG home filling station cost. However, while CNG is much cleaner fuel, the conversion requires a type certificate from the EPA. Meeting the requirements of a type certificate can cost up to $50,000. Other non-EPA approved kits are available. A complete and safe aftermarket conversion using a non-EPA approved kit can be achieved for as little as $400 without the cylinder.[76]
+Oceania[edit]
+K230UB CNG bus currently used as part of the "Scania Koala CNG Bus Trial" at ACTION in Canberra.
+During the 1970s and 1980s, CNG was commonly used in New Zealand in the wake of the oil crises, but fell into decline after petrol prices receded. At the peak of natural gas use, 10 percent of New Zealand's cars were converted, around 110,000 vehicles.[77]
+A Mercedes-Benz OC500LE (with Custom Coaches bodywork) running on CNG, operated by Sydney Buses in Sydney, Australia.
+For a period of time, Brisbane Transport in Queensland, Australia adopted a policy of purchasing only CNG buses. Brisbane Transport has 215 Scania L94UB and 324 MAN 18.310 models as well as 30 MAN NG 313 articulated CNG buses. The State Transit Authority of New South Wales (operating under the name "Sydney Buses") operates 100 Scania L113CRB buses, 299 Mercedes-Benz O405NH buses and 254 Euro 5-compliant Mercedes-Benz OC500LE buses.[78]
+In the 1990s Benders Busways of Geelong, Victoria trialled CNG buses for the Energy Research and Development Corporation.[79]
+Martin Ferguson, Ollie Clark and Noel Childs featured on ABC 7.30 Report raised the issue of CNG as an overlooked transport fuel option in Australia, highlighting the large volumes of LNG currently being exported from the North West Shelf in light of the cost of importing crude oil to Australia.[80]
+Deployments[edit]
+AT&T ordered 1,200 CNG-powered cargo vans from General Motors in 2012. It is the largest-ever order of CNG vehicles from General Motors to date.[81] AT&T has announced its intention to invest up to $565 million to deploy approximately 15,000 alternative fuel vehicles over a 10-year period through 2018, will use the vans to provide and maintain communications, high-speed Internet and television services for AT&T customers.[82]
+See also[edit]
+Wikimedia Commons has media related to Compressed natural gas.
+Liquefied natural gas (LNG)
+References[edit]
+^ Mumtaz Alvi (2011-06-03). "Pakistan has highest number of CNG vehicles: survey". Thenews.com.pk.
+^ a b c d e f g h i "Natural Gas Vehicle Statistics: NGV Count - Ranked Numerically as at December 2009". International Association for Natural Gas Vehicles. Archived from the original on 2010-01-10. Retrieved 2010-04-27.
+^ "Market Studies Series, GNC" (PDF). Consulate of the Argentinian Republic, Mumbai, 2009, in Spanish. Retrieved 2011-01-03.
+^ "Archived copy". Archived from the original on 2013-12-14. Retrieved 2013-12-14.
+^ "Liquefied Petroleum Gas (LPG), Liquefied Natural Gas (LNG) and Compressed Natural Gas (CNG)". Envocare.co.uk. Retrieved 15 May 2015.
+^ a b "Facts about Natural Gas Vehicles". Ngvc.org. Retrieved 2016-07-17.
+^ "2003 GMC K1500 Sierra CNG Conversion in North Olmsted". Weberautomotive.com. 2013-10-01. Retrieved 2016-07-17.
+^ "Gas South: Compressed Natural Gas". www.gas-south.com. Retrieved 2016-03-31.
+^ "Chugging along: After 13 years, Napa Valley Wine Train rolls to a profit - Jim Doyle - November 22, 2002". The San Francisco Chronicle. 2002-11-22. Retrieved 2008-11-09.
+^ "Napa Valley Wine Train Tests CNG Locomotive - Tech.Winetrain - May 15, 2008". Archived from the original on 2009-03-09. Retrieved 2008-08-20.
+^ "The First CNG Train Starts Functioning in Peru - Paula Alvarado - June 21, 2005". Retrieved 2008-08-20.
+^ a b "Archived copy". Archived from the original on 2009-12-31. Retrieved 2009-10-25.
+^ "How Safe are Natural Gas Vehicles?" (PDF). Clean Vehicle Education Foundation. Retrieved 2008-05-08.
+^ "How Safe is Natural Gas?". Alternativefuels.about.com. Retrieved 2008-05-08.
+^ "Fighting CNG fires" (PDF). Firetrainingsources.net. Retrieved 2008-05-08.
+^ "Archived copy". Archived from the original on 2012-11-17. Retrieved 2012-11-25.[bettersourceneeded]
+^ "Table 6. Carbon Intensity Lookup Table for Gasoline and Fuels that Substitute for Gasoline." (PDF). Arb.ca.gov. Retrieved 2016-07-17.
+^ Gravesen, Christian Hedegaard. "Mleprogram for tunge CNG-kretjer" page 58. EUDP journal: 64011-0330. Danish Technological Institute, October 2015. Quote: "Energy consumption was generally higher on CNG"
+^ a b "Natural Gas Use in the Canadian Transportation Sector" (PDF). Oee.nrcan.gc.ca. Retrieved 2016-07-17.
+^ "ISO - Technical committees - ISO/PC 252 - Natural gas fuelling stations for vehicles". Iso.org. Retrieved 15 May 2015.
+^ "ISO 14469-2:2007 - Road vehicles -- Compressed natural gas (CNG) refuelling connector -- Part 2: 20 MPa (200 bar) connector, size 2". Iso.org. Retrieved 15 May 2015.
+^ "ISO 15500-9:2012 - Road vehicles -- Compressed natural gas (CNG) fuel system components -- Part 9: Pressure regulator". Iso.org. Retrieved 15 May 2015.
+^ "nsf.gov - National Science Foundation (NSF) News - From Farm Waste to Fuel Tanks - US National Science Foundation (NSF)". Nsf.gov. Retrieved 15 May 2015.
+^ "Metal-Organic Framework from an Anthracene Derivative Containing Nanoscopic Cages Exhibiting High Methane Uptake" (PDF). Pubs.acs.org. Retrieved 2016-07-17.
+^ "HYDROGEN ENRICHED COMPRESSED NATURAL GAS  A FUTURISTIC FUEL FOR INTERNAL COMBUSTION ENGINES" (PDF). Doiserbia.nb.rs. Retrieved 2016-07-17.
+^ "NGV Market Growth 2013 Analysis". Wuxi Banner Vessel. Retrieved 15 May 2015.
+^ "Archived copy". Archived from the original on 2013-08-09. Retrieved 2014-01-07.
+^ a b c d e R. Fernandes (2008-08-20). "Latin America NGVs: An Update Report". International Association of Natural Gas Vehicles. Retrieved 2008-10-11.[dead link]
+^ GNVNews (November 2006). "Montadores Investem nos Carros  GNV" (in Portuguese). Institutio Brasileiro de Petroleo e Gas. Retrieved 2008-09-20.
+^ "Archived copy". Archived from the original on 2011-05-01. Retrieved 2008-09-20.
+^ "People's Daily Online - Over 10,000 motor vehicles converted into CNG-run in previous Myanmar capital". English.people.com.cn. 2007-02-06. Retrieved 2016-07-17.
+^ "More natural gas stations needed, say motorists". The Star Online. 2008-06-13. Retrieved 2008-08-04.
+^ a b Rashvinjeet S. Bedi (2008-06-08). "Motorists rush to check out NGV system". The Star Online. Retrieved 2008-08-04.
+^ Vinesh, Derrick (2008-06-25). "Long queue for NGV kits". The Star Online. Retrieved 2008-08-04.
+^ "Proton cars to come with NGV kits". The Star Online. 2008-06-28. Retrieved 2008-08-04.
+^ Elaine Ang and Leong Hung Yee (2008-07-07). "Moving towards hybrid vehicles". The Star Online. Retrieved 2008-08-04.
+^ Perumal, Elan (2008-06-13). "Rush to fit natural gas gadget". The Star Online. Retrieved 2008-08-04.
+^ "Plan to close down CNG sector raises eyebrows". The News International, Pakistan. 1 August 2012. Retrieved 15 May 2015.
+^ "CNG stations to be phased out: Dr Asim". The News International, Pakistan. 30 July 2012. Retrieved 15 May 2015.
+^ http://financialtribune.com/articles/energy/44382/cng-stations-top-2380-march
+^ http://financialtribune.com/articles/economy-auto/32408/iran-gas-vehicle-market-projections
+^ Allen, Robin (1999-05-11). "New fuel cleans up: CNG: Compressed natural gas is rapidly gaining popularity with drivers; Surveys edition". Financial Times. p.17.
+^ "Dal 2005 la comunit italiana del metano per auto". Metanoauto.com (in Italian). Retrieved 2016-07-17.
+^ "Archived copy" (PDF). Archived from the original (PDF) on 2012-03-22. Retrieved 2011-04-17.
+^ "Archived copy". Archived from the original on 2008-08-03. Retrieved 2008-08-01.
+^ "gibgas - Erdgasfahrzeuge, Erdgastankstellen, www.gibgas.de - Das Erdgasfahrzeug-Portal". Gibgas.de. 2014-01-07. Retrieved 2016-07-17.
+^ "swa investierten 5,2 Millionen Euro in 13 neue Erdgasbusse - Augsburg - B4B SCHWABEN". B4bschwaben.de. 2015-12-21. Retrieved 2016-07-17.
+^ "Ankara, EGO". Bus-planet.com. Retrieved 15 May 2015.
+^ "Turkey: TEMSA delivers 110 new natural gas buses to Istanbul Otobs". NGV Journal. Retrieved 2016-07-17.
+^ April 29, 2014 (2014-04-29). "Konya Metro Adds 60 CNG-Powered TCV Karat Buses". NGV Global. Retrieved 2016-07-17.
+^ "Turkey's Bozankaya supplies 60 buses to Konya municipality - SeeNews - Business intelligence for Southeast Europe". Wire.seenews.com. 2014-02-18. Retrieved 2016-07-17.
+^ "Autogas.Pt - Abastecimento GPL em Portugal e Espanha". Mapa.autogas.pt. Retrieved 2016-07-17.
+^ "Remix Bulgaria Ltd - exclusive representative of the Italian companies SICOM and BRC , methane stations, producing full range of stations , building and putting in operation of methane stations". Remixbg.com. Retrieved 15 May 2015.
+^ "Bulgaria: MAN wins tender to deliver 126 CNG buses to Sofia transit agency | NGV Journal". www.backup.ngvjournal.com. Retrieved 2015-06-30.
+^ CNGPrices. "CNGPrices.com - Home". Cngprices.com. Retrieved 15 May 2015.
+^ "Archived copy". Archived from the original on 2011-06-29. Retrieved 2012-12-27.
+^ [1][dead link]
+^ Gasfreningen. "Gasol och skerhet, del 2 | Gasfreningen". Gasforeningen.se. Retrieved 2016-07-17.
+^ "Archived copy" (PDF). Archived from the original (PDF) on 2009-02-07. Retrieved 2008-12-07.
+^ "Svenska Gasfreningen r en branschorganisation fr energigaser" (JPG). Gasforeningen.se (in Swedish). Retrieved 2016-07-17.
+^ "Archived copy". Archived from the original on 2011-07-25. Retrieved 2008-12-07.
+^ "Stdet till etablerandet av biogasmackar frlngs | Industrinyheter.se". Branschnyheter.se. 2008-11-28. Retrieved 2016-07-17.
+^ "European NGV Statistics". Ngvaeurope.eu. Retrieved 15 May 2015.
+^ "NATURAL GAS VEHICLES IN ALBERTA" (PDF). Transportation.alberta.ca. Retrieved 2016-07-17.
+^ a b c "Archived copy". Archived from the original on 2010-01-10. Retrieved 2010-04-27.
+^ "BREAKING STORY: Honda Suddenly Kills Fuelmaker In Stunning Move That Outrages CNG Movement". Theautochannel.com. Retrieved 15 May 2015.
+^ "CNG Fueling Sites - Compressed Natural Gas Fueling Locations". Cnglocator.net. Retrieved 15 May 2015.
+^ "Texas RRC - RRC Commissioner Porter: Natural Gas Fueling Stations Up 50 Percent Additional Fueling Stations Creating Corridor for Alternate Transportation Fuel". Rrc.state.tx.us. Retrieved 2016-07-17.
+^ "Natural Gas Refueling in Texas: Map". Rrc.texas.gov. Retrieved 2016-07-17.
+^ a b "Texas RRC - RRC Commissioner Porter: Texas CNG, LNG Sales Show 78 Percent Increase Over FY 2014". Rrc.texas.gov. 2010-11-02. Retrieved 2016-07-17.
+^ "Gwinnett County Transit". Gwinnettcounty.com. Retrieved 15 May 2015.
+^ RDVO, Inc. "MBTA > About the MBTA > News & Events". Mbta.com. Retrieved 15 May 2015.
+^ "City of Harrisburg switches city trucks, police car, to compressed natural gas". CNGnow.com. Retrieved 15 May 2015.
+^ "Natural Gas Prices in the US". Retrieved 2013-10-23.
+^ http://www.nydailynews.com/new-york/city-neapolitan-express-unveil-eco-friendly-food-truck-article-1.1270160
+^ "YounkinCNG.com". Younkincng.com. Retrieved 2016-07-17.
+^ Sperling, Daniel and Deborah Gordon (2009). "Two billion cars: driving toward sustainability". Oxford University Press, New York: 4243. ISBN978-0-19-537664-7.
+^ "Mercedes-Benz OC500LE - CNG". Sydney Buses. New South Wales Government. Archived from the original on December 2, 2008. Retrieved 28 August 2010.
+^ "NGV Bus Demonstration - H Bender - December 1993" (PDF). Retrieved 2007-07-26.
+^ "Natural gas: the future of fuel?". The 7.30 Report. Australian Broadcasting Corporation. 29 April 2008. Retrieved 28 August 2010.
+^ "AT&T Orders 1,200 CNG-powered Chevrolet Express Vans". media.gm.com. Retrieved 15 May 2015.
+^ "AT&T Press Release Headlines & News from AT&T". Att.com. Retrieved 15 May 2015.
+v
+t
+e
+Fuel gas
+Types
+Manufactured fuel gas
+(History)
+Coal gas
+Coal gasification
+Underground coal gasification
+Biogas
+Blast furnace gas
+Blau gas
+Gasification
+Landfill gas
+Mond gas
+Pintsch gas
+Producer gas
+Regasification
+Syngas
+Water gas
+Wood gas
+Natural gas
+APG
+CBM
+CNG
+HCNG
+LNG
+NGC
+SNG
+Bio-SNG
+LPG
+Autogas
+Butane
+Propane
+Infrastructure
+Compressor station
+Gas carrier
+Gas holder
+Gas meter
+Gasworks
+Natural-gas processing
+Natural gas storage
+Odorizer
+Pipeline transport
+Uses
+Bunsen burner
+Gas burner
+Gas engine
+Gas heater
+Gas lighting
+Gas mantle
+Gas stove
+Gas turbine
+Pilot light
+v
+t
+e
+Motor fuels
+Fuel types
+Gasoline/petrol
+Diesel
+Biodiesel
+Lead Replacement Petrol
+Kerosene
+Compressed natural gas
+Hydrogen
+Ethanol
+Butanol fuel
+Racing fuel (Tetraethyllead)
+Fuel additives
+Butyl rubber
+Butylated hydroxytoluene
+1,2-Dibromoethane
+1,2-Dichloroethane
+Dimethyl methylphosphonate
+2,4-Dimethyl-6-tert-butylphenol
+Dinonylnaphthylsulfonic acid
+2,6-Di-tert-butylphenol
+Ecalene
+Ethylenediamine
+Metal deactivator
+Methyl tert-butyl ether
+Nitromethane
+Tetraethyllead
+Tetranitromethane
+Fluids
+Motor oil
+Antifreeze
+Automatic transmission fluid
+Brake fluid
+Gear oil
+Windshield washer fluid
+Retail
+Fuel card
+Full service
+MTBE controversy
+Pay at the pump
+v
+t
+e
+Alternative fuel vehicles
+Compressed-air engine
+Compressed air car
+Compressed-air vehicle
+Electric motor
+Battery-electric locomotive
+Battery electric vehicle
+Cater MetroTrolley
+Electric aircraft
+Electric bicycle
+Pedelec
+Electric boat
+Electric car
+Electric platform truck
+Electric vehicle
+Electric motorcycles and scooters
+Gyro flywheel locomotive
+Hybrid electric vehicle
+Hybrid train
+Motorized bicycle
+Neighborhood Electric Vehicle
+Plug-in electric vehicle
+Plug-in hybrid electric vehicle
+Solar vehicle
+Biofuel ICE
+Alcohol fuel
+Biodiesel
+Biogas
+Butanol fuel
+Common ethanol fuel mixtures
+E85
+Ethanol fuel
+Flexible-fuel vehicle
+Methanol economy
+Methanol fuel
+Wood gas
+Hydrogen
+Fuel cell vehicle
+Hydrogen economy
+Hydrogen vehicle
+Hydrogen internal combustion engine vehicle
+Others
+Autogas
+Hybrid electric vehicle
+Liquid nitrogen vehicle
+Natural gas vehicle
+Propane
+Steam car
+Multiple-fuel
+Bi-fuel vehicle
+Flexible-fuel vehicle
+Hybrid vehicle
+Multifuel
+Plug-in hybrid
+Documentaries
+Who Killed the Electric Car?
+What Is the Electric Car?
+Revenge of the Electric Car
+See also
+Wind-powered land vehicle
+Zero-emissions vehicle
+Saved in parser cache with key enwiki:pcache:idhash:863704-0!*!0!!en!4!* and timestamp 20161111053711 and revision id 748922112
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Compressed_natural_gas&oldid=748922112"
+Categories: Natural gasFuel gasHidden categories: All articles lacking reliable referencesArticles lacking reliable references from November 2015All articles with dead external linksArticles with dead external links from June 2016CS1 Portuguese-language sources (pt)CS1 Italian-language sources (it)Articles with dead external links from July 2016CS1 Swedish-language sources (sv)All articles with unsourced statementsArticles with unsourced statements from August 2009Articles with unsourced statements from November 2014Articles with unsourced statements from October 2007Articles with unsourced statements from February 2013Vague or ambiguous time from October 2012Commons category with local link same as on Wikidata

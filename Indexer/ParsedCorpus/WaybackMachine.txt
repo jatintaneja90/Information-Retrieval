@@ -1,0 +1,308 @@
+WaybackMachine
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}For help citing the Wayback Machine in the English Wikipedia, see Wikipedia:Using the Wayback Machine.
+Not to be confused with WABAC machine or Time machine.
+Wayback Machine
+Wayback Machine logo, used since November 2001
+Screenshot
+Homepage as of November 2015
+Type of site
+Archive
+Owner
+Internet Archive
+Website
+web.archive.org
+Alexa rank
+262 (as of November 2016)[1]
+Registration
+Optional
+Launched
+October24, 2001; 15 years ago(2001-10-24)[2][3]
+Currentstatus
+Active
+Writtenin
+C, Perl
+The Wayback Machine is a digital archive of the World Wide Web and other information on the Internet created by the Internet Archive, a nonprofit organization, based in San Francisco, California, United States. The Internet Archive launched the Wayback Machine in October 2001.[4][5] It was set up by Brewster Kahle and Bruce Gilliat, and is maintained with content from Alexa Internet. The service enables users to see archived versions of web pages across time, which the archive calls a "three dimensional index".
+Since 1996, the Wayback Machine has been archiving cached pages of websites onto its large cluster of Linux nodes. It revisits sites every few weeks or months and archives a new version. Sites can also be captured on the fly by visitors who enter the site's URL into a search box. The intent is to capture and archive content that otherwise would be lost whenever a site is changed or closed down. The grand vision of the machine's creators is to archive the entire Internet.[6]
+The name Wayback Machine was chosen as a droll reference to a plot device in an animated cartoon, The Rocky and Bullwinkle Show. In one of the animated cartoon's component segments, Peabody's Improbable History, lead characters Mr. Peabody and Sherman routinely used a time machine called the "WABAC machine" (pronounced way-back) to witness, participate in, and, more often than not, alter famous events in history.[7][8]
+Contents
+1 History
+1.1 Origins
+1.2 Storage capabilities
+1.3 Growth
+2 Use in legal evidence
+2.1 Civil litigation
+2.1.1 Netbula LLC v. Chordiant Software Inc.
+2.1.2 Telewizja Polska
+2.2 Patent law
+2.3 Limitations of utility
+3 Legal status
+4 Archived content legal issues
+4.1 Scientology
+4.2 Healthcare Advocates, Inc.
+4.3 Suzanne Shell
+4.4 Daniel Davydiuk
+5 Search engine links
+6 See also
+7 References
+8 External links
+History[edit]
+Origins[edit]
+In 1996 Brewster Kahle, with Bruce Gilliat, developed software to crawl and download all publicly accessible World Wide Web pages, the Gopher hierarchy, the Netnews (Usenet) bulletin board system, and downloadable software.[9] The information collected by these "crawlers" does not include all the information available on the Internet, since much of the data is restricted by the publisher or stored in databases that are not accessible. These "crawlers" also respect the robots exclusion standard for websites whose owners opt for them not to appear in search results or be cached. To overcome inconsistencies in partially cached websites, Archive-It.org was developed in 2005 by the Internet Archive as a means of allowing institutions and content creators to voluntarily harvest and preserve collections of digital content, and create digital archives.
+Information had been kept on digital tape for five years, with Kahle occasionally allowing researchers and scientists to tap into the clunky database.[10] When the archive reached its fifth anniversary, it was unveiled and opened to the public in a ceremony at the University of California, Berkeley.
+Snapshots usually become available more than six months after they are archived or, in some cases, even later; it can take twenty-four months or longer.[11] The frequency of snapshots is variable, so not all tracked website updates are recorded. Sometimes there are intervals of several weeks or years between snapshots.
+After August 2008 sites had to be listed on the Open Directory in order to be included.[12] According to Jeff Kaplan of the Internet Archive in November 2010, other sites were still being archived,[13] but more recent captures would become visible only after the next major indexing, an infrequent operation.
+Storage capabilities[edit]
+As of 2009[update], the Wayback Machine contained approximately three petabytes of data and was growing at a rate of 100 terabytes each month;[14] the growth rate reported in 2003 was 12 terabytes/month. The data is stored on PetaBox rack systems manufactured by Capricorn Technologies.[15]
+In 2009, the Internet Archive migrated its customized storage architecture to Sun Open Storage, and hosts a new data center in a Sun Modular Datacenter on Sun Microsystems' California campus.[16]
+In 2011 a new, improved version of the Wayback Machine, with an updated interface and fresher index of archived content, was made available for public testing.[17]
+In March 2011, it was said on the Wayback Machine forum that "The Beta of the new Wayback Machine has a more complete and up-to-date index of all crawled materials into 2010, and will continue to be updated regularly. The index driving the classic Wayback Machine only has a little bit of material past 2008, and no further index updates are planned, as it will be phased out this year".[18]
+In January 2013, the company announced a ground-breaking milestone of 240 billion URLs.[19]
+In October 2013, the company announced the "Save a Page" feature[20] which allows any Internet user to archive the contents of a URL. This became a threat of abuse by the service for hosting malicious binaries.[21][22]
+As of December 2014[update], the Wayback Machine contained almost nine petabytes of data and was growing at a rate of about 20 terabytes each week.[23]
+Growth[edit]
+Between October 2013 and March 2015 the website's global Alexa rank changed from 162[24] to 208.[25]
+Wayback Machine growth[26][27][28][29][30][31][32][33][34][35][36]
+Year
+Pages archived (billion)
+2005
+40
+2008
+85
+2012
+150
+2013
+373
+2014
+400
+2015
+452
+Use in legal evidence[edit]
+Civil litigation[edit]
+Netbula LLC v. Chordiant Software Inc.[edit]
+In a 2009 case, Netbula, LLC v. Chordiant Software Inc., defendant Chordiant filed a motion to compel Netbula to disable the robots.txt file on its website that was causing the Wayback Machine to retroactively remove access to previous versions of pages it had archived from Netbula's site, pages that Chordiant believed would support its case.[37]
+Netbula objected to the motion on the ground that defendants were asking to alter Netbula's website and that they should have subpoenaed Internet Archive for the pages directly.[38] An employee of Internet Archive filed a sworn statement supporting Chordiant's motion, however, stating that it could not produce the web pages by any other means "without considerable burden, expense and disruption to its operations."[37]
+Magistrate Judge Howard Lloyd in the Northern District of California, San Jose Division, rejected Netbula's arguments and ordered them to disable the robots.txt blockage temporarily in order to allow Chordiant to retrieve the archived pages that they sought.[37]
+Telewizja Polska[edit]
+In an October 2004 case, Telewizja Polska USA, Inc. v. Echostar Satellite, No. 02 C 3293, 65 Fed. R. Evid. Serv. 673 (N.D. Ill. Oct. 15, 2004), a litigant attempted to use the Wayback Machine archives as a source of admissible evidence, perhaps for the first time. Telewizja Polska is the provider of TVP Polonia and EchoStar operates the Dish Network. Prior to the trial proceedings, EchoStar indicated that it intended to offer Wayback Machine snapshots as proof of the past content of Telewizja Polska's website. Telewizja Polska brought a motion in limine to suppress the snapshots on the grounds of hearsay and unauthenticated source, but Magistrate Judge Arlander Keys rejected Telewizja Polska's assertion of hearsay and denied TVP's motion in limine to exclude the evidence at trial.[39][40] At the trial, however, district Court Judge Ronald Guzman, the trial judge, overruled Magistrate Keys' findings,[citation needed] and held that neither the affidavit of the Internet Archive employee nor the underlying pages (i.e., the Telewizja Polska website) were admissible as evidence. Judge Guzman reasoned that the employee's affidavit contained both hearsay and inconclusive supporting statements, and the purported web page printouts were not self-authenticating.[citation needed]
+Patent law[edit]
+Main article: Internet as a source of prior art
+Provided some additional requirements are met (e.g. providing an authoritative statement of the archivist), the United States patent office and the European Patent Office will accept date stamps from the Internet Archive as evidence of when a given Web page was accessible to the public. These dates are used to determine if a Web page is available as prior art for instance in examining a patent application.[41]
+Limitations of utility[edit]
+There are technical limitations to archiving a website, and as a consequence, it is possible for opposing parties in litigation to misuse the results provided by website archives. This problem can be exacerbated by the practice of submitting screen shots of web pages in complaints, answers, or expert witness reports, when the underlying links are not exposed and therefore, can contain errors. For example, archives such as the Wayback Machine do not fill out forms and therefore, do not include the contents of non-RESTful e-commerce databases in their archives.[42]
+Legal status[edit]
+In Europe the Wayback Machine could be interpreted as violating copyright laws. Only the content creator can decide where their content is published or duplicated, so the Archive would have to delete pages from its system upon request of the creator.[43] The exclusion policies for the Wayback Machine may be found in the FAQ section of the site. The Wayback Machine also retroactively respects robots.txt files, i.e., pages that currently are blocked to robots on the live web temporarily will be made unavailable from the archives as well.
+Archived content legal issues[edit]
+A number of cases have been brought against the Internet Archive specifically for its Wayback Machine archiving efforts.
+Scientology[edit]
+See also: Scientology and the Internet
+In late 2002, the Internet Archive removed various sites that were critical of Scientology from the Wayback Machine.[44] An error message stated that this was in response to a "request by the site owner."[45] Later, it was clarified that lawyers from the Church of Scientology had demanded the removal and that the site owners did not want their material removed.[46]
+Healthcare Advocates, Inc.[edit]
+In 2003, Harding Earley Follmer & Frailey defended a client from a trademark dispute using the Archive's Wayback Machine. The attorneys were able to demonstrate that the claims made by the plaintiff were invalid, based on the content of their website from several years prior. The plaintiff, Healthcare Advocates, then amended their complaint to include the Internet Archive, accusing the organization of copyright infringement as well as violations of the DMCA and the Computer Fraud and Abuse Act. Healthcare Advocates claimed that, since they had installed a robots.txt file on their website, even if after the initial lawsuit was filed, the Archive should have removed all previous copies of the plaintiff website from the Wayback Machine.[47] The lawsuit was settled out of court.[48]
+Robots.txt is used as part of the Robots Exclusion Standard, a voluntary protocol the Internet Archive respects that disallows bots from indexing certain pages delineated by its creator as off-limits. As a result, the Internet Archive has rendered unavailable a number of websites that now are inaccessible through the Wayback Machine. Currently, the Internet Archive applies robots.txt rules retroactively; if a site blocks the Internet Archive, such as Healthcare Advocates, any previously archived pages from the domain are rendered unavailable as well. In cases of blocked sites, only the robots.txt file is archived.
+The Internet Archive states, however, "Sometimes a website owner will contact us directly and ask us to stop crawling or archiving a site. We comply with these requests."[49] In addition, the website says: "The Internet Archive is not interested in preserving or offering access to Web sites or other Internet documents of persons who do not want their materials in the collection."[50]
+Suzanne Shell[edit]
+In December 2005, activist Suzanne Shell filed suit demanding Internet Archive pay her US $100,000 for archiving her website profane-justice.org between 1999 and 2004.[51][52] Internet Archive filed a declaratory judgment action in the United States District Court for the Northern District of California on January 20, 2006, seeking a judicial determination that Internet Archive did not violate Shell's copyright. Shell responded and brought a countersuit against Internet Archive for archiving her site, which she alleges is in violation of her terms of service.[53] On February 13, 2007, a judge for the United States District Court for the District of Colorado dismissed all counterclaims except breach of contract.[52] The Internet Archive did not move to dismiss copyright infringement claims Shell asserted arising out of its copying activities, which would also go forward.[54]
+On April 25, 2007, Internet Archive and Suzanne Shell jointly announced the settlement of their lawsuit.[51] The Internet Archive said it "...has no interest in including materials in the Wayback Machine of persons who do not wish to have their Web content archived. We recognize that Ms. Shell has a valid and enforceable copyright in her Web site and we regret that the inclusion of her Web site in the Wayback Machine resulted in this litigation." Shell said, "I respect the historical value of Internet Archive's goal. I never intended to interfere with that goal nor cause it any harm."[55]
+Daniel Davydiuk[edit]
+In 201314 a pornographic actor was trying to remove archived images of himself, first by sending multiple DMCA requests to the Archive and then in the Federal Court of Canada.[56][57]
+Search engine links[edit]
+In 2005, Yahoo! Search began to provide links to other versions of pages archived on the Wayback Machine.[58]
+See also[edit]
+Heritrix
+Memory hole
+WebCite
+Web archiving
+References[edit]
+^ "Archive.org Site Info". Alexa Internet. Archived from the original on 3 August 2016. Retrieved 18 June 2016.
+^ "WayBackMachine.org WHOIS, DNS, & Domain Info  DomainTools". WHOIS. Retrieved 2016-03-13.
+^ "InternetArchive.org WHOIS, DNS, & Domain Info  DomainTools". WHOIS. Retrieved 2016-03-13.
+^ "Internet Archive launches WayBack Machine". Online Burma Library. 2001-10-25. Retrieved 2016-03-13.
+^ "The Internet Archive: Building an 'Internet Library'". Internet Archive. 2001-11-30. Archived from the original on November 30, 2001. Retrieved 2016-03-14.
+^ "Archive.org or Wayback Machine". cachedpages.net. Retrieved 2 December 2014.
+^ Green, Heather (February 28, 2002). "A Library as Big as the World". BusinessWeek. Retrieved 2007-07-29.
+^ TONG, JUDY (September 8, 2002). "RESPONSIBLE PARTY  BREWSTER KAHLE; A Library Of the Web, On the Web". New York Times. Retrieved 15 August 2011.
+^ Kahle, Brewster. "Archiving the Internet". Scientific American  March 1997 Issue. Retrieved 19 August 2011.
+^ Cook, John (November 1, 2001). "Web site takes you way back in Internet history". Seattle Post-Intelligencer. Retrieved 15 August 2011.
+^ "Internet Archive's Wayback Machine". SEJ. Retrieved 2016-02-26.
+^ "Internet Archive FAQ". Archive.org. Retrieved 2014-04-16.
+^ Archive.org forum thread with response by Jeff Kaplan, last update November 07, 2010
+^ Mearian, Lucas (March 19, 2009). "Internet Archive to unveil massive Wayback Machine data center". Computerworld.com. Retrieved 2009-03-22.
+^ Kanellos, Michael (July 29, 2005). "Big storage on the cheap". CNET News.com. Archived from the original on 2007-04-03. Retrieved 2007-07-29.
+^ "Internet Archive and Sun Microsystems Create Living History of the Internet". Sun Microsystems. March 25, 2009. Retrieved 2009-03-27.
+^ "Updated Wayback Machine in Beta Testing". Archive.org. Retrieved 19 August 2011.
+^ "Beta Wayback Machine, in forum". Archive.org. Retrieved 2014-04-16.
+^ "Wayback Machine: Now with 240,000,000,000 URLs | Internet Archive Blogs". Blog.archive.org. 2013-01-09. Retrieved 2014-04-16.
+^ Rossi, Alexis (2013-10-25). "Fixing Broken Links on the Internet". archive.org. San Francisco, CA, US: Collections Team, the Internet Archive. Archived from the original on 2014-11-07. Retrieved 2015-03-25. We have added the ability to archive a page instantly and get back a permanent URL for that page in the Wayback Machine. This service allows anyone  wikipedia editors, scholars, legal professionals, students, or home cooks like me  to create a stable URL to cite, share or bookmark any information they want to still have access to in the future.
+^ The VirusTotal Team (2015-03-25). "207.241.226.190 IP address information". virustotal.com. Dublin 2, Ireland: VirusTotal. Archived from the original on 2014-07-14. Retrieved 2015-03-25. 2015-03-25: Latest URLs hosted in this IP address detected by at least one URL scanner or malicious URL dataset. ... 2/62 2015-03-25 16:14:12 [complete URL redacted]/Renegotiating_TLS.pdf ... 1/62 2015-03-25 04:46:34 [complete URL redacted]/CBLightSetup.exe
+^ Advisory provided by Google (2015-03-25). "Safe Browsing Diagnostic page for archive.org". google.com/safebrowsing. Mountain View, CA, US: Google. Retrieved 2015-03-25. 2015-03-25: Part of this site was listed for suspicious activity 138 time(s) over the past 90 days. ... What happened when Google visited this site? ... Of the 42410 pages we tested on the site over the past 90 days, 450 page(s) resulted in malicious software being downloaded and installed without user consent. The last time Google visited this site was on 2015-03-25, and the last time suspicious content was found on this site was on 2015-03-25. ... Malicious software includes 169 trojan(s), 126 virus, 43 backdoor(s).
+^ "Internet Archive Frequently Asked Questions". Retrieved 2015-01-17.
+^ "Archive.org Site Info". Alexa Internet. Archived from the original on 2013-10-28. Retrieved 2013-10-29.
+^ "Archive.org Site Overview". Alexa Internet. Archived from the original on 2015-04-09. Retrieved 2015-04-09.
+^ "Internet Archive Wayback Machine". Internet Archive. Archived from the original on 2005-12-31. Retrieved 2015-03-25.
+^ "Internet Archive Wayback Machine". Internet Archive. Archived from the original on 2006-12-28. Retrieved 2015-03-25.
+^ "Internet Archive Wayback Machine". Internet Archive. Archived from the original on 2007-12-28. Retrieved 2015-03-25.
+^ "Internet Archive Wayback Machine". Internet Archive. Archived from the original on 2008-12-24. Retrieved 2015-03-25.
+^ "Internet Archive Wayback Machine". Internet Archive. Archived from the original on 2009-12-20. Retrieved 2015-03-25.
+^ "Internet Archive Wayback Machine". Internet Archive. Archived from the original on 2010-12-30. Retrieved 2015-03-25.
+^ "Internet Archive Wayback Machine". Internet Archive. Archived from the original on 2011-08-30. Retrieved 2015-03-25.
+^ "Internet Archive Wayback Machine". Internet Archive. Archived from the original on 2012-12-31. Retrieved 2015-03-25.
+^ "Internet Archive Wayback Machine". Internet Archive. Archived from the original on 2013-12-31. Retrieved 2015-03-25.
+^ michelle (2014-05-09). "Wayback Machine Hits 400,000,000,000!". Internet Archive. Archived from the original on 2014-08-26. Retrieved 2015-03-25.
+^ "Internet Archive Wayback Machine". Internet Archive. Archived from the original on 2015-02-13. Retrieved 2015-03-25.
+^ a b c LLoyd, Howard (October 2009). "Order to Disable Robots.txt" (PDF). Retrieved 2009-10-15.
+^ Cortes, Antonio (October 2009). "Motion Opposing Removal of Robots.txt". Retrieved 2009-10-15.
+^ Gelman, Lauren (November 17, 2004). "Internet Archive's Web Page Snapshots Held Admissible as Evidence". Packets. 2 (3). Retrieved 2007-01-04.
+^ Howell, Beryl A. (February 2006). "Proving Web History: How to use the Internet Archive" (PDF). Journal of Internet Law: 39. Retrieved 2008-08-06.
+^ Wynn W. Coggins (Fall 2002). "Prior Art in the Field of Business Method Patents  When is an Electronic Document a Printed Publication for Prior Art Purposes?". USPTO.
+^ "Debunking the Wayback Machine". Archived from the original on 29 June 2010.
+^ German lawyer about the Wayback Machine in a law paper, Journal of Internet Law: JurPC.
+^ Bowman, Lisa M (September 24, 2002). "Net archive silences Scientology critic". CNET News.com. Archived from the original on 2012-05-15. Retrieved 2007-01-04.
+^ Jeff (September 23, 2002). "exclusions from the Wayback Machine" (Blog). Wayback Machine Forum. Internet Archive. Retrieved 2007-01-04. Author and Date indicate initiation of forum thread.
+^ Miller, Ernest. "Sherman, Set the Wayback Machine for Scientology". LawMeme. Yale Law School. Archived from the original (Blog) on 16 November 2012. Retrieved 2007-01-04.
+^ Dye, Jessica (2005). "Website Sued for Controversial Trip into Internet Past". EContent. 28. (11): 89.
+^ Bangeman, Eric (August 31, 2006). "Internet Archive Settles Suit Over Wayback Machine". Ars technica. Retrieved 2007-11-29.
+^ Some sites are not available because of Robots.txt or other exclusions.
+^ How can I remove my site's pages from the Wayback Machine?.
+^ a b Internet Archive v. Shell, 505 F.Supp.2d 755 at justia.com, 1:2006cv01726 (Colorado District Court 2006-08-31) ('April 25, 2007 Settlement agreement announced.' Filing 65, 2007-04-30: '...therefore ORDERED that this matter shall be DISMISSED WITH PREJUDICE...').
+^ a b Babcock, Lewis T., Chief Judge (2007-02-13). "Internet Archive v. Shell Civil Action No. 06cv01726LTBCBS" (PDF). Archived (PDF) from the original on 2014-01-25. Retrieved 2015-03-25. 1) Internet Archive's motion to dismiss Shell's counterclaim for conversion and civil theft (Second Cause of Action) is GRANTED, 2) Internet Archive's motion to dismiss Shell's counterclaim for breach of contract (Third Cause of Action) is DENIED; 3) Internet Archive's motion to dismiss Shell's counterclaim for Racketeering under RICO and COCCA (Fourth Cause of Action) is GRANTED.
+^ Claburn, Thomas (2007-03-16). "Colorado Woman Sues To Hold Web Crawlers To Contracts". New York, NY, US: InformationWeek, UBM Tech, UBM LLC. Archived from the original on 2014-09-04. Retrieved 2015-03-25. Computers can enter into contracts on behalf of people. The Uniform Electronic Transactions Act (UETA) says that a 'contract may be formed by the interaction of electronic agents of the parties, even if no individual was aware of or reviewed the electronic agents' actions or the resulting terms and agreements.'
+^ Samson, Martin H., Phillips Nizer LLP (2007). "Internet Archive v. Suzanne Shell". internetlibrary.com. Internet Library of Law and Court Decisions. Archived from the original on 2014-08-03. Retrieved 2015-03-25. More importantly, held the court, Internet Archive's mere copying of Shell's site, and display thereof in its database, did not constitute the requisite exercise of dominion and control over defendant's property. Importantly, noted the court, the defendant at all times owned and operated her own site. Said the Court: 'Shell has failed to allege facts showing that Internet Archive exercised dominion or control over her website, since Shell's complaint states explicitly that she continued to own and operate the website while it was archived on the Wayback machine. Shell identifies no authority supporting the notion that copying documents is by itself enough of a deprivation of use to support conversion. Conversely, numerous circuits have determined that it is not.'
+^ brewster (2007-04-25). "Internet Archive and Suzanne Shell Settle Lawsuit". archive.org. Denver, CO, USA: Internet Archive. Archived from the original on 2010-12-05. Retrieved 2015-03-25. Both parties sincerely regret any turmoil that the lawsuit may have caused for the other. Neither Internet Archive nor Ms. Shell condones any conduct which may have caused harm to either party arising out of the public attention to this lawsuit. The parties have not engaged in such conduct and request that the public response to the amicable resolution of this litigation be consistent with their wishes that no further harm or turmoil be caused to either party.
+^ Canada: Copyright Implications Of A "Right To Be Forgotten"? Or How To Take-Down The Internet Archive.
+^ Davydiuk v. Internet Archive Canada, 2014 FC 944
+^ Gary Price (September 18, 2005). "Yahoo Cache Now Offers Direct Links to Wayback Machine". Search Engine Watch.
+External links[edit]
+Official website
+Official mirror of the Wayback Machine at the Bibliotheca Alexandrina
+Tool to retrieve a backup from the Wayback Machine
+v
+t
+e
+Internet Archive
+Universal access to all knowledge
+Projects
+Wayback Machine
+PetaBox
+Open Library
+NASA Images
+Open Content Alliance
+Archive-It
+SFlan
+Partners &
+Collaborators
+Bibliotheca Alexandrina
+Library of Congress
+American Libraries
+Canadian Libraries
+Biodiversity Heritage Library
+Sloan Foundation
+Collections
+Lists of Internet Archive's collections
+Image
+NASA Images
+USGS Maps
+Texts
+American Libraries
+Canadian Libraries
+Children's Library
+RECAP US Federal Court Documents
+Microfilm
+US Government Documents
+Philosophical Transactions of the Royal Society of London
+Collected texts of Simon Schwartzman
+Audio
+Live Music Archive
+LibriVox
+Video
+NASA Images
+FedFlix
+Democracy Now!
+Marion Stokes
+The Internet Archive Software Collection
+Open Educational Resources
+People
+Brewster Kahle
+David Rumsey
+Rick Prelinger
+Jason Scott
+Software
+Heritrix
+v
+t
+e
+Digital preservation
+Concepts
+Artifactual value
+Curation
+Dark age
+Obsolescence
+Open Archival Information System
+Techniques
+Forensics
+Emulation
+By type
+Artworks
+Email
+Websites
+Organizations
+Computer museums
+Digital Curation Centre
+National Digital Information Infrastructure and Preservation Program (USA)
+Lists
+Preservation initiatives
+Glossary of digital preservation terms
+Timeline of audio formats
+Web archiving initiatives
+Years in home video
+Category
+NewPP limit report
+Parsed by mw1274
+Cached time: 20161118144548
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.548 seconds
+Real time usage: 0.640 seconds
+Preprocessor visited node count: 5005/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 144201/2097152 bytes
+Template argument size: 6392/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 4/500
+Lua time usage: 0.226/10.000 seconds
+Lua memory usage: 5.71 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+574.618
+1 - -total
+40.35%
+231.834
+1 - Template:Reflist
+24.84%
+142.761
+40 - Template:Cite_web
+15.52%
+89.171
+1 - Template:Bar_chart
+13.31%
+76.502
+1 - Template:Infobox_website
+12.07%
+69.334
+1 - Template:Infobox
+9.75%
+56.025
+2 - Template:Citation_needed
+8.99%
+51.631
+2 - Template:Fix
+5.93%
+34.059
+3 - Template:Navbox
+5.00%
+28.717
+2 - Template:Delink
+Saved in parser cache with key enwiki:pcache:idhash:23538754-0!*!0!!en!4!* and timestamp 20161118144547 and revision id 749064989
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wayback_Machine&oldid=749064989"
+Categories: History of the InternetInternet Archive projectsWeb archivingWeb archiving initiativesInternet properties established in 1996Hidden categories: Articles containing potentially dated statements from 2009All articles containing potentially dated statementsArticles containing potentially dated statements from December 2014All articles with unsourced statementsArticles with unsourced statements from September 2012

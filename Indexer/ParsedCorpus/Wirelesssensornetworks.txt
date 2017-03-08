@@ -1,0 +1,525 @@
+Wirelesssensornetworks
+From Wikipedia, the free encyclopedia
+(Redirected from Wireless sensor networks)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"WSN" redirects here. For other uses, see WSN (disambiguation).
+It has been suggested that Secure Data Aggregation in WSN be merged into this article. (Discuss) Proposed since April 2014.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2011) (Learn how and when to remove this template message)
+Typical multi-hop wireless sensor network architecture
+Wireless sensor networks (WSN), sometimes called wireless sensor and actuator networks (WSAN),[1][2] are spatially distributed autonomous sensors to monitor physical or environmental conditions, such as temperature, sound, pressure, etc. and to cooperatively pass their data through the network to a main location. The more modern networks are bi-directional, also enabling control of sensor activity. The development of wireless sensor networks was motivated by military applications such as battlefield surveillance; today such networks are used in many industrial and consumer applications, such as industrial process monitoring and control, machine health monitoring, and so on.
+The WSN is built of "nodes"  from a few to several hundreds or even thousands, where each node is connected to one (or sometimes several) sensors. Each such sensor network node has typically several parts: a radio transceiver with an internal antenna or connection to an external antenna, a microcontroller, an electronic circuit for interfacing with the sensors and an energy source, usually a battery or an embedded form of energy harvesting. A sensor node might vary in size from that of a shoebox down to the size of a grain of dust, although functioning "motes" of genuine microscopic dimensions have yet to be created. The cost of sensor nodes is similarly variable, ranging from a few to hundreds of dollars, depending on the complexity of the individual sensor nodes. Size and cost constraints on sensor nodes result in corresponding constraints on resources such as energy, memory, computational speed and communications bandwidth. The topology of the WSNs can vary from a simple star network to an advanced multi-hop wireless mesh network. The propagation technique between the hops of the network can be routing or flooding.[3][4]
+In computer science and telecommunications, wireless sensor networks are an active research area with numerous workshops and conferences arranged each year, for example IPSN, SenSys, and EWSN.
+Contents
+1 Application
+1.1 Area monitoring
+1.2 Health care monitoring
+1.3 Environmental/Earth sensing
+1.3.1 Air pollution monitoring
+1.3.2 Forest fire detection
+1.3.3 Landslide detection
+1.3.4 Water quality monitoring
+1.3.5 Natural disaster prevention
+1.4 Industrial monitoring
+1.4.1 Machine health monitoring
+1.4.2 Data center monitoring
+1.4.3 Data logging
+1.4.4 Water/waste water monitoring
+1.4.5 Structural health monitoring
+1.4.6 Wine production
+2 Characteristics
+3 Platforms
+3.1 Hardware
+3.2 Software
+3.2.1 Operating systems
+3.3 Online collaborative sensor data management platforms
+4 Simulation of WSNs
+5 Other concepts
+5.1 Distributed sensor network
+5.2 Data integration and sensor web
+5.3 In-network processing
+6 See also
+7 References
+8 External links
+Application[edit]
+Area monitoring[edit]
+Area monitoring is a common application of WSNs. In area monitoring, the WSN is deployed over a region where some phenomenon is to be monitored. A military example is the use of sensors detect enemy intrusion; a civilian example is the geo-fencing of gas or oil pipelines.
+Health care monitoring[edit]
+The medical applications can be of two types: wearable and implanted. Wearable devices are used on the body surface of a human or just at close proximity of the user. The implantable medical devices are those that are inserted inside human body. There are many other applications too e.g. body position measurement and location of the person, overall monitoring of ill patients in hospitals and at homes. Body-area networks can collect information about an individual's health, fitness, and energy expenditure.[5][6]
+Environmental/Earth sensing[edit]
+There are many applications in monitoring environmental parameters,[7] examples of which are given below. They share the extra challenges of harsh environments and reduced power supply.
+Air pollution monitoring[edit]
+Wireless sensor networks have been deployed in several cities (Stockholm, London, and Brisbane) to monitor the concentration of dangerous gases for citizens. These can take advantage of the ad hoc wireless links rather than wired installations, which also make them more mobile for testing readings in different areas.[citation needed]
+Forest fire detection[edit]
+A network of Sensor Nodes can be installed in a forest to detect when a fire has started. The nodes can be equipped with sensors to measure temperature, humidity and gases which are produced by fire in the trees or vegetation. The early detection is crucial for a successful action of the firefighters; thanks to Wireless Sensor Networks, the fire brigade will be able to know when a fire is started and how it is spreading.
+Landslide detection[edit]
+A landslide detection system makes use of a wireless sensor network to detect the slight movements of soil and changes in various parameters that may occur before or during a landslide. Through the data gathered it may be possible to know the impending occurrence of landslides long before it actually happens.
+Water quality monitoring[edit]
+Water quality monitoring involves analyzing water properties in dams, rivers, lakes & oceans, as well as underground water reserves. The use of many wireless distributed sensors enables the creation of a more accurate map of the water status, and allows the permanent deployment of monitoring stations in locations of difficult access, without the need of manual data retrieval.[8]
+Natural disaster prevention[edit]
+Wireless sensor networks can effectively act to prevent the consequences of natural disasters, like floods. Wireless nodes have successfully been deployed in rivers where changes of the water levels have to be monitored in real time.
+Industrial monitoring[edit]
+Machine health monitoring[edit]
+Wireless sensor networks have been developed for machinery condition-based maintenance (CBM) as they offer significant cost savings and enable new functionality.[9]
+Wireless sensors can be placed in locations difficult or impossible to reach with a wired system, such as rotating machinery and untethered vehicles.
+Data center monitoring[edit]
+Due to the high density of servers racks in a data center, often cabling and IP addresses are an issue. To overcome that problem more and more racks are fitted out with wireless temperature sensors to monitor the intake and outtake temperatures of racks. As ASHRAE recommends up to 6 temperature sensors per rack, meshed wireless temperature technology gives an advantage compared to traditional cabled sensors.[10]
+Data logging[edit]
+Main article: Data logging
+Wireless sensor networks are also used for the collection of data for monitoring of environmental information,[11] this can be as simple as the monitoring of the temperature in a fridge to the level of water in overflow tanks in nuclear power plants. The statistical information can then be used to show how systems have been working. The advantage of WSNs over conventional loggers is the "live" data feed that is possible.
+Water/waste water monitoring[edit]
+Monitoring the quality and level of water includes many activities such as checking the quality of underground or surface water and ensuring a countrys water infrastructure for the benefit of both human and animal. It may be used to protect the wastage of water.
+Structural health monitoring[edit]
+Main article: Structural health monitoring
+Wireless sensor networks can be used to monitor the condition of civil infrastructure and related geo-physical processes close to real time, and over long periods through data logging, using appropriately interfaced sensors.
+Wine production[edit]
+Wireless sensor networks are used to monitor wine production, both in the field and the cellar.[12]
+Characteristics[edit]
+The main characteristics of a WSN include:
+Power consumption constraints for nodes using batteries or energy harvesting
+Ability to cope with node failures (resilience)
+Some mobility of nodes (for highly mobile nodes see MWSNs)
+Heterogeneity of nodes
+Scalability to large scale of deployment
+Ability to withstand harsh environmental conditions
+Ease of use
+Cross-layer design [13]
+Cross-layer is becoming an important studying area for wireless communications. In addition, the traditional layered approach presents three main problems:
+Traditional layered approach cannot share different information among different layers  which leads to each layer not having complete information. The traditional layered approach cannot guarantee the optimization of the entire network.
+The traditional layered approach does not have the ability to adapt to the environmental change.
+Because of the interference between the different users, access conflicts, fading, and the change of environment in the wireless sensor networks, traditional layered approach for wired networks is not applicable to wireless networks.
+So the cross-layer can be used to make the optimal modulation to improve the transmission performance, such as data rate, energy efficiency, QoS (Quality of Service), etc.. Sensor nodes can be imagined as small computers which are extremely basic in terms of their interfaces and their components. They usually consist of a processing unit with limited computational power and limited memory, sensors or MEMS (including specific conditioning circuitry), a communication device (usually radio transceivers or alternatively optical), and a power source usually in the form of a battery. Other possible inclusions are energy harvesting modules,[14] secondary ASICs, and possibly secondary communication interface (e.g. RS-232 or USB).
+The base stations are one or more components of the WSN with much more computational, energy and communication resources. They act as a gateway between sensor nodes and the end user as they typically forward data from the WSN on to a server. Other special components in routing based networks are routers, designed to compute, calculate and distribute the routing tables.
+Platforms[edit]
+Hardware[edit]
+Main article: sensor node
+One major challenge in a WSN is to produce low cost and tiny sensor nodes. There are an increasing number of small companies producing WSN hardware and the commercial situation can be compared to home computing in the 1970s. Many of the nodes are still in the research and development stage, particularly their software. Also inherent to sensor network adoption is the use of very low power methods for radio communication and data acquisition.
+In many applications, a WSN communicates with a Local Area Network or Wide Area Network through a gateway. The Gateway acts as a bridge between the WSN and the other network. This enables data to be stored and processed by devices with more resources, for example, in a remotely located server.
+Software[edit]
+Energy is the scarcest resource of WSN nodes, and it determines the lifetime of WSNs. WSNs may be deployed in large numbers in various environments, including remote and hostile regions, where ad hoc communications are a key component. For this reason, algorithms and protocols need to address the following issues:
+Increased lifespan
+Robustness and fault tolerance
+Self-configuration
+Lifetime maximization: Energy/Power Consumption of the sensing device should be minimized and sensor nodes should be energy efficient since their limited energy resource determines their lifetime. To conserve power, wireless sensor nodes normally power off both the radio transmitter and the radio receiver when not in use.
+Operating systems[edit]
+Operating systems for wireless sensor network nodes are typically less complex than general-purpose operating systems. They more strongly resemble embedded systems, for two reasons. First, wireless sensor networks are typically deployed with a particular application in mind, rather than as a general platform. Second, a need for low costs and low power leads most wireless sensor nodes to have low-power microcontrollers ensuring that mechanisms such as virtual memory are either unnecessary or too expensive to implement.
+It is therefore possible to use embedded operating systems such as eCos or uC/OS for sensor networks. However, such operating systems are often designed with real-time properties.
+TinyOS is perhaps the first[15] operating system specifically designed for wireless sensor networks. TinyOS is based on an event-driven programming model instead of multithreading. TinyOS programs are composed of event handlers and tasks with run-to-completion semantics. When an external event occurs, such as an incoming data packet or a sensor reading, TinyOS signals the appropriate event handler to handle the event. Event handlers can post tasks that are scheduled by the TinyOS kernel some time later.
+LiteOS is a newly developed OS for wireless sensor networks, which provides UNIX-like abstraction and support for the C programming language.
+Contiki is an OS which uses a simpler programming style in C while providing advances such as 6LoWPAN and Protothreads.
+Online collaborative sensor data management platforms[edit]
+Online collaborative sensor data management platforms are on-line database services that allow sensor owners to register and connect their devices to feed data into an online database for storage and also allow developers to connect to the database and build their own applications based on that data. Examples include Xively and the Wikisensing platform. Such platforms simplify online collaboration between users over diverse data sets ranging from energy and environment data to that collected from transport services. Other services include allowing developers to embed real-time graphs & widgets in websites; analyse and process historical data pulled from the data feeds; send real-time alerts from any datastream to control scripts, devices and environments.
+The architecture of the Wikisensing system[16] describes the key components of such systems to include APIs and interfaces for online collaborators, a middleware containing the business logic needed for the sensor data management and processing and a storage model suitable for the efficient storage and retrieval of large volumes of data. 0525162632
+Simulation of WSNs[edit]
+At present, agent-based modeling and simulation is the only paradigm which allows the simulation of complex behavior in the environments of wireless sensors (such as flocking).[17] Agent-based simulation of wireless sensor and ad hoc networks is a relatively new paradigm. Agent-based modelling was originally based on social simulation.
+Network simulators like OPNET, NetSim and NS2 can be used to simulate a wireless sensor network.
+Other concepts[edit]
+Distributed sensor network[edit]
+If a centralised architecture is used in a sensor network and the central node fails, then the entire network will collapse, however the reliability of the sensor network can be increased by using a distributed control architecture. Distributed control is used in WSNs for the following reasons:
+Sensor nodes are prone to failure,
+For better collection of data,
+To provide nodes with backup in case of failure of the central node.
+There is also no centralised body to allocate the resources and they have to be self organized.
+Data integration and sensor web[edit]
+The data gathered from wireless sensor networks is usually saved in the form of numerical data in a central base station. Additionally, the Open Geospatial Consortium (OGC) is specifying standards for interoperability interfaces and metadata encodings that enable real time integration of heterogeneous sensor webs into the Internet, allowing any individual to monitor or control wireless sensor networks through a web browser.
+In-network processing[edit]
+To reduce communication costs some algorithms remove or reduce nodes' redundant sensor information and avoid forwarding data that is of no use. As nodes can inspect the data they forward, they can measure averages or directionality for example of readings from other nodes. For example, in sensing and monitoring applications, it is generally the case that neighboring sensor nodes monitoring an environmental feature typically register similar values. This kind of data redundancy due to the spatial correlation between sensor observations inspires techniques for in-network data aggregation and mining
+See also[edit]
+Autonomous system
+Center for Embedded Network Sensing
+Internet of Things
+List of ad hoc routing protocols
+Mobile wireless sensor networks
+OpenWSN
+Optical wireless communications
+Smart, connected products
+References[edit]
+^ A Survey on Centralised and Distributed Clustering Routing Algorithms for WSNs (PDF). IEEE 81st Vehicular Technology Conference. Glasgow, Scotland: IEEE. Spring 2015. doi:10.1109/VTCSpring.2015.7145650. Retrieved March 4, 2016.
+^ I. F. Akyildiz and I.H. Kasimoglu (2004). "Wireless Sensor and Actor Networks: Research Challenges". Ad Hoc Networks. 2 (4): 351367. doi:10.1016/j.adhoc.2004.04.003. CS1 maint: Uses authors parameter (link)
+^ Dargie, W. and Poellabauer, C. (2010). Fundamentals of wireless sensor networks: theory and practice. John Wiley and Sons. pp.168183, 191192. ISBN978-0-470-99765-9. CS1 maint: Uses authors parameter (link)
+^ Sohraby, K., Minoli, D., Znati, T. (2007). Wireless sensor networks: technology, protocols, and applications. John Wiley and Sons. pp.203209. ISBN978-0-471-74300-2. CS1 maint: Uses authors parameter (link)
+^ Peiris, V. (2013). "Highly integrated wireless sensing for body area network applications". SPIE Newsroom. doi:10.1117/2.1201312.005120.
+^ Tony O'Donovan; John O'Donoghue; Cormac Sreenan; David Sammon; Philip O'Reilly; Kieran A. O'Connor (2009). A Context Aware Wireless Body Area Network (BAN) (PDF). Pervasive Computing Technologies for Healthcare, 2009. doi:10.4108/ICST.PERVASIVEHEALTH2009.5987.
+^ J.K.Hart and K.Martinez, "Environmental Sensor Networks: A revolution in the earth system science?", Earth Science Reviews, 2006
+^ Spie (2013). "Vassili Karanassios: Energy scavenging to power remote sensors". SPIE Newsroom. doi:10.1117/2.3201305.05.
+^ Tiwari, Ankit; et al. "Energy-efficient wireless sensor network design and implementation for condition-based maintenance". ACM Transactions on Sensor Networks (TOSN).
+^ "Wireless temperature sensor for Data Centers". ServersCheck. Retrieved 2016-10-09.
+^ K. Saleem; N. Fisal & J. Al-Muhtadi (2014). "Empirical studies of bio-inspired self-organized secure autonomousRouting protocol". Sensors Journal IEEE: 18. doi:10.1109/JSEN.2014.2308725.
+^ Anastasi, G.,Farruggia, 0., Lo Re, G., Ortolani, M. (2009) Monitoring High-Quality Wine Production using Wireless Sensor Networks, HICSS 2009
+^ Saleem, K., Fisal, N., Hafizah, S., Kamilah, S., Rashid, R. and Baguda, Y., 2009, January. Cross layer based biological inspired self-organized routing protocol for wireless sensor network. In TENCON 2009-2009 IEEE Region 10 Conference (pp. 1-6). IEEE. [1]
+^ Magno, M.; Boyle, D.; Brunelli, D.; O'Flynn, B.; Popovici, E.; Benini, L. (2014). "Extended Wireless Monitoring Through Intelligent Hybrid Energy Supply". IEEE Transactions on Industrial Electronics. 61 (4): 1871. doi:10.1109/TIE.2013.2267694.
+^ TinyOS Programming, Philip Levis, Cambridge University Press, 2009
+^ Silva, D.; Ghanem, M.; Guo, Y. (2012). "WikiSensing: An Online Collaborative Approach for Sensor Data Management". Sensors. 12 (12): 13295. doi:10.3390/s121013295.
+^ Muaz Niazi, Amir Hussain (2011). A Novel Agent-Based Simulation Framework for Sensing in Complex Adaptive Environments. IEEE Sensors Journal, Vol.11 No. 2, 404412. Paper
+External links[edit]
+Wikimedia Commons has media related to Wireless sensor networks.
+IEEE 802.15.4 Standardization Committee
+v
+t
+e
+Wireless sensor network
+Operating
+systems
+Contiki
+ERIKA Enterprise
+LiteOS
+NanoQplus
+Nano-RK
+OpenTag
+RIOT
+TinyOS
+Communications
+protocols
+6LoWPAN
+802.15.4
+ANT
+Bluetooth
+Bluetooth low energy (Wibree)
+DASH7
+ISA100.11a
+MiWi
+Near field communication
+OCARI
+ONE-NET
+OSIAN
+Thread
+TIBUMAC
+TSMP
+WirelessHART
+ZigBee
+Z-Wave
+Programming
+languages
+C
+LabVIEW
+nesC
+Hardware
+Arduino
+Iris Mote
+Sun SPOT
+Xbee
+Software
+NS-2
+LinuxMCE
+NetSim
+OPNET
+TinyDB-TOSSIM
+SWANS
+Avrora
+Applications
+Key distribution
+Location estimation
+Sensor network queries processor
+Sensor web
+Wireless powerline sensor
+Telemetry
+Routing
+protocols
+Ad hoc On-Demand Distance Vector Routing (AODV)
+Dynamic Source Routing (DSR)
+Conferences,
+journals
+European Conference on Wireless Sensor Networks (EWSN)
+International Conference on Information Processing in Sensor Networks (IPSN)
+Conference on Embedded Networked Sensor Systems (SenSys)
+v
+t
+e
+Sensors
+Acoustic, sound, vibration
+Geophone
+Hydrophone
+Microphone
+Seismometer
+Automotive, transportation
+Airfuel ratio meter
+Blind spot monitor
+Crankshaft position sensor
+Curb feeler
+Defect detector
+Engine coolant temperature sensor
+Hall effect sensor
+MAP sensor
+Mass flow sensor
+Omniview technology
+Oxygen sensor
+Parking sensors
+Radar gun
+Speed sensor
+Speedometer
+Throttle position sensor
+Tire-pressure monitoring system
+Torque sensor
+Transmission fluid temperature sensor
+Turbine speed sensor
+Variable reluctance sensor
+Vehicle speed sensor
+Water sensor
+Wheel speed sensor
+Chemical
+Breathalyzer
+Carbon dioxide sensor
+Carbon monoxide detector
+Catalytic bead sensor
+Chemical field-effect transistor
+Electrochemical gas sensor
+Electrolyteinsulatorsemiconductor sensor
+Electronic nose
+Fluorescent chloride sensors
+Holographic sensor
+Hydrocarbon dew point analyzer
+Hydrogen sensor
+Hydrogen sulfide sensor
+Infrared point sensor
+Ion selective electrode
+Microwave chemistry sensor
+Nitrogen oxide sensor
+Nondispersive infrared sensor
+Olfactometer
+Optode
+Oxygen sensor
+Pellistor
+pH glass electrode
+Potentiometric sensor
+Redox electrode
+Smoke detector
+Zinc oxide nanorod sensor
+Electric, magnetic, radio
+Current sensor
+Electroscope
+Galvanometer
+Hall effect sensor
+Hall probe
+Magnetic anomaly detector
+Magnetometer
+MEMS magnetic field sensor
+Metal detector
+Planar Hall sensor
+Radio direction finder
+Test light
+Environment, weather,
+moisture
+Actinometer
+Bedwetting alarm
+Ceilometer
+Dew warning
+Electrochemical gas sensor
+Fish counter
+Frequency domain sensor
+Gas detector
+Hook gauge evaporimeter
+Humistor
+Hygrometer
+Leaf sensor
+Psychrometer
+Pyranometer
+Pyrgeometer
+Rain gauge
+Rain sensor
+SNOTEL
+Snow gauge
+Soil moisture sensor
+Stream gauge
+Tide gauge
+Weather radar
+Flow, fluid velocity
+Air flow meter
+Anemometer
+Flow sensor
+Gas meter
+Mass flow sensor
+Water metering
+Ionising radiation,
+subatomic particles
+Bubble chamber
+Cloud chamber
+Geiger counter
+Neutron detection
+Particle detector
+Scintillation counter
+Scintillator
+Wire chamber
+Navigation instruments
+Airspeed indicator
+Machmeter
+Altimeter
+Attitude indicator
+Depth gauge
+Fluxgate compass
+Gyroscope
+Inertial navigation system
+Inertial reference unit
+Magnetic compass
+MHD sensor
+Ring laser gyroscope
+Turn coordinator
+Variometer
+Vibrating structure gyroscope
+Yaw-rate sensor
+Position, angle,
+displacement
+Accelerometer
+Auxanometer
+Capacitive displacement sensor
+Capacitive sensing
+Gravimeter
+Inclinometer
+Integrated circuit piezoelectric sensor
+Laser rangefinder
+Laser surface velocimeter
+Lidar
+Linear encoder
+Linear variable differential transformer
+Liquid capacitive inclinometers
+Odometer
+Photoelectric sensor
+Piezoelectric accelerometer
+Position sensor
+Rate sensor
+Rotary encoder
+Rotary variable differential transformer
+Selsyn
+Sudden Motion Sensor
+Tachometer
+Tilt sensor
+Ultrasonic thickness gauge
+Variable reluctance sensor
+Velocity receiver
+Optical, light, imaging
+Charge-coupled device
+Contact image sensor
+Electro-optical sensor
+Flame detector
+Infrared
+Kinetic inductance detector
+LED as light sensor
+Light-addressable potentiometric sensor
+Nichols radiometer
+Optical fiber
+Photodetector
+Photodiode
+Photoelectric sensor
+Photoionization detector
+Photomultiplier
+Photoresistor
+Photoswitch
+Phototransistor
+Phototube
+Position sensitive device
+Scintillometer
+ShackHartmann wavefront sensor
+Single-photon avalanche diode
+Superconducting nanowire single-photon detector
+Transition edge sensor
+Tristimulus colorimeter
+Visible-light photon counter
+Wavefront sensor
+Pressure
+Barograph
+Barometer
+Boost gauge
+Bourdon gauge
+Hot-filament ionization gauge
+Ionization gauge
+McLeod gauge
+Oscillating U-tube
+Permanent Downhole Gauge
+Piezometer
+Pirani gauge
+Pressure gauge
+Pressure sensor
+Tactile sensor
+Time pressure gauge
+Force, density, level
+Bhangmeter
+Force gauge
+Hydrometer
+Level sensor
+Load cell
+Magnetic level gauge
+Nuclear density gauge
+Piezoelectric sensor
+Strain gauge
+Torque sensor
+Viscometer
+Thermal, heat,
+temperature
+Bimetallic strip
+Bolometer
+Calorimeter
+Exhaust gas temperature gauge
+Flame detection
+Gardon gauge
+Golay cell
+Heat flux sensor
+Infrared thermometer
+Microbolometer
+Microwave radiometer
+Net radiometer
+Quartz thermometer
+Resistance thermometer
+Silicon bandgap temperature sensor
+Special sensor microwave/imager
+Thermistor
+Thermocouple
+Thermometer
+Proximity, presence
+Alarm sensor
+Doppler radar
+Motion detector
+Occupancy sensor
+Passive infrared sensor
+Proximity sensor
+Reed switch
+Stud finder
+Touch switch
+Triangulation sensor
+Wired glove
+Sensor technology
+Active pixel sensor
+Back-illuminated sensor
+Biochip
+Biosensor
+Capacitance probe
+Carbon paste electrode
+Catadioptric sensor
+Digital sensors
+Displacement receiver
+Electromechanical film
+Electro-optical sensor
+FabryProt interferometer
+Fisheries acoustics
+Image sensor
+Image sensor format
+Inductive sensor
+Intelligent sensor
+Lab-on-a-chip
+Leaf sensor
+Machine vision
+Microelectromechanical systems
+Photoelasticity
+Quantum sensor
+Radar
+Ground-penetrating radar
+Synthetic aperture radar
+Radar tracker
+Sensor array
+Sensor fusion
+Sensor grid
+Sensor node
+Soft sensor
+Sonar
+Staring array
+Transducer
+Ultrasonic sensor
+Video sensor technology
+Visual sensor network
+Wheatstone bridge
+Wireless sensor network
+Related
+List of sensors
+Authority control
+GND: 4789222-5
+NDL: 01164161
+Saved in parser cache with key enwiki:pcache:idhash:1076662-0!*!0!!en!4!* and timestamp 20161108012637 and revision id 748340861
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wireless_sensor_network&oldid=748340861"
+Categories: Wireless sensor networkWireless networkingHidden categories: CS1 maint: Uses authors parameterArticles to be merged from April 2014All articles to be mergedArticles needing additional references from May 2011All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from January 2016Commons category with local link same as on WikidataWikipedia articles with GND identifiers

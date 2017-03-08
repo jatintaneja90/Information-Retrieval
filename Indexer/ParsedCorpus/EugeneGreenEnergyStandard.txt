@@ -1,0 +1,129 @@
+EugeneGreenEnergyStandard
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+The Eugene Green Energy Standard was an international standard to which national or international green electricity labelling schemes could be accredited to confirm that they provide genuine environmental benefits. It was designed to encourage the generation and use of additional renewable energy sources for electricity generation, although the limited use of additional natural gas-fired cogeneration plant was also supported.[1] Initially funded in part through the EU's clean-e programme, but also including some participants from outside Europe, the Eugene standard was formally discontinued after February 2009.[2]
+Contents
+1 Dismantling
+2 The standard
+3 Accredited energy labels
+4 The Eugene Network
+5 See also
+6 References
+7 External links
+Dismantling[edit]
+On 2 February 2009, EUGENEs General Assembly voted in favour of its dismantling. It was agreed that the members and board would continue to work together to promote green energy in Europe, but that the EUGENE standard and the association (ASBL) under Belgian law would cease to exist.[3]
+The standard[edit]
+The standard confirmed that energy supplied under the accredited schemes:[4]
+Is produced from genuinely sustainable energy sources.
+Will result in a real increase in renewable generation beyond the requirements imposed by government ('additionality').
+That the demand from consumers is matched by renewable generation.
+Two variations of the standard, 'gold' and 'silver', differentiated between schemes depending on the additionality of new renewable energy supplied. The development of the standard was aided by the European Union's CLEAN-E initiative during 2005 and 2006[5][6]
+Accredited energy labels[edit]
+National energy labels formerly accredited by EUGENE included:[7]
+Germany: OK Power
+Switzerland: Naturemade Star
+The organisation also recommends certain other national schemes that are progressing towards accreditation, including:[8]
+Finland: EKOenergy
+Netherlands: Milieukeur
+Sweden: Bra Miljval
+There was no Eugene accredited scheme in the United Kingdom. The UK's energy regulator (Ofgem) published guidelines in February 2009 that broadly followed the EUGENE standard, requiring matching and additionality through carbon savings, although allowing the latter to be met through energy efficiency or offsetting, as well as through new renewables schemes.[9] These were implemented in February 2010 in the UK's Green Energy Supply Certification Scheme.
+The Eugene Standard had also been adopted in Chile,[10] while a pilot scheme is in progress in France.
+The Eugene Network[edit]
+The standard was managed by the Eugene Network (formerly the European Green Electricity Network), an international membership-based non-profit organization. The Network aimed to coordinate and harmonise green energy labelling nationally and internationally, promote the adoption of the Eugene Standard as the basis for national and international green energy markets, and encourage consumers and suppliers to choose credible green energy products. Formal discussions on the Eugene standard first took place in 2000, led by the World Wide Fund for Nature, and it was officially launched on June 24, 2002.[11] The Eugene Network was legally established in 2003 and the first national energy labels were accredited in 2004.[12]
+Full voting membership of the Network was open to 'citizen organisations pursuing not for profit activities with the objectives of promoting green electricity but with no direct interests in the generation and supply of energy services'. Organisations outside this scope but which do 'have a commitment and interest in creating a viable green energy market' were able to become non-voting associate members or supporters.[13]
+As of June 2007, the members of the Eugene Network were:[14]
+World Wide Fund for Nature [1]
+Chile: Instituto de Ecologa Poltica [2]
+Finland: Finnish Association for Nature Conservation [3]
+France: Comit de Liaison Energies Renouvelables [4]
+Germany: EnergieVision [5]
+Spain: Asociacion para la Defensa de la Naturaleza [6]
+Sweden: Swedish Society for Nature Conservation [7]
+Switzerland: Association for Environmental Friendly Electricity (VUE) [8]
+Switzerland: Swiss Federal Institute for Environmental Science and Technology (EAWAG) [9]
+See also[edit]
+Energy portal
+EKOenergy
+Electricity retailing
+Energy conservation
+Energy policy
+Energy quality
+Environmental concerns with electricity generation
+Global warming
+ISO 14001
+Low-carbon economy
+REN21
+References[edit]
+^ Eugene Standard - Technical Document, Eugene, accessed 2007-06-07
+^ Eugene Standard - Letter from Board about dismantling, Eugene, accessed 2010-02-26
+^ Eugene Standard - Letter from Board about dismantling, Eugene, accessed 2010-02-26
+^ Vision, Eugene, accessed 2007-06-07
+^ CLEAN-E project has supported Eugene, Eugene, accessed 2007-06-07
+^ Intelligent Energy Europe, European Commission, accessed 2007-06-07
+^ Certify your product, Eugene, accessed 2007-06-07
+^ The Eugene Standard, WWF European Climate Change & Energy Unit, published 2006-05-31, accessed 2007-06-07
+^ Final Green Supply Guidelines Ofgem, accessed 2010-02-26
+^ Eugene Standard adopted in Chile, Eugene, published 2004, accessed 2007-06-07
+^ WWF launches European green energy standard, Edie, published 2002-06-26, accessed 2007-06-07
+^ History, Eugene, accessed 2007-06-07
+^ Membership, Eugene, accessed 2007-06-07
+^ List of members, Eugene, accessed 2007-06-07
+External links[edit]
+GreenLabelsPurchase.net: Eugene
+Present and Future Development of Bra Miljval-labelled electricity (2005-02-14)
+Additionality in renewable energy
+Association for Environment Conscious Building: The Green Electricity Illusion
+Eugene Standard entry at ecolabelling.org
+In the media
+January 1, 2007, Leonardo Energy: Green Power labels not yet at full power
+October 2, 2002, World Wildlife Fund: Green electricity that really is green
+NewPP limit report
+Parsed by mw1266
+Cached time: 20161120094952
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.092 seconds
+Real time usage: 0.109 seconds
+Preprocessor visited node count: 1167/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 6487/2097152 bytes
+Template argument size: 940/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.007/10.000 seconds
+Lua memory usage: 565 KB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+64.179
+1 - -total
+38.78%
+24.886
+13 - Template:Flagcountry
+34.60%
+22.207
+1 - Template:Portal
+17.87%
+11.469
+1 - Template:Reflist
+12.70%
+8.151
+13 - Template:Flagcountry/core
+8.25%
+5.292
+2 - Template:Country_data_Germany
+4.99%
+3.205
+3 - Template:Country_data_Switzerland
+4.39%
+2.818
+1 - Template:Country_data_Spain
+3.96%
+2.540
+2 - Template:Country_data_Finland
+3.60%
+2.310
+2 - Template:Country_data_Sweden
+Saved in parser cache with key enwiki:pcache:idhash:11648886-0!*!0!!en!4!* and timestamp 20161120094952 and revision id 730662250
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Eugene_Green_Energy_Standard&oldid=730662250"
+Categories: 2003 introductionsEnvironmental standardsRenewable energy certification

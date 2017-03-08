@@ -1,0 +1,592 @@
+Electricpowertransmission
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"Electric transmission" redirects here. For vehicle transmissions, see diesel-electric transmission.
+Two-circuit, single-voltage power transmission line; "Bundled" 4-ways
+Power lines in the San Francisco Bay Area
+Power lines in Qatar
+Electric power transmission is the bulk movement of electrical energy from a generating site, such as a power plant, to an electrical substation. The interconnected lines which facilitate this movement are known as a transmission network. This is distinct from the local wiring between high-voltage substations and customers, which is typically referred to as electric power distribution. The combined transmission and distribution network is known as the "power grid" in North America, or just "the grid". In the United Kingdom, the network is known as the "National Grid".
+A wide area synchronous grid, also known as an "interconnection" in North America, directly connects a large number of generators delivering AC power with the same relative frequency to a large number of consumers. For example, there are four major interconnections in North America (the Western Interconnection, the Eastern Interconnection, the Quebec Interconnection and the Electric Reliability Council of Texas (ERCOT) grid), and one large grid for most of continental Europe.
+The same relative frequency, but almost never the same relative phase as ac power interchange is a function of the phase difference between any two nodes in the network, and zero degrees difference means no power is interchanged; any phase difference up to 90 degrees is stable by the "equal area criteria"; any phase difference above 90 degrees is absolutely unstable; the interchange partners are responsible for maintaining frequency as close to the utility frequency as is practical, and the phase differences between any two nodes significantly less than 90 degrees; should 90 degrees be exceeded, a system separation is executed, and remains separated until the trouble has been corrected.
+Historically, transmission and distribution lines were owned by the same company, but starting in the 1990s, many countries have liberalized the regulation of the electricity market in ways that have led to the separation of the electricity transmission business from the distribution business.[1]
+Contents
+1 System
+2 Overhead transmission
+3 Underground transmission
+4 History
+5 Bulk power transmission
+5.1 Grid input
+5.2 Losses
+5.3 Transposition
+5.4 Subtransmission
+5.5 Transmission grid exit
+6 Advantage of high-voltage power transmission
+7 Modeling: The Transmission Matrix
+8 High-voltage direct current
+9 Capacity
+10 Control
+10.1 Load balancing
+10.2 Failure protection
+11 Communications
+12 Electricity market reform
+13 Cost of electric power transmission
+14 Merchant transmission
+15 Health concerns
+16 United States government policy
+17 Special transmission
+17.1 Grids for railways
+17.2 Superconducting cables
+17.3 Single wire earth return
+17.4 Wireless power transmission
+18 Security of control systems
+19 Records
+20 See also
+21 References
+22 Further reading
+23 External links
+System[edit]
+Most transmission lines are high-voltage three-phase alternating current (AC), although single phase AC is sometimes used in railway electrification systems. High-voltage direct-current (HVDC) technology is used for greater efficiency over very long distances (typically hundreds of miles). HVDC technology is also used in submarine power cables (typically longer than 30 miles (50km)), and in the interchange of power between grids that are not mutually synchronized. HVDC links are used to stabilize large power distribution networks where sudden new loads, or blackouts, in one part of a network can result in synchronization problems and cascading failures.
+Diagram of an electric power system; transmission system is in blue
+Electricity is transmitted at high voltages (115kV or above) to reduce the energy loss which occurs in long-distance transmission. Power is usually transmitted through overhead power lines. Underground power transmission has a significantly higher installation cost and greater operational limitations, but reduced maintenance costs. Underground transmission is sometimes used in urban areas or environmentally sensitive locations.
+A lack of electrical energy storage facilities in transmission systems leads to a key limitation. Electrical energy must be generated at the same rate at which it is consumed. A sophisticated control system is required to ensure that the power generation very closely matches the demand. If the demand for power exceeds supply, the imbalance can cause generation plant(s) and transmission equipment to automatically disconnect and/or shut down to prevent damage. In the worst case, this may lead to a cascading series of shut downs and a major regional blackout. Examples include the US Northeast blackouts of 1965, 1977, 2003, and major blackouts in other US regions in 1996 and 2011. Electric transmission networks are interconnected into regional, national, and even continent wide networks to reduce the risk of such a failure by providing multiple redundant, alternative routes for power to flow should such shut downs occur. Transmission companies determine the maximum reliable capacity of each line (ordinarily less than its physical or thermal limit) to ensure that spare capacity is available in the event of a failure in another part of the network.
+Overhead transmission[edit]
+Main article: Overhead power line
+3-phase high-voltage lines in Washington State, "Bundled" 3-ways
+Four-circuit, two-voltage power transmission line; "Bundled" 2-ways
+A typical ACSR. The conductor consists of seven strands of steel surrounded by four layers of aluminium.
+High-voltage overhead conductors are not covered by insulation. The conductor material is nearly always an aluminum alloy, made into several strands and possibly reinforced with steel strands. Copper was sometimes used for overhead transmission, but aluminum is lighter, yields only marginally reduced performance and costs much less. Overhead conductors are a commodity supplied by several companies worldwide. Improved conductor material and shapes are regularly used to allow increased capacity and modernize transmission circuits. Conductor sizes range from 12mm2 (#6 American wire gauge) to 750mm2 (1,590,000 circular mils area), with varying resistance and current-carrying capacity. Thicker wires would lead to a relatively small increase in capacity due to the skin effect, that causes most of the current to flow close to the surface of the wire. Because of this current limitation, multiple parallel cables (called bundle conductors) are used when higher capacity is needed. Bundle conductors are also used at high voltages to reduce energy loss caused by corona discharge.
+Today, transmission-level voltages are usually considered to be 110kV and above. Lower voltages, such as 66kV and 33kV, are usually considered subtransmission voltages, but are occasionally used on long lines with light loads. Voltages less than 33kV are usually used for distribution. Voltages above 765kV are considered extra high voltage and require different designs compared to equipment used at lower voltages.
+Since overhead transmission wires depend on air for insulation, the design of these lines requires minimum clearances to be observed to maintain safety. Adverse weather conditions, such as high wind and low temperatures, can lead to power outages. Wind speeds as low as 23 knots (43km/h) can permit conductors to encroach operating clearances, resulting in a flashover and loss of supply.[2] Oscillatory motion of the physical line can be termed gallop or flutter depending on the frequency and amplitude of oscillation.
+Underground transmission[edit]
+Main article: Undergrounding
+Electric power can also be transmitted by underground power cables instead of overhead power lines. Underground cables take up less right-of-way than overhead lines, have lower visibility, and are less affected by bad weather. However, costs of insulated cable and excavation are much higher than overhead construction. Faults in buried transmission lines take longer to locate and repair. Underground lines are strictly limited by their thermal capacity, which permits less overload or re-rating than overhead lines. Long underground AC cables have significant capacitance, which may reduce their ability to provide useful power to loads beyond 50mi (80km). Long underground DC cables have no such issue and can run for thousands of miles.
+History[edit]
+Main article: History of electric power transmission
+New York City streets in 1890. Besides telegraph lines, multiple electric lines were required for each class of device requiring different voltages
+In the early days of commercial electric power, transmission of electric power at the same voltage as used by lighting and mechanical loads restricted the distance between generating plant and consumers. In 1882, generation was with direct current (DC), which could not easily be increased in voltage for long-distance transmission. Different classes of loads (for example, lighting, fixed motors, and traction/railway systems) required different voltages, and so used different generators and circuits.[3][4]
+Due to this specialization of lines and because transmission was inefficient for low-voltage high-current circuits, generators needed to be near their loads. It seemed, at the time, that the industry would develop into what is now known as a distributed generation system with large numbers of small generators located near their loads.[5]
+The transmission of electric power with alternating current (AC) became possible after Lucien Gaulard and John Dixon Gibbs built what they called the secondary generator, an early transformer provided with 1:1 turn ratio and open magnetic circuit, in 1881.
+The first long distance (34km (21mi)) AC line was built for the 1884 International Exhibition of Turin, Italy. It was powered by a 2000-V, 130Hz Siemens & Halske alternator and featured several Gaulard secondary generators with their primary windings connected in series, which fed incandescent lamps. The system proved the feasibility of AC electric power transmission on long distances.[4]
+A very first operative AC line was put into service in 1885 in via dei Cerchi, Rome, Italy, for public lighting. It was powered by two Siemens & Halske alternators rated 30 hp (22 kW), 2000-V at 120 Hz and used 19 km of cables and 200 parallel-connected 2000-V/20-V step-down transformers provided with a closed magnetic circuit, one for each lamp. Few months later it was followed by the first British AC system, which was put into service at the Grosvenor Gallery, London. It also featured Siemens alternators and 2400-V/100-V step-down transformers, one per user, with shunt-connected primaries.[6]
+Working for Westinghouse, William Stanley Jr. spent his time recovering from illness in Great Barrington installing what is considered the worlds first practical AC transformer system.
+Working from what he considered an impractical Gaulard-Gibbs design, electrical engineer William Stanley, Jr. developed what is considered the first practical series AC transformer in 1885.[7] Working with the support of George Westinghouse, in 1886 he installed demonstration transformer based alternating current lighting system in Great Barrington, Massachusetts. Powered by a steam engine driven 500-V Siemens generator, voltage was stepped down to 100 volts using the new Stanley transformer to power incandescent lamps at 23 businesses along main street with very little power loss over 4000 feet.[8] This practical demonstration of a transformer/alternating current lighting system would lead Westinghouse to begin installing AC based systems later that year.[9]
+In 1888 alternating current systems gained further viability with introduction of a functional AC motor, something these systems had lacked up till then. The design, an induction motor running on polyphase current, was independently invented by Galileo Ferraris and Nikola Tesla (with Tesla's design being licensed by Westinghouse in the US). This design was further developed into the modern practical three-phase form by Mikhail Dolivo-Dobrovolsky and Charles Eugene Lancelot Brown.[10]
+The late 1880s/early 1890s would see a financial merger of many smaller electric companies into a few larger corporations such as Ganz and AEG in Europe and General Electric and Westinghouse Electric in the US. These companies continued to develop AC systems but the technical difference between direct and alternating current systems would follow a much longer technical merger.[11] Due to innovation in the US and Europe, alternating current's economy of scale with very large generating plants linked to loads via long distance transmission was slowly being combined with the ability to link it up with all of the existing systems that needed to be supplied. These included single phase AC systems, poly-phase AC systems, low voltage incandescent lighting, high voltage arc lighting, and existing DC motors in factories and street cars. In what was becoming a universal system, these technological differences were temporarily being bridged via the development of rotary converters and motorgenerators that would allow the large number of legacy systems to be connected to the AC grid.[11][12] These stopgaps would slowly be replaced as older systems were retired or upgraded.
+Westinghouse alternating current polyphase generators on display at the 1893 World's Fair in Chicago, part of their "Tesla Poly-phase System". Such polyphase innovations revolutionized transmission
+The first transmission of three-phase alternating current using high voltage took place in 1891 during the international electricity exhibition in Frankfurt. A 15,000-V transmission line, approximately 175km long, connected Lauffen on the Neckar and Frankfurt.[13][6]
+Voltages used for electric power transmission increased throughout the 20th century. By 1914, fifty-five transmission systems each operating at more than 70,000-V were in service. The highest voltage then used was 150,000V.[14] By allowing multiple generating plants to be interconnected over a wide area, electricity production cost was reduced. The most efficient available plants could be used to supply the varying loads during the day. Reliability was improved and capital investment cost was reduced, since stand-by generating capacity could be shared over many more customers and a wider geographic area. Remote and low-cost sources of energy, such as hydroelectric power or mine-mouth coal, could be exploited to lower energy production cost.[3][6]
+The rapid industrialization in the 20th century made electrical transmission lines and grids a critical infrastructure item in most industrialized nations. The interconnection of local generation plants and small distribution networks was greatly spurred by the requirements of World War I, with large electrical generating plants built by governments to provide power to munitions factories. Later these generating plants were connected to supply civil loads through long-distance transmission.[15]
+Bulk power transmission[edit]
+A transmission substation decreases the voltage of incoming electricity, allowing it to connect from long distance high voltage transmission, to local lower voltage distribution. It also reroutes power to other transmission lines that serve local markets. This is the PacifiCorp Hale Substation, Orem, Utah, USA
+Engineers design transmission networks to transport the energy as efficiently as feasible, while at the same time taking into account economic factors, network safety and redundancy. These networks use components such as power lines, cables, circuit breakers, switches and transformers. The transmission network is usually administered on a regional basis by an entity such as a regional transmission organization or transmission system operator.
+Transmission efficiency is greatly improved by devices that increase the voltage (and thereby proportionately reduce the current), in the line conductors, thus allowing power to be transmitted with acceptable losses. The reduced current flowing through the line reduces the heating losses in the conductors. According to Joule's Law, energy losses are directly proportional to the square of the current. Thus, reducing the current by a factor of two will lower the energy lost to conductor resistance by a factor of four for any given size of conductor.
+The optimum size of a conductor for a given voltage and current can be estimated by Kelvin's law for conductor size, which states that the size is at its optimum when the annual cost of energy wasted in the resistance is equal to the annual capital charges of providing the conductor. At times of lower interest rates, Kelvin's law indicates that thicker wires are optimal; while, when metals are expensive, thinner conductors are indicated: however, power lines are designed for long-term use, so Kelvin's law has to be used in conjunction with long-term estimates of the price of copper and aluminum as well as interest rates for capital.
+The increase in voltage is achieved in AC circuits by using a step-up transformer. HVDC systems require relatively costly conversion equipment which may be economically justified for particular projects such as submarine cables and longer distance high capacity point to point transmission. HVDC is necessary for the import and export of energy between grid systems that are not synchronized with each other.
+A transmission grid is a network of power stations, transmission lines, and substations. Energy is usually transmitted within a grid with three-phase AC. Single-phase AC is used only for distribution to end users since it is not usable for large polyphase induction motors. In the 19th century, two-phase transmission was used but required either four wires or three wires with unequal currents. Higher order phase systems require more than three wires, but deliver little or no benefit.
+The synchronous grids of the European Union
+The price of electric power station capacity is high, and electric demand is variable, so it is often cheaper to import some portion of the needed power than to generate it locally. Because loads are often regionally correlated (hot weather in the Southwest portion of the US might cause many people to use air conditioners), electric power often comes from distant sources. Because of the economic benefits of load sharing between regions, wide area transmission grids now span countries and even continents. The web of interconnections between power producers and consumers should enable power to flow, even if some links are inoperative.
+The unvarying (or slowly varying over many hours) portion of the electric demand is known as the base load and is generally served by large facilities (which are more efficient due to economies of scale) with fixed costs for fuel and operation. Such facilities are nuclear, coal-fired or hydroelectric, while other energy sources such as concentrated solar thermal and geothermal power have the potential to provide base load power. Renewable energy sources, such as solar photovoltaics, wind, wave, and tidal, are, due to their intermittency, not considered as supplying "base load" but will still add power to the grid. The remaining or 'peak' power demand, is supplied by peaking power plants, which are typically smaller, faster-responding, and higher cost sources, such as combined cycle or combustion turbine plants fueled by natural gas.
+Long-distance transmission of electricity (thousands of kilometers) is cheap and efficient, with costs of US$0.0050.02/kWh (compared to annual averaged large producer costs of US$0.010.025/kWh, retail rates upwards of US$0.10/kWh, and multiples of retail for instantaneous suppliers at unpredicted highest demand moments).[16] Thus distant suppliers can be cheaper than local sources (e.g., New York often buys over 1000 MW of electricity from Canada).[17] Multiple local sources (even if more expensive and infrequently used) can make the transmission grid more fault tolerant to weather and other disasters that can disconnect distant suppliers.
+A high-power electrical transmission tower, 230 kV, double-circuit, also double-bundled
+Long-distance transmission allows remote renewable energy resources to be used to displace fossil fuel consumption. Hydro and wind sources cannot be moved closer to populous cities, and solar costs are lowest in remote areas where local power needs are minimal. Connection costs alone can determine whether any particular renewable alternative is economically sensible. Costs can be prohibitive for transmission lines, but various proposals for massive infrastructure investment in high capacity, very long distance super grid transmission networks could be recovered with modest usage fees.
+Grid input[edit]
+At the power stations, the power is produced at a relatively low voltage between about 2.3kV and 30kV, depending on the size of the unit. The generator terminal voltage is then stepped up by the power station transformer to a higher voltage (115kV to 765kV AC, varying by the transmission system and by country) for transmission over long distances.
+Losses[edit]
+Transmitting electricity at high voltage reduces the fraction of energy lost to resistance, which varies depending on the specific conductors, the current flowing, and the length of the transmission line. For example, a 100-mile (160km) 765kV line carrying 1000 MW of power can have losses of 1.1% to 0.5%. A 345kV line carrying the same load across the same distance has losses of 4.2%.[18] For a given amount of power, a higher voltage reduces the current and thus the resistive losses in the conductor. For example, raising the voltage by a factor of 10 reduces the current by a corresponding factor of 10 and therefore the I2R losses by a factor of 100, provided the same sized conductors are used in both cases. Even if the conductor size (cross-sectional area) is reduced 10-fold to match the lower current, the I2R losses are still reduced 10-fold. Long-distance transmission is typically done with overhead lines at voltages of 115 to 1,200kV. At extremely high voltages, more than 2,000kV exists between conductor and ground, corona discharge losses are so large that they can offset the lower resistive losses in the line conductors. Measures to reduce corona losses include conductors having larger diameters; often hollow to save weight,[19] or bundles of two or more conductors.
+Factors that affect the resistance, and thus loss, of conductors used in transmission and distribution lines include temperature, spiraling, and the skin effect. The resistance of a conductor increases with its temperature. Temperature changes in electric power lines can have a significant effect on power losses in the line. Spiraling, which refers to the increase in conductor resistance due to the way stranded conductors spiral about the center, also contributes to increases in conductor resistance. The skin effect causes the effective resistance of a conductor to increase at higher alternating current frequencies.
+Transmission and distribution losses in the USA were estimated at 6.6% in 1997[20] and 6.5% in 2007.[20] In general, losses are estimated from the discrepancy between power produced (as reported by power plants) and power sold to the end customers; the difference between what is produced and what is consumed constitute transmission and distribution losses, assuming no utility theft occurs.
+As of 1980, the longest cost-effective distance for direct-current transmission was determined to be 7,000km (4,300mi). For alternating current it was 4,000km (2,500mi), though all transmission lines in use today are substantially shorter than this.[16]
+In any alternating current transmission line, the inductance and capacitance of the conductors can be significant. Currents that flow solely in 'reaction' to these properties of the circuit, (which together with the resistance define the impedance) constitute reactive power flow, which transmits no 'real' power to the load. These reactive currents, however, are very real and cause extra heating losses in the transmission circuit. The ratio of 'real' power (transmitted to the load) to 'apparent' power (sum of 'real' and 'reactive') is the power factor. As reactive current increases, the reactive power increases and the power factor decreases. For transmission systems with low power factor, losses are higher than for systems with high power factor. Utilities add capacitor banks, reactors and other components (such as phase-shifting transformers; static VAR compensators; and flexible AC transmission systems, FACTS) throughout the system to compensate for the reactive power flow and reduce the losses in power transmission and stabilize system voltages. These measures are collectively called 'reactive support'.
+Transposition[edit]
+Current flowing through transmission lines induces a magnetic field that surrounds the lines of each phase and affects the inductance of the surrounding conductors of other phases. The mutual inductance of the conductors is partially dependent on the physical orientation of the lines with respect to each other. Three-phase power transmission lines are conventionally strung with phases separated on different vertical levels. The mutual inductance seen by a conductor of the phase in the middle of the other two phases will be different than the inductance seen by the conductors on the top or bottom. Because of this phenomenon, conductors must be periodically transposed along the length of the transmission line so that each phase sees equal time in each relative position to balance out the mutual inductance seen by all three phases. To accomplish this, line position is swapped at specially designed transposition towers at regular intervals along the length of the transmission line in various transposition schemes.
+Subtransmission[edit]
+A 115 kV subtransmission line in the Philippines, along with 20 kV distribution lines and a street light, all mounted in a wood subtransmission pole
+Subtransmission line tower of wood H-frame construction
+Subtransmission is part of an electric power transmission system that runs at relatively lower voltages. It is uneconomical to connect all distribution substations to the high main transmission voltage, because the equipment is larger and more expensive. Typically, only larger substations connect with this high voltage. It is stepped down and sent to smaller substations in towns and neighborhoods. Subtransmission circuits are usually arranged in loops so that a single line failure does not cut off service to a large number of customers for more than a short time. Loops can be "normally closed", where loss of one circuit should result in no interruption, or "normally open" where substations can switch to a backup supply. While subtransmission circuits are usually carried on overhead lines, in urban areas buried cable may be used. The lower-voltage subtransmission lines use less right-of-way and simpler structures; it is much more feasible to put them underground where needed. Higher-voltage lines require more space and are usually above-ground since putting them underground is very expensive.
+There is no fixed cutoff between subtransmission and transmission, or subtransmission and distribution. The voltage ranges overlap somewhat. Voltages of 69kV, 115kV and 138kV are often used for subtransmission in North America. As power systems evolved, voltages formerly used for transmission were used for subtransmission, and subtransmission voltages became distribution voltages. Like transmission, subtransmission moves relatively large amounts of power, and like distribution, subtransmission covers an area instead of just point to point.[21]
+Transmission grid exit[edit]
+At the substations, transformers reduce the voltage to a lower level for distribution to commercial and residential users. This distribution is accomplished with a combination of sub-transmission (33 kV to 132 kV) and distribution (3.3 to 25kV). Finally, at the point of use, the energy is transformed to low voltage (varying by country and customer requirementssee Mains electricity by country).
+Advantage of high-voltage power transmission[edit]
+See also: ideal transformer
+High-voltage power transmission allow for lesser resistive losses over long distances in the wiring.
+Electrical grid without a transformer.
+Electrical grid with a transformer.
+In a very simplified model, assume the electrical grid delivers electricity from a generator (modelled as an ideal voltage source with voltage
+V
+{\displaystyle V}
+, delivering a power
+P
+V
+{\displaystyle P_{V}}
+) to a single point of consumption, modelled by a pure resistance
+R
+{\displaystyle R}
+, when the wires are long enough to have a significant resistance
+R
+C
+{\displaystyle R_{C}}
+.
+If the resistance are simply in series without any transformer between them, the circuit acts as a voltage divider, because the same current
+I
+=
+V
+R
++
+R
+C
+{\displaystyle I={\frac {V}{R+R_{C}}}}
+runs through the wire resistance and the powered device. As a consequence, the useful power (used at the point of consumption) is:
+P
+R
+=
+V
+2
+ 
+I
+=
+V
+2
+R
++
+R
+C
+=
+R
+R
++
+R
+C
+P
+V
+{\displaystyle P_{R}=V_{2}\times I={\frac {V^{2}}{R+R_{C}}}={\frac {R}{R+R_{C}}}P_{V}}
+Assume now that a transformer converts high-voltage, low-current electricity transported by the wires into low-voltage, high-current electricity for use at the consumption point. If we suppose it is an ideal transformer with a voltage ratio of a (i.e., the voltage is divided by a and the current is multiplied by a in the secondary branch, compared to the primary branch), then the circuit is again equivalent to a voltage divider, but the transformer-consumption branch has an apparent resistance of
+a
+2
+R
+{\displaystyle a^{2}R}
+. The useful power is then:
+P
+R
+=
+V
+2
+ 
+I
+2
+=
+V
+2
+a
+2
+R
++
+R
+C
+=
+a
+2
+R
+a
+2
+R
++
+R
+C
+P
+V
+{\displaystyle P_{R}=V_{2}\times I_{2}={\frac {V^{2}}{a^{2}R+R_{C}}}={\frac {a^{2}R}{a^{2}R+R_{C}}}P_{V}}
+For
+a
+>
+1
+{\displaystyle a>1}
+(i.e. conversion of high voltage to low voltage near the consumption point), a larger fraction of the generator's power is transmitted to the consumption point and a lesser fraction is lost to Joule heating.
+Modeling: The Transmission Matrix[edit]
+Oftentimes, we are only interested in the terminal characteristics of the transmission line, which are the voltage and current at the sending and receiving ends. The transmission line itself is then modeled as a "black box" and a 2 by 2 transmission matrix is used to model its behavior, as follows:
+The line is assumed to be a reciprocal, symmetrical network, meaning that the receiving and sending labels can be switched with no consequence. The transmission matrix T also has the following properties:
+det(T) = AD - BC = 1
+A = D
+The parameters A, B, C, and D differ depending on how the desired model handles the line's resistance (R), inductance (L), capacitance (C), and shunt (parallel) admittance Y. The four main models are the short line approximation, the medium line approximation, the long line approximation (with distributed parameters), and the lossless line. In all models described, a capital letter such as R refers to the total quantity summed over the line and a lowercase letter such as c refers to the per-unit-length quantity.
+The lossless line approximation, which is the least accurate model, is often used on short lines when the inductance of the line is much greater than its resistance. For this approximation, the voltage and current are identical at the sending and receiving ends.
+The short line approximation is normally used for lines less than 50 miles long. For a short line, only a series impedance Z is considered, while C and Y are ignored. The final result is that A = D = 1 per unit, B = Z ohms, and C = 0.
+Transmission matrix for the short line approximation
+The medium line approximation is used for lines between 50 and 150 miles long. In this model, the series impedance and the shunt admittance are considered, with half of the shunt admittance being placed at each end of the line. This circuit is often referred to as a "nominal pi" circuit because of the shape that is taken on when admittance is placed on both sides of the circuit diagram. The analysis of the medium line brings one to the following result:
+The long line model is used when a higher degree of accuracy is needed or when the line under consideration is more than 150 miles long. Series resistance and shunt admittance are considered as distributed parameters, meaning each differential length of the line has a corresponding differential resistance and shunt admittance. The following result can be applied at any point along the transmission line, where gamma is defined as the propagation constant.
+To find the voltage and current at the end of the long line, x should be replaced with L (the line length) in all parameters of the transmission matrix.
+High-voltage direct current[edit]
+Main article: High-voltage direct current
+High-voltage direct current (HVDC) is used to transmit large amounts of power over long distances or for interconnections between asynchronous grids. When electrical energy is to be transmitted over very long distances, the power lost in AC transmission becomes appreciable and it is less expensive to use direct current instead of alternating current. For a very long transmission line, these lower losses (and reduced construction cost of a DC line) can offset the additional cost of the required converter stations at each end.
+HVDC is also used for submarine cables because AC cannot be supplied over distances of more than about 30 kilometres (19mi), due to the fact that the cables produce too much reactive power[citation needed]. In these cases special high-voltage cables for DC are used. Submarine HVDC systems are often used to connect the electricity grids of islands, for example, between Great Britain and continental Europe, between Great Britain and Ireland, between Tasmania and the Australian mainland, and between the North and South Islands of New Zealand. Submarine connections up to 600 kilometres (370mi) in length are presently in use.[22]
+HVDC links can be used to control problems in the grid with AC electricity flow. The power transmitted by an AC line increases as the phase angle between source end voltage and destination ends increases, but too large a phase angle will allow the systems at either end of the line to fall out of step. Since the power flow in a DC link is controlled independently of the phases of the AC networks at either end of the link, this phase angle limit does not exist, and a DC link is always able to transfer its full rated power. A DC link therefore stabilizes the AC grid at either end, since power flow and phase angle can then be controlled independently.
+As an example, to adjust the flow of AC power on a hypothetical line between Seattle and Boston would require adjustment of the relative phase of the two regional electrical grids. This is an everyday occurrence in AC systems, but one that can become disrupted when AC system components fail and place unexpected loads on the remaining working grid system. With an HVDC line instead, such an interconnection would: (1) Convert AC in Seattle into HVDC; (2) Use HVDC for the 3,000 miles of cross-country transmission; and (3) Convert the HVDC to locally synchronized AC in Boston, (and possibly in other cooperating cities along the transmission route). Such a system could be less prone to failure if parts of it were suddenly shut down. One example of a long DC transmission line is the Pacific DC Intertie located in the Western United States.
+Capacity[edit]
+The amount of power that can be sent over a transmission line is limited. The origins of the limits vary depending on the length of the line. For a short line, the heating of conductors due to line losses sets a thermal limit. If too much current is drawn, conductors may sag too close to the ground, or conductors and equipment may be damaged by overheating. For intermediate-length lines on the order of 100km (62mi), the limit is set by the voltage drop in the line. For longer AC lines, system stability sets the limit to the power that can be transferred. Approximately, the power flowing over an AC line is proportional to the cosine of the phase angle of the voltage and current at the receiving and transmitting ends. This angle varies depending on system loading and generation. It is undesirable for the angle to approach 90 degrees, as the power flowing decreases but the resistive losses remain. Very approximately, the allowable product of line length and maximum load is proportional to the square of the system voltage. Series capacitors or phase-shifting transformers are used on long lines to improve stability. High-voltage direct current lines are restricted only by thermal and voltage drop limits, since the phase angle is not material to their operation.
+Up to now, it has been almost impossible to foresee the temperature distribution along the cable route, so that the maximum applicable current load was usually set as a compromise between understanding of operation conditions and risk minimization. The availability of industrial distributed temperature sensing (DTS) systems that measure in real time temperatures all along the cable is a first step in monitoring the transmission system capacity. This monitoring solution is based on using passive optical fibers as temperature sensors, either integrated directly inside a high voltage cable or mounted externally on the cable insulation. A solution for overhead lines is also available. In this case the optical fiber is integrated into the core of a phase wire of overhead transmission lines (OPPC). The integrated Dynamic Cable Rating (DCR) or also called Real Time Thermal Rating (RTTR) solution enables not only to continuously monitor the temperature of a high voltage cable circuit in real time, but to safely utilize the existing network capacity to its maximum. Furthermore, it provides the ability to the operator to predict the behavior of the transmission system upon major changes made to its initial operating conditions.
+Control[edit]
+To ensure safe and predictable operation, the components of the transmission system are controlled with generators, switches, circuit breakers and loads. The voltage, power, frequency, load factor, and reliability capabilities of the transmission system are designed to provide cost effective performance for the customers.
+Load balancing[edit]
+The transmission system provides for base load and peak load capability, with safety and fault tolerance margins. The peak load times vary by region largely due to the industry mix. In very hot and very cold climates home air conditioning and heating loads have an effect on the overall load. They are typically highest in the late afternoon in the hottest part of the year and in mid-mornings and mid-evenings in the coldest part of the year. This makes the power requirements vary by the season and the time of day. Distribution system designs always take the base load and the peak load into consideration.
+The transmission system usually does not have a large buffering capability to match the loads with the generation. Thus generation has to be kept matched to the load, to prevent overloading failures of the generation equipment.
+Multiple sources and loads can be connected to the transmission system and they must be controlled to provide orderly transfer of power. In centralized power generation, only local control of generation is necessary, and it involves synchronization of the generation units, to prevent large transients and overload conditions.
+In distributed power generation the generators are geographically distributed and the process to bring them online and offline must be carefully controlled. The load control signals can either be sent on separate lines or on the power lines themselves. Voltage and frequency can be used as signalling mechanisms to balance the loads.
+In voltage signaling, the variation of voltage is used to increase generation. The power added by any system increases as the line voltage decreases. This arrangement is stable in principle. Voltage-based regulation is complex to use in mesh networks, since the individual components and setpoints would need to be reconfigured every time a new generator is added to the mesh.
+In frequency signaling, the generating units match the frequency of the power transmission system. In droop speed control, if the frequency decreases, the power is increased. (The drop in line frequency is an indication that the increased load is causing the generators to slow down.)
+Wind turbines, vehicle-to-grid and other distributed storage and generation systems can be connected to the power grid, and interact with it to improve system operation.[citation needed]
+Failure protection[edit]
+Under excess load conditions, the system can be designed to fail gracefully rather than all at once. Brownouts occur when the supply power drops below the demand. Blackouts occur when the supply fails completely.
+Rolling blackouts (also called load shedding) are intentionally engineered electrical power outages, used to distribute insufficient power when the demand for electricity exceeds the supply.
+Communications[edit]
+Operators of long transmission lines require reliable communications for control of the power grid and, often, associated generation and distribution facilities. Fault-sensing protective relays at each end of the line must communicate to monitor the flow of power into and out of the protected line section so that faulted conductors or equipment can be quickly de-energized and the balance of the system restored. Protection of the transmission line from short circuits and other faults is usually so critical that common carrier telecommunications are insufficiently reliable, and in remote areas a common carrier may not be available. Communication systems associated with a transmission project may use:
+Microwaves
+Power line communication
+Optical fibers
+Rarely, and for short distances, a utility will use pilot-wires strung along the transmission line path. Leased circuits from common carriers are not preferred since availability is not under control of the electric power transmission organization.
+Transmission lines can also be used to carry data: this is called power-line carrier, or PLC. PLC signals can be easily received with a radio for the long wave range.
+Optical fibers can be included in the stranded conductors of a transmission line, in the overhead shield wires. These cables are known as optical ground wire (OPGW). Sometimes a standalone cable is used, all-dielectric self-supporting (ADSS) cable, attached to the transmission line cross arms.
+Some jurisdictions, such as Minnesota, prohibit energy transmission companies from selling surplus communication bandwidth or acting as a telecommunications common carrier. Where the regulatory structure permits, the utility can sell capacity in extra dark fibers to a common carrier, providing another revenue stream.
+Electricity market reform[edit]
+Main article: Electricity market
+Some regulators regard electric transmission to be a natural monopoly[23][24] and there are moves in many countries to separately regulate transmission (see electricity market).
+Spain was the first country to establish a regional transmission organization. In that country, transmission operations and market operations are controlled by separate companies. The transmission system operator is Red Elctrica de Espaa (REE) and the wholesale electricity market operator is Operador del Mercado Ibrico de Energa  Polo Espaol, S.A. (OMEL) [1]. Spain's transmission system is interconnected with those of France, Portugal, and Morocco.
+In the United States and parts of Canada, electrical transmission companies operate independently of generation and distribution companies.
+Cost of electric power transmission[edit]
+The cost of high voltage electricity transmission (as opposed to the costs of electric power distribution) is comparatively low, compared to all other costs arising in a consumer's electricity bill. In the UK, transmission costs are about 0.2p/kWh compared to a delivered domestic price of around 10p/kWh.[25]
+Research evaluates the level of capital expenditure in the electric power T&D equipment market will be worth $128.9bn in 2011.[26]
+Merchant transmission[edit]
+Merchant transmission is an arrangement where a third party constructs and operates electric transmission lines through the franchise area of an unrelated utility.
+Operating merchant transmission projects in the United States include the Cross Sound Cable from Shoreham, New York to New Haven, Connecticut, Neptune RTS Transmission Line from Sayreville, N.J., to Newbridge, N.Y, and Path 15 in California. Additional projects are in development or have been proposed throughout the United States, including the Lake Erie Connector, an underwater transmission line proposed by ITC Holdings Corp., connecting Ontario to load serving entities in the PJM Interconnection region.[27]
+There is only one unregulated or market interconnector in Australia: Basslink between Tasmania and Victoria. Two DC links originally implemented as market interconnectors, Directlink and Murraylink, have been converted to regulated interconnectors. NEMMCO
+A major barrier to wider adoption of merchant transmission is the difficulty in identifying who benefits from the facility so that the beneficiaries will pay the toll. Also, it is difficult for a merchant transmission line to compete when the alternative transmission lines are subsidized by other utility businesses.[28]
+Health concerns[edit]
+Main article: Electromagnetic radiation and health
+Some large studies, including a large study in the United States, have failed to find any link between living near power lines and developing any sickness or diseases, such as cancer. A 1997 study found that it did not matter how close one was to a power line or a sub-station, there was no increased risk of cancer or illness.[29]
+The mainstream scientific evidence suggests that low-power, low-frequency, electromagnetic radiation associated with household currents and high transmission power lines does not constitute a short or long term health hazard. Some studies, however, have found statistical correlations between various diseases and living or working near power lines. No adverse health effects have been substantiated for people not living close to powerlines.[30]
+There are established biological effects for acute high level exposure to magnetic fields well above 100T (1G). In a residential setting, there is "limited evidence of carcinogenicity in humans and less than sufficient evidence for carcinogenicity in experimental animals", in particular, childhood leukemia, associated with average exposure to residential power-frequency magnetic field above 0.3T (3mG) to 0.4T (4mG). These levels exceed average residential power-frequency magnetic fields in homes, which are about 0.07T (0.7mG) in Europe and 0.11T (1.1mG) in North America.[31][32]
+The Earth's natural geomagnetic field strength varies over the surface of the planet between 0.035 mT - 0.07 mT (35 T - 70 T or 0.35 G - 0.7 G) while the International Standard for the continuous exposure limit is set at 40 mT (40,000 T or 400 G) for the general public.[31]
+Tree Growth Regulator and Herbicide Control Methods may be used in transmission line right of ways[33] which may have health effects.
+United States government policy[edit]
+The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (March 2013) (Learn how and when to remove this template message)
+Historically, local governments have exercised authority over the grid and have significant disincentives to encourage actions that would benefit states other than their own. Localities with cheap electricity have a disincentive to encourage making interstate commerce in electricity trading easier, since other regions will be able to compete for local energy and drive up rates. For example, some regulators in Maine do not wish to address congestion problems because the congestion serves to keep Maine rates low.[34] Further, vocal local constituencies can block or slow permitting by pointing to visual impact, environmental, and perceived health concerns. In the US, generation is growing four times faster than transmission, but big transmission upgrades require the coordination of multiple states, a multitude of interlocking permits, and cooperation between a significant portion of the 500 companies that own the grid. From a policy perspective, the control of the grid is balkanized, and even former energy secretary Bill Richardson refers to it as a third world grid. There have been efforts in the EU and US to confront the problem. The US national security interest in significantly growing transmission capacity drove passage of the 2005 energy act giving the Department of Energy the authority to approve transmission if states refuse to act. However, soon after the Department of Energy used its power to designate two National Interest Electric Transmission Corridors, 14 senators signed a letter stating the DOE was being too aggressive.[35]
+Special transmission[edit]
+Grids for railways[edit]
+Main article: Traction power network
+In some countries where electric locomotives or electric multiple units run on low frequency AC power, there are separate single phase traction power networks operated by the railways. Prime examples are countries in Europe (including Austria, Germany and Switzerland) which utilize the older AC technology based on 16 2/3Hz (Norway and Sweden also use this frequency but use conversion from the 50Hz public supply; Sweden has a 16 2/3Hz traction grid but only for part of the system).
+Superconducting cables[edit]
+High-temperature superconductors (HTS) promise to revolutionize power distribution by providing lossless transmission of electrical power. The development of superconductors with transition temperatures higher than the boiling point of liquid nitrogen has made the concept of superconducting power lines commercially feasible, at least for high-load applications.[36] It has been estimated that the waste would be halved using this method, since the necessary refrigeration equipment would consume about half the power saved by the elimination of the majority of resistive losses. Some companies such as Consolidated Edison and American Superconductor have already begun commercial production of such systems.[37] In one hypothetical future system called a SuperGrid, the cost of cooling would be eliminated by coupling the transmission line with a liquid hydrogen pipeline.
+Superconducting cables are particularly suited to high load density areas such as the business district of large cities, where purchase of an easement for cables would be very costly.[38]
+HTS transmission lines[39]
+Location
+Length (km)
+Voltage (kV)
+Capacity (GW)
+Date
+Carrollton, Georgia
+2000
+Albany, New York[40]
+0.35
+34.5
+0.048
+2006
+Long Island[41]
+0.6
+130
+0.574
+2008
+Tres Amigas
+5
+Proposed 2013
+Manhattan: Project Hydra
+Proposed 2014
+Essen, Germany[42][43]
+1
+10
+0.04
+2014
+Single wire earth return[edit]
+Main article: Single-wire earth return
+Single-wire earth return (SWER) or single wire ground return is a single-wire transmission line for supplying single-phase electrical power for an electrical grid to remote areas at low cost. It is principally used for rural electrification, but also finds use for larger isolated loads such as water pumps. Single wire earth return is also used for HVDC over submarine power cables.
+Wireless power transmission[edit]
+Main article: Wireless energy transfer
+Both Nikola Tesla and Hidetsugu Yagi attempted to devise systems for large scale wireless power transmission in the late 1800s and early 1900s, with no commercial success.
+In November 2009, LaserMotive won the NASA 2009 Power Beaming Challenge by powering a cable climber 1km vertically using a ground-based laser transmitter. The system produced up to 1kW of power at the receiver end. In August 2010, NASA contracted with private companies to pursue the design of laser power beaming systems to power low earth orbit satellites and to launch rockets using laser power beams.
+Wireless power transmission has been studied for transmission of power from solar power satellites to the earth. A high power array of microwave or laser transmitters would beam power to a rectenna. Major engineering and economic challenges face any solar power satellite project.
+Security of control systems[edit]
+The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (March 2013) (Learn how and when to remove this template message)
+The Federal government of the United States admits that the power grid is susceptible to cyber-warfare.[44][45] The United States Department of Homeland Security works with industry to identify vulnerabilities and to help industry enhance the security of control system networks, the federal government is also working to ensure that security is built in as the U.S. develops the next generation of 'smart grid' networks.[46]
+Records[edit]
+Highest capacity system: 6.3GW HVDC Itaipu (Brazil/Paraguay) (600kV DC)[47]
+Highest transmission voltage (AC):
+planned: 1.20MV (Ultra High Voltage) on Wardha-Aurangabad line (India) - under construction. Initially will operate at 400 kV.[48]
+worldwide: 1.15MV (Ultra High Voltage) on Ekibastuz-Kokshetau line (Kazakhstan)
+Largest double-circuit transmission, Kita-Iwaki Powerline (Japan).
+Highest towers: Yangtze River Crossing (China) (height: 345m or 1,132ft)
+Longest power line: Inga-Shaba (Democratic Republic of Congo) (length: 1,700 kilometres or 1,056 miles)
+Longest span of power line: 5,376m (17,638ft) at Ameralik Span (Greenland, Denmark)
+Longest submarine cables:
+NorNed, North Sea (Norway/Netherlands)  (length of submarine cable: 580 kilometres or 360 miles)
+Basslink, Bass Strait, (Australia)  (length of submarine cable: 290 kilometres or 180 miles, total length: 370.1 kilometres or 230 miles)
+Baltic Cable, Baltic Sea (Germany/Sweden)  (length of submarine cable: 238 kilometres or 148 miles, HVDC length: 250 kilometres or 155 miles, total length: 262 kilometres or 163 miles)
+Longest underground cables:
+Murraylink, Riverland/Sunraysia (Australia)  (length of underground cable: 180 kilometres or 112 miles)
+See also[edit]
+Energy portal
+General:
+Distributed generation
+Electricity distribution
+Green power grid
+Overhead power line
+Power outage
+Electricity market:
+Electricity market
+Dynamic demand (electric power)
+Demand response
+List of energy storage projects
+Transport:
+Traction power network
+Technical:
+Conductor marking lights
+Double-circuit transmission line
+Electromagnetic Transients Program (EMTP)
+Flexible AC transmission system (FACTS)
+Geomagnetically induced current, (GIC)
+Grid-tied electrical system
+High-voltage direct current (HVDC)
+List of high voltage underground and submarine cables
+Load profile
+Power line communications (PLC)
+Radio frequency power transmission
+Submarine power cable
+Three-phase electric power
+Wheeling (electric power transmission)
+References[edit]
+Notes
+^ "A Primer on Electric Utilities, Deregulation, and Restructuring of U.S. Electricity Markets" (pdf). United States Department of Energy Federal Energy Management Program (FEMP). May 2002. Retrieved December 27, 2008.
+^ Hans Dieter Betz, Ulrich Schumann, Pierre Laroche (2009). Lightning: Principles, Instruments and Applications. Springer, pp. 202203. ISBN 978-1-4020-9078-3. Retrieved on May 13, 2009.
+^ a b Thomas P. Hughes (1993). Networks of Power: Electrification in Western Society, 18801930. Baltimore: Johns Hopkins University Press. pp.119122. ISBN0-8018-4614-5.
+^ a b Guarnieri, M. (2013). "The Beginning of Electric Energy Transmission: Part One". IEEE Industrial Electronics Magazine. 7 (1): 5760. doi:10.1109/MIE.2012.2236484.
+^ National Council on Electricity Policy. "Electricity Transmission: A primer" (pdf).
+^ a b c Guarnieri, M. (2013). "The Beginning of Electric Energy Transmission: Part Two". IEEE Industrial Electronics Magazine. 7 (2): 5259. doi:10.1109/MIE.2013.2256297.
+^ Great Barrington 1886 - Inspiring an industry toward AC power
+^ ethw.org - William Stanley, Jr.
+^ Great Barrington 1886 - Inspiring an industry toward AC power
+^ Arnold Heertje, Mark Perlman Evolving Technology and Market Structure: Studies in Schumpeterian Economics, page 138
+^ a b Parke Hughes, Thomas (1993). Networks of Power: Electrification in Western Society, 1880-1930. JHU Press. pp.120121.
+^ Garud, Raghu; Kumaraswamy, Arun; Langlois, Richard (2009). Managing in the Modular Age: Architectures, Networks, and Organizations. John Wiley & Sons. p.249.
+^ Kiessling F, Nefzger P, Nolasco JF, Kaintzyk U (2003) Overhead power lines. Springer, Berlin, Heidelberg, New York, p. 5
+^ Bureau of Census data reprinted in Hughes, pp. 282283
+^ Hughes, pp. 293295
+^ a b Paris, L.; Zini, G.; Valtorta, M.; Manzoni, G.; Invernizzi, A.; De Franco, N.; Vian, A. (1984). "Present Limits of Very Long Distance Transmission Systems" (pdf). CIGRE International Conference on Large High Voltage Electric Systems, 1984 Session, 29th August-6th September. Global Energy Network Institute. Retrieved March 29, 2011. 4.98 MB
+^ "NYISO Zone Maps". New York Independent System Operator. Retrieved January 10, 2014.
+^ American Electric Power, Transmission Facts, page 4: http://www.aep.com/about/transmission/docs/transmission-facts.pdf
+^ California Public Utilities Commission Corona and induced currents
+^ a b "Where can I find data on electricity transmission and distribution losses?". Frequently Asked Questions  Electricity. U.S. Energy Information Administration. November 19, 2009. Retrieved March 29, 2011.
+^ Donald G. Fink and H. Wayne Beaty, Standard Handbook for Electrical Engineers (15th Edition) McGraw-Hill, 2007 ISBN 978-0-07-144146-9 section 18.5
+^ Guarnieri, M. (2013). "The Alternating Evolution of DC Power Transmission". IEEE Industrial Electronics Magazine. 7 (3): 6063. doi:10.1109/MIE.2013.2272238.
+^ Raghuvir Srinivasan (August 15, 2004). "Power transmission business is a natural monopoly". The Hindu Business Line. The Hindu. Retrieved January 31, 2008.
+^ Lynne Kiesling (August 18, 2003). "Rethink the Natural Monopoly Justification of Electricity Regulation". Reason Foundation. Retrieved January 31, 2008.
+^ What is the cost per kWh of bulk transmission / National Grid in the UK (note this excludes distribution costs)
+^ The Electric Power Transmission & Distribution (T&D) Equipment Market 20112021
+^ How ITC Holdings plans to connect PJM demand with Ontario's rich renewables, Utility Dive, Dec. 8, 2014, http://www.utilitydive.com/news/how-itc-holdings-plans-to-connect-pjm-demand-with-ontarios-rich-renewables/341524/
+^ Fiona Woolf (February 2003). Global Transmission Expansion. Pennwell Books. pp.226, 247. ISBN0-87814-862-0.
+^ Power Lines and Cancer, The Health Report / ABC Science - Broadcast on June 7, 1997 (Australian Broadcasting Corporation)
+^ Electromagnetic fields and public health, World Health Organization
+^ a b "Electromagnetic fields and public health". Fact sheet No. 322. World Health Organization. June 2007. Retrieved January 23, 2008.
+^ "Electric and Magnetic Fields Associated with the Use of Power" (PDF). National Institute of Environmental Health Sciences. June 2002. Retrieved January 29, 2008.
+^ Transmission Vegetation Management NERC Standard FAC-003-2 Technical Reference Page 14/50. http://www.nerc.com/docs/standards/sar/FAC-003-2_White_Paper_2009Sept9.pdf
+^ National Council on Electricity Policy. "Electricity Transmission: A primer" (pdf): 32 (41 in pdf).
+^ Wald, Matthew (August 27, 2008). "Wind Energy Bumps Into Power Grid's Limits". New York Times: A1. Retrieved December 12, 2008.
+^ Jacob Oestergaard; et al. (2001). "Energy losses of superconducting power transmission cables in the grid". IEEE Transactions on Applied Superconductivity. 11: 2375. doi:10.1109/77.920339.
+^ 600m superconducting electricity line laid in New York
+^ Superconducting cables will be used to supply electricity to consumers
+^ Superconductivity's First Century
+^ Albany HTS Cable Project
+^ High-Temperature Superconductors
+^ High-Temperature Superconductor Technology Stepped Up
+^ Operation of longest superconducting cable worldwide started
+^ BBC: Spies 'infiltrate US power grid'
+^ CNN: Video
+^ Reuters: US concerned power grid vulnerable to cyber-attack
+^ "Energy Systems, Environment and Development". Advanced Technology Assessment Systems. Global Energy Network Institute (6). Autumn 1991. Retrieved December 27, 2008.
+^ "India Steps It Up". Transmission & Distribution World. January 2013.
+Further reading[edit]
+Grigsby, L. L., et al. The Electric Power Engineering Handbook. USA: CRC Press. (2001). ISBN 0-8493-8578-4
+Hughes, Thomas P., Networks of Power: Electrification in Western Society 18801930, The Johns Hopkins University Press,Baltimore 1983 ISBN 0-8018-2873-2, an excellent overview of development during the first 50 years of commercial electric power
+Reilly, Helen (2008). Connecting the Country  New Zealands National Grid 18862007. Wellington: Steele Roberts. pp.376 pages. ISBN978-1-877448-40-9.
+Pansini, Anthony J, E.E., P.E. undergrounding electric lines. USA Hayden Book Co, 1978. ISBN 0-8104-0827-9
+Westinghouse Electric Corporation, "Electric power transmission patents; Tesla polyphase system". (Transmission of power; polyphase system; Tesla patents)
+The Physics of Everyday Stuff - Transmission Lines
+External links[edit]
+Wikimedia Commons has media related to Electric power transmission.
+Look up grid electricity in Wiktionary, the free dictionary.
+Japan: World's First In-Grid High-Temperature Superconducting Power Cable System - Link broken
+A Power Grid for the Hydrogen Economy: Overview/A Continental SuperGrid
+Global Energy Network Institute (GENI)  The GENI Initiative focuses on linking renewable energy resources around the world using international electricity transmission.
+Union for the Co-ordination of Transmission of Electricity (UCTE), the association of transmission system operators in continental Europe, running one of the two largest power transmission systems in the world
+Non-Ionizing Radiation, Part 1: Static and Extremely Low-Frequency (ELF) Electric and Magnetic Fields (2002) by the IARC  Link Broken.
+A Simulation of the Power Grid  The Trustworthy Cyber Infrastructure for the Power Grid (TCIP) group at the University of Illinois at Urbana-Champaign has developed lessons and an applet which illustrate the transmission of electricity from generators to energy consumers, and allows the user to manipulate generation, consumption, and power flow.
+Map of U.S. electric power generation and transmission
+Maps
+Electric power transmission systems (worldwide) based on Openstreetmap-Data
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+Authority control
+GND: 4121178-9
+NDL: 00571360
+NewPP limit report
+Parsed by mw1256
+Cached time: 20161119035447
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.408 seconds
+Real time usage: 0.578 seconds
+Preprocessor visited node count: 3162/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 84732/2097152 bytes
+Template argument size: 2275/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.162/10.000 seconds
+Lua memory usage: 7.27 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+383.823
+1 - -total
+32.91%
+126.310
+1 - Template:Reflist
+14.42%
+55.342
+10 - Template:Cite_journal
+13.41%
+51.457
+2 - Template:Citation_needed
+12.68%
+48.659
+2 - Template:Fix
+10.81%
+41.497
+19 - Template:Convert
+7.41%
+28.429
+4 - Template:Category_handler
+6.44%
+24.702
+7 - Template:Cite_web
+5.51%
+21.165
+1 - Template:Redirect
+5.33%
+20.441
+2 - Template:Navbox
+Saved in parser cache with key enwiki:pcache:idhash:38824-0!*!0!!en!4!*!math=5 and timestamp 20161119035446 and revision id 747067392
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Electric_power_transmission&oldid=747067392"
+Categories: Electric power transmissionElectrical engineeringMonopoly (economics)Electrical safetyHidden categories: Pages using ISBN magic linksUse mdy dates from April 2014All articles with unsourced statementsArticles with unsourced statements from November 2014Articles with limited geographic scope from March 2013Commons category with local link different than on WikidataWikipedia articles with GND identifiers

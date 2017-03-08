@@ -1,0 +1,37 @@
+Windowinsulationfilm
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Window insulation film is a plastic film which can be applied to glass windows to reduce heat transfer. There are two types in common use designed to reduce heat flow via radiation and convection respectively.
+Contents
+1 Solar control film
+2 Convection control film
+3 Applications
+4 See also
+5 References
+Solar control film[edit]
+This works by reflecting the infra-red component of solar energy (often 700W/sq M) and absorbing the UV component. Some films are also silvered or tinted to reduce visible light.
+Typical absorption for a silvered film is 65% for visible and infra red with 99% for UV. This type of film sticks directly onto the glass.
+Convection control film[edit]
+A film is attached to the window frame to trap a pocket of air between the glass and the film, creating a double-glazed system with an insulating gap of still air. Thermal conductivity of still air is 0.024 W/m/K and much lower than that of glass (0.96 W/m/K).[1] Factors which limit the performance of a double glazed window are gap width, convection within the cavity and radiative heat transfer across the gap which is largely independent of its width.
+Optimal gap width depends on the temperature difference imposed across the gap. A European standard (EN 673) uses 20C difference between the inside and outside temperature which results in an optimal simulated gap width of about 17mm for a standard double glazed window. A US standard (NFRC) uses a 39C difference which yields a smaller optimal gap width of about 13mm. Using the European standard a window with an ideal gap of 17mm has a simulated U-Value of about 2.8 W/m/K, a window with a much smaller gap of 6mm has a U-value of about 3.3 W/m/K, while a single glazed window has a U-value of about 5.5 W/m/K.[2] (see also insulated glazing).
+Typical window insulation film kit of plastic shrink film (folded-up) and a roll of double-sided tape
+One commonly used film is a heat-shrink plastic which is attached to the window frame using double-sided pressure-sensitive tape. A hair dryer is used to remove creases and improve optical clarity.
+Reduced heat flow also helps prevent condensation [3][4][5] which is triggered when the temperature of the inside surface falls below the dew point. Assuming an outside temperature of 0C with wind velocity 15mph and inside temperature 20C condensation occurs at only 30%RH relative humidity with a single-glazed system compared with 60%RH for a double-glazed system.[6] Condensation also transfers additional heat, which can be significant.
+Applications[edit]
+"Low-E" glass was introduced to the North American residential building market in the 1980s by a collaboration between Rob Hammon, now with BIRAenergy, and a windshield glass manufacturer.[7][8]
+Solar control film is an effective way to control excessive sunshine during the summer months.
+Convection control film is often used in winter when the outgoing heat flow is more important, especially for single-glazed windows where the temperature difference is often sufficient to cause condensation.
+See also[edit]
+Shrink film
+References[edit]
+^ Thermal conductivity of common materials Engineering toolbox
+^ [1] Optimal gap width for double and triple glazing systems
+^ Condensation on Inside Window Surfaces CANADIAN BUILDING DIGEST, Originally published April 1960, A. G. Wilson
+^ Questions about windows and condensation National Fenestration Rating Council
+^ Strategies to Prevent Condensation in Buildings Eduardo de Oliveira Fernandes, Vtor Leal and Francisco Craveiro IDMEC and DEMEGI, Faculty of Engineering, University of Porto Porto
+^ Condensation Potential Chart RLC Engineering, LLC.
+^ http://www.usglassmag.com/USGlass/2002/0208/LowEGrowth.html
+^ http://www.biraenergy.com/bira_team.html
+Saved in parser cache with key enwiki:pcache:idhash:21133261-0!*!0!!en!4!* and timestamp 20161022124417 and revision id 682934270
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Window_insulation_film&oldid=682934270"
+Categories: Building insulation materials

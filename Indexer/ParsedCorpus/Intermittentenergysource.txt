@@ -1,0 +1,567 @@
+Intermittentenergysource
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+The 150 MW Andasol solar power station is a commercial parabolic trough solar thermal power plant, located in Spain. The Andasol plant uses tanks of molten salt to store solar energy so that it can continue generating electricity even when the sun isn't shining.[1]
+Construction of the Salt Tanks which provide efficient thermal energy storage[2] so that output can be provided after the sun goes down, and output can be scheduled to meet demand requirements.[3] The 280MW Solana Generating Station is designed to provide six hours of energy storage. This allows the plant to generate about 38 percent of its rated capacity over the course of a year.[4]
+An intermittent energy source is any source of energy or electrical power that is not continuously available due to some factor outside direct control. The intermittent source may be quite predictable, for example, tidal power, but cannot be dispatched to meet the demand of a power system. Effective use of intermittent sources in an electric power grid usually relies on using the intermittent sources to displace fuel that would otherwise be consumed by non-renewable power stations, or by storing energy in the form of renewable pumped storage, compressed air or ice, or in batteries, for use when needed, or as electrode heating for district heating schemes.
+The capacity of a reliable renewable power supply, can be fulfilled by the use of backup or extra infrastructure and technology, using mixed renewables to produce electricity above the intermittent average, which may be utilised to meet regular and unanticipated supply demands.[5] Additionally, the storage of energy to fill the shortfall intermittency or for emergencies can be part of a reliable power supply.
+The penetration of intermittent renewables in most power grids is low, global electricity production in 2014 was supplied by 3.1% wind, and 1% solar.[6] Wind generates roughly 16% of electric energy in Spain and Portugal,[7] 15.3% in Ireland,[8] and 7% in Germany.[9] As of 2014[update], wind provides 39% of the electricity generated in Denmark.[10][11][12] To operate with this level of penetration, Denmark exports surpluses and imports during shortfalls to and from neighbouring countries, particularly hydroelectric power from Norway, to balance supply with demand.[13] It also uses large numbers of combined heat and power (CHP) stations which can rapidly adjust output.[14]
+The use of small amounts of intermittent power has little effect on grid operations. Using larger amounts of intermittent power may require upgrades or even a redesign of the grid infrastructure.[15][16]
+Contents
+1 Terminology
+2 Intermittency of various power sources
+2.1 Solar energy
+2.2 Wind energy
+2.3 Nuclear power
+3 Solving intermittency
+4 Compensating for variability
+4.1 Operational reserve
+4.2 Demand reduction or increase
+4.3 Storage and demand loading
+4.4 Geographic diversity
+4.5 Complementary power sources and matching demand
+4.6 Export & import arrangements with neighboring systems
+5 Penetration
+5.1 Maximum penetration limits
+5.2 Penetration studies
+5.2.1 European super grid
+5.2.2 Grid study in Ireland
+5.2.3 Canada
+5.2.4 Denmark
+6 Economic impacts of variability
+6.1 Analyses of costs
+6.1.1 Colorado  separate reports by Xcel and UCS
+6.1.2 UK studies
+6.1.3 Minnesota
+7 Intermittency and renewable energy
+7.1 Views of critics of high penetration renewable energy use
+7.2 Views of proponents of high penetration renewable energy use
+8 See also
+9 Further reading
+10 References
+11 External links
+Terminology[edit]
+Several key terms are useful for understanding the issue of intermittent power sources. These terms are not standardized, and variations may be used. Most of these terms also apply to traditional power plants.
+Intermittency can mean the extent to which a power source is unintentionally stopped or unavailable, but intermittency is frequently used as though it were synonymous with variability.[17][18]
+Variability is the extent to which a power source may exhibit undesired or uncontrolled changes in output.[17]
+Dispatchability or maneuverability is the ability of a given power source to increase and/or decrease output quickly on demand. The concept is distinct from intermittency; maneuverability is one of several ways grid operators match output (supply) to system demand.[18]
+Nominal or nameplate capacity, or maximum effect refers to the normal maximum output of a generating source. This is the most common number used and is typically expressed in megawatts (MW).
+Capacity factor, average capacity factor, or load factor is the average expected output of a generator, usually over an annual period. Expressed as a percentage of the nameplate capacity or in decimal form (e.g. 30% or 0.30).
+Capacity credit: generally, the amount of output from a power source that may be statistically relied upon, expressed as a percentage.[19]
+Penetration in this context is generally used to refer to the amount of energy generated as a percentage of annual consumption.[20]
+Firm capacity the amount of power that can be guaranteed to be provided as base power
+Non-firm capacity the amount of power above the firm capacity that is usually to be sold at higher price on the spot market
+Intermittency of various power sources[edit]
+Solar energy[edit]
+See also: Solar power
+Dish Stirling
+Seasonal variation of the output of the solar panels at AT&T park in San Francisco
+Intermittency inherently affects solar energy, as the production of electricity from solar sources depends on the amount of sunlight at a given place and time. Solar output varies throughout the day and through the seasons, and is affected by dust, cloud cover, frost or snow. Many of the seasonal factors are fairly predictable, and some solar thermal systems make use of heat storage to produce grid power for a full day.[21]
+Intermittency: In the absence of an energy storage system, solar does not produce power at night or in bad weather and varies between summer and winter. When intended to produce electricity only for peak air conditioning loads, there is no intermittency.
+Capacity factor Photovoltaic solar in Massachusetts 1215%.[22] Photovoltaic solar in Arizona 19%.[23] Thermal solar parabolic trough with storage 56%.[24] Thermal solar power tower with storage 73%.[24]
+The extent to which the intermittency of solar-generated electricity is an issue will depend on the degree to which the generation profile of solar corresponds to demand. For example, solar thermal power plants such as Nevada Solar One are somewhat matched to summer peak loads in areas with significant cooling demands, such as the south-western United States. Thermal energy storage systems like the small Spanish Gemasolar Thermosolar Plant can improve the match between solar supply and local consumption. The improved capacity factor using thermal storage represents a decrease in maximum capacity, and extends the total time the system generates power.[25][26][27]
+Wind energy[edit]
+Erie Shores Wind Farm monthly output over a two-year period
+A wind farm in Muppandal, Tamil Nadu, India
+Over the entire year more than 20 percent of South Dakota's electricity is generated from wind power.
+Wind-generated power is a variable resource, and the amount of electricity produced at any given point in time by a given plant will depend on wind speeds, air density, and turbine characteristics (among other factors). If wind speed is too low (less than about 2.5m/s) then the wind turbines will not be able to make electricity, and if it is too high (more than about 25m/s) the turbines will have to be shut down to avoid damage. While the output from a single turbine can vary greatly and rapidly as local wind speeds vary, as more turbines are connected over larger and larger areas the average power output becomes less variable.[28]
+Intermittence: A single wind turbine is highly intermittent. Theoretical arguments often claim that wind farms spread over a geographically diverse area will as a whole rarely stop producing power altogether,[29] however this is in contradiction to the observed variability in total power output of wind turbines installed in Ireland and Denmark.[30][31]
+Capacity Factor: Wind power typically has a capacity factor of 20-40%.[22][32]
+Dispatchability: Wind power is "highly non-dispatchable".[33] MISO, which operates a large section of the U.S. grid, has over 13,000MW of wind power under its control and is able to manage this large amount of wind power by operating it as dispatchable intermittent resources.[34]
+Capacity Credit: At low levels of penetration, the capacity credit of wind is about the same as the capacity factor. As the concentration of wind power on the grid rises, the capacity credit percentage drops.[32][35]
+Variability: Site dependent.[36] Sea breezes are much more constant than land breezes.[28]
+Reliability: A wind farm is highly reliable (although highly intermittent). That is, the output at any given time will only vary gradually due to falling wind speeds or storms (the latter necessitating shut downs). A typical wind farm is unlikely to have to shut down in less than half an hour at the extreme, whereas an equivalent sized power station can fail totally instantaneously and without warning. The total shut down of wind turbines is predictable via weather forecasting. The average availability of a wind turbine is 98%, and when a turbine fails or is shutdown for maintenance it only affects a small percentage of the output of a large wind farm.[37]
+According to a study of wind in the United States, ten or more widely separated wind farms connected through the grid could be relied upon for from 33 to 47% of their average output (1520% of nominal capacity) as reliable, baseload power, as long as minimum criteria are met for wind speed and turbine height.[38][39] When calculating the generating capacity available to meet summer peak demand, ERCOT (manages Texas grid) counts wind generation at 8.7% of nameplate capacity.[40]
+Wind generates about 16% (EWEA  2011 European Statistics, February 2012) of electric energy in Spain and Portugal,[7] 9% in Ireland,[7] and 7% in Germany.[9] Wind provides nearly 20% of the electricity generated in Denmark,[41][42] to meet this percentage Denmark exports surpluses and imports during shortfalls to and from the EU grid, particularly Norwegien Hydro, to balance supply with demand.[13] It also uses large numbers of Combined Heat And power stations which can rapidly flex output. The large thermal stores in these systems are also utilised to store surplus wind energy, since thermal storage is the cheapest form of energy storage.
+Because wind power is generated by large numbers of small generators, individual failures do not have large impacts on power grids. This feature of wind has been referred to as resiliency.[43]
+Wind power is affected by air temperature because colder air is more dense and therefore more effective at producing wind power. As a result, wind power is affected seasonally (more output in winter than summer) and by daily temperature variations. During the 2006 California heat wave output from wind power in California significantly decreased to an average of 4% of capacity for seven days.[44] A similar result was seen during the 2003 European heat wave, when the output of wind power in France, Germany, and Spain fell below 10% during peak demand times.[45]
+Five days of hourly output of five wind farms in Ontario
+According to an article in EnergyPulse, "the development and expansion of well-functioning day-ahead and real time markets will provide an effective means of dealing with the variability of wind generation."[46]
+Nuclear power[edit]
+Several authors have said that no energy resource is totally reliable. Amory Lovins says that nuclear power plants are intermittent in that they will sometimes fail unexpectedly, often for long periods of time.[47] For example, in the United States, 132 nuclear plants were built, and 21% were permanently and prematurely closed due to reliability or cost problems, while another 27% have at least once completely failed for a year or more. The remaining U.S. nuclear plants produce approximately 90% of their full-time full-load potential, but even they must shut down (on average) for 39 days every 17 months for scheduled refueling and maintenance.[47] To cope with such intermittence by nuclear (and centralized fossil-fuelled) power plants, utilities install a "reserve margin" of roughly 15% extra capacity spinning ready for instant use.[47]
+Solid fuel nuclear plants have an additional disadvantage; for safety, they must instantly shut down in a power failure, but for nuclear-physics reasons, they cant be restarted quickly. For example, during the Northeast Blackout of 2003, nine operating U.S. nuclear units had to shut down and were later restarted. During the first three days, while they were most needed, their output was less than 3% of normal. After twelve days of restart, their average capacity loss had exceeded 50 percent.[47] Liquid fuel nuclear plants, particularly those with their fuel dissolved in salts, don't have the same downtime issues. Their nuclear fuel goes into a drain tank when any failure inside or outside occurs. This happens passively when the freeze plug melts because of the heat created by fission (in operation the freeze plug is actively cooled). The fuel is cooled passively and slowly, so when a restart is requested the fuel salt can simply be pumped back into the reactor core as it is stil a liquid.[48] If the plant was shut down longer, the fuel needs to be reheated electrically and then pumped back. The reason a solid fuel reactor can't be restarted within seconds is because of the buildup of xenon, a radioactive gas that absorbs a lot of neutrons. As it is a gas it simply comes out of solution in a liquid fuel reactor[49] and does not affect the restart process.[50]
+Solving intermittency[edit]
+See also: 100% renewable energy
+The intermittency and variability of renewable energy sources can be reduced and accommodated by diversifying their technology type and geographical location, forecasting their variation, and integrating them with dispatchable renewables (such as hydropower, geothermal, and biomass). Combining this with energy storage and demand response can create a power system that can reliably match real-time energy demand. The integration of ever-higher levels of renewables has already been successfully demonstrated:[51]
+In 2009, eight American and three European authorities, writing in the leading electrical engineers' professional journal, didn't find "a credible and firm technical limit to the amount of wind energy that can be accommodated by electricity grids". In Fact, not one of more than 200 international studies, nor official studies for the eastern and western U.S. regions, nor the International Energy Agency, has found major costs or technical barriers to reliably integrating up to 30% variable renewable supplies into the grid, and in some studies much more.[51]
+A research group at Harvard University quantified the meteorologically defined limits to reduction in the variability of outputs from a coupled wind farm system in the Central US:
+The problem with the output from a single wind farm located in any particular region is that it is variable on time scales ranging from minutes to days posing difficulties for incorporating relevant outputs into an integrated power system. The high frequency (shorter than once per day) variability of contributions from individual wind farms is determined mainly by locally generated small scale boundary layer. The low frequency variability (longer than once per day) is associated with the passage of transient waves in the atmosphere with a characteristic time scale of several days. The high frequency variability of wind-generated power can be significantly reduced by coupling outputs from 5 to 10 wind farms distributed uniformly over a ten state region of the Central US. More than 95% of the remaining variability of the coupled system is concentrated at time scales longer than a day, allowing operators to take advantage of multi-day weather forecasts in scheduling projected contributions from wind.[36]
+Mark Z. Jacobson has studied how wind, water and solar technologies can be integrated to provide the majority of the world's energy needs.[52] He advocates a "smart mix" of renewable energy sources to reliably meet electricity demand:
+Because the wind blows during stormy conditions when the sun does not shine and the sun often shines on calm days with little wind, combining wind and solar can go a long way toward meeting demand, especially when geothermal provides a steady base and hydroelectric can be called on to fill in the gaps.[53]
+Mark A. Delucchi and Mark Z. Jacobson argue that there are at least seven ways to design and operate renewable energy systems so that they will reliably satisfy electricity demand:[54]
+Interconnect geographically dispersed, technologically diverse renewable generation types (such as wind, solar, and tidal) to smooth out daily supply variability. For example, solar power generation is highest at midday, and wind is often strongest at night and early morning. The combined solar-wind resource has lower variance than either individual source.
+Use dispatchable renewable energy generators (such as hydroelectric, geothermal, and biomass) to fill energy deficits between demand and intermittent resource generation.
+Use demand response (or demand-side management) to shift flexible loads to a time when more renewable energy is available, and away from times when renewable generation is low. This requires that loads be capable of receiving and responding to price or control signals from the local utility or grid operator.
+Store excess renewable power, which would otherwise be curtailed, for later use at times when generation is not sufficient to meet load. Some energy storage technology types include pumped hydro, electrochemical batteries, flywheels, compressed air, and hydrogen. These energy storage resources can be located near intermittent generation, behind the meter at homes and business, or at any other point on the electric grid. Customer-sited storage is typically used to increase self-consumption of distributed energy resources such as photovoltaic panels, to shift grid power consumption towards off-peak hours, and to reduce demand charges. Grid-scale storage is typically used to provide ancillary services to the grid, such as frequency regulation, synchronous spinning reserve capacity, and load-following.
+Over-size renewable peak generation capacity to minimize the times when available renewable power is less than demand, and to provide spare power to produce hydrogen for flexible transportation and heat uses.
+Use electric vehicles as an additional storage resource. The first generation of this technology, known as V1G (unidirectional managed charging), involves smart charging at times when the grid can accommodate additional load, with power only flowing into the vehicle. A further development, known as V2B (vehicle-to-building), sees bidirectional power flow into the vehicle at optimal times, and out of the vehicle to meet building demand. The most advanced form, known as V2G (Vehicle-to-grid), sees power exported from the EV back on to the grid when needed.
+Forecast the weather (winds, sunlight, waves, tides and precipitation) to better plan for energy supply needs.[54]
+Technological solutions to mitigate large-scale wind energy type intermittency exist such as increased interconnection (the European super grid), Demand response, load management, diesel generators (in the British National Grid, Frequency Response / National Grid Reserve Service type schemes, and use of existing power stations on standby. Studies by academics and grid operators indicate that the cost of compensating for intermittency is expected to be high at levels of penetration above the low levels currently in use today[55][56][57] Large, distributed power grids are better able to deal with high levels of penetration than small, isolated grids. For a hypothetical European-wide power grid, analysis has shown that wind energy penetration levels as high as 70% are viable,[58] and that the cost of the extra transmission lines would be only around 10% of the turbine cost, yielding power at around present day prices.[59] Smaller grids may be less tolerant to high levels of penetration.[15][60]
+Matching power demand to supply is not a problem specific to intermittent power sources. Existing power grids already contain elements of uncertainty including sudden and large changes in demand and unforeseen power plant failures. Though power grids are already designed to have some capacity in excess of projected peak demand to deal with these problems, significant upgrades may be required to accommodate large amounts of intermittent power. The International Energy Agency (IEA) states: "In the case of wind power, operational reserve is the additional generating reserve needed to ensure that differences between forecast and actual volumes of generation and demand can be met. Again, it has to be noted that already significant amounts of this reserve are operating on the grid due to the general safety and quality demands of the grid. Wind imposes additional demands only inasmuch as it increases variability and unpredictability. However, these factors are nothing completely new to system operators. By adding another variable, wind power changes the degree of uncertainty, but not the kind..."[28]
+Compensating for variability[edit]
+See also: Electric power transmission
+All sources of electrical power have some degree of unpredictability, and demand patterns routinely drive large swings in the amount of electricity that suppliers feed into the grid. Wherever possible, grid operations procedures are designed to match supply with demand at high levels of reliability, and the tools to influence supply and demand are well-developed. The introduction of large amounts of highly variable power generation may require changes to existing procedures and additional investments.
+Operational reserve[edit]
+See also: National Grid Reserve Service
+All managed grids already have existing operational and "spinning" reserve to compensate for existing uncertainties in the power grid. The addition of intermittent resources such as wind does not require 100% "back-up" because operating reserves and balancing requirements are calculated on a system-wide basis, and not dedicated to a specific generating plant.
+Some coal, gas, or hydro power plants are partially loaded and then controlled to change as demand changes or to replace rapidly lost generation. The ability to change as demand changes is termed "response." The ability to quickly replace lost generation, typically within timescales of 30seconds to 30minutes, is termed "spinning reserve."
+Generally thermal plants running as peaking plants will be less efficient than if they were running as base load.
+Hydroelectric facilities with storage capacity (such as the traditional dam configuration) may be operated as base load or peaking plants.
+In practice, as the power output from wind varies, partially loaded conventional plants, which are already present to provide response and reserve, adjust their output to compensate.
+While low penetrations of intermittent power may utilize existing levels of response and spinning reserve, the larger overall variations at higher penetrations levels will require additional reserves or other means of compensation.
+Demand reduction or increase[edit]
+Demand response refers to the use of communication and switching devices which can release deferrable loads quickly, or absorb additional energy to correct supply/demand imbalances. Incentives have been widely created in the American, British and French systems for the use of these systems, such as favorable rates or capital cost assistance, encouraging consumers with large loads to take them off line or to start diesels whenever there is a shortage of capacity, or conversely to increase load when there is a surplus.
+Certain types of load control allow the power company to turn loads off remotely if insufficient power is available. In France large users such as CERN cut power usage as required by the System Operator - EDF under the encouragement of the EJP tariff.[61][62]
+Energy demand management refers to incentives to adjust use of electricity, such as higher rates during peak hours.
+Real-time variable electricity pricing can encourage users to adjust usage to take advantage of periods when power is cheaply available and avoid periods when it is more scarce and expensive.[63]
+Instantaneous demand reduction. Most large systems also have a category of loads which instantly disconnect when there is a generation shortage, under some mutually beneficial contract. This can give instant load reductions (or increases). See National Grid Reserve Service
+Diesel generators, originally or primarily installed for emergency power supply are often also connected to the National Grid in the UK to help deal with short term demand supply mismatches.[64]
+Storage and demand loading[edit]
+Main article: Grid energy storage
+At times of low or falling demand where wind output may be high or increasing, grid stability may require lowering the output of various generating sources or even increasing demand, possibly by using energy storage to time-shift output to times of higher demand. Such mechanisms can include:
+Pumped storage hydropower is the most prevalent existing technology used, and can substantially improve the economics of wind power. The availability of hydropower sites suitable for storage will vary from grid to grid. Typical round trip efficiency is 80%.[28][65] See also: Pumped-storage hydroelectricity
+Thermal energy storage stores heat. Stored heat can be used directly for heating needs or converted into electricity.
+Ice storage air conditioning Ice can be stored inter seasonally and can be used as a source of air-conditioning during periods of high demand. Present systems only need to store ice for a few hours but are well developed.
+Hydrogen can be created through electrolysis and stored for later use. NREL found that a kilogram of hydrogen (roughly equivalent to a gallon of gasoline) could be produced for between US$5.55 in the near term and $2.27 in the long term.[66]
+Rechargeable flow batteries can serve as a large capacity, rapid-response storage medium.[18] Main article: Flow batteries
+Traditional lithium-ion batteries have a large environmental footprint, but new technologies such as air-breathing batteries could provide an enviro-friendly solution to renewable energy storage.[67]
+Some loads such as desalination plants, electric boilers and industrial refrigeration units, are able to store their output (water and heat.) These "opportunistic loads" are able to take advantage of "burst electricity" when it is available.
+Various other potential applications are being considered, such as charging plug-in electric vehicles during periods of low demand and high production; such technologies are not widely used at this time.
+Storage of electrical energy results in some lost energy because storage and retrieval are not perfectly efficient. Storage may also require substantial capital investment and space for storage facilities.
+Geographic diversity[edit]
+The variability of production from a single wind turbine can be high. Combining any additional number of turbines (for example, in a wind farm) results in lower statistical variation, as long as the correlation between the output of each turbine is imperfect, and the correlations are always imperfect due to the distance between each turbine. Similarly, geographically distant wind turbines or wind farms have lower correlations, reducing overall variability. Since wind power is dependent on weather systems, there is a limit to the benefit of this geographic diversity for any power system.[36]
+Multiple wind farms spread over a wide geographic area and gridded together produce power more constantly and with less variability than smaller installations. Wind output can be predicted with some degree of confidence using weather forecasts, especially from large numbers of turbines/farms. The ability to predict wind output is expected to increase over time as data is collected, especially from newer facilities.[36]
+Complementary power sources and matching demand[edit]
+Electricity produced from solar energy could be a counterbalance to the fluctuating supplies generated from wind. In some locations, it tends to be windier at night and during cloudy or stormy weather, so there is likely to be more sunshine when there is less wind.[68]
+In some locations, electricity demand may have a high correlation with wind output, particularly in locations where cold temperatures drive electric consumption (as cold air is denser and carries more energy).
+Intermittent solar electricity generation has a direct correlation where hot sunny weather drives high cooling demands. This is an ideal relationship between intermittent energy and demand.
+The allowable penetration may be further increased by increasing the amount of part-loaded generation available. Systems with existing high levels of hydroelectric generation may be able to incorporate substantial amounts of wind, although high hydro penetration may indicate that hydro is already a low-cost source of electricity; Norway, Quebec, and Manitoba all have high levels of existing hydroelectric generation (Quebec produces over 90% of its electricity from hydropower, and the local utility, Hydro-Qubec, is the largest single hydropower producer in the world). The U.S. Pacific Northwest has been identified as another region where wind energy is complemented well by existing hydropower, and there were "no fundamental technical barriers" to integrating up to 6,000MW of wind capacity.[69] Storage capacity in hydropower facilities will be limited by size of reservoir, and environmental and other considerations.
+The Institute for Solar Energy Supply Technology of the University of Kassel, Germany pilot-tested a combined power plant linking solar, wind, biogas and hydrostorage to provide load-following power around the clock, entirely from renewable sources.[70]
+Export & import arrangements with neighboring systems[edit]
+It is often feasible to export energy to neighboring grids at times of surplus, and import energy when needed. This practice is common in Western Europe and North America.
+Integration with other grids can lower the effective concentration of variable power. Denmark's 44% penetration, in the context of the German/Dutch/Scandinavian grids with which it has interconnections, is considerably lower as a proportion of the total system. This effect is diminished if more neighboring grids also have high penetration levels of variable power.
+Integration of grids may decrease the overall variability of both supply and demand by increasing geographical diversity.
+Methods of compensating for power variability in one grid, such as peaking-plants or pumped-storage hydro-electricity, may be taken advantage of by importing variable power from another grid that is short on such capabilities.
+The capacity of power transmission infrastructure may have to be substantially upgraded to support export/import plans.
+Some energy is lost in transmission.
+The economic value of exporting variable power depends in part on the ability of the exporting grid to provide the importing grid with useful power at useful times for an attractive price.
+See also: HVDC and Super grid
+Penetration[edit]
+Penetration refers to the proportion of a power source on a system, expressed as a percentage.[20] There are several ways that this can be calculated, with the different methods yielding different penetrations. It can be calculated either as:[71]
+the nominal capacity of a power source divided by peak demand; or
+the nominal capacity of a power source divided by total capacity; or
+the average power generated by a power source, divided by the average system demand.
+The level of penetration of intermittent variable sources is significant for the following reasons:
+Power grids with significant amounts pumped storage, hydropower or other peaking power plants such as natural gas-fired power plants are more inherently capable of accommodating fluctuations from intermittent power.[72]
+Isolated, relatively small systems with only a few wind plants may only be stable and economic with a lower fraction of wind energy (e.g. Ireland), although mixed wind/diesel systems have been used in isolated communities with success at relatively high penetration levels.[73]
+Renewable electricity supply in the 20-50+% penetration range has already been implemented in several European systems, albeit in the context of an integrated European grid system:[51]
+In 2010, four German states, totaling 10 million people, relied on wind power for 43-52% of their annual electricity needs. Denmark isn't far behind, supplying 22% of its power from wind in 2010 (26% in an average wind year). The Extremadura region of Spain is getting up to 25% of its electricity from solar, while the whole country meets 16% of its demand from wind. Just during 2005-2010, Portugal vaulted from 17% to 45% renewable electricity.[51]
+There is no generally accepted maximum level of penetration, as each system's capacity to compensate for intermittency differs, and the systems themselves will change over time. Discussion of acceptable or unacceptable penetration figures should be treated and used with caution, as the relevance or significance will be highly dependent on local factors, grid structure and management, and existing generation capacity.
+For most systems worldwide, existing penetration levels are significantly lower than practical or theoretical maximums; for example, a UK study found that "it is clear that intermittent generation need not compromise electricity system reliability at any level of penetration foreseeable in Britain over the next 20 years, although it may increase costs."[71]
+Maximum penetration limits[edit]
+There is no generally accepted maximum penetration of wind energy that would be feasible in any given grid. Rather, economic efficiency and cost considerations are more likely to dominate as critical factors; technical solutions may allow higher penetration levels to be considered in future, particularly if cost considerations are secondary.
+High penetration scenarios may be feasible in certain circumstances:
+Power generation for periods of little or no wind generation can be provided by retaining the existing power stations. The cost of using existing power stations for this purpose may be low since fuel costs dominate the operating costs. The actual cost of paying to keep a power station idle, but usable at short notice, may be estimated from published spark spreads and dark spreads. As existing traditional plant ages, the cost of replacing or refurbishing these facilities will become part of the cost of high-penetration wind if they are used only to provide operational reserve.
+Automatic load shedding of large industrial loads and its subsequent automatic reconnection is established technology and used in the UK and U.S., and known as Frequency Service contractors in the UK. Several GW are switched off and on each month in the UK in this way. Reserve Service contractors offer fast response gas turbines and even faster diesels in the UK, France and U.S. to control grid stability.
+In a close-to-100% wind scenario, surplus wind power can be allowed for by increasing the levels of the existing Reserve and Frequency Service schemes and by extending the scheme to domestic-sized loads. Energy can be stored by advancing deferrable domestic loads such as storage heaters, water heaters, fridge motors, or even hydrogen production, and load can be shed by turning such equipment off.
+Alternatively or additionally, power can be exported to neighboring grids and re-imported later. HVDC cables are efficient with 3% loss per 1000km and may be inexpensive in certain circumstances. For example, an 8 GW link from UK to France would cost about 1billion using high-voltage direct current cables. Under such scenarios, the amount of transmission capacity required may be many times higher than currently available.
+Penetration studies[edit]
+Studies have been conducted to assess the viability of specific penetration levels in specific energy markets.
+European super grid[edit]
+A series of detailed modelling studies by Dr. Gregor Czisch, which looked at the European wide adoption of renewable energy and interlinking power grids the European super grid using HVDC cables, indicates that the entire European power usage could come from renewables, with 70% total energy from wind at the same sort of costs or lower than at present.[60] This proposed large European power grid has been called a "super grid."[74][75]
+The model deals with intermittent power issues by using base-load renewables such as hydroelectric and biomass for a substantial portion of the remaining 30% and by heavy use of HVDC to shift power from windy areas to non-windy areas. The report states that "electricity transport proves to be one of the keys to an economical electricity supply" and underscores the importance of "international co-operation in the field of renewable energy use [and] transmission."[60][76][77]
+Dr. Czisch described the concept in an interview, saying "For example, if we look at wind energy in Europe. We have a winter wind region where the maximum production is in winter and in the Sahara region in northern Africa the highest wind production is in the summer and if you combine both, you come quite close to the needs of the people living in the whole area - let's say from northern Russia down to the southern part of the Sahara."[78]
+Grid study in Ireland[edit]
+A study of the grid in Ireland indicates that it would be feasible to accommodate 42% (of demand) renewables in the electricity mix.[79] This acceptable level of renewable penetration was found in what the study called Scenario 5, provided 47% of electrical capacity (different from demand) with the following mix of renewable energies:
+6,000 MW wind
+360 MW base load renewables
+285 MW additional variable renewables (other intermittent sources)
+The study cautions that various assumptions were made that "may have understated dispatch restrictions, resulting in an underestimation of operational costs, required wind curtailment, and CO2 emissions" and that "The limitations of the study may overstate the technical feasibility of the portfolios analyzed..."
+Scenario 6, which proposed renewables providing 59% of electrical capacity and 54% of demand had problems. Scenario 6 proposed the following mix of renewable energies:
+8,000 MW wind
+392 MW base load renewables
+1,685 MW additional variable renewables (other intermittent sources)
+The study found that for Scenario 6, "a significant number of hours characterized by extreme system situations occurred where load and reserve requirements could not be met. The results of the network study indicated that for such extreme renewable penetration scenarios, a system re-design is required, rather than a reinforcement exercise." The study declined to analyze the cost effectiveness of the required changes because "determination of costs and benefits had become extremely dependent on the assumptions made" and this uncertainty would have impacted the robustness of the results.[15]
+Canada[edit]
+A study published in October 2006, by the Ontario Independent Electric System Operator (IESO) found that "there would be minimal system operation impacts for levels of wind capacity up to 5,000MW," which corresponds to a peak penetration of 17%[80]
+Denmark[edit]
+A November 2006 analysis, found that "wind power may be able to cover more than 50% of the Danish electricity consumption in 2025" under conditions of high oil prices and higher costs for CO2 allowances.[81] Denmark's two grids (covering West Denmark and East Denmark separately) each incorporate high-capacity interconnectors to neighbouring grids where some of the variations from wind are absorbed.[82] In 2012 the Danish government adopted a plan to increase the share of electricity production from wind to 50% by 2020,[83][84] and to 84% in 2035.[85]
+Economic impacts of variability[edit]
+Estimates of the cost of wind energy may include estimates of the "external" costs of wind variability, or be limited to the cost of production. All electrical plant has costs that are separate from the cost of production, including, for example, the cost of any necessary transmission capacity or reserve capacity in case of loss of generating capacity. Many types of generation, particularly fossil fuel derived, will also have cost externalities such as pollution, greenhouse gas emission, and habitat destruction which are generally not directly accounted for. The magnitude of the economic impacts is debated and will vary by location, but is expected to rise with higher penetration levels. At low penetration levels, costs such as operating reserve and balancing costs are believed to be insignificant.
+Intermittency may introduce additional costs that are distinct from or of a different magnitude than for traditional generation types. These may include:
+Transmission capacity: transmission capacity may be more expensive than for nuclear and coal generating capacity due to lower load factors. Transmission capacity will generally be sized to projected peak output, but average capacity for wind will be significantly lower, raising cost per unit of energy actually transmitted. However transmission costs are a low fraction of total energy costs.[86]
+Additional operating reserve: if additional wind does not correspond to demand patterns, additional operating reserve may be required compared to other generating types, however this does not result in higher capital costs for additional plants since this is merely existing plants running at low output - spinning reserve. Contrary to statements that all wind must be backed by an equal amount of "back-up capacity", intermittent generators contribute to base capacity "as long as there is some probability of output during peak periods." Back-up capacity is not attributed to individual generators, as back-up or operating reserve "only have meaning at the system level."[87]
+Balancing costs: to maintain grid stability, some additional costs may be incurred for balancing of load with demand. The ability of the grid to balance supply with demand will depend on the rate of change of the amount of energy produced (by wind, for example) and the ability of other sources to ramp production up or scale production down. Balancing costs have generally been found to be low.
+Storage, export and load management: at high penetrations (more than 30%),[citation needed] solutions (described below) for dealing with high output of wind during periods of low demand may be required. These may require additional capital expenditures, or result in lower marginal income for wind producers.
+Analyses of costs[edit]
+Studies have been performed to determine the costs of variability. RenewableUK states:
+
+A review of integration studies, worldwide, suggests that the additional costs of integrating wind are around 2/MWh with 10% wind, rising to 3/MWh with 20% wind.[88]
+
+Colorado  separate reports by Xcel and UCS[edit]
+An official at Xcel Energy claimed that at 20 percent penetration, additional standby generators to compensate for wind in Colorado would cost $8 per MWh, adding between 13% and 16% to the US$5060 cost per MWh of wind energy.[89]
+The Union of Concerned Scientists conducted a study of the costs to increase the renewable penetration in Colorado to 10% and found that for an average residential bill "customers of municipal utilities and rural electric cooperatives that opt out of the solar energy requirement" would save 4 cents per month, but that for Xcel Energy customers there would be additional cost of about 10 cents per month. Total impact on all consumers would be $4.5 million or 0.01% over two decades.[90][91]
+UK studies[edit]
+A detailed study for UK National Grid (a private power company) states "We have estimated that for the case with 8,000MW of wind needed to meet the 10% renewables target for 2010, balancing costs can be expected to increase by around 2 per MWh of wind production. This would represent an additional 40million per annum, just over 10% of existing annual balancing costs."[92][93]
+In evidence to the UK House of Lords Economic Affairs Select Committee, National Grid have quoted estimates of balancing costs for 40% wind and these lie in the range 500-1000M per annum. "These balancing costs represent an additional 6 to 12 per annum on average consumer electricity bill of around 390."[94]
+National Grid notes that "increasing levels of such renewable generation on the system would increase the costs of balancing the system and managing system frequency."[93]
+A 2003 report,[16] by Carbon Trust and the UK Department of Trade and Industry (DTI), projected costs of 1.6 to 2.4 billion for reinforcement and new build of transmission and distribution systems to support 10% renewable electricity in the UK by 2010, and 3.2bn to 4.5bn for 20% by 2020. The study classified "Intermittency" as "Not a significant issue" for the 2010 target but a "Significant Issue" for the 2020 target. See grid balancing
+Minnesota[edit]
+A Minnesota study on wind penetration levels and found that "total integration operating cost for up to 25% wind energy" would be less than $0.0045 per kWh (additional).[95]
+Intermittency and renewable energy[edit]
+There are differing views about some sources of renewable energy and intermittency. The World Nuclear Association argues that the sun, wind, tides and waves cannot be controlled to provide directly either continuous base-load power, or peak-load power when it is needed.[96] Proponents of renewable energy use argue that the issue of intermittency of renewables is over-stated, and that practical experience demonstrates this.[97] In any case, geothermal renewable energy has, like nuclear, no intermittency (but they both use the energy in radioactive materials like uranium, thorium and potassium).
+Views of critics of high penetration renewable energy use[edit]
+For many years there was a consensus within the electric utilities in the U.S. that renewable electricity generators such as wind and solar are so unreliable and intermittent that they will never be able to contribute significantly to electric supply or provide baseload power. Thomas Petersnik, an analyst with the U.S. Energy Information Administration put it this way: "by and large, renewable energy sources are too rare, too distant, too uncertain, and too ill-timed to provide significant supplies at times and places of need".[98]
+EROEI
+Energy sources in 2013
+3.5
+Biomass (corn)
+3.9
+Solar PV (Germany)
+16
+Wind (E-66 turbine)
+19
+Solar thermal CSP(desert)
+28
+fossil gas in a CCGT
+30
+Coal
+49
+Hydro (medium-sized dam)
+75
+Nuclear (in a PWR)
+According to a transatlantic collaborative research paper on Energy return on energy Invested(EROEI), conducted by 6 analysts and led by D. Weibach, as published in the peer reviewed journal Energy in 2013. The uncorrected for their intermittency("unbuffered") EROEI for each energy source analyzed is as depicted in the attached table at right,[99][100] while the buffered(corrected for their intermittency) EROEI stated in the paper for all low carbon power sources, with the exception of nuclear and biomass, were yet lower still. As when corrected for their weather intermittency/"buffered", the EROEI figures for intermittent energy sources as stated in the paper is diminished - a reduction of EROEI dependent on how reliant they are on back up energy sources.[100][101]
+Views of proponents of high penetration renewable energy use[edit]
+See also: Renewable Electricity and the Grid and Energy security and renewable technology
+The U.S. Federal Energy Regulatory Commission (FERC) Chairman Jon Wellinghoff has stated that "baseload capacity is going to become an anachronism" and that no new nuclear or coal plants may ever be needed in the United States.[102][103] Some renewable electricity sources have identical variability to coal-fired power stations, so they are base-load, and can be integrated into the electricity supply system without any additional back-up. Examples include:
+Bio-energy, based on the combustion of crops and crop residues, or their gasification followed by combustion of the gas.
+Hot dry rock geothermal power, which is being developed in Australia and the United States.
+Solar thermal electricity, with overnight heat storage in molten salt, water or rocks.
+Grid operators in countries like Denmark and Spain now integrate large quantities of renewable energy into their electricity grids, with Denmark receiving 40% of its electricity from wind power during some months.[98]
+Supporters say that the total electricity generated from a large-scale array of dispersed wind farms, located in different wind regimes, cannot be accurately described as intermittent, because it does not start up or switch off instantaneously at irregular intervals.[104] With a small amount of supplementary peak-load plant, which operates infrequently, large-scale distributed wind power can substitute for some base-load power and be equally reliable.[105]
+Hydropower can be intermittent and/or dispatchable, depending on the configuration of the plant. Typical hydroelectric plants in the dam configuration may have substantial storage capacity, and be considered dispatchable. Run of the river hydroelectric generation will typically have limited or no storage capacity, and will be variable on a seasonal or annual basis (dependent on rainfall and snow melt).[28]
+Amory Lovins suggests a few basic strategies to deal with these issues:
+
+"The variability of sun, wind and so on, turns out to be a non-problem if you do several sensible things. One is to diversify your renewables by technology, so that weather conditions bad for one kind are good for another. Second, you diversify by site so they're not all subject to the same weather pattern at the same time because they're in the same place. Third, you use standard weather forecasting techniques to forecast wind, sun and rain, and of course hydro operators do this right now. Fourth, you integrate all your resources supply side and demand side..."[106]
+
+Moreover, efficient energy use and energy conservation measures can reliably reduce demand for base-load and peak-load electricity.[29][107]
+International groups are studying much higher penetrations (30-100% renewable energy), and conclusions are that these levels are also technically feasible.[108] In the UK, one summary of other studies indicated that if assuming that wind power contributed less than 20% of UK power consumption, then the intermittency would cause only moderate cost.[109]
+Methods to manage wind power integration range from those that are commonly used at present (e.g. demand management) to potential new technologies for grid energy storage. Improved forecasting can also contribute as the daily and seasonal variations in wind and solar sources are to some extent predictable. The Pembina Institute and the World Wide Fund for Nature state in the Renewable is Doable plan that resilience is a feature of renewable energy:
+
+Diversity and dispersal also add system security. If one wind turbine fails, the lights won't flicker. If an entire windfarm gets knocked out by a storm, only 40,000 people will lose power. If a single Darlington reactor goes down, 400,000 homes, or key industries, could face instant blackouts. To hedge this extra risk, high premiums have to be paid for decades to ensure large blocks of standby generation.[43]
+
+See also[edit]
+Brittle Power
+Control of the National Grid
+Cost per kWh of transmission in the UK
+Demand response
+Energy security and renewable technology
+European super grid
+High-voltage direct current (HVDC)
+List of power outages
+List of energy storage projects
+Load management
+Motor-generator
+National Grid Reserve Service
+Northeast Blackout of 2003
+Relative cost of electricity generated by different sources
+Economics of new nuclear power plants (for more cost comparisons)
+Spark spread: calculating the cost of back up
+Three-phase electric power
+Smart grid and V2G to override intermittency.
+Variable renewable energy
+Further reading[edit]
+These peer-reviewed papers examine the impacts of intermittency:
+Dale, L; Milborrow, D; Slark, R; & Strbac, G, 2003, A shift to wind is not unfeasible (Total Cost Estimates for Large-scale Wind Scenarios in UK), Power UK, no. 109, pp.1725.
+Farmer, E; Newman, V; & Ashmole, P, Economic and operational implications of a complex of wind-driven power generators on a power system, IEE Proceedings A, 5 edn. vol. 127.
+Gross, R; Heptonstall, P; Anderson, D; Green, T; Leach, M; & Skea, J, 2006, The Costs and Impacts of Intermittency. UK Energy Research Centre, London [1]
+Gross, R; Heptonstall, P; Leach, M; Anderson, D; Green, T; & Skea, J, 2007, Renewables and the grid: understanding intermittency, Proceedings of ICE, Energy, vol. 160, no. 1, pp.3141.
+Grubb, M, 1991, The integration of renewable electricity sources, Energy Policy, vol. 19, no. 7, pp.670688.
+Halliday, J; Lipman, N; Bossanyi, E; & Musgrove, P, 1983, Studies of wind energy integration for the UK national electricity grid, American Wind Energy Association Wind Worksop VI, Minneapolis.
+Holttinen, H, 2005, Impact of hourly wind power variations on the system operation in the Nordic countries, Wind energy, vol. 8, no. 2, pp.197218.
+Ilex & Strbac, G, 2002, Quantifying The System Costs Of Additional Renewables in 2020, DTI, urn 02/1620 [2]
+Milligan, M, 2001, A Chronological Reliability Model to Assess Operating Reserve Allocation to Wind Power Plants, National Renewable Energy Laboratory, The 2001 European Wind Energy Conference [3]
+Skea, J; Anderson, D; Green, T; Gross, R; Heptonstall, P; & Leach, M, 2008, Intermittent renewable generation and maintaining power system reliability, Generation, Transmission & Distribution, IET, vol. 2, no. 1, pp.8289.
+References[edit]
+^ Edwin Cartlidge (18 November 2011). "Saving for a rainy day". Science (Vol 334). pp.922924. Missing or empty |url= (help)
+^ Wright, matthew; Hearps, Patrick; et al. Australian Sustainable Energy: Zero Carbon Australia Stationary Energy Plan, Energy Research Institute, University of Melbourne, October 2010, p. 33. Retrieved from BeyondZeroEmissions.org website.
+^ Innovation in Concentrating Thermal Solar Power (CSP), RenewableEnergyFocus.com website.
+^ Solana: 10 Facts You Didn't Know About the Concentrated Solar Power Plant Near Gila Bend
+^ "Solar and Energy Storage: A Perfect Match - Energy Storage to the Test". RenewableEnergyWorld.com. Retrieved 2011-03-08.
+^ http://www.ren21.net/wp-content/uploads/2015/07/REN12-GSR2015_Onlinebook_low1.pdf pg31
+^ a b c International Energy Agency (2009). IEA Wind Energy: Annual Report 2008 p. 9.
+^ "Renewable Energy in Ireland 2012" (PDF). Sustainable Energy Authority in Ireland. Retrieved 19 November 2014.
+^ a b "Wind Energy in Germany". Germany WindEnergy Association. Retrieved 2008-10-15.
+^ Rasmussen, Jesper Nrskov. "Vindmller slog rekord i 2014 " (in Danish) Energinet.dk, 6 January 2015. Accessed: 6 January 2015.
+^ http://online.wsj.com/articles/denmarks-wind-power-output-rises-to-record-in-first-half-1409750563
+^ Carsten Vittrup. "2013 was a record-setting year for Danish wind power" (in Danish) Energinet.dk, 15 January 2014. Accessed: 20 January 2014.
+^ a b Modern Power Systems, Sept 25, 2009, Maj. Dang Trong
+^ Bach, P.F. (2015). "Towards 50% Wind Electricity in Denmark, slide 7" (PDF).
+^ a b c "All Island Grid Study" (PDF). Department of Communications, Energy and Natural Resources. January 2008. pp.35, 15. Retrieved 2008-10-15.
+^ a b "The Carbon Trust & DTI Renewables Network Impacts Study" (PDF). Carbon Trust and UK Department of Trade and Industry. January 2004 [commissioned June 2003]. Retrieved 2009-04-22.
+^ a b Graham Sinden, "Assessing the Costs of Intermittent Power Generation", UK Energy Research Centre, 5 July 2005
+^ a b c Kuntz, Mark T.; Justin Dawe (2005). "renewable. rechargeable. remarkable.". VRB Power Systems. Mechanical Engineering. Retrieved 2008-10-20.
+^ Giebel, Gregor. "WIND POWER HAS A CAPACITY CREDIT" (PDF). Ris National Laboratory. Retrieved 2008-10-16.
+^ a b International Energy Agency Wind Task Force, "Design and Operation of Power Systems with Large Amounts of Wind Power" Oklahoma Conference Presentation, October 2006
+^ Gemasolar, energa non stop Spanish 26 October 2011
+^ a b "Wind Power: Capacity Factor, Intermittency, and what happens when the wind doesn't blow?" (PDF). Renewable Energy Research Laboratory, University of Massachusetts Amherst. Retrieved 2008-10-16.
+^ Laumer, John (June 2008). "Solar Versus Wind Power: Which Has The Most Stable Power Output?". Treehugger. Retrieved 2008-10-16.
+^ a b "Executive Summary: Assessment of Parabolic Trough and Power Tower Solar Technology Cost and Performance Forecasts" (PDF). National Renewable Energy Laboratory. October 2003. Retrieved 2016-11-07.
+^ Spain Pioneers Grid-Connected Solar-Tower Thermal Power p. 3. Retrieved December 19, 2008.
+^ Mills, David; Robert G. Morgan (July 2008). "A solar-powered economy: How solar thermal can replace coal, gas and oil". RenewableEnergyWorld.com. Retrieved 2008-10-17.
+^ "Solar Air Cooling". Integration of Renewable energy on Farms. March 2008. Retrieved 2008-10-17.
+^ a b c d e "Variability of Wind Power and other Renewables: Management Options and Strategies" (PDF). IEA. 2005. Retrieved 2008-10-15.
+^ a b Diesendorf, Mark (August 2007). "The Base-Load Fallacy" (PDF). Institute of Environmental Studies. www.energyscience.org.au. Retrieved 2008-10-18.
+^ David JC MacKay. "Sustainable Energy - without the hot air. Fluctuations and storage".
+^ Andrzej Strupczewski. "Czy w Polsce wiatr wystarczy zamiast elektrowni atomowych?" [Can the wind suffice instead of nuclear power in Poland?] (in Polish). atom.edu.pl.
+^ a b "Blowing Away the Myths" (PDF). The British Wind Energy Association. February 2005. Retrieved 2008-10-16.
+^ "Non-dispatchable Production in the Nordel System" (PDF). Nordel's Grid Group. May 2000. Retrieved 2008-10-18.
+^ "How Energy Markets Can Solve Modern Challenges". Morning Consult. Retrieved 22 May 2015.
+^ Nedic, Dusko; Anser Shakoor; Goran Strbac; Mary Black; Jim Watson; Catherine Mitchell (July 2005). "Security assessment of future UK electricity scenarios" (PDF). Tyndall Centre for Climate Change Research. Archived from the original (PDF) on January 11, 2007. Retrieved 2008-10-20.
+^ a b c d Junling Huang; Xi Lu; Michael B. McElroy (2014). "Meteorologically defined limits to reduction in the variability of outputs from a coupled wind farm system in the Central US" (PDF). Renewable Energy. 62: 331340. doi:10.1016/j.renene.2013.07.022. Cite error: Invalid <ref> tag; name "Junling" defined multiple times with different content (see the help page). Cite error: Invalid <ref> tag; name "Junling" defined multiple times with different content (see the help page). Cite error: Invalid <ref> tag; name "Junling" defined multiple times with different content (see the help page).
+^ Reliability of Wind Turbines
+^ "The power of multiples: Connecting wind farms can make a more reliable and cheaper power source". 2007-11-21.
+^ Archer, C. L.; Jacobson, M. Z. (2007). "Supplying Baseload Power and Reducing Transmission Requirements by Interconnecting Wind Farms" (PDF). Journal of Applied Meteorology and Climatology. American Meteorological Society. 46 (11): 17011717. Bibcode:2007JApMC..46.1701A. doi:10.1175/2007JAMC1538.1.
+^ ERCOT
+^ http://www.ens.dk/graphics/Publikationer/Statistik_UK/Energy_statics_2006/html/chapter03.htm
+^ En visionr dansk energipolitik frem til 2025
+^ a b "renewable is doable A Smarter Energy Plan for Ontario (brochure version)" (PDF). PEMBINA Institute. August 2007. Retrieved 2008-10-17.
+^ Dixon, David (September 2006). "Wind Generation's Performance during the July 2006 California Heat Storm". Energy Pulse. Retrieved 2008-10-18.
+^ (French) Ministre de l'cologie, du Dveloppement et de l'Amnagement Durables. Notre systme lectrique  l'preuve de la canicule.
+Google translated version.
+^ Wind Integration: An Introduction to the State of the Art
+^ a b c d Lovins, Amory; Imran Sheikh; Alex Markevich (2009). "Nuclear Power:Climate Fix or Folly". Rocky Mountain Institute. p.10. Retrieved 20 Oct 2012. All sources of electricity sometimes fail, differing only in how predictably, why, how often, how much, and for how long. Even the most reliable giant power plants are intermittent: they fail un-expectedly in billion-watt chunks, often for long periods.
+^ http://moltensalt.org/references/static/downloads/pdf/FFR_chap17.pdf
+^ "Xenon Behavior in the Molten Salt Reactor Experiment" (PDF). OAK RIDGE NATIONAL LABORATORY Oak Ridge, Tennessee, operated by UNION CARBIDE CORPORATION FOR THE U.S. ATOMIC ENERGY COMMISSION. October 1971. Retrieved 2016-10-06.
+^ http://moltensalt.org/references/static/downloads/pdf/ORNL-TM-3464.pdfTM-3464.pdf
+^ a b c d Amory Lovins (2011). Reinventing Fire, Chelsea Green Publishing, p. 199.
+^ Kate Galbraith. 100 Percent Renewables by 2030? Green Inc., December 1, 2009.
+^ Mark Z. Jacobson and Mark A. Delucchi. A Path to Sustainable Energy by 2030, Scientific American, November 2009, p. 43.
+^ a b Delucchi, Mark A. and Mark Z. Jacobson (2010). "Providing all Global Energy with Wind, Water, and Solar Power, Part II: Reliability, System andTransmission Costs, and Policies" (PDF). Energy policy.
+^ Wald, Matthew L. (2010-01-21). "Expanding Use of Wind Power Feasible, but May Be Costly". The New York Times. Retrieved 2010-05-05.
+^ http://dspace.mit.edu/handle/1721.1/32284
+^ http://www.ceere.org/rerl/about_wind/RERL_Fact_Sheet_2a_Capacity_Factor.pdf
+^ Affordable Renewable Electricity Supply for Europe and its Neighbours Dr Gregor Czisch, Kassell University, paper at Claverton Energy Conference, Bath October 24, 2008
+^ http://www.claverton-energy.com/green-grid-article-in-new-scientist-by-david-strahan-the-oil-drum-on-hvdc-supergrids.html
+^ a b c Czisch, Gregor; Gregor Giebel. "Realisable Scenarios for a Future Electricity Supply based 100% on Renewable Energies" (PDF). Institute for Electrical Engineering  Efficient Energy Conversion University of Kassel, Germany and Ris National Laboratory, Technical University of Denmark. Retrieved 2008-10-15.
+^ http://www.claverton-energy.com/how-cern-is-encouraged-to-not-do-atom-or-quark-smashing-during-periods-of-high-demand-and-low-power-station-availablity-by-means-of-the-ejp-tarrif.html - Extract from CERN newsletter indication when to switch of loads
+^ http://www.claverton-energy.com/download/42/ description of EJP tariff Archived December 8, 2008, at the Wayback Machine.
+^ "2005 Integrated Energy Policy Report". California Energy Commission. November 21, 2005. Retrieved 2006-04-21.
+^ http://www.claverton-energy.com/commercial-opportunities-for-back-up-generation-and-load-reduction-via-national-grid-the-national-electricity-transmission-system-operator-netso-for-england-scotland-wales-and-offshore.html Commercial Opportunities for Back-Up Generation and Load Reduction via National Grid, the National Electricity Transmission System Operator (NETSO) for England, Scotland, Wales and Offshore.
+^ Benitez, Pablo C.; Lilianna E. Dragulescu; G. Cornelis Van Kooten (February 2006). "The Economics of Wind Power with Energy Storage". Resource Economics and Policy Analysis (REPA) Research Group. Department of Economics, University of Victoria. Retrieved 2008-10-20.
+^ Levene, J.; B. Kroposki; G. Sverdrup (March 2006). "Wind Energy and Production of Hydrogen and Electricity - Opportunities for Renewable Hydrogen - Preprint" (PDF). National Renewable Energy Laboratory. Retrieved 2008-10-20.
+^ "Air-Breathing Battery Renewable Energy Storage Solution". Enviro-News.com. August 3, 2012.
+^ Lovins, Amory; L. Hunter Lovins (November 1983). "The Fragility of Domestic Energy" (PDF). The Atlantic. Archived from the original (PDF) on June 25, 2008. Retrieved 2008-10-20.
+^ http://www.washingtonpost.com/wp-dyn/content/article/2007/03/20/AR2007032001634.html "Air, Water Powerful Partners in Northwest", Washington Post, March 20, 2007
+^ "The Combined Power Plant: the first stage in providing 100% power from renewable energy". SolarServer. January 2008. Retrieved 2008-10-10.
+^ a b Gross, Robert; Heptonstall, Philip; Anderson, Dennis; Green, Tim; Leach, Matthew; Skea, Jim (March 2006). The Costs and Impacts of Intermittency (PDF). UK Energy Research Council. ISBN1-903144-04-3. Retrieved 2010-07-22.
+^ http://repa.econ.uvic.ca/publications/Working%20Paper%202006-02.pdf
+^ http://www.nrel.gov/docs/fy01osti/30668.pdf Characterizing the Effects of High Wind Penetration on a Small Isolated Grid in Arctic Alaska
+^ MacDonnel, Leah. "Dr. Gregor Czisch's green European "Super Grid"". DW-World.de. Retrieved 2008-10-16.
+^ Rodgers, Paul (2007-11-25). "Wind-fuelled 'supergrid' offers clean power to Europe". The Independent. London. Retrieved 2008-10-16.
+^ EFFECTS OF LARGE-SCALE DISTRIBUTION OF WIND ENERGY IN AND AROUND EUROPE Dr. Gregor Giebel Niels Gylling Mortensen Ris National Laboratory DK-4000 Roskilde Gregor Czisch ISET Universitt-Gesamthochschule Kassel http://www.risoe.dk/rispubl/SYS/ris-r-1405.htm
+^ (German)Gregor Czisch: Szenarien zur zuknftigen Stromversorgung, kostenoptimierte Variationen zur Versorgung Europas und seiner Nachbarn mit Strom aus erneuerbaren Energien. https://kobra.bibliothek.uni-kassel.de/handle/urn:nbn:de:hebis:34-200604119596
+^ DeLisle, Heather. "Interview with Dr Gregor Czisch, a physicist and energy expert at the University of Kassel.". DW-World.de. Retrieved 2008-10-16.
+^ "Study shows Ireland can be world leader in renewable energy". Department of Communications, Energy and National Resources. January 2008. Archived from the original on March 21, 2012. Retrieved 2008-10-20.
+^ "Ontario Wind Integration Study" (PDF). Ontario Independent Electric System Operator. 2006. Retrieved 2006-10-30.
+^ "Danish Offshore Wind - Key Environmental Issues" (PDF). DONG Energy, Vattenfall, The Danish Energy Authority and the Danish Forest and Nature Agency. November 2006. Retrieved 2008-10-15.
+^ "dynamic Flash map of Danish grids and flows on interconnectors". Energinet. Archived from the original on June 7, 2007. Retrieved 2010-07-22.
+^ Danish Wind Industry Association, Wind energy Denmark, n.d.
+^ The Guardian: "Denmark aims to get 50% of all electricity from wind power", 26 March 2012
+^ Lindboe, page 3
+^ http://www.claverton-energy.com/what-is-the-cost-per-kwh-of-bulk-transmission-national-grid-in-the-uk-note-this-excludes-distribution-costs.html Electric power transmission costs per kWh transmission / National Grid in the UK (note this excludes distribution costs)
+^ http://www.ukerc.ac.uk/component/option,com_docman/task,doc_download/gid,550/ The Costs and Impacts of Intermittency, UK Energy Research Council, March 2006
+^ Ford, Richard; David Milborrow (February 2005). "Integrating renewables" (PDF). British Wind Energy Association. Retrieved 2008-10-20.
+^ http://www.nytimes.com/2006/12/28/business/28wind.html?pagewanted=all New York Times article on intermittency and penetration, December 28, 2006
+^ Deyette, Jeff; Steve Clemmer (October 2004). "The Colorado Renewable Energy Standard Ballot Initiative: Impacts on Jobs and the Economy" (PDF). Union of Concerned Scientists. Retrieved 2008-10-16.
+^ "The Colorado Renewable Energy Standard Ballot Initiative: Impacts on Jobs and the Economy". Union of Concerned Scientists. October 2004. Retrieved 2008-10-16.
+^ No technical limitation to wind power penetration
+^ a b "GB Seven Year Statement - Executive Summary". National Grid. 2006. Retrieved 2008-10-16.
+^ "National Grid's response to the House of Lords Economic Affairs Select Committee investigating the economics of renewable energy" (PDF). National Grid. June 2008. Archived from the original (PDF) on September 10, 2008. Retrieved 2008-10-15.
+^ Wolf, Ken; Matt Schuerger (December 2006). "Minnesota Wind Integration Study - Full Report" (PDF). Minnesota Public Utilities Commission. Retrieved 2008-10-17.
+^ Renewable Energy and Electricity
+^ Diesendorf, Mark (2007). Greenhouse Solutions with Sustainable Energy, UNSW Press, 413 pages.
+^ a b Benjamin Sovacool (2009). "The intermittency of wind, solar, and renewable electricity generators: Technical barrier or rhetorical excuse?". Utilities Policy.
+^ "Energy intensities, EROIs (energy returned on invested), and energy payback times of electricity generating power plants.". Energy. 52: 210221. doi:10.1016/j.energy.2013.01.029.
+^ a b Dailykos - GETTING TO ZERO: Is renewable energy economically viable? by Keith Pickering MON JUL 08, 2013 AT 04:30 AM PDT.
+^ "Energy intensities, EROIs (energy returned on invested), and energy payback times of electricity generating power plants. Energy Volume 52, 1 April 2013, pages 210221".
+^ http://www.claverton-energy.com/a-very-significant-admission-by-the-us-ferc-chairman-that-the-issue-of-integrating-variable-sources-of-power-is-not-such-a-big-issue.html
+^ http://www.ferc.gov/news/videos/wellinghoff/2009/04-22-09-wellinghoff-transcript.pdf
+^ Diesendorf, Mark (2007). Greenhouse Solutions with Sustainable Energy, UNSW Press, p. 119; See also, Sinden, G (2007). "Characteristics of the UK wind resource: long term patterns and relationship to electricity demand"'". Energy Policy. 35: 11227. doi:10.1016/j.enpol.2005.10.003.
+^ In defence of renewable energy and its variability
+^ Amory Lovins/Rocky Mountain Institute warm to PHEVs
+^ Sustainable energy has a powerful future
+^ http://www.ieawind.org/AnnexXXV/Meetings/Oklahoma/IEA%20SysOp%20GWPC2006%20paper_final.pdf IEA Wind Summary Paper, Design and Operation of Power Systems with Large Amounts of Wind Power, September 2006
+^ http://www.ukerc.ac.uk/component/option,com_docman/task,doc_download/gid,550/ Archived July 6, 2007, at the Wayback Machine.
+External links[edit]
+Stationary Energy Storage...Key to the Renewable Grid
+European Wind Energy Association, Large Scale Integration of Wind Energy in the European Power Supply: analysis, issues, and recommendations, December 2005
+New York Times article on wind intermittency, "It's Free, Plentiful and Fickle"
+Ontario grid operator data on current and historical output from all generator sources, including wind, showing variability in wind output
+Power Point presentation showing how national generating systems are actually controlled in detail.
+ESB National Grid (Ireland), "Impact of Wind Power Generation In Ireland on the Operation of Conventional Plant and the Economic Implications", 2004
+The Costs and Impacts of Intermittency, UK Energy Research Council, March 2006
+Grid Integration of Wind Energy
+Empowering Variable Renewables: Options for Flexible Electricity Systems
+Getting a (Firm) Grip on Renewables
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1191
+Cached time: 20161118231134
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.728 seconds
+Real time usage: 0.823 seconds
+Preprocessor visited node count: 4348/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 143674/2097152 bytes
+Template argument size: 5430/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.312/10.000 seconds
+Lua memory usage: 5.05 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+676.283
+1 - -total
+63.10%
+426.722
+1 - Template:Reflist
+36.80%
+248.866
+49 - Template:Cite_web
+8.19%
+55.405
+1 - Template:Citation_needed
+7.56%
+51.120
+1 - Template:Fix
+4.93%
+33.357
+6 - Template:Broken_ref
+4.48%
+30.279
+3 - Template:Category_handler
+4.42%
+29.917
+1 - Template:As_of
+4.35%
+29.402
+2 - Template:Navbox
+4.11%
+27.774
+1 - Template:Electricity_generation
+Saved in parser cache with key enwiki:pcache:idhash:7982164-0!*!0!!en!4!* and timestamp 20161118231133 and revision id 749006035
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Intermittent_energy_source&oldid=749006035"
+Categories: Electric power distributionEnergy storageHidden categories: Pages with reference errorsPages using web citations with no URLCS1 Polish-language sources (pl)Pages with duplicate reference namesArticles with French-language external linksWebarchive template wayback linksArticles containing potentially dated statements from 2014All articles containing potentially dated statementsAll articles with unsourced statementsArticles with unsourced statements from October 2008

@@ -1,0 +1,163 @@
+Greenaccounting
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Part of a series about
+Environmental economics
+Concepts
+Green accounting
+Green economy
+Green trading
+Eco commerce
+Green job
+Environmental enterprise
+Fiscal environmentalism
+Environmental finance
+Renewable energy
+Policies
+Sustainable tourism
+Ecotax
+Environmental tariff
+Net metering
+Environmental pricing reform
+Pigovian tax
+Dynamics
+Renewable energy commercialization
+Marginal abatement cost
+Green paradox
+Green politics
+Pollution haven hypothesis
+Carbon related
+Low-carbon economy
+Carbon neutral fuel
+Carbon neutrality
+Carbon pricing
+Emissions trading
+Carbon credit
+Carbon offset
+Carbon emission trading
+Personal carbon trading
+Carbon tax
+Carbon finance
+Feed-in tariff
+Carbon diet
+Food miles
+2000-watt society
+Carbon footprint
+v
+t
+e
+Green accounting is a type of accounting that attempts to factor environmental costs into the financial results of operations. It has been argued that gross domestic product ignores the environment and therefore policymakers need a revised model that incorporates green accounting.[1] The major purpose of green accounting is to help businesses understand and manage the potential quid pro quo between traditional economics goals and environmental goals. It also increases the important information available for analyzing policy issues, especially when those vital pieces of information are often overlooked.[2] Green accounting is said to only ensure weak sustainability, which should be considered as a step toward ultimately a strong sustainability.[3]
+It is a controversial practice however, since depletion may be already factored into accounting for the extraction industries and the accounting for externalities may be arbitrary. It is obvious therefore that a standard practice would need to be established in order for it to gain both credibility and use. Depletion is not the whole of environmental accounting however, with pollution being but one factor of business that is almost never accounted for specifically. Julian Lincoln Simon, a professor of business administration at the University of Maryland and a Senior Fellow at the Cato Institute, argued that use of natural resources results in greater wealth, as evidenced by the falling prices over time of virtually all nonrenewable resources.[4]
+Contents
+1 Etymology
+2 Practice
+3 Challenges
+3.1 Environmental Protection and Economic Growth
+3.2 Distributional Impacts of Environmental and Natural Resource Policies
+3.3 Links Between Trade and Environmental and Natural Resource Policies
+4 See also
+5 References
+6 External links
+Etymology[edit]
+The term was first brought into common usage by economist and professor Peter Wood in the 1980s.[4]
+Practice[edit]
+Environmental responsibility is a potent issue among businesses in this modern age. It has become necessary for corporation to formulate methods of promoting green causes for the present and the future.[5] Green accounting helps promote a sustainable future for businesses as it brings green public procurement and green research and development into the big picture. Penalties for polluters and incentives (such as tax breaks, polluting permits, etc.) are also a crucial part of this type of accounting.[6]
+The System of National Accounts (SNA) defines Net Domestic Product (NDP) as:
+NDP = Net Exports + Final Consumption (C) + Net Investment (I)
+This is also a typical formula found in articles and texts about accounting.[7]
+Green Accounting, however, uses the System of Environmental Economic Accounting (SEEA), which focuses on the depletion of scarce natural resources and measures the costs of environmental degradation along with its prevention.
+Thus, the NDP is newly defined as Green NDP, or also known as EDP. The green accounting formula is:
+EDP = Net Exports + C + NAp. ec + (NAnp.ec - NAnp.n)
+Where:
+EDP = Environmental Domestic Product,
+C = Final Consumption,
+NApec = Net Accumulation of Produced Economic Assets,
+NAnp.ec = Net Accumulation of Non-produced Economic Assets,
+NAnp.n = Net Accumulation of Non-produced Natural Assets.[7]
+Challenges[edit]
+Environmental Protection and Economic Growth[edit]
+The effect of environmental policies on the economy has always been a controversial topic. Many economists argue that sanctioned limits on pollution curtail economic growth.[2] For instance, between 1973 and 1982, the United States imposed stricter regulations on pollution, which led to a 0.09% decrease per year in the national output growth.[8] A study conducted in 1990 also analyzed the economic growth with during the time period between 1973 and 1980s. The result indicated that the government regulation reduced the annual GNP by 0.19% per year.[9] Other researchers argue that those number is insignificant compared to protecting and sustaining the priceless environment.[2]
+Distributional Impacts of Environmental and Natural Resource Policies[edit]
+Not all industries pollute the same amount; chemical and paper manufacturing industries, for example, tend to pollute more than others. It is difficult to accurately measure the pollution level of each industry in order to categorize and to set up a fair set of policies. In particular, improved water quality might highly favor the higher income groups due to the fact that most improvements are done in the urban areas.[2]
+Links Between Trade and Environmental and Natural Resource Policies[edit]
+During the time of globalization and the rapid expansion of the international market, the US policymakers have come to realize the importance of what is happening in other countries. Before making any decision and submitting the final draft to Congress, the policymakers were concerned about the effects of the North American Free Trade Agreement on the environment.[9] National accounting systems that include environmental and natural resources could provide useful information during negotiations over the nations' commitments to restore or maintain natural capital.
+Trade restrictions have not been used when a country's production and processing methods result in excessive discharges of pollutants (carbon, sulfur, nitrogen oxides, chlorofluorocarbons) across national boundaries. The difficulty comes in when determining the effects of trans-boundary pollutants on industry costs.[2]
+See also[edit]
+Sustainable Development portal
+Business and economics portal
+Ecology portal
+Environment portal
+Sociology portal
+Anthropogenic metabolism
+Earth economics (policy think tank)
+Environmental protection
+Environmentalism
+Industrial metabolism
+National accounts
+Natural capital
+Renewable resource
+Social metabolism
+Total Economic Value
+Urban metabolism
+References[edit]
+^ Sjak Smulders (2008). "green national accounting," The New Palgrave Dictionary of Economics, 2nd Edition\. Abstract.
+^ a b c d e Rout, Himanshu Sekhar (August 2010). "Green Accounting: Issues and Challenges.". IUP Journal of Managerial Economics. |access-date= requires |url= (help)
+^ Serafy, Salah (23 April 1996). "Green Accounting and Economic Policy". Ecological Economics. 21 (3): 217229. doi:10.1016/s0921-8009(96)00107-3.
+^ a b Schaltegger, S. & Burritt, R.: Contemporary Environmental Accounting: Issues, Concept and Practice. Sheffield: Greenleaf, 2000 ISBN 1-874719-65-9
+^ Account, Admin. "Accounting firms leading green change". AccountingWEB. Retrieved 2015-12-07.
+^ Commission, The European. "Green Accounting as the Path to a Sustainable Future". GreenBiz. http://www.greenbizgroup.com/. Retrieved 2015-12-07. External link in |publisher= (help)
+^ a b "Green Accounting: Need, Objectives, Problems and Other Details". YourArticleLibrary.com: The Next Generation Library. Retrieved 2015-12-07.
+^ E F, Denison (1985). Trends in American Economic Growth 1929-1982. Washington, DC: Blockings Institution. p.111.
+^ a b D W, Jorgenson; PJ, Wilcoxen (1990). "Environmental Regulation and US Economic Growth". Rand Journal (Vol. 21, No.2): 315327.
+External links[edit]
+Green Budget.
+NewPP limit report
+Parsed by mw1274
+Cached time: 20161118100514
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.096 seconds
+Real time usage: 0.130 seconds
+Preprocessor visited node count: 511/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 23360/2097152 bytes
+Template argument size: 1206/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.041/10.000 seconds
+Lua memory usage: 2.76 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+93.549
+1 - -total
+35.65%
+33.346
+3 - Template:Cite_journal
+21.75%
+20.343
+1 - Template:Green_economics_sidebar
+20.24%
+18.931
+1 - Template:Sidebar
+11.83%
+11.064
+1 - Template:Portal
+10.32%
+9.659
+3 - Template:Cite_web
+4.54%
+4.245
+1 - Template:Cite_book
+4.08%
+3.821
+1 - Template:Columns-list
+2.91%
+2.719
+1 - Template:Div_col
+0.95%
+0.892
+1 - Template:Column-count
+Saved in parser cache with key enwiki:pcache:idhash:14762315-0!*!0!!en!4!* and timestamp 20161118100514 and revision id 742644568
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Green_accounting&oldid=742644568"
+Categories: Environmental economicsHidden categories: Pages using citations with accessdate and no URLCS1 errors: external linksPages using ISBN magic links

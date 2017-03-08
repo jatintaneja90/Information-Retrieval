@@ -1,0 +1,601 @@
+Industrialecology
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Industrial ecology (IE) is the study of material and energy flows through industrial systems. The global industrial economy can be modelled as a network of industrial processes that extract resources from the Earth and transform those resources into commodities which can be bought and sold to meet the needs of humanity. Industrial ecology seeks to quantify the material flows and document the industrial processes that make modern society function. Industrial ecologists are often concerned with the impacts that industrial activities have on the environment, with use of the planet's supply of natural resources, and with problems of waste disposal. Industrial ecology is a young but growing multidisciplinary field of research which combines aspects of engineering, economics, sociology, toxicology and the natural sciences.
+Industrial ecology has been defined as a "systems-based, multidisciplinary discourse that seeks to understand emergent behaviour of complex integrated human/natural systems".[1] The field approaches issues of sustainability by examining problems from multiple perspectives, usually involving aspects of sociology, the environment, economy and technology. The name comes from the idea that the analogy of natural systems should be used as an aid in understanding how to design sustainable industrial systems.[2]
+Contents
+1 Overview
+2 History
+3 Principles
+4 Tools
+5 Future directions
+6 See also
+7 References
+8 Further reading
+9 External links
+Overview[edit]
+Example of Industrial Symbiosis. Waste steam from a waste incinerator (right) is piped to an ethanol plant (left) where it is used as in input to their production process.
+Industrial ecology is concerned with the shifting of industrial process from linear (open loop) systems, in which resource and capital investments move through the system to become waste, to a closed loop system where wastes can become inputs for new processes.
+Much of the research focuses on the following areas:[3]
+material and energy flow studies ("industrial metabolism")
+dematerialization and decarbonization
+technological change and the environment
+life-cycle planning, design and assessment
+design for the environment ("eco-design")
+extended producer responsibility ("product stewardship")
+eco-industrial parks ("industrial symbiosis")
+product-oriented environmental policy
+eco-efficiency
+Industrial ecology seeks to understand the way in which industrial systems (for example a factory, an ecoregion, or national or global economy) interact with the biosphere. Natural ecosystems provide a metaphor for understanding how different parts of industrial systems interact with one another, in an "ecosystem" based on resources and infrastructural capital rather than on natural capital. It seeks to exploit the idea that natural systems do not have waste in them to inspire sustainable design.
+Along with more general energy conservation and material conservation goals, and redefining commodity markets and product stewardship relations strictly as a service economy, industrial ecology is one of the four objectives of Natural Capitalism. This strategy discourages forms of amoral purchasing arising from ignorance of what goes on at a distance and implies a political economy that values natural capital highly and relies on more instructional capital to design and maintain each unique industrial ecology.
+History[edit]
+View of Kalundborg Eco-industrial Park
+Main article: History of industrial ecology
+Industrial ecology was popularized in 1989 in a Scientific American article by Robert Frosch and Nicholas E. Gallopoulos. Frosch and Gallopoulos' vision was "why would not our industrial system behave like an ecosystem, where the wastes of a species may be resource to another species? Why would not the outputs of an industry be the inputs of another, thus reducing use of raw materials, pollution, and saving on waste treatment?"[2] A notable example resides in a Danish industrial park in the city of Kalundborg. Here several linkages of byproducts and waste heat can be found between numerous entities such as a large power plant, an oil refinery, a pharmaceutical plant, a plasterboard factory, an enzyme manufacturer, a waste company and the city itself.[4]
+The scientific field Industrial Ecology has grown quickly in recent years. The Journal of Industrial Ecology (since 1997), the International Society for Industrial Ecology (since 2001), and the journal Progress in Industrial Ecology (since 2004) give Industrial Ecology a strong and dynamic position in the international scientific community. Industrial Ecology principles are also emerging in various policy realms such as the concept of the Circular Economy that is being promoted in China. Although the definition of the Circular Economy has yet to be formalized, generally the focus is on strategies such as creating a circular flow of materials, and cascading energy flows. An example of this would be using waste heat from one process to run another process that requires a lower temperature. The hope is that strategy such as this will create a more efficient economy with fewer pollutants and other unwanted by-products.[5]
+Principles[edit]
+One of the central principles of Industrial Ecology is the view that societal and technological systems are bounded within the biosphere, and do not exist outside of it. Ecology is used as a metaphor due to the observation that natural systems reuse materials and have a largely closed loop cycling of nutrients. Industrial Ecology approaches problems with the hypothesis that by using similar principles as natural systems, industrial systems can be improved to reduce their impact on the natural environment as well. The table shows the general metaphor.
+Biosphere
+Technosphere
+Environment
+Organism
+Natural Product
+Natural Selection
+Ecosystem
+Ecological Niche
+Anabolism / Catabolism
+Mutation and Selection
+Succession
+Adaptation
+Food Web
+Market
+Company
+Industrial Product
+Competition
+Eco-Industrial Park
+Market Niche
+Manufacturing / Waste Management
+Design for Environment
+Economic Growth
+Innovation
+Product Life Cycle
+The Kalundborg industrial park is located in Denmark. This industrial park is special because companies reuse each other's waste (which then becomes by-products). For example, the Energy E2 Asns Power Station produces gypsum as a by-product of the electricity generation process; this gypsum becomes a resource for the BPB Gyproc A/S which produces plasterboards.[4] This is one example of a system inspired by the biosphere-technosphere metaphor: in ecosystems, the waste from one organism is used as inputs to other organisms; in industrial systems, waste from a company is used as a resource by others.
+Apart from the direct benefit of incorporating waste into the loop, the use of an eco-industrial park can be a means of making renewable energy generating plants, like Solar PV, more economical and environmentally friendly. In essence, this assists the growth of the renewable energy industry and the environmental benefits that come with replacing fossil-fuels.[6]
+IE examines societal issues and their relationship with both technical systems and the environment. Through this holistic view , IE recognizes that solving problems must involve understanding the connections that exist between these systems, various aspects cannot be viewed in isolation. Often changes in one part of the overall system can propagate and cause changes in another part. Thus, you can only understand a problem if you look at its parts in relation to the whole. Based on this framework, IE looks at environmental issues with a systems thinking approach.
+Take a city for instance. A city can be divided into commercial areas, residential areas, offices, services, infrastructures, and so forth. These are all sub-systems of the 'big city system. Problems can emerge in one sub-system, but the solution has to be global. Lets say the price of housing is rising dramatically because there is too high a demand for housing. One solution would be to build new houses, but this will lead to more people living in the city, leading to the need for more infrastructure like roads, schools, more supermarkets, etc. This system is a simplified interpretation of reality whose behaviors can be predicted.
+In many cases, the systems IE deals with are complex systems. Complexity makes it difficult to understand the behavior of the system and may lead to rebound effects. Due to unforeseen behavioral change of users or consumers, a measure taken to improve environmental performance does not lead to any improvement or may even worsen the situation.
+Moreover, life cycle thinking is also a very important principle in industrial ecology. It implies that all environmental impacts caused by a product, system, or project during its life cycle are taken into account. In this context life cycle includes
+Raw material extraction
+Material processing
+Manufacture
+Use
+Maintenance
+Disposal
+The transport necessary between these stages is also taken into account as well as, if relevant, extra stages such as reuse, remanufacture, and recycle. Adopting a life cycle approach is essential to avoid shifting environmental impacts from one life cycle stage to another. This is commonly referred to as problem shifting. For instance, during the re-design of a product, one can choose to reduce its weight, thereby decreasing use of resources. However, it is possible that the lighter materials used in the new product will be more difficult to dispose of. The environmental impacts of the product gained during the extraction phase are shifted to the disposal phase. Overall environmental improvements are thus null.
+A final and important principle of IE is its integrated approach or multidisciplinarity. IE takes into account three different disciplines: social sciences (including economics), technical sciences and environmental sciences. The challenge is to merge them into a single approach.
+Tools[edit]
+People
+Planet
+Profit
+Modeling
+Stakeholder analysis
+Strength Weakness Opportunities Threats Analysis (SWOT Analysis)
+Ecolabelling
+ISO 14000
+Environmental management system (EMS)
+Integrated chain management (ICM)
+Technology assessment
+Environmental impact assessment (EIA)
+Input-output analysis (IOA)
+Life-cycle assessment (LCA)
+Material flow analysis (MFA)
+Substance flow analysis (SFA)
+MET Matrix
+Cost benefit analysis (CBA)
+Full cost accounting (FCA)
+Life cycle costing (LCC)
+Stock and flow analysis
+Agent based modeling
+Future directions[edit]
+The ecosystem metaphor popularized by Frosch and Gallopoulos[2] has been a valuable creative tool for helping researchers look for novel solutions to difficult problems. Recently, it has been pointed out that this metaphor is based largely on a model of classical ecology, and that advancements in understanding ecology based on complexity science have been made by researchers such as C. S. Holling, James J. Kay,[7] and further advanced in terms of contemporary ecology by others.[8][9][10][11] For industrial ecology, this may mean a shift from a more mechanistic view of systems, to one where sustainability is viewed as an emergent property of a complex system.[12][13] To explore this further, several researchers are working with agent based modeling techniques .[14][15]
+Exergy analysis is performed in the field of industrial ecology to use energy more efficiently.[16] The term exergy was coined by Zoran Rant in 1956, but the concept was developed by J. Willard Gibbs. In recent decades, utilization of exergy has spread outside of physics and engineering to the fields of industrial ecology, ecological economics, systems ecology, and energetics.
+See also[edit]
+Business and economics portal
+Ecology portal
+Anthropogenic metabolism
+Biomimicry
+Circular economy
+Cleaner production
+Conservation (ethic)
+Dematerialization (economics)
+Ecodesign
+Eco-efficiency
+Eco-industrial park
+Ecological economics
+Ecological modernization
+Energy accounting
+Environmental economics
+Environmental design
+Evolutionary economics
+Extended producer responsibility
+Helix of sustainability
+Industrial metabolism
+Industrial symbiosis
+Low-carbon economy
+Life cycle assessment
+Material flow accounting
+Material flow analysis
+Organigraph
+Product stewardship
+Reconciliation ecology
+Social metabolism
+Sustainable design
+Urban metabolism
+References[edit]
+^ Allenby, Brad (2006). "The ontologies of industrial ecology" (PDF). Progress in Industrial Ecology. Inderscience Enterprises Ltd. 3 (1/2): 2840. doi:10.1504/PIE.2006.010039.
+^ a b c Frosch, R.A.; Gallopoulos, N.E. (1989). "Strategies for Manufacturing". Scientific American. 261 (3): 144152. doi:10.1038/scientificamerican0989-144.
+^ "International Society for Industrial Ecology | History". Retrieved January 8, 2009.
+^ a b "The Kalundborg Centre for Industrial Symbiosis". Retrieved 2007. Check date values in: |access-date= (help)
+^ Yuan, Z.; Bi, J.; Moriguichi, Y. "The Circular Economy: A New Development Strategy in China". Journal of Industrial Ecology. 10 (12): 48. doi:10.1162/108819806775545321.
+^ Pearce, J. M. (2008). "Industrial Symbiosis for Very Large Scale Photovoltaic Manufacturing". Renewable Energy. 33 (5): 11011108. doi:10.1016/j.renene.2007.07.002.
+^ Kay, J.J. (2002). Kibert, C.; Sendzimir, J.; Guy, B., eds. "On Complexity Theory, Exergy and Industrial Ecology: Some Implications for Construction Ecology" (PDF). Construction Ecology: Nature as the Basis for Green Buildings. Spon Press: 72107
+^ Levine, S. H. (2003), Comparing Products and Production in Ecological and Industrial Systems. Journal of Industrial Ecology 7(2): 33-42.
+^ Nielsen, Sren Nors (2007). "What has modern ecosystem theory to offer to cleaner production, industrial ecology and society? The views of an ecologist". Journal of Cleaner Production. 15 (17): 16391653. doi:10.1016/j.jclepro.2006.08.008.
+^ Ashton, W. S. (2009), The Structure, Function, and Evolution of a Regional Industrial Ecosystem. Journal of Industrial Ecology 13(2): 228.
+^ Jensen, P. D. (2011), Reinterpreting Industrial Ecology. Journal of Industrial Ecology 15(5):680-692.
+^ Ehrenfeld, John (2004). "Can Industrial Ecology be the Science of Sustainability?". Journal of Industrial Ecology. 8 (12): 13. doi:10.1162/1088198041269364.
+^ Ehrenfeld, John (2007). "Would Industrial Ecology Exist without Sustainability in the Background?". Journal of Industrial Ecology. 11 (1).
+^ Axtell, R.L.; Andrews, C.J.; Small, M.J. (2002). "Agent-Based Modeling and Industrial Ecology". Journal of Industrial Ecology. 5 (4): 1013. doi:10.1162/10881980160084006.
+^ Kraines, S.; Wallace, D. (2006). "Applying Agent-based Simulation in Industrial Ecology". Journal of Industrial Ecology. 10 (12): 1518. doi:10.1162/108819806775545376.
+^ Wall, Gran. "Exergy - a useful concept"
+Further reading[edit]
+The industrial green game: implications for environmental design and management, Deanna J Richards (Ed), National Academy Press, Washington DC, USA, 1997, ISBN 0-309-05294-7
+'Handbook of Input-Output Economics in Industrial Ecology', Sangwon Suh (Ed), Springer, 2009, ISBN 978-1-4020-6154-7
+Boons, Frank (2012). "Freedom Versus Coercion in Industrial Ecology: Mind the Gap!". Econ Journal Watch. 9 (2): 100-111.
+Desrochers, Pierre (2012). "Freedom Versus Coercion in Industrial Ecology: A Reply to Boons". Econ Journal Watch. 9 (2): 78-99.
+External links[edit]
+Articles and books
+Industrial Ecology: An Introduction
+Industrial Ecology
+Industrial Symbiosis Timeline
+Journal of Industrial Ecology (Yale University on behalf of the School of Forestry and Environmental Studies).
+Industrial Ecology research & articles from The Program for the Human Environment, The Rockefeller University
+Education
+Erasmus Mundus Master's Programme in Industrial Ecology
+v
+t
+e
+Industrial ecology
+Tools
+Agent-based model
+Costbenefit analysis
+DPSIR
+Ecolabel
+Ecological footprint
+Environmental impact assessment
+Environmental management system
+Economic Input-Output Life Cycle Assessment
+Full cost accounting
+Input-output model
+Integrated chain management
+ISO 14000
+Life-cycle assessment
+Material flow analysis
+MET Matrix
+Stakeholder analysis
+Concepts
+Circular economy
+Cradle to cradle
+Dematerialization
+Eco-efficiency
+Eco-industrial development
+Eco-industrial park
+Ecological modernization
+Efficient energy use
+Exergy
+Extended producer responsibility
+Industrial metabolism
+Industrial symbiosis
+Pollution prevention
+Life-cycle assessment
+Polluter pays principle
+Precautionary principle
+Rebound effect
+Waste hierarchy
+Waste minimisation
+Related fields
+Cleaner production
+Design for environment
+Earth systems engineering and management
+Ecological economics
+Ecological modernization
+Environmental economics
+Green chemistry
+Sustainable development
+Urban ecology
+Urban metabolism
+v
+t
+e
+Systems Systems science
+Systems
+types
+Anatomical
+Art
+Biological
+Complex
+Complex adaptive
+Conceptual
+Coupled humanenvironment
+Database
+Dynamical
+Ecological
+Economic
+Formal
+Global Positioning
+Holarchic
+Information
+Legal
+Measurement
+Metric
+Multi-agent
+Nervous
+Nonlinear
+Operating
+Physical
+Planetary
+Political
+Sensory
+Social
+Star
+Writing
+Theoretical
+fields
+Chaos theory
+Complex systems
+Control theory
+Cybernetics
+Earth system science
+Living systems
+Sociotechnical system
+Systemics
+Urban metabolism
+World-systems theory
+Systems ...
+analysis
+biology
+dynamics
+ecology
+engineering
+neuroscience
+psychology
+science
+theory
+thinking
+Systems
+scientists
+Russell L. Ackoff
+William Ross Ashby
+Bla H. Bnthy
+Gregory Bateson
+Anthony Stafford Beer
+Richard E. Bellman
+Ludwig von Bertalanffy
+Kenneth E. Boulding
+Murray Bowen
+C. West Churchman
+George Dantzig
+Heinz von Foerster
+Jay Wright Forrester
+Charles A S Hall
+James J. Kay
+George Klir
+Edward Norton Lorenz
+Niklas Luhmann
+Humberto Maturana
+Margaret Mead
+Donella Meadows
+Mihajlo D. Mesarovic
+James Grier Miller
+Howard T. Odum
+Talcott Parsons
+Ilya Prigogine
+Qian Xuesen
+Anatol Rapoport
+Peter Senge
+Claude Shannon
+Francisco Varela
+Kevin Warwick
+Norbert Wiener
+Anthony Wilden
+Categories
+Systems
+conceptual
+physical
+social
+Systems science
+Systems science portal
+v
+t
+e
+Sustainability
+Principles
+Ecological modernization
+Environmentalism
+Human impact on the environment
+Planetary boundaries
+Social sustainability
+Stewardship
+Sustainable development
+Consumption
+Anthropization
+Anti-consumerism
+Ecological footprint
+Ethical
+Over-consumption
+Simple living
+Sustainability advertising
+Sustainability brand
+Sustainability marketing myopia
+Sustainable
+Systemic change resistance
+Tragedy of the commons
+Population
+Birth control
+Family planning
+Control
+Overpopulation
+Zero growth
+Technology
+Appropriate
+Environmental
+Sustainable
+Biodiversity
+Biosecurity
+Biosphere
+Conservation biology
+Deep ecology
+Endangered species
+Holocene extinction
+Invasive species
+Energy
+Carbon footprint
+Climate change mitigation
+Conservation
+Descent
+Efficiency
+Emissions trading
+Fossil-fuel phase-out
+Peak oil
+Renewable
+Energy poverty
+Food
+Forest gardening
+Local
+Permaculture
+Security
+Sustainable agriculture
+Sustainable fishery
+Urban horticulture
+Water
+Conservation
+Crisis
+Efficiency
+Footprint
+Accountability
+Sustainability accounting
+Sustainability measurement
+Sustainability metrics and indices
+Sustainability reporting
+Standards and certification
+Sustainable yield
+Applications
+Advertising
+Architecture
+Art
+Business
+City
+College programs
+Community
+Design
+Ecovillage
+Education for Sustainable Development
+Fashion
+Gardening
+Geopark
+Green marketing
+Industries
+Landscape architecture
+Living
+Low-impact development
+Sustainable market
+Organizations
+Packaging
+Practices
+Procurement
+Tourism
+Transport
+Urban drainage systems
+Urban infrastructure
+Urbanism
+Management
+Environmental
+Fisheries
+Forest
+Materials
+Natural resource
+Planetary
+Waste
+Agreements
+UN Conference on the Human Environment (Stockholm 1972)
+Brundtlandt Commission Report (1983)
+Our Common Future (1987)
+Earth Summit (1992)
+Rio Declaration on Environment and Development
+Agenda 21 (1992)
+Convention on Biological Diversity (1992)
+ICPD Programme of Action (1994)
+Earth Charter
+Lisbon Principles
+UN Millennium Declaration (2000)
+Earth Summit 2002 (Rio+10, Johannesburg)
+United Nations Conference on Sustainable Development (Rio+20, 2012)
+Sustainable Development Goals
+Category
+Lists
+Outline
+Portal
+Science
+Studies
+Degrees
+v
+t
+e
+Recycling
+Materials
+Aluminium
+Asphalt
+Concrete
+Copper
+Cotton
+Energy
+Ferrous metals
+Glass
+Gypsum
+Paper
+Plastic
+Refrigerant
+Scrap
+Timber
+Vegetable oil
+Water
+Products
+Appliances
+Automotive oil
+Batteries
+Bottles
+PET bottles
+Computers
+Fluorescent lamps
+Lumber
+Mobile phones
+Paint
+Ships
+Textiles
+Tires
+Vehicles
+Apparatus
+Bins
+Blue bags
+Blue boxes
+Codes
+Collection
+Materials recovery facility
+Waste sorting
+Countries
+Brazil
+Canada
+Ireland
+Japan
+The Netherlands
+Switzerland
+United Kingdom
+Northern Ireland
+United States
+Concepts
+Dematerialization
+Downcycling
+Eco-industrial park
+Ecodesign
+Extended producer responsibility
+Freecycling
+Industrial ecology
+Industrial metabolism
+Land recycling
+Material flow analysis
+Precycling
+Product stewardship
+Recursive recycling
+Recycling (ecological)
+Resource recovery
+Repurposing
+Reuse
+Upcycling
+Urban lumberjacking
+Waste hierarchy
+Waste minimisation
+Waste picking
+Zero waste
+See also
+Cogeneration
+Composting
+Container deposit legislation
+Dumpster diving
+Ethical consumerism
+Freeganism
+Simple living
+Waste
+Waste-to-energy
+Waste collection
+Waste legislation
+Waste management
+Waste management concepts
+Environment portal
+Category
+by country
+by material
+by product
+organizations
+Index
+Commons
+Environment portal
+Sustainable development portal
+NewPP limit report
+Parsed by mw1244
+Cached time: 20161119154039
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.244 seconds
+Real time usage: 0.314 seconds
+Preprocessor visited node count: 1650/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 105909/2097152 bytes
+Template argument size: 3643/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 4.14 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+206.129
+1 - -total
+48.01%
+98.953
+1 - Template:Reflist
+33.65%
+69.360
+12 - Template:Cite_journal
+17.71%
+36.505
+5 - Template:Navbox
+9.88%
+20.374
+1 - Template:Use_dmy_dates
+8.50%
+17.521
+1 - Template:Systems
+5.49%
+11.319
+1 - Template:Industrial_Ecology
+4.48%
+9.244
+3 - Template:Cite_web
+4.18%
+8.625
+1 - Template:Main
+4.12%
+8.499
+1 - Template:DMCA
+Saved in parser cache with key enwiki:pcache:idhash:223898-0!*!0!!en!4!* and timestamp 20161119154038 and revision id 746311415
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Industrial_ecology&oldid=746311415"
+Categories: Industrial ecologyIndustrial engineeringSystems ecologyEnvironmental economicsGlobal business organizationHidden categories: CS1 errors: datesArticles with inconsistent citation formatsUse dmy dates from October 2016Pages using ISBN magic links

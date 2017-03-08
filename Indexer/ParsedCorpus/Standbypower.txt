@@ -1,0 +1,206 @@
+Standbypower
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}For systems that provide auxiliary power, see Emergency power system.
+"Phantom load" redirects here. For microphone powering technique, see Phantom power.
+"Idling current" redirects here. For transistor quiescent current, see Biasing.
+Standby power, also called vampire power, vampire draw, phantom load, or leaking electricity ("phantom load" and "leaking electricity" are defined technical terms with other meanings, adopted for this different purpose), refers to the way electric power consumed by electronic and electrical appliances while they are switched off (but are designed to draw some power) or in a standby mode. This only occurs because some devices claimed to be "switched off" on the electronic interface, but are in a different state from switching off at the plug, or disconnecting from the power point, which can solve the problem of standby power completely. In fact, switching off at the power point is effective enough, there is no need to disconnect all devices from the power point. Some such devices offer remote controls and digital clock features to the user, while other devices, such as power adapters for disconnected electronic devices, consume power without offering any features (sometimes called no-load power). All of the above examples, such as the remote control, digital clock functions andin the case of adapters, no-load powerare switched off just by switching off at the power point. However, for some devices with built-in internal battery, such as a phone, the standby functions can be stopped by removing the battery instead.
+In the past, standby power was largely a non-issue for users, electricity providers, manufacturers, and government regulators. In the first decade of the twenty-first century, awareness of the issue grew and it became an important consideration for all parties. Up to the middle of the decade, standby power was often several watts or even tens of watts per appliance. By 2010, regulations were in place in most developed countries restricting standby power of devices sold to one watt (and half that from 2013).
+Contents
+1 Definition
+2 Advantages and disadvantages
+2.1 Advantages
+2.2 Disadvantages
+3 Magnitude
+4 Fire risks
+5 Policy
+6 Determining standby power
+6.1 Identifying devices
+6.2 Estimating standby power
+6.3 Measuring standby power
+7 Reducing standby consumption
+7.1 Operating practices
+7.2 Equipment efficiency
+8 See also
+9 References
+10 External links
+Definition[edit]
+Standby power is electrical power used by appliances and equipment while switched off or not performing their primary function, often waiting to be activated by a remote controller. That power is consumed by internal or external power supplies, remote control receivers, text or light displays, circuits energized when the device is plugged in even when switched off, etc.[1] Power can be saved by disconnecting such devices, causing at worst only inconvenience.[citation needed]
+While this definition is inadequate for technical purposes, there is as yet no formal definition; an international standards committee is developing a definition and test procedure.[1]
+The term is often used more loosely for any device that continuously must use a small amount of power even when not active; for example a telephone answering machine must be available at all times to receive calls, switching off to save power is not an option. Timers, powered thermostats, and the like are other examples. An uninterruptible power supply could be considered to be wasting standby power only when the computer it protects is off. Disconnecting standby power proper is at worst inconvenient; powering down completely, for example an answering machine not dealing with a call, renders it useless.
+Advantages and disadvantages[edit]
+Advantages[edit]
+Standby power is often consumed for a purpose, although in the past there was little effort to minimize power used.
+It may enable a device to switch on very quickly without delays that might otherwise occur ("instant-on"). This was used, for example, with CRT television receivers (now largely supplanted by thin solid-state screens), where a small current was passed through the tube heater, avoiding a delay of many seconds in starting up.
+It may be used to power a remote control receiver, so that when infrared or radio-frequency signals are sent by a remote control device, the equipment is able to respond, typically by changing from standby to fully on mode.
+Standby power may be used to power a display, operate a clock, etc., without switching on the equipment to full power.
+Battery-powered equipment connected to mains electricity can be kept fully charged although switched on; for example, a mobile telephone can be ready to receive calls without depleting its battery charge.
+Disadvantages[edit]
+The disadvantages of standby power all relate to the energy used. As standby power is reduced, the disadvantages become less. Older devices often used ten watts or more; with the adoption of the One Watt Initiative by many countries, standby energy use is much diminished.
+Devices on standby consume electricity which must be paid for. The total energy consumed may be of the order of 10% of the electrical energy used by a typical household, as discussed below. The cost of standby energy is easily estimatedeach watt of continuous standby consumes about 9 kWh of electricity per year, and the price per kWh is shown on electricity bills.
+Electricity is very often generated by combustion of hydrocarbons (oil, coal, gas) or other substances, which releases substantial amounts of carbon dioxide, implicated in global warming, and other pollutants such as sulphur dioxide, which produces acid rain. Standby power is a significant contributor to electricity usage.
+As electricity consumption increases, more power stations are needed, with associated capital and running costs.
+Magnitude[edit]
+Standby power makes up a portion of homes' miscellaneous electric load, which also includes small appliances, security systems, and other small power draws. The U.S. Department of Energy said in 2008:
+"Many appliances continue to draw a small amount of power when they are switched off. These "phantom" loads occur in most appliances that use electricity, such as VCRs, televisions, stereos, computers, and kitchen appliances. This can be avoided by unplugging the appliance or using a power strip and using the switch on the power strip to cut all power to the appliance."[2]
+Standby power used by older devices can be as high as 1015W per device,[3] while a modern HD LCD television may use less than 1W in standby mode. Some appliances use no energy when turned off. Many countries adopting the One Watt Initiative now require new devices to use no more than 1W starting in 2010, and 0.5W in 2013.
+Although the power needed for functions such as displays, indicators, and remote control functions is relatively small, the large number of such devices and their being continuously plugged in resulted in energy usage before the One Watt regulations of 8 to 22 percent of all appliance consumption in different countries, 32 to 87 W,[4] and around 310 percent of total residential consumption. In Britain in 2004 standby modes on electronic devices accounted for 8% of all British residential power consumption.[5] A similar study in France in 2000 found that standby power accounted for 7% of total residential consumption.[6]
+In 2004, the California Energy Commission produced a report containing typical standby and operational power consumption for 280 different household devices, including baby monitors and toothbrush chargers.[7]
+Over a decade ago some electronics, such as microwaves, CRTs and VHS players used more standby power than appliances manufactured in the last 5 years. For a historical reference please see this article from the Economist.[8]
+In the US the average home used an average of 11,040kWh of electricity per year in 2010.[9] Each watt of power consumed by a device running continuously consumes about 9kWh (1W  365.25days/year  24hours/day) per year, a little less than one thousandth of the annual US household consumption. Unplugging a device constantly consuming standby power saves a yearly 9kWh for each watt of continuous consumption (saving $1 per year at average US rates[10]).
+Devices such as security systems, fire alarms, and digital video recorders require continuous power to operate properly (though in the case of electric timers used to disconnect other devices on standby, they actually reduce total energy usage). The Reducing Consumption section below provides information on reducing standby power.
+Fire risks[edit]
+There is a risk of fire from devices in standby mode. There are reports of televisions, in particular, catching fire in standby mode.[11]
+Before the development of modern semiconductor electronics it was not uncommon for devices, typically television receivers, to catch fire when plugged in but switched off,[12] sometimes when fully switched off rather than on standby. This is much less likely with modern equipment, but not impossible. Older cathode-ray tube display equipment (television and computer displays) had high voltages and currents, and were far more of a fire risk than thin panel LCD and other displays.
+Contributing factors for electrical fires include:
+Damp environments
+Lightning strikes affecting building wiring
+Age of the applianceolder appliances are less well designed for safety, and may have deteriorated
+Policy[edit]
+For more details on this topic, see One Watt Initiative.
+The One Watt Initiative was launched by the IEA in 1999 to ensure through international cooperation that by 2010 all new appliances sold in the world only use one watt in standby mode. This would reduce CO2 emissions by 50 million tons in the OECD countries alone by 2010.
+In July 2001 U.S. President George W. Bush signed an Executive Order directing federal agencies to "purchase products that use no more than one watt in their standby power consuming mode".[13]
+In July 2007 California's 2005 appliance standards came into effect, limiting external power supply standby power to 0.5 watts.[14]
+On 6 January 2010 the European Commission (EC) Regulation No 1275/2008 came into force. The regulations mandate that from 6 January 2010 "off mode" and standby power for electrical and electronic household and ofce equipment shall not exceed 1W, "standby plus" power (providing information or status display in addition to possible reactivation function) shall not exceed 2W. Equipment must where appropriate provide off mode and/or standby mode when the equipment is connected to the mains power source. These figures were halved on 6 January 2013.[15]
+Determining standby power[edit]
+Identifying devices[edit]
+The following types of devices consume standby power.
+Transformers for voltage conversion.
+Wall wart power supplies powering devices that are switched off.
+Many devices with "instant-on" functions that respond immediately to user action without warm-up delay.
+Electronic and electrical devices in standby mode that can be woken by a remote control, e.g. some air conditioners, audio-visual equipment such as a television receiver
+Electronic and electrical devices that can carry out some functions even when switched off, e.g. with an electrically powered timer. Most modern computers consume standby power, allowing them to be woken remotely (by Wake on LAN, etc.) or at a specified time. These functions are always enabled even if not needed; power can be saved by disconnecting from mains (sometimes by a switch on the back), but only if functionality is not needed.
+Uninterruptible power supplies (UPS)
+Other devices consume standby power which is required for normal functioning that cannot be saved by switching off when not in use. For these devices electricity can only be saved by choosing units with minimal permanent power consumption:
+Cordless telephones and answering machines
+Timers that operate devices
+Security systems and fire alarms
+Transformer-powered doorbells
+Programmable thermostats
+Motion sensors, light sensors, built-in timers and automatic sprinklers
+Estimating standby power[edit]
+Standby power consumption can be estimated using tables of standby power used by typical devices,[16] although standby power used by appliances of the same class vary extremely widely (for a CRT computer display standby power is listed at a minimum of 1.6W, maximum 74.5W). Total standby power can be estimated by measuring total house power with all devices standing by, then disconnected,[16][17] but this method is inaccurate and subject to large errors and uncertainties.[7]
+Measuring standby power[edit]
+The power wasted in standby must go somewhere; it is dissipated as heat. The temperature, or simply perceived warmth, of a device on standby long enough to reach a stable temperature gives some idea of power wasted.
+For most home applications, wattmeters give a good indication of energy used, and some indication of standby consumption.
+A wattmeter is used to measure electrical power. Inexpensive plugin wattmeters, sometimes described as energy monitors, are available from prices of around US$10. Some more expensive models for home use have remote display units. In the USA wattmeters can often also be borrowed from local power authorities[18] or a local public library.[19][20] Although accuracy of measurement of low AC current and quantities derived from it, such as power, is often poor, these devices are nevertheless indicative of standby power,[21] if sensitive enough to register it. Some home power monitors simply specify an error figure such as 0.2%, without specifying the parameter subject to this error (e.g., voltage, easy to measure), and without qualification.[22] Errors of measurement at the low standby powers used from about 2010 (i.e., less than a few watts) may be a very large percentage of the actual valueaccuracy is poor.[21] Modification of such meters to read standby power has been described and discussed in detail (with oscilloscope waveforms and measurements).[23] Essentially, the meter's shunt resistor, used to generate a voltage proportional to load current, is replaced by one of value typically 100 times larger, with protective diodes. Readings of the modified meter have to be multiplied by the resistance factor (e.g. 100), and maximum measurable power is reduced by the same factor.
+Professional equipment capable of but not specifically designed for low-power measurements clarifies typically that the error is a percentage of full-scale value, or a percentage of reading plus a fixed amount, and valid only within certain limits.
+In practice, accuracy of measurements by meters with poor performance at low power levels can be improved by measuring the power drawn by a fixed load such as an incandescent light bulb, adding the standby device, and calculating the difference in power consumption.[21]
+Less expensive wattmeters may be subject to significant inaccuracy at low current (power). They are often subject to other errors due to their mode of operation:
+If the load is highly reactive, the power shown by some meters may be inaccurate. Meters capable of displaying power factor do not have this problem.
+Many AC meters are designed to give readings that are only meaningful for the sinusoidal waveforms of normal ac power. Waveforms for switched-mode power supplies as used in much electronic equipment may be very far from sinusoidal, causing power readings of such meters to be meaningless. Meters specified to read "RMS power" do not have this problem.
+Laboratory-grade equipment designed for low power measurement, which costs from several hundreds of US dollars and is much larger than simple domestic meters, can measure power down to very low values without any of these effects. The US IEC 62301 recommendation for measurements of active power is that power of 0.5W or greater shall be made with an uncertainty of 2%. Measurements of less than 0.5W shall be made with an uncertainty of 0.01W. The power measurement instrument shall have a resolution of 0.01W or better.[7][24]
+Even with laboratory-grade equipment measurement of standby power has its problems. There are two basic ways of connecting equipment to measure power; one measures the correct voltage, but the current is wrong; the error is negligibly small for relatively high currents, but becomes large for the small currents typical of standbyin a typical case a standby power of 100mW would be overestimated by over 50%. The other connection gives a small error in the voltage but accurate current, and reduces the error at low power by a factor of 5000. A laboratory meter intended for measurement of higher powers may be susceptible to this error.[25] Another issue is the possibility of measuring equipment damage if in a very sensitive range capable of measuring a few milliamps; if the device being measured comes out of standby and draws several amps, the meter can be damaged unless it is protected.[25]
+Standby Indicator
+DC Power adaptor
+Reducing standby consumption[edit]
+Operating practices[edit]
+Some equipment has a quick-start mode; standby power is eliminated if this mode is not used. Video game consoles often use power when they are turned off, but the standby power can be further reduced if the correct options are set. For example, a Wii console can go from 18 watts to 8 watts to 1 watt by turning off the WiiConnect24 and Standby Connection options.[26][27]
+Devices that have rechargeable batteries and are always plugged in use standby power even if the battery is fully charged. Corded appliances such as vacuum cleaners, electric razors, and simple telephones do not need a standby mode and do not consume the standby power that cordless equivalents do.
+Older devices with power adapters that are large and are warm to the touch use several watts of power. Newer power adapters that are lightweight and are not warm to the touch may use less than one watt.
+Standby power consumption can be reduced by unplugging or totally switching off, if possible, devices with a standby mode not currently in use; if several devices are used together or only when a room is occupied, they can be connected to a single power strip that is switched off when not needed. This may cause some electronic devices, particularly older ones, to lose their configuration settings.
+A switchable power strip or power bar
+Timers can be used to turn off standby power to devices that are unused on a regular schedule. Switches that turn the power off when the connected device goes into standby,[28] or that turn other outlets on or off when a device is turned on or off are also available. Switches can be activated by sensors. Home automation sensors, switches and controllers can be used to handle more complex sensing and switching. This produces a net saving of power so long as the control devices themselves use less power than the controlled equipment in standby mode.[29][30]
+Standby power consumption of some computers can be reduced by turning off components that use power in standby mode. For instance, disabling Wake-on-LAN (WoL),[31] "wake on modem", "wake on keyboard" or "wake on USB" may reduce power when in standby. Unused features may be disabled in the computer's BIOS setup to save power.
+Devices were introduced in 2010 that allow the remote controller for equipment to be used to totally switch off power to everything plugged into a power strip. It was claimed in the UK that this could save 30, more than the price of the device, in one year.[32]
+Equipment efficiency[edit]
+As users of energy and government authorities have become aware of the need not to waste energy, more attention is being paid to the electrical efficiency of devices (fraction of power consumed that achieves functionality, rather than waste heat); this affects all aspects of equipment, including standby power. Standby power use can be decreased both by attention to circuit design and by improved technology. Programs directed at consumer electronics have stimulated manufacturers to cut standby power use in many products. It is probably technically feasible to reduce standby power by 75% overall; most savings will be less than a watt, but other cases will be as large as 10 watts.[33]
+For example, a commercially available computer in Wake on LAN standby typically consumed 2 to 8 watts of standby power as of 2011[update], but it was possible to design much more efficient circuitry: a purpose-designed microcontroller can reduce total system power to under 0.5W, with the microcontroller itself contributing 42mW.[34]
+See also[edit]
+Energy portal
+Green computing
+List of energy storage projects
+Low-power electronics
+Miscellaneous electric load
+AC adapter
+References[edit]
+^ a b US Lawrence Livermore laboratory, Frequently-asked questions
+^ US Department of Energy, "Home Office and Home Electronics," 15 Jan 2008, Accessed on: 7 May 2008.
+^ "Energy cost of PCs on standby". London: BBC 7. April 2006. Retrieved 2006-08-09.
+^ accessed 18.08.2008 Archived July 20, 2008, at the Wayback Machine.
+^ "Energy review 2006, Department of Trade and Industry, UK" (PDF). Archived from the original (PDF) on 2009-06-09.
+^ "Standby Power Use: How Big is the Problem? What Policies and Technical Solutions Can Address It?" (PDF). Archived from the original (PDF) on 2007-07-06.
+^ a b c Developing and Testing Low Power Mode Measurement Methods, prepared by Lawrence Berkeley National Laboratory for California Energy Commission Public Interest Energy Research Program, 2004
+^ Pulling the plug on standby power, Mar 9, 2006, The Economist
+^ "Frequently Asked Questions  Electricity". U.S. Energy Information Administration. July 2010. Retrieved Jan 6, 2011.
+^ "The Price Of Electricity In Your State". Retrieved 2015-08-01.
+^ "Causes of fires involving television sets in dwellings." (PDF). London: Department of Trade and Industry. April 2001. Retrieved 2006-08-09.
+^ Free Lance-Start newspaper, 29 April 1974"Unplug the TV set before going to bed"
+^ Executive Order  Energy Efficient Standby Power Devices, July 2001, The White House
+^ http://www.fypower.org/news/?p=1386
+^ BIS department, UK: Standby and off leaflet
+^ a b "Measuring Standby Power in Your Home". Retrieved 2008-09-20.
+^ http://www.kouba-cavallo.com/phantom.html
+^ Austin Utilities  Residential  Home Energy Audit  Watts Up
+^ Portable Energy Meter
+^ Watts up? Support: FAQs
+^ a b c US Lawrence Livermore laboratory, Standby Power, measuring standby
+^ [1]
+^ Measuring standby power
+^ Test Method for Calculating the Energy Efficiency of Single-Voltage External Ac-Dc and Ac-Ac Power Supplies, funded by California Energy Commission, 2004
+^ a b ZES Zimmer Application Note 102: Measurement of standby power and energy efficiency
+^ "WiiConnect24". Nintendo. 2010. Retrieved Jan 6, 2011.
+^ "Having the Wii turned off but in Standby Mode". Nintendo Discussions. April 2010. Retrieved Jan 6, 2011.
+^ no the Standby Plug, a standby cut off switch from Scotland
+^ http://bitsltd.net/SalesCD/Site/Smart%20Strip%20vs%20Others.htm Energy Saving Power Strips Comparison by a vendor of SmartStrip, accessed January 26, 2009
+^ the Standby Plug FAQ, accessed January 26, 2009
+^ LessWatts.org  Saving Power on Intel systems with Linux
+^ Standby power saveruses device remote control to power down equipment
+^ US Lawrence Berkeley National Laboratory, Frequently Asked Questions on Standby Power
+^ Silicon Labs: Low Power Wake-on-LAN Challenges and Solutions
+External links[edit]
+Standby Power Home Page, Lawrence Berkeley National Laboratory
+Official Energy Star Website, Energy Star
+International Conference on Standby Power, New Delhi INDIA
+Phantom Loads
+Is a Phantom Stealing Your Electricity?
+EU States Endorse Steps to Cut Standby Power Use
+NewPP limit report
+Parsed by mw1267
+Cached time: 20161119090048
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.236 seconds
+Real time usage: 0.285 seconds
+Preprocessor visited node count: 1057/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 18711/2097152 bytes
+Template argument size: 877/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 3.59 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+241.684
+1 - -total
+38.76%
+93.684
+1 - Template:Reflist
+19.84%
+47.946
+5 - Template:Cite_journal
+17.01%
+41.105
+1 - Template:Citation_needed
+15.12%
+36.542
+1 - Template:Fix
+10.68%
+25.804
+1 - Template:For
+8.35%
+20.184
+2 - Template:Category_handler
+6.21%
+15.013
+4 - Template:Cite_web
+5.91%
+14.282
+1 - Template:As_of
+5.52%
+13.350
+1 - Template:Delink
+Saved in parser cache with key enwiki:pcache:idhash:4739163-0!*!0!!en!4!* and timestamp 20161119090048 and revision id 750053591
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Standby_power&oldid=750053591"
+Categories: ElectricityEnergy conservationEnvironmental impact of the energy industryElectronics and the environmentElectric powerHidden categories: Webarchive template wayback linksAll articles with unsourced statementsArticles with unsourced statements from November 2016Articles containing potentially dated statements from 2011All articles containing potentially dated statements

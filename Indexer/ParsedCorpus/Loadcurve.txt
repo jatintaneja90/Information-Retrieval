@@ -1,0 +1,157 @@
+Loadcurve
+From Wikipedia, the free encyclopedia
+(Redirected from Load curve)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2009) (Learn how and when to remove this template message)
+Typical seasonal loads of electric utilities in Eastern New England Division in 1919. United States Geological Survey, 1921. Image courtesy of the National Museum of American History from Powering a Generation of Change
+In electrical engineering, a load profile is a graph of the variation in the electrical load versus time. A load profile will vary according to customer type (typical examples include residential, commercial and industrial), temperature and holiday seasons. Power producers use this information to plan how much electricity they will need to make available at any given time. Teletraffic engineering uses a similar load curve.
+Contents
+1 Power generation
+2 Electricity distribution
+3 Retail energy markets
+4 Calculating and recording load profiles
+5 See also
+6 References
+7 External links
+Power generation[edit]
+In a power system, a load curve or load profile is a chart illustrating the variation in demand/electrical load over a specific time. Generation companies use this information to plan how much power they will need to generate at any given time. A load duration curve is similar to a load curve. The information is the same but is presented in a different form. These curves are useful in the selection of generator units for supplying electricity.
+Electricity distribution[edit]
+In an electricity distribution grid, the load profile of electricity usage is important to the efficiency and reliability of power transmission. The power transformer or battery-to-grid are critical aspects of power distribution and sizing and modelling of batteries or transformers depends on the load profile.[1] The factory specification of transformers for the optimization of load losses versus no-load losses is dependent directly on the characteristics of the load profile that the transformer is expected to be subjected to.[2] This includes such characteristics as average load factor, diversity factor, utilization factor, and demand factor, which can all be calculated based on a given load profile.
+On the power market so-called EFA blocks are used to specify the traded forward contract (on the delivery of a certain amount of electrical energy at a certain time.
+Retail energy markets[edit]
+In retail energy markets, supplier obligations are settled on an hourly or subhourly basis. For most customers, consumption is measured on a monthly basis, based on meter reading schedules. Load profiles are used to convert the monthly consumption data into estimates of hourly or subhourly consumption in order to determine the supplier obligation. For each hour, these estimates are aggregated for all customers of an energy supplier, and the aggregate amount is used in market settlement calculations as the total demand that must be covered by the supplier.
+Calculating and recording load profiles[edit]
+Load profiles can be determined by direct metering but on smaller devices such as distribution network transformers this is not routinely done. Instead a load profile can be inferred from customer billing or other data. An example of a practical calculation used by utilities is using a transformer's maximum demand reading and taking into account the known number of each customer type supplied by these transformers. This process is called load research.
+Actual demand can be collected at strategic locations to perform more detailed load analysis; this is beneficial to both distribution and end-user customers looking for peak consumption. Smart grid meters, utility meter load profilers, data logging sub-meters and portable data loggers are designed to accomplish this task by recording readings at a set interval.
+See also[edit]
+Cost of electricity by source
+Electricity generation
+Electric power transmission
+Electric power distribution
+Load duration curve
+Peak demand
+Vehicle-to-grid
+Unit commitment problem in electrical power production
+References[edit]
+^ "E.ON UK Plans Giant Battery to Store Wind Power". Planet Ark.
+^ Eromon, David I. (2005), "The Dynamics of Transformer Purchasing in a Transformed Electric Market", The International Journal of Modern Engineering, 6 (1)
+External links[edit]
+Wikimedia Commons has media related to Load profiles.
+California Independent System Operator (Cal ISO) Predicted system capacity and demand with approximate current demand chart for today.
+ACR Systems Inc. Energy demand portable data logger application.
+Sensus
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Base load
+Black start
+Capacity factor
+Demand factor
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+Authority control
+GND: 4328972-1
+Saved in parser cache with key enwiki:pcache:idhash:4490333-0!*!0!!en!4!* and timestamp 20161113155423 and revision id 747532770
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Load_profile&oldid=747532770"
+Categories: Electronic engineeringElectric powerElectrical systemsHidden categories: Articles needing additional references from April 2009All articles needing additional referencesCommons category with local link same as on WikidataWikipedia articles with GND identifiers

@@ -1,0 +1,886 @@
+Foodsecurity
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Food security is a condition related to the supply of food, and individuals' access to it. Concerns over food security have existed throughout history. There is evidence of granaries being in use over 10,000 years ago, with central authorities in civilizations including ancient China and ancient Egypt being known to release food from storage in times of famine. At the 1974 World Food Conference the term "food security" was defined with an emphasis on supply. Food security, they said, is the "availability at all times of adequate world food supplies of basic foodstuffs to sustain a steady expansion of food consumption and to offset fluctuations in production and prices".[1] Later definitions added demand and access issues to the definition. The final report of the 1996 World Food Summit states that food security "exists when all people, at all times, have physical and economic access to sufficient, safe and nutritious food to meet their dietary needs and food preferences for an active and healthy life".[2][3]
+Household food security exists when all members, at all times, have access to enough food for an active, healthy life.[4] Individuals who are food secure do not live in hunger or fear of starvation.[5] Food insecurity, on the other hand, is a situation of "limited or uncertain availability of nutritionally adequate and safe foods or limited or uncertain ability to acquire acceptable foods in socially acceptable ways", according to the United States Department of Agriculture (USDA).[6] Food security incorporates a measure of resilience to future disruption or unavailability of critical food supply due to various risk factors including droughts, shipping disruptions, fuel shortages, economic instability, and wars.[7] In the years 2011-2013, an estimated 842 million people were suffering from chronic hunger.[8] The Food and Agriculture Organization of the United Nations, or FAO, identified the four pillars of food security as availability, access, utilization, and stability.[9] The United Nations (UN) recognized the Right to Food in the Declaration of Human Rights in 1948,[5] and has since noted that it is vital for the enjoyment of all other rights.[10]
+The 1996 World Summit on Food Security declared that "food should not be used as an instrument for political and economic pressure".[3] According to the International Centre for Trade and Sustainable Development, failed agriculture market regulation and the lack of anti-dumping mechanisms cause much of the world's food scarcity and malnutrition.
+Contents
+1 Measurement
+2 Rates
+3 History
+3.1 2007-08 crisis
+4 Food security in the US
+4.1 Feed the Future
+5 World Summit on Food Security
+6 Pillars of food security
+6.1 Availability
+6.2 Access
+6.3 Utilization
+6.4 Stability
+7 Effects of food insecurity
+7.1 Stunting and chronic nutritional deficiencies
+8 Challenges to achieving food security
+8.1 Global water crisis
+8.2 Land degradation
+8.3 Climate change
+8.4 Agricultural diseases
+8.5 Dictatorship and kleptocracy
+8.6 Food sovereignty
+9 Risks to food security
+9.1 Population growth
+9.2 Fossil fuel dependence
+9.3 Homogeneity in the global food supply
+9.4 Price setting
+9.5 Land use change
+9.6 Global catastrophic risks
+10 Children and food security
+11 Gender and food security
+12 Use of genetically modified (GM) crops
+12.1 Opposition to GM crops
+12.2 Support of GM crops
+13 Approaches
+13.1 By the United Nations
+13.1.1 By the Food and Agriculture Organization
+13.1.2 By the World Food Programme
+13.2 Global partnerships to achieve food security and end hunger
+13.3 By the United States Agency for International Development
+13.4 Improving agricultural productivity to benefit the rural poor
+13.5 Producing food without agriculture
+13.6 Large-scale food stockpiling
+13.7 Agricultural insurances
+14 Criticism
+15 See also
+16 References
+17 Sources
+18 Further reading
+19 External links
+Measurement[edit]
+Food security indicators and measures are derived from country level household income and expenditure surveys to estimate per capita caloric availability.[11][12] In general the objective of food security indicators and measures is to capture some or all of the main components of food security in terms of food availability, access and utilization or adequacy. While availability (production and supply) and utilization/adequacy (nutritional status/anthropometric measures) seemed much easier to estimate, thus more popular, access (ability to acquire sufficient quantity and quality) remain largely elusive.[13] The factors influencing household food access are often context specific. Thus the financial and technical demands of collecting and analyzing data on all aspects of household's experience of food access and the development of valid and clear measures remain a huge challenge.[14] Nevertheless, several measures have been developed that aim to capture the access component of food security, with some notable examples developed by the USAID-funded Food and Nutrition Technical Assistance (FANTA) project, collaborating with Cornell and Tufts University and Africare and World Vision.[14][15][16][17] These include:
+Household Food Insecurity Access Scale (HFIAS) - continuous measure of the degree of food insecurity (access) in the household in the previous month
+Household Dietary Diversity Scale (HDDS) - measures the number of different food groups consumed over a specific reference period (24hrs/48hrs/7days).
+Household Hunger Scale (HHS)- measures the experience of household food deprivation based on a set of predictable reactions, captured through a survey and summarized in a scale.
+Coping Strategies Index (CSI) - assesses household behaviours and rates them based on a set of varied established behaviours on how households cope with food shortages. The methodology for this research is base on collecting data on a single question: "What do you do when you do not have enough food, and do not have enough money to buy food?"[18][19][20]
+Food insecurity is measured in the United States by questions in the Census Bureau's Current Population Survey. The questions asked are about anxiety that the household budget is inadequate to buy enough food, inadequacy in the quantity or quality of food eaten by adults and children in the household, and instances of reduced food intake or consequences of reduced food intake for adults and for children.[21] A National Academy of Sciences study commissioned by the USDA criticized this measurement and the relationship of "food security" to hunger, adding "it is not clear whether hunger is appropriately identified as the extreme end of the food security scale."[22]
+The FAO, World Food Programme (WFP), and International Fund for Agricultural Development (IFAD) collaborate to produce The State of Food Insecurity in the World. The 2012 edition described improvements made by the FAO to the prevalence of undernourishment (PoU) indicator that is used to measure rates of food insecurity. New features include revised minimum dietary energy requirements for individual countries, updates to the world population data, and estimates of food losses in retail distribution for each country. Measurements that factor into the indicator include dietary energy supply, food production, food prices, food expenditures, and volatility of the food system.[23] The stages of food insecurity range from food secure situations to full-scale famine.[24] A new peer-reviewed journal of Food Security: The Science, Sociology and Economics of Food Production and Access to Food began publishing in 2009.[25]
+Rates[edit]
+Number of people affected by undernourishment, 201012 (by region, in millions). Data source: FAO.[26]
+With its prevalence of undernourishment (PoU) indicator, the FAO reported that almost 870 million people were chronically undernourished in the years 2010-2012. This represents 12.5% of the global population, or 1 in 8 people. Higher rates occur in developing countries, where 852 million people (about 15% of the population) are chronically undernourished. The report noted that Asia and Latin America have achieved reductions in rates of undernourishment that put these regions on track for achieving the Millennium Development Goal of halving the prevalence of undernourishment by 2015.[23] The UN noted that about 2 billion people do not consume a sufficient amount of vitamins and minerals.[27] In India, the second-most populous country in the world, 30 million people have been added to the ranks of the hungry since the mid-1990s and 46% of children are underweight.[28]
+History[edit]
+This article or section might be slanted towards recent events. Please try to keep recent events in historical perspective. (November 2014) (Learn how and when to remove this template message)
+2007-08 crisis[edit]
+In late 2007, export restrictions and panic buying, US dollar depreciation,[29] increased farming for use in biofuels,[30] world oil prices at more than $100 a barrel,[31] global population growth,[32] climate change,[33] loss of agricultural land to residential and industrial development,[34][35] and growing consumer demand in China and India[36] are claimed to have pushed up the price of grain.[37][38] However, the role of some of these factors is under debate. Some argue the role of biofuel has been overplayed[39] as grain prices have come down to the levels of 2006. Nonetheless, food riots took place in many countries across the world in 2011.[40][41]
+Food security in the US[edit]
+Further information: Food security in the United States
+The United States Department of Agriculture defines food insecurity as "limited or uncertain availability of nutritionally adequate and safe foods or limited or uncertain ability to acquire acceptable foods in socially acceptable ways."[42]
+National Food Security Surveys are the main survey tool used by the USDA to measure food security in the United States. Based on respondents' answers to survey questions, the household can be placed on a continuum of food security defined by the USDA. This continuum has four categories: high food security, marginal food security, low food security, and very low food security.[42] Economic Research Service report number 155 (ERS-155) estimates that 14.5 percent (17.6 million) of US households were food insecure at some point in 2012. The prevalence of food insecurity has been relatively in the United States since the economic recession 2008.
+In 2012:
+49.0 million people lived in food-insecure households.
+12.4 million adults lived in households with very low food security.
+8.3 million children lived in food-insecure households in which children, along with adults, were food insecure.
+977,000 children lived in households in which one or more child experienced very low food security.[43]
+Feed the Future[edit]
+The government of the United States has taken up an initiative along with other local government agencies as well as global partners, the G8 countries, and donors to reduce global hunger and to improve food security conditions in the world. Exploiting the G8 Summit of 2009 held in L'Aquila, Italy, President Barack Obama encouraged global leaders to revert the three-decade old trend of reduced agricultural investments, and instead, choose to increase cash flow in their respective agricultural sectors in a drive to bolster global food security. This led to the birth of the "Feed the Future" program.[44]
+Initially, the U.S had been successful in collecting over $18 billion in funds for the program from the G8 countries as well as other donors. The "Feed the Future" initiative is presently led by the U.S Agency for International Development and has the support of other government-funded bodies like the State Department, Peace Corps, Millennium Challenge Corporation, the Treasury Department, U.S. Trade Representative, Overseas Private Investment Corporation, the U.S. African Development Foundation, and the U.S Department of Agriculture.
+The target group of this initiative is the small holder farmers, especially women. Feed the Future has plans to help partner countries to develop their agricultural sector with an aim to improve their agricultural output. A spurt in economic growth would ultimately lead to higher income and help to eradicate hunger, and poverty, as well as under nutrition from the society. This initiative is expected to work on the basis of country-led priorities that call for consistent support by the governments, donor organizations, the private sector, and the civil society to accomplish its long-term goals.[44]
+World Summit on Food Security[edit]
+The World Summit on Food Security held in Rome in 1996, aimed to renew a global commitment to the fight against hunger. The Food and Agriculture Organization of the United Nations (FAO) called the summit in response to widespread under-nutrition and growing concern about the capacity of agriculture to meet future food needs. The conference produced two key documents, the Rome Declaration on World Food Security and the World Food Summit Plan of Action.[3][45]
+The Rome Declaration calls for the members of the United Nations to work to halve the number of chronically undernourished people on the Earth by the year 2015. The Plan of Action sets a number of targets for government and non-governmental organizations for achieving food security, at the individual, household, national, regional and global levels.
+Another World Summit on Food Security took place in Rome between November 16 and 18, 2009. The decision to convene the summit was taken by the Council of FAO in June 2009, at the proposal of FAO Director-General Dr Jacques Diouf. Heads of State and Government attended the summit, which took place at the FAO's headquarters.
+Pillars of food security[edit]
+The WHO states that there are three pillars that determine food security: food availability, food access, and food use.[46] The FAO adds a fourth pillar: the stability of the first three dimensions of food security over time.[5] In 2009, the World Summit on Food Security stated that the "four pillars of food security are availability, access, utilization, and stability".[9]
+Availability[edit]
+Growth in food production has been greater than population growth. Food per person increased since 1961. Data source: Food and Agriculture Organization.
+Food availability relates to the supply of food through production, distribution, and exchange.[47] Food production is determined by a variety of factors including land ownership and use; soil management; crop selection, breeding, and management; livestock breeding and management; and harvesting.[48] Crop production can be affected by changes in rainfall and temperatures.[47] The use of land, water, and energy to grow food often competes with other uses, which can affect food production.[49] Land used for agriculture can be used for urbanization or lost to desertification, salinization, and soil erosion due to unsustainable agricultural practices.[49] Crop production is not required for a country to achieve food security. Nations don't have to have the natural resources required to produce crops in order to achieve food security, as seen in the examples of Japan[50] and Singapore.[51]
+Because food consumers outnumber producers in every country,[51] food must be distributed to different regions or nations. Food distribution involves the storage, processing, transport, packaging, and marketing of food.[48] Food-chain infrastructure and storage technologies on farms can also affect the amount of food wasted in the distribution process.[49] Poor transport infrastructure can increase the price of supplying water and fertilizer as well as the price of moving food to national and global markets.[49] Around the world, few individuals or households are continuously self-reliant for food. This creates the need for a bartering, exchange, or cash economy to acquire food.[47] The exchange of food requires efficient trading systems and market institutions, which can affect food security.[52] Per capita world food supplies are more than adequate to provide food security to all, and thus food accessibility is a greater barrier to achieving food security.[51]
+Access[edit]
+Goats are an important part of the solution to global food security because they are fairly low-maintenance and easy to raise and farm.
+Food access refers to the affordability and allocation of food, as well as the preferences of individuals and households.[47] The UN Committee on Economic, Social, and Cultural Rights noted that the causes of hunger and malnutrition are often not a scarcity of food but an inability to access available food, usually due to poverty.[10] Poverty can limit access to food, and can also increase how vulnerable an individual or household is to food price spikes.[52] Access depends on whether the household has enough income to purchase food at prevailing prices or has sufficient land and other resources to grow its own food.[53] Households with enough resources can overcome unstable harvests and local food shortages and maintain their access to food.[51]
+There are two distinct types of access to food: direct access, in which a household produces food using human and material resources, and economic access, in which a household purchases food produced elsewhere.[48] Location can affect access to food and which type of access a family will rely on.[53] The assets of a household, including income, land, products of labor, inheritances, and gifts can determine a household's access to food.[48] However, the ability to access to sufficient food may not lead to the purchase of food over other materials and services.[52] Demographics and education levels of members of the household as well as the gender of the household head determine the preferences of the household, which influences the type of food that are purchased.[53] A household's access to enough and nutritious food may not assure adequate food intake of all household members, as intrahousehold food allocation may not sufficiently meet the requirements of each member of the household.[52] The USDA adds that access to food must be available in socially acceptable ways, without, for example, resorting to emergency food supplies, scavenging, stealing, or other coping strategies.[4]
+Utilization[edit]
+The next pillar of food security is food utilization, which refers to the metabolism of food by individuals.[51] Once food is obtained by a household, a variety of factors affect the quantity and quality of food that reaches members of the household. In order to achieve food security, the food ingested must be safe and must be enough to meet the physiological requirements of each individual.[52] Food safety affects food utilization,[47] and can be affected by the preparation, processing, and cooking of food in the community and household.[48] Nutritional values[47] of the household determine food choice,[48] and whether food meets cultural preferences is important to utilization in terms of psychological and social well-being.[54] Access to healthcare is another determinant of food utilization, since the health of individuals controls how the food is metabolized.[48] For example, intestinal parasites can take nutrients from the body and decrease food utilization.[51] Sanitation can also decrease the occurrence and spread of diseases that can affect food utilization.[48] Education about nutrition and food preparation can affect food utilization and improve this pillar of food security.[51] education bring accountability among people,create awareness,which foster them for food security
+Stability[edit]
+Food stability refers to the ability to obtain food over time. Food insecurity can be transitory, seasonal, or chronic.[48] In transitory food insecurity, food may be unavailable during certain periods of time.[52] At the food production level, natural disasters[52] and drought[48] result in crop failure and decreased food availability. Civil conflicts can also decrease access to food.[52] Instability in markets resulting in food-price spikes can cause transitory food insecurity. Other factors that can temporarily cause food insecurity are loss of employment or productivity, which can be caused by illness. Seasonal food insecurity can result from the regular pattern of growing seasons in food production.[48]
+Chronic (or permanent) food insecurity is defined as the long-term, persistent lack of adequate food.[52] In this case, households are constantly at risk of being unable to acquire food to meet the needs of all members. Chronic and transitory food insecurity are linked, since the reoccurrence of transitory food security can make households more vulnerable to chronic food insecurity.[48]
+Effects of food insecurity[edit]
+"Famine and hunger are both rooted in food insecurity. Chronic food insecurity translates into a high degree of vulnerability to famine and hunger; ensuring food security presupposes elimination of that vulnerability."[24]
+Stunting and chronic nutritional deficiencies[edit]
+See also: Malnutrition
+Children with symptoms of low calorie and protein intake and a nurse attendant at a Nigerian orphanage in the late 1960s.
+Many countries experience ongoing food shortages and distribution problems. These result in chronic and often widespread hunger amongst significant numbers of people. Human populations can respond to chronic hunger and malnutrition by decreasing body size, known in medical terms as stunting or stunted growth. This process starts in utero if the mother is malnourished and continues through approximately the third year of life. It leads to higher infant and child mortality, but at rates far lower than during famines. Once stunting has occurred, improved nutritional intake after the age of about two years is unable to reverse the damage. Stunting itself can be viewed as a coping mechanism, bringing body size into alignment with the calories available during adulthood in the location where the child is born. Limiting body size as a way of adapting to low levels of energy (calories) adversely affects health in three ways:
+Premature failure of vital organs during adulthood. For example, a 50-year-old individual might die of heart failure because his/her heart suffered structural defects during early development;
+Stunted individuals suffer a higher rate of disease and illness than those who have not undergone stunting;
+Severe malnutrition in early childhood often leads to defects in cognitive development.[55] It therefore creates disparity among children who did not experience severe malnutrition and those who did.
+Challenges to achieving food security[edit]
+Global water crisis[edit]
+See also: Water resource policy
+Irrigation canals have opened dry desert areas of Egypt to agriculture.
+Water deficits, which are already spurring heavy grain imports in numerous smaller countries,[56] may soon do the same in larger countries, such as China or India.[57] The water tables are falling in scores of countries (including northern China, the US, and India) due to widespread overpumping using powerful diesel and electric pumps. Other countries affected include Pakistan, Afghanistan, and Iran. This will eventually lead to water scarcity and cutbacks in grain harvest. Even with the overpumping of its aquifers, China is developing a grain deficit.[58] When this happens, it will almost certainly drive grain prices upward. Most of the 3 billion people projected to be born worldwide by mid-century will be born in countries already experiencing water shortages. After China and India, there is a second tier of smaller countries with large water deficits  Afghanistan, Algeria, Egypt, Iran, Mexico, and Pakistan. Four of these already import a large share of their grain. Only Pakistan remains self-sufficient. But with a population expanding by 4 million a year, it will likely soon turn to the world market for grain.[59][60]
+Regionally, Sub-Saharan Africa has the largest number of water-stressed countries of any place on the globe, as of an estimated 800 million people who live in Africa, 300 million live in a water-stressed environment.[61] It is estimated that by 2030, 75 million to 250 million people in Africa will be living in areas of high water stress, which will likely displace anywhere between 24 million and 700 million people as conditions become increasingly unlivable.[61] Because the majority of Africa remains dependent on an agricultural lifestyle and 80 to 90 percent of all families in rural Africa rely upon producing their own food,[62] water scarcity translates to a loss of food security.
+Multimillion-dollar investments beginning in the 1990s by the World Bank have reclaimed desert and turned the Ica Valley in Peru, one of the driest places on earth, into the largest supplier of asparagus in the world. However, the constant irrigation has caused a rapid drop in the water table, in some places as much as eight meters per year, one of the fastest rates of aquifer depletion in the world. The wells of small farmers and local people are beginning to run dry and the water supply for the main city in the valley is under threat. As a cash crop, asparagus has provided jobs for local people, but most of the money goes to the buyers, mainly the British. A 2010 report concluded that the industry is not sustainable and accuses investors, including the World Bank, of failing to take proper responsibility for the effect of their decisions on the water resources of poorer countries.[63] Diverting water from the headwaters of the Ica River to asparagus fields has also led to a water shortage in the mountain region of Huancavelica, where indigenous communities make a marginal living herding.[64]
+Land degradation[edit]
+See also: Land degradation and Desertification
+Intensive farming often leads to a vicious cycle of exhaustion of soil fertility and decline of agricultural yields.[65] Approximately 40 percent of the world's agricultural land is seriously degraded.[66] In Africa, if current trends of soil degradation continue, the continent might be able to feed just 25 percent of its population by 2025, according to UNU's Ghana-based Institute for Natural Resources in Africa.[67]
+Climate change[edit]
+See also: Climate change and agriculture
+Extreme events, such as droughts and floods, are forecast to increase as climate change and global warming takes hold.[68] Ranging from overnight floods to gradually worsening droughts, these will have a range of effects on the agricultural sector. By 2040, almost the entire Nile region, which once included large areas of irrigated agricultural land, is expected to become hot desert where cultivation is impossible due to water limitation.[69] According to the Climate & Development Knowledge Network report Managing Climate Extremes and Disasters in the Agriculture Sectors: Lessons from the IPCC SREX Report, the effects will include changing productivity and livelihood patterns, economic losses, and effects on infrastructure, markets and food security. Food security in future will be linked to our ability to adapt agricultural systems to extreme events. For example, the Garifuna women in Honduras are helping to ensure food security locally by reviving and improving production of traditional root crops, building up traditional methods of soil conservation, carrying out training in organic composting and pesticide use and creating the first Garifuna farmers' market. Sixteen towns have worked together to establish tool and seed banks. Efforts to plant wild fruit trees along the coast are helping to prevent soil erosion. The aim is to reduce the communities' vulnerability to the hazards of shifting weather patterns.[70]
+Approximately 2.4 billion people live in the drainage basin of the Himalayan rivers.[71] India, China, Pakistan, Afghanistan, Bangladesh, Nepal and Myanmar could experience floods followed by severe droughts in coming decades.[72] In India alone, the Ganges provides water for drinking and farming for more than 500 million people.[73][74] The west coast of North America, which gets much of its water from glaciers in mountain ranges such as the Rocky Mountains and Sierra Nevada, also would be affected.[75] Glaciers aren't the only worry that the developing nations have; sea level is reported to rise as climate change progresses, reducing the amount of land available for agriculture.[76][77]
+In other parts of the world, a big effect will be low yields of grain according to the World Food Trade Model, specifically in the low latitude regions where much of the developing world is located. From this the price of grain will rise, along with the developing nations trying to grow the grain. Due to this, every 22.5% price hike will increase the number of hungry people by 1%.[citation needed] Low crop yields are just one of the problem facing farmers in the low latitudes and tropical regions. The timing and length of the growing seasons, when farmers plant their crops, are going to be changing dramatically, per the USDA, due to unknown changes in soil temperature and moisture conditions.[78]
+Another way of thinking about food security and climate change comes from Evan Fraser, a geographer working at the University of Guelph in Ontario Canada. His approach is to explore the vulnerability of food systems to climate change and he defines vulnerability to climate change as situations that occur when relatively minor environmental problems cause major effects on food security. Examples of this include the Irish Potato Famine[79][dubious  discuss], which was caused by a rainy year that created ideal conditions for the fungal blight to spread in potato fields, or the Ethiopian Famine in the early 1980s.[80] Three factors stand out as common in such cases, and these three factors act as a diagnostic "tool kit" through which to identify cases where food security may be vulnerable to climate change. These factors are: (1) specialized agro-ecosystems; (2) households with very few livelihood options other than farming; (3) situations where formal institutions do not provide adequate safety nets to protect people.[80] "The International Food Policy Research Institute (IFPRI) estimates that an additional US$ 7.1-7.3 billion per year are needed in agricultural investments to offset the negative effect of climate change on nutrition for children by 2050 (Table 6)."[81]
+Agricultural diseases[edit]
+Stripe rust on a wheat stem
+Diseases affecting livestock or crops can have devastating effects on food availability especially if there are no contingency plans in place. For example, Ug99, a lineage of wheat stem rust which can cause up to 100% crop losses, is present in wheat fields in several countries in Africa and the Middle East and is predicted to spread rapidly through these regions and possibly further afield, potentially causing a wheat production disaster that would affect food security worldwide.[82][83]
+The genetic diversity of the crop wild relatives of wheat can be used to improve modern varieties to be more resistant to rust. In their centers of origin wild wheat plants are screened for resistance to rust, then their genetic information is studied and finally wild plants and modern varieties are crossed through means of modern plant breeding in order to transfer the resistance genes from the wild plants to the modern varieties.[84][85]
+Dictatorship and kleptocracy[edit]
+See also: Political corruption
+Nobel Prize winning economist Amartya Sen has observed that "there is no such thing as an apolitical food problem." While drought and other naturally occurring events may trigger famine conditions, it is government action or inaction that determines its severity, and often even whether or not a famine will occur. The 20th century is full of examples of governments[which?] undermining the food security of their own nations  sometimes intentionally[citation needed].
+When governments come to power by force or rigged elections, and not by way of fair and open elections, their base of support is often narrow and built upon cronyism and patronage. Under such conditions "The distribution of food within a country is a political issue. Governments in most countries give priority to urban areas, since that is where the most influential and powerful families and enterprises are usually located. The government often neglects subsistence farmers and rural areas in general. The more remote and underdeveloped the area the less likely the government will be to effectively meet its needs. Many agrarian policies, especially the pricing of agricultural commodities, discriminate against rural areas. Governments often keep prices of basic grains at such artificially low levels that subsistence producers cannot accumulate enough capital to make investments to improve their production. Thus, they are effectively prevented from getting out of their precarious situation."[86]
+Further dictators and warlords[who?] have used food as a political weapon, rewarding their supporters while denying food supplies to areas that oppose their rule. Under such conditions food becomes a currency with which to buy support and famine becomes an effective weapon to be used against the opposition.[original research?]
+Governments[which?] with strong tendencies towards kleptocracy can undermine food security even when harvests are good. When government monopolizes trade, farmers may find that they are free to grow cash crops for export, but under penalty of law only able to sell their crops to government buyers at prices far below the world market price.[original research?] The government then is free to sell their crop on the world market at full price, pocketing the difference. This creates an artificial "poverty trap" from which even the most hard working and motivated farmers may not escape.[original research?]
+When the rule of law is absent, or private property is non-existent, farmers have little incentive to improve their productivity.[according to whom?] If a farm becomes noticeably more productive than neighboring farms, it may become the target of individuals well connected to the government. Rather than risk being noticed and possibly losing their land, farmers may be content with the perceived safety of mediocrity.[citation needed]
+As pointed out by William Bernstein in his book The Birth of Plenty: "Individuals without property are susceptible to starvation, and it is much easier to bend the fearful and hungry to the will of the state. If a [farmer's] property can be arbitrarily threatened by the state, that power will inevitably be employed to intimidate those with divergent political and religious opinions."
+Food sovereignty[edit]
+The approach known as food sovereignty views the business practices of multinational corporations as a form of neocolonialism. It contends that multinational corporations have the financial resources available to buy up the agricultural resources of impoverished nations, particularly in the tropics. They also have the political clout to convert these resources to the exclusive production of cash crops for sale to industrialized nations outside of the tropics, and in the process to squeeze the poor off of the more productive lands.[64] Under this view subsistence farmers are left to cultivate only lands that are so marginal in terms of productivity as to be of no interest to the multinational corporations. Likewise, food sovereignty holds it to be true that communities should be able to define their own means of production and that food is a basic human right. With several multinational corporations now pushing agricultural technologies on developing countries, technologies that include improved seeds, chemical fertilizers, and pesticides, crop production has become an increasingly analyzed and debated issue. Many communities calling for food sovereignty are protesting the imposition of Western technologies on to their indigenous systems and agency.[citation needed]
+Risks to food security[edit]
+Further information: 20072008 world food price crisis and Food prices
+Population growth[edit]
+Further information: World population
+Current UN projections show a continued increase in population in the near future (but a steady decline in the population growth rate), with the global population expected to reach between 8.3 and 10.9 billion by 2050. UN Population Division estimates for the year 2150 range between 3.2 and 24.8 billion; mathematical modeling supports the lower estimate. Some analysts have questioned the sustainability of further world population growth, highlighting the growing pressures on the environment, global food supplies, and energy resources. Solutions for feeding the nine billion in the future are being studied and documented.[87] One out of every seven people on our planet go to sleep hungry. People are suffering due to overpopulation, 25,000 people die of malnutrition and hunger related diseases everyday.
+Fossil fuel dependence[edit]
+Further information: Agriculture and petroleum and Peak oil's effects on agriculture
+While agricultural output increased as a result of the Green Revolution, the energy input into the process (that is, the energy that must be expended to produce a crop) has also increased at a greater rate, so that the ratio of crops produced to energy input has decreased over time. Green Revolution techniques also heavily rely on chemical fertilizers, pesticides and herbicides, some of which must be developed from fossil fuels, making agriculture increasingly reliant on petroleum products.
+Between 1950 and 1984, as the Green Revolution transformed agriculture around the globe, world grain production increased by 250%. The energy for the Green Revolution was provided by fossil fuels in the form of fertilizers (natural gas), pesticides (oil), and hydrocarbon fueled irrigation.[88]
+David Pimentel, professor of ecology and agriculture at Cornell University, and Mario Giampietro, senior researcher at the National Research Institute on Food and Nutrition (INRAN), place in their study Food, Land, Population and the U.S. Economy the maximum U.S. population for a sustainable economy at 200 million. To achieve a sustainable economy and avert disaster, the United States must reduce its population by at least one-third, and world population will have to be reduced by two-thirds, says the study.[citation needed]
+The authors of this study believe that the mentioned agricultural crisis will only begin to affect us after 2020, and will not become critical until 2050. The oncoming peaking of global oil production (and subsequent decline of production), along with the peak of North American natural gas production will very likely precipitate this agricultural crisis much sooner than expected.[36] Geologist Dale Allen Pfeiffer claims that coming decades could see spiraling food prices without relief and massive starvation on a global level such as never experienced before.[89]
+Homogeneity in the global food supply[edit]
+A small number of major crops, e.g. Soybean, have formed an increasing share of the food energy, protein, fat, and food weight eaten by the world's population over the past 50 years[90]
+Since 1961, human diets across the world have become more diverse in the consumption of major commodity staple crops, with a corollary decline in consumption of local or regionally important crops, and thus have become more homogeneous globally.[90] The differences between the foods eaten in different countries were reduced by 68% between 1961 and 2009. The modern "global standard"[90] diet contains an increasingly large percentage of a relatively small number of major staple commodity crops, which have increased substantially in the share of the total food energy (calories), protein, fat, and food weight that they provide to the world's human population, including wheat, rice, sugar, maize, soybean (by +284%[91]), palm oil (by +173%[91]), and sunflower (by +246%[91]). Whereas nations used to consume greater proportions of locally or regionally important crops, wheat has become a staple in over 97% of countries, with the other global staples showing similar dominance worldwide. Other crops have declined sharply over the same period, including rye, yam, sweet potato (by -45%[91]), cassava (by -38%[91]), coconut, sorghum (by -52%[91]) and millets (by -45%[91]).[90][91][92] Such crop diversity change in the human diet is associated with mixed effects on food security, improving under-nutrition in some regions but contributing to the diet-related diseases caused by over-consumption of macronutrients.[90]
+Price setting[edit]
+On April 30, 2008, Thailand, one of the world's biggest rice exporters, announced the creation of the Organisation of Rice Exporting Countries with the potential to develop into a price-fixing cartel for rice. It is a project to organize 21 rice exporting countries to create a homonymous organisation to control the price of rice. The group is mainly made up of Thailand, Vietnam, Cambodia, Laos and Myanmar. The organization attempts to serve the purpose of making a "contribution to ensuring food stability, not just in an individual country but also to address food shortages in the region and the world". However, it is still questionable whether this organization will serve its role as an effective rice price fixing cartel, that is similar to OPEC's mechanism for managing petroleum. Economic analysts and traders said the proposal would go nowhere because of the inability of governments to cooperate with each other and control farmers' output. Moreover, countries that are involved expressed their concern, that this could only worsen the food security.[93][94][95][96]
+Land use change[edit]
+China needs not less than 120 million hectares of arable land for its food security. China has recently reported a surplus of 15 million hectares. On the other side of the coin, some 4 million hectares of conversion to urban use and 3 million hectares of contaminated land have been reported as well.[97] Furthermore, a survey found that 2.5% of China's arable land is too contaminated to grow food without harm.[98] In Europe, the conversion of agricultural soil implied a net loss of potential. But the rapid loss in the area of arable soils appears to be economically meaningless because EU is perceived to be dependent on internal food supply anymore. During the period 2000-2006 the European Union lost 0.27% of its cropland and 0.26% of its crop productive potential. The loss of agricultural land during the same time was the highest in the Netherlands, which lost 1.57% of its crop production potential within six years. The figures are quite alarming for Cyprus (0.84%), Ireland (0.77%) and Spain (0.49%) as well.[99] In Italy, in the Emilia-Romagna plain (ERP), the conversion of 15,000 ha of agricultural soil (period 2003-2008) implied a net loss of 109,000 Mg per year of wheat, which accounts for the calories needed by 14% of ERP population (425,000 people). Such a loss in wheat production is just 0.02% of gross domestic product (GDP) of the Emilia-Romagna region which is actually a minor effect in financial terms. Additionally, the income from the new land use is often much higher than the one guaranteed by agriculture, as in the case of urbanisation or extraction of raw materials.[100]
+Global catastrophic risks[edit]
+Further information: Global catastrophic risk
+As anthropogenic greenhouse gas emissions reduce the stability of the global climate,[101] abrupt climate change could become more intense.[102] The impact of an asteroid or comet larger than about 1km diameter has the potential to block the sun globally,[103] causing impact winter. Particles in the troposphere would quickly rain out, but particles in the stratosphere, especially sulfate, could remain there for years.[103] Similarly, a supervolcanic eruption would reduce the potential of agricultural production from solar photosynthesis, causing volcanic winter. The Toba super volcanic eruption approximately 70,000 years ago may have nearly caused the extinction of humans[103] (see Toba catastrophe theory). Again, primarily sulfate particles could block the sun for years. Solar blocking is not limited to natural causes as nuclear winter is also possible, which refers to the scenario involving widespread nuclear war and burning of cities that release soot into the stratosphere that would stay there for about 10 years.[104] The high stratospheric temperatures produced by soot absorbing solar radiation would create near-global ozone hole conditions even for a regional nuclear conflict.[105]
+Children and food security[edit]
+Bengali famine, 1943. The Japanese conquest of Burma cut off India's main supply of rice imports.[106]
+On April 29, 2008, a UNICEF UK report found that the world's poorest and most vulnerable children are being hit the hardest by climate change. The report, "Our Climate, Our Children, Our Responsibility: The Implications of Climate Change for the World's Children", says that access to clean water and food supplies will become more difficult, particularly in Africa and Asia.[107]
+By way of comparison, in one of the largest food producing countries in the world, the United States, approximately one out of six people are "food insecure", including 17 million children, according to the U.S. Department of Agriculture.[108] A 2012 study in the Journal of Applied Research on Children found that rates of food security varied significantly by race, class and education. In both kindergarten and third grade, 8% of the children were classified as food insecure, but only 5% of white children were food insecure, while 12% and 15% of black and Hispanic children were food insecure, respectively. In third grade, 13% of black and 11% of Hispanic children are food insecure compared to 5% of white children.[109][110]
+Gender and food security[edit]
+Main article: Gender and food security
+A Kenyan woman farmer at work in the Mount Kenya region.
+Gender inequality both leads to and is a result of food insecurity. According to estimates women and girls make up 60% of the world's chronically hungry and little progress has been made in ensuring the equal right to food for women enshrined in the Convention on the Elimination of All Forms of Discrimination against Women.[111][112] Women face discrimination both in education and employment opportunities and within the household, where their bargaining power is lower. On the other hand, gender equality is described as instrumental to ending malnutrition and hunger.[113] Women tend to be responsible for food preparation and childcare within the family and are more likely to spend their income on food and their children's needs.[114] Women also play an important role in food production, processing, distribution and marketing. They often work as unpaid family workers, are involved in subsistence farming and represent about 43% of the agricultural labor force in developing countries, varying from 20% in Latin America to 50% in Eastern and Southeastern Asia and Sub-Saharan Africa. However, women face discrimination in access to land, credit, technologies, finance and other services. Empirical studies suggest that if women had the same access to productive resources as men, women could boost their yields by 2030%; raising the overall agricultural output in developing countries by 2.5 to 4%. While those are rough estimates, the significant benefit of closing the gender gap on agricultural productivity cannot be denied.[115] The gendered aspects of food security are visible along the four pillars of food security: availability, access, utilization and stability, as defined by the Food and Agriculture Organization.[116]
+The number of people affected by hunger is extremely high, with enormous effects on women and girls.[117] Making this trend disappear "must be a top priority for governments and international institutions".[117] Actions governments take must take into consideration that food insecurity is an issue regarding "equality, rights and social justice".[117] "Food and nutrition insecurity is a political and economic phenomenon fuelled by inequitable global and national processes".[117] Factors like capitalism, exploration of Indigenous lands all contribute to food insecurity for minorities and the people who are the most oppressed in various countries (women being one of these oppressed groups). To emphasis, "food and nutrition insecurity is a gender justice issue".[117] The facts that women and girls are the most oppressed by "the inequitable global economic processes that govern food systems and by global trends such as climate change", shows how institutions continue to place women in positions of disadvantage and impoverishment to make money and thrive on capitalizing the food system.[117] When the government withholds food by raising its prices to amounts only privileged people can afford, they both benefit and are able to control the "lower-class"/ marginalized people via the food market. An interesting fact is that "despite rapid economic growth in India, thousands of women and girls still lack food and nutrition security as a direct result of their lower status compared with men and boys".[117] "Such inequalities are compounded by women and girls' often limited access to productive resources, education and decision-making, by the 'normalised' burden of unpaid work  including care work  and by the endemic problems of gender-based violence (GBV), HIV and AIDS".[117]
+Use of genetically modified (GM) crops[edit]
+One of the most up-and-coming techniques to ensuring global food security is the use of genetically modified (GM) crops. The genome of these crops can be altered to address one or more aspects of the plant that may be preventing it from being grown in various regions under certain conditions. Many of these alterations can address the challenges that were previously mentioned above, including the water crisis, land degradation, and the ever-changing climate.
+In agriculture and animal husbandry, the Green Revolution popularized the use of conventional hybridization to increase yield by creating "high-yielding varieties". Often the handful of hybridized breeds originated in developed countries and were further hybridized with local varieties in the rest of the developing world to create high yield strains resistant to local climate and diseases.
+The area sown to genetically engineered crops in developing countries is rapidly catching up with the area sown in industrial nations. According to the International Service for the Acquisition of Agri-biotech Applications (ISAAA), GM crops were grown by approximately 8.5 million farmers in 21 countries in 2005; up from 8.25 million farmers in 17 countries in 2004. However, the ISAAA is funded by organisations including prominent agricultural biotechnology corporations, such as Monsanto and Bayer,[citation needed] and there have been several challenges made to the accuracy of ISAAA's global figures.[citation needed]
+Opposition to GM crops[edit]
+Respected scientists question the safety of biotechnology as a panacea; agroecologists Miguel Altieri and Peter Rosset have enumerated ten reasons[118] why biotechnology will not ensure food security, protect the environment, or reduce poverty. Reasons include:
+There is no relationship between the prevalence of hunger in a given country and its population
+Most innovations in agricultural biotechnology have been profit-driven rather than need-driven
+Ecological theory predicts that the large-scale landscape homogenization with transgenic crops will exacerbate the ecological problems already associated with monoculture agriculture
+And, that much of the needed food can be produced by small farmers located throughout the world using existing agroecological technologies.
+Based on evidence from previous attempts, there is a likely lack of transferability of one type of GM crop from one region to another. For example, modified crops that have proven successful in Asia from the Green Revolution have failed when tried in regions of Africa.[119] More research must be done regarding the specific requirements of growing a specific crop in a specific region.
+There is also a drastic lack of education given to governments, farmers, and the community about the science behind GM crops, as well as suitable growing practices. In most relief programs, farmers are given seeds with little explanation and little attention is paid to the resources available to them or even laws that prohibit them from distributing produce. Governments are often not advised on the economic and health implications that come with growing GM crops, and are then left to make judgments on their own. Because they have so little information regarding these crops, they usually shy away from allowing them or do not take the time and effort required to regulate their use. Members of the community that will then consume the produce from these crops are also left in the dark about what these modifications mean and are often scared off by their 'unnatural' origins. This has resulted in failure to properly grow crops as well as strong opposition to the unknown practices.[120]
+A study published in June 2016 evaluated the status of the implementation of Golden Rice, which was first developed in the 1990s to produce higher levels of Vitamin A than its non-GMO counterparts. This strain of rice was designed so that malnourished women and children in third world countries who were more susceptible to deficiencies could easily improve their Vitamin A intake levels and prevent blindness, which is a common result. Golden Rice production was centralized to the Philippines, yet there have been many hurdles to jump in order to get production moving. The study showed that the project is far behind schedule and is not living up to its expectations. Although research on Golden Rice still continues, the country has moved forward with other non-GMO initiatives to address the Vitamin A deficiency problem which is so prevasive in that region.[121][122]
+Many anti-GMO activists argue that the use of GM crops decreases biodiversity amongst plants. Livestock biodiversity is also threatened by the modernization of agriculture and the focus on more productive major breeds. Therefore, efforts have been made by governments and non-governmental organizations to conserve livestock biodiversity through strategies such as Cryoconservation of animal genetic resources.[123][124]
+Support of GM crops[edit]
+Many GM crop success stories exist, primarily in developed nations like the USA, China, and various countries in Europe. Common GM crops include cotton, maize, and soybeans, all of which are grown throughout North and South America as well as regions of Asia.[125] Modified cotton crops, for example, have been altered such that they are resistant to pests, can grown in more extreme heat, cold, or drought, and produce longer, stronger fibers to be used in textile production.[126]
+One of the biggest threats to rice, which is a staple food crop especially in India and other countries within Asia, is blast disease which is a fungal infection that causes lesions to form on all parts of the plant.[127] A genetically engineered strain of rice has been developed so that it is resistant to blast, greatly improving the crop yield of farmers and allowing rice to be more accessible to everyone.[128] Some other crops have been modified such that they produce higher yields per plant or that they require less land for growing. The latter can be helpful in extreme climates with little arable land and also decreases deforestation, as fewer trees need to be cut down in order to make room for crop fields.[129] Others yet have been altered such that they do not require the use of insecticides or fungicides. This addresses various health concerns associated with such pesticides and can also work to improve biodiversity within the area in which these crops are grown.[130]
+In a review of Borlaug's 2000 publication entitled Ending world hunger: the promise of biotechnology and the threat of antiscience zealotry,[131] the authors argued that Borlaug's warnings were still true in 2010,[132]
+GM crops are as natural and safe as today's bread wheat, opined Dr. Borlaug, who also reminded agricultural scientists of their moral obligation to stand up to the antiscience crowd and warn policy makers that global food insecurity will not disappear without this new technology and ignoring this reality global food insecurity would make future solutions all the more difficult to achieve.
+Rozwadowski and Kagale
+Research conducted by the GMO Risk Assessment and Communication of Evidence (GRACE) program through the EU between 2007 and 2013 focused on many uses of GM crops and evaluated many facets of their effects on human, animal, and environmental health.
+Approaches[edit]
+A liquid manure spreader, equipment that is used to increase agricultural productivity.
+By the United Nations[edit]
+The UN Millennium Development Goals are one of the initiatives aimed at achieving food security in the world. The first Millennium Development Goal states that the UN "is to eradicate extreme hunger and poverty" by 2015.[133] Olivier De Schutter, the UN Special Rapporteur on the Right to Food, advocates for a multidimensional approach to food security challenges. This approach emphasizes the physical availability of food; the social,economic and physical access people have to food; and the nutrition, safety and cultural appropriateness or adequacy of food.[134]
+By the Food and Agriculture Organization[edit]
+The Food and Agriculture Organization of the United Nations stated in The State of Food Insecurity in the World 2003 that countries that have reduced hunger often had rapid economic growth, specifically in their agricultural sectors. These countries were also characterized as having slower population growth, lower HIV rates, and higher rankings in the Human Development Index.[135] At that time, the FAO considered addressing agriculture and population growth vital to achieving food security. In The State of Food Insecurity in the World 2012, the FAO restated its focus on economic growth and agricultural growth to achieve food security and added a focus on the poor and on "nutrition-sensitive" growth. For example, economic growth should be used by governments to provide public services to benefit poor and hungry populations. The FAO also cited smallholders, including women, as groups that should be involved in agricultural growth to generate employment for the poor. For economic and agricultural growth to be "nutrition-sensitive", resources should be utilized to improve access to diverse diets for the poor as well as access to a safe water supply and to healthcare.[23] The FAO has proposed a "twin track" approach to fight food insecurity that combines sustainable development and short-term hunger relief. Development approaches include investing in rural markets and rural infrastructure.[5] In general, the FAO proposes the use of public policies and programs that promote long-term economic growth that will benefit the poor. To obtain short-term food security, vouchers for seeds, fertilizer, or access to services could promote agricultural production. The use of conditional or unconditional food or cash transfers was another approach the FAO noted. Conditional transfers could include school feeding programs, while unconditional transfers could include general food distribution, emergency food aid or cash transfers. A third approach is the use of subsidies as safety nets to increase the purchasing power of households. The FAO stated that "approaches should be human rights-based, target the poor, promote gender equality, enhance long-term resilience and allow sustainable graduation out of poverty."[23]
+The FAO noted that some countries have been successful in fighting food insecurity and decreasing the number of people suffering from undernourishment. Bangladesh is an example of a country that has met the Millennium Development Goal hunger target. The FAO credited growth in agricultural productivity and macroeconomic stability for the rapid economic growth in the 1990s that resulted in an increase in food security. Irrigation systems were established through infrastructure development programs. Two programs, HarvestPlus and the Golden Rice Project, provided biofortified crops in order to decrease micronutrient deficiencess.[8]
+World Food Day was established on October 16, in honor of the date that the FAO was founded in 1945. On this day, the FAO hosts a variety of event at the headquarters in Rome and around the world, as well as seminars with UN officials.[27]
+By the World Food Programme[edit]
+Fight Hunger: Walk the World campaign is a United Nations World Food Programme initiative.
+The World Food Programme (WFP) is an agency of the United Nations that uses food aid to promote food security and eradicate hunger and poverty. In particular, the WFP provides food aid to refugees and to others experiencing food emergencies. It also seeks to improve nutrition and quality of life to the most vulnerable populations and promote self-reliance.[136] An example of a WFP program is the "Food For Assets" program in which participants work on new infrastructure, or learn new skills, that will increase food security, in exchange for food.[137] The WFP and the Government of Kenya have partnered in the Food For Assets program in hopes of increasing the resilience of communities to shocks.[138]
+Global partnerships to achieve food security and end hunger[edit]
+In April 2012, the Food Assistance Convention was signed, the world's first legally binding international agreement on food aid. The May 2012 Copenhagen Consensus recommended that efforts to combat hunger and malnutrition should be the first priority for politicians and private sector philanthropists looking to maximize the effectiveness of aid spending. They put this ahead of other priorities, like the fight against malaria and AIDS.[139]
+The main global policy to reduce hunger and poverty are the recently approved Sustainable Development Goals. In particular Goal 2: Zero Hunger sets globally agreed targets to end hunger, achieve food security and improved nutrition and promote sustainable agriculture by 2030.[140] A number of organizations have formed initiatives with the more ambitious goal to achieve this outcome in only 10 years, by 2025:
+In 2013 Caritas International started a Caritas-wide initiative aimed at ending systemic hunger by 2025. The One human family, food for all campaign focuses on awareness raising, improving the effect of Caritas programs and advocating the implementation of the Right to Food.[141]
+The partnership Compact2025, led by IFPRI with the involvement of UN organisations, NGOs and private foundations[142] develops and disseminates evidence-based advice to politicians and other decision-makers aimed at ending hunger and undernutrition in the coming 10 years, by 2025.[143] It bases its claim that hunger can be ended by 2025 on a report by Shenggen Fan and Paul Polman that analyzed the experiences from China, Vietnam, Brazil and Thailand and concludes that eliminating hunger and undernutrition was possible by 2025.[144]
+In June 2015, the European Union and the Bill & Melinda Gates Foundation have launched a partnership to combat undernutrition especially in children. The program will initiatilly be implemented in Bangladesh, Burundi, Ethiopia, Kenya, Laos and Niger and will help these countries to improve information and analysis about nutrition so they can develop effective national nutrition policies.[145]
+The Food and Agriculture Organization of the UN has created a partnership that will act through the African Union's CAADP framework aiming to end hunger in Africa by 2025. It includes different interventions including support for improved food production, a strengthening of social protection and integration of the Right to Food into national legislation.[146]
+By the United States Agency for International Development[edit]
+The United States Agency for International Development (USAID) proposes several key steps to increasing agricultural productivity which is in turn key to increasing rural income and reducing food insecurity.[147] They include:
+Boosting agricultural science and technology. Current agricultural yields are insufficient to feed the growing populations. Eventually, the rising agricultural productivity drives economic growth.
+Securing property rights and access to finance.
+Enhancing human capital through education and improved health.
+Conflict prevention and resolution mechanisms and democracy and governance based on principles of accountability and transparency in public institutions and the rule of law are basic to reducing vulnerable members of society.
+Since the 1960s, the U.S. has been implementing a Food Stamp Program (now called the Supplemental Nutrition Assistance Program) to directly target consumers who lack the income to purchase food. According to Tim Josling, a Senior Fellow at the Freeman Spogli Institute for International Studies, Stanford University, food stamps or other methods of distribution of purchasing power directly to consumers might fit into the range of international programs under consideration to tackle food insecurity.[148]
+Improving agricultural productivity to benefit the rural poor[edit]
+A farmer on the outskirts of Lilongwe (Malawi) prepares a field for planting.
+There are strong, direct relationships between agricultural productivity, hunger, poverty, and sustainability. Three-quarters of the world's poor live in rural areas and make their living from agriculture. Hunger and child malnutrition are greater in these areas than in urban areas. Moreover, the higher the proportion of the rural population that obtains its income solely from subsistence farming (without the benefit of pro-poor technologies and access to markets), the higher the incidence of malnutrition. Therefore, improvements in agricultural productivity aimed at small-scale farmers will benefit the rural poor first. Food and feed crop demand is likely to double in the next 50 years, as the global population approaches nine billion. Growing sufficient food will require people to make changes such as increasing productivity in areas dependent on rainfed agriculture; improving soil fertility management; expanding cropped areas; investing in irrigation; conducting agricultural trade between countries; and reducing gross food demand by influencing diets and reducing post-harvest losses.
+According to the Comprehensive Assessment of Water Management in Agriculture, a major study led by the International Water Management Institute (IWMI), managing rainwater and soil moisture more effectively, and using supplemental and small-scale irrigation, hold the key to helping the greatest number of poor people. It has called for a new era of water investments and policies for upgrading rainfed agriculture that would go beyond controlling field-level soil and water to bring new freshwater sources through better local management of rainfall and runoff.[149] Increased agricultural productivity enables farmers to grow more food, which translates into better diets and, under market conditions that offer a level playing field, into higher farm incomes. With more money, farmers are more likely to diversify production and grow higher-value crops, benefiting not only themselves but the economy as a whole."[133]
+Researchers suggest forming an alliance between the emergency food program and community-supported agriculture, as some countries' food stamps cannot be used at farmer's markets and places where food is less processed and grown locally.[150] The gathering of wild food plants appears to be an efficient alternative method of subsistence in tropical countries, which may play a role in poverty alleviation.[151]
+Producing food without agriculture[edit]
+David Denkenberger and Joshua Pearce have proposed in Feeding Everyone No Matter What a variety of alternate foods which convert fossil fuels or biomass into food without sunlight to address sunlight-blocking food security scenarios.[152] The solution using fossil fuel energy source is natural gas digesting bacteria.[153] One example of a biomass alternate food is that mushrooms can grow directly on wood without sunlight.[154] Another example is that cellulosic biofuel production typically already creates sugar as an intermediate product.[155]
+Large-scale food stockpiling[edit]
+The minimum annual global wheat storage is approximately 2 months.[156] To counteract the severe food security issues caused by global catastrophic risks, years of food storage has been proposed.[157] Though this could ameliorate smaller scale problems like regional conflict and drought, it would exacerbate current food insecurity by raising food prices.
+Agricultural insurances[edit]
+Insurance is a financial instrument, which allows exposed individuals to pool resources to spread their risk. They do so by contributing premium to an insurance fund, which will indemnify those who suffer insured loss. This procedure reduces the risk for an individual by spreading his/her risk among the multiple fund contributors. Insurance can be designed to protect many types of individuals and assets against single or multiple perils and buffer insured parties against sudden and dramatic income or asset loss.
+Crop insurance is purchased by agricultural producers to protect themselves against either the loss of their crops due to natural disasters. Two type of insurances are available:[158] (1) claim-based insurances, and (2) index-based insurances. In particular in poor countries facing food security problems, index-based insurances offer some interesting advantages: 1) indices can be derived from globally available satellite images that correlate well with what is insured; (2) these indices can be delivered at low cost; and (3) the insurance products open up new markets that are not served by claim-based insurances.[relevant?  discuss]
+An advantage of index-based insurance is that it can potentially be delivered at lower cost. A significant barrier that hinders uptake of claim-based insurance is the high transaction cost for searching for prospective policyholders, negotiating and administering contracts, verifying losses and determining payouts. Index insurance eliminates the loss verification step, thereby mitigating a significant transaction cost. A second advantage of index-based insurance is that, because it pays an indemnity based on the reading of an index rather than individual losses, it eliminates much of the fraud, moral hazard and adverse selection, which are common in classical claim-based insurance. A further advantage of index insurance is that payments based on a standardized and indisputable index also allow for a fast indemnity payment. The indemnity payment could be automated, further reducing transaction costs.[relevant?  discuss]
+Basis risk is a major disadvantage of index-based insurance. It is the situation where an individual experiences a loss without receiving payment or vice versa. Basis risk is a direct result of the strength of the relation between the index that estimates the average loss by the insured group and the loss of insured assets by an individual. The weaker this relation the higher the basis risk. It is obvious that high basis risk undermines the willingness of potential clients to purchase insurance. It thus challenges insurance companies to design insurances such as to minimize basis risk.[relevant?  discuss]
+Food Security, Quality through Bees
+Bees and other pollinating insects are currently improving the food production of 2 billion small farmers worldwide, helping to ensure food security for the worlds population. Research shows that if pollination is managed well on small diverse farms, with all other factors being equal, crop yields can increase by a significant median of 24 percent.[159]
+Criticism[edit]
+As of 2015[update] the concept of food security has mostly focused on food calories rather than the quality and nutrition of food. The concept of nutrition security evolved over time. In 1995, it has been defined as "adequate nutritional status in terms of protein, energy, vitamins, and minerals for all household members at all times".[160]:16
+How animal pollinators positively affect fruit condition and nutrient content is still being discovered.[161]
+See also[edit]
+Sustainable development portal
+Hunger relief portal
+Food portal
+Globalization portal
+Agricultural economics
+Agroecology
+Allotment gardens
+Cryoconservation of animal genetic resources
+Countries by fertility rate
+Food price crisis
+Food vs fuel
+Food rescue
+Food Security Bill, 2013 legislation in India
+Food Security in Burkina Faso
+Food sovereignty
+Garden sharing
+Geography of food
+Human security
+Indian Famine Codes
+Integrated Food Security Phase Classification
+International Assessment of Agricultural Science and Technology for Development
+List of famines
+List of food labeling regulations
+Malawian food crisis
+Malthusian catastrophe
+Nutritional economics
+Right to food
+School feeding in low-income countries
+Subsistence crisis
+Survivalism
+Sustainable agriculture
+Sustainable Development Goals
+Theories of famines
+World Agricultural Supply and Demand Estimates (monthly report)
+Organizations:
+2020 Vision Initiative
+Afrique verte
+Consultative Group on International Agricultural Research
+Community Food Security Coalition
+Famine Early Warning Systems Network
+Food First
+Global Crop Diversity Trust
+Local Food Plus
+References[edit]
+^ Trade Reforms and Food Security: Conceptualizing the Linkages. FAO, UN. 2003.
+^ Raj Patel (20 Nov 2013). "Raj Patel: 'Food sovereignty' is next big idea". Financial Times. Retrieved 17 Jan 2014. (registration required)
+^ a b c Food and Agriculture Organization (November 1996). "Rome Declaration on Food Security and World Food Summit Plan of Action". Retrieved 26 October 2013.
+^ a b "Food Security in the United States: Measuring Household Food Security". USDA. Retrieved 2008-02-23.
+^ a b c d FAO Agricultural and Development Economics Division (June 2006). "Food Security" (PDF) (2). Retrieved June 8, 2012.
+^ Gary Bickel; Mark Nord; Cristofer Price; William Hamilton; John Cook (2000). "Guide to Measuring Household Food Security" (PDF). USDA Food and Nutrition Service. Retrieved 1 November 2013.
+^ Boeing, G. (2016). "How Our Neighborhoods Lost Food, and How They Can Get It Back". Progressive Planning. 206 (Winter): 3537. Retrieved 2016-10-12.
+^ a b FAO, WFP, IFAD. "The State of Food Insecurity in the World 2013. The multiple dimensions of food security." (PDF). FAO. Retrieved 26 November 2013. CS1 maint: Multiple names: authors list (link)
+^ a b FAO (2009). Declaration of the World Food Summit on Food Security (PDF). Rome: Food and Agriculture Organization of the United Nations.
+^ a b United Nations Committee on Economic, Social, and Cultural Rights (1999). The right to adequate food. Geneva: United Nations. CS1 maint: Multiple names: authors list (link)
+^ Webb, P; Coates, J.; Frongillo, E. A.; Rogers, B. L.; Swindale, A.; Bilinsky, P. (2006). "Measuring household food insecurity: why it's so important and yet so difficult to do.". The Journal of Nutrition. 136 (5): 1404s1408s.
+^ Perez-Escamilla, Rafael; Segall-Correa, Ana Maria (2008). "Food insecurity measurement and indicators". Revista de Nutrio. 21: 1526. doi:10.1590/s1415-52732008000500003. Retrieved 31 July 2013.
+^ Barrett, C. B. (11 February 2010). "Measuring Food Insecurity". Science. 327 (5967): 825828. doi:10.1126/science.1182768.
+^ a b Swindale, A; Bilinsky, P. (2006). "Development of a universally applicable household food insecurity measurement tool: process, current status, and outstanding issues.". The Journal of Nutrition. 136 (5): 1449S1452S. Retrieved 31 July 2013.
+^ Swindale, A. & Bilinsky, P. (2006). Household Dietary Diversity Score (HDDS) for measurement of household food access: Indicator guide (v.2). (PDF). Washington DC: Food and Nutrition Technical Assistance Project, Academy for Educational Development.
+^ Coates, Jennifer, Anne Swindale and Paula Bilinsky (2007). Household Food Insecurity Access Scale (HFIAS) for Measurement of Household Food Access: Indicator Guide (v. 3). (PDF). Washington, D.C.:: Food and Nutrition Technical Assistance Project, Academy for Educational Development. CS1 maint: Multiple names: authors list (link)
+^ Ballard, Terri; Coates, Jennifer; Swindale, Anne; Deitchler, Megan (2011). Household Hunger Scale: Indicator Definition and Measurement Guide (PDF). Washington DC: FANTA-2 Bridge, FHI 360.
+^ Maxwell, Daniel G. (1996). "Measuring food insecurity: the frequency and severity of "coping strategies"". Food Policy. 21 (3): 291303. doi:10.1016/0306-9192(96)00005-X.
+^ Oldewage-Theron, Wilna H.; Dicks, Emsie G.; Napier, Carin E. (2006). "Poverty, household food insecurity and nutrition: Coping strategies in an informal settlement in the Vaal Triangle, South Africa". Public Health. 120 (9): 795804. doi:10.1016/j.puhe.2006.02.009.
+^ Maxwell, Daniel; Caldwell, Richard; Langworthy, Mark (1 December 2008). "Measuring food insecurity: Can an indicator based on localized coping behaviors be used to compare across contexts?". Food Policy. 33 (6): 533540. doi:10.1016/j.foodpol.2008.02.004.
+^ USDA, Food Security Measurement. "Archived copy". Archived from the original on 2011-01-07. Retrieved 2010-11-28.
+^ "Measuring Food Insecurity and Hunger: Phase 1 Report". Nap.edu. Retrieved 2011-03-16.
+^ a b c d FAO, WFP, and IFAD (2012). The State of Food Insecurity in the World 2012 (PDF). Rome: FAO. CS1 maint: Multiple names: authors list (link)
+^ a b Ayalew, Melaku. "Food Security and Famine and Hunger" (PDF). Retrieved 21 October 2013.
+^ "Food Security: The Science, Sociology and Economics of Food Production and Access to Food". Springer.com. Retrieved November 13, 2011.
+^ "FAO" (PDF). Retrieved 2013-11-02.
+^ a b UN (16 October 2013). "Sustainable food systems vital to end hunger, malnutrition, UN says on World Food Day". Retrieved 2 November 2013.
+^ "http://news.bbc.co.uk/2/hi/in_depth/8309979.stm". BBC News. October 16, 2009. Retrieved November 13, 2011. External link in |title= (help)
+^ : The 2007/08 Agricultural Price Spikes, Causes and Policy Implications[dead link]
+^ "2008: The year of global food crisis". Sundayherald.com. March 8, 2008. Archived from the original on August 22, 2009. Retrieved November 13, 2011.
+^ "The global grain bubble". Csmonitor.com. January 18, 2008. Retrieved November 13, 2011.
+^ James Randerson, science correspondent (March 7, 2008). "Food crisis will take hold before climate change, warns chief scientist". The Guardian. UK. Retrieved November 13, 2011.
+^ John Vidal, environment editor (November 3, 2007). "Global food crisis looms as climate change and fuel shortages bite". The Guardian. UK. Retrieved November 13, 2011.
+^ Walsoft (February 22, 2008). "Experts: Global Food Shortages Could 'Continue for Decades'". Marketoracle.co.uk. Retrieved November 13, 2011.
+^ Moya K. Mason. "Has Urbanization Caused a Loss to Agricultural Land?". Moyak.com. Retrieved November 13, 2011.
+^ a b Walt, Vivienne (February 27, 2008). "The World's Growing Food-Price Crisis". Time. Retrieved November 13, 2011.
+^ "The cost of food: Facts and figures". BBC News. October 16, 2008. Retrieved November 13, 2011.
+^ "Food Price Unrest Around the World, September 2007 April 2008". Earth-policy.org. Archived from the original on April 12, 2009. Retrieved November 13, 2011.
+^ : The role of demand for biofuel in the agricultural commodity price spikes of 2007/08[dead link]
+^ Jonathan Watts in Beijing (December 5, 2007). "Riots and hunger feared as demand for grain sends food costs soaring". The Guardian. UK. Retrieved November 13, 2011.
+^ Julian Borger, diplomatic editor (February 26, 2008). "Feed the world? We are fighting a losing battle, UN admits". The Guardian. UK. Retrieved November 13, 2011.
+^ a b "Food Security in the U.S.". Economic Research Service. Retrieved 15 December 2013.
+^ "Food Security Status of U.S. Households in 2012". USDA-ERS. 2013. Retrieved 16 December 2013.
+^ a b [[#http://feedthefuture.gov/sites/default/files/resource/files/ftf_overview_factsheet_oct2012.pdf%7CFeed Archived August 20, 2013, at the Wayback Machine. the Future]], Retrieved 20 June 2014.
+^ "World Food Summit: Basic Information". Fas.usda.gov. February 22, 2005. Retrieved 2011-03-16.
+^ WHO. "Food Security". Retrieved 15 October 2013.
+^ a b c d e f Gregory, P. J.; Ingram, J. S. I.; Brklacich, M. (29 November 2005). "Climate change and food security". Philosophical Transactions of the Royal Society B: Biological Sciences. 360 (1463): 21392148. doi:10.1098/rstb.2005.1745.
+^ a b c d e f g h i j k l FAO (1997). "The food system and factors affecting household food security and nutrition". Agriculture, food and nutrition for Africa: a resource book for teachers of agriculture. Rome: Agriculture and Consumer Protection Department. Retrieved 15 October 2013.
+^ a b c d Godfray, H. C. J.; Beddington, J. R.; Crute, I. R.; Haddad, L.; Lawrence, D.; Muir, J. F.; Pretty, J.; Robinson, S.; Thomas, S. M.; Toulmin, C. (28 January 2010). "Food Security: The Challenge of Feeding 9 Billion People". Science. 327 (5967): 812818. doi:10.1126/science.1185383. PMID20110467.
+^ Food self-sufficiency rate fell below 40% in 2010 , Japan Times, Aug. 12, 2011
+^ a b c d e f g Tweeten, Luther (1999). "The Economics of Global Food Security". Review of Agricultural Economics. 21 (2): 473488. doi:10.2307/1349892. JSTOR1349892.
+^ a b c d e f g h i Ecker and Breisinger (2012). The Food Security System (PDF). Washington, D.D.: International Food Policy Research Institute. pp.114.
+^ a b c Garrett, J; Ruel, M (1999). Are Determinants of Rural and Urban Food Security and Nutritional Status Different? Some Insights from Mozambique (PDF). Washington, D.C.: International Food Policy Research Institute. Retrieved 15 October 2013.
+^ Loring, Philip A.; Gerlach, S. Craig (2009). "Food, Culture, and Human Health in Alaska: An Integrative Health Approach to Food Security". Environmental Science and Policy. 12 (4): 46678. doi:10.1016/j.envsci.2008.10.006.
+^ Robert Fogel (2004). "chpt. 3". The Escape from Hunger and Premature Death, 1700-2100: Europe, America, and the Third World. Cambridge University Press. ISBN0521004888.
+^ "Water Scarcity Crossing National Borders". Earth-policy.org. September 27, 2006. Archived from the original on July 8, 2009. Retrieved November 13, 2011.
+^ "India grows a grain crisis". Asia Times. July 21, 2006. Retrieved November 13, 2011.
+^ "Outgrowing the Earth". Globalenvision.org. November 23, 2005. Retrieved November 13, 2011.
+^ "The Food Bubble Economy". I-sis.org.uk. April 12, 2002. Retrieved November 13, 2011.
+^ Global Water Shortages May Lead to Food Shortages-Aquifer Depletion Archived copy at the Portuguese Web Archive (July 13, 2009).. Greatlakesdirectory.org.
+^ a b "Conference on Water Scarcity in Africa: Issues and Challenges". Retrieved 18 March 2013.
+^ "Coping With Water Scarcity: Challenge of the 21st Century" (PDF). Retrieved 18 March 2013.
+^ Felicity Lawrence (September 15, 2010). "How Peru's wells are being sucked dry by British love of asparagus | Environment". The Guardian. UK. Retrieved 2011-03-16.
+^ a b Lawrence, Felicity (September 15, 2010). "Big business clear winner in Peru's asparagus industry | Global development | guardian.co.uk". The Guardian. UK. Retrieved 2011-03-16.
+^ "The Earth Is Shrinking: Advancing Deserts and Rising Seas Squeezing Civilization". Earth-policy.org. Retrieved 2014-12-28.
+^ Ian Sample in science correspondent (August 30, 2007). "Global food crisis looms as climate change and population growth strip fertile land". The Guardian. UK. Retrieved November 13, 2011.
+^ "Africa may be able to feed only 25% of its population by 2025". News.mongabay.com. Archived from the original on November 27, 2011. Retrieved November 13, 2011.
+^ Harvey, Fiona. 2011. Extreme weather will strike as climate change takes hold, IPCC warns
+^ Strategic Foresight Group (March 2013). "Blue Peace for the Nile".
+^ Climate & Development Knowledge Network. 2012. Managing Climate Extremes and Disasters in the Agricultural Sector: Lessons from the IPCC SREX Report
+^ Big melt threatens millions, says UN Archived February 19, 2008, at the Wayback Machine.
+^ english@peopledaily.com.cn (July 24, 2007). "Glaciers melting at alarming speed". People's Daily. Retrieved November 13, 2011.
+^ "Ganges, Indus may not survive: climatologists". Rediff.com. December 31, 2004. Retrieved November 13, 2011.
+^ Singh, Navin (November 10, 2004). "Himalaya glaciers melt unnoticed". BBC News. Retrieved November 13, 2011.
+^ "Glaciers Are Melting Faster Than Expected, UN Reports". ScienceDaily. March 17, 2008. Retrieved November 13, 2011.
+^ "Issues In Food Security" (PDF). Retrieved November 13, 2011.
+^ Loading the Climate Dice July 22, 2012 Paul Krugman
+^ "Issues In Climate Change" (PDF). Retrieved November 13, 2011.
+^ Fraser, E. 2003. Social vulnerability and ecological fragility: building bridges between social and natural sciences using the Irish Potato Famine as a case study. Conservation Ecology 7:9: on line.
+^ a b Fraser, E (2007b). "Travelling in antique lands: using past famines to develop an adaptability/resilience framework to identify food systems vulnerable to climate change". Climatic Change. 83: 495514. doi:10.1007/s10584-007-9240-9.
+^ UNEP, 2011, Towards a Green Economy: Pathways to Sustainable Development and Poverty Eradication, www.unep.org/greeneconomy
+^ Robin McKie; Xan Rice (April 22, 2007). "Millions face famine as crop disease rages". The Guardian. UK. Retrieved November 13, 2011.
+^ "Billions at risk from wheat super-blight". New Scientist Magazine (2598): 67. April 3, 2007. Retrieved 2007-04-19.
+^ Hanan Sela, University of Haifa, Israel See DIVERSEEDS short video
+^ Vincent HA, Wiersema J, Dobbie SL, Kell SP, Fielder H, Castaeda Alvarez NP, Guarino L, Eastwood R, Len B, Maxted N. 2012. A prioritised crop wild relative inventory to help underpin global food security. (in preparation). http://www.cwrdiversity.org/checklist/genepool-details.php?id%5b%5d=22&id%5b%5d=4184&id%5b%5d=578&[permanent dead link]
+^ Fred CunyFamine, Conflict, and Response: a Basic Guide; Kumarian Press, 1999.
+^ "Want to feed nine billion?" http://www.foodsecurity.ac.uk/blog/index.php/2013/06/want-to-feed-nine-billion/ Retrieved 25 August 2013
+^ Eating Fossil Fuels. EnergyBulletin.net Archived June 11, 2007, at the Wayback Machine.
+^ The Oil Drum: Europe. "Meets Peak Oil". Europe.theoildrum.com. Retrieved November 13, 2011.
+^ a b c d e Khoury, C.K.; Bjorkman, A.D.; Dempewolf, H.; Ramirez-Villegas, J.; Guarino, L.; Jarvis, A.; Rieseberg, L.H.; Struik, P.C. (2014). "Increasing homogeneity in global food supplies and the implications for food security". PNAS. 111 (11): 40014006. doi:10.1073/pnas.1313490111. CS1 maint: Multiple names: authors list (link)
+^ a b c d e f g h Kinver, Mark. "Crop diversity decline 'threatens food security'". BBC. Retrieved 13 June 2016.
+^ Fischetti, Mark. "Diets around the world are becoming more similar". Scientific American. p.72. Retrieved 13 June 2016.
+^ Mekong nations to form rice price-fixing cartel Radio Australia, April 30, 2008 Archived August 24, 2008, at the Wayback Machine.
+^ Post|May 1, 2008|PM floats idea of five-nation rice cartel[dead link]
+^ Welcome to OREC  Rice for Life. Orecinternational.org (March 19, 2012).
+^ "Thailand drops idea for rice cartel". The New York Times. May 6, 2008.
+^ Kong, X. (2014). "China must protect high-quality arable land". Nature. 506 (7486): 7. doi:10.1038/506007a.
+^ Larson, C. (2014). "China gets serious about its pollutant-laden soil". Science. 343 (6178): 14151416. doi:10.1126/science.343.6178.1415.
+^ Tth, G. (2012). "Impact of land-take on the land resource base for crop production in the European Union". Science of the Total Environment. 435436: 202214. doi:10.1016/j.scitotenv.2012.06.103.
+^ Malucelli, F.; Certini,G.; Scalenghe, R. (2014). "Soil is brown gold in the Emilia-Romagna Region". Land Use Policy. 39: 350357. doi:10.1016/j.landusepol.2014.01.019.
+^ Solomon, S., Qin, D., Manning, M., Chen, Z., Marquis, M., Averyt, K. B., Tignor, M. & Miller, H. L. 2007 "Summary for policymakers." Report of Working Group I of the Intergovernmental Panel on Climate Change, 118.
+^ Alley, R. B.; et al. (2003). "Abrupt climate change". Sci. 299: 20052010. doi:10.1126/science.1081056. PMID12663908.
+^ a b c Bostrom, N. & Cirkovic, M. M., editors 2008 Global Catastrophic Risks. New York: Oxford University Press
+^ Robock, A.; Oman, L.; Stenchikov, G. L. (2007). "Nuclear winter revisited with a modern climate model and current nuclear arsenals: Still catastrophic consequences". J. Geophys. Res. Atmos. 112: 19842012.
+^ Mills, M. J.; Toon, O. B.; Turco, R. P.; Kinnison, D. E.; Garcia, R. R. (2008). "Massive global ozone loss predicted following regional nuclear conflict". Proc. Natl. Acad. Sci. USA. 105: 53075312. doi:10.1073/pnas.0710058105. PMC2291128. PMID18391218.
+^ Nicholas Tarling (Ed.) The Cambridge History of SouthEast Asia Vol.II Part 1 pp139-40
+^ UNICEF UK News:: News item:: The tragic consequences of climate change for the world's children:: April 29, 2008 00:00 Archived January 22, 2009, at the Wayback Machine.
+^ The Washington Post, 2009 Nov 17, "America's Economic Pain Brings Hunger Pangs: USDA Report on Access to Food 'Unsettling,' Obama Says," http://www.washingtonpost.com/wp-dyn/content/article/2009/11/16/AR2009111601598.html?hpid=topnews
+^ "Individual, Family and Neighborhood Characteristics and Children's Food Insecurity". JournalistsResource.org. Retrieved April 13, 2012
+^ Kimbro, Rachel T.; Denney, Justin T.; Panchang, Sarita (2012). "Individual, Family and Neighborhood Characteristics and Children's Food Insecurity". Journal of Applied Research on Children. 3.
+^ [1], World Food Programme Gender Policy Report. Rome, 2009.
+^ Spieldoch, Alexandra (2011). "The Right to Food, Gender Equality and Economic Policy". Center for Women's Global Leadership (CWGL).
+^ FAO, ADB (2013). Gender Equality and Food Security - Women's Empowerment as a Tool against Hunger (PDF). Mandaluyong City, Philippines: ADB. ISBN978-92-9254-172-9.
+^ Gender in Agriculture Sourcebook, World Food Bank, Food and Agriculture Organization, and International Fund for Agricultural Development (2009)
+^ FAO (2011). The state of food and agriculture women in agriculture: closing the gender gap for development (PDF) (2010-11 ed.). Rome: FAO. ISBN978-92-5-106768-0.
+^ FAO (2006). "Food Security" (PDF). Policy Brief.
+^ a b c d e f g h "Gender and food security".
+^ Altieri, Miguel A.; Rosset, Peter (1999). "Ten Reasons Why Biotechnology Will Not Help the Developing World". AgBioForum. 2 (3&4): 15562.
+^ Fischer, Klara (2016-07-01). "Why new crop technology is not scale-neutralA critique of the expectations for a crop-based African Green Revolution". Research Policy. 45 (6): 11851194. doi:10.1016/j.respol.2016.03.007.
+^ Wedding, K. (2013). Pathways to productivity: The role of GMOs for food security in Kenya, Tanzania, and Uganda. Rowman and Littlefield.
+^ Stone, Glenn Davis; Glover, Dominic (2016-04-16). "Disembedding grain: Golden Rice, the Green Revolution, and heirloom seeds in the Philippines". Agriculture and Human Values: 116. doi:10.1007/s10460-016-9696-1. ISSN0889-048X.
+^ "Genetically modified Golden Rice falls short on lifesaving promises | The Source | Washington University in St. Louis". 2016-06-02. Retrieved 2016-07-31.
+^ Global Plan of Action for Animal Genetic Resources and the Interlaken Declaration. Rep. Rome: Food and Agriculture Organization of the United Nations, 2007. FAO. Web.
+^ Cryoconservation of Animal Genetic Resources. Rep. Rome: Food and Agriculture Organization of the United Nations, 2012. FAO Animal Production and Health Guidelines No. 12. Print.
+^ www.gmo-compass.org. "GMO Crop Growing: Growing Around the World". www.gmo-compass.org. Retrieved 2016-07-31.
+^ www.gmo-compass.org. "Cotton - GMO Database". www.gmo-compass.org. Retrieved 2016-07-31.
+^ TeBeest, D. (2007). "Rice Blast". The Plant Health Instructor. doi:10.1094/phi-i-2007-0313-07.
+^ Shew, Aaron M.; Nalley, Lawton L.; Danforth, Diana M.; Dixon, Bruce L.; Nayga, Rodolfo M.; Delwaide, Anne-Cecile; Valent, Barbara (2016-01-01). "Are all GMOs the same? Consumer acceptance of cisgenic rice in India". Plant Biotechnology Journal. 14 (1): 47. doi:10.1111/pbi.12442. ISSN1467-7652.
+^ Makinde, D. (2009). "Status of Biotechnology in Africa: Challenges and Opportunities". Asian Biotechnology and Development Review. 11 (3). |access-date= requires |url= (help)
+^ Gerasimova, Ksenia (2015-06-11). "Debates on Genetically Modified Crops in the Context of Sustainable Development". Science and Engineering Ethics. 22 (2): 525547. doi:10.1007/s11948-015-9656-y. ISSN1353-3452.
+^ Borlaug, N.E. (2000), "Ending world hunger: the promise of biotechnology and the threat of antiscience zealotry", Plant Physiology, 124: 487490, doi:10.1104/pp.124.2.487, PMC1539278, PMID11027697
+^ Rozwadowski, Kevin; Kagale, Sateesh (nd), Global Food Security: The Role of Agricultural Biotechnology Commentary (PDF), Saskatoon, Saskatchewan: Saskatoon Research Centre, Agriculture and Agri-Food Canada, retrieved 12 January 2014
+^ a b Joachim von Braun; M.S. Swaminathan; Mark W. Rosegrant (2003). Agriculture, Food Security, Nutrition, and the Millennium Development Goals: Annual Report Essay. IFPRI. Retrieved 11 November 2013.
+^ De Schutter, Olivier (December 2010). "Report submitted by the Special Rapporteur on the right to food" (PDF). United Nations. pp.121. Retrieved 22 October 2013.
+^ FAO (2003). "The State of Food Security in the World 2003" (PDF). FAO. Retrieved 31 October 2013.
+^ WFP. "Mission Statement". WFP. Retrieved 2 November 2013.
+^ WFP. "Food For Assets". Retrieved 26 November 2013.
+^ WFP and Republic of Kenya. "Cash/Food For Assets". Retrieved 26 November 2013.
+^ Outcome of the 2012 Copenhagen Consensus
+^ Description and targets for Goal 2 of the Sustainable Development Goals
+^ Pope Francis denounces 'global scandal' of hunger. Press release Caritas International, December 2013.
+^ Leadership Council members from the website of the Compact 2025 partnership
+^ Compact2025: Ending hunger and undernutrition. 2015. Project Paper. IFPRI: Washington, DC.
+^ Fan, Shenggen and Polman, Paul. 2014. An ambitious development goal: Ending hunger and undernutrition by 2025. In 2013 Global food policy report. Eds. Marble, Andrew and Fritschel, Heidi. Chapter 2. Pp 15-28. Washington, D.C.: International Food Policy Research Institute (IFPRI).
+^ European Commission Press release. June 2015. EU launches new partnership to combat Undernutrition with Bill & Melinda Gates Foundation. Accessed on November 1, 2015
+^ FAO. 2015. Africa's Renewed Partnership to End Hunger by 2025. Accessed on 1 November 2015.
+^ USAID  Food Security Archived October 26, 2004, at the Wayback Machine.
+^ Global Food Stamps: An Idea Worth Considering, August 2011, ICTSD, Issue Paper No.36.
+^ Molden, D. (Ed). Water for food, Water for life: A Comprehensive Assessment of Water Management in Agriculture. Earthscan/IWMI, 2007.
+^ McCullum, Christine; Desjardins, Ellen; Kraak, Vivica I.; Ladipo, Patricia; Costello, Helen (1 February 2005). "Evidence-based strategies to build community food security". Journal of the American Dietetic Association. 105 (2): 278283. doi:10.1016/j.jada.2004.12.015.
+^ Claudio O. Delang (2006). "The role of wild food plants in poverty alleviation and biodiversity conservation in tropical countries". Progress in Development Studies. 6 (4): 275286. doi:10.1191/1464993406ps143oa.
+^ D.C. Denkenberger and J. M. Pearce. Feeding Everyone No Matter What: Managing Food Security After Global Catastrophe, Elsevier, San Francisco, 2014.
+^ - [2] "UniBio A/S - turns NG to fish food"
+^ Hazeltine, B. & Bull, C. 2003 Field Guide to Appropriate Technology. San Francisco: Academic Press.
+^ Langan, P.; Gnanakaran, S.; Rector, K. D.; Pawley, N.; Fox, D. T.; Chof, D. W.; Hammelg, K. E. (2011). "Exploring new strategies for cellulosic biofuels production". Energy Environ. Sci. 4: 38203833. doi:10.1039/c1ee01268a.
+^ Thien Do, Kim Anderson, B. Wade Brorsen. "The World's wheat supply." Oklahoma Cooperative Extension Service
+^ Maher, TM Jr; Baum, SD (2013). "Adaptation to and recovery from global catastrophe". Sustainability. 5 (4): 14611479. doi:10.3390/su5041461.
+^ de Leeuw, Jan; Vrieling, Anton; Shee, Apurba; Atzberger, Clement; Hadgu, Kiros M.; Biradar, Chandrashekhar M.; Keah, Humphrey; Turvey, Calum (2014). "The Potential and Uptake of Remote Sensing in Insurance: A Review". Remote Sens. 6 (11): 1088810912. doi:10.3390/rs61110888.
+^ "Food Security, Quality through Bees". ABC Live. ABC Live. Retrieved 7 September 2016.
+^ QAgnes R. Quisumbing, Lynn R. Brown, Hilary Sims Feldstein, Lawrence James Haddad, Christine Pea Women: The key to food security. International Food Policy Research Institute (IFPRI) Food Policy Report. 26 pages. Washington. 1995
+^ Wendee Nicole Pollinator Power: Nutrition Security Benefits of an Ecosystem Service Environ Health Perspect DOI:10.1289/ehp.123-A210, quote "We have spent far too long looking solely at calories as the answer to food security, and not nutrition security."
+Sources[edit]
+Cox, P. G., S. Mak, G. C. Jahn, and S. Mot. 2001. Impact of technologies on food security and poverty alleviation in Cambodia: designing research processes. pp.677684 In S. Peng and B. Hardy [eds.] "Rice Research for Food Security and Poverty Alleviation." Proceeding the International Rice Research Conference, March 31,  April 3, 2000, Los Baos, Philippines: International Rice Research Institute. 692 p.
+Singer, H. W. (1997). A global view of food security. Agriculture + Rural Development, 4: 36. Technical Center for Agricultural and Rural Development (CTA).
+Further reading[edit]
+Dixant, Agriculture, and Food Security in Southern Africa edited by Steven Were Omamo and Klaus von Grebmer (2005) (Brief and Book available)
+Brown ME, Funk CC (February 2008). "Climate. Food security under climate change". Science. 319 (5863): 5801. doi:10.1126/science.1154102. PMID18239116.
+Lobell DB, Burke MB, Tebaldi C, Mastrandrea MD, Falcon WP, Naylor RL (February 2008). "Prioritizing climate change adaptation needs for food security in 2030". Science. 319 (5863): 60710. doi:10.1126/science.1152339. PMID18239122.
+Introduction to the Basic Concepts of Food Security EC-FAO Food Security Programme (2008) Practical Guide Series
+Lindberg R, Whelan J, Lawrence M, Gold L, Friel S (February 2015) "Still serving hot soup? Two hundred years of a charitable food sector in Australia: a narrative review". Australia New Zealand Journal of Public Health. http://onlinelibrary.wiley.com/doi/10.1111/1753-6405.12311/abstract
+The environmental food crisis A study done by the UN on feeding the world population (2009)
+Climate change: Impact on agriculture and costs of adaptation A report by the International Food Policy Research Institute that presents research results that quantify the impacts of climate change, assesses the consequences for food security, and estimates the investments that would offset the negative consequences for human well-being.
+Moseley, W.G. and B.I. Logan. 2005. "Food Security." In: Wisner, B., C. Toulmin and R. Chitiga (eds). Toward a New Map of Africa. London: Earthscan Publications. Pp.133152.
+"FOOD SECURITY Communications Toolkit". fao.org. Food and Agriculture Organization. Retrieved September 7, 2016.
+Nord, Mark. "Struggling To Feed the Family: What Does It Mean To Be Food Insecure?".
+Food Insecurity, a special issue on the topic by the Journal of Applied Research on Children. (2012)
+Achieving Food and Nutrition Security: Actions to Meet the Global Challenge. A Training Course Reader by InWEnt, GTZ and Welthungerhilfe. 3rd edition, 240 pages, 2009
+Research from the Global Sustainability Institute that studies the link between political fragility and access to food
+External links[edit]
+Wikimedia Commons has media related to Food security.
+FAO Food Security Statistics
+U.S.Government Feed the Future program
+The Global Food Security and Nutrition Forum (FSN Forum)
+Can China Feed Itself? A System for Evaluation of Policy Options.
+Food Security Communications Toolkit from FAO
+v
+t
+e
+Deprivation and poverty indicators
+Social
+Topics:
+Social exclusion
+Social vulnerability
+Relative deprivation
+Disadvantaged
+Fushgaku
+Hikikomori
+Social determinants of health in poverty
+Measures:
+Social Progress Index
+Psychological
+Topics:
+psychological poverty
+Poverty and mental health
+Social and psychological value of money
+Economic
+Topics:
+Energy poverty
+Money-rich, time-poor
+Poverty threshold
+Secondary poverty
+Asset poverty
+Housing stress
+Income deficit
+Survival sex
+Debt bondage
+Measures:
+Below Poverty Line (India)
+Homeless Vulnerability Index
+Misery index (economics)
+Gini coefficient
+Genuine progress indicator (GPI)
+Legatum Prosperity Index
+Poverty gap index
+Physical
+Topics:
+Poverty and Violence
+Disability and poverty
+Food insecurity
+Measures:
+India State Hunger Index
+Global Hunger Index
+Disability-adjusted life year (DALYs)
+Global Peace Index (GPI)
+Complex measures
+Human Poverty Index (HPI)
+Human Development Index (HDI)
+Multidimensional Poverty Index (MPI)
+Physical Quality of Life Index (PQLI)
+Laeken indicators (EU)
+Scottish index of multiple deprivation
+Townsend deprivation index
+Living Planet Index (LPI)
+Progress out of Poverty Index
+Gender
+Topics:
+Feminization of poverty
+Measures:
+Gender-related Development Index (GDI)
+Gender Parity Index
+Other
+Theories of poverty
+Well-being
+Welfare
+Wellness
+Quality of Life
+Self-perceived quality-of-life scale
+Subjective well-being (SWB)
+Suboptimal health
+Stress
+Rural access issues
+Providing Urban Amenities to Rural Areas
+Post-materialism
+Pen's parade
+v
+t
+e
+Diseases of poverty
+Diseases of poverty
+AIDS
+Malaria
+Tuberculosis
+Measles
+Pneumonia
+Diarrheal diseases
+Neglected diseases
+Cholera
+Chagas disease
+African sleeping sickness
+Schistosomiasis
+Dracunculiasis
+River blindness
+Leishmaniasis
+Trachoma
+Miscellaneous
+Malnutrition
+Priority review voucher
+v
+t
+e
+Indices of Deprivation
+National (general deprivation)
+Carstairs index
+Index of Multiple Deprivation 2000 (IMD2000)
+Indices of deprivation 2004 (ID2004)
+Indices of deprivation 2007 (ID2007)
+Indices of deprivation 2010 (ID2010)
+National (subject specific deprivation)
+Underprivileged area score
+Department of Environment Index
+Environment portal
+Category
+Commons
+Organizations
+v
+t
+e
+Human/World population
+Major topics
+Biocapacity
+Optimum population
+Overpopulation
+Malthusian catastrophe
+Population
+Population ethics
+Population momentum
+Sustainable development
+Women's reproductive rights
+Zero population growth
+Biological and
+related topics
+Family planning
+Pledge two or fewer
+Human population control
+One-child policy
+Two-child policy
+Population biology
+Population decline
+Population density
+Physiological density
+Population dynamics
+Population growth
+Population model
+Population pyramid
+Projections of population growth
+Human impact on
+the environment
+Deforestation
+Desalination
+Desertification
+Environmental impact
+of agriculture
+of aviation
+of biodiesel
+of concrete
+of electricity generation
+of the energy industry
+of fishing
+of irrigation
+of mining
+of off-roading
+of oil shale industry
+of palm oil
+of paper
+of the petroleum industry
+of reservoirs
+of shipping
+of war
+Industrialisation
+Land degradation
+Land reclamation
+Overconsumption
+Pollution
+Quarrying
+Urbanization
+Loss of green belts
+Urban sprawl
+Waste
+Water scarcity
+Overdrafting
+Population
+ecology
+Carrying capacity
+Deep ecology
+Earth's energy budget
+Food security
+Habitat destruction
+I = P  A  T
+Malthusian growth model
+Overshoot (population)
+World energy consumption
+World energy resources
+World3 model
+Literature
+A Modest Proposal
+Observations Concerning the Increase of Mankind, Peopling of Countries, etc.
+An Essay on the Principle of Population
+"How Much Land Does a Man Need?"
+Operating Manual for Spaceship Earth
+Population Control: Real Costs, Illusory Benefits
+The Limits to Growth
+The Population Bomb
+The Skeptical Environmentalist
+The Ultimate Resource
+Publications
+Population and Environment
+Population and Development Review
+Lists
+Population and housing censuses by country
+Metropolitan areas by population
+Population milestone babies
+Events and
+organizations
+7 Billion Actions
+International Conference on Population and Development
+Population Action International
+Population Connection
+Population Matters
+Population Research Institute
+United Nations Population Fund
+Voluntary Human Extinction Movement
+World Population Day
+World Population Foundation
+Related topics
+Classic Maya collapse
+Fertility and intelligence
+Green Revolution
+Holocene extinction
+Migration
+Commons
+Human overpopulation
+Environmental issues with population
+Human migration
+v
+t
+e
+Sustainability
+Principles
+Ecological modernization
+Environmentalism
+Human impact on the environment
+Planetary boundaries
+Social sustainability
+Stewardship
+Sustainable development
+Consumption
+Anthropization
+Anti-consumerism
+Ecological footprint
+Ethical
+Over-consumption
+Simple living
+Sustainability advertising
+Sustainability brand
+Sustainability marketing myopia
+Sustainable
+Systemic change resistance
+Tragedy of the commons
+Population
+Birth control
+Family planning
+Control
+Overpopulation
+Zero growth
+Technology
+Appropriate
+Environmental
+Sustainable
+Biodiversity
+Biosecurity
+Biosphere
+Conservation biology
+Deep ecology
+Endangered species
+Holocene extinction
+Invasive species
+Energy
+Carbon footprint
+Climate change mitigation
+Conservation
+Descent
+Efficiency
+Emissions trading
+Fossil-fuel phase-out
+Peak oil
+Renewable
+Energy poverty
+Food
+Forest gardening
+Local
+Permaculture
+Security
+Sustainable agriculture
+Sustainable fishery
+Urban horticulture
+Water
+Conservation
+Crisis
+Efficiency
+Footprint
+Accountability
+Sustainability accounting
+Sustainability measurement
+Sustainability metrics and indices
+Sustainability reporting
+Standards and certification
+Sustainable yield
+Applications
+Advertising
+Architecture
+Art
+Business
+City
+College programs
+Community
+Design
+Ecovillage
+Education for Sustainable Development
+Fashion
+Gardening
+Geopark
+Green marketing
+Industries
+Landscape architecture
+Living
+Low-impact development
+Sustainable market
+Organizations
+Packaging
+Practices
+Procurement
+Tourism
+Transport
+Urban drainage systems
+Urban infrastructure
+Urbanism
+Management
+Environmental
+Fisheries
+Forest
+Materials
+Natural resource
+Planetary
+Waste
+Agreements
+UN Conference on the Human Environment (Stockholm 1972)
+Brundtlandt Commission Report (1983)
+Our Common Future (1987)
+Earth Summit (1992)
+Rio Declaration on Environment and Development
+Agenda 21 (1992)
+Convention on Biological Diversity (1992)
+ICPD Programme of Action (1994)
+Earth Charter
+Lisbon Principles
+UN Millennium Declaration (2000)
+Earth Summit 2002 (Rio+10, Johannesburg)
+United Nations Conference on Sustainable Development (Rio+20, 2012)
+Sustainable Development Goals
+Category
+Lists
+Outline
+Portal
+Science
+Studies
+Degrees
+NewPP limit report
+Parsed by mw1302
+Cached time: 20161120012100
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 1.372 seconds
+Real time usage: 1.512 seconds
+Preprocessor visited node count: 9515/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 370543/2097152 bytes
+Template argument size: 13752/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 11/500
+Lua time usage: 0.671/10.000 seconds
+Lua memory usage: 6.86 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1217.153
+1 - -total
+51.42%
+625.842
+1 - Template:Reflist
+16.91%
+205.819
+21 - Template:Fix
+13.41%
+163.225
+46 - Template:Cite_web
+12.89%
+156.865
+40 - Template:Cite_journal
+11.14%
+135.531
+17 - Template:Delink
+7.53%
+91.681
+7 - Template:Citation_needed
+6.79%
+82.619
+15 - Template:Cite_book
+5.63%
+68.570
+10 - Template:Navbox
+4.85%
+59.092
+33 - Template:Category_handler
+Saved in parser cache with key enwiki:pcache:idhash:216361-0!*!0!!en!4!* and timestamp 20161120012059 and revision id 750485818
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Food_security&oldid=750485818"
+Categories: FaminesFood securityUrban agricultureFood and the environmentHidden categories: Pages with login required references or sourcesCS1 maint: Multiple names: authors listCS1 errors: external linksAll articles with dead external linksArticles with dead external links from November 2011Webarchive template wayback linksArticles with dead external links from November 2016Articles with permanently dead external linksPages using citations with accessdate and no URLArticles slanted towards recent events from November 2014All articles with unsourced statementsArticles with unsourced statements from July 2015All accuracy disputesArticles with disputed statements from November 2013All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from October 2014Articles with unsourced statements from October 2014All articles that may contain original researchArticles that may contain original research from October 2014Articles with unsourced statements from November 2013Articles with unsourced statements from November 2014Wikipedia articles that may have off-topic sectionsArticles containing potentially dated statements from 2015All articles containing potentially dated statementsCommons category with local link same as on WikidataArticles containing video clips

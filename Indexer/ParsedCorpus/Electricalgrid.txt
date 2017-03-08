@@ -1,0 +1,323 @@
+Electricalgrid
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}For other uses, see Grid (disambiguation).
+"Power grid" redirects here. For the board game, see Power Grid.
+General layout of electricity networks. Voltages and depictions of electrical lines are typical for Germany and other European systems.
+An electrical grid is an interconnected network for delivering electricity from suppliers to consumers. It consists of generating stations that produce electrical power, high-voltage transmission lines that carry power from distant sources to demand centers, and distribution lines that connect individual customers.[1]
+Power stations may be located near a fuel source, at a dam site, or to take advantage of renewable energy sources, and are often located away from heavily populated areas. They are usually quite large to take advantage of the economies of scale. The electric power which is generated is stepped up to a higher voltage at which it connects to the electric power transmission network.
+The bulk power transmission network will move the power long distances, sometimes across international boundaries, until it reaches its wholesale customer (usually the company that owns the local electric power distribution network).
+On arrival at a substation, the power will be stepped down from a transmission level voltage to a distribution level voltage. As it exits the substation, it enters the distribution wiring. Finally, upon arrival at the service location, the power is stepped down again from the distribution voltage to the required service voltage(s).
+Contents
+1 History
+2 Features
+2.1 Structure
+2.2 Wide area synchronous grid
+2.3 Redundancy and defining "grid"
+2.4 Interconnected Grid
+3 Aging infrastructure
+4 Modern trends
+5 Future trends
+5.1 Smart Grid
+5.2 Grid Defection
+6 References
+7 External links
+History[edit]
+Early electric energy was produced near the device or service requiring that energy. In the 1880s, electricity competed with steam, hydraulics, and especially coal gas. Coal gas was first produced on customers premises but later evolved into gasification plants that enjoyed economies of scale. In the industrialized world cities had networks of piped gas, used for lighting. But gas lamps produced poor light, wasted heat, made rooms hot and smoky, and gave off hydrogen and carbon monoxide. In the 1880s electric lighting soon became advantageous compared to gas lighting.
+Electric utility companies took advantage of economies of scale and moved to centralized power generation, distribution, and system management.[2] With long distance power transmission it became possible to interconnect stations to balance loads and improve load factors.
+In the United Kingdom, Charles Merz, of the Merz & McLellan consulting partnership, built the Neptune Bank Power Station near Newcastle upon Tyne in 1901,[3] and by 1912 had developed into the largest integrated power system in Europe.[4] Merz was appointed head of a Parliamentary Committee and his findings led to the Williamson Report of 1918, which in turn created the Electricity Supply Bill of 1919. The bill was the first step towards an integrated electricity system. The Electricity (Supply) Act of 1926 led to the setting up of the National Grid.[5] The Central Electricity Board standardized the nation's electricity supply and established the first synchronized AC grid, running at 132 kilo volts and 50 Hertz. This started operating as a national system, the National Grid, in 1938.
+In the United States in the 1920s, utilities formed joint-operations to share peak load coverage and backup power. In 1934, with the passage of the Public Utility Holding Company Act (USA), electric utilities were recognized as public goods of importance and were given outlined restrictions and regulatory oversight of their operations. The Energy Policy Act of 1992 required transmission line owners to allow electric generation companies open access to their network[2][6] and led to a restructuring of how the electric industry operated in an effort to create competition in power generation. No longer were electric utilities built as vertical monopolies, where generation, transmission and distribution were handled by a single company. Now, the three stages could be split among various companies, in an effort to provide fair accessibility to high voltage transmission.[7]:21 The Energy Policy Act of 2005 allowed incentives and loan guarantees for alternative energy production and advance innovative technologies that avoided greenhouse emissions.
+In France, electrification began in the 1900s, with 700 communes in 1919, and 36,528 in 1938. At the same time, the nearby networks began to interconnect: Paris in 1907 at 12kV, the Pyrnes in 1923 at 150 kV, and finally almost all of the country interconnected in 1938 at 220 kV. By 1946, the grid is the world's most dense. That year that state nationalized the industry, by uniting the private companies as lectricit de France. The frequency was standardized at 50Hz, and the 225kV network replaces 110 and 120. From 1956, household current is standardized at 220 / 380V, replacing the previous 127/220V. During the 1970s, the 400kV network, the new European standard, is implemented.
+Features[edit]
+The wide area synchronous grids of Europe. Most are members of the European Transmission System Operators association.
+The Continental U.S. power transmission grid consists of about 300,000km (186,411mi) of lines operated by approximately 500 companies. The North American Electric Reliability Corporation (NERC) oversees all of them.
+High-voltage direct current interconnections in western Europe - red are existing links, green are under construction, and blue are proposed.
+Map of Japan's electricity transmission network, showing differing systems between regions. Unusually for a national grid, different regions run at completely different frequencies.
+In a synchronous grid all the generators are connected in parallel and run not only at the same frequency but also at the same phase. Each generator is maintained in this state by a local governor that regulates the driving torque by controlling the steam supply to the turbine driving it. Generation and consumption must be balanced across the entire grid, because energy is consumed almost instantaneously as it is produced. Energy is stored in the immediate short term by the rotational kinetic energy of the generators.
+Although an entire grid runs at the same frequency, normally only in very small grids is the frequency fixed. More typically, the frequency of the grid is designed to vary slightly (by 1 percent or so) depending on the load on the grid. When the grid is very heavily loaded, the frequency slows, and governors adjust their generators so that more power is output (droop speed control). When the grid is lightly loaded the grid frequency runs above the nominal frequency, and this is taken as an indication by Automatic Generation Control systems across the network that generators should reduce their output.
+Grids are designed to supply voltages at largely constant amplitudes. This has to be achieved with varying demand, variable reactive loads, and even nonlinear loads, with electricity provided by generators and distribution and transmission equipment that are not perfectly reliable.[8]
+Structure[edit]
+This article appears to contradict the article Electric power distribution. Please see discussion on the linked talk page. (May 2009) (Learn how and when to remove this template message)
+Transmission networks are complex with redundant pathways. For example, see the map of the United States' (right) high-voltage transmission network.
+The structure, or "topology" of a grid can vary depending on the constraints of budget, requirements for system reliability, and the load and generation characteristics. The physical layout is often forced by what land is available and its geology. Distribution networks are divided into two types, radial or network.[9]
+The simplest topology for a distribution or transmission grid is a radial structure. This is a tree shape where power from a large supply radiates out into progressively lower voltage lines until the destination homes and businesses are reached. However, single failures can take out entire branches of the tree.
+Most transmission grids offer the reliability that more complex mesh networks provide. The expense of mesh topologies restrict their application to transmission and medium voltage distribution grids. Redundancy allows line failures to occur and power is simply rerouted while workmen repair the damaged and deactivated line.
+Other topologies used are looped systems found in Europe and tied ring networks.
+The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (February 2010) (Learn how and when to remove this template message)
+In cities and towns of North America, the grid tends to follow the classic radially fed design. A substation receives its power from the transmission network, the power is stepped down with a transformer and sent to a bus from which feeders fan out in all directions across the countryside. These feeders carry three-phase power, and tend to follow the major streets near the substation. As the distance from the substation grows, the fanout continues as smaller laterals spread out to cover areas missed by the feeders. This tree-like structure grows outward from the substation, but for reliability reasons, usually contains at least one unused backup connection to a nearby substation. This connection can be enabled in case of an emergency, so that a portion of a substation's service territory can be alternatively fed by another substation.
+Wide area synchronous grid[edit]
+Main article: Wide area synchronous grid
+A wide area synchronous grid or "interconnection" is a group of distribution areas all operating with alternating current (AC) frequencies synchronized (so that peaks occur at the same time). This allows transmission of AC power throughout the area, connecting a large number of electricity generators and consumers and potentially enabling more efficient electricity markets and redundant generation. Interconnection maps are shown of North America (right) and Europe (below left).
+A large failure in one part of the grid - unless quickly compensated for - can cause current to re-route itself to flow from the remaining generators to consumers over transmission lines of insufficient capacity, causing further failures. One downside to a widely connected grid is thus the possibility of cascading failure and widespread power outage. A central authority is usually designated to facilitate communication and develop protocols to maintain a stable grid. For example, the North American Electric Reliability Corporation gained binding powers in the United States in 2006, and has advisory powers in the applicable parts of Canada and Mexico. The U.S. government has also designated National Interest Electric Transmission Corridors, where it believes transmission bottlenecks have developed.
+Some areas, for example rural communities in Alaska, do not operate on a large grid, relying instead on local diesel generators.[10]
+High-voltage direct current lines or variable-frequency transformers can be used to connect two alternating current interconnection networks which are not necessarily synchronized with each other. This provides the benefit of interconnection without the need to synchronize an even wider area. For example, compare the wide area synchronous grid map of Europe (above left) with the map of HVDC lines (below right).
+Redundancy and defining "grid"[edit]
+A town is only said to have achieved grid connection when it is connected to several redundant sources, generally involving long-distance transmission.
+This redundancy is limited. Existing national or regional grids simply provide the interconnection of facilities to utilize whatever redundancy is available. The exact stage of development at which the supply structure becomes a grid is arbitrary. Similarly, the term national grid is something of an anachronism in many parts of the world, as transmission cables now frequently cross national boundaries. The terms distribution grid for local connections and transmission grid for long-distance transmissions are therefore preferred, but national grid is often still used for the overall structure.
+Interconnected Grid[edit]
+Electric utilities across regions are many times interconnected for improved economy and reliability. Interconnections allow for economies of scale, allowing energy to be purchased from large, efficient sources. Utilities can draw power from generator reserves from a different region in order to ensure continuing, reliable power and diversify their loads. Interconnection also allows regions to have access to cheap bulk energy by receiving power from different sources. For example, one region may be producing cheap hydro power during high water seasons, but in low water seasons, another area may be producing cheaper power through wind, allowing both regions to access cheaper energy sources from one another during different times of the year. Neighboring utilities also help others to maintain the overall system frequency and also help manage tie transfers between utility regions.[7]
+Aging infrastructure[edit]
+Despite the novel institutional arrangements and network designs of the electrical grid, its power delivery infrastructures suffer aging across the developed world. Contributing factors to the current state of the electric grid and its consequences include:
+Aging equipment  older equipment has higher failure rates, leading to customer interruption rates affecting the economy and society; also, older assets and facilities lead to higher inspection maintenance costs and further repair and restoration costs.
+Obsolete system layout  older areas require serious additional substation sites and rights-of-way that cannot be obtained in current area and are forced to use existing, insufficient facilities.
+Outdated engineering  traditional tools for power delivery planning and engineering are ineffective in addressing current problems of aged equipment, obsolete system layouts, and modern deregulated loading levels.
+Old cultural value  planning, engineering, operating of system using concepts and procedures that worked in vertically integrated industry exacerbate the problem under a deregulated industry.[11]
+Modern trends[edit]
+As the 21st century progresses, the electric utility industry seeks to take advantage of novel approaches to meet growing energy demand. Utilities are under pressure to evolve their classic topologies to accommodate distributed generation. As generation becomes more common from rooftop solar and wind generators, the differences between distribution and transmission grids will continue to blur. Also, demand response is a grid management technique where retail or wholesale customers are requested either electronically or manually to reduce their load. Currently, transmission grid operators use demand response to request load reduction from major energy users such as industrial plants.[12]
+With everything interconnected, and open competition occurring in a free market economy, it starts to make sense to allow and even encourage distributed generation (DG). Smaller generators, usually not owned by the utility, can be brought on-line to help supply the need for power. The smaller generation facility might be a home-owner with excess power from their solar panel or wind turbine. It might be a small office with a diesel generator. These resources can be brought on-line either at the utility's behest, or by owner of the generation in an effort to sell electricity. Many small generators are allowed to sell electricity back to the grid for the same price they would pay to buy it. Furthermore, numerous efforts are underway to develop a "smart grid". In the U.S., the Energy Policy Act of 2005 and Title XIII of the Energy Independence and Security Act of 2007 are providing funding to encourage smart grid development. The hope is to enable utilities to better predict their needs, and in some cases involve consumers in some form of time-of-use based tariff. Funds have also been allocated to develop more robust energy control technologies.[13][14]
+Various planned and proposed systems to dramatically increase transmission capacity are known as super, or mega grids. The promised benefits include enabling the renewable energy industry to sell electricity to distant markets, the ability to increase usage of intermittent energy sources by balancing them across vast geological regions, and the removal of congestion that prevents electricity markets from flourishing. Local opposition to siting new lines and the significant cost of these projects are major obstacles to super grids. One study for a European super grid estimates that as much as 750 GW of extra transmission capacity would be required- capacity that would be accommodated in increments of 5 GW HVDC lines. A recent proposal by Transcanada priced a 1,600-km, 3-GW HVDC line at $3 billion USD and would require a corridor wide. In India, a recent 6 GW, 1,850-km proposal was priced at $790 million and would require a wide right of way. With 750 GW of new HVDC transmission capacity required for a European super grid, the land and money needed for new transmission lines would be considerable.
+Future trends[edit]
+Smart Grid[edit]
+The electrical grid is expected to evolve to a new grid paradigm: the smart grid, an enhancement of the 20th century electrical grid. The traditional electrical grids are generally used to carry power from a few central generators to a large number of users or customers. In contrast, the new emerging smart grid uses two-way ows of electricity and information to create an automated and distributed advanced energy delivery network.
+Many research projects have been conducted to explore the concept of smart grid. According to a newest survey on smart grid,[15] the research is mainly focused on three systems in smart grid- the infrastructure system, the management system, and the protection system.
+The infrastructure system is the energy, information, and communication infrastructure underlying of the smart grid that supports
+advanced electricity generation, delivery, and consumption;
+advanced information metering, monitoring, and management; and
+advanced communication technologies.
+In the transition from the conventional power grid to smart grid, we will replace a physical infrastructure with a digital one. The needs and changes present the power industry with one of the biggest challenges it has ever faced.
+A smart grid would allow the power industry to observe and control parts of the system at higher resolution in time and space.[16] It would allow for customers to obtain cheaper, greener, less intrusive, more reliable and higher quality power from the grid. The legacy grid did not allow for real time information to be relayed from the grid, so one of the main purposes of the smart grid would be to allow real time information to be received and sent from and to various parts of the grid to make operation as efficient and seamless as possible. It would allow us to manage logistics of the grid and view consequences that arise from its operation on a time scale with high resolution; from high-frequency switching devices on a microsecond scale, to wind and solar output variations on a minute scale, to the future effects of the carbon emissions generated by power production on a decade scale.
+The management system is the subsystem in smart grid that provides advanced management and control services. Most of the existing works aim to improve energy efciency, demand prole, utility, cost, and emission, based on the infrastructure by using optimization, machine learning, and game theory. Within the advanced infrastructure framework of smart grid, more and more new management services and applications are expected to emerge and eventually revolutionize consumers' daily lives.
+The protection system is the subsystem in smart grid that provides advanced grid reliability analysis, failure protection, and security and privacy protection services. The advanced infrastructure used in smart grid on one hand empowers us to realize more powerful mechanisms to defend against attacks and handle failures, but opens up new vulnerabilities. For example, National Institute of Standards and Technology pointed out that the major benefit provided by smart grid, the ability to get richer data to and from customer smart meters and other electric devices, also give major privacy concerns, since the energy use information stored at the meter acts as an information-rich side channel. This information could be mined and retrieved by interested parties to reveal personal information such as individual's habits, behaviors, activities, and even beliefs.[citation needed]
+Grid Defection[edit]
+As there is some resistance in the electric utility sector to the concepts of distributed generation with various renewable energy sources and microscale cogen units, several authors have warned that mass-scale grid defection is possible because consumers can produce electricity using off grid systems primarily made up of solar photovoltaic technology.[17][18][19]
+The Rocky Mountain Institute has proposed that there may wide scale grid defection.[20] This is backed up by studies in the Midwest.[21]
+References[edit]
+Wikimedia Commons has media related to Power grids.
+^ Kaplan, S. M. (2009). Smart Grid. Electrical Power Transmission: Background and Policy Issues. The Capital.Net, Government Series. Pp. 1-42.
+^ a b Borberly, A. and Kreider, J. F. (2001). Distributed Generation: The Power Paradigm for the New Millennium. CRC Press, Boca Raton, FL. 400 pgs.
+^ Mr Alan Shaw (29 September 2005). "Kelvin to Weir, and on to GB SYS 2005" (PDF). Royal Society of Edinburgh.
+^ "Survey of Belford 1995". North Northumberland Online.
+^ "Lighting by electricity". The National Trust.
+^ Mazer, A. (2007). Electric Power Planning for Regulated and Deregulated Markets. John, Wiley, and Sons, Inc., Hoboken, NJ. 313pgs.
+^ a b . (2001). Glover J. D., Sarma M. S., Overbye T. J. (2010) Power System and Analysis 5th Edition. Cengage Learning. Pg 10.
+^ http://www.springer.com/cda/content/document/cda_downloaddocument/9789812871152-c2.pdf?SGWID=0-0-45-1466523-p176786301
+^ Abdelhay A. Sallam and Om P. Malik (May 2011). Electric Distribution Systems. IEEE Computer Society Press. p.21. ISBN9780470276822.
+^ Energy profile of Alaska, United States, Editor: Cutler J. Cleveland, Last Updated: July 30, 2008 - Encyclopedia of Earth
+^ Willis, H. L., Welch, G. V., and Schrieber, R. R. (2001). Aging Power Delivery Infrastructures. Marcel Dekker, Inc.: New York. 551 pgs.
+^ "Industry Cross-Section Develops Action Plans at PJM Demand Response Symposium". Reuters. 2008-08-13. Retrieved 2008-11-22. Demand response can be achieved at the wholesale level with major energy users such as industrial plants curtailing power use and receiving payment for participating.
+^ "U.S. Energy Independence and Security Act of 2007". Retrieved 2007-12-23.[dead link]
+^ DOE Provides up to $51.8 Million to Modernize the U.S. Electric Grid System, June 27, 2007, U.S. Department of Energy (DOE)
+^ Smart Grid - The New and Improved Power Grid: A Survey; IEEE Communications Surveys and Tutorials 2011; X. Fang, S. Misra, G. Xue, and D. Yang; doi:10.1109/SURV.2011.101911.00087.
+^ Alexandra Von Meier (2013). Electrical Engineer 137A: Electric Power Systems. Lecture 2:Introduction to Electric Power Systems, Slide 33.
+^ Abhilash Kantamneni, Richelle Winkler, Lucia Gauchia, Joshua M. Pearce, free open access Emerging economic viability of grid defection in a northern climate using solar hybrid systems. Energy Policy 95, 378389 (2016). doi: 10.1016/j.enpol.2016.05.013
+^ Khalilpour, R. and Vassallo, A., 2015. Leaving the grid: An ambition or a real choice?. Energy Policy, 82, pp.207-221.
+^ Kumagai, J., 2014. The rise of the personal power plant. IEEE Spectrum,51(6), pp.54-59.
+^ The Economics of Grid Defection - Rocky Mountain Institute http://www.rmi.org/electricity_grid_defection
+^ Andy Balaskovitz Net metering changes could drive people off grid, Michigan researchers say - MidWest Energy News
+External links[edit]
+Map of U.S. generation and transmission
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+v
+t
+e
+Modernizing the Electrical grid
+Proposals
+EU
+SuperSmart Grid
+Smartgrids Technology Platform
+USA
+Unified Smart Grid
+Pickens plan super grid
+Electranet
+Efficient energy use
+Smart grid
+Smart meter
+Nonintrusive load monitoring
+Demand response
+Demand management
+Dynamic demand
+Negawatts
+Other technologies/
+concepts
+HVDC bulk transmission
+FACTS
+Power line communication
+Phasor measurement unit
+Load following
+Load control
+Peak demand
+Power-to-X
+Policies
+Renewable energy policy
+Feed-in Tariff
+Net metering
+Renewable Energy Certificates
+Renewable energy payments
+Soft energy path
+Carbon capture and storage
+Related Issues
+Energy security
+Climate change
+United States energy independence
+Peak oil
+Energy crisis
+Renewable energy commercialization
+Rural electrification
+Categories
+Energy policy
+Electricity economics
+Portals
+Energy
+Renewable energy
+Sustainable development
+Authority control
+NDL: 00561411
+NewPP limit report
+Parsed by mw1288
+Cached time: 20161119150725
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.308 seconds
+Real time usage: 0.410 seconds
+Preprocessor visited node count: 1696/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 63857/2097152 bytes
+Template argument size: 2305/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.125/10.000 seconds
+Lua memory usage: 5.62 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+337.323
+1 - -total
+25.09%
+84.625
+1 - Template:Reflist
+14.16%
+47.766
+1 - Template:Commons_category
+13.29%
+44.837
+4 - Template:Cite_web
+11.07%
+37.356
+1 - Template:Contradicts_other
+10.89%
+36.722
+2 - Template:Ambox
+9.99%
+33.698
+1 - Template:Multiple_image
+9.17%
+30.920
+3 - Template:Navbox
+9.10%
+30.698
+2 - Template:Fix
+8.89%
+29.980
+1 - Template:Citation_needed
+Saved in parser cache with key enwiki:pcache:idhash:20344155-0!*!0!!en!4!* and timestamp 20161119150729 and revision id 750405521
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Electrical_grid&oldid=750405521"
+Categories: Electric power distributionElectric power transmission systemsElectrical gridHidden categories: All articles with dead external linksArticles with dead external links from February 2010Articles contradicting other articlesArticles with limited geographic scope from February 2010All articles with unsourced statementsArticles with unsourced statements from June 2016Commons category with local link same as on Wikidata

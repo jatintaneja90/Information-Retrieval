@@ -1,0 +1,838 @@
+Planetaryboundaries
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Not to be confused with Planetary boundary layer.
+Planetary boundaries according to Rockstrm et al. 2009[1] and Steffen et al. 2015.[2] The green areas represent human activities that are within safe margins, the yellow areas represent human activities that may or may not have exceeded safe margins, the red areas represent human activities that have exceeded safe margins, and the gray areas with red question marks represent human activities for which safe margins have not yet been determined.
+Planetary boundaries is the central concept in an Earth system framework proposed by a group of Earth system and environmental scientists led by Johan Rockstrm from the Stockholm Resilience Centre and Will Steffen from the Australian National University. In 2009, the group proposed a framework of planetary boundaries designed to define a safe operating space for humanity for the international community, including governments at all levels, international organizations, civil society, the scientific community and the private sector, as a precondition for sustainable development. This framework is based on scientific research that indicates that since the Industrial Revolution, human actions have gradually become the main driver of global environmental change. The scientists assert that once human activity has passed certain thresholds or tipping points, defined as planetary boundaries, there is a risk of irreversible and abrupt environmental change.[3] The scientists identified nine Earth system processes which have boundaries that, to the extent that they are not crossed, mark the safe zone for the planet. However, because of human activities some of these dangerous boundaries have already been crossed, while others are in imminent danger of being crossed.[4]
+Rockstrm and Steffen collaborated with 26 leading academics, including Nobel laureate Paul Crutzen, Goddard Institute for Space Studies climate scientist James Hansen and the German Chancellor's chief climate adviser Hans Joachim Schellnhuber. The group identified nine "planetary life support systems" essential for human survival, and attempted to quantify just how far seven of these systems have been pushed already. They then estimated how much further we can go before our own survival is threatened; beyond these boundaries there is a risk of "irreversible and abrupt environmental change" which could make Earth less habitable.[1] Estimates indicate that three of these boundariesclimate change, biodiversity loss, and the biogeochemical flow boundaryappear to have been crossed. The boundaries are "rough, first estimates only, surrounded by large uncertainties and knowledge gaps" that interact in ways that are complex and not well understood. Boundaries can help identify where there is room and define a "safe space for human development", which is an improvement on approaches which aim at just minimizing human impacts on the planet.[1]
+The group published their full findings in a 2009 report[1] and presented it to the General Assembly of the Club of Rome in Amsterdam.[5] An edited summary of the report was subsequently published as the featured article in a special edition of Nature.[6] Nature also published critical commentary from leading academics they invited to comment on each of the seven planetary boundaries which had been quantified, including comments from Nobel laureate Mario J. Molina and biologist Cristin Samper.[7]
+Contents
+1 Background
+1.1 The idea of planetary boundaries or limits
+1.2 From Holocene to Anthropocene
+2 The nine boundaries
+3 Debate on the framework
+4 Debate on the boundaries
+4.1 Climate change
+4.2 Biodiversity loss
+4.3 Biogeochemical
+4.3.1 Nitrogen cycle
+4.3.2 Phosphorus
+4.4 Ocean acidification
+4.5 Land use
+4.6 Freshwater
+4.7 Ozone depletion
+4.8 Atmospheric aerosols
+4.9 Chemical pollution
+5 Interaction among boundaries
+6 Subsequent developments
+6.1 The doughnut
+6.2 Tenth boundary
+6.3 United Nations endorsement
+6.4 2015 update
+6.5 Other commentary
+7 See also
+8 Notes
+9 References
+10 Further reading
+11 Books
+12 External links
+Background[edit]
+The idea of planetary boundaries or limits[edit]
+The planet Earth is a finite system, which means it has limits
+The idea that our planet has limits, including the burden placed upon it by human activities, has been around for some time. In 1972, The Limits to Growth was published. It presented a model in which five variables: world population, industrialization, pollution, food production, and resources depletion, are examined, and considered to grow exponentially, whereas the ability of technology to increase resources availability is only linear.[8] Subsequently, the report was widely dismissed, particularly by economists and businessmen,[9] and it has often been claimed that history has proved the projections to be incorrect.[10] In 2008, Graham Turner from the Commonwealth Scientific and Industrial Research Organisation (CSIRO) published "A comparison of The Limits to Growth with thirty years of reality".[11] Turner found that the observed historical data from 1970 to 2000 closely matches the simulated results of the "standard run" limits of growth model for almost all the outputs reported. "The comparison is well within uncertainty bounds of nearly all the data in terms of both magnitude and the trends over time."[11] Turner also examined a number of reports, particularly by economists, which over the years have purported to discredit the limits-to-growth model. Turner says these reports are flawed, and reflect misunderstandings about the model.[11] In 2010, Nrgrd, Peet and Ragnarsdttir called the book a "pioneering report", and said that it "has withstood the test of time and, indeed, has only become more relevant."[12]
+With few exceptions, economics as a discipline has been dominated by a perception of living in an unlimited world, where resource and pollution problems in one area were solved by moving resources or people to other parts. The very hint of any global limitation as suggested in the report The Limits to Growth was met with disbelief and rejection by businesses and most economists. However, this conclusion was mostly based on false premises.
+ Meyer & Nrgrd (2010).
+Our Common Future[13] was published in 1987 by United Nations' World Commission on Environment and Development. It tried to recapture the spirit of the Stockholm Conference. Its aim was to interlock the concepts of development and environment for future political discussions. It introduced the famous definition for sustainable development:
+
+development that meets the needs of the present without compromising the ability of future generations to meet their own needs.
+
+Brundtland Report 1987
+Of a different kind is the approach made by James Lovelock. In the 1970s he and microbiologist Lynn Margulis presented the Gaia theory or hypothesis, that states that all organisms and their inorganic surroundings on Earth are integrated into a single self-regulating system.[14] The system has the ability to react to perturbations or deviations, much like a living organism adjusts its regulation mechanisms to accommodate environmental changes such as temperature (homeostasis). Nevertheless, this capacity has limits. For instance, when a living organism is subjected to a temperature that is lower or higher than its living range, it can perish because its regulating mechanism cannot make the necessary adjustments. Similarly the Earth may not be able to react to large deviations in critical parameters. In his book The Revenge of Gaia, he affirms that the destruction of rainforests and biodiversity, compounded with the increase of greenhouse gases made by humans, is producing global warming.
+From Holocene to Anthropocene[edit]
+Our planets ability to provide an accommodating environment for humanity is being challenged by our own activities. The environmentour life-support systemis changing rapidly from the stable Holocene state of the last 12,000 years, during which we developed agriculture, villages, cities, and contemporary civilizations, to an unknown future state of significantly different conditions.
+ Steffen, Rockstrm & Costanza (2011)
+The Holocene began about 10,000 years ago. It is the current interglacial period, and it has proven to be a relatively stable environment of the Earth. There have been natural environmental fluctuations during the Holocene, but the key atmospheric and biogeochemical parameters have been relatively stable.[15] This stability and resilience has allowed agriculture to develop and complex societies to thrive.[16] According to Rockstrm et al., we "have now become so dependent on those investments for our way of life, and how we have organized society, technologies, and economies around them, that we must take the range within which Earth System processes varied in the Holocene as a scientific reference point for a desirable planetary state."[1]
+External image
+The last glacial cycle of 18O indicative of the stability of the Holocene over the last 10,000 years
+Adapted from Young & Steffen (2009)
+Since the industrial revolution, according to Paul Crutzen, Will Steffen and others, the planet has entered a new epoch, the Anthropocene. In the Anthropocene, humans have become the main agents of change to the Earth system.[17] There have been well publicized scientific warnings about risks in the areas of climate change and stratospheric ozone.[18] However, other biophysical processes are also important.[19] For example, since the advent of the Anthropocene, the rate at which species are being extinguished has increased over 100 times,[20] and humans are now the driving force altering global river flows[21] as well as water vapor flows from the land surface.[22] Continuing pressure on the Earth's biophysical systems from human activities raises concerns that further pressure could be destabilizing, and precipitate sudden or irreversible changes to the environment. It is difficult to address the issue, because the predominant paradigms of social and economic development are largely indifferent to the looming possibilities of large scale environmental disasters triggered by humans.[23]
+The nine boundaries[edit]
+Thresholds and boundaries
+The threshold, or climatological tipping point, is the value at which a very small increment for the control variable (like CO2) produces a large, possibly catastrophic, change in the response variable (global warming).
+The threshold points are difficult to locate, because the Earth System is very complex. Instead of defining the threshold value, the study establishes a range, and the threshold is supposed to lie inside it. The lower end of that range is defined as the boundary. Therefore, it defines a safe space, in the sense that as long as we are below the boundary, we are below the threshold value. If the boundary is crossed, we enter into a danger zone.[1]
+Planetary Boundaries[24]
+Earth-system process
+Control variable[25]
+Boundary
+value
+Current
+value
+Boundary crossed
+Preindustrial
+value
+Commentary
+1. Climate change
+Atmospheric carbon dioxide concentration (ppm by volume)[26]
+See also: Tipping point (climatology)
+350
+400
+yes
+280
+[27]
+Alternatively: Increase in radiative forcing (W/m2) since the start of the industrial revolution (~1750)
+1.0
+1.5
+yes
+0
+[28]
+2. Biodiversity loss
+Extinction rate (number of species per million per year)
+10
+> 100
+yes
+0.11
+[29]
+3. Biogeochemical
+(a) anthropogenic nitrogen removed from the atmosphere (millions of tonnes per year)
+35
+121
+yes
+0
+[30]
+(b) anthropogenic phosphorus going into the oceans (millions of tonnes per year)
+11
+8.59.5
+no
+1
+[31]
+4. Ocean acidification
+Global mean saturation state of aragonite in surface seawater (omega units)
+2.75
+2.90
+no
+3.44
+[32]
+5. Land use
+Land surface converted to cropland (percent)
+15
+11.7
+no
+low
+[33]
+6. Freshwater
+Global human consumption of water (km3/yr)
+4000
+2600
+no
+415
+[34]
+7. Ozone depletion
+Stratospheric ozone concentration (Dobson units)
+276
+283
+no
+290
+[35]
+8. Atmospheric aerosols
+Overall particulate concentration in the atmosphere, on a regional basis
+not yet quantified
+[36]
+9. Chemical pollution
+Concentration of toxic substances, plastics, endocrine disruptors, heavy metals, and radioactive contamination into the environment
+not yet quantified
+[37]
+The proposed framework of planetary boundaries lays the groundwork for shifting approach to governance and management, away from the essentially sectoral analyses of limits to growth aimed at minimizing negative externalities, toward the estimation of the safe space for human development. Planetary boundaries define, as it were, the boundaries of the planetary playing field for humanity if major human-induced environmental change on a global scale is to be avoided
+Transgressing one or more planetary boundaries may be highly damaging or even catastrophic, due to the risk of crossing thresholds that trigger non-linear, abrupt environmental change within continental- to planetary-scale systems. The 2009 study identified nine planetary boundaries and, drawing on current scientific understanding, the researchers proposed quantifications for seven of them. These seven are climate change (CO2 concentration in the atmosphere < 350 ppm and/or a maximum change of +1 W/m2 in radiative forcing); ocean acidification (mean surface seawater saturation state with respect to aragonite  80% of pre-industrial levels); stratospheric ozone (less than 5% reduction in total atmospheric O3 from a pre-industrial level of 290 Dobson Units); biogeochemical nitrogen (N) cycle (limit industrial and agricultural fixation of N2 to 35 Tg N/yr) and phosphorus (P) cycle (annual P inflow to oceans not to exceed 10 times the natural background weathering of P); global freshwater use (< 4000km3/yr of consumptive use of runoff resources); land system change (< 15% of the ice-free land surface under cropland); and the rate at which biological diversity is lost (annual rate of < 10 extinctions per million species). The two additional planetary boundaries for which the group had not yet been able to determine a boundary level are chemical pollution and atmospheric aerosol loading.
+Debate on the framework[edit]
+From the Stockholm Memorandum
+Science indicates that we are transgressing planetary boundaries that have kept civilization safe for the past 10,000 years. Evidence is growing that human pressures are starting to overwhelm the Earths buffering capacity. Humans are now the most significant driver of global change, propelling the planet into a new geological epoch, the Anthropocene. We can no longer exclude the possibility that our collective actions will trigger tipping points, risking abrupt and irreversible consequences for human communities and ecological systems.
+ Stockholm Memorandum (2011)
+The framework of planetary boundaries and the associated planetary safety zone is new and evolving. It is drawing strong responses from scientists and advisors.
+Christopher Field, director of the Carnegie Institution's Department of Global Ecology, is impressed: "This kind of work is critically important. Overall, this is an impressive attempt to define a safety zone."[38] But the conservation biologist Stuart Pimm is not impressed: "I dont think this is in any way a useful way of thinking about things The notion of a single boundary is just devoid of serious content. In what way is an extinction rate 10 times the background rate acceptable?"[38] and the environmental policy analyst Bill Clark thinks: "Tipping points in the earth system are dense, unpredictable... and unlikely to be avoidable through early warning indicators. It follows that... 'safe operating spaces' and 'planetary boundaries' are thus highly suspect and potentially the new 'opiates'."[39]
+The biogeochemist William Schlesinger queries whether thresholds are a good idea for pollutions at all. He thinks waiting until we near some suggested limit will just permit us to continue to a point where it is too late. "Management based on thresholds, although attractive in its simplicity, allows pernicious, slow and diffuse degradation to persist nearly indefinitely."[40]
+The hydrologist David Molden thinks planetary boundaries are a welcome new approach in the 'limits to growth' debate. "As a scientific organizing principle, the concept has many strengths [...] the numbers are important because they provide targets for policymakers, giving a clear indication of the magnitude and direction of change. They also provide benchmarks and direction for science. As we improve our understanding of Earth processes and complex inter-relationships, these benchmarks can and will be updated [...] we now have a tool we can use to help us think more deeplyand urgentlyabout planetary limits and the critical actions we have to take."[41]
+The ocean chemist Peter Brewer queries whether it is "truly useful to create a list of environmental limits without serious plans for how they may be achieved [...] they may become just another stick to beat citizens with. Disruption of the global nitrogen cycle is one clear example: it is likely that a large fraction of people on Earth would not be alive today without the artificial production of fertilizer. How can such ethical and economic issues be matched with a simple call to set limits? [...] food is not optional."[42]
+The environment advisor Steve Bass says the "description of planetary boundaries is a sound idea. We need to know how to live within the unusually stable conditions of our present Holocene period and not do anything that causes irreversible environmental change [] Their paper has profound implications for future governance systems, offering some of the 'wiring' needed to link governance of national and global economies with governance of the environment and natural resources. The planetary boundaries concept should enable policymakers to understand more clearly that, like human rights and representative government, environmental change knows no borders."[43]
+The climate change policy advisor Adele Morris thinks that price-based policies are also needed to avoid political and economic thresholds. "Staying within a 'safe operating space' will require staying within all the relevant boundaries, including the electorates willingness to pay."[44]
+In summary, the planetary boundary concept is a very important one, and its proposal should now be followed by discussions of the connections between the various boundaries and of their association with other concepts such as the 'limits to growth'. Importantly, this novel concept highlights the risk of reaching thresholds or tipping points for non-linear or abrupt changes in Earth-system processes. As such, it can help society to reach the agreements required for dealing effectively with existing global environmental threats, such as climate change.
+ Nobel laureate MarioJ.Molina[45]
+In their report (2012) entitled "Resilient People, Resilient Planet: A future worth choosing," The High-level Panel on Global Sustainability called for bold global efforts, "including launching a major global scientific initiative, to strengthen the interface between science and policy. We must define, through science, what scientists refer to as planetary boundaries, environmental thresholds and tipping points."[46]
+In 2011, at their second meeting, the High-level Panel on Global Sustainability[47] of the United Nations had incorporated the concept of planetary boundaries into their framework, stating that their goal was: "To eradicate poverty and reduce inequality, make growth inclusive, and production and consumption more sustainable while combating climate change and respecting the range of other planetary boundaries."[48]
+Elsewhere in their proceedings, panel members have expressed reservations about the political effectiveness of using the concept of "planetary boundaries": "Planetary boundaries are still an evolving concept that should be used with caution [] The planetary boundaries question can be divisive as it can be perceived as a tool of the North to tell the South not to follow the resource intensive and environmentally destructive development pathway that rich countries took themselves This language is unacceptable to most of the developing countries as they fear that an emphasis on boundaries would place unacceptable brakes on poor countries."[49]
+However, the concept is routinely used in the proceedings of the United Nations,[50] and in the UN Daily News. For example, the UNEP Executive Director Achim Steiner states that the challenge of agriculture is to "feed a growing global population without pushing humanity's footprint beyond planetary boundaries."[51] The United Nations Environment Programme (UNEP) Yearbook 2010 also repeated Rockstrm's message, conceptually linking it with ecosystem management and environmental governance indicators.[52]
+The planetary boundaries concept is also used in proceedings by the European Commission,[53] and was referred to in the European Environment Agency synthesis report The European environment  state and outlook 2010.[54]
+Debate on the boundaries[edit]
+There is debate about which boundaries are most relevant, and how or whether they can be usefully quantified.
+Climate change[edit]
+The black line shows the atmospheric carbon dioxide concentration for the period 18802008. Red bars show temperatures above and blue bars show temperatures below the average temperature. Year-to-year temperature fluctuations are due to natural processes, such as the effects of El Nio, La Nia, and the eruption of large volcanoes.[55]
+Radiative forcing is a measure of the difference between the incoming radiation energy and the outgoing radiation energy acting across the boundary of the earth. Positive radiative forcing results in warming. From the start of the industrial revolution in 1750 to 2005, the increase in atmospheric carbon dioxide has led to a positive radiative forcing, averaging about 1.66W/m.[56]
+The climate scientist Myles Allen thinks setting "a limit on long-term atmospheric carbon dioxide concentrations merely distracts from the much more immediate challenge of limiting warming to 2 C." He says the concentration of carbon dioxide is not a control variable we can "meaningfully claim to control", and he questions whether keeping carbon dioxide levels below 350 ppm will avoid more than 2C of warming.[28]
+Adele Morris, policy director, Climate and Energy Economics Project, Brookings Institution, makes a criticism from the economical-political point of view. She puts emphasis in choosing policies that minimize costs and preserve consensus. She favors a system of green-house gas emissions tax, and emissions trading, as ways to prevent global warming. She thinks that too-ambitious objectives, like the boundary limit on CO2, may discourage such actions.[44]
+Biodiversity loss[edit]
+According to the biologist Cristin Samper, a " boundary that expresses the probability of families of species disappearing over time would better reflect our potential impacts on the future of life on Earth."[57]
+The conservation ecologist Gretchen Daily claims that "it is time to confront the hard truth that traditional approaches to conservation, taken alone, are doomed to fail. Nature reserves are too small, too few, too isolated and too subject to change to support more than a tiny fraction of Earths biodiversity. The challenge is to make conservation attractivefrom economic and cultural perspectives. We cannot go on treating nature like an all-you-can-eat buffet. We depend on nature for food security, clean water, climate stability, seafood, timber, and other biological and physical services. To maintain these benefits, we need not just remote reserves but places everywheremore like 'ecosystem service stations.' A few pioneers are integrating conservation and human development. The Costa Rican government is paying landowners for ecosystem services from tropical forests, including carbon offsets, hydropower production, biodiversity conservation and scenic beauty. China is investing $100 billion in ecocompensation, including innovative policy and finance mechanisms that reward conservation and restoration. The country is also creating ecosystem function conservation areas that make up 18 percent of its land area. Colombia and South Africa have made dramatic policy changes, too. Three advances would help the rest of the world scale such models of success. One: new science and tools to value and account for natural capital, in biophysical, economic and other terms [...] Two: compelling demonstrations of such tools in resource policy. Three: cooperation among governments, development organizations, corporations and communities to help nations build more durable economies while also maintaining critical ecosystem services."[58]
+Biogeochemical[edit]
+Nitrogen cycle
+Nitrogen cycle[edit]
+Since the industrial revolution, the Earth's nitrogen cycle has been disturbed even more than the carbon cycle. "Human activities now convert more nitrogen from the atmosphere into reactive forms than all of the Earths terrestrial processes combined. Much of this new reactive nitrogen pollutes waterways and coastal zones, is emitted back to the atmosphere in changed forms, or accumulates in the terrestrial biosphere."[59] Only a small part of the fertilizers applied in agriculture is used by plants. Most of the nitrogen and phosphorus ends up in rivers, lakes and the sea, where excess amounts stress aquatic ecosystems. For example, fertilizer which discharges from rivers into the Gulf of Mexico has damaged shrimp fisheries because of hypoxia.[59]
+The biogeochemist William Schlesinger thinks waiting until we near some suggested limit for nitrogen deposition and other pollutions will just permit us to continue to a point where it is too late. He says the boundary suggested for phosphorus is not sustainable, and would exhaust the known phosphorus reserves in less than 200 years.[40]
+With regard to nitrogen, the biogeochemist and ecosystem scientist Robert Howarth says: "Human activity has greatly altered the flow of nitrogen across the globe. The single largest contributor is fertilizer use. But the burning of fossil fuels actually dominates the problem in some regions, such as the northeastern U.S. The solution in that case is to conserve energy and use it more efficiently. Hybrid vehicles are another excellent fix; their nitrogen emissions are significantly less than traditional vehicles because their engines turn off while the vehicle is stopped. (Emissions from conventional vehicles actually rise when the engine is idling.) Nitrogen emissions from U.S. power plants could be greatly reduced, too, if plants that predate the Clean Air Act and its amendments were required to comply; these plants pollute far out of proportion to the amount of electricity they produce.
+In agriculture, many farmers could use less fertilizer, and the reductions in crop yields would be small or nonexistent. Runoff from corn fields is particularly avoidable because corns roots penetrate only the top few inches of soil and assimilate nutrients for only two months of the year. In addition, nitrogen losses can be reduced by 30 percent or more if farmers plant winter cover crops, such as rye or wheat, which can help the soil hold nitrogen. These crops also increase carbon sequestration in soils, mitigating climate change. Better yet is to grow perennial plants such as grasses rather than corn; nitrogen losses are many times lower. Nitrogen pollution from concentrated animal feeding operations (CAFOs) is a huge problem.
+As recently as the 1970s, most animals were fed local crops, and the animals wastes were returned to the fields as fertilizer. Today most U.S. animals are fed crops grown hundreds of miles away, making it uneconomical to return the manure. The solution? Require CAFO owners to treat their wastes, just as municipalities must do with human wastes. Further, if we ate less meat, less waste would be generated and less synthetic fertilizer would be needed to grow animal feed. Eating meat from animals that are range-fed on perennial grasses would be ideal. The explosive growth in the production of ethanol as a biofuel is greatly aggravating nitrogen pollution. Several studies have suggested that if mandated U.S. ethanol targets are met, the amount of nitrogen flowing down the Mississippi River and fueling the Gulf of Mexico dead zone may increase by 30 to 40 percent. The best alternative would be to forgo the production of ethanol from corn. If the country wants to rely on biofuels, it should instead grow grasses and trees and burn these to co-generate heat and electricity; nitrogen pollution and greenhouse gas emissions would be much lower."[60]
+Phosphorus[edit]
+Further information: Peak phosphorus
+With regard to phosphorus, the ocean engineer David Vaccari says that the most sustainable environmental flow of phosphorus "would be the natural flux: seven million metric tons per year (Mt/yr). To hit that mark yet satisfy our usage of 22 Mt/yr, we would have to recycle or reuse 72 percent of our phosphorus [] The flow could be reduced with existing technologies [lowering] the loss to waterways from 22 to 8.25 Mt/yr, not very much above the natural flux."[61]
+Peak phosphorus is a concept to describe the point in time at which the maximum global phosphorus production rate is reached. Phosphorus is a scarce finite resource on earth and means of production other than mining are unavailable because of its non-gaseous environmental cycle.[62] According to some researchers, Earth's phosphorus reserves are expected to be completely depleted in 50100 years and peak phosphorus to be reached in approximately 2030.[63][64]
+Estimated change in sea surface pH from the pre-industrial period (1700s) to the present day (1990s).  pH is in standard pH units.[65]
+Ocean acidification[edit]
+Surface ocean acidity has increased thirty percent since the industrial revolution. About one quarter of the additional carbon dioxide generated by humans is dissolved in the oceans, where it forms carbonic acid. This acidity inhibits the ability of corals, shellfish and plankton to build shells and skeletons. Knock-on effects could have serious consequences for fish stocks. This boundary is clearly interconnected with the climate change boundaries, since the concentration of carbon dioxide in the atmosphere is also the underlying control variable for the ocean acidification boundary.[59]
+The ocean chemist Peter Brewer thinks "ocean acidification has impacts other than simple changes in pH, and these may need boundaries too."[42]
+The marine chemist Scott Doney thinks "the main tactics are raising energy efficiency, switching to renewable and nuclear power, protecting forests and exploring carbon sequestration technologies. Regionally, nutrient runoff to coastal waters not only creates dead zones but also amplifies acidification. The excess nutrients cause more phytoplankton to grow, and as they die the added CO2 from their decay acidifies the water. We have to be smarter about how we fertilize fields and lawns and treat livestock manure and sewage [] Locally, acidic water could be buffered with limestone or chemical bases produced electrochemically from seawater and rocks. More practical may be protecting specific shellfish beds and aquaculture fisheries. Larval mollusks such as clams and oysters appear to be more susceptible to acidification than adults, and recycling old clamshells into the mud may help buffer pH and provide better substrate for larval attachment. The drop in ocean pH is expected to accelerate in coming decades, so marine ecosystems will have to adapt. We can enhance their chances for success by reducing other insults such as water pollution and overfishing, making them better able to withstand some acidification while we transition away from a fossil-fuel energy economy."[66]
+Land use[edit]
+Europe land use map. Human land uses include arable farmland (yellow) and pasture (light green)
+Across the planet, forests, wetlands and other vegetation types are being converted to agricultural and other land uses, impacting freshwater, carbon and other cycles, and reducing biodiversity.[59]
+The environment advisor Steve Bass says research tells us that "the sustainability of land use depends less on percentages and more on other factors. For example, the environmental impact of 15 per cent coverage by intensively farmed cropland in large blocks will be significantly different from that of 15 per cent of land farmed in more sustainable ways, integrated into the landscape. The boundary of 15 per cent land-use change is, in practice, a premature policy guideline that dilutes the authors' overall scientific proposition. Instead, the authors might want to consider a limit on soil degradation or soil loss. This would be a more valid and useful indicator of the state of terrestrial health."[67]
+The Earth systems scientist Eric Lambin thinks that "intensive agriculture should be concentrated on land that has the best potential for high-yield crops [] We can avoid losing the best agricultural land by controlling land degradation, freshwater depletion and urban sprawl. This step will require zoning and the adoption of more efficient agricultural practices, especially in developing countries. The need for farmland can be lessened, too, by decreasing waste along the food distribution chain, encouraging slower population growth, ensuring more equitable food distribution worldwide and significantly reducing meat consumption in rich countries."[68]
+Freshwater[edit]
+Overexploitation of groundwater from an aquifer can result in a peak water curve.[69]
+Human pressures on global freshwater systems are having dramatic effects. The freshwater cycle is another boundary significantly affected by climate change.[59] Freshwater resources, such as lakes and aquifers, are usually renewable resources which naturally recharge (the term fossil water is sometimes used to describe aquifers which don't recharge). Overexploitation occurs if a water resource is mined or extracted at a rate that exceeds the recharge rate. Recharge usually comes from area streams, rivers and lakes. Forests enhance the recharge of aquifers in some locales, although generally forests are a major source of aquifer depletion.[70] Depleted aquifers can become polluted with contaminants such as nitrates, or permanently damaged through subsidence or through saline intrusion from the ocean. This turns much of the world's underground water and lakes into finite resources with peak usage debates similar to oil.[71] Though Hubbert's original analysis did not apply to renewable resources, their overexploitation can result in a Hubbert-like peak. A modified Hubbert curve applies to any resource that can be harvested faster than it can be replaced.[69]
+The hydrologist Peter Gleick comments: "Few rational observers deny the need for boundaries to freshwater use. More controversial is defining where those limits are or what steps to take to constrain ourselves within them. Another way to describe these boundaries is the concept of peak water. Three different ideas are useful. 'Peak renewable' water limits are the total renewable flows in a watershed. Many of the worlds major rivers are already approaching this thresholdwhen evaporation and consumption surpass natural replenishment from precipitation and other sources. 'Peak nonrenewable' limits apply where human use of water far exceeds natural recharge rates, such as in fossil groundwater basins of the Great Plains, Libya, India, northern China and parts of Californias Central Valley. 'Peak ecological' water is the idea that for any hydrological system, increasing withdrawals eventually reach the point where any additional economic benefit of taking the water is outweighed by the additional ecological destruction that causes. Although it is difficult to quantify this point accurately, we have clearly passed the point of peak ecological water in many basins around the world where huge damage has occurred [] The good news is that the potential for savings, without hurting human health or economic productivity, is vast. Improvements in water-use efficiency are possible in every sector. More food can be grown with less water (and less water contamination) by shifting from conventional flood irrigation to drip and precision sprinklers, along with more accurately monitoring and managing soil moisture. Conventional power plants can change from water cooling to dry cooling, and more energy can be generated by sources that use extremely little water, such as photovoltaics and wind."[72]
+The hydrologist David Molden says "a global limit on water consumption is necessary, but the suggested planetary boundary of 4,000 cubic kilometres per year is too generous."[41]
+Ozone depletion[edit]
+Main article: Ozone depletion
+During 2130 September 2006 the average area of the Antarctic ozone hole was the largest ever observed
+The stratospheric ozone layer protectively filters ultraviolet radiation (UV) from the Sun, which would otherwise damage biological systems. The actions taken after the Montreal Protocol appeared to be keeping the planet within a safe boundary.[59] However, in 2011, according to a paper published in Nature, the boundary was unexpectedly pushed in the Arctic; "... the fraction of the Arctic vortex in March with total ozone less than 275 Dobson units (DU) is typically near zero, but reached nearly 45%".[73]
+The Nobel laureate in chemistry, Mario Molina, says "five per cent is a reasonable limit for acceptable ozone depletion, but it doesn't represent a tipping point".[45]
+The physicist David Fahey says that as a result of the Montreal Protocol "stratospheric ozone depletion will largely reverse by 2100. The gain has relied, in part, on intermediate substitutes, notably hydrochlorofluorocarbons (HCFCs), and the growing use of compounds that cause no depletion, such as hydrofluorocarbons (HFCs). Ongoing success depends on several steps:
+"Continue observing the ozone layer to promptly reveal unexpected changes. Ensure that nations adhere to regulations; for example, the HCFC phaseout will not be complete until 2030.
+"Maintain the Scientific Assessment Panel under the protocol. It attributes causes of changes in the ozone layer and evaluates new chemicals for their potential to destroy ozone and contribute to climate change.
+"Maintain the Technology and Economic Assessment Panel. It provides information on technologies and substitute compounds that helps nations assess how the demand for applications such as refrigeration, air-conditioning and foam insulation can be met while protecting the ozone layer.
+"The two panels will also have to evaluate climate change and ozone recovery together. Climate change affects ozone abundance by altering the chemical composition and dynamics of the stratosphere, and compounds such as HCFCs and HFCs are greenhouse gases. For example, the large projected demand for HFCs could significantly contribute to climate change."[74]
+Smog over southern China and Vietnam
+Atmospheric aerosols[edit]
+Aerosol particles in the atmosphere impact the health of humans and influence monsoon and global atmospheric circulation systems. Some aerosols produce clouds which cool the Earth by reflecting sunlight back to space, while others, like soot, produce thin clouds in the upper stratosphere which behave like a greenhouse, warming the Earth. On balance, anthropogenic aerosols probably produce a net negative radiative forcing (cooling influence).[75] Worldwide each year, aerosol particles result in about 800,000 premature deaths. Aerosol loading is sufficiently important to be included among the planetary boundaries, but it is not yet clear whether an appropriate safe threshold measure can be identified.[76]
+Chemical pollution[edit]
+Some chemicals, such as persistent organic pollutants, heavy metals and radionuclides, have potentially irreversible additive and synergic effects on biological organisms, reducing fertility and resulting in permanent genetic damage. Sublethal uptakes are drastically reducing marine bird and mammal populations. This boundary seems important, although it is hard to quantify.[59]
+A Bayesian emulator for persistent organic pollutants has been developed which can potentially be used to quantify the boundaries for chemical pollution.[77] To date, critical exposure levels of polychlorinated biphenyls (PCBs) above which mass mortality events of marine mammals are likely to occur, have been proposed as a chemical pollution planetary boundary.[78]
+Interaction among boundaries[edit]
+The boundary values above were set on the assumption that interactions are not occurring if other boundaries are being crossed. However, a given planetary boundary may interact in a manner that changes the safe operating level of other boundaries. Rockstrm et al. did not analyze such interactions, but they suggested that many of these interactions will reduce rather than expand the proposed boundary levels.
+For example, the land use boundary could shift downward if the freshwater boundary is breached, causing lands to become arid and unavailable for agriculture. At a regional level, water resources may decline in Asia if deforestation continues in the Amazon. Such considerations suggest the need for "extreme caution in approaching or transgressing any individual planetary boundaries."[1]
+Another example has to do with coral reefs and marine ecosystems. In 2009, De'Ath, Lough & Fabricius (2009) showed that, since 1990, calcification in the reefs of the Great Barrier that they examined decreased at a rate unprecedented over the last 400 years (14% in less than 20 years). Their evidence suggests that the increasing temperature stress and the declining ocean saturation state of aragonite is making it difficult for reef corals to deposit calcium carbonate. Bellwood & others (2004) explored how multiple stressors, such as increased nutrient loads and fishing pressure, move corals into less desirable ecosystem states. Guinotte & Fabry (2008) showed that ocean acidification will significantly change the distribution and abundance of a whole range of marine life, particularly species "that build skeletons, shells, and tests of biogenic calcium carbonate. "Increasing temperatures, surface UV radiation levels and ocean acidity all stress marine biota, and the combination of these stresses may well cause perturbations in the abundance and diversity of marine biological systems that go well beyond the effects of a single stressor acting alone."[79]
+Subsequent developments[edit]
+The concept of planetary boundaries challenges the belief that resources are either limitless or infinitely substitutable. It threatens the business-as-usual approach to economic growth. The fact that reference to planetary boundaries was excluded from the [ Rio+20 ] conference statement is a counterintuitive sign that the concept is being taken very seriously and has indeed gained enough traction to be threatening to the status quo. Had planetary boundaries remained in the statement, the most credible interpretation is that they would join a growing list of nice-sounding goals that are included but never achieved in the end. Planetary boundaries will not go away. The intrinsic limits to the amount of resources and environmental services that humanity can extract safely from the Earth System cannot be eliminated by wishful thinking, denial, or omission from official sustainable development conference statements. It is simply the nature of the planet we inhabit.
+ Will Steffen[80]
+The doughnut[edit]
+In 2012 Kate Raworth from Oxfam noted the Rockstrom concept does not take human population growth into account.[81] She suggested social boundaries should be incorporated into the planetary boundary structure, such as jobs, education, food, access to water, health services and energy. There is a need to accommodate an environmentally safe space compatible with "poverty eradication and rights for all". Within planetary limits and an equitable social foundation lies a doughnut shaped area which is the area where there is a "safe and just space for humanity to thrive in.[82]
+Tenth boundary[edit]
+Also in 2012, Steven Running suggested a tenth boundary, the annual net global primary production of all terrestrial plants, as an easily determinable measure integrating many variables that will give "a clear signal about the health of ecosystems".[83][84][85]
+United Nations endorsement[edit]
+The United Nations secretary general Ban Ki-moon endorsed the concept of planetary boundaries on 16 March 2012, when he presented the key points of the report of his High Level Panel on Global Sustainability to an informal plenary of the UN General Assembly.[82][86] Ban stated: "The Panels vision is to eradicate poverty and reduce inequality, to make growth inclusive and production and consumption more sustainable, while combating climate change and respecting a range of other planetary boundaries."[87] The concept was incorporated into the so-called "zero draft" of the outcome of the United Nations Conference on Sustainable Development to be convened in Rio de Janeiro 2022 June 2012.[88] However, the use of the concept was subsequently withdrawn from the text of the conference, "partly due to concerns from some poorer countries that its adoption could lead to the sidelining of poverty reduction and economic development. It is also, say observers, because the idea is simply too new to be officially adopted, and needed to be challenged, weathered and chewed over to test its robustness before standing a chance of being internationally accepted at UN negotiations."[89]
+2015 update[edit]
+The planetary boundary framework was updated in 2015.[90] It was suggested that three of the boundaries (including climate change) might push the Earth system into a new state if crossed; these also strongly influence the remaining boundaries. In the paper, the framework is developed to make it more applicable at the regional scale.
+Other commentary[edit]
+Anderies JM, Carpenter SR, Steffen W, Rockstrom J (2012) "The Topology of Non-Linear Global Carbon Dynamics: From Tipping Points to Planetary Boundaries" Center for the Study of Institutional Diversity, Working Paper Series #CSID-2012-009.
+Barnosky AD, Hadly EA and 19 others (2012) "Approaching a state shift in Earths biosphere" Nature, 486: 5258. doi:10.1038/nature11018
+Biermann, Frank (2012). "Planetary boundaries and earth system governance: Exploring the links". Ecological Economics. 81: 49. doi:10.1016/j.ecolecon.2012.02.016.
+Blomqvist L, Nordhaus T and Shellenberger M (2012) "Planetary boundaries hypothesis: A review of the evidence", The Breakthrough Institute  an environmental policy think tank.
+Brook BW, Ellis EC, Perring MP, Mackay AW and Blomqvist L (2013) "Does the terrestrial biosphere have planetary tipping points?" Trends in Ecology & Evolution. doi:10.1016/j.tree.2013.01.016 Commentary.
+Cornell, Sarah (2012). "On the System Properties of the Planetary Boundaries". Ecology and Society. 17 (1): r2. doi:10.5751/ES-04731-1701r02. Responses
+Galaz, Victor (2012). "Environment: Planetary boundaries concept is valuable". Nature. 486 (7402): 191. doi:10.1038/486191c.
+Galaz, V; Biermann, F; Folke, C; Nilsson, M; Olsson, P (2012). "Global environmental governance and planetary boundaries: An introduction". Ecological Economics. 81: 13. doi:10.1016/j.ecolecon.2012.02.023.
+Leach, M., J. Rockstrm, P. Raskin, I. Scoones, A. C. Stirling, A. Smith, J. Thompson, E. Millstone, A. Ely, E. Arond, C. Folke, and P. Olsson (2012) "Transforming Innovation for Sustainability" Ecology and Society, 17 (2): 11. doi:10.5751/ES-04933-170211. Responses
+Lewis, Simon L (2012). "We must set planetary boundaries wisely". Nature. 485: 417. doi:10.1038/485417a.
+Lovejoy T (2012) The Greatest Challenge of Our Species New York Times, Opinion, 5 April 2012.
+Rockstrm, Johan and Klum, Mattias (2012) The Human Quest: Prospering Within Planetary Boundaries Princeton University Press. ISBN 978-91-87007-14-9 (hardcover), ISBN 978-91-87173-25-7 (ebook). Review
+Whiteman G, B Walker and P Perego (2012) "Planetary Boundaries: Ecological Foundations for Corporate Sustainability" Journal of Management Wiley Online Library
+Is Earth Nearing an Environmental "Tipping Point"? Scientific American, 7 June 2012.
+Walking the line: How to identify safe limits for human impacts on the planet Scientific American, 13 June 2012.
+Boundary conditions: The idea of planet-wide environmental boundaries, beyond which humanity would go at its peril, is gaining ground The Economist, 16 June 2012.
+Human Life Dependent on 'Planetary Boundaries' That Should Not Be Crossed, Sixty-seventh session of the United Nations General Assembly, Second Committee Panel Discussion, GA/EF/3341, October 2012.
+Agricultures hunger for nitrogen oversteps planetary boundaries The Conversation, 5 November 2012.
+Griggs, D; Stafford-Smith, M; Gaffney, O; Rockstrm, J; hman, MC; Shyamsundar, P; Steffen, W; Glaser, G; et al. (2013). "Sustainable development goals for people and planet" (PDF). Nature. 495: 305307. doi:10.1038/495305a.
+Leach, Melissa (2013) Democracy in the Anthropocene? Science and Sustainable Development Goals at the UN Huffington Post, 27 March 2013.
+Pielke, Roger (2013) Planetary Boundaries as Political Power Grab The Energy Collective, 7 April 2013.
+Worldwatch Institute (1913) State of the World 2013: Is Sustainability Still Possible? Island Press. ISBN 9781610914499. Review
+See also[edit]
+Environment portal
+Ecology portal
+Earth sciences portal
+Biology portal
+Carbon cycle re-balancing
+Global catastrophic risk
+Global change
+Future of Humanity Institute
+Great Transition
+Holocene extinction
+Human impact on the nitrogen cycle
+Hydrological cycle
+Myth of superabundance
+Nitrogen cycle
+Phosphorus cycle
+Planetary management
+Notes[edit]
+^ a b c d e f g Rockstrm, Steffen & 26 others 2009.
+^ Steffen, W.; Richardson, K.; Rockstrom, J.; Cornell, S. E.; Fetzer, I.; Bennett, E. M.; Biggs, R.; Carpenter, S. R.; De Vries, W.; De Wit, C. A.; Folke, C.; Gerten, D.; Heinke, J.; Mace, G. M.; Persson, L. M.; Ramanathan, V.; Reyers, B.; Sorlin, S. (2015). "Planetary boundaries: Guiding human development on a changing planet". Science. 347 (6223): 1259855. doi:10.1126/science.1259855.
+^ United Nations Secretary-Generals High-Level Panel on Global Sustainability (2012). Resilient People, Resilient Planet: A future worth choosing (.pdf) (Report). New York: United Nations. p.24. Retrieved 30 January 2012.
+^ Editorial, Nature 2009.
+^ Rockstrm 2009 (presentation).
+^ Rockstrm & others 2009b.
+^ Molina 2009. Planetary boundaries: A series of commentaries in Nature reports climate change on the planetary boundaries concept set out in the original paper.
+^ Meadows & others 1972.
+^ Meyer & Nrgrd 2010.
+^ van Vuuren & Faber 2009, p. 23.
+^ a b c Turner 2008, p. 37.
+^ Nrgrd, Peet & Ragnarsdttir 2010.
+^ Also known as the Brundtland Report 1987.
+^ Lovelock 1972; Lovelock & Margulis 1974.
+^ Dansgaard others1993; Petit & others 1999; Rioual & others 2001.
+^ van der Leeuw 2008.
+^ Crutzen 2002; Steffen, Crutzen & McNeill 2007; Zalasiewicz & others 2010.
+^ IPCC AR4 WG2 2007[full citation needed]; WMO 2011.
+^ Mace, Masundire & Baillie 2005; Folke & others 2004; Gordon, Peterson & Bennett 2008.
+^ Mace, Masundire & Baillie 2005.
+^ Shiklomanov & Rodda 2003.
+^ Gordon, Peterson & Bennett 2008.
+^ Stern 2007; Rockstrm, Steffen & 26 others 2009.
+^ Steffen, Rockstrm & Costanza 2011.
+^ Rockstrm, Steffen & 26 others 2009; Stockholm Resilience Centre 2009.
+^ Recent Mauna Loa CO2 Earth System Research Laboratory, NOAA Research.
+^ Allen 2009; Heffernan 2009; Morris 2010; Pearce 2010, pp. 3445, "Climate change".
+^ a b Allen 2009.
+^ Samper 2009; Daily 2010; Faith & others 2010; Friends of Europe 2010; Pearce 2010, p. 33, "Biodiversity".
+^ Schlesinger 2009; Pearce 2009; UNEP 2010, pp. 2829; Howarth 2010; Pearce 2010, pp. 3334, "Nitrogen and phosphorus cycles".
+^ Schlesinger 2009; Carpenter & Bennett 2011; Townsend & Porder 2011; Ragnarsdottir, Sverdrup & Koca 2011; UNEP 2011; Ulrich, Malley & Voora 2009; Vaccari 2010.
+^ Brewer 2009; UNEP 2010, pp. 3637; Doney 2010; Pearce 2010, p. 32, "Acid oceans".
+^ Bass 2009; Euliss & others 2010; Foley 2009; Lambin 2010; Pearce 2010, p. 34, "Land use".
+^ Molden 2009; Falkenmark & Rockstrm 2010; Timmermans & others 2011; Gleick 2010; Pearce 2010, pp.3233, "Fresh water".
+^ Molina 2009; Fahey 2010; Pearce 2010, p. 32, "Ozone depletion".
+^ Pearce 2010, p. 35, "Aerosol loading".
+^ Handoh & Kawai 2011; Handoh & Kawai 2014; Pearce 2010, p. 35, "Chemical pollution".
+^ a b Zimmer 2009.
+^ Clark 2011.
+^ a b Schlesinger 2009.
+^ a b Molden 2009.
+^ a b Brewer 2009.
+^ Bass 2009
+^ a b Morris 2010.
+^ a b Molina 2009.
+^ United Nations Secretary-Generals High-Level Panel on Global Sustainability (2012). Resilient People, Resilient Planet: A future worth choosing (.pdf) (Report). New York: United Nations. p.14. Retrieved 30 January 2012.
+^ United Nations High-level Panel on Global Sustainability
+^ UN GSP 2 meeting 2011, p. 5.
+^ UN Sherpa 3 meeting 2011.
+^ UN Agenda 21.
+^ Sustainable agriculture key to green growth, poverty reduction UN Daily News, 1 June 2011, page 8.
+^ UNEP 2010.
+^ The Budapest Declaration; Greenfield 2010.
+^ Martin, Henrichs & others 2010.
+^ USGCRP 2009.
+^ IPCC AR4 WG1 2007, "Human and Natural Drivers of Climate Change".
+^ Samper 2009.
+^ Daily 2010.
+^ a b c d e f g Stockholm Resilience Centre 2009.
+^ Howarth 2010.
+^ Vaccari 2010.
+^ Neset & Cordell 2011, p.2
+^ Cordell, Drangert & White 2009, p.292
+^ Lewis 2008, p.1
+^ Gruber, Sarmiento & Stocker 1996.
+^ Doney 2010.
+^ Bass 2009.
+^ Lambin 2010.
+^ a b Palaniappan & Gleick 2008.
+^ "Underlying Causes of Deforestation" UN Report.[who?]
+^ Larsen 2005; Sandford 2009.
+^ Gleick 2010.
+^ Manney, Santee & 27 others 2011, p.473.
+^ Fahey 2010.
+^ IPCC AR4 WG1 2007.[full citation needed]
+^ Stockholm Resilience Centre 2009
+^ Handoh & Kawai 2011.
+^ Handoh & Kawai 2014
+^ Rockstrm, Steffen & 26 others 2009, Appendix 1. Supplementary Information.
+^ Steffen, Will (2012) Rio+20: Another step on the journey towards sustainability The Conversation, 29 June 2012.
+^ Raworth, Kate (2012) A safe and just space for humanity: Can we live within the doughnut? Oxfam Discussion Paper, 2012.
+^ a b Climate change: Understanding Rio+20 UN Office for the Coordination of Humanitarian Affairs, ITIN, 3 April 2012.
+^ Running, Steven W. (2012). "A Measurable Planetary Boundary for the Biosphere". Science. 337 (6101): 14581459. doi:10.1126/science.1227620.
+^ Has Plant Life Reached Its Limits? New York Times, 20 September 2012.
+^ Biomass should be tenth tipping point, researcher says SciDev.Net, 27 March 2012.
+^ Rio+20 zero draft accepts 'planetary boundaries' SciDev.Net, 28 March 2012.
+^ Secretary-General Highlights Key Points... United Nations News, 16 March 2012.
+^ Zero draft of the outcome document RIO+20, United Nations Conference on Sustainability Development.
+^ Your guide to science and technology at Rio+20 scidev.net, 12 June 2012.
+^ Steffen, W.; Richardson, K.; Rockstrom, J.; Cornell, S. E.; Fetzer, I.; Bennett, E. M.; Biggs, R.; Carpenter, S. R.; de Vries, W.; de Wit, C. A.; Folke, C.; Gerten, D.; Heinke, J.; Mace, G. M.; Persson, L. M.; Ramanathan, V.; Reyers, B.; Sorlin, S. (2015). "Planetary boundaries: Guiding human development on a changing planet". Science. 347 (6223). doi:10.1126/science.1259855.
+References[edit]
+Allen, M. (2009), "Planetary boundaries: Tangible targets are critical [commentary]", Nature Reports Climate Change (910): 114, doi:10.1038/climate.2009.95
+Bass, S. (2009), "Planetary boundaries: Keep off the grass [commentary]", Nature Reports Climate Change (910): 113, doi:10.1038/climate.2009.94
+Bellwood, D. R.; Hughes, T. P.; Folke, C.; Nystrm, M. (2004), "Confronting the coral reef crisis" (PDF), Nature, 429 (6994): 827833, Bibcode:2004Natur.429..827B, doi:10.1038/nature02691, PMID15215854
+Brewer, P. (2009), "Planetary boundaries: Consider all consequences [commentary]", Nature Reports Climate Change (910): 117, doi:10.1038/climate.2009.98
+Carpenter, S. R.; Bennett, E. M. (2011), "Reconsideration of the planetary boundary for phosphorus" (PDF), Environmental Research Letters, 6: 014009, Bibcode:2011ERL.....6a4009C, doi:10.1088/1748-9326/6/1/014009
+Clark, Bill (2011), Grand Challenges of Sustainability Science (PDF), Presentation to Resilience 2011 conference on Resilience, Innovation, and Sustainability: Navigating the Complexities of Global Change, 1116 March, Arizona State University
+Crutzen, Paul J. (3 January 2002), "Geology of mankind  The Anthropocene" (PDF), Nature, 415: 23, Bibcode:2002Natur.415...23C, doi:10.1038/415023a, PMID11780095
+Daily, Gretchen (April 2010), Foley, J.; et al., eds., "Boundaries for a Healthy Planet", Scientific American ("Biodiversity Loss")
+Dansgaard, W.; Johnsen, S.J.; Clausen, H.B.; Dahl-Jensen, D.; Gundestrup, N.S.; Hammer, C.U.; Hvidberg, C.S.; Steffensen, J.P.; et al. (15 July 1993), "Evidence for general instability of past climate from a 250-kyr ice-core record" (PDF), Nature, 364 (6434): 21820, Bibcode:1993Natur.364..218D, doi:10.1038/364218a0
+De'Ath, G.; Lough, J. M.; Fabricius, K. E. (2009), "Declining Coral Calcification on the Great Barrier Reef" (PDF), Science, 323 (5910): 116119, Bibcode:2009Sci...323..116D, doi:10.1126/science.1165283, PMID19119230
+Doney, Scott C. (April 2010), Foley, J.; et al., eds., "Boundaries for a Healthy Planet", Scientific American ("Ocean Acidification")
+Euliss, N. H.; Smith, L. M.; Liu, S.; Feng, M.; Mushet, D. M.; Auch, R. F.; Loveland, T. R. (2010), "The Need for Simultaneous Evaluation of Ecosystem Services and Land Use Change", Environmental Science & Technology, 44 (20): 77613, Bibcode:2010EnST...44.7761E, doi:10.1021/es102761c
+European Commission Standing Committee on Agriculture Research (May 2011), Transition towards sustainable food consumption and production in a resource constrained world ["The Budapest Declaration"], Conference 45 May 2011 Budapest, Hungary
+Fahey, David (April 2010), Foley, J.; et al., eds., "Boundaries for a Healthy Planet", Scientific American ("Ozone Depletion")
+Faith, D. P.; Magalln, S.; Hendry, A. P.; Conti, E.; Yahara, T.; Donoghue, M. J. (2010), "Evosystem services: An evolutionary perspective on the links between biodiversity and human well-being" (PDF), Current Opinion in Environmental Sustainability, 2: 6674, doi:10.1016/j.cosust.2010.04.002
+Falkenmark, M.; Rockstrm, J. (2010), "Back to basics on water as constraint for global food production: Opportunities and limitations", in Garrido, A.; Ingram, H., Water for food in a changing world, 2nd. vol., Routledge, ISBN0-415-61911-4 It is unclear whether the editor was referring to a paper from the conference, or the book, or the Kindle e-book edition (ISBN 1-136-80810-8)
+Foley, Jonathan (5 October 2009), "The Other Inconvenient Truth: The Crisis in Global Land Use", Yale Environment 360 [blog]
+Folke, C.; Carpenter, S.; Walker, B.; Scheffer, M.; Elmqvist, T.; Gunderson, L.; Holling, C. S. (2004), "Regime Shifts, Resilience, and Biodiversity in Ecosystem Management" (PDF), Annual Review of Ecology, Evolution, and Systematics, 35: 55781, doi:10.1146/annurev.ecolsys.35.021103.105711
+Friends of Europe (2010), Biodiversity: a crisis in search of a policy? (PDF), Policy briefing for pricing the Earth, policy summit, Green Week 12 June 2010
+Gleick, Peter (April 2010), Foley, J.; et al., eds., "Boundaries for a Healthy Planet", Scientific American ("Freshwater Use")
+Gordon, L. J.; Peterson, G. D.; Bennett, E. M. (2008), "Agricultural modifications of hydrological flows create ecological surprises" (PDF), Trends in Ecology & Evolution, 23 (4): 21119, doi:10.1016/j.tree.2007.11.011
+Gordon, Line J.; Steffen, Will; Jnsson, Bror F.; Folke, Carl; Falkenmar, Malin; Johannessen, se (2005), "Human modification of global water vapor flows from the land surface", Proceedings of the National Academy of Sciences, 102 (21): 76127617, Bibcode:2005PNAS..102.7612G, doi:10.1073/pnas.0500208102
+Greenfield, O. (April 2010), Discussion input for the 4th session: Corporate social responsibility in a globalised economy [meeting abstract] (PDF), European Conference: Towards a Greater Understanding of the Changing Role of Business in Society", Brussels, 22 April 2010
+Gruber, N.; Sarmiento, J. L.; Stocker, T. F. (December 1996), "An improved method for detecting anthropogenic CO2 in the oceans" (PDF), Global Biogeochemical Cycles, 10 (4): 809837, Bibcode:1996GBioC..10..809G, doi:10.1029/96GB01608
+Guinotte, J. M.; Fabry, V. J. (2008), "Ocean Acidification and Its Potential Effects on Marine Ecosystems" (PDF), Annals of the New York Academy of Sciences, 1134: 320342, Bibcode:2008NYASA1134..320G, doi:10.1196/annals.1439.013, PMID18566099
+Handoh, Itsuki C.; Kawai, Toru (2011), "Bayesian Uncertainty Analysis of the Global Dynamics of Persistent Organic Pollutants: Towards Quantifying the Planetary Boundaries for Chemical Pollution"", in Omori, K.; et al., Interdisciplinary Studies on Environmental ChemistryMarine Environmental Modeling & Analysis (PDF), Terrapub, pp.179187
+Handoh, Itsuki C.; Kawai, Toru (2014), "Modelling exposure of oceanic higher trophic-level consumers to polychlorinated biphenyls: Pollution 'hotspots' in relation to mass mortality events of marine mammals", Marine Pollution Bulletin, 85 (8): 824830, doi:10.1016/j.marpolbul.2014.06.031, ISSN0025-326X
+Heffernan, O. (2009), "A safe space [blog]", Nature Reports Climate Change (910): 109, doi:10.1038/climate.2009.103
+Howarth, Robert (April 2010), Foley, J.; et al., eds., "Boundaries for a Healthy Planet", Scientific American ("Nitrogen Cycle")
+IPCC AR4 WG1 (2007), Solomon, S.; Qin, D.; Manning, M.; Chen, Z.; et al., eds., Climate Change 2007: The Physical Science Basis, Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN978-0-521-88009-1 (pb: 978-0-521-70596-7)
+IPCC AR4 WG2 (2007), Parry, M.L.; Canziani, O.F.; Palutikof, J.P.; van der Linden, P.J.; et al., eds., Climate Change 2007: Impacts, Adaptation and Vulnerability, Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN978-0-521-88010-7 (pb: 978-0-521-70597-4)
+Lambin, Eric (April 2010), Foley, J.; et al., eds., "Boundaries for a Healthy Planet", Scientific American ("Land Use")
+Larsen, Janet (7 April 2005), Plan B updates: Disappearing lakes, shrinking seas [web page], Washington, D.C.: Earth Policy Institute
+van der Leeuw, S. E. (2008), "Climate and Society: Lessons from the Past 10,000 Years", AMBIO: A Journal of the Human Environment, 37: 476482, doi:10.1579/0044-7447-37.sp14.476
+Lovelock, J. E. (August 1972), "Gaia as seen through the atmosphere", Atmospheric Environment, 6 (8): 579514, doi:10.1016/0004-6981(72)90076-5, ISSN1352-2310
+Lovelock, J. E.; Margulis, L. (1974), "Atmospheric homeostasis by and for the biosphere: The gaia hypothesis", Tellus, 26: 210, Bibcode:1974Tell...26....2L, doi:10.1111/j.2153-3490.1974.tb01946.x
+Mace, G.; Masundire, H.; Baillie, J. (2005), "Biodiversity", in Hassan, R.M.; Scholes, R.; Ash, N., Ecosystems and human well-being: current state and trends: findings of the Condition and Trends Working Group of the Millennium Ecosystem Assessment, The millennium ecosystem assessment series, Island Press, pp.79115, ISBN978-1-55963-228-7, LCCN2005017196
+Manney, G. L.; Santee, M. L.; Rex, M.; Livesey, N. J.; Pitts, M. C.; Veefkind, P.; Nash, E. R.; Wohltmann, I.; et al. (27 October 2011), "Unprecedented Arctic ozone loss in 2011" (PDF), Nature, 478 (10556): 469475, Bibcode:2011Natur.478..469M, doi:10.1038/nature10556
+Martin, J.; Henrichs, T.; et al. (2010), The European environment  state and outlook 2010, Chapter 7: environmental challenges in a global context, European Environment Agency
+Meadows, D. H.; Meadows, D. L.; Randers, J.; Behrens III, W. W. (1972), The Limits to Growth: a report for the Club of Rome's project on the predicament of mankind, Universe Books, ISBN0-87663-165-0
+Meyer, N. I.; Nrgrd, J. S. (2010), Policy Means for Sustainable Energy Scenarios (abstract) (PDF), Denmark: International Conference on Energy, Environment and Health  Optimisation of Future Energy Systems, pp.1337
+Molden, D. (2009), "Planetary boundaries: The devil is in the detail [commentary]", Nature Reports Climate Change (910): 116, doi:10.1038/climate.2009.97
+Molina, M. J. (2009), "Planetary boundaries: Identifying abrupt change", Nature Reports Climate Change (910): 115, doi:10.1038/climate.2009.96
+Morris, Adele (April 2010), Foley, J.; et al., eds., Boundaries for a Healthy Planet ("Climate Change"), Scientific American
+Nature (24 September 2009), "Earth's boundaries? [editorial]", Nature, 461 (7263): 447448, Bibcode:2009Natur.461R.447., doi:10.1038/461447b
+Nrgrd, J. S.; Peet, J.; Ragnarsdttir, K. V. (2010), "The History of The Limits to Growth", Solutions, 2 (1): 5963
+Palaniappan, M.; Gleick, P. H. (2008), "Peak Water", in Gleick, P. H.; Cooley, H.; Morikawa, M., The World's Water 20082009: The Biennial Report on Freshwater Resources (PDF), Island Press, ISBN978-1-59726-505-8 See also: Peak water.
+Pearce, Fred (5 November 2009), "The Nitrogen Fix: Breaking a Costly Addiction", Yale Environment 360 [blog]
+Pearce, Fred (24 February 2010), "From ocean to ozone: Earth's nine life-support systems", New Scientist, no.2749, pp.3035
+Petit, JR; Jouzel, J; Raynaud, D; Barkov, NI; Barnola, JM; Basile, I; Bender, M; Chappellaz, J; Davis, M; Delaygue, G; Delmotte, M; Kotlyakov, VM; Legrand, M; Lipenkov, VY; Lorius, C; Ppin, L; Ritz, C; Saltzman, E; Stievenard, M (1999), "Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica" (PDF), Nature, 399: 42936, Bibcode:1999Natur.399..429P, doi:10.1038/20859
+Ragnarsdottir, K. V.; Sverdrup, H. U.; Koca, D. (2011), "Challenging the planetary boundaries I: Basic principles of an integrated model for phosphorous [sic] supply dynamics and global population size", Applied Geochemistry, 26: S303S306, doi:10.1016/j.apgeochem.2011.03.088
+Rioual, P.; Andrieu-Ponel, V. R.; Rietti-Shati, M.; Battarbee, R. W.; De Beaulieu, J. L.; Cheddadi, R.; Reille, M.; Svobodova, H.; Shemesh, A. (2001), "High-resolution record of climate stability in France during the last interglacial period", Nature, 413 (6853): 293296, doi:10.1038/35095037, PMID11565028
+Rockstrm, Johan (26 October 2009), Planetary Boundaries: Exploring the Safe Operating Space for Humanity [presentation] (PDF), Stockholm Resilience Centre, Biodiversity and Ecosystem Services, Master Class, Club of Rome General Assembly, 26 Oct 2009
+Rockstrm, J; Steffen, WL; Noone, K; Persson, ; Chapin III, FS; Lambin, EF; Lenton, TM; Scheffer, M; et al. (2009), "Planetary Boundaries: Exploring the Safe Operating Space for Humanity" (PDF), Ecology and Society, 14 (2): 32
+Rockstrm, J.; Steffen, W.; Noone, K.; Persson, .; Chapin, F. S.; Lambin, E. F.; Lenton, T. M.; Scheffer, M.; et al. (24 September 2009), "A safe operating space for humanity", Nature, 461 (7263): 472475, Bibcode:2009Natur.461..472R, doi:10.1038/461472a, PMID19779433 CS1 maint: Explicit use of et al. (link)
+Samper, C. (2009), "Planetary boundaries: Rethinking biodiversity", Nature Reports Climate Change (910): 118, doi:10.1038/climate.2009.99
+Sandford, R. N. (2009), Restoring the flow: confronting the world's water woes, Victoria B.C: Rocky Mountain Books, ISBN978-1-897522-52-3
+Schlesinger, W. H. (2009), "Planetary boundaries: Thresholds risk prolonged degradation [commentary]", Nature Reports Climate Change (910): 112, doi:10.1038/climate.2009.93
+Shiklomanov, I. A.; Rodda, J. C., eds. (2003), World water resources at the beginning of the twenty-first century (PDF), Cambridge University Press, ISBN978-0-521-61722-2
+Steffen, W.; Crutzen, P. J.; McNeill, J. R. (2007), "The Anthropocene: Are Humans Now Overwhelming the Great Forces of Nature", AMBIO: A Journal of the Human Environment, 36 (8): 614, doi:10.1579/0044-7447(2007)36[614:TAAHNO]2.0.CO;2, ISSN0044-7447
+Steffen, W.; Rockstrm, J.; Costanza, R. (May 2011), "How Defining Planetary Boundaries Can Transform Our Approach to Growth", Solutions, 2 (3)
+Stern, Nicholas (2007), The economics of climate change: the Stern review, Cambridge University Press, ISBN0-521-70080-9 The web page inverts the book title.
+The Stockholm Memorandum: Tipping the Scales towards Sustainability [presentation] (PDF), 18 May 2011, Third Nobel Laureate Symposium on Global Sustainability, Stockholm, 1619 May 2011
+Stockholm Resilience Centre (17 September 2009), The nine planetary boundaries [web page], retrieved 2016-07-30
+Sverdrup, H. U.; Ragnarsdottir, K. V. (June 2011), "Challenging the planetary boundaries II: Assessing the sustainable global population and phosphate supply, using a systems dynamics assessment model", Applied Geochemistry, 26: S307S310, doi:10.1016/j.apgeochem.2011.03.089
+Timmermans, J.; Kwakkel, J.; van de Giesen, N.; Thissen, W. (2011), "Blue limits of the Blue Planet: an exploratory analysis of safe operating spaces for human water use under deep uncertaint [abstract]" (PDF), Geophysical Research Abstracts, 13, EGU2011-7446
+Townsend, A. R.; Porder, S. (June 2011), "Boundary issues", Environmental Research Letters, 6: 011001, Bibcode:2011ERL.....6a1001T, doi:10.1088/1748-9326/6/1/011001
+Turner, Graham (2008), A comparison of The Limits to Growth with thirty years of reality (PDF), Commonwealth Scientific and Industrial Research Organisation (CSIRO) Sustainable Ecosystems
+Ulrich, A.; Malley, D.; Voora, V. (2009), Peak Phosphorus: Opportunity in the Making  Why the Phosphorus Challenge Presents a New Paradigm for Food Security and Water Quality in the Lake Winnipeg Basin, Winnipeg, Canada: International Institute for Sustainable Development
+"Sustainable agriculture key to green growth, poverty reduction" (PDF), UN Daily News, 1 June 2011
+United Nations Environment Programme. Division of Early Warning and Assessment (2010), Year Book 2010: New Science and Developments in Our Changing Environment (PDF), Nairobi, Kenya: United Nations Environment Programme, ISBN978-92-807-3044-9
+United Nations Environment Programme. Division of Early Warning and Assessment (2011), Year Book 2011: Emerging Issues in Our Global Environment (PDF), Nairobi, Kenya: United Nations Environment Programme, pp.3546, ISBN978-92-807-3101-9
+United Nations General Assembly (16 August 2010), Implementation of Agenda 21, the Programme for the Further Implementation of Agenda 21 and the outcomes of the World Summit on Sustainable Development (PDF), Report of the Secretary-General to the General Assembly of the United Nations
+United Nations High-level Panel on Global Sustainability (February 2011), Meeting Report (PDF), Second meeting of the Panel, Cape Town, 2425 February 2011
+United Nations High-level Panel on Global Sustainability (April 2011), Meeting Report (PDF), Report of the meeting of the GSP Sherpas held in Madrid, Spain, 1314 April 2011
+U.S. Global Change Research Program [USGCRP] (2009), Karl, T. R.; Melillo, J. M.; Peterson, T. C., eds., Global Climate Change Impacts in the United States, Cambridge University Press, ISBN978-0-521-14407-0 CS1 maint: Multiple names: authors list (link)
+Vaccari, David (April 2010), Foley, J; et al., eds., "Boundaries for a Healthy Planet", Scientific American ("Phosphorus Cycle")
+van Vuuren, D. P.; Faber, A. (2009), Growing within Limits  A Report to the Global Assembly 2009 of the Club of Rome (PDF), Netherlands Environmental Assessment Agency, ISBN978-90-6960-234-9
+World Commission on Environment and Development (4 August 1987), Our Common Future: Report of the World Commission on Environment & Development (The Bruntland Report), Oxford University Press, ISBN0-19-282080-X
+World Meteorological Organization (2011), WMO statement on the status of the global climate in 2010 (PDF), Geneva: World Meteorological Organization, ISBN978-92-63-11074-9, WMO-No. 1074
+Young, O. R.; Steffen, W. (2009), "The Earth system: sustaining planetary life-support systems", in Chapin III, F. S.; Kofinas, G. P.; Folke, C., Principles of ecosystem stewardship: resilience-based natural resource management in a changing world, Springer, pp.295315, ISBN978-0-3877-3032-5
+Zalasiewicz, J.; Williams, M.; Steffen, W.; Crutzen, P. (2010), "The New World of the Anthropocene" (PDF), Environmental Science & Technology, 44 (7): 22282231, Bibcode:2010EnST...44.2228Z, doi:10.1021/es903118j
+Zimmer, Carl (23 September 2009), "Provocative New Study Warns of Crossing Planetary Boundaries", Yale Environment 360 [blog]
+Further reading[edit]
+Cornell, Sarah (2012) "On the System Properties of the Planetary Boundaries" Ecology and Society, 17 (1): r2. doi:10.5751/ES-04731-1701r02
+Foster JB, Clark B and York R (2010) The Ecological Rift: Capitalism's War on the Earth Monthly Review Press, ISBN 9781583672198.
+Folke, C; Gunderson, L (2010). "Resilience and Global Sustainability" (PDF). Ecology and Society. 15 (4): 43.
+Foster JB, Clark B and York R (2010) The Ecological Rift: Capitalism's War on the Earth Monthly Review Press. ISBN 9781583672198. Review
+Galaz V, Biermann F, Crona B, Loorbach D, Folke C, Olsson P, Nilsson M, Allouche J, Persson A and Reischl G (2011)Planetary Boundaries-Exploring the Challenges for Global Environmental Governance Beijer Discussion Paper, Series No. 230.
+Garver G (2011) "A Framework for Novel and Adaptive Governance Approaches Based on Planetary Boundaries" Colorado State University, Colorado Conference on Earth System Governance, 1720 May 2011.
+Geisler, C (2010). "Must Biodiversity Hot-Spots Be Social Not-Spots? Win-Win Ecology as Sustainable Social Policy". Consilience: The Journal of Sustainable Development. 4 (1): 119133.
+Lenton TM, Held H, Kriegler E, Jim W. Hall JW, Lucht W, Rahmstorf S and Schellnhuber HJ (2008) "Tipping elements in the Earths climate system" PNAS105(6): 17861793. (Precursor elements?)
+Meadows DH, Randers J and Meadows DL (2005) Limits to growth: the 30-year update Edition 3, revised, Earthscan. ISBN 9781844071449.
+Horner, Jack (2010) "A Dynamical Implementation of the Stockholm Resilience Center Safe Operating Space Model" In Proceedings of the 2010 International Conference on Scientific Computing, CSC 2010, pages 236242. Eds. HR Arabnia et al. 1215 July 2010, Nevada, CSREA Press. ISBN 1-60132-137-6.
+Moldana B, Svatava Janoukov S and Tom Hka T (2011) "How to understand and measure environmental sustainability: Indicators and targets" ScienceDirect. doi:10.1016/j.ecolind.2011.04.033
+Richardson K, Steffen W, and Liverman D (2011) Climate Change: Global Risks, Challenges and Decisions Cambridge University Press, pp.485487. ISBN 9780521198363.
+Richardson K (2010) Biodiversity, a global threshold orgprints.org.
+Rockstrm, J; Falkenmark, M; Lannerstad, M; Karlberg, L (2012). "The planetary water drama: Dual task of feeding humanity and curbing climate change". Geophysical Research Letters. 39: L15401. doi:10.1029/2012gl051688.
+Rockstrm, J (2010). "Planetary Boundaries" (PDF). New Perspectives Quarterly. 27 (1): 7274. doi:10.1111/j.1540-5842.2010.01142.x.
+Rockstrm, J; Karlberg, L (2010). "The Quadruple Squeeze: Defining the safe operating space for freshwater use to achieve a triply green revolution in the Anthropocene". AMBIO: A Journal of the Human Environment. 39 (3): 257265. doi:10.1007/s13280-010-0033-4. PMC2890077. PMID20701182.
+Scheffer, M; Bascompte, J; Brock, WA; Brovkin, V; Carpenter, SR; Dakos, V; Held, H; van Nes, EH; et al. (2009). "Early-warning signals for critical transitions" (PDF). Nature. 461: 5359. doi:10.1038/nature08227. PMID19727193.
+Steffen, W; Grinevald, J; Crutzen, P; McNeill, J (2011). "The Anthropocene: conceptual and historical perspective". Philosophical Transactions of the Royal Society A. 369 (1938): 842867. doi:10.1098/rsta.2010.0327.
+Steffen, W.; Richardson, K.; Rockstrom, J.; Cornell, S. E.; Fetzer, I.; Bennett, E. M.; Biggs, R.; Carpenter, S. R.; de Vries, W.; de Wit, C. A.; Folke, C.; Gerten, D.; Heinke, J.; Mace, G. M.; Persson, L. M.; Ramanathan, V.; Reyers, B.; Sorlin, S. (15 January 2015). "Planetary boundaries: Guiding human development on a changing planet" (PDF). Science. 347 (6223). doi:10.1126/science.1259855. Retrieved 18 July 2016.
+Victor, P (2010). "Questioning economic growth". Nature. 468 (7322): 370371. doi:10.1038/468370a.
+Establishing Environmental Sustainability Thresholds and Indicators Ecologic Institute and Sustainable Europe Research Institute (SERI)[who?], Final report to the European Commissions DG Environment, November 2010.
+From ocean to ozone: Earth's nine life-support systems New Scientist, issue 2749, 24 February 2010.
+Living in the Anthropocene: Toward a New Global Ethos Paul J. Crutzen and Christian Schwgerl, Yale Environment 360, 22 February 2011.
+The Anthropocene Debate: Marking Humanitys Impact Elizabeth Kolbert, Yale Environment 360, 17 May 2010.
+Planetary Boundaries and the New Generation Gap Alex Steffen, Worldchanging, 30 June 2009.
+Djoghlaf A and Dodds F (Eds.) (2011) Biodiversity and Ecosystem Insecurity: A Planet in Peril, Earthscan. ISBN 9781849712200.
+Sustainable Developments  Transgressing Planetary Boundaries Jeffrey D. Sachs, Scientific American, December 2009, 301(6):36.
+"Boundaries for a Healthy Planet" by Foley J, Daily GC, Howarth R, Vaccari DA, Morris AC, Lambin EF, Doney SC, Peter H. Gleick and Fahey DW. Scientific American, April 2010. Includes opinion essays by invited experts on the planetary boundaries.
+"Prophesy of economic collapse 'coming true'", by Jeff Hecht, NewScientist, 17 November 2008.
+Books[edit]
+Lynas, M (2011) The God Species: How the planet can survive the age of humans HarperCollins. ISBN 9780007313426.  a new book based on the concept of planetary boundaries, by the 2008 winner of the Royal Society Prize for Science Books. Review Review2[1]
+Wijkman, Anders and Rockstrm, Johan (2012) Bankrupting Nature: Denying Our Planetary Boundaries A report to the Club of Rome, Routledge. ISBN 9780415539692.
+External links[edit]
+Tipping towards the unknown Stockholm Resilience Centre, 23 September 2009.
+Planetary Boundaries: Specials Nature, 24 September 2009.
+Johan Rockstrom: Let the environment guide our development TED video, July 2010. Transcript html
+Vidoes with Will Steffen and Jeffrey D. Sachs
+UN Debates Holistic Approach to Sustainable Development ABCLive.In, 21 April 2011  the term "planetary boundaries" is starting to shape debates, such as this one.
+A Planet on the edge Global Change, 2009, 74: 1013. Featured cover story, via Scribd.
+Welcome to the Anthropocene The Economist, 26 May May 2011.
+The Anthropocene: A man-made world The Economist, 26 May May 2011.
+Has the green movement lost its way? The Guardian, 2 July 2011.
+Lynas, Mark (2012) The Smart Way to Play God with Earth's Limited Land Scientific American, 20 January 2012.
+Critical comment
+Planetary boundaries: what are the limits of the earth? - podcast The Guardian, 30 January 2013.
+v
+t
+e
+Human impact on the environment
+General
+Anthropocene
+Environmental issues
+Human impact
+Impact assessment
+List of issues
+Planetary boundaries
+Causes
+Agriculture
+fishing
+irrigation
+meat production
+palm oil
+Energy industry
+biodiesel
+coal
+electricity generation
+nuclear power
+oil shale
+petroleum
+reservoirs
+wind power
+Manufacturing
+cleaning agents
+concrete
+nanotechnology
+paint
+paper
+pesticides
+pharmaceuticals and personal care
+Transport
+aviation
+roads
+shipping
+Other
+land use
+mining
+genetic pollution
+human overpopulation
+overexploitation
+particulates
+pollution
+war
+Effects
+Biodiversity threats
+Climate change
+Deforestation
+Desertification
+Ecocide
+Erosion
+Coral reefs
+Freshwater cycle
+Global warming
+Habitat destruction
+Holocene extinction
+Nitrogen cycle
+Land degradation
+Land surface effects on climate
+Phosphorus cycle
+Ocean acidification
+Ozone depletion
+Runaway climate change
+Mitigation
+Birth control
+Cleaner production
+Climate change mitigation
+Climate engineering
+Ecological engineering
+Environmental engineering
+Environmental mitigation
+Industrial ecology
+Mitigation banking
+Organic farming
+Reforestation
+urban
+Restoration ecology
+Sustainable consumption
+Waste minimization
+Commons
+Category
+by country
+assessment
+mitigation
+v
+t
+e
+Globalization
+Books
+Journals
+Lists
+Organizations
+Outline
+Studies
+Terms
+Writers
+Aspects
+Alter-globalization
+Anti-globalization
+Counter-hegemonic globalization
+Cultural globalization
+Deglobalization
+Democratic globalization
+Economic globalization
+Environmental globalization
+Financial globalization
+Global citizenship
+education
+Global governance
+Global health
+History of globalization
+archaic
+early modern
+Military globalization
+Political globalization
+Trade globalization
+Workforce globalization
+Issues
+Global
+Disease
+Digital divide
+Labor arbitrage
+Population
+Warming
+Water crisis
+Other
+Brain drain
+reverse
+Climate change
+Climate justice
+Development aid
+Economic inequality
+Endangered languages
+Fair trade
+Forced migration
+Human rights
+Illicit financial flows
+Invasive species
+Investor-state disputes
+New international division of labour
+NorthSouth divide
+Offshoring
+Race to the bottom
+pollution havens
+Transnational crime
+McDonaldization
+Westernization
+American imperialism
+British Empire
+World war
+Theories
+Capital accumulation
+Dependency
+Development
+Earth system
+Fiscal localism
+Modernization
+ecological
+history of
+Primitive accumulation
+Social change
+World history
+World-systems
+Notable
+scholars
+Samir Amin
+Arjun Appadurai
+K. Anthony Appiah
+Daniele Archibugi
+Giovanni Arrighi
+Ravi Batra
+Jean Baudrillard
+Zygmunt Bauman
+Ulrich Beck
+Walden Bello
+Jagdish Bhagwati
+Robert Brenner
+Manuel Castells
+Noam Chomsky
+Alfred Crosby
+Christopher Chase-Dunn
+Andre G. Frank
+Thomas Friedman
+Anthony Giddens
+Peter Gowan
+Michael Hardt
+David Harvey
+David Held
+Paul Hirst
+Michael Hudson
+Paul James
+Ibn Khaldun
+Naomi Klein
+Antonio Negri
+Jeffrey Sachs
+Saskia Sassen
+John R. Saul
+Vandana Shiva
+Joseph Stiglitz
+John Urry
+Immanuel Wallerstein
+George Ritzer
+Portal
+Category
+Commons
+WikiProject
+v
+t
+e
+Sustainability
+Principles
+Ecological modernization
+Environmentalism
+Human impact on the environment
+Planetary boundaries
+Social sustainability
+Stewardship
+Sustainable development
+Consumption
+Anthropization
+Anti-consumerism
+Ecological footprint
+Ethical
+Over-consumption
+Simple living
+Sustainability advertising
+Sustainability brand
+Sustainability marketing myopia
+Sustainable
+Systemic change resistance
+Tragedy of the commons
+Population
+Birth control
+Family planning
+Control
+Overpopulation
+Zero growth
+Technology
+Appropriate
+Environmental
+Sustainable
+Biodiversity
+Biosecurity
+Biosphere
+Conservation biology
+Deep ecology
+Endangered species
+Holocene extinction
+Invasive species
+Energy
+Carbon footprint
+Climate change mitigation
+Conservation
+Descent
+Efficiency
+Emissions trading
+Fossil-fuel phase-out
+Peak oil
+Renewable
+Energy poverty
+Food
+Forest gardening
+Local
+Permaculture
+Security
+Sustainable agriculture
+Sustainable fishery
+Urban horticulture
+Water
+Conservation
+Crisis
+Efficiency
+Footprint
+Accountability
+Sustainability accounting
+Sustainability measurement
+Sustainability metrics and indices
+Sustainability reporting
+Standards and certification
+Sustainable yield
+Applications
+Advertising
+Architecture
+Art
+Business
+City
+College programs
+Community
+Design
+Ecovillage
+Education for Sustainable Development
+Fashion
+Gardening
+Geopark
+Green marketing
+Industries
+Landscape architecture
+Living
+Low-impact development
+Sustainable market
+Organizations
+Packaging
+Practices
+Procurement
+Tourism
+Transport
+Urban drainage systems
+Urban infrastructure
+Urbanism
+Management
+Environmental
+Fisheries
+Forest
+Materials
+Natural resource
+Planetary
+Waste
+Agreements
+UN Conference on the Human Environment (Stockholm 1972)
+Brundtlandt Commission Report (1983)
+Our Common Future (1987)
+Earth Summit (1992)
+Rio Declaration on Environment and Development
+Agenda 21 (1992)
+Convention on Biological Diversity (1992)
+ICPD Programme of Action (1994)
+Earth Charter
+Lisbon Principles
+UN Millennium Declaration (2000)
+Earth Summit 2002 (Rio+10, Johannesburg)
+United Nations Conference on Sustainable Development (Rio+20, 2012)
+Sustainable Development Goals
+Category
+Lists
+Outline
+Portal
+Science
+Studies
+Degrees
+Saved in parser cache with key enwiki:pcache:idhash:24458151-0!*!0!!en!4!* and timestamp 20161113155805 and revision id 748903212
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Planetary_boundaries&oldid=748903212"
+Categories: Earth sciencesGlobal environmental issuesGlobalization terminologyHidden categories: Articles needing more detailed referencesAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from December 2011Articles with attributed pull quotesCS1 maint: Explicit use of et al.CS1 maint: Multiple names: authors listArticles with specifically marked weasel-worded phrases from August 2011Use dmy dates from May 2012Pages using ISBN magic links

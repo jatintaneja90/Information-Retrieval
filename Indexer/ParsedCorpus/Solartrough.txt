@@ -1,0 +1,81 @@
+Solartrough
+From Wikipedia, the free encyclopedia
+(Redirected from Solar trough)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article's lead section may not adequately summarize key points of its contents. Please consider expanding the lead to provide an accessible overview of all important aspects of the article. Please discuss this issue on the article's talk page. (November 2012)
+Parabolic trough at a plant near Harper Lake, California
+A parabolic trough is a type of solar thermal collector that is straight in one dimension and curved as a parabola in the other two, lined with a polished metal mirror. The energy of sunlight which enters the mirror parallel to its plane of symmetry is focused along the focal line, where objects are positioned that are intended to be heated. For example, food may be placed at the focal line of a trough, which causes the food to be cooked when the trough is aimed so the Sun is in its plane of symmetry. Further information on the use of parabolic troughs for cooking can be found in the article about solar cookers.
+For other purposes, there is often a tube, frequently a Dewar tube, which runs the length of the trough at its focal line. The mirror is oriented so that sunlight which it reflects is concentrated on the tube, which contains a fluid which is heated to a high temperature by the energy of the sunlight. The hot fluid can be used for many purposes. Often, it is piped to a heat engine, which uses the heat energy to drive machinery or to generate electricity. This solar energy collector is the most common and best known type of parabolic trough. The paragraphs below therefore concentrate on this type.
+Contents
+1 Efficiency
+2 Design
+3 Variations
+3.1 Enclosed trough
+4 Early commercial adaption
+5 Commercial plants
+6 See also
+7 References
+8 Bibliography
+9 External links
+Efficiency[edit]
+A diagram of a parabolic trough solar farm (top), and an end view of how a parabolic collector focuses sunlight onto its focal point.
+The trough is usually aligned on a north-south axis, and rotated to track the sun as it moves across the sky each day. Alternatively, the trough can be aligned on an east-west axis; this reduces the overall efficiency of the collector due to cosine loss but only requires the trough to be aligned with the change in seasons, avoiding the need for tracking motors. This tracking method approaches theoretical efficiencies at the spring and fall equinoxes with less accurate focusing of the light at other times during the year. The daily motion of the sun across the sky also introduces errors, greatest at the sunrise and sunset and smallest at solar noon. Due to these sources of error, seasonally adjusted parabolic troughs are generally designed with a lower concentration acceptance product.
+Parabolic trough concentrators have a simple geometry, but their concentration is about 1/3 of the theoretical maximum for the same acceptance angle, that is, for the same overall tolerances of the system to all kinds of errors, including those referenced above. The theoretical maximum is better achieved with more elaborate concentrators based on primary-secondary designs using nonimaging optics[1][2] which may nearly double the concentration of conventional parabolic troughs[3] and are used to improve practical designs such as those with fixed receivers.[4]
+Heat transfer fluid (usually thermal oil) runs through the tube to absorb the concentrated sunlight. This increases the temperature of the fluid to some 400C.[5] The heat transfer fluid is then used to heat steam in a standard turbine generator. The process is economical and, for heating the pipe, thermal efficiency ranges from 60-80%. The overall efficiency from collector to grid, i.e. (Electrical Output Power)/(Total Impinging Solar Power) is about 15%, similar to PV (Photovoltaic Cells) but less than Stirling dish concentrators.[6]
+Design[edit]
+A parabolic trough is shaped as a parabola in the x-y plane, but is linear in the z direction
+A parabolic trough is made of a number of solar collector modules (SCM) fixed together to move as one solar collector assembly (SCA). A SCM could have a length up to 15 metres (49ft) or more. About a dozen or more of SCM make each SCA up to 200 metres (660ft) length. Each SCA is an independently tracking parabolic trough.
+A SCM may be made as a single-piece parabolic mirror or assembled with a number of smaller mirrors in parallel rows. Smaller modular mirrors requires smaller machines to build the mirror, reducing cost. Cost is also reduced in case of the need of replacing a damaged mirror, like after an object hit (during bad weather or other causes).
+In addition, V-type parabolic troughs exist which are made from 2 mirrors and placed at an angle towards each other.[7]
+In 2009, scientists at the National Renewable Energy Laboratory (NREL) and SkyFuel teamed to develop large curved sheets of metal that have the potential to be 30% less expensive than today's best collectors of concentrated solar power by replacing glass-based models with a silver polymer sheet that has the same performance as the heavy glass mirrors, but at a much lower cost and much lower weight. It also is much easier to deploy and install. The glossy film uses several layers of polymers, with an inner layer of pure silver.[8]
+As this renewable source of energy is inconsistent by nature, methods for energy storage have been studied, for instance the single-tank (thermocline) storage technology for large-scale solar thermal power plants. The thermocline tank approach uses a mixture of silica sand and quartzite rock to displace a significant portion of the volume in the tank. Then it is filled with the heat transfer fluid, typically a molten nitrate salt.
+Variations[edit]
+Enclosed trough[edit]
+Inside an enclosed trough system
+The enclosed trough architecture encapsulates the solar thermal system within a greenhouse-like glasshouse. The glasshouse creates a protected environment to withstand the elements that can negatively impact reliability and efficiency of the solar thermal system.[9]
+Lightweight curved solar-reflecting mirrors are suspended within the glasshouse structure. A single-axis tracking system positions the mirrors to track the sun and focus its light onto a network of stationary steel pipes, also suspended from the glasshouse structure.[10] Steam is generated directly using, oil field-quality water, as water flows from the inlet throughout the length of the pipes, without heat exchangers or intermediate working fluids.
+The steam produced is then fed directly to the fields existing steam distribution network, where the steam is continuously injected deep into the oil reservoir. Sheltering the mirrors from the wind allows them to achieve higher temperature rates and prevents dust from building up as a result from exposure to humidity.[9] GlassPoint Solar, the company that created the Enclosed Trough design, states its technology can produce heat for EOR for about $5 per million British thermal units in sunny regions, compared to between $10 and $12 for other conventional solar thermal technologies.[11]
+Early commercial adaption[edit]
+A 1917 patent drawing for Shuman's parabolic trough solar energy system
+Shuman sunengine 1907 Photo: Technical World magazine, September 1907
+In 1897, Frank Shuman, a U.S. inventor, engineer and solar energy pioneer built a small demonstration solar engine that worked by reflecting solar energy onto square boxes filled with ether, which has a lower boiling point than water, and were fitted internally with black pipes which in turn powered a steam engine. In 1908 Shuman formed the Sun Power Company with the intent of building larger solar power plants. He, along with his technical advisor A.S.E. Ackermann and British physicist Sir Charles Vernon Boys,[12] developed an improved system using mirrors to reflect solar energy upon collector boxes, increasing heating capacity to the extent that water could now be used instead of ether. Shuman then constructed a full-scale steam engine powered by low-pressure water, enabling him to patent the entire solar engine system by 1912.
+Shuman built the worlds first solar thermal power station in Maadi, Egypt between 1912 and 1913. Shumans plant used parabolic troughs to power a 45-52 kilowatt (60-70hp) engine that pumped more than 22,000 litres of water per minute from the Nile River to adjacent cotton fields. Although the outbreak of World War I and the discovery of cheap oil in the 1930s discouraged the advancement of solar energy, Shumans vision and basic design were resurrected in the 1970s with a new wave of interest in solar thermal energy.[13] In 1916 Shuman was quoted in the media advocating solar energy's utilization, saying:
+We have proved the commercial profit of sun power in the tropics and have more particularly proved that after our stores of oil and coal are exhausted the human race can receive unlimited power from the rays of the sun.
+Frank Shuman, New York Times, July 2, 1916[14]
+Commercial plants[edit]
+Array of parabolic troughs.
+Main article: List of solar thermal power stations
+Most commercial plants utilizing parabolic troughs are hybrids; fossil fuels are used during night hours, but the amount of fossil fuel used is limited to a maximum 27% of electricity production, allowing the plant to qualify in the US as a renewable energy source.[citation needed] Because they are hybrids and include cooling stations, condensers, accumulators and other things besides the actual solar collectors, the power generated per square meter of area varies enormously.[citation needed]
+As of 2014, the largest solar thermal power systems using parabolic trough technology include, the 354MW SEGS plants in California, the 280MW Solana Generating Station that features a molten salt heat storage, the 250MW Genesis Solar Energy Project, that came online in 2014, as well as the Spanish 200MW Solaben Solar Power Station, the 200MW Solnova Solar Power Station, and the Andasol 1 solar power station, using a Eurotrough-collector.[15][16]
+See also[edit]
+Parabola
+Parabolic reflector
+Solar cooker
+List of solar thermal power stations
+References[edit]
+^ Chaves, Julio (2015). Introduction to Nonimaging Optics, Second Edition. CRC Press. ISBN978-1482206739.
+^ Roland Winston et al.,, Nonimaging Optics, Academic Press, 2004 ISBN 978-0-12-759751-5
+^ Diogo Canavarro et al., New second-stage concentrators (XX SMS) for parabolic primaries; Comparison with conventional parabolic trough concentrators, Solar Energy 92 (2013) 98105
+^ Diogo Canavarro et al., Infinitesimal etendue and Simultaneous Multiple Surface (SMS) concentrators for fixed receiver troughs, Solar Energy 97 (2013) 493504
+^ Absorber tube temperature
+^ Patel99 Ch.9
+^ V-type parabolic troughs
+^ Harry Tournemille. "Award-Winning Solar Reflectors Will Cut Production Costs". www.energyboom.com. Retrieved 2009-11-25.
+^ a b Deloitte Touche Tohmatsu Ltd, "Energy & Resources Predictions 2012", 2 November 2011
+^ Helman, Christopher, "Oil from the sun", "Forbes", April 25, 2011
+^ Goossens, Ehren, "Chevron Uses Solar-Thermal Steam to Extract Oil in California", "Bloomberg", October 3, 2011
+^ C.V. Boys, scientist, Yatedo.com website.
+^ Smith, Zachary Alden; Taylor, Katrina D. (2008). Renewable And Alternative Energy Resources: A Reference Handbook. ABC-CLIO. p.174. ISBN978-1-59884-089-6.
+^ American Inventor Uses Egypt's Sun for Power; Appliance Concentrates the Heat Rays and Produces Steam, Which Can Be Used to Drive Irrigation Pumps in Hot Climates, The New York Times, July 2, 1916.
+^ NREL.gov Concentrating Solar Power Projects in the United States, 17 February 2014
+^ NREL-gov Concentrating Solar Power Projects in Spain, 17 February 2014
+Bibliography[edit]
+Duffie, John; Williams Beckman (1991). Solar Engineering of Thermal Processes (Second ed.). New York: John Wiley & Sons, Inc. ISBN0-471-51056-4.
+Patel., Mukund (1999). Wind and solar power systems. Boca Raton London New York Washington, D.C.: CRC Press. ISBN0-8493-1605-7.
+External links[edit]
+Kramer Junction Solar Power Plants, satellite image, Google Map.
+ParabolaTool - Tool for calculating the shape of a parabolic trough
+Saved in parser cache with key enwiki:pcache:idhash:788725-0!*!0!!en!4!* and timestamp 20161109101840 and revision id 748637625
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Parabolic_trough&oldid=748637625"
+Categories: Solar thermal energyHidden categories: Wikipedia introduction cleanup from November 2012All pages needing cleanupArticles covered by WikiProject Wikify from November 2012All articles covered by WikiProject WikifyAll articles with unsourced statementsArticles with unsourced statements from April 2014Articles with unsourced statements from December 2013

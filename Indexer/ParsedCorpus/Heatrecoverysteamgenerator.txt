@@ -1,0 +1,48 @@
+Heatrecoverysteamgenerator
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Modular HRSG
+A heat recovery steam generator (HRSG) is an energy recovery heat exchanger that recovers heat from a hot gas stream. It produces steam that can be used in a process (cogeneration) or used to drive a steam turbine (combined cycle).
+Contents
+1 HRSGs
+2 Packaged HRSGs
+3 Variations
+4 Once-through steam generators (OTSG)
+5 Applications
+6 Block diagram
+7 See also
+8 References
+9 External links
+HRSGs[edit]
+Modular HRSG GA
+HRSGs consist of four major components: the economizer, evaporator, superheater and water preheater. The different components are put together to meet the operating requirements of the unit. See the attached illustration of a Modular HRSG General Arrangement.
+Modular HRSGs can be categorized by a number of ways such as direction of exhaust gases flow or number of pressure levels. Based on the flow of exhaust gases, HRSGs are categorized into vertical and horizontal types. In horizontal type HRSGs, exhaust gas flows horizontally over vertical tubes whereas in vertical type HRSGs, exhaust gas flow vertically over horizontal tubes. Based on pressure levels, HRSGs can be categorized into single pressure and multi pressure. Single pressure HRSGs have only one steam drum and steam is generated at single pressure level whereas multi pressure HRSGs employ two (double pressure) or three (triple pressure) steam drums. As such triple pressure HRSGs consist of three sections: an LP (low pressure) section, a reheat/IP (intermediate pressure) section, and an HP (high pressure) section. Each section has a steam drum and an evaporator section where water is converted to steam. This steam then passes through superheaters to raise the temperature beyond the one at the saturation point.
+Packaged HRSGs[edit]
+Packaged HRSGs are designed to be shipped as a fully assembled unit from the factory. They can be used in waste heat or turbine (usually under 20 MW) applications. The packaged HRSG can have a water-cooled furnace, which allows for higher supplemental firing and better overall efficiency.
+Variations[edit]
+Some HRSGs include supplemental, or duct firing. These additional burners provide additional energy to the HRSG, which produces more steam and hence increases the output of the steam turbine. Generally, duct firing provides electrical output at lower capital cost. It is therefore often utilized for peaking operations.
+HRSGs can also have diverter valves to regulate the inlet flow into the HRSG. This allows the gas turbine to continue to operate when there is no steam demand or if the HRSG needs to be taken offline.
+Emissions controls may also be located in the HRSG. Some may contain a Selective Catalytic Reduction system to reduce nitrogen oxides (a large contributor to the formation of smog and acid rain) and/or a catalyst to remove carbon monoxide. The inclusion of an SCR dramatically affects the layout of the HRSG. NOx catalyst performs best in temperatures between 650F (340C) and 750F (400C). This usually means that the evaporator section of the HRSG will have to be split and the SCR placed in between the two sections. Some low temperature NOx catalysts have recently come to market that allows for the SCR to be placed between the Evaporator and Economizer sections (350F - 500F (175C - 260C)).
+Packaged HRSG
+Once-through steam generators (OTSG)[edit]
+A specialized type of HRSG without boiler drums is the once-through steam generator. In this design, the inlet feedwater follows a continuous path without segmented sections for economizers, evaporators, and superheaters. This provides a high degree of flexibility as the sections are allowed to grow or contract based on the heat load being received from the gas turbine. The absence of drums allows for quick changes in steam production and fewer variables to control, and is ideal for cycling and base load operation. With proper material selection, an OTSG can be run dry, meaning the hot exhaust gases can pass over the tubes with no water flowing inside the tubes. This eliminates the need for a bypass stack and exhaust gas diverter system which is required to operate a combustion turbine with a drum-type HRSG out of service.[1]
+Applications[edit]
+Heat recovery can be used extensively in energy projects.
+In the energy-rich Persian Gulf region, the steam from the HRSG is used for desalination plants.
+Universities are ideal candidates for HRSG applications. They can use a gas turbine to produce high reliability electricity for campus use. The HRSG can recover the heat from the gas turbine to produce steam/hot water for district heating or cooling.
+Large ocean vessels (e.g. Emma Maersk) make use of heat recovery
+Block diagram[edit]
+Block diagram of IGCC power plant, which utilizes the HRSG
+Block diagram of HRSG in Combined Cycle
+See also[edit]
+Exhaust heat recovery system
+BMW Turbosteamer
+Oxygenated treatment
+References[edit]
+^ www.otsg.com
+External links[edit]
+HRSG Users
+Saved in parser cache with key enwiki:pcache:idhash:2043467-0!*!0!!en!4!* and timestamp 20161105182615 and revision id 733397726
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Heat_recovery_steam_generator&oldid=733397726"
+Categories: Steam powerEnergy recovery

@@ -1,0 +1,175 @@
+Thermalenergystorage
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+District heating accumulation tower from Theiss near Krems an der Donau in Lower Austria with a thermal capacity of 2 GWh
+Thermal energy storage (TES) is achieved with greatly differing technologies that collectively accommodate a wide range of needs. It allows excess thermal energy to be collected for later use, hours, days or many months later, at individual building, multiuser building, district, town or even regional scale depending on the specific technology. As examples: energy demand can be balanced between daytime and nighttime; summer heat from solar collectors can be stored interseasonally for use in winter; and cold obtained from winter air can be provided for summer air conditioning. Storage mediums include: water or ice-slush tanks ranging from small to massive, masses of native earth or bedrock accessed with heat exchangers in clusters of small-diameter boreholes (sometimes quite deep); deep aquifers contained between impermeable strata; shallow, lined pits filled with gravel and water and top-insulated; and eutectic, phase-change materials.
+Other sources of thermal energy for storage include heat or cold produced with heat pumps from off-peak, lower cost electric power, a practice called peak shaving; heat from combined heat and power (CHP) power plants; heat produced by renewable electrical energy that exceeds grid demand and waste heat from industrial processes. Heat storage, both seasonal and short term, is considered an important means for cheaply balancing high shares of variable renewable electricity production and integration of electricity and heating sectors in energy systems almost or completely fed by renewable energy.[1][2][3]
+Contents
+1 Solar energy storage
+2 Economics
+3 Heat storage in tanks or rock caverns
+4 Heat storage in hot rocks, concrete, pebbles etc
+5 Electric thermal storage heaters
+6 Ice-based technology
+7 Cryogenic energy storage
+8 Molten salt technology
+9 Hot silicon technology
+10 Pumped-heat electricity storage
+10.1 Isentropic
+11 Electrolysis of Water
+12 Other systems
+13 Research
+14 See also
+15 References
+16 External links
+17 Further reading
+Solar energy storage[edit]
+Main articles: Solar hot water storage tank and Seasonal thermal energy storage
+Most practical active solar heating systems provide storage from a few hours to a day's worth of energy collected. However, there are a growing number of facilities that use seasonal thermal energy storage (STES), enabling solar energy to be stored in summer for space heating use during winter.[4][5][6] The Drake Landing Solar Community in Alberta, Canada has now achieved a year-round 97% solar heating fraction, a world record made possible only by incorporating STES.[4][7]
+Molten salt is a means of storing heat at a high temperature. This is a current commercial technology used in conjunction with concentrated solar power for later use in electricity generation, to allow solar power to provide electricity on a more continuous basis. These molten salts (Potassium nitrate, Calcium nitrate, Sodium nitrate, Lithium nitrate, etc.) have the property to absorb and store the heat energy that is released to the water, to transfer energy when needed. To improve the salt properties it must be mixed in a eutectic mixture.
+The use of both latent heat and sensible heat are also possible with high temperature solar thermal input. Various eutectic mixtures of metals, such as Aluminium and Silicon (AlSi12) offer a high melting point suited to efficient steam generation,[8] while high alumina cement-based materials offer good thermal storage capabilities[9]
+Economics[edit]
+High peak loads drive the capital expenditures of the electricity generation industry. The industry meets these peak loads with low-efficiency peaking power plants, usually gas turbines, which have lower capital costs and, since the recent drop in natural gas prices, have low fuel costs as well. A kilowatt-hour of electricity consumed at night can be produced at much lower marginal cost. Utilities have begun to pass these lower costs to consumers,[citation needed] in the form of Time of Use (TOU) rates, or Real Time Pricing (RTP) Rates.
+Heat storage in tanks or rock caverns[edit]
+See also: steam accumulator
+A steam accumulator consists of an insulated steel pressure tank containing hot water and steam under pressure. As a heat storage device, it is used to mediate heat production by a variable or steady source from a variable demand for heat. Steam accumulators may take on a significance for energy storage in solar thermal energy projects.
+See also: Hot water storage tank
+Large stores are widely used in Scandinavia to store heat for several days, to decouple heat and power production and to help meet peak demands. Interseasonal storage in caverns has been investigated and appears to be economical.[10]
+Heat storage in hot rocks, concrete, pebbles etc[edit]
+Water has one of the highest thermal capacities Heat capacity - 4.2J/(cmK) whereas concrete has about one third of that. On the other hand, concrete can be heated to much higher temperatures  1200C by e.g. electrical heating and therefore has a much higher overall volumetric capacity. Thus in the example below, an insulated cube of about 2.8m would appear to provide sufficient storage for a single house to meet 50% of heating demand. This could, in principle, be used to store surplus wind or PV heat due to the ability of electrical heating to reach high temperatures. At the neighborhood level, the Wiggenhausen-Sd solar development at Friedrichshafen has received international attention. This features a 12,000m (420,000cuft) reinforced concrete thermal store linked to 4,300m (46,000sqft) of solar collectors, which will supply the 570 houses with around 50% of their heating and hot water. Siemens builds a 36 MWh thermal storage near Hamburg with 600C basalt and 1.5 MW electric output.[11]
+Electric thermal storage heaters[edit]
+Main article: Storage heater
+These are commonplace in European homes and consist of high-density ceramic bricks or feolite blocks heated to a high temperature with electricity, and well insulated to release heat over a number of hours.
+Ice-based technology[edit]
+Main article: Ice storage air conditioning
+Air conditioning can be provided more economically by using cheaper electricity at night to freeze water into ice, then using the cool of the ice in the afternoon to reduce the electricity needed to handle air conditioning demands. Thermal energy storage using ice makes use of the large heat of fusion of water. One metric ton of water, one cubic meter, can store 334 million joules (MJ) or 317,000 BTUs (93kWh or 26.4 ton-hours). In fact, ice was originally transported from mountains to cities for use as a coolant, and the original definition of a "ton" of cooling capacity (heat flow) was the heat to melt one ton of ice every 24 hours. This is the heat flow one would expect in a 3,000-square-foot (280m2) house in Boston in the summer. This definition has since been replaced by less archaic units: one ton HVAC capacity = 12,000 BTU/hour (~3.5kW). Either way, an agreeably small storage facility can hold enough ice to cool a large building for a day or a week, whether that ice is produced by anhydrous ammonia chillers or hauled in by horse-drawn carts.
+As such there are developing and developed applications where ice is produced during off-peak periods and used for cooling at later time.
+In addition to using ice in cooling applications it is also being used in heat pump based heating systems. In these applications the phase change energy provides a very significant layer of thermal capacity that is near the bottom range of temperature that water source heat pumps can operate in. This allows the system to ride out the heaviest heating load conditions and extends the timeframe by which the source energy elements can contribute heat back into the system.
+Cryogenic energy storage[edit]
+Main article: Cryogenic energy storage
+This uses liquification of air or nitrogen as an energy store.
+A pilot cryogenic energy system that uses liquid air as the energy store, and low-grade waste heat to drive the thermal re-expansion of the air, has been operating at a power station in Slough, UK since 2010.[12]
+Molten salt technology[edit]
+Molten salt can be employed as a thermal energy storage method to retain thermal energy collected by a solar tower or solar trough of a concentrated solar power plant, so that it can be used to generate electricity in bad weather or at night. It was demonstrated in the Solar Two project from 1995-1999. The system is predicted to have an annual efficiency of 99%, a reference to the energy retained by storing heat before turning it into electricity, versus converting heat directly into electricity.[13][14][15] The molten salt mixtures vary. The most extended mixture contains sodium nitrate, potassium nitrate and calcium nitrate. It is non-flammable and nontoxic, and has already been used in the chemical and metals industries as a heat-transport fluid, so experience with such systems exists in non-solar applications.
+The salt melts at 131C (268F). It is kept liquid at 288C (550F) in an insulated "cold" storage tank. The liquid salt is pumped through panels in a solar collector where the focused sun heats it to 566C (1,051F). It is then sent to a hot storage tank. This is so well insulated that the thermal energy can be usefully stored for up to a week.[16]
+When electricity is needed, the hot salt is pumped to a conventional steam-generator to produce superheated steam for a turbine/generator as used in any conventional coal, oil, or nuclear power plant. A 100-megawatt turbine would need a tank of about 9.1 metres (30ft) tall and 24 metres (79ft) in diameter to drive it for four hours by this design.
+Several parabolic trough power plants in Spain[17] and solar power tower developer SolarReserve use this thermal energy storage concept. The Solana Generating Station in the U.S. has 6 hours of storage by molten salt.
+Hot silicon technology[edit]
+Solid or molten silicon offers much higher storage temperatures than salts with consequent greater capacity and efficiency. It is being researched as a possible more energy efficient storage technology. Silicon is able to store more than 1MWh of energy per cubic metre at 1400C. [18] [19]
+Pumped-heat electricity storage[edit]
+In pumped-heat electricity storage (PHES), a reversible heat-pump system is used to store energy as a temperature difference between two heat stores.[20][21][22]
+Isentropic[edit]
+One system which was being developed by the UK based company Isentropic operates as follows. Isentropic went bankrupt. [23] It comprises two insulated containers; a hot vessel storing thermal energy at high temperature and high pressure, and a cold vessel storing thermal energy at low temperature and low pressure. Both vessels are filled with crushed rock or gravel which acts as the heat storage medium. The vessels are connected at top and bottom by pipes and the whole system is filled with the inert gas argon.
+During the charging cycle the system uses surplus electricity to work as a heat pump. Argon at ambient temperature and pressure from the top of the cold store is compressed adiabatically to a pressure of 12 bar, heating it to around 500C (900F). The compressed gas is transferred to the top of the hot vessel where it percolates down through the gravel, transferring its heat to the rock and cooling to ambient temperature. The cooled, but still pressurized, gas emerging at the bottom of the vessel is then expanded (again adiabatically) back down to 1 bar, which lowers its temperature to -150C. The cold gas is then passed up through the cold vessel where it cools the rock while being warmed back to its initial condition.
+The energy is recovered as electricity by reversing the cycle. The hot gas from the hot vessel is expanded to drive a generator and then supplied to the cold store. The cooled gas retrieved from the bottom of the cold store is compressed which heats the gas to ambient temperature. The gas is then transferred to the bottom of the hot vessel to be reheated.
+The compression and expansion processes are provided by a specially designed reciprocating machine using sliding valves. Surplus heat generated by inefficiencies in the process is shed to the environment through heat exchangers during the discharging cycle.[20][23]
+The developer claims that a round trip efficiency of 72-80% is achievable.[20][23] This compares to >80% achievable with pumped hydro energy storage.[21]
+Electrolysis of Water[edit]
+It has also been suggested that an innovative method of 'storing' solar energy is to use electricity generated by Photovoltaic panels to electrolyse water to produce hydrogen fuel that can be stored and used to power cars and fuel cells renewably and cleanly. [24]
+Other systems[edit]
+Another proposed system uses turbomachinery and is capable of operating at much higher power levels.[22]
+Research[edit]
+Storing energy in molecular bonds is being investigated. Energy densities equivalent to lithium-ion batteries have been achieved.[25]
+See also[edit]
+Sustainable development portal
+Energy portal
+District heating
+Eutectic system
+Fireless locomotive
+Heat capacity
+Ice storage air conditioning
+Liquid nitrogen economy
+List of energy storage projects
+Phase change material
+Pumpable ice technology
+Steam accumulator
+Storage heater
+US DOE International Energy Storage Database
+References[edit]
+^ Jacobson et al., Low-cost solution to the grid reliability problem with 100% penetration of intermittent wind, water, and solar for all purposes. In: Proceedings of the National Academy of Sciences 112, No. 49, (2015), 1506015065, doi:10.1073/pnas.1510028112.
+^ Mathiesen et al, Smart Energy Systems for coherent 100% renewable energy and transport solutions. In: Applied Energy 145, (2015), 139154, doi:10.1016/j.apenergy.2015.01.075
+^ Henning, Palzer, A comprehensive model for the German electricity and heat sector in a future energy system with a dominant contribution from renewable energy technologiesPart I: Methodology. In: Renewable and Sustainable Energy Reviews 30, (2014), 10031018, doi:10.1016/j.rser.2013.09.012.
+^ a b Wong B. (2011). Drake Landing Solar Community. Presentation at IDEA/CDEA District Energy/CHP 2011 Conference. Toronto, June 2629, 2011.
+^ SunStor-4 Project, Marstal, Denmark. The solar district heating system, which has an interseasonal pit storage, is being expanded.
+^ "Thermal Energy Storage in ThermalBanks". ICAX Ltd, London. Retrieved 2011-11-21.
+^ Natural Resources Canada (2012). Canadian Solar Community Sets New World Record for Energy Efficiency and Innovation. 5 Oct 2012.
+^ ^Khare, S; Dell'Amico, M; Knight, C; McGarry, S. "Selection of materials for high temperature latent heat energy storage". Solar energy materials and solar cells, 2012.
+^ ^Khare, S; Dell'Amico, M; Knight, C; McGarry, S. "Selection of materials for high temperature sensible heat energy storage". Solar energy materials and solar cells, 2013.
+^ ^ Gebremedhin, Alemayehu; Heimo Zinko. "SEASONAL HEAT STORAGES IN DISTRICT HEATING SYSTEMS" (PDF). Linkping University, Linkping, Sweden. Archived from the original on 2011-07-13. Retrieved 2011-07-13.
+^ "Siemens project to test heated rocks for large-scale, low-cost thermal energy storage". Utility Dive. 12 October 2016. Retrieved 15 October 2016.
+^ Roger Harrabin, BBC Environment analyst (2 October 2012). "Liquid air 'offers energy storage hope'". BBC News, Science and Environment. BBC. Retrieved 2012-10-02.
+^ Mancini, Tom (10 January 2006). "Advantages of Using Molten Salt". Sandia National Laboratories. Archived from the original on 2011-07-14. Retrieved 2011-07-14.
+^ Molten salt energy storage system - A feasibility study Jones, B. G.; Roy, R. P.; Bohl, R. W. (1977) - Smithsonian/NASA ADS Physics Abstract Service. Abstract accessed December 2007
+^ Biello, David. "How to Use Solar Energy at Night". Scientific American. Scientific American, a Division of Nature America, Inc. Retrieved 19 June 2011.
+^ Ehrlich, Robert, 2013, Renewable Energy: A First Course, CRC Press, Chap. 13.1.22 Thermal storage p. 375 ISBN 978-1439861158
+^ Parabolic Trough Thermal Energy Storage Technology Parabolic Trough Solar Power Network. April 04, 2007. Accessed December 2007
+^ "Molten silicon used for thermal energy storage". The Engineer. Retrieved 2016-11-02.
+^ "Energy storage system based on silicon from sand". www.powerengineeringint.com. Retrieved 2016-11-02.
+^ a b c Economist.com (2014-03-12). "Electricity storage: Pumping heat". The Economist. Retrieved 2014-06-19.
+^ a b "ENERGY STORAGE:THE MISSING LINK IN THE UK'S ENERGY COMMITMENTS". IMechE. p.27.
+^ a b Jacques Ruer; et al. "Pumped Heat Energy Storage" (PDF). Retrieved 2014-07-16.
+^ a b c "Isentropic's PHES Technology". Retrieved 16 July 2014.
+^ http://news.stanford.edu/news/2014/november/catalyst-energy-storage-110514.html
+^ Kolpak, Alexie M. (20 June 2011). "Azobenzene-Functionalized Carbon Nanotubes As High-Energy Density Solar Thermal Fuels". NANO Letters. American Chemical Society. Retrieved 14 July 2011.
+External links[edit]
+ASHRAE white paper on the economies of load shifting
+MSN article on Ice Storage Air Conditioning at Archive.is (archived 2013-01-19)
+ICE TES Thermal Energy Storage - IDE-Tech
+http://thermalbatterysystems.com/featured-systems/laramie-wyoming-thermal-battery-system-example/#.U8Whdo1dXx8
+"Prepared for the Thermal Energy Storage Systems Collaborative of the California Energy Commission" Report titled "Source Energy and Environmental Impacts of Thermal Energy Storage." Tabors Caramanis & Assoc energy.ca.gov
+Further reading[edit]
+Hyman, Lucas B. Sustainable Thermal Storage Systems: Planning, Design, and Operations. New York: McGraw-Hill, 2011. Print.
+Henrik Lund, Renewable Energy Systems: A Smart Energy Systems Approach to the Choice and Modeling of 100% Renewable Solutions, Academic Press 2014, ISBN 978-0-124-10423-5.
+Authority control
+GND: 4064204-5
+NDL: 01198874
+NewPP limit report
+Parsed by mw1252
+Cached time: 20161120113507
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.204 seconds
+Real time usage: 0.253 seconds
+Preprocessor visited node count: 1146/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 26783/2097152 bytes
+Template argument size: 1153/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 5.47 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+215.756
+1 - -total
+38.38%
+82.797
+1 - Template:Reflist
+23.94%
+51.649
+11 - Template:Cite_web
+15.00%
+32.356
+1 - Template:Citation_needed
+13.56%
+29.258
+1 - Template:Fix
+12.90%
+27.825
+7 - Template:Convert
+8.85%
+19.089
+1 - Template:Authority_control
+8.62%
+18.589
+4 - Template:Main
+7.42%
+16.003
+2 - Template:Category_handler
+4.81%
+10.380
+1 - Template:Delink
+Saved in parser cache with key enwiki:pcache:idhash:2465250-0!*!0!!en!4!* and timestamp 20161120113507 and revision id 749655483
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Thermal_energy_storage&oldid=749655483"
+Categories: Energy storageHeating, ventilating, and air conditioningEnergy conservationHeat transferSolar designRenewable energyHidden categories: Pages using ISBN magic linksAll articles with unsourced statementsArticles with unsourced statements from March 2011Webarchive template archiveis linksWikipedia articles with GND identifiers

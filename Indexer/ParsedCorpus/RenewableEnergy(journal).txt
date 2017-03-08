@@ -1,0 +1,21 @@
+RenewableEnergy(journal)
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Renewable Energy is a monthly peer-reviewed scientific journal covering research on renewable energy, sustainable energy and the energy transition. It is published by Elsevier and the editor-in-chief is S.A. Kalogirou (Cyprus University of Technology). According to the Journal Citation Reports, the journal has a 2013 impact factor of 3.361.[1]
+References[edit]
+^ "Renewable Energy". 2013 Journal Citation Reports. Web of Science (Science ed.). Thomson Reuters. 2014.
+External links[edit]
+Official website
+ISSN0960-1481
+This article about energy, its collection, its distribution, or its uses is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+This article about an engineering journal is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+See tips for writing articles about academic journals. Further suggestions might be found on the article's talk page.
+Saved in parser cache with key enwiki:pcache:idhash:43422966-0!*!0!!*!4!* and timestamp 20161107123912 and revision id 713722849
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Renewable_Energy_(journal)&oldid=713722849"
+Categories: Elsevier academic journalsPublications established in 1991English-language journalsEnergy and fuel journalsMonthly journalsRenewable energyEnergy stubsEngineering journal stubsHidden categories: All stub articles

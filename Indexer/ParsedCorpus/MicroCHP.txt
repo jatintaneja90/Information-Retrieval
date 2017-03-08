@@ -1,0 +1,464 @@
+MicroCHP
+From Wikipedia, the free encyclopedia
+(Redirected from Micro-CHP)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article may be too technical for most readers to understand. Please help improve this article to make it understandable to non-experts, without removing the technical details. The talk page may contain suggestions. (August 2015) (Learn how and when to remove this template message)
+Micro combined heat and power or micro-CHP is an extension of the idea of cogeneration to the single/multi family home or small office building in the range of up to 50 kW. Local generation has a higher efficiency as it lacks the 8-10% energy losses when transporting electricity over long distances and the 1015% energy losses on heat transfer in district heating networks due to the difference between the thermal energy carrier (hot water) and the colder external environment. The most common systems use natural gas as their primary energy source and emit carbon dioxide.
+Contents
+1 Overview
+2 Technologies
+2.1 Fuels
+2.2 Engine types
+2.3 Fuel cells
+2.4 Thermoelectrics
+2.5 Solar micro-CHP
+2.5.1 CPVT
+2.5.2 CHP+PV
+3 Net metering
+4 Market status
+4.1 Japan
+4.1.1 ECOWILL
+4.1.2 PEMFC
+4.1.3 SOFC
+4.2 South Korea
+4.3 Europe
+4.4 Sweden
+4.5 Germany
+4.5.1 PEMFC
+4.5.2 SOFC
+4.6 UK
+4.6.1 PEMFC
+4.6.2 SOFC
+4.7 Denmark
+4.8 The Netherlands
+4.9 United States
+4.10 Canada
+5 Research
+6 See also
+7 References
+8 Codes and standards
+9 External links
+Overview[edit]
+Combined heat and power (CHP) systems for homes or small commercial buildings are often fueled by natural gas to produce electricity and heat. A micro-CHP system is a small fuel cell or a heat engine driving a generator which provide electric power and heat for an individual building's heating, ventilation, and air conditioning. A micro-CHP may primarily follow heat demand, delivering electricity as the by-product, or may follow electrical demand to generate electricity and heat is the by-product. When used primarily for heat in circumstances of fluctuating electrical demand, micro-CHP systems may generate more electricity than is instantly being demanded.
+The heat engine version is a small scale example of cogeneration schemes which have been used with large electric power plants. The purpose is to utilize more of the energy in the fuel. The reason for using such systems is that heat engines, such as steam power plants which generate the electric power needed for modern life by burning fuel, are not very efficient. Due to Carnot's theorem, a heat engine cannot be 100% efficient; it cannot convert anywhere near all the heat produced from the fuel it burns into useful forms such as electricity. So heat engines always produce a surplus of low-temperature waste heat, called "secondary heat" or "low-grade heat". Modern plants are limited to efficiencies of about 3360% at most, so 4067% of the energy is exhausted as waste heat. In the past this energy was usually wasted to the environment. Cogeneration systems, built in recent years in cold-climate countries, utilize the waste heat produced by large power plants for heating, piping hot water from the plant into buildings in the surrounding community.
+However, it is not practical to transport heat long distances, due to heat loss from the pipes. Since electricity can be transported practically, it is more efficient to generate the electricity near where the waste heat can be used. So in a "micro-combined heat and power system" (micro-CHP), small power plants are instead located where the secondary heat can be used, in individual buildings. Micro-CHP are defined by the EC as being of less than 50kW electrical power output.
+In a central power plant, the supply of "waste heat" may exceed the local heat demand. In such cases, if it is not desirable to reduce the power production, the excess waste heat must be disposed in e.g. cooling towers or sea cooling without being used. A way to avoid excess waste heat is to reduce the fuel input to the CHP plant, reducing both the heat and power output to balance the heat demand. In doing this, the power production is limited by the heat demand.
+In a traditional power plant delivering electricity to consumers, about 30% of the heat content of the primary heat energy source, such as biomass, coal, solar thermal, natural gas, petroleum or uranium, reaches the consumer, although the efficiency can be 20% for very old plants and 45% for newer gas plants. In contrast, a CHP system converts 15%42% of the primary heat to electricity, and most of the remaining heat is captured for hot water or space heating. In total, as much as 90% of the heat from the primary energy source goes to useful purposes when heat production does not exceed the demand.
+CHP systems are able to increase the total energy utilization of primary energy sources, such as fuel and concentrated solar thermal energy. Thus CHP has been steadily gaining popularity in all sectors of the energy economy, due to the increased costs of electricity and fuel, particularly fossil fuels, and due to environmental concerns, particularly climate change.[1]
+CHP systems have benefited the industrial sector since the beginning of the industrial revolution. For three decades, these larger CHP systems were more economically justifiable than micro-CHP, due to the economy of scale. After the year 2000, micro-CHP has become cost effective in many markets around the world, due to rising energy costs. The development of micro-CHP systems has also been facilitated by recent technological developments of small heat engines. This includes improved performance and cost-effectiveness of fuel cells, Stirling engines, steam engines, gas turbines, diesel engines and Otto engines.
+PEMFC fuel cell mCHP operates at low temperature (50 to 100C) and needs high purity hydrogen, its prone to contamination, changes are made to operate at higher temperatures and improvements on the fuel reformer. SOFC fuel cell mCHP operates at a high temperature (500 to 1,000 CP) and can handle different energy sources well but the high temperature requires expensive materials to handle the temperature, changes are made to operate at a lower temperature. Because of the higher temperature SOFC in general has a longer start-up time and need continuous heat output even in times when there is no thermal demand.
+CHP systems linked to absorption chillers can use waste heat for refrigeration.[2]
+A 2013 UK report from Ecuity Consulting stated that MCHP is the most cost-effective method of utilising gas to generate energy at the domestic level.[3][4]
+Delta-ee consultants stated in 2013 that with 64% of global sales the fuel cell micro-combined heat and power passed the conventional engine-based micro-CHP systems in sales in 2012.[5]
+Technologies[edit]
+Micro-CHP engine systems are currently based on several different technologies:[6]
+Internal combustion engines
+Stirling engines
+Fuel cell
+Microturbines
+Steam engine/Steam motor (using either the traditional water or organic chemicals such as refrigerants)
+Fuels[edit]
+There are many types of fuels and sources of heat that may be considered for micro-CHP. The properties of these sources vary in terms of system cost, heat cost, environmental effects, convenience, ease of transportation and storage, system maintenance, and system life. Some of the heat sources and fuels that are being considered for use with micro-CHP include: natural gas, LPG, biomass, vegetable oil (such as rapeseed oil), woodgas, solar thermal, and lately also hydrogen, as well as multi-fuel systems. The energy sources with the lowest emissions of particulates and net-carbon dioxide include solar power, hydrogen, biomass (with two-stage gasification into biogas), and natural gas. Due to the high efficiency of the CHP process, cogeneration has still lower carbon emissions compared to energy transformation in fossil driven boilers or thermal power plants.
+The majority of cogeneration systems use natural gas for fuel, because natural gas burns easily and cleanly, it can be inexpensive, it is available in most areas and is easily transported through pipelines, which already exist for many homes.
+Engine types[edit]
+Natural gas is suitable for internal combustion engines, such as Otto engine and gas turbine systems. Gas turbines are used in many small systems due to their high efficiency, small size, clean combustion, durability and low maintenance requirements. Gas turbines designed with foil bearings and air-cooling operate without lubricating oil or coolants. The waste heat of gas turbines is mostly in the exhaust, whereas the waste heat of reciprocating internal combustion engines is split between the exhaust and cooling system.
+External combustion engines can run on any high-temperature heat source. These engines include the Stirling engine, hot "gas" turbocharger, and the steam engine. Both range from 10%-20% efficiency, and as of 2014, small quantities are in production for micro-CHP products.
+Other possibilities include the Organic Rankine cycle, which operates at lower temperatures and pressures using low-grade heat sources. The primary advantage to this is that the equipment is essentially an air-conditioning or refrigeration unit operating as an engine, whereby the piping and other components need not be designed for extreme temperatures and pressures, reducing cost and complexity. Electrical efficiency suffers, but it is presumed that such a system would be utilizing waste heat or a heat source such as a wood stove or gas boiler that would exist anyway for purposes of space heating.
+The future of combined heat and power, particularly for homes and small businesses, will continue to be affected by the price of fuel, including natural gas. As fuel prices continue to climb, this will make the economics more favorable for energy conservation measures, and more efficient energy use, including CHP and micro-CHP.
+Fuel cells[edit]
+Fuel cells generate electricity and heat as a by product. The advantages for a stationary fuel cell application over stirling CHP are no moving parts, less maintenance, and quieter operation. The surplus electricity can be delivered back to the grid.[7]
+PEMFC fuel cells fueled by natural gas or propane use a steam reformer to convert methane in the gas supply into carbon dioxide and hydrogen; the hydrogen then reacts with oxygen in the fuel cell to produce electricity.[8] A PEMFC fuel cell based micro-CHP has an electrical efficiency of 37% LHV and 33% HHV and a heat recovery efficiency of 52% LHV and 47% HHV with a service life of 40,000 hours or 4000 start/stop cycles which is equal to 10 year use. An estimated 138,000 Fuel cell CHP systems below 1kW had been installed in Japan by the end of 2014.[6] Most of these CHP systems are PEMFC based (85%) and the remaining are SOFC systems.
+In 2013 Lifetime is around 60,000 hours. For PEM fuel cell units, which shut down at night, this equates to an estimated lifetime of between ten and fifteen years.[9]
+United States Department of Energy (DOE) Technical Targets: 110kW residential combined heat and power fuel cells operating on natural gas.[10]
+Type
+2008 Status
+2012
+2015
+2020
+Electrical efficiency at rated power2
+34%
+40%
+42.5%
+45%
+CHP energy efficiency3
+80%
+85%
+87.5%
+90%
+Factory cost4
+$750/kW
+$650/kW
+$550/kW
+$450/kW
+Transient response (10%90% rated power)
+5 min
+4 min
+3 min
+2 min
+Start-up time from 20C ambient temperature
+60 min
+45 min
+30 min
+20 min
+Degradation with cycling5
+< 2%/1000 h
+0.7%/1000 h
+0.5%/1000 h
+0.3%/1000 h
+Operating lifetime6
+6,000 h
+30,000 h
+40,000 h
+60,000 h
+System availability
+97%
+97.5%
+98%
+99%
+1Standard utility natural gas delivered at typical residential distribution line pressures. 2Regulated AC net/lower heating value of fuel. 3Only heat available at 80C or higher is included in CHP energy efficiency calculation. 4Cost includes materials and labor costs to produce stack, plus any balance of plant necessary for stack operation. Cost defined at 50,000 unit/year production (250 MW in 5kW modules). 5Based on operating cycle to be released in 2010. 6Time until >20% net power degradation.
+Thermoelectrics[edit]
+Thermoelectric generators operating on the Seebeck Effect show promise due to their total absence of moving parts. Efficiency, however, is the major concern as most thermoelectric devices fail to achieve 5% efficiency even with high temperature differences.
+Solar micro-CHP[edit]
+CPVT[edit]
+This can be achieved by Photovoltaic thermal hybrid solar collector, another option is Concentrated photovoltaics and thermal (CPVT), also sometimes called combined heat and power solar (CHAPS), is a cogeneration technology used in concentrated photovoltaics that produce both electricity and heat in the same module. The heat may be employed in district heating, water heating and air conditioning, desalination or process heat.
+CPVT systems are currently in production in Europe,[11] with Zenith Solar developing CPVT systems with a claimed efficiency of 72%.[12]
+Sopogy produces a micro concentrated solar power (microCSP) system based on parabolic trough which can be installed above building or homes, the heat can be used for water heating or solar air conditioning, a steam turbine can also be installed to produce electricity.
+CHP+PV[edit]
+The recent development of small scale CHP systems has provided the opportunity for in-house power backup of residential-scale photovoltaic (PV) arrays.[13] The results of a recent study show that a PV+CHP hybrid system not only has the potential to radically reduce energy waste in the status quo electrical and heating systems, but it also enables the share of solar PV to be expanded by about a factor of five.[13] In some regions, in order to reduce waste from excess heat, an absorption chiller has been proposed to utilize the CHP-produced thermal energy for cooling of PV-CHP system.[14] These trigen+PV systems have the potential to save even more energy.
+Net metering[edit]
+To date, micro-CHP systems achieve much of their savings, and thus attractiveness to consumers, by the value of electrical energy which is replaced by the autoproduced electricity. A "generate-and-resell" or net metering model supports this as home-generated power exceeding the instantaneous in-home needs is sold back to the electrical utility. This system is efficient because the energy used is distributed and used instantaneously over the electrical grid. The main losses are in the transmission from the source to the consumer which will typically be less than losses incurred by storing energy locally or generating power at less than the peak efficiency of the micro-CHP system. So, from a purely technical standpoint dynamic demand management and net-metering are very efficient.
+Another positive to net-metering is the fact that it is fairly easy to configure. The user's electrical meter is simply able to record electrical power exiting as well as entering the home or business. As such, it records the net amount of power entering the home. For a grid with relatively few micro-CHP users, no design changes to the electrical grid need be made. Additionally, in the United States, federal and now many state regulations require utility operators to compensate anyone adding power to the grid. From the standpoint of grid operator, these points present operational and technical as well as administrative burdens. As a consequence, most grid operators compensate non-utility power-contributors at less than or equal to the rate they charge their customers. While this compensation scheme may seem almost fair at first glance, it only represents the consumers cost-savings of not purchasing utility power versus the true cost of generation and operation to the micro-CHP operator. Thus from the standpoint of micro-CHP operators, net-metering is not ideal.
+While net-metering is a very efficient mechanism for using excess energy generated by a micro-CHP system, it does have detractors. Of the detractors' main points, the first to consider is that while the main generating source on the electrical grid is a large commercial generator, net-metering generators "spill" power to the smart grid in a haphazard and unpredictable fashion. However, the effect is negligible if there are only a small percentage of customers generating electricity and each of them generates a relatively small amount of electricity. When turning on an oven or space heater, about the same amount of electricity is drawn from the grid as a home generator puts out. If the percentage of homes with generating systems becomes large, then the effect on the grid may become significant. Coordination among the generating systems in homes and the rest of the grid may be necessary for reliable operation and to prevent damage to the grid.
+Market status[edit]
+Japan[edit]
+The largest deployment of micro-CHP is in Japan in 2009 where over 90,000 units in place,[6] with the vast majority being of Honda's[15] "ECO-WILL" type.[16] Six Japanese energy companies launched the 300W1kW PEMFC/SOFC ENE FARM[17][18] product in 2009, with 3,000 installed units in 2008, a production target of 150,000 units for 20092010 and a target of 2,500,000 units in 2030.[19] 20,000 units where sold in 2012 overall within the Ene Farm project making an estimated total of 50,000 PEMFC and up to 5,000 SOFC installations.[20] For 2013 a state subsidy for 50,000 units is in place.[9] The ENE FARM project will pass 100.000 systems in 2014, 34.213 PEMFC and 2.224 SOFC were installed in the period 2012-2014, 30,000 units on LNG and 6,000 on LPG.[21]
+ECOWILL[edit]
+Sold by various gas companies and as of 2013, installed in a total of 131,000 homes. Manufactured by Honda using their single cylinder EXlink engine capable of burning natural gas or propane. Each unit produces 1kW of electricity and 2.8kW of hot water.[22]
+PEMFC[edit]
+Per December 2012, Panasonic and Tokyo Gas Co., Ltd. sold about 21,000 PEM Ene-Farm units in Japan for a price of $22,600 before installation.[23][24]
+Toshiba and Osaka Gas Co., Ltd./Nichigas[25] installed 6,500 PEM ENE FARM units (manufactured by Chofu Seisakusho Co., Ltd,[26] ) per November 2011.[27]
+SOFC[edit]
+In the middle of 2012, JX Nippon Oil Co. & Sanyo and Seibu Gas Energy Co. sold around 4,000 SOFC Ene Farm units.[28]
+Aisin Seiki in combination with Osaka Gas, Kyocera, Toyota and Chofu Seisakusho started in April 2012 with the sales of the SOFC ENE-FARM Type S for around $33,500 before installation.[29]
+NGK is a manufacturer of 700W-1 Kw mCHP units.[30]
+Miura Kogyo[31] and Sumitomo Precision Products with a 4.2 Kw unit.
+Toto Ltd.[32]
+South Korea[edit]
+In South Korea, subsidies will start at 80 percent of the cost of a domestic fuel cell.[33] The Renewable Portfolio Standard program with renewable energy certificates runs from 2012 to 2022.[34] Quota systems favor large, vertically integrated generators and multinational electric utilities, if only because certificates are generally denominated in units of one megawatt-hour. They are also more difficult to design and implement than a Feed-in tariff.[35] Around 350 residential mCHP units where installed in 2012.[36]
+PEMFC by GS FuelCell,[37] FuelCell Power,[38] Hyundai Hysco[39] JV with Plug Power, IHI and Hyosung,[40]
+SOFC by KEPRI,[41] LS Industrial Systems (from ClearEdge Power), Samsung Everland (ClearEdge Power).
+MCFC by POSCO Energy (FuelCell Energy) [42] and Doosan.
+PAFC Doosan Fuel Cell America
+AFC AFC Energy
+Europe[edit]
+The European publicprivate partnership Fuel Cells and Hydrogen Joint Undertaking Seventh Framework Programme project ene.field aims to deploy by 2017[43] up 1,000 residential fuel cell Combined Heat and Power (micro-CHP) installations in 12 EU member states.
+The programme brings together 9 mature European micro FC-CHP manufacturers into a common analysis framework to deliver trials across all of the available fuel cell CHP technologies. Fuel cell micro-CHP trials will be installed and actively monitored in dwellings across the range of European domestic heating markets, dwelling types and climatic zones, which will lead to an invaluable dataset on domestic energy consumption and micro-CHP applicability across Europe.
+The ene.field project also brings together over 30 utilities, housing providers and municipalities to bring the products to market and explore different business models for micro-CHP deployment.[44][45][46]
+Sweden[edit]
+Powercell Sweden is a fuel cell company that develop environmentally friendly electric generators with the unique fuel cell and reformer technology that is suitable for both existing and future fuel.
+Germany[edit]
+In Germany, ca 50 MW of mCHP up to 50kW units have been installed in 2015.[47] The German government is offering large CHP incentives, including a market premium on electricity generated by CHP and an investment bonus for micro-CHP units. The German testing project Callux has 500 mCHP installations per nov 2014.[21] North-Rhine Westphalia launched a 250 million subsidy program for up to 50kW lasting until 2017.[48]
+PEMFC[edit]
+BDR Thermea/BAXI (Toshiba)
+Viessmann (Panasonic)[49]
+IRD Fuel Cell [50]
+Elcore,[51] a 300W addon.[52]
+Tropical [53]
+Dantherm Power
+Riesaer Brennstoffzellentechnik GmbH (Inhouse Engineering)[54]
+SOFC[edit]
+Center for Fuel Cell Technology (ZBT) (JX Nippon)[55]
+Ceramic Fuel Cells installs until 2014 up to 100 SOFC units under the SOFT-PACT[56] project with E.ON in Germany and the UK. A factory in Heinsberg, Germany for the production of SOFC based micro-CHP units started in June 2009 to produce 10,000 two-kilowatt units per year.[57]
+Vaillant (Sunfire/Staxera)[58]
+Buderus/Junkers  Bosch Thermotechnik (Aisin Seiki)[59]
+SOFCpower/Ariston
+Itho-Daalderop (Ceres Power)
+Viessmann (HEXIS),[60][61]
+UK[edit]
+It is estimated that about 1,000 micro-CHP systems were in operation in the UK as of 2002. These are primarily Whispergen using Stirling engines, and Senertec Dachs reciprocating engines. The market is supported by the government through regulatory work, and some government research money expended through the Energy Saving Trust and Carbon Trust, which are public bodies supporting energy efficiency in the UK.[62] Effective as of 7 April 2005, the UK government has cut the VAT from 20% to 5% for micro-CHP systems, in order to support demand for this emerging technology at the expense of existing, less environmentally friendly technology. The reduction in VAT is effectively a 10.63%[63] subsidy for micro-CHP units over conventional systems, which will help micro-CHP units become more cost competitive, and ultimately drive micro-CHP sales in the UK. Of the 24 million households in the UK, as many as 14 to 18 million are thought to be suitable for micro-CHP units.[64] Two fuel cell varieties of mCHP co-generation units are almost ready for mainstream production and are planned for release to commercial markets in early in 2014. With the UK Government's Feed-In-Tariff available for a 10-year period, a wide uptake of the technology is anticipated.
+PEMFC[edit]
+In early 2012 less than 1000 1 kWe Baxi-Innotech [65] PEM micro-CHP units from BDR Thermea were installed [66]
+IE-CHP
+SOFC[edit]
+A Ceres Power factory in Horsham UK for the production of SOFC based micro-CHP units is expected to start low-volume production in the second half of 2009[67]
+Ceramic Fuel Cells
+Denmark[edit]
+The Danish mCHP project 2007 to 2014 with 30 units is on the island of Lolland and in the western town Varde.[68] Denmark is currently part of the Ene.field project.
+IRD Fuel Cell
+Dantherm Power (Ballard Power)
+The Netherlands[edit]
+The micro-CHP subsidy was ended in 2012.[66] To test the effects of mCHP on a smart grid, 45 natural gas SOFC units (each 1,5 kWh) from Republiq Power (Ceramic Fuel Cells) will be placed on Ameland in 2013 to function as a virtual power plant.[69]
+United States[edit]
+The federal government is offering a 10% tax credit for smaller CHP and micro-CHP commercial applications.
+In 2007, the United States company "Climate Energy" of Massachusetts introduced the "Freewatt,[70] a micro-CHP system based on a Honda MCHP engine bundled with a gas furnace (for warm air systems) or boiler (for hydronic or forced hot water heating systems). Through a pilot program scheduled for mid-2009 in the Canadian province of Ontario, the Freewatt system is being offered by home builder Eden Oak with support from ECR International, Enbridge Gas Distribution and National Grid.[71]
+AFC Doosan Fuel Cell America
+PEMFC Plug Power (Ballard Power Systems)
+Canada[edit]
+Hyteon PEM [72]
+Research[edit]
+Testing is underway in Ameland, the Netherlands for a three-year field testing until 2010 of HCNG were 20% hydrogen is added to the local CNG distribution net, the appliances involved are kitchen stoves, condensing boilers, and micro-CHP boilers.[73][74]
+Micro-CHP Accelerator, a field trial performed between 2005 and 2008, studied the performance of 87 Stirling engine and internal combustion engine devices in residential houses in the UK. This study found that the devices resulted in average carbon savings of 9% for houses with heat demand over 54 GJ/year.[75]
+An ASME (American Society of Mechanical Engineers) paper fully describes the performance and operating experience with two residential sized Combined Heat and Power units which were in operation from 1979 through 1995.[76]
+See also[edit]
+Energy portal
+Renewable energy portal
+Distributed generation
+District heating
+Feed-in tariff
+Geothermal power in Iceland
+Grid-tied electrical system
+Home fuel cell
+Pinch analysis
+Relative cost of electricity generated by different sources
+Stationary fuel cell applications
+Timeline of hydrogen technologies
+Trigeneration
+Virtual power plant
+References[edit]
+^ Notter, Dominic A.; Kouravelou, Katerina; Karachalios, Theodoros; Daletou, Maria K.; Haberland, Nara Tudela (2015). "Life cycle assessment of PEM FC applications: electric mobility and -CHP". Energy Environ. Sci. 8 (7): 19691985. doi:10.1039/C5EE01082A.
+^ Tri-Generation success story
+^ The role of micro CHP in a smart energy world
+^ Micro CHP report powers heated discussion about UK energy future
+^ The fuel cell industry review 2013
+^ a b c Ellamla H.R.; Staffell, I; Bujlo, P; Pollet, BG; Pasupathi, S (28 May 2015). "Current status of fuel cell based combined heat and power systems for residential sector". Journal of Power Sources. 293 (C): 312328. doi:10.1016/j.jpowsour.2015.05.050.
+^ Integration of fuel cell micro-CHPs on low voltage grid: A Danish case study
+^ http://www.osakagas.co.jp/en/rd/fuelcell/pefc/reformed/enefarm.html
+^ a b Latest developments in the Ene-Farm scheme
+^ DOE Distributed/Stationary fuel cell systems
+^ Renewable Energy World-Researchers explore hybrid concentrated solar energy system
+^ "Zenith Solar Projects  Yavne". zenithsolar.com. 2011. Retrieved May 14, 2011.
+^ a b J. M. Pearce. "Expanding Photovoltaic Penetration with Residential Distributed Generation from Hybrid Solar Photovoltaic + Combined Heat and Power Systems". Energy. 34: 19471954 (2009. doi:10.1016/j.energy.2009.08.012.
+^ A. Nosrat; J. M. Pearce (2011). "Dispatch Strategy and Model for Hybrid Photovoltaic and Combined Heating, Cooling, and Power Systems". Applied Energy. 88 (9): 32703276. doi:10.1016/j.apenergy.2011.02.044.
+^ "Honda Worldwide | July 17, 2007 "Honda's Compact Household Cogeneration Unit Achieves Cumulative Sales of 50,000 units in Japan"". World.honda.com. Retrieved 2012-06-12.
+^ Micro CHP in Japan
+^ (English) Japan 2005-2008 mchp[dead link]
+^ FCgen-1030V3 Archived July 7, 2011, at the Wayback Machine.
+^ ENE FARM residential fuel cells launched Archived June 16, 2012, at the Wayback Machine.
+^ The IEA CHP and DHC Collaborative
+^ a b Enfarm enefield eneware
+^ http://world.honda.com/power/cogenerator/
+^ Launch of new 'Ene-Farm' home fuel cell product more affordable and easier to install
+^ Features of the Panasonic household fuel cell
+^ Nichigas Ene Farm
+^ Toshiba revamps 'Ene Farm' residential fuel cell
+^ Toshiba revamps 'Ene Farm' residential fuel cell
+^ The latest news number 196, 2012 FCDIC
+^ ENE-FARM Type S
+^ Development of SOFC for residential use
+^ Miura
+^ Toto Ltd
+^ South Korea unveils 80 per cent subsidy for domestic fuel cells
+^ R&D status and prospects on fuel cells in Korea
+^ Renewable Energy Policy Mechanisms by Paul Gipe(1.3MB)
+Lauber, V. (2004). "REFIT and RPS: Options for a harmonized Community framework," Energy Policy, Vol. 32, Issue 12, pp.14051414.
+Lauber, V. (2008). "Certificate Trading  Part of the Solution or Part of the Problem?" Ljubljana Conference on the Future of GHG Emissions Trading in the EU, March 2008. Salzburg, Austria: University of Salzburg. Retrieved 16 March 2009 at: www.uni-salzburg.at/politikwissenschaft/lauber Archived May 10, 2012, at the Wayback Machine.
+^ The fuel cell industry review 2012
+^ GS Fuelcell Co., Ltd
+^ FuelCell Power
+^ Hyundai Hysco
+^ Hyosungs 1kW low temperature PEMFC System
+^ Kepri
+^ 2009-Initial stage of commercialization of residential fuel cells in Korea
+^ 5th stakeholders general assembly of the FCH JU
+^ ene.field
+^ European-wide field trials for residential fuel cell micro-CHP
+^ ene.field Grant No 303462 Archived November 10, 2013, at the Wayback Machine.
+^ BAFA: Official statistics on CHP units commissioned per year, downloaded 2016-03-12
+^ North-Rhine Westphalia government launches capital subsidy for micro-CHP
+^ Number 211-2013 FDIC -Viesmann-Panasonic
+^ IRD Fuel Cell
+^ Elcore  Elcomax
+^ Handling the cost of residential fuel cells
+^ Tropical
+^ Inhouse
+^ ZBT
+^ Solid oxide fuel cell micro-CHP field trials
+^ Ceramic fuel cells
+^ Sunfire
+^ Buderus Logapower FC10 energy centre supplies both heat and electricity
+^ Hexis
+^ Viessmann has announced two separate deals with Hexis
+^ CHPThe microgeneration boom? Archived January 6, 2009, at the Wayback Machine.
+^ Not 12.5% as could be primarily thought: a subsidized system cost 105/117.5% of a normal, the diffrence being 12.5/117.5= 10.63%
+^ The role of micro CHP in a smart energy world = March 2013
+^ BAXI-Innotech
+^ a b Micro-CHP Japan continues to lead as fuel cell units emerge
+^ .Ceres Power signs fuel cell CHP assembly deal with Daalderop
+^ Demonstration of micro CHP based on Danish fuel cells
+^ "Methaanbrandstoffen op Ameland" (PDF) (in Dutch).
+^ ANnalysis of data collected for the Freewatt microCHP system in Syracuse, NY
+^ http://www.thestar.com/life/health_wellness/2008/09/20/huge_savings_claimed_by_new_system.html
+^ Hyteon
+^ Micro-CHP
+^ Ameland Field testing
+^ Carbon Trust (2011). Micro-CHP Accelerator (PDF) (Report).
+^ Frederick R. Rosse: EXPERIENCE WITH EARLY DISTRIBUTED GENERATION SYSTEMS, Proceedings of IJPC-2003 2003 International Joint Power Conference, paper IJPGC2003-40192
+Codes and standards[edit]
+Fuel cell gas appliances up to 70 kW
+Installation permitting guidance for hydrogen and fuel cells stationary applications
+Standard for the installation of stationary fuel cell power systems
+External links[edit]
+Ene.field EU
+DOE USA fuel cells in combined heat and power
+Microchap UK
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1234
+Cached time: 20161119071640
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.354 seconds
+Preprocessor visited node count: 2174/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 49851/2097152 bytes
+Template argument size: 1288/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.079/10.000 seconds
+Lua memory usage: 3.48 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+264.396
+1 - -total
+49.70%
+131.415
+1 - Template:Reflist
+17.22%
+45.542
+1 - Template:Technical
+14.98%
+39.607
+4 - Template:Cite_journal
+11.98%
+31.678
+1 - Template:Ambox
+9.37%
+24.763
+2 - Template:Navbox
+8.79%
+23.250
+1 - Template:Electricity_generation
+5.28%
+13.950
+3 - Template:Cite_web
+4.25%
+11.245
+1 - Template:Dead_link
+3.85%
+10.183
+1 - Template:Navbox_subgroup
+Saved in parser cache with key enwiki:pcache:idhash:2019941-0!*!0!!en!4!* and timestamp 20161119071639 and revision id 749958596
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Micro_combined_heat_and_power&oldid=749958596"
+Categories: CogenerationRenewable energyHydrogen technologiesHidden categories: All articles with dead external linksArticles with dead external links from June 2016Webarchive template wayback linksCS1 Dutch-language sources (nl)Wikipedia articles that are too technical from August 2015All articles that are too technicalArticles needing expert attention from August 2015All articles needing expert attention

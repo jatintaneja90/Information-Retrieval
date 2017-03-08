@@ -1,0 +1,48 @@
+MercedesBenzBionic
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Mercedes-Benz Bionic
+Overview
+Manufacturer
+Mercedes-Benz
+Production
+Concept car (2005)
+Powertrain
+Engine
+1.9-liter four-cylinder direct-injection turbodiesel. 138hp (103kW)
+Transmission
+Autotronic CVT transmission
+Dimensions
+Wheelbase
+101in (2,565mm)
+Length
+167in (4,242mm)
+Width
+71.5in (1,816mm)
+Height
+62.8in (1,595mm)
+Curbweight
+2,425lb (1,100kg)
+Comparison to a streamlined half-body with Cd of 0.12.
+The yellow boxfish, Ostracion cubicus
+The Mercedes-Benz Bionic was a concept car created by DaimlerChrysler AG under the Mercedes Group. It was first introduced in 2005 at the DaimlerChrysler Innovation Symposium in Washington, D. C. The Bionic was modelled after a type of fish, the yellow boxfish, Ostracion cubicus,[1] and also has 80% lower nitrogen oxide emissions with its Selective Catalytic Reduction technology.
+Contents
+1 Engine and Performance
+2 Design
+3 References
+4 External links
+Engine and Performance[edit]
+The Bionic is powered by a 103kW direct-injection diesel engine that gives out around 70 MPG (US) (~3.36 L/100km). This engine also gives out around a total of 140 horsepower (100kW) and a little over 221ftlbf (300Nm) of torque at around 1600 rpm. The Bionic can go from 0-60 in about 8 seconds and has a top speed of a little over 190km/h (118mph) .
+Design[edit]
+The exterior design was modelled after the yellow boxfish (Ostracion cubicus), a marine fish that lives in coral reefs. Mercedes-Benz decided to model the Bionic after this fish due to the supposed low coefficient of drag of its body shape and the rigidity of its exoskeleton; this influenced the car's unusual looks. Other parts of the design include the fact that the rear wheels are partially fitted with plastic and that it's considered as a lightweight vehicle. Mercedes-Benz reported a drag coefficient of 0.19;[2] for comparison, the production vehicle with the lowest ever Cd value was the GM EV1, at 0.195. While the Bionic had a much larger internal volume than the EV1, the Bionic's larger frontal area made the EV1 more aerodynamic overall, as drag is a product of the area and the drag coefficient.
+References[edit]
+^ ""Bionic" Car Fueled by Fishy Ideas". National Geographic. 15 June 2005. Retrieved 18 October 2013.
+^ Mercedes' fish-inspired car CNN (retrieved 2008-08-12)
+External links[edit]
+The Mercedes-Benz Bionic Car as a concept vehicle
+Mercedes-Benz UK Bionic Car description
+Mercedes-Benz Bionic Concept Vehicle at WorldCarFans.com
+Saved in parser cache with key enwiki:pcache:idhash:6793105-0!*!0!!en!4!* and timestamp 20161117015539 and revision id 680803289
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Mercedes-Benz_Bionic&oldid=680803289"
+Categories: Mercedes-Benz concept vehicles

@@ -1,0 +1,494 @@
+Compactfluorescentlamp
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"Low-energy light-bulb" redirects here. For other low-energy bulbs, see LED lamp.
+The tubular-type compact fluorescent lamp is one of the most popular types in Europe
+Compact fluorescent light bulb with GU24 connector
+Comparison of compact fluorescent light bulbs with 105W, 36W, and 11W power consumption
+A compact fluorescent lamp (CFL), also called compact fluorescent light, energy-saving light, and compact fluorescent tube, is a fluorescent lamp designed to replace an incandescent lamp; some types fit into light fixtures normally used for incandescent lamps. The lamps use a tube which is curved or folded to fit into the space of an incandescent bulb, and a compact electronic ballast in the base of the lamp.
+Compared to general-service incandescent lamps giving the same amount of visible light, CFLs use one-fifth to one-third the electric power, and last eight to fifteen times longer. A CFL has a higher purchase price than an incandescent lamp, but can save over five times its purchase price in electricity costs over the lamp's lifetime.[1] Like all fluorescent lamps, CFLs contain toxic mercury[2] which complicates their disposal. In many countries, governments have banned the disposal of CFLs together with regular garbage. These countries have established special collection systems for CFLs and other hazardous waste.
+The principle of operation in a CFL bulb remains the same as in other fluorescent lighting: electrons that are bound to mercury atoms are excited to states where they will radiate ultraviolet light as they return to a lower energy level; this emitted ultraviolet light is converted into visible light as it strikes the fluorescent coating on the bulb (as well as into heat when absorbed by other materials such as glass).
+CFLs radiate a spectral power distribution that is different from that of incandescent lamps. Improved phosphor formulations have improved the perceived color of the light emitted by CFLs, such that some sources rate the best "soft white" CFLs as subjectively similar in color to standard incandescent lamps.[3]
+White LED lamps now compete with CFLs for high-efficiency house lighting.[4]
+Contents
+1 History
+2 Design
+3 Characteristics
+3.1 Spectrum of light
+3.2 Lifespan
+3.3 Energy efficiency
+3.4 Cost
+3.5 Failure
+3.6 Dimming
+3.7 Power factor
+3.8 Infrared signals
+3.9 Outdoor use
+3.10 Starting time
+4 Health and environmental impact
+4.1 General
+4.2 Mercury content
+4.3 Recycling
+4.4 Greenhouse gases
+5 Use and adoption
+6 Other CFL and lighting technologies
+6.1 LEDs (are not CFLs)
+6.2 Cold-cathode fluorescent lamps
+7 Efficiency comparison
+8 References
+9 External links
+History[edit]
+The parent to the modern fluorescent lamp was invented in the late 1890s by Peter Cooper Hewitt.[5] The Cooper Hewitt lamps were used for photographic studios and industries.[5]
+Edmund Germer, Friedrich Meyer, and Hans Spanner patented a high-pressure vapor lamp in 1927.[5] George Inman later teamed with General Electric to create a practical fluorescent lamp, sold in 1938 and patented in 1941.[5] Circular and U-shaped lamps were devised to reduce the length of fluorescent light fixtures. The first fluorescent bulb and fixture were displayed to the general public at the 1939 New York World's Fair.
+The spiral CFL was invented in 1976 by Edward E. Hammer, an engineer with General Electric,[6] in response to the 1973 oil crisis.[7] Although the design met its goals, it would have cost GE about $25 million to build new factories to produce the lamps, and thus the invention was shelved.[8] The design was eventually copied by others.[8] In 1995, helical CFLs, manufactured in China, became commercially available.[9] Since that time, their sales have steadily increased.
+In 1980, Philips introduced its model SL, which was a screw-in lamp with integral magnetic ballast. The lamp used a folded T4 tube, stable tri-color phosphors, and a mercury amalgam. This was the first successful screw-in replacement for an incandescent lamp. In 1985, Osram started selling its model EL lamp, which was the first CFL to include an electronic ballast.[10]
+Development of fluorescent lamps that could fit in the same volume as comparable incandescent lamps required the development of new, high-efficacy phosphors that could withstand more power per unit area than the phosphors used in older, larger fluorescent tubes.[10]
+In 2016, General Electric announced the phase out of CFL production. LED prices had dropped steadily, falling well below $5 for a basic bulb in 2015. As a result, customers had been migrating toward LEDs. CFLs were also having difficulty qualifying for the Energy Star rating under newer regulations.[11]
+Philips SL, an early CFL
+A helical integrated CFL, one of the most popular designs in North America, since 1995, when a Chinese firm, Shanghai Xiangshan, marketed the first successful design.[9]
+Design[edit]
+There are two types of CFLs: integrated and non-integrated lamps. Integrated lamps combine the tube and ballast in a single unit. These lamps allow consumers to replace incandescent lamps easily with CFLs. Integrated CFLs work well in many standard incandescent light fixtures, reducing the cost of converting to fluorescent. 3-way lamp bulbs and dimmable models with standard bases are available.
+Non-integrated CFLs have the ballast permanently installed in the luminaire, and only the lamp bulb is usually changed at its end of life. Since the ballasts are placed in the light fixture, they are larger and last longer compared to the integrated ones, and they don't need to be replaced when the bulb reaches its end-of-life. Non-integrated CFL housings can be both more expensive and sophisticated. They have two types of tubes: a bi-pin tube designed for conventional ballast, and a quad-pin tube designed for an electronic ballast or a conventional ballast with an external starter. A bi-pin tube contains an integrated starter, which obviates the need for external heating pins but causes incompatibility with electronic ballasts. Non-integrated CFLs can also be installed to a conventional light fixture using an adapter containing a built-in magnetic ballast. The adapter consists of a regular bulb screw, the ballast itself and a clip for the lamp's connector.
+Non-integrated bi-pin double-turn CFL
+An electronic ballast and permanently attached tube in an integrated CFL
+CFLs have two main components: a magnetic or electronic ballast and a gas-filled tube (also called bulb or burner). Replacement of magnetic ballasts with electronic ballasts has removed most of the flickering and slow starting traditionally associated with fluorescent lighting, and has allowed the development of smaller lamps directly interchangeable with more sizes of incandescent bulb.
+Electronic ballasts contain a small circuit board with a bridge rectifier, a filter capacitor and usually two switching transistors. The incoming AC current is first rectified to DC, then converted to high frequency AC by the transistors, connected as a resonant series DC to AC inverter. The resulting high frequency is applied to the lamp tube. Since the resonant converter tends to stabilize lamp current (and light produced) over a range of input voltages, standard CFLs do not respond well in dimming applications and will experience a shorter lifespan and sometimes catastrophic failure. Special electronic ballasts (integrated or separate) are required for dimming service.
+CFL light output is roughly proportional to phosphor surface area, and high output CFLs are often larger than their incandescent equivalents. This means that the CFL may not fit well in existing light fixtures. To fit enough phosphor coated area within the approximate overall dimensions of an incandescent lamp, standard shapes of CFL tube are a helix with one or more turns, multiple parallel tubes, circular arc, or a butterfly.
+Some CFLs are labeled not to be run base up, since heat will shorten the ballast's life. Such CFLs are unsuitable for use in pendant lamps and especially unsuitable for recessed light fixtures. CFLs designed for use in such fixtures are available.[12] Current recommendations for fully enclosed, unventilated light fixtures (such as those recessed into insulated ceilings), are either to use "reflector CFLs" (R-CFL),[13][14] cold-cathode CFLs or to replace such fixtures with those designed for CFLs.[13] A CFL will thrive in areas that have good airflow, such as in a table lamp.[15]
+Characteristics[edit]
+Spectrum of light[edit]
+Emitted visible light spectrum of an incandescent lamp (mid) and a CFL (bottom)
+Characteristic spectral power distributions (SPDs) for an incandescent lamp (left) and a CFL (right). The horizontal axes are in nanometers and the vertical axes show relative intensity in arbitrary units. Significant peaks of UV light are present for CFL even if not visible
+A photograph of various lamps illustrates the effect of color temperature differences. From left to right: Compact Fluorescent: General Electric, 13W, 6,500K; Incandescent: Sylvania 60W Extra Soft White; Compact Fluorescent: Bright Effects, 15W, 2,644K; Compact Fluorescent: Sylvania, 14W, 3,000K
+CFLs emit light from a mix of phosphors inside the bulb, each emitting one band of colour with some bands still in the ultraviolet range as can be seen on the light spectrum. This is the reason why additional UV filtering, for example double-envelope, is required to reduce damage to the retina. Modern phosphor designs balance the emitted light color, energy efficiency, and cost. Every extra phosphor added to the coating mix improves color rendering but decreases efficiency and increases cost. Good quality consumer CFLs use three or four phosphors to achieve a "white" light with a color rendering index (CRI) of about 80, where the maximum 100 represents the appearance of colors under daylight or other sources of black-body radiation such as an incandescent light bulb (depending on the correlated color temperature).
+Color temperature can be indicated in kelvins or mireds (1 million divided by the color temperature in kelvins). The color temperature of a light source is the temperature of a black body that has the same chromaticity (i.e. color) of the light source. A notional temperature, the correlated color temperature, the temperature of a black body which emits light of a hue which to human color perception most closely matches the light from the lamp, is assigned.
+A true colour temperature is characteristic of black-body radiation; a fluorescent lamp may approximate the radiation of a black body at a given temperature, but will not have an identical spectrum. In particular, narrow bands of shorter-wavelength radiation are usually present even for lamps of low color temperature ("warm" light).[16]
+As color temperature increases, the shading of the white light changes from red to yellow to white to blue. Color names used for modern CFLs and other tri-phosphor lamps vary between manufacturers, unlike the standardized names used with older halophosphate fluorescent lamps. For example, Sylvania's Daylight CFLs have a color temperature of 3,500K, while most other lamps called daylight have color temperatures of at least 5,000K.
+Name
+Color temperature
+(K)
+(Mired)
+Warm/soft white
+3,000
+333
+(Bright) white
+3,500
+286
+Cool white
+4,000
+250
+Daylight
+5,000
+200
+Lifespan[edit]
+CFLs typically have a rated service life of 6,00015,000 hours, whereas standard incandescent lamps have a service life of 750 or 1,000 hours.[17][18][19] However, the actual lifetime of any lamp depends on many factors, including operating voltage, manufacturing defects, exposure to voltage spikes, mechanical shock, frequency of cycling on and off, lamp orientation, and ambient operating temperature, among other factors.[20]
+The life of a CFL is significantly shorter if it is turned on and off frequently. In the case of a 5-minute on/off cycle the lifespan of some CFLs may be reduced to that of incandescent light bulbs. The U.S. Energy Star program suggests that fluorescent lamps be left on when leaving a room for less than 15 minutes to mitigate this problem.[21] CFLs produce less light later in their lives than when they are new. The light output decay is exponential, with the fastest losses being soon after the lamp is first used. By the end of their lives, CFLs can be expected to produce 7080% of their original light output.[22] The response of the human eye to light is logarithmic. That is, while the human eye is highly sensitive to changes in the intensity of faint light sources, it is less sensitive to changes in the intensity of brighter light sources since the pupils compensate by dilating or constricting.[23] So, presuming the illumination provided by the lamp was ample at the beginning of its life, and the light output of a bulb gradually decreases by 25%, viewers will perceive a much smaller change in light intensity.[24]
+Fluorescent lamps get dimmer over their lifetime,[25] so what starts out as an adequate luminosity may become inadequate. In one test by the U.S. Department of Energy of "Energy Star" products in 200304, one quarter of tested CFLs no longer met their rated output after 40% of their rated service life.[26][27]
+Energy efficiency[edit]
+Energy usage for different types of light bulbs operating at different light outputs. Points lower on the graph correspond to lower energy use
+For more details on this topic, see Luminous efficacy.
+Because the eye's sensitivity changes with the wavelength, the output of lamps is commonly measured in lumens, a measure of the power of light as perceived by the human eye. The luminous efficacy of lamps is the number of lumens produced for each watt of electrical power used. The luminous efficacy of a typical CFL is 5070 lumens per watt (lm/W) and that of a typical incandescent lamp is 1017 lm/W.[28] Compared to a theoretical 100%-efficient lamp (680 lm/W), CFL lamps have lighting efficiency ranges of 710%,[29] versus 1.52.5%[30] for incandescents.[31]
+Because of their higher efficacy, CFLs use between one-seventh and one-third of the power of equivalent incandescent lamps.[28] Fifty to seventy percent of the world's total lighting market sales were incandescent in 2010.[32] Replacing all inefficient lighting with CFLs would save 409 terawatt-hours (1.47 exajoules) per year, 2.5% of the world's electricity consumption. In the US, it is estimated that replacing all the incandescents would save 80 TWh yearly.[33] Since CFLs use much less energy than incandescent lamps (ILs), a phase-out of ILs would result in less carbon dioxide (CO2) being emitted into the atmosphere. Exchanging ILs for efficient CFLs on a global scale would achieve annual CO2 reductions of 230 Mt (million tons), more than the combined yearly CO2 emissions of the Netherlands and Portugal.[34]
+Electrical power equivalents for differing lamps[35]
+Minimum light
+output (lumens)
+Electrical power consumption (watts)
+Incandescent
+Compact fluorescent
+LED
+450
+40
+911
+68
+800
+60
+1315
+912
+1,100
+75
+1820
+1316
+1,600
+100
+2328
+1522
+2,400
+150
+3052
+2428
+3,100
+200
+4975
+30
+4,000
+300
+75100
+N/A
+If a building's indoor incandescent lamps are replaced by CFLs, the heat produced due to lighting is significantly reduced. In warm climates or in office or industrial buildings where air conditioning is often required, CFLs reduce the load on the cooling system when compared to the use of incandescent lamps, resulting in savings in electricity in addition to the energy efficiency savings of the lamps themselves. However, in cooler climates in which buildings require heating, the heating system needs to replace the reduced heat from lighting fixtures. In Winnipeg, Canada, it was estimated that CFLs would only generate 17% savings in energy compared to incandescent bulbs, as opposed to the 75% savings that could have been expected without space heating considerations.[36]
+Cost[edit]
+While the purchase price of a CFL is typically 310 times greater than that of an equivalent incandescent lamp, a CFL lasts 815 times longer and uses two-thirds to three-quarters less energy. A U.S. article stated "A household that invested $90 in changing 30 fixtures to CFLs would save $440 to $1,500 over the five-year life of the bulbs, depending on your cost of electricity. Look at your utility bill and imagine a 12% discount to estimate the savings."[37]
+CFLs are extremely cost-effective in commercial buildings when used to replace incandescent lamps. Using average U.S. commercial electricity and gas rates for 2006, a 2008 article found that replacing each 75 W incandescent lamp with a CFL resulted in yearly savings of $22 in energy usage, reduced HVAC cost, and reduced labour to change lamps. The incremental capital investment of $2 per fixture is typically paid back in about one month. Savings are greater and payback periods shorter in regions with higher electric rates and, to a lesser extent, also in regions with higher than U.S. average cooling requirements.[38] However, frequent on-off cycling (turning on and off) of CFLs greatly reduces their lifespan.
+The current price of CFLs reflects the manufacturing of nearly all CFLs in China, where labour costs less. In September 2010, the Winchester, Virginia, General Electric plant closed,[39] leaving Osram Sylvania and the tiny American Light Bulb Manufacturing Inc. the last companies to make standard incandescent bulbs in the United States.[40] At that time, Ellis Yan, whose Chinese company made the majority of CFLs sold in the United States, said he was interested in building a United States factory to make CFL bulbs, but wanted $12.5 million from the U.S. government to do so. General Electric had considered changing one of its bulb plants to make CFLs, but said that even after a $40 million investment in converting a plant, wage differences would mean costs would be 50% higher.[39]
+According to an August 2009 newspaper report, some manufacturers claimed that CFLs could be used to replace higher-power incandescent lamps than justified by their light output.[41] Equivalent wattage claims can be replaced by comparison of actual light output produced by the lamp, which is measured in lumens and marked on the packaging.[42]
+compact fluorescent lamp with holder wall mounted
+Failure[edit]
+In addition to the wear-out failure modes common to all fluorescent lamps, the electronic ballast may fail, since it has a number of component parts. Ballast failures are usually due to overheating and may be accompanied by discoloration or distortion of the ballast enclosure, odors, or smoke.[43] The lamps are internally protected and are meant to fail safely at the end of their lives. Industry associations are working toward advising consumers of the different failure modes of CFLs compared to incandescent lamps, and to develop lamps with inoffensive failure modes.[44] New North American technical standards aim to eliminate smoke or excess heat at the end of lamp life.[45]
+Dimming[edit]
+Dimmable integrated helical CFL that dims 2100%, comparable to standard light bulb dimming properties
+Only some compact fluorescent lamps are labeled for dimming control. Using a dimmer with a standard CFL is ineffective and can shorten bulb life and void the warranty.[46][47] Dimmable CFLs are available. The dimmer switch used in conjunction with a dimmable CFL must be matched to its power consumption range;[48] many dimmers installed for use with incandescent bulbs do not function acceptably below 40W, whereas CFL applications commonly draw power in the range 720W. Dimmable CFLs have been marketed before suitable dimmers are available. The dimming range of CFLs is usually between 20% and 90%,[49][unreliable source] but many modern CFLs have a dimmable range of 2% to 100%, more akin to that of incandescent lights. There are two types of dimmable CFL on the market: Standard dimmable CFLs, and "switch-dimmable" CFLs. The latter use a standard light switch, and the on-board electronics chooses the light output level based on the number of times the switch is turned on and off quickly. Dimmable CFLs are not a 100% replacement for incandescent fixtures that are dimmed for "mood scenes" such as wall sconces in a dining area. Below the 20% limit, the lamp may remain at 20% or flicker or the starter circuitry may stop and restart.[50] Above 80%, the bulb may operate at 100%. However, recent products have solved these problems so that they perform more like incandescent lamps. Dimmable CFLs are more expensive than standard CFLs due to the additional circuitry.
+Cold-cathode CFLs can be dimmed to low levels, making them popular replacements for incandescent bulbs on dimmer circuits.
+When a CFL is dimmed, its color temperature (warmth) stays the same. This is counter to most other light sources (such as the sun or incandescents) where color gets redder as the light source gets dimmer. The Kruithof curve from 1934 described an empirical relationship between intensity and color temperature of visually pleasing light sources.[citation needed]
+Power factor[edit]
+The input stage of a CFL is a rectifier, which presents a non-linear load to the power supply and introduces harmonic distortion on the current drawn from the supply.[51][52] The use of CFLs in homes has no appreciable effect on power quality, but significant quantities of them in a large facility can have an impact. The power factor of CFLs does not significantly affect their energy-saving benefits for individual consumers, but their use in large numberssuch as in commercial applications or across millions of homes in a distribution systemcould require infrastructure upgrades. In such cases, CFLs with low (below 30 percent) total harmonic distortion (THD) and power factors greater than 0.9 should be selected.[53][54][55]
+Voltage and current for a 120 V 60 Hz 30-watt compact fluorescent lamp. Because the current is heavily distorted, the power factor of this lamp is only 0.61. The lamp takes 29 watts but 39 volt-amperes due to this distortion.
+Infrared signals[edit]
+Electronic devices operated by infrared remote control can interpret the infrared light emitted by CFLs as a signal; this may limit the use of CFLs near televisions, radios, remote controls, or mobile phones. Energy Star certified CFLs must meet FCC standards, and so are required to list all known incompatibilities on the package.[56][57]
+Outdoor use[edit]
+A CFL used outside of a building
+CFLs are generally not designed for outdoor use and some will not start in cold weather. CFLs are available with cold-weather ballasts, which may be rated to as low as 28.8C (20F).[58] Light output in the first few minutes drops at low temperatures.[59] Cold-cathode CFLs will start and perform in a wide range of temperatures due to their different design.
+Starting time[edit]
+Incandescents reach full brightness a fraction of a second after being switched on. As of 2009[update], CFLs turn on within a second, but many still take time to achieve full brightness.[60] The light color may be slightly different immediately after being turned on.[61] Some CFLs are marketed as "instant on" and have no noticeable warm-up period,[62] but others can take up to a minute to reach full brightness,[63] or longer in very cold temperatures. Some that use a mercury amalgam can take up to three minutes to reach full output.[62] This and the shorter life of CFLs when turned on and off for short periods may make CFLs less suitable for applications such as motion-activated lighting. Hybrid lamps, combining a halogen lamp with a CFL, are available where warm up time is unacceptable.[64][65] The halogen lamp lights immediately, and is switched off once the CFL has reached full brightness.
+Flashing when off
+Some CFLs will flash every few seconds even when the room light switch is off. This caused by a small amount of current bypassing the switch either through a switch pilot light or through the capacitance of the two conductor cable connected between the switch and the CFL or the capacitance between this cable and other mains wiring. A few tens of microamps of current is enough to charge the storage in the CFL power supply up to a voltage sufficient for the CFL to light briefly, discharging the storage and starting the process again.
+Health and environmental impact[edit]
+Main article: Fluorescent lamps and health
+Closed double-envelope CFL
+General[edit]
+According to the European Commission Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR) in 2008, CFLs may pose an added health risk due to the ultraviolet and blue light emitted. This radiation could aggravate symptoms in people who already suffer skin conditions that make them exceptionally sensitive to light. The light produced by some single-envelope CFLs at distances of less than 20cm (7.9in) could lead to ultraviolet exposures approaching the current workplace limit set to protect workers from skin and retinal damage. However, industry sources claim the UV radiation received from CFLs is too small to contribute to skin cancer and the use of double-envelope CFLs "largely or entirely" mitigates any other risks.[66]
+Tests have shown that radiation exposure from CFLs is negligible at 150 centimeter distance from the source. At closer distances, comparisons show that CFLs emit less UVA (long wavelength) radiation than incandescent light bulbs. They do, however, emit higher levels of UVB (short wavelength) radiation.[67] UVA can penetrate deep into the skin while sufficient levels of UVB can burn superficial layers. Closed (double-envelope) CFLs are shielded and emit a lower total UV radiation compared to incandescent or halogen bulbs of a similar wattage.
+For the average user, UV radiation from indoor lights does not appear to be a concern. For those with skin sensitivity long term indoor exposure may be a concern, in which case they may want to use a bulb with lower UV radiation output. There seems to be more variability within bulb types than between them, but the best option is shielded CFLs.
+A 2012 study comparing cellular health effects of CFL light and incandescent light found statistically significant cell damage in cultures exposed to CFL light. Spectroscopic analysis confirmed the presence of significant UVA and UVC radiation, which the study's authors conjectured was attributable to damage in the bulbs' internal phosphor coatings. No cellular damage was observed following exposure to incandescent light of equivalent intensity. The study's authors suggest that the ultraviolet exposure could be limited by the use of "double-walled" bulbs manufactured with an additional glass covering surrounding the phosphor-coated layer.[68]
+When the base of the bulb is not made to be flame-retardant, as required in the voluntary standard for CFLs, overheating of the electrical components in the bulb may create a fire hazard.[69]
+Mercury content[edit]
+Net mercury emissions for CFL and incandescent lamps, based on EPA FAQ sheet, assuming average U.S. emission of 0.012 mg of mercury per kilowatt-hour and 14% of CFL mercury contents escapes to environment after land fill disposal
+CFLs, like all fluorescent lamps, contain mercury[70][71] as vapor inside the glass tubing. Most CFLs contain 35mg per bulb, with the bulbs labeled "eco-friendly" containing as little as 1mg.[72][73] Because mercury is poisonous, even these small amounts are a concern for landfills and waste incinerators where the mercury from lamps may be released and contribute to air and water pollution. In the U.S., lighting manufacturer members of the National Electrical Manufacturers Association (NEMA) have voluntarily capped the amount of mercury used in CFLs.[74] In the EU the same cap is required by the RoHS law.
+In areas with coal-fired power stations, the use of CFLs saves on mercury emissions when compared to the use of incandescent bulbs. This is due to the reduced electrical power demand, reducing in turn the amount of mercury released by coal as it is burned.[75] In July 2008 the U.S. EPA published a data sheet stating that the net system emission of mercury for CFL lighting was lower than for incandescent lighting of comparable lumen output. This was based on the average rate of mercury emission for U.S. electricity production and average estimated escape of mercury from a CFL put into a landfill.[76] Coal-fired plants also emit other heavy metals, sulfur, and carbon dioxide.
+In the United States, the U.S. Environmental Protection Agency estimated that if all 270million CFLs sold in 2007 were sent to landfill sites, around 0.13 metric tons of mercury would be released, 0.1% of all U.S. emissions of mercury (around 104 metric tons that year).[77] The graph assumes that CFLs last an average of 8,000 hours regardless of manufacturer and premature breakage. In areas where coal is not used to produce energy, the emissions would be less for both types of bulb.[78]
+Special handling instructions for breakage are not printed on the packaging of household CFL bulbs in many countries. The amount of mercury released by one bulb can temporarily exceed U.S. federal guidelines for chronic exposure.[79][80] Chronic, however, implies exposure for a significant time, and it remains unclear what the health risks are from short-term exposure to low levels of elemental mercury.[80] Despite following EPA best-practice clean-up guidelines on broken CFLs, researchers were unable to remove mercury from carpet, and agitation of the carpet such as by young children playing created localized concentrations as high as 0.025mg/m3 in air close to the carpet, even weeks after the initial breakage.[80]
+The U.S. Environmental Protection Agency (EPA) has published best practices for cleanup of broken CFLs, as well as ways to avoid breakage, on its web site.[81] It recommends airing out the room and carefully disposing of broken pieces in a jar. A Maine Department of Environmental Protection (DEP) study of 2008 comparing clean-up methods warns that using plastic bags to store broken CFL bulbs is dangerous because vapors well above safe levels continue to leak from the bags. The EPA and the Maine DEP recommend a sealed glass jar as the best repository for a broken bulb.[82]
+Recycling[edit]
+See also: Fluorescent lamp recycling
+Health and environmental concerns about mercury have prompted many jurisdictions to require spent lamps to be properly disposed of or recycled, rather than being included in the general waste stream sent to landfills. Safe disposal requires storing the bulbs unbroken until they can be processed.
+In the United States, most states have adopted and currently implement the federal Universal Waste Rule (UWR).[83] Several states, including Vermont, New Hampshire, California, Minnesota, New York, Maine, Connecticut and Rhode Island, have regulations that are more stringent than the federal UWR.[83] Home-supply chain stores make free CFL recycling widely available.[84]
+In the European Union, CFLs are one of many products subject to the WEEE recycling scheme. The retail price includes an amount to pay for recycling, and manufacturers and importers have an obligation to collect and recycle CFLs.
+According to the Northwest Compact Fluorescent Lamp Recycling Project, because household users in the U.S. Northwest have the option of disposing of these products in the same way they dispose of other solid waste, in Oregon "a large majority of household CFLs are going to municipal solid waste". They also note the EPA's estimates for the percentage of fluorescent lamps' total mercury released when they are disposed of in the following ways: municipal waste landfill 3.2%, recycling 3%, municipal waste incineration 17.55% and hazardous waste disposal 0.2%.[85]
+The first step of processing CFLs involves crushing the bulbs in a machine that uses negative pressure ventilation and a mercury-absorbing filter or cold trap to contain mercury vapor. Many municipalities are purchasing such machines.[citation needed] The crushed glass and metal is stored in drums, ready for shipping to recycling factories.
+Greenhouse gases[edit]
+In some places, such as Quebec and British Columbia in 2007, central heating for homes was provided mostly by the burning of natural gas, whereas electricity was primarily provided by hydroelectric power. An analysis of the impacts of a ban on incandescent light bulbs at that time introduced the notion that in such areas, heat generated by conventional electric light bulbs may have been significantly reducing the release of greenhouse gases from natural gas heating.[86] Ivanco, Karney, and Waher estimated that "If all homes in Quebec were required to switch from (incandescent) bulbs to CFLs, there would be an increase of almost 220,000 tonnes in CO2 emissions in the province, equivalent to the annual emissions from more than 40,000 automobiles." Such calculations were based on the implicit assumption that changes in power consumption equally affect electricity generation in different types of power stations. That is, the electricity generation mix was assumed to stay unchanged.[citation needed] Hydroelectric and nuclear power stations, in most cases, produce baseload power, or as much electric energy as technically possible, regardless of consumption. Therefore, changes in power consumption may in reality mostly affect the amounts of electricity imported and exported, and thus the amount of power actually generated in other regions, where fossil-fuelled power plants may dominate.[original research?]
+Use and adoption[edit]
+Main article: Phase-out of incandescent light bulbs
+CFLs are produced for both alternating current (AC) and direct current (DC) input. DC CFLs are popular for use in recreational vehicles and off-the-grid housing. There are various aid agency initiatives in developing countries to replace kerosene lamps, which have associated health and safety hazards, with CFLs powered by batteries, solar panels or wind generators.[87]
+CFLs in solar powered street lights, use solar panels mounted on the pole.[citation needed]
+Due to the potential to reduce electric consumption and pollution, various organizations have encouraged the adoption of CFLs and other efficient lighting. Efforts range from publicity to encourage awareness, to direct handouts of CFLs to the public. Some electric utilities and local governments have subsidized CFLs or provided them free to customers as a means of reducing electric demand (and so delaying additional investments in generation).
+In the United States, the Program for the Evaluation and Analysis of Residential Lighting (PEARL) was created to be a watchdog program. PEARL has evaluated the performance and ENERGY STAR compliance of more than 150 models of CFL bulbs.[88][89]
+The UN Environment Programme (UNEP)/Global Environment Facility (GEF) en.lighten initiative has developed "The Global Efficient Partnership Program" which focuses on country-led policies and approaches to enable the implementation of energy-efficient lighting, including CFLs, quickly and cost-effectively in developing and emerging countries.
+In the United States and Canada, the Energy Star program labels lamps that meet a set of standards for efficiency, starting time, life expectancy, color, and consistency of performance. The intent of the program is to reduce consumer concerns due to variable quality of products.[90] Those CFLs with a recent Energy Star certification start in less than one second and do not flicker. "Energy Star Light Bulbs for Consumers" is a resource for finding and comparing Energy Star qualified lamps. There is ongoing work in improving the "quality" (color rendering index) of the light.[citation needed]
+In the United States, new standards proposed by the United States Department of Energy could result in LED bulbs replacing CFLs. In the opinion of Noah Horowitz of the Natural Resources Defense Council, most CFL bulbs would not meet the standards.[91]
+In the United Kingdom, a similar program is run by the Energy Saving Trust to identify lighting products that meet energy conservation and performance guidelines.[92]
+The G24 (624Q2) and GU24 socket systems were designed to replace the traditional lamp sockets, so that incandesecent bulbs are not installed in fixtures intended for energy efficient lamps only.
+Other CFL and lighting technologies[edit]
+LEDs (are not CFLs)[edit]
+Many white-light LEDs could technically be considered CFLs since they use fluorescent phosphors to produce white light but CFL refers to a type of gas discharge tube not any type of LED.
+Outdated Content
+This section needs to be updated. Please update this article to reflect recent events or newly available information. (July 2014)
+Solid-state lighting using light-emitting diodes (LEDs) have for some time filled many specialist niches such as traffic lights. White LED lights now compete with CFLs for high-efficiency house lighting.[4]
+Solid-state lighting has improved over several years; U.S. Department of Energy (DOE) tests of commercial LED lamps designed to replace incandescent or CFLs showed that average efficacy was about 30lm/W in 2008 (tested performance ranged from 4lm/W to 62lm/W).[93] In June 2011 the eight products in the A-line bulb configuration that DOE tested[94] ranged from 50 to 97 lumens per watt, with an average of 62 lumens/watt.
+The luminous efficacy of currently available LED lamps is similar that of CFLs, though there have been LED lamps available for purchase with better than 90 lm/W overall luminous efficacy at least since early 2012, and higher efficiency LEDs, up to 200 lm/W, are under development.[95]
+Cold-cathode fluorescent lamps[edit]
+A cold-cathode CFL unlit (left) and illuminated (right)
+Cold-cathode fluorescent lamps (CCFLs) have been made available in the form of CFLs. CCFLs use electrodes without a filament. The voltage of CCFLs is about 5 times higher than CFLs, and the current is about 10 times lower. CCFLs have a diameter of about 3 millimeters. CCFLs were initially used for document scanners and also for back-lighting LCD displays, and later manufactured for use as lamps. The efficacy (lumens per watt) is about half that of CFLs[citation needed]. Their advantages are that they are instant-on, like incandescent lamps, and have a long life of approximately 50,000 hours. CCFLs are an effective and efficient replacement for lighting that is turned on and off frequently with little extended use (for example, in a bathroom or closet).
+Efficiency comparison[edit]
+This section has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+It has been suggested that this section be split out into another article. (Discuss) (November 2015)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2015) (Learn how and when to remove this template message)
+(Learn how and when to remove this template message)
+Incandescent
+Halogen
+Fluorescent
+LED
+Generic
+Philips
+Philips L Prize[96]
+Daylight (TCP)
+Electrical power (W)
+60
+42
+14
+10
+12.5
+9.7
+9.8
+Light output (lm)
+860
+650
+800
+800
+800
+910
+950
+Luminous efficacy (lm/W)
+14.3
+14.42
+57.14
+80
+64
+93.4
+96.94
+Color temperature (K)
+2700
+3100[97]
+2700
+3000
+2700
+2727
+5000
+CRI
+100
+100
+>75
+>85
+85
+93
+Not listed
+Lifespan (h)
+1,000
+2,500
+8,000
+25,000
+25,000
+30,000
+25,000
+References[edit]
+^ "Compact Fluorescent Light Bulbs". Energy Star. Retrieved 2010-09-30.
+^ "CFL Bulbs Have One Hitch: Toxic Mercury". National Public Radio. Retrieved 2007-02-15.
+^ Masamitsu, Emily (May 2007). "The Best Compact Fluorescent Light Bulbs: PM Lab Test". Popular Mechanics. Archived from the original on April 26, 2007. Retrieved 2007-05-15.
+^ a b Amber Angelle, "Will LED Light Bulbs Best Your CFLs and Incandescents?" Popular Mechanics August 4, 2010 accessed May 30, 2011
+^ a b c d Mary Bellis (2007). "The History of Fluorescent Lights". About.com. Retrieved 2008-02-13.
+^ "Inventing Six Modern Electric Lamps: Compact Fluorescent  The Challenge of Manufacturing". National Museum of American History. Retrieved 18 June 2013.
+^ Segall, Grant (20 July 2012). "Edward E. Hammer of Nela Park invented compact fluorescent light bulbs: news obituary". Cleveland.com. Sun Newspapers. Retrieved 18 June 2013.
+^ a b Michael Kanellos (August 2007). "Father of the compact fluorescent bulb looks back". CNet News. Retrieved 2007-07-17.
+^ a b "Philips Tornado Asian Compact Fluorescent". Lamptech.co.uk. Retrieved 18 June 2013.
+^ a b Raymond Kane, Heinz Sell Revolution in lamps: a chronicle of 50 years of progress (2nd ed.), The Fairmont Press, Inc. 2001 ISBN 0-88173-378-4 pp.189190.
+^ Cardwell, Diane (1 February 2016). "G.E. to Phase Out CFL Bulbs". www.nytimes.com. The New York Times. Archived from the original on 16 February 2016. Retrieved 31 August 2016.
+^ What Compact Fluorescents to Use Where. Accessed 1 January 2008.
+^ a b "A Dealer Guide to Energy Star: Putting Energy into Profits" (PDF).
+^ "CFL Reflector Products". Pacific Northwest National Laboratory. 2007-10-02. Archived from the original on December 21, 2007. Retrieved 2007-12-24.
+^ "Press Releases | LRC Newsroom". Lrc.rpi.edu. 2009-03-16. Retrieved 2012-07-15.
+^ Buying and Selling Gems:What Light is Best? Part II: Artificial Light  The Options Available See figures 6 and 7
+^ General Electric Incandescent lamps TP110, technical pamphlet published in 1976, no ISBN or Library of Congress number, page 8
+^ "Osram Dulux EL Energy-Saving Lamps" (PDF). Osram. Archived from the original (PDF) on 2006-07-22. Retrieved 2007-12-24.
+^ "IEC 60969 - Self-ballasted lamps for general lighting services Performance requirements". Collaborative Labelling and Appliance Standards Program. Archived from the original on Feb 26, 2008. Retrieved 2007-12-24.
+^ Damir, B (2012). "Longevity of light bulbs and how to make them last longer". RobAid. Retrieved 4 January 2013.
+^ "When to turn off your lights". Energy Savers. United States Department of Energy. 2009-02-24. Retrieved 2009-07-03.
+^ Guan, Fumin; Reynolds, Dale (May 2005). Topic and Discussions on the Performance Standard and Inspection Methods of CFL. Right Light 6: 6th International Conference on Energy-Efficient Lighting. Archived from the original on September 23, 2007.
+^ Charles P. Halsted (March 1993). "Brightness, Luminance, and Confusion". Information Display. Naval Air Warfare Center Warminster, PA. Archived from the original on September 22, 2007. Retrieved 2007-10-07. If the luminance of a viewed light source is increased 10 times, viewers do not judge that the brightness has increased 10 times. The relationship is, in fact, logarithmic: the sensitivity of the eye decreases rapidly as the luminance of the source increases. It is this characteristic that allows the human eye to operate over such an extremely wide range of light levels.
+^ Kreimir Matkovi (December 1997). "Colour Science Basics: Human Vision". Tone Mapping Techniques and Color Image Difference in Global Illumination. Institut fr Computergraphik eingereicht an der Technischen Universitt Wien. Retrieved 2007-10-07. It is interesting, that despite that incoming light can have a dynamic range of nearly 14 log units, the neural units can transfer the signal having the dynamic range of only about 1.5 log units. It is obvious that there is some adaptation mechanism involved in our vision. It means that we adapt to some luminance value, and then we can perceive data in a certain dynamic range near the adaptation level. One of the most important characteristics that changes with different adaptation levels is the just noticeable difference.
+^ "Topic and Discussions on the Performance Standard and Inspection Methods of CFL" (PDF). Archived from the original (PDF) on September 27, 2007. Retrieved 2007-04-13.
+^ "Energy Star Lighting Verification Program (Program for the Evaluation and Analysis of Residential Lighting) Semi-annual report For the period of October 2003 to April 2004" (PDF). Retrieved 2007-04-13.
+^ "Quality Assurance in Energy Star Residential Lighting Programmes" (PDF). Archived from the original (PDF) on December 9, 2006. Retrieved 2007-04-13.
+^ a b US Department of Energy. "Lighting". Energy Efficiency & Renewable Energy. US Department of Energy. Archived from the original on October 15, 2011. Retrieved 2 October 2011.
+^ 50/680 = 7%; 70/680 = 10%
+^ 10/680 = 1.5%; 17/680 = 2.5%
+^ Keefe, T. J. (2007). "The Nature of Light". Community College of Rhode Island. Archived from the original on June 12, 2010. Retrieved 18 September 2010.
+^ United Nations Environment Programme (1 Dec 2010). "Multibillion dollar benefits of global switch to energy-efficient lighting" (Press release). United Nations Environment Programme. Retrieved 2 October 2011.
+^ en.lighten (2010). "UNITED STATES OF AMERICA". en.lighten. United Nations Environment Programme. Archived from the original on April 2, 2012. Retrieved 2 October 2011.
+^ [1] Archived August 2, 2013, at the Wayback Machine.
+^ "Learn About Light Output: ENERGY STAR". Energystar.gov. Retrieved 2012-07-15.
+^ "Efficient lighting equals higher heat bills: study". CBC News. 2009-03-04.
+^ FAQ: The End of the Light Bulb as We Know It. U.S. News & World Report, 19 December 2007.
+^ Chernoff, Harry (2008-01-23). "The Cost-Effectiveness of Compact Fluorescents in Commercial Buildings". EnergyPulse. Archived from the original on February 20, 2008. Retrieved 2008-03-21.
+^ a b Whoriskey, Peter (2010-09-08). "Light bulb factory closes; End of era for U.S. means more jobs overseas". The Washington Post. Retrieved 2011-06-02.
+^ Jim Davenport (28 March 2011). "SC lawmakers take dim view of new light bulbs". MSNBC.
+^ Energy saving light bulbs offer dim future, The Telegraph, August 29, 2009
+^ "Section III.3". Europa.eu. Retrieved 2012-07-15.
+^ Compact Fluorescent Lights, Halifax Regional Fire & Emergency Archived September 10, 2015, at the Wayback Machine.
+^ National Electrical Manufacturer's Association NEMA, Failure Modes for Self-Ballasted Compact Fluorescent Lamps, white paper no. LSD 40, retrieved 2008-06-26. Archived March 22, 2012, at the Wayback Machine.
+^ "New household lamp standards, discusses co-ordinated U.S., Mexico and Canada standard UL 1993, retrieved 2009 Dec 3". Csa.ca. Retrieved 2012-07-15.
+^ GE Lighting FAQ for CFL retrieved 12 March 2007 Archived June 26, 2012, at the Wayback Machine.
+^ CFL Warranty: ENERGY STAR
+^ Dimming CFLs and LEDs
+^ "Dimmable CFLs". Dimmable CFLs. Retrieved 2012-07-15.
+^ Yau, E. K. F.; Wing-Hung Ki; Mok, P. K. T.; Sin, J. K. O. (2001). "Phase-controlled dimmable CFL with PPFC and switching frequency modulation". 2001 IEEE 32nd Annual Power Electronics Specialists Conference (IEEE Cat. No.01CH37230). 2. p.951. doi:10.1109/PESC.2001.954241. ISBN0-7803-7067-8.
+^ Korovesis, Ph. N.; et al. (2004). "Influence of Large-Scale Installation of Energy Saving Lamps on the Line Voltage Distortion of a Weak Network Supplied by Photovoltaic Station". IEEE Transactions on Power Delivery. 19 (4): 17871793. doi:10.1109/TPWRD.2004.835432.
+^ Cunill-Sol, J.; Salichs, M. (2007). "Study and Characterization of Waveforms from Low-Watt (<25 W) Compact Fluorescent Lamps with Electronic Ballasts". IEEE Transactions on Power Delivery. 22 (4): 23052311. doi:10.1109/TPWRD.2007.899551.
+^ "Compact Fluorescent Lamps". Mge.com. Retrieved 2012-07-15.
+^ Anibal T. De Almeida: Understanding Power Quality, Home Energy Magazine
+^ [2] Archived July 23, 2012, at the Wayback Machine.
+^ Can CFLs interfere with electronic equipment? at ConsumerReports.org. Accessed 1 January 2008. Archived October 29, 2010, at the Wayback Machine.
+^ "Compact Fluorescent Light Bulbs Key Product Criteria: ENERGY STAR". Energystar.gov. 2008-12-02. Retrieved 2012-07-15.
+^ "Coming to Terms with Energy Efficiency and the Environment". The Clean Air Partnership. Archived from the original on Oct 11, 2007.
+^ U.S. Dept. of Energy, Greening Federal Facilities, 2nd Edition, 'Compact Fluorescent Lighting'. DOE/GO=102001-1165 page 87. Retrieved 22 February 2007. "Even when low-temperature ballasts are used, lamps will not reach full brightness for several minutes in cold weather." Archived May 11, 2011, at the Wayback Machine.
+^ "Why does my compact fluorescent light bulb flicker or appear dim when I first turn it on?". Compact Fluorescent Light Bulb (CFL) FAQs. GE Lighting. Archived from the original on February 28, 2009. Retrieved 2009-06-15.
+^ "GE Lighting Frequently Asked Questions Compact Fluorescent (CFL): 4. Can I use a CFL in applications where I will be turning the lights on/off frequently?". Archived from the original on March 29, 2007. Retrieved 2007-04-13.
+^ a b "I've noticed some CFLs need a few minutes to warm up, or reach full brightness...". Customer Help FAQ. Energy Star. Retrieved 2009-06-15.[dead link]
+^ "Why does it take time for CFL bulbs to come up to full brightness?". Efficient Lighting FAQs. City of Fort Collins. Archived from the original on December 10, 2008. Retrieved 2009-06-15.
+^ "Karheim Hybrid CFL".
+^ "GE Hybrid CFL". Archived from the original on August 18, 2014.
+^ "Energy-Saving Lamps & Health". GreenFacts site. Retrieved 2009-06-10.
+^ "Ultraviolet light output of compact fluorescent lamps: comparison to conventional incandescent and halogen residential lighting sources". PubMed. Retrieved 2014-04-12.
+^ Mironava, T.; Hadjiargyrou, M.; Simon, M.; Rafailovich, M. H. (20 Jul 2012). "The Effects of UV Emission from Compact Fluorescent Light Exposure on Human Dermal Fibroblasts and Keratinocytes In Vitro". Photochemistry and Photobiology. doi:10.1111/j.1751-1097.2012.01192.x.
+^ CPSC, Teng Fei Trading Inc. Announce Recall of Energy Saving Light Bulbs. U.S. Consumer Product Safety Commission press release. Accessed 1 January 2008. Archived January 8, 2013, at the Wayback Machine.
+^ "Mercury Content Information Available for Lamps on the 2003 New Jersey Contract T-0192". Archived from the original on 2005-12-30. Retrieved 2007-05-15.
+^ "Canada-Wide Standard for Mercury-Containing Lamps" (PDF). 2001. Archived from the original (PDF) on August 12, 2006. Retrieved 2007-03-23.
+^ "Frequently Asked Questions Information on Compact Fluorescent Light Bulbs (CFLs) and Mercury June 2008" (PDF). 2008. Retrieved 2008-08-31.
+^ "Mercury in Fluorescent Lamps". FAQ. Energy Federation Incorporated. Retrieved 2009-07-02.
+^ "NEMA Lamp Companies Announce Commitment to Cap CFL Mercury Content". Archived from the original on July 15, 2007. Retrieved 2007-03-23.
+^ "Frequently Asked Questions, Information on Proper Disposal of Compact Fluorescent Light Bulbs (CFLs)" (PDF). Retrieved 2007-03-19.
+^ "''Frequently Asked Questions Information on Compact Fluorescent Light Bulbs (CFLs) and Mercury July 2008'', accessed 2009 Dec 22" (PDF). Retrieved 2012-07-15.
+^ What are the mercury emissions caused by humans? Do CFLS that wind up in a landfill contribute to these emissions?[permanent dead link] retrieved January 5, 2009
+^ http://www.energystar.gov/ia/partners/promotions/change_light/downloads/Fact_Sheet_Mercury.pdf
+^ Daley, Beth (February 26, 2008). "Mercury leaks found as new bulbs break". The Boston Globe. NY Times Co. Retrieved 2009-03-07.
+^ a b c "Maine Compact Fluorescent Lamp Breakage Study Report". State of Maine, Dept of Environmental Protection. February 2008. Retrieved 2009-03-07.
+^ "Cleaning Up a Broken CFL". United States Environmental Protection Agency. 6 June 2013. Retrieved 18 June 2013.
+^ "Maine Compact Fluorescent Light Breakage Study Report". Maine Department of Environmental Protection. February 2008. Retrieved 2011-07-18.
+^ a b "How are mercury-containing bulbs (called "lamps" in the regulations) regulated?". United States Environmental Protection Agency. 10 May 2013. Retrieved 18 June 2013.
+^ Rosenbloom, Stephanie (24 June 2008). "Home Depot Offers Recycling for Compact Fluorescent Bulbs". The New York Times. Retrieved 18 June 2013.
+^ "Compact Fluorescent Lamp Recycling Project Phase I Draft Report Background Research and Program Options" (PDF).
+^ Ivanco, M., Karney, B.W., Waher, K.J. "To Switch, or Not to Switch: A Critical Analysis of Canada's Ban on Incandescent Light Bulbs," IEEE Electrical Power Conference, 25-26 Oct. 2007. pages550555 doi:10.1109/EPC.2007.4520391
+^ 200 0000+ solar powered kerosene-lamp replacements assisted by aid agencies: http://www.ashdenawards.org/winners/mpgvm, http://www.ashdenawards.org/winners/Dlight10, "Archived copy" (PDF). Archived from the original (PDF) on 2011-05-12. Retrieved 2010-06-30.
+^ "Program for Evaluation and Analysis of Residential Lighting (PEARL) | Programs | LRC". Lrc.rpi.edu. Retrieved 2012-07-15.
+^ "Archived copy" (PDF). Archived from the original (PDF) on 2010-06-13. Retrieved 2010-04-20.
+^ Energy Star Program Requirements for CFLS Partner Commitments, 4th edition, dated 3 July 2008, retrieved 2008-06-25.
+^ Wolverton, Troy (2016-03-12). "Be prepared to say goodbye to the lightbulbs you've loved". The Charlotte Observer. San Jose Mercury News. p.1C.
+^ "Energy saving lightbulbs". Energysavingtrust.org.uk. Retrieved 2012-07-15.
+^ DOE Solid-State Lighting CALiPER Program Summary of Results: Round 6 of Product Testing. (PDF). U.S. Department of Energy. September 2008.
+^ DOE Solid-State Lighting CALiPER Program Summary of Results: Round 12 of Product Testing. (PDF). U.S. Department of Energy. June 2011.
+^ Should I buy LED or CFL light bulbs? | MNN - Mother Nature Network
+^ "LPrize-winner_media-kit.pdf" (PDF). U.S. Department of Energy. Archived from the original (PDF) on 6 August 2011. Retrieved 11 March 2013.
+^ 3100K is typical; individual bulbs vary. See Temperature of a Halogen Light Bulb, The Physics Factbook, Glenn Elert, ed., (Retrieved 2012-05-12)
+External links[edit]
+Wikimedia Commons has media related to Compact fluorescent light bulbs.
+CFL Bulb and Base Reference Guide
+Plug-In Plug-in CFL (PL Type) Lamps / Non-integrated Bulbs - cross reference listing of non-integrated CFL bulbs
+A technical description of a typical CFL circuit
+v
+t
+e
+Lamps
+Lighting
+Concepts
+Accent lighting
+Color temperature
+Efficiency
+Glare
+Lamp
+Light fixture
+Light pollution
+Lightbulb socket
+Task lighting
+Methods of generation
+Incandescent
+Regular
+Halogen
+Nernst
+Parabolic aluminized reflector (PAR)
+Luminescent
+Fluorescent
+Fluorescent lamp(compact)
+Fluorescent induction
+Photoluminescent
+laser lamp
+Solid-state
+LED bulb
+Cathodoluminescent
+Electron-stimulated
+Electroluminescent
+field-induced polymer
+Combustion
+Acetylene/Carbide
+Argand
+Candle
+Diya
+Flare
+Gas
+Kerosene
+Lantern
+Limelight
+Oil
+Rushlight
+Safety
+Tilley
+Torch
+Electric arc
+Carbon arc
+Klieg light
+Yablochkov candle
+Gas discharge
+Deuterium arc
+Neon
+Plasma
+Sulfur
+Xenon arc
+Xenon flash
+High-intensity
+discharge (HID)
+Hydrargyrum medium-arc iodide (HMI)
+Hydrargyrum quartz iodide (HQI)
+Mercury-vapor
+Metal-halide
+ceramic
+Sodium vapor
+Theatrical
+Cinematic
+Floodlight
+Footlight
+Gobo
+Scoop
+Spotlight
+profile/ ellipsoidal reflector
+Stage lighting instrument
+Stationary
+Aircraft warning
+Balanced-arm lamp
+Chandelier
+Emergency light
+Gas lighting
+Gooseneck lamp
+Intelligent street lighting
+Light tube
+Neon lighting
+Pendant light
+Recessed light
+Sconce
+Street light
+Torchre
+Track lighting
+Troffer
+Mobile
+Flashlight
+tactical
+Glow stick
+Headlamp(outdoor)
+Lantern
+Laser pointer
+Navigation light
+Searchlight
+Solar lamp
+Industrial
+Scientific
+Germicidal
+Grow light
+Infrared lamp
+Stroboscope
+Tanning
+Display
+Decorative
+Aroma lamp
+Black light
+Bubble light
+Christmas lights
+Crackle tube
+DJ lighting
+Lava lamp
+Marquee
+Plasma globe
+Strobe light
+Related topics
+Bioluminescence
+Chemiluminescence
+Electroluminescent wire
+Laser
+Photoluminescence
+Radioluminescence
+Saved in parser cache with key enwiki:pcache:idhash:1201545-0!*!0!!en!4!* and timestamp 20161116042056 and revision id 749359945
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Compact_fluorescent_lamp&oldid=749359945"
+Categories: Energy-saving lightingFluorescenceGas discharge lampsHidden categories: Webarchive template wayback linksAll articles with dead external linksArticles with dead external links from January 2016Articles with dead external links from November 2016Articles with permanently dead external linksPages using ISBN magic linksAll articles lacking reliable referencesArticles lacking reliable references from October 2011All articles with unsourced statementsArticles with unsourced statements from June 2012Articles containing potentially dated statements from 2009All articles containing potentially dated statementsArticles with unsourced statements from May 2011Articles with unsourced statements from September 2016All articles that may contain original researchArticles that may contain original research from September 2016Articles with unsourced statements from March 2013Articles with unsourced statements from March 2016Wikipedia articles in need of updating from July 2014All Wikipedia articles in need of updatingArticles with unsourced statements from August 2011Articles to be split from November 2015All articles to be splitArticles needing additional references from November 2015All articles needing additional referencesCommons category with local link same as on Wikidata

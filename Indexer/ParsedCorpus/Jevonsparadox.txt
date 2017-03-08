@@ -1,0 +1,217 @@
+Jevonsparadox
+From Wikipedia, the free encyclopedia
+(Redirected from Jevons paradox)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Coal-burning factories in 19th-century Manchester, England. Improved technology allowed coal to fuel the Industrial Revolution, greatly increasing the consumption of coal.
+In economics, Jevons's paradox (/dvnz/; sometimes the Jevons effect) occurs when technological progress increases the efficiency with which a resource is used (reducing the amount necessary for any one use), but the rate of consumption of that resource rises because of increasing demand.[1] Jevons's paradox is perhaps the most widely known paradox in environmental economics.[2] However, governments and environmentalists generally assume that efficiency gains will lower resource consumption, ignoring the possibility of the paradox arising.[3]
+In 1865, the English economist William Stanley Jevons observed that technological improvements that increased the efficiency of coal-use led to the increased consumption of coal in a wide range of industries. He argued that, contrary to common intuition, technological progress could not be relied upon to reduce fuel consumption.[4][5]
+The issue has been re-examined by modern economists studying consumption rebound effects from improved energy efficiency. In addition to reducing the amount needed for a given use, improved efficiency also lowers the relative cost of using a resource, which increases the quantity demanded. This counteracts (to some extent) the reduction in use from improved efficiency. Additionally, improved efficiency accelerates economic growth, further increasing the demand for resources. Jevons's paradox occurs when the effect from increased demand predominates, and better efficiency leads to more resources being used.[5]
+Considerable debate exists about the size of the rebound in energy efficiency and the relevance of Jevons's paradox to energy conservation. Some dismiss the paradox, while others worry that it may be self-defeating to pursue sustainability by increasing energy efficiency.[3] Environmental economists have proposed that efficiency gains be coupled with conservation policies that keep the cost of use the same (or higher) to avoid Jevons's paradox.[6] Conservation policies (such as cap and trade) do not display the paradox, and can be used to control the rebound effect.[7]
+Contents
+1 History
+2 Cause
+3 KhazzoomBrookes postulate
+4 Energy conservation policy
+5 Jevons's Complementary Corollary
+6 See also
+7 References
+History[edit]
+William Stanley Jevons, after whom the paradox is named
+Jevons's paradox was first described by the English economist William Stanley Jevons in his 1865 book The Coal Question. Jevons observed that England's consumption of coal soared after James Watt introduced the Watt steam engine, which greatly improved the efficiency of the coal-fired steam engine from Thomas Newcomen's earlier design. Watt's innovations made coal a more cost-effective power source, leading to the increased use of the steam engine in a wide range of industries. This in turn increased total coal consumption, even as the amount of coal required for any particular application fell. Jevons argued that improvements in fuel efficiency tend to increase (rather than decrease) fuel use, writing: "It is a confusion of ideas to suppose that the economical use of fuel is equivalent to diminished consumption. The very contrary is the truth."[4]
+At that time, many in Britain worried that coal reserves were rapidly dwindling, but some experts opined that improving technology would reduce coal consumption. Jevons argued that this view was incorrect, as further increases in efficiency would tend to increase the use of coal. Hence, improving technology would tend to increase the rate at which England's coal deposits were being depleted, and could not be relied upon to solve the problem.[4][5]
+Although Jevons originally focused on the issue of coal, the concept has since been extended to the use of any resource, including, for example, water usage.[8] It is perhaps the most widely known paradox in environmental economics.[2]
+Cause[edit]
+Main article: Rebound effect (conservation)
+Elastic Demand: A 20% increase in efficiency causes a 40% increase in travel. Fuel consumption increases and Jevons's paradox occurs.
+Inelastic Demand: A 20% increase in efficiency causes a 10% increase in travel. Jevons's paradox does not occur.
+Economists have observed that consumers tend to travel more when their cars are more fuel efficient, causing a 'rebound' in the demand for fuel.[9] An increase in the efficiency with which a resource (e.g. fuel) is used, causes a decrease in the cost of using that resource when measured in terms of what it can achieve (e.g. travel). Generally speaking, a decrease in the cost (or price) of a good or service will increase the quantity demanded (the law of demand). With a lower cost for travel, consumers will travel more, increasing the demand for fuel. This increase in demand is known as the rebound effect, and it may or may not be large enough to offset the original drop in demand from the increased efficiency. Jevons's paradox occurs when the rebound effect is greater than 100%, exceeding the original efficiency gains.[5]
+The size of the rebound effect is determined by the price elasticity of demand for the good. In a perfectly competitive market where fuel is the sole input used, if the price of fuel remains constant but efficiency is doubled, the effective price of travel would be halved (twice as much travel can be purchased). If in response, the amount of travel purchased more than doubles (i.e. demand is price elastic), then fuel consumption would increase, and the Jevons's paradox would occur. If demand is price inelastic, the amount of travel purchased would less than double, and fuel consumption would decrease. However, goods and services generally use more than one type of input (e.g. fuel, labour, machinery), and other factors besides input cost may also affect price. These factors tend to reduce the rebound effect, making Jevons's paradox less likely to occur.[5]
+KhazzoomBrookes postulate[edit]
+Main article: KhazzoomBrookes postulate
+In the 1980s, economists Daniel Khazzoom and Leonard Brookes revisited Jevons's paradox for the case of society's energy use. Brookes, then chief economist at the UK Atomic Energy Authority, argued that attempts to reduce energy consumption by increasing energy efficiency would simply raise demand for energy in the economy as a whole. Khazzoom focused on the narrower point that the potential for rebound was ignored in mandatory performance standards for domestic appliances being set by the California Energy Commission.[10][11]
+In 1992, the economist Harry Saunders dubbed the hypothesis that improvements in energy efficiency work to increase (rather than decrease) energy consumption the KhazzoomBrookes postulate, and argued that the hypothesis is broadly supported by neoclassical growth theory (the mainstream economic theory of capital accumulation, technological progress and long-run economic growth). Saunders showed that the KhazzoomBrookes postulate occurs in the neoclassical growth model under a wide range of assumptions.[10][12]
+According to Saunders, increased energy efficiency tends to increase energy consumption by two means. First, increased energy efficiency makes the use of energy relatively cheaper, thus encouraging increased use (the direct rebound effect). Second, increased energy efficiency leads to increased economic growth, which pulls up energy use for the whole economy. At the microeconomic level (looking at an individual market), even with the rebound effect, improvements in energy efficiency usually result in reduced energy consumption.[13] That is, the rebound effect is usually less than 100%. However, at the macroeconomic level, more efficient (and hence comparatively cheaper) energy leads to faster economic growth, which increases energy use throughout the economy. Saunders argued that, taking into account both microeconomic and macroeconomic effects, technological progress that improves energy efficiency will tend to increase overall energy use.[10]
+Energy conservation policy[edit]
+Part of a series about
+Sustainable energy
+Energy conservation
+Cogeneration
+Efficient energy use
+Green building
+Heat pump
+Low-carbon power
+Microgeneration
+Passive solar building design
+Renewable energy
+Anaerobic digestion
+Geothermal
+Hydroelectricity
+Solar
+Tidal
+Wind
+Sustainable transport
+Carbon-neutral fuel
+Electric vehicle
+Fossil fuel phase-out
+Green vehicle
+Plug-in hybrid
+Sustainable development portal
+Renewable energy portal
+Environment portal
+v
+t
+e
+Jevons warned that fuel efficiency gains tend to increase fuel use. But this does not imply that improved fuel efficiency is worthless: higher fuel efficiency enables greater production and a higher material quality of life.[14] For example, a more efficient steam engine allowed the cheaper transport of goods and people that contributed to the Industrial Revolution. However, if the KhazzoomBrookes postulate is correct, increased fuel efficiency, by itself, will not reduce the rate of depletion of fossil fuels.[10]
+There is considerable debate about whether the Khazzoom-Brookes Postulate is correct, and of the relevance of Jevons's paradox to energy conservation policy. Most governments, environmentalists and NGOs pursue policies that improve efficiency, holding that it will lower resource consumption and reduce environmental problems. Others, including many environmental economists, doubt this 'efficiency strategy' towards sustainability, and worry that efficiency gains may in fact lead to higher production and consumption. They hold that for resource use to fall, efficiency gains should be coupled with other policies that limit resource use.[3][12][15]
+Jevons's paradox is sometimes used to argue that energy conservation efforts are futile, for example, that more efficient use of oil will lead to increased demand, and will not slow the arrival or the effects of peak oil. This argument is usually presented as a reason not to enact environmental policies or pursue fuel efficiency (e.g. if cars are more efficient, it will simply lead to more driving).[16][17] Several points have been raised against this argument. First, in the context of a mature market such as for oil in developed countries, the direct rebound effect is usually small, and so increased fuel efficiency usually reduces resource use, other conditions remaining constant.[9][13][18] Second, even if increased efficiency does not reduce the total amount of fuel used, there remain other benefits associated with improved efficiency. For example, increased fuel efficiency may mitigate the price increases, shortages and disruptions in the global economy associated with peak oil.[19] Third, environmental economists have pointed out that fuel use will unambiguously decrease if increased efficiency is coupled with an intervention (e.g. a fuel tax) that keeps the cost of fuel use the same or higher.[6]
+Jevons's paradox indicates that increased efficiency by itself may not reduce fuel use, and that sustainable energy policy must rely on other types of government interventions.[7][20] As Jevons's paradox applies only to technological improvements that increase fuel efficiency, the imposition of conservation standards or other government interventions that increase costs do not display the paradox and can be used to control the rebound effect.[7] To ensure that efficiency-enhancing technological improvements reduce fuel use, efficiency gains can be paired with government intervention that reduces demand (e.g. green taxes, cap and trade, or higher emissions standards). The ecological economists Mathis Wackernagel and William Rees have suggested that any cost savings from efficiency gains be "taxed away or otherwise removed from further economic circulation. Preferably they should be captured for reinvestment in natural capital rehabilitation."[6] By mitigating the economic effects of government interventions designed to promote ecologically sustainable activities, efficiency-improving technological progress may make the imposition of these interventions more palatable, and more likely to be implemented.[21]
+Jevons's Complementary Corollary[edit]
+Noted economist Edward Glaeser has proposed what he calls "Jevons's Complementary Corollary", which
+predicts that improvements in information technology can lead to more demand for face-to-face contact, because face timm complements time spent communicating electronically. All these electronic interactions [video conferencing, e-mail, texting, Facebook, etc.] are creating a more relationship-intensive world, just as improvements in steam engines led to a more coal-intensive economy; and those relationships need both e-mail and interpersonal contact. Better connections between people create far-ranging opportunities for trade and commerce.[22]
+See also[edit]
+DownsThomson paradox, increasing road capacity can make traffic congestion worse.
+Tragedy of the Commons
+Progress trap
+References[edit]
+Notes
+^ Bauer, Diana; Papp, Kathryn (March 18, 2009). "Book Review Perspectives: The Jevons Paradox and the Myth of Resource Efficiency Improvements". Sustainability: Science, Practice, & Policy. 5 (1). Retrieved 29 May 2015.
+^ a b York, Richard (2006). "Ecological paradoxes: William Stanley Jevons and the paperless office" (PDF). Human Ecology Review. 13 (2): 143147. Retrieved 2015-05-05.
+^ a b c Alcott, Blake (July 2005). "Jevons' paradox". Ecological Economics. 54 (1): 921. doi:10.1016/j.ecolecon.2005.03.020. Retrieved 2015-05-28.
+^ a b c Jevons, William Stanley (1866). "VII". The Coal Question (2nd ed.). London: Macmillan and Company. OCLC464772008. Retrieved 2008-07-21.
+^ a b c d e Alcott, Blake (2008). "Historical Overview of the Jevons's Paradox in the Literature". In JM Polimeni; K Mayumi; M Giampietro. The Jevons Paradox and the Myth of Resource Efficiency Improvements. Earthscan. pp.778. ISBN1-84407-462-5.
+^ a b c Wackernagel, Mathis; Rees, William (1997). "Perceptual and structural barriers to investing in natural capital: Economics from an ecological footprint perspective". Ecological Economics. 20 (3): 324. doi:10.1016/S0921-8009(96)00077-8.
+^ a b c Freire-Gonzlez, Jaume; Puig-Ventosa, Ignasi (2015). "Energy Efficiency Policies and the Jevons Paradox". International Journal of Energy Economics and Policy. 5 (1): 6979. Retrieved 29 May 2015.
+^ Dumont, A.; Mayor, B.; Lpez-Gunn, E. (2013). "Is the Rebound Effect or Jevons Paradox a Useful Concept for Better Management of Water Resources? Insights from the Irrigation Modernisation Process in Spain". Aquatic Procedia. 1: 6476. doi:10.1016/j.aqpro.2013.07.006. Retrieved 5 June 2015.
+^ a b Small, Kenneth A.; Kurt Van Dender (2005-09-21). "The Effect of Improved Fuel Economy on Vehicle Miles Traveled: Estimating the Rebound Effect Using U.S. State Data, 19662001". Policy and Economics. University of California Energy Institute, UC Berkeley. Retrieved 2010-09-01.
+^ a b c d Saunders, Harry D. (October 1992). "The Khazzoom-Brookes Postulate and Neoclassical Growth". The Energy Journal. 13 (4): 131148. JSTOR41322471.
+^ Herring, Horace (19 July 1999). "Does energy efficiency save energy? The debate and its consequences". Applied Energy. 63 (3): 209226. doi:10.1016/S0306-2619(99)00030-6. ISSN0306-2619.
+^ a b Sorrell, Steve (April 2009). "Jevons' Paradox revisited: The evidence for backfire from improved energy efficiency". Energy Policy. 37 (4): 14561469. doi:10.1016/j.enpol.2008.12.003. Retrieved 29 May 2015.
+^ a b Greening, Lorna; David L. Greene; Carmen Difiglio (2000). "Energy efficiency and consumptionthe rebound effecta survey". Energy Policy. 28 (67): 389401. doi:10.1016/S0301-4215(00)00021-5.
+^ Ryan, Lisa; Campbell, Nina (2012). "Spreading the net: the multiple benefits of energy efficiency improvements". IEA Energy Papers. IEA Energy Papers. doi:10.1787/20792581. Retrieved 5 June 2015.
+^ Owen, David (December 20, 2010). "Annals of Environmentalism: The Efficiency Dilemma". The New Yorker. pp.78.
+^ Potter, Andrew (2007-02-13). "Planet-friendly design? Bah, humbug". Maclean's. 120 (5): 14. Archived from the original on 2007-12-14. Retrieved 2010-09-01.
+^ Strassel, Kimberley A. (2001-05-17). "Conservation Wastes Energy". Wall St. Journal. Wall St. JournalOpinion. Archived from the original on 2005-11-13. Retrieved 2009-07-31.
+^ Gottron, Frank (2001-07-30). "Energy Efficiency and the Rebound Effect: Does Increasing Efficiency Decrease Demand?" (PDF). National Council for Science and the Environment. Retrieved 2012-02-24.
+^ Hirsch, R. L.; Bezdek,, R.; and Wendling, R. (2006). "Peaking of World Oil Production and Its Mitigation". AIChE Journal. 52 (1): 28. doi:10.1002/aic.10747.
+^ Amado, Nilton Bispo; Sauer, Ildo L. (February 2012). "An ecological economic interpretation of the Jevons effect". Ecological Complexity. 9: 29. doi:10.1016/j.ecocom.2011.10.003. Retrieved 29 May 2015.
+^ Laitner, John A.; De Canio, Stephen J.; Peters, Irene (2003). "Incorporating Behavioural, Social, and Organizational Phenomena in the Assessment of Climate Change Mitigation Options". Society, Behaviour, and Climate Change Mitigation. Advances in Global Change Research. 8: 164. doi:10.1007/0-306-48160-X_1. ISBN0-7923-6802-9. Retrieved 2010-08-08.
+^ Glaeser, Edward (2011). Triumph of the City: How Our Best Invention Makes Us Richer, Smarter, Greener, Healthier, and Happier. New York: Penguin Press. pp.3738. ISBN978-1-59420-277-3.
+Further reading
+Jenkins, Jesse; Nordhaus, Ted; Shellenberger, Michael (February 17, 2011). Energy Emergence: Rebound and Backfire as Emergent Phenomena (Report). Oakland, CA: The Breakthrough Institute. Retrieved 29 May 2015.
+Lords Select Committee on Science and Technology (5 July 2005). "3: The economics of energy efficiency". Select Committee on Science and Technology Second Report (Report). Session 200506. London, UK: House of Lords.
+Michaels, Robert J. (July 6, 2012). Energy Efficiency and Climate Policy: The Rebound Dilemma (PDF) (Report). Washington, D.C.: Institute for Energy Research. Retrieved 5 June 2015.
+v
+t
+e
+Economic paradoxes (list)
+Allais
+Antitrust
+Arrow information
+Bertrand
+Braess'
+Competition
+Income and fertility
+DownsThomson
+Easterlin
+Edgeworth
+Ellsberg
+European
+Gibson's
+Giffen good
+Icarus
+Jevons
+Leontief
+Lucas
+Mandeville's
+Mayfield's
+Metzler
+Plenty
+Productivity
+Prosperity
+Scitovsky
+Service recovery
+St. Petersburg
+Thrift
+Toil
+Tullock
+Value
+v
+t
+e
+Unintended consequences
+Abilene paradox
+Adverse effect
+Butterfly effect
+Campbell's law
+Cobra effect
+Counterintuitive
+CSI effect
+Externality
+Failure mode and effects analysis
+Hawthorne effect
+Hutber's law
+Inverse consequences
+Jevons paradox
+Murphy's law
+Nocebo
+Osborne effect
+Parable of the broken window
+Perverse incentive
+Risk compensation
+Self-defeating prophecy
+Self-refuting idea
+Serendipity
+Social trap
+Streisand effect
+Tragedy of the commons
+Tyranny of small decisions
+NewPP limit report
+Parsed by mw1273
+Cached time: 20161120055004
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.232 seconds
+Real time usage: 0.296 seconds
+Preprocessor visited node count: 1642/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 71619/2097152 bytes
+Template argument size: 505/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.110/10.000 seconds
+Lua memory usage: 5.26 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+244.003
+1 - -total
+47.94%
+116.969
+1 - Template:Reflist
+29.43%
+71.819
+17 - Template:Cite_journal
+10.77%
+26.283
+1 - Template:Use_British_English
+10.53%
+25.696
+1 - Template:Good_article
+10.04%
+24.508
+1 - Template:Top_icon
+7.80%
+19.028
+1 - Template:Sustainable_energy
+7.09%
+17.301
+1 - Template:Sidebar
+7.04%
+17.187
+1 - Template:Category_handler
+4.71%
+11.501
+3 - Template:Cite_report
+Saved in parser cache with key enwiki:pcache:idhash:988796-0!*!0!!en!4!* and timestamp 20161120055003 and revision id 750237809
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Jevons%27s_paradox&oldid=750237809"
+Categories: Economics paradoxesIndustrial ecologyPeak oilEnergy policyEnergy conservationEnvironmental social science conceptsHidden categories: Use British English from November 2016Good articles

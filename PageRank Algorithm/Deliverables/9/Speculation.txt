@@ -1,0 +1,37 @@
+Top 5 pages by G2 with maximum inlinks
+WT21-B37-76 :(in-link count) 2568 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT21-B37-76 - -6 outlinks
+WT21-B37-75 :(in-link count) 1704 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT21-B37-75 - 1 outlink 
+WT01-B18-225 :(in-link count) 1137 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT01-B18-225 - 0 outlink
+WT08-B19-222 :(in-link count) 1041 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT08-B19-222 - 1 outlink
+WT08-B18-400 :(in-link count) 990 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT08-B18-400 - no outlink
+
+
+Top 5 pages by page-rank-G2
+WT21-B37-76 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT21-B37-76- 6 outlinks
+WT21-B37-75 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT21-B37-75 - 1 outlink
+WT25-B39-116 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT25-B39-116 - 2 outlinks
+WT23-B21-53 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT23-B21-53 - 2 outlinks
+WT24-B40-171 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT24-B40-171 - 209 outlinks
+
+Top 5 pages by G1
+International_Standard_Book_Number :(in-link count)  448 : https://en.wikipedia.org/wiki/International_Standard_Book_Number
+Digital_object_identifier :(in-link count)  420 : https://en.wikipedia.org/wiki/Digital_object_identifier
+Renewable_energy 398 :(in-link count)  : https://en.wikipedia.org/wiki/Renewable_energy
+Efficient_energy_use 275 :(in-link count)  : https://en.wikipedia.org/wiki/Efficient_energy_use
+United_States 244:(in-link count) : https://en.wikipedia.org/wiki/United_States
+Biofuel 234 :(in-link count) : https://en.wikipedia.org/wiki/Biofuel
+
+
+Top 5 pages by page-rank G1
+Digital_object_identifier : https://en.wikipedia.org/wiki/Digital_object_identifier
+International_Standard_Book_Number : https://en.wikipedia.org/wiki/International_Standard_Book_Number
+Integrated_Authority_File : https://en.wikipedia.org/wiki/Integrated_Authority_File
+PubMed_Identifier : https://en.wikipedia.org/wiki/PubMed_Identifier
+United_States : https://en.wikipedia.org/wiki/United_States
+
+
+According to algorithm,page rank of a page get influenced by the number of inlinks of that page. According to results of both G1 and G2, top 2 links are same , which shows that number of inlinks influences the page rank of page. As we can see, in G1 , links like Digital_object_identifier , International_Standard_Book_Number , United_States are marked with high page rank due to their number of inlinks.And similar is the case with links WT21-B37-76 and WT21-B37-75 in G2 graph.
+Hence, number of inlinKs is the important factor to identify the page rank of a graph.
+    
+
+

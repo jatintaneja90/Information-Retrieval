@@ -1,0 +1,304 @@
+Electrification
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about the system to generate, transmit, distribute and use electricity. For other uses, see Electrification (disambiguation).
+Electrification is the process of powering by electricity and is usually associated with changing over from another power source. The broad meaning of the term, such as in the history of technology and economic history, usually applies to a region or national economy. Broadly speaking, electrification was the build out of the electrical generating and distribution systems which occurred in Britain, the United States, and other countries from the mid-1880s until around 1950 and is in progress in rural areas in some developing countries. This included the change over from line shaft and belt drive using steam engines and water power to electric motors.[1][2]
+The electrification of particular sectors of the economy is called by terms such as factory electrification, household electrification, rural electrification or railway electrification. It may also apply to changing industrial processes such as smelting, melting, separating or refining from coal or coke heating, or chemical processes to some type of electric process such as electric arc furnace, electric induction or resistance heating, or electrolysis or electrolytic separating.
+Electrification was called "the greatest engineering achievement of the 20th Century" by the National Academy of Engineering.[3]
+Contents
+1 History of electrification
+1.1 Development of magnetos, dynamos and generators
+1.2 Electric lighting
+1.2.1 Arc lighting
+1.2.2 Incandescent light bulbs
+1.3 Central power stations and isolated systems
+1.3.1 Load factor & isolated systems
+1.4 Direct current electric motors
+1.5 Alternating current
+1.5.1 AC power stations
+1.6 Steam turbines
+1.7 Electrical grid
+1.8 Household electrification
+1.9 Historical cost of electricity
+2 Benefits of electrification
+2.1 Benefits of electric lighting
+2.2 Pre-electric power
+2.3 Economic impact of electrification
+3 Power sources for generation of electricity
+3.1 Hydroelectricity
+3.2 Wind turbines
+3.3 Geothermal energy
+3.4 Solar energy
+4 Current extent of electrification
+5 Electrification pioneers
+6 Energy resilience
+7 See also
+8 References
+9 External links
+History of electrification[edit]
+See also: Electricity
+The earliest commercial uses of electricity were electroplating and the telegraph.
+Development of magnetos, dynamos and generators[edit]
+Main article: Electric generator
+Faraday disk, the first electric generator. The horseshoe-shaped magnet (A) created a magnetic field through the disk (D). When the disk was turned, this induced an electric current radially outward from the center toward the rim. The current flowed out through the sliding spring contact m, through the external circuit, and back into the center of the disk through the axle.
+In the years of 18311832, Michael Faraday discovered the operating principle of electromagnetic generators. The principle, later called Faraday's law, is that an electromotive force is generated in an electrical conductor that is subjected to a varying magnetic flux, as for example, a wire moving through a magnetic field. He also built the first electromagnetic generator, called the Faraday disk, a type of homopolar generator, using a copper disc rotating between the poles of a horseshoe magnet. It produced a small DC voltage.
+Around 1832, Hippolyte Pixii improved the magneto by using a wire wound horseshoe, with the extra coils of conductor generating more current, but it was AC. Andr-Marie Ampre suggested a means of converting current from Pixii's magneto to DC using a rocking switch. Later segmented commutators were used to produce direct current.[4]
+William Fothergill Cooke and Charles Wheatstone developed a telegraph around 1838-40. In 1840 Wheatstone was using a magneto that he developed to power the telegraph. Wheatstone and Cooke made an important improvement in electrical generation by using a battery-powered electromagnet in place of a permanent magnet, which they patented in 1845.[5] The self-excited magnetic field dynamo did away with the battery to power electromagnets. This type of dynamo was made by several people in 1866.
+The first practical generator, the Gramme machine was made by Z.T Gramme, who sold many of these machines in the 1870s. British engineer R. E. B. Crompton improved the generator to allow better air cooling and made other mechanical improvements. Compound winding, which gave more stable voltage with load, improved operating characteristics of generators.[6]
+The improvements in electrical generation technology increased the efficiency and reliability greatly in the 19th century. The first magnetos only converted a few percent of mechanical energy to electricity. By the end of the 19th century the highest efficiencies were over 90%.
+Electric lighting[edit]
+Arc lighting[edit]
+Yablochkov's demonstration of his brilliant arc lights at the 1878 Paris Exposition along the Avenue de l'Opra triggered a steep sell off of gas utility stocks.
+Main article: Carbon arc lamp
+Sir Humphry Davy invented the carbon arc lamp in 1802 upon discovering that electricity could produce a light arc with carbon electrodes. However, it was not used to any great extent until a practical means of generating electricity was developed.
+Carbon arc lamps were started by making contact between two carbon electrodes, which were then separated to within a narrow gap. Because the carbon burned away, the gap had to be constantly readjusted. Several mechanisms were developed to regulate the arc. A common approach was to feed a carbon electrode by gravity and maintain the gap with a pair of electromagnets, one of which retracted the upper carbon after the arc was started and the second controlled a brake on the gravity feed.[7]
+Arc lamps of the time had very intense light output  in the range of 4000 candlepower (candelas)  and released a lot of heat, and they were a fire hazard, all of which made them inappropriate for lighting homes.[8]
+In the 1850s, many of these problems were solved by the arc lamp invented by William Petrie and William Staite. The lamp used a magneto-electric generator and had a self-regulating mechanism to control the gap between the two carbon rods. Their light was used to light up the National Gallery in London and was a great novelty at the time. These arc lamps and designs similar to it, powered by large magnetos, were first installed on English lighthouses in the mid 1850s, but the power limitations prevented these models from being a proper success.[9]
+The first successful arc lamp was developed by Russian engineer Pavel Yablochkov, and used the Gramme generator. Its advantage lay in the fact that it didn't require the use of a mechanical regulator like its predecessors. It was first exhibited at the Paris Exposition of 1878 and was heavily promoted by Gramme.[10] The arc light was installed along the half mile length of Avenue de l'Opra, Place du Theatre Francais and around the Place de l'Opra in 1878.[11]
+British engineer R. E. B. Crompton developed a more sophisticated design in 1878 which gave a much brighter and steadier light than the Yablochkov candle In 1878, he formed Crompton & Co. and began to manufacture, sell and install the Crompton lamp. His concern was one of the first electrical engineering firms in the world.
+Incandescent light bulbs[edit]
+Various forms of incandescent light bulbs had numerous inventors; however, the most successful early bulbs were those that used a carbon filament sealed in a high vacuum. These were invented by Joseph Swan in 1878 in Britain and by Thomas Edison in 1879 in the US. Edisons lamp was more successful than Swans because Edison used a thinner filament, giving it higher resistance and thus conducting much less current. Edison began commercial production of carbon filament bulbs in 1880. Swan's light began commercial production in 1881.[12]
+Swan's house, in Low Fell, Gateshead, was the world's first to have working light bulbs installed. The Lit & Phil Library in Newcastle, was the first public room lit by electric light,[13][14] and the Savoy Theatre was the first public building in the world lit entirely by electricity.[15]
+Central power stations and isolated systems[edit]
+The first central station providing public power is believed to be one at Godalming, Surrey, U.K. autumn 1881. The system was proposed after the town failed to reach an agreement on the rate charged by the gas company, so the town council decided to use electricity. The system lit up arc lamps on the main streets and incandescent lamps on a few side streets with hydroelectric power. By 1882 between 8 and 10 households were connected, with a total of 57 lights. The system was not a commercial success and the town reverted to gas.[16]
+The first large scale central distribution supply plant was opened at Holborn Viaduct in London in 1882.[17] Equipped with 1000 incandescent lightbulbs that replaced the older gas lighting, the station lit up Holborn Circus including the offices of the General Post Office and the famous City Temple church. The supply was a direct current at 110V; due to power loss in the copper wires, this amounted to 100V for the customer.
+Within weeks, a parliamentary committee recommended passage of the landmark 1882 Electric Lighting Act, which allowed the licensing of persons, companies or local authorities to supply electricity for any public or private purposes.
+The first large scale central power station in America was Edison's Pearl Street Station in New York, which began operating in September 1882. The station had six 200 horsepower Edison dynamos, each powered by a separate steam engine. It was located in a business and commercial district and supplied 110 volt direct current to 85 customers with 400 lamps. By 1884 Pearl Street was supplying 508 customers with 10,164 lamps.[18]
+By the mid-1880s, other electric companies were establishing central power stations and distributing electricity, including Crompton & Co. and the Swan Electric Light Company in the UK, Thomson-Houston Electric Company and Westinghouse in the US and Siemens in Germany. By 1890 there were 1000 central stations in operation.[7] The 1902 census listed 3,620 central stations. By 1925 half of power was provided by central stations.[19]
+Load factor & isolated systems[edit]
+One of the biggest problems facing the early power companies was the hourly variable demand. When lighting was practically the only use of electricity, demand was high during the first hours before the workday and the evening hours when demand peaked.[20] As a consequence, most early electric companies did not provide daytime service, with two-thirds providing no daytime service in 1897.[21]
+The ratio of the average load to the peak load of a central station is called the load factor.[22] For electric companies to increase profitability and lower rates, it was necessary to increase the load factor. The way this was eventually accomplished was through motor load.[20] Motors are used more during daytime and many run continuously. (See: Continuous production.) Electric street railways were ideal for load balancing. Many electric railways generated their own power and also sold power and operated distribution systems.[2]
+The load factor adjusted upward by the turn of the 20th centuryat Pearl Street the load factor increased from 19.3% in 1884 to 29.4% in 1908. By 1929, the load factor around the world was greater than 50%, mainly due to motor load.[23]
+Before widespread power distribution from central stations, many factories, large hotels, apartment and office buildings had their own power generation. Often this was economically attractive because the exhaust steam could be used for building and industrial process heat,[24] which today is known as cogeneration or combined heat and power (CHP). Most self-generated power became uneconomical as power prices fell. As late as the early 20th century, isolated power systems greatly outnumbered central stations.[7] Cogeneration is still commonly practiced in many industries that use large amounts of both steam and power, such as pulp and paper, chemicals and refining. The continued use of private electric generators is called microgeneration.
+Direct current electric motors[edit]
+Main articles: Electric motor and DC motor
+The first commutator DC electric motor capable of turning machinery was invented by the British scientist William Sturgeon in 1832.[25] The crucial advance that this represented over the motor demonstrated by Michael Faraday was the incorporation of a commutator. This allowed Sturgeon's motor to be the first capable of providing continuous rotary motion.[26]
+Frank J. Sprague improved on the DC motor in 1884 by solving the problem of maintaining a constant speed with varying load and reducing sparking from the brushes. Sprague sold his motor through Edison Co.[27] It is easy to vary speed with DC motors, which made them suited for a number of applications such as electric street railways, machine tools and certain other industrial applications where speed control was desirable.[7]
+Alternating current[edit]
+Main article: Alternating current
+See also: Transformer, Electric power transmission, and War of currents
+Although the first power stations supplied direct current, the distribution of alternating current soon became the most favored option. The main advantages of AC were that it could be transformed to high voltage to reduce transmission losses and that AC motors could easily run at constant speeds.
+Alternating current technology was rooted in Michael Faraday 1830-31 discovery that a changing magnetic field can induce an electric current in a circuit.[28]
+The first person to conceive of a rotating magnetic field was Walter Baily who gave a workable demonstration of his battery-operated polyphase motor aided by a commutator on June 28, 1879 to the Physical Society of London.[29] Nearly identical to Bailys apparatus, French electrical engineer Marcel Deprez in 1880 published a paper that identified the rotating magnetic field principle and that of a two-phase AC system of currents to produce it.[30] In 1886, English engineer Elihu Thomson built an AC motor by expanding upon the induction-repulsion principle and his wattmeter.[31]
+It was in the 1880s that the technology was commercially developed for large scale electricity generation and transmission. In 1882 the British inventor and electrical engineer Sebastian de Ferranti, working for the company Siemens collaborated with the distinguished physicist Lord Kelvin to pioneer AC power technology including an early transformer.[32]
+A power transformer developed by Lucien Gaulard and John Dixon Gibbs was demonstrated in London in 1881, and attracted the interest of Westinghouse. They also exhibited the invention in Turin in 1884, where it was adopted for an electric lighting system. Many of their designs were adapted to the particular laws governing electrical distribution in the UK.[citation needed]
+Sebastian Ziani de Ferranti went into this business in 1882 when he set up a shop in London designing various electrical devices. Ferranti believed in the success of alternating current power distribution early on, and was one of the few experts in this system in the UK. With the help of Lord Kelvin, Ferranti pioneered the first AC power generator and transformer in 1882.[33] John Hopkinson, a British physicist, invented the three-wire (three-phase) system for the distribution of electrical power, for which he was granted a patent in 1882.[34]
+The Italian inventor Galileo Ferraris invented a polyphase AC induction motor in 1885. The idea was that two out-of-phase, but synchronized, currents might be used to produce two magnetic fields that could be combined to produce a rotating field without any need for switching or for moving parts. Other inventors were the American engineers Charles S. Bradley and Nikola Tesla, and the German technician Friedrich August Haselwander.[35] They were able to overcome the problem of starting up the AC motor by using a rotating magnetic field produced by a poly-phase current.[36] Mikhail Dolivo-Dobrovolsky introduced the first three-phase induction motor in 1890, a much more capable design that became the prototype used in Europe and the U.S.[37] By 1895 GE and Westinghouse both had AC motors on the market.[38] With single phase current either a capacitor or coil (creating inductance) can be used on part of the circuit inside the motor to create a rotating magnetic field.[39] Multi-speed AC motors that have separately wired poles have long been available, the most common being two speed. Speed of these motors is changed by switching sets of poles on or off, which was done with a special motor starter for larger motors, or a simple multiple speed switch for fractional horsepower motors.
+AC power stations[edit]
+The first AC power station in the world was built by the English electrical engineer Sebastian de Ferranti. In 1887 the London Electric Supply Corporation hired Ferranti for the design of their power station at Deptford. He designed the building, the generating plant and the distribution system. It was built at the Stowage, a site to the west of the mouth of Deptford Creek once used by the East India Company. Built on an unprecedented scale and pioneering the use of high voltage (10,000V) AC current, it generated 800 kilowatts and supplied central London. On its completion in 1891 it was the first truly modern power station, supplying high-voltage AC power that was then "stepped down" with transformers for consumer use on each street. This basic system remains in use today around the world.
+In America, George Westinghouse who had become interested in the power transformer developed by Gaulard and Gibbs, began to develop his AC lighting system, using a transmission system with a 20:1 step up voltage with step-down. In 1890 Westinghouse and Stanley built a system to transmit power several miles to a mine in Colorado. A decision was taken to use AC for power transmission from the Niagara Power Project to Buffalo, New York. Proposals submitted by vendors in 1890 included DC and compressed air systems. A combination DC and compressed air system remained under consideration until late in the schedule. Despite the protestations of the Niagara commissioner William Thomson (Lord Kelvin) the decision was taken to build an AC system, which had been proposed by both Westinghouse and General Electric. In October 1893 Westinghouse was awarded the contract to provide the first three 5,000hp, 250 rpm, 25Hz, two phase generators.[40]
+By the 1890s, single and poly-phase AC was undergoing rapid introduction.[41] In the U.S. by 1902, 61% of generating capacity was AC, increasing to 95% in 1917.[42] Despite the superiority of alternating current for most applications, a few existing DC systems continued to operate for several decades after AC became the standard for new systems.
+Three-phase rotating magnetic field of an AC motor. The three poles are each connected to a separate wire. Each wire carries current 120 degrees apart in phase. Arrows show the resulting magnetic force vectors. Three phase current is used in commerce and industry.
+Steam turbines[edit]
+Main article: Steam turbine
+The efficiency of steam prime movers in converting the heat energy of fuel into mechanical work was a critical factor in the economic operation of steam central generating stations. Early projects used reciprocating steam engines, operating at relatively low speeds. The introduction of the steam turbine fundamentally changed the economics of central station operations. Steam turbines could be made in larger ratings than reciprocating engines, and generally had higher efficiency. The speed of steam turbines did not fluctuate cyclically during each revolution; making parallel operation of AC generators feasible, and improved the stability of rotary converters for production of direct current for traction and industrial uses. Steam turbines ran at higher speed than reciprocating engines, not being limited by the allowable speed of a piston in a cylinder. This made them more compatible with AC generators with only two or four poles; no gearbox or belted speed increaser was needed between the engine and the generator. It was costly and ultimately impossible to provide a belt-drive between a low-speed engine and a high-speed generator in the very large ratings required for central station service.
+The modern steam turbine was invented in 1884 by the British Sir Charles Parsons, whose first model was connected to a dynamo that generated 7.5kW (10hp) of electricity.[43] The invention of Parson's steam turbine made cheap and plentiful electricity possible. Parsons turbines were widely introduced in English central stations by 1894; the first electric supply company in the world to generate electricity using turbo generators was Parsons' own electricity supply company Newcastle and District Electric Lighting Company, set up in 1894.[44] Within Parson's lifetime, the generating capacity of a unit was scaled up by about 10,000 times.[45]
+An 1899 Parsons steam turbine linked directly to a dynamo
+The first U.S. turbines were two De Leval units at Edison Co. in New York in 1895. The first U.S. Parsons turbine was at Westinghouse Air Brake Co. near Pittsburgh.[46]
+Steam turbines also had capital cost and operating advantages over reciprocating engines. The condensate from steam engines was contaminated with oil and could not be reused, while condensate from a turbine is clean and typically reused. Steam turbines were a fraction of the size and weight of comparably rated reciprocating steam engine. Steam turbines can operate for years with almost no wear. Reciprocating steam engines required high maintenance. Steam turbines can be manufactured with capacities far larger than any steam engines ever made, giving important economies of scale.
+Steam turbines could be built to operate on higher pressure and temperature steam. A fundamental principle of thermodynamics is that the higher the temperature of the steam entering an engine, the higher the efficiency. The introduction of steam turbines motivated a series of improvements in temperatures and pressures. The resulting increased conversion efficiency lowered electricity prices.[47]
+The power density of boilers was increased by using forced combustion air and by using compressed air to feed pulverized coal. Also, coal handling was mechanized and automated.[48]
+Electrical grid[edit]
+Main article: Electrical grid
+With the realization of long distance power transmission it was possible to interconnect different central stations to balance loads and improve load factors. Interconnection became increasingly desirable as electrification grew rapidly in the early years of the 20th century.
+Charles Merz, of the Merz & McLellan consulting partnership, built the Neptune Bank Power Station near Newcastle upon Tyne in 1901,[49] and by 1912 had developed into the largest integrated power system in Europe.[50] In 1905 he tried to influence Parliament to unify the variety of voltages and frequencies in the country's electricity supply industry, but it was not until World War I that Parliament began to take this idea seriously, appointing him head of a Parliamentary Committee to address the problem. In 1916 Merz pointed out that the UK could use its small size to its advantage, by creating a dense distribution grid to feed its industries efficiently. His findings led to the Williamson Report of 1918, which in turn created the Electricity Supply Bill of 1919. The bill was the first step towards an integrated electricity system in the UK.
+The more significant Electricity (Supply) Act of 1926, lead to the setting up of the National Grid.[51] The Central Electricity Board standardised the nation's electricity supply and established the first synchronised AC grid, running at 132 kilovolts and 50 Hertz. This started operating as a national system, the National Grid, in 1938.
+In the United States it became a national objective after the power crisis during the summer of 1918 in the midst of World War I to consolidate supply. In 1934 the Public Utility Holding Company Act recognized electric utilities as public goods of importance along with gas, water, and telephone companies and thereby were given outlined restrictions and regulatory oversight of their operations.[52]
+Most studies of electrification and electric grids focused on industrial core countries in Europe and the United States. Elsewhere, wired electricity was often carried on and through the circuits of colonial rule. Some historians and sociologists considered the interplay of colonial politics and the development of electric grids: in India, Rao [53] showed that linguistics-based regional politics  not techno-geographical considerations  led to the creation of two separate grids; in colonial Zimbabwe (Rhodesia), Chikowero [54] showed that electrification was racially based and served the white settler community while excluding Africans; and in Mandate Palestine, Shamir [55] showed that British electric concessions to a Zionist-owned company deepened the economic disparities between Arabs and Jews.
+Household electrification[edit]
+The electrification of households in Europe and North America began in the early 20th century in major cities and in areas served by electric railways and increased rapidly until about 1930 when 70% of households were electrified in the U.S.
+Rural areas were electrified first in Europe, and in the US the Rural Electric Administration, established in 1935 brought electrification to rural areas.[56]
+Historical cost of electricity[edit]
+Central station electric power generating provided power more efficiently and at lower cost than small generators. The capital and operating cost per unit of power were also cheaper with central stations.[1] The cost of electricity fell dramatically in the first decades of the twentieth century due to the introduction of steam turbines and the improved load factor after the introduction of AC motors. As electricity prices fell, usage increased dramatically and central stations were scaled up to enormous sizes, creating significant economies of scale.[57] For the historical cost see Ayres-Warr (2002) Fig. 7.[58]
+Benefits of electrification[edit]
+Benefits of electric lighting[edit]
+Electric lighting was highly desirable. The light was much brighter than oil or gas lamps, and there was no soot. Although early electricity was very expensive compared to today, it was far cheaper and more convenient than oil or gas lighting. Electric lighting was so much safer than oil or gas that some companies were able to pay for the electricity with the insurance savings.[2]
+Pre-electric power[edit]
+Main article: Line shaft
+"One of the inventions most important to a class of highly skilled workers (engineers) would be a small motive power - ranging perhaps from the force of from half a man to that of two horses, which might commence as well as cease its action at a moment's notice, require no expense of time for its management and be of modest cost both in original cost and in daily expense." Charles Babbage, 1851[59]
+To be efficient steam engines needed to be several hundred horsepower. Steam engines and boilers also required operators and maintenance. For these reasons the smallest commercial steam engines were about 2 horsepower. This was above the need for many small shops. Also, a small steam engine and boiler cost about $7,000 while an old blind horse that could develop 1/2 horsepower cost $20 or less.[60] Machinery to use horses for power cost $300 or less.[61]
+Threshing machine in 1881.
+Many power requirements were less than that of a horse. Shop machines, such as woodworking lathes, were often powered with a one- or two-man crank. Household sewing machines were powered with a foot treadle; however, factory sewing machines were steam-powered from a line shaft. Dogs were sometimes used on machines such as a treadmill, which could be adapted to churn butter.[62]
+In the late 19th century specially designed power buildings leased space to small shops. These building supplied power to the tenants from a steam engine through line shafts.[62]
+Electric motors were several times more efficient than small steam engines because central station generation was more efficient than small steam engines and because line shafts and belts had high friction losses.[1][62]
+Electric motors were more efficient than human or animal power. The conversion efficiency for animal feed to work is between 4 and 5% compared to over 30% for electricity generated using coal.[63][64]
+Economic impact of electrification[edit]
+Main article: Mass production history
+From 1870-80 each man-hour was provided with .55hp. In 1950 each man-hour was provided with 5hp, or a 3% annual increase, declining to 1.5% from 1930-50.[65]
+The period of electrification of factories and households from 1900 to 1940, was one of high productivity and economic growth. In economics, the efficiency of electrical generation has been shown to correlate with technological progress.[63][66]
+Power sources for generation of electricity[edit]
+Main article: Electricity generation
+Most electricity is generated by thermal power stations or steam plants, the majority of which are fossil fuel power stations that burn coal, natural gas, fuel oil or bio-fuels, such as wood waste and black liquor from chemical pulping.
+The most efficient thermal system is combined cycle in which a combustion turbine powers a generator using the high temperature combustion gases and then exhausts the cooler combustion gases to generate low pressure steam for conventional steam cycle generation.
+Hydroelectricity[edit]
+Main article: Hydroelectricity
+Hydroelectricity uses a water turbine to generate power. In 1878 the world's first hydroelectric power scheme was developed at Cragside in Northumberland, England by William George Armstrong. It was used to power a single arc lamp in his art gallery.[67] The old Schoelkopf Power Station No. 1 near Niagara Falls in the U.S. side began to produce electricity in 1881. The first Edison hydroelectric power plant, the Vulcan Street Plant, began operating September 30, 1882, in Appleton, Wisconsin, with an output of about 12.5 kilowatts.[68][69]
+Wind turbines[edit]
+The first electricity-generating wind turbine was a battery charging machine installed in July 1887 by Scottish academic James Blyth to light his holiday home in Marykirk, Scotland.[70] Some months later American inventor Charles F Brush built the first automatically operated wind turbine for electricity production in Cleveland, Ohio.[70] Advances in recent decades greatly lowered the cost of wind power making it one of the most competitive alternate energies and competitive with higher priced natural gas (before shale gas). Wind energy's main problem is that it is intermittent and therefore needs grid extensions and energy storage to be a reliable main energy source.
+Geothermal energy[edit]
+Prince Piero Ginori Conti tested the first geothermal power generator on 4 July 1904 in Larderello, Italy. It successfully lit four light bulbs.[71] Later, in 1911, the world's first commercial geothermal power plant was built there. Italy was the world's only industrial producer of geothermal electricity until 1958. Geothermal requires very hot underground temperatures near the surface to generate steam which is used in a low temperature steam plant. Geothermal power is only used in a few areas. Italy supplies all of the electrified rail network with geothermal power.
+Solar energy[edit]
+Main articles: Solar energy and Photovoltaics
+Electricity production from solar energy either directly through photovoltaic cells or indirectly such as by producing steam to drive a steam turbine generator.
+Current extent of electrification[edit]
+While electrification of cities and homes has existed since the late 19th century even today about 1.3 billion people lack electricity, mostly in Africa and the Indian subcontinent. One estimate (2010) suggests that as many as half of India's households lack electricity.[72]
+Most recent progress in electrification took place between the 1950s and 1980s. Vast gains were seen in the 1970s and 1980s - from 49 percent of the world's population in 1970 to 76 percent in 1990.[73][74] Recent gains have been more modest - by the early 2010s 81 to 83 percent of the world's population had access to electricity.[75]
+Electrification pioneers[edit]
+Sebastian de Ferranti
+Joseph Swan
+William Thomson
+Galileo Ferraris
+Nikola Tesla
+Samuel Insull
+Thomas Edison
+Energy resilience[edit]
+Main article: Energy resilience
+Electricity is:
+the stickiest form of energy: it stays in the continent where it is produced.
+multi-sourced. If one source suffers a shortage, electricity can be produced from another, including renewable sources.
+As a result, it gives the greatest degree of energy resilience and the energy system is going to electrification.[76]
+See also[edit]
+Energy portal
+Electric vehicle
+GOELRO plan
+Mains electricity by country Plugs, voltages and frequencies
+Railway electrification system
+Renewable electricity
+Renewable energy development
+Rural electrification
+References[edit]
+Notes
+^ a b c Devine, Jr., Warren D. (1983). "From Shafts to Wires: Historical Perspective on Electrification, Journal of Economic History, Vol. 43, Issue 2" (PDF): 355.
+^ a b c *Nye, David E. (1990). Electrifying America: Social Meanings of a New Technology. Cambridge, MA, USA and London, England: The MIT Press.
+^ Constable, George; Somerville, Bob (2003). A Century of Innovation: Twenty Engineering Achievements That Transformed Our Lives. Washington, DC: Joseph Henry Press. ISBN0-309-08908-5.
+^ McNeil 1990
+^ McNeil 1990, pp.359
+^ McNeil 1990, pp.360
+^ a b c d Hunter & Bryant 1991
+^ McNeil, Ian (1990). An Encyclopedia of the History of Technology. London: Routledge. ISBN0-415-14792-1.
+^ McNeil 1990, pp.36065
+^ Woodbury, David Oakes (1949). A Measure for Greatness: A Short Biography of Edward Weston. McGraw-Hill. p.83. Retrieved 2009-01-04.
+^ Barrett, John Patrick (1894). Electricity at the Columbian Exposition. R. R. Donnelley & sons company. p.1. Retrieved 2009-01-04.
+^ McNeil 1990, pp.36668
+^ Glover, Andrew (8 February 2011). "Alexander Armstrong in appeal to save Lit and Phil". The Journal. Retrieved 8 February 2011. The societys lecture theatre was the first public room to be lit by electric light, during a lecture by Sir Joseph Swan on October 20, 1880.
+^ History in pictures - The Lit & Phil BBC. Retrieved 8 August 2011
+^ Burgess, Michael. "Richard D'Oyly Carte", The Savoyard, January 1975, pp. 711
+^ McNeil 1990, pp.369
+^ "History of public supply in the UK".
+^ Hunter & Bryant 1991, p.191.
+^ Hunter & Bryant 1991, p.242
+^ a b Hunter & Bryant 1991, pp.2769
+^ Hunter & Bryant 1991, pp.212 Note 53
+^ Hunter&Bryant 1991, pp.2769
+^ Hunter & Bryant 1991, pp.2834
+^ Hunter&Bryant 1991
+^ Gee, William (2004). "Sturgeon, William (17831850)". Oxford Dictionary of National Biography. Oxford University Press. doi:10.1093/ref:odnb/26748.
+^ "DC Motors".
+^ Nye 1990, pp.195
+^ Historical Encyclopedia of Natural and Mathematical Sciences, Volume 1. Springer.
+^ Wizard: the life and times of Nikola Tesla: biography of a genius. Citadel Press. p.24.
+^ Polyphase electric currents and alternate-current motors. Spon. p.87.
+^ Innovation as a Social Process. Cambridge University Press. p.258.
+^ "Nikola Tesla The Electrical Genius".
+^ "AC Power History and Timeline".
+^ Oxford Dictionary of National Biography: Hopkinson, John by T. H. Beare
+^ "Networks of Power". google.com.
+^ Hunter & Bryant 1991, pp.248
+^ Arnold Heertje, Mark Perlman [1] Evolving Technology and Market Structure: Studies in Schumpeterian Economics, page 138
+^ Hunter & Bryant 1991, pp.250
+^ McNeil 1990, pp.383
+^ Hunter & Bryant 1991, pp.2856
+^ Hunter & Bryant 1991, pp.221
+^ Hunter & Bryant 1991, pp.253, Note 18
+^ [2] Archived May 13, 2010, at the Wayback Machine.
+^ Forbes, Ross (17 April 1997). "A marriage took place last week that wedded two technologies possibly 120 years too late.". http://www.wiki-north-east.co.uk/. The Journal. Retrieved 2009-01-02. External link in |work= (help)[dead link]
+^ Parsons, Sir Charles A. "The Steam Turbine".
+^ Hunter & Bryant 1991, pp.336
+^ Steam-its generation and use. Babcock & Wilcox. (Numerous editions). Check date values in: |date= (help)
+^ Jerome, Harry (1934). Mechanization in Industry, National Bureau of Economic Research (PDF).
+^ Shaw, Alan (29 September 2005). "Kelvin to Weir, and on to GB SYS 2005" (PDF). Royal Society of Edinburgh.
+^ "Survey of Belford 1995". North Northumberland Online.
+^ "Lighting by electricity". The National Trust.
+^ Mazer, A. (2007). Electric Power Planning for Regulated and Deregulated Markets. John, Wiley, and Sons, Inc., Hoboken, NJ. 313pgs.
+^ Rao, Y. Srinivasa (2010) Electricity, Politics and Regional Economic Imbalance in Madras Presidency, 19001947. Economic and Political Weekly 45(23), 5966
+^ Chikowero, Moses (2007) Subalternating Currents: Electrification and Power Politics in Bulawayo, Colonial Zimbabwe, 18941939. Journal of Southern African Studies 33(2), 287306
+^ Shamir, Ronen (2013) Current Flow: The Electrification of Palestine. Stanford: Stanford University Press
+^ Moore, Stephen; Simon, Julian (Dec 15, 1999). "The Greatest Century That Ever Was: 25 Miraculous Trends of the last 100 Years, The Cato Institute: Policy Analysis, No. 364" (PDF): 20 Fig. 16.Fig 13.
+^ Smil, Vaclav (2006). Transforming the Twentieth Century: Technical Innovations and Their Consequences. Oxford, New York: Oxford University Press. p.33<Maximum turbine size grew to about 200 MW in the 1920s and again to about 1000 MW in 1960. Significant increases in efficiency accompanied each increase in scale.>
+^ Two Paradigms of Production and Growth
+^ Cardwell, D. S. L. (1972). Technology Science and History. London: Heinemann. p.163.
+^ Unskilled labor made approximately $1.25 per 10- to 12-hour day. Hunter & Bryant cite a letter from Benjamin Latrobe to John Stevens ca. 1814 giving the cost of two old blind horses used to power a mill at $20 and $14. A good dray horse cost $165.
+^ Hunter & Bryant 1991, pp.2930
+^ a b c Hunter & Bryant 1991
+^ a b Ayres, R. U.; Ayres, L. W.; Warr, B. (2002). "Exergy, Power and Work in the U. S. Economy 1900-1998, Insead's Center For the Management of Environmental Resources, 2002/52/EPS/CMER".
+^ Two Paradigms of Production and Growth
+^ Kendrick, John W. (1980). Productivity in the United States: Trends and Cycles. The Johns Hopkins University Press. p.97. ISBN978-0-8018-2289-6.
+^ Committee on Electricity in Economic Growth Energy Engineering Board Commission on Engineering and Technical Systems National Research Council (1986). Electricity in Economic Growth. Washington, DC: National Academy Press. pp.16, 40. ISBN0-309-03677-1<Available as free .pdf download>
+^ Association for Industrial Archaeology (1987). Industrial archaeology review, Volumes 10-11. Oxford University Press. p.187.
+^ "Hydroelectric power - energy from falling water". Clara.net.
+^ Energy Timelines - Hydropower
+^ a b "James Blyth". Oxford Dictionary of National Biography. Oxford University Press. Retrieved 2009-10-09.
+^ Tiwari, G. N.; Ghosal, M. K. Renewable Energy Resources: Basic Principles and Applications. Alpha Science Int'l Ltd., 2005 ISBN 1-84265-125-0
+^ "Final RE Report" (PDF). Retrieved 2016-05-29.
+^ "IEA - Energy Access". worldenergyoutlook.org.
+^ http://iis-db.stanford.edu/pubs/22196/From_Acai_to_Access_(Published_Version).pdf
+^ Thomson Reuters Foundation. "Population growth erodes sustainable energy gains - UN report". trust.org.
+^ "Our Electric Future  The American, A Magazine of Ideas". American.com. 2009-06-15. Retrieved 2009-06-19.
+Bibliography
+Hunter, Louis C.; Bryant, Lynwood (1991). A History of Industrial Power in the United States, 17301930, Vol. 3: The Transmission of Power. Cambridge, Massachusetts: MIT Press. ISBN0-262-08198-9.
+Hills, Richard Leslie (1993). Power from Steam: A History of the Stationary Steam Engine (paperback ed.). Cambridge University Press,. p.244. ISBN0-521-45834-X. ISBN 9780521458344. Retrieved May 2012. Check date values in: |access-date= (help)
+McNeil, Ian (1990). An Encyclopedia of the History of Technology. London: Routledge. ISBN0-415-14792-1.
+Nye, David E. (1990). Electrifying America: Social Meanings of a New Technology. Cambridge, MA, USA and London, England: The MIT Press.
+Zambesi Rapids - Rural electrification with water power [3]
+External links[edit]
+Wikimedia Commons has media related to Electric power transmission.
+The dictionary definition of electrification at Wiktionary
+NewPP limit report
+Parsed by mw1267
+Cached time: 20161119055442
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.412 seconds
+Real time usage: 0.479 seconds
+Preprocessor visited node count: 2849/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 74058/2097152 bytes
+Template argument size: 1451/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.179/10.000 seconds
+Lua memory usage: 5.1 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+402.737
+1 - -total
+54.83%
+220.829
+1 - Template:Reflist
+14.97%
+60.291
+21 - Template:Cite_book
+11.73%
+47.235
+16 - Template:Cite_web
+10.75%
+43.285
+1 - Template:Citation_needed
+10.57%
+42.579
+2 - Template:Fix
+8.57%
+34.506
+3 - Template:Cite_journal
+6.52%
+26.239
+4 - Template:Category_handler
+5.42%
+21.821
+23 - Template:Harvnb
+5.42%
+21.821
+1 - Template:About
+Saved in parser cache with key enwiki:pcache:idhash:551731-0!*!0!!en!4!* and timestamp 20161119055441 and revision id 749549148
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Electrification&oldid=749549148"
+Categories: ElectrificationVehicle electrificationElectric vehiclesHidden categories: Webarchive template wayback linksCS1 errors: external linksAll articles with dead external linksArticles with dead external links from November 2010CS1 errors: datesPages using ISBN magic linksAll articles with unsourced statementsArticles with unsourced statements from February 2009Commons category without a link on Wikidata

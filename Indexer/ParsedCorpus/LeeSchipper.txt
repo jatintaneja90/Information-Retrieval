@@ -1,0 +1,84 @@
+LeeSchipper
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (January 2012) (Learn how and when to remove this template message)
+This article has an unclear citation style. The references used may be made clearer with a different or consistent style of citation, footnoting, or external linking. (September 2012) (Learn how and when to remove this template message)
+(Learn how and when to remove this template message)
+Leon Jay "Lee" Schipper (April 7, 1947  August 16, 2011) was an energy efficiency expert and international environmentalist who devoted his life to understanding societal, infrastructural and technological challenges to energy efficiency, particularly in the heating and transport sectors.
+Lee Schipper attended the University of California at Berkeley in September 1964, studying Physics and Music. He completed his double-major B.A. in 1968, moving straight into his PhD in Astrophysics in the Physics Department. He completed his PhD in 1985.
+At the time of his death, Schipper was a senior research scientist at both University of California Berkeleys Global Metropolitan Studies and at the Precourt Institute of Energy Efficiency at Stanford University conducting research and policy analysis on efficient energy use in transportation systems. He was co-founder of EMBARQ, the World Resources Institute Center for Sustainable Transport, and remained as a senior associate emeritus. Over a highly productive career, he worked at the Energy and Resources Group at UC Berkeley, Lawrence Berkeley National Lab, the International Energy Agency in Paris, Shell International in London, as well as being Fulbright Scholar at the Beijer Institute of Ecological Economics in Stockholm. He was a guest researcher at the World Bank, VVS Tekniska Foereningen, the OECD, and the Stockholm Environment Institute. He worked closely with the Global Business Network and Cambridge Energy Research Associates.
+Schipper authored more than 100 technical papers and a number of books on energy economics and transportation, including Energy Efficiency and Human Activity: Past Trends,Future Prospects (1992) with Stephen Meyers, Richard Howarth, and Ruth Steiner. He served on the editorial boards of five major journals and was a member of the Swedish Board for Transportation and Communications Research. For four years he was a member of the U.S. National Academy of Sciences Transportation Research Boards Committee on Sustainable Transport and Committee on Developing Countries. He contributed to the Second and Third Assessment Reports of the Intergovernmental Panel on Climate Change, which was awarded the Nobel Peace Prize in 2007. He was due to act as Review Editor for the chapter on Transport in Working Group III's contribution to the Fifth Assessment Report, released in April 2014.
+In Berkeley in the early 1970s, Professor John Holdren, later to become President Obamas Science Advisor, was the first person to hire Schipper as an energy specialist. He notes that Lee was one of the first people to point out that people dont want to consume energy, but they want to consume energy services, like transportation, comfortable rooms, cold beer and so forth. And that there was an enormous variation in the amount of energy needed to perform those services. Lee's seminal contribution came in 1976,[1] between the first and second international oil shocks, when he published an influential paper in Science [2] pointing out that Sweden consumed far less energy per unit of economic activity than the United States did. Lee shifted his primary attention to transport in the 1980s and started the Berkeley Labs International Energy Studies group with Jayant Sathaye, and the two co-led the group for many years. Schipper broke new ground by analyzing energy data sector by sector and end-use by end-use in various countries and comparing them. He demonstrated that energy intensity did not correlate with GDP in any simple way and was able to show why. "The work he did has been carried on here. He created an important tradition of understanding energy by studying it from the bottom up, which means by end user," Levine said. "Lee was the founding father of a school of energy analysts, a tradition carried on with vigor in the Energy Analysis Department at LBNL."
+He was described as being an irrepressible iconoclast[3] with a wonderful knack of turning a phrase to excellent effect. Evidence for this was publishing 15 letters to the editor in the New York Times on energy efficiency. For example, in his view the "cash for clunkers" programwhich offered rebates to people who bought a new car with better mileage than their old onedid little to save energy, although it may have reduced air pollution. In many cases, buyers used the rebate to buy something bigger and more high-powered than they would have otherwise. "The effect is inverse of what we were hoping for" he said.
+Schipper was also an accomplished musician with a B.A. in music from U.C. Berkeley. He was the leader of the University of California Jazz Quintet in 1968.[4] As a UC Berkeley student and vibraphonist, he led his jazz group to victory at the Notre Dame Jazz Festival in 1967. In 1969 Danish saxophonist Carsten Meinert invited him to record on his album "C.M. Musictrain" in Denmark (Spectator Records). In 1973 he recorded "The Phunky Physicist" with Swedish guitarplayer Janne Schaffer. He would reprise the role as band leader with an ad hoc jazz group, Lee Schipper and the Mitigators, who performed primarily in conjunction with energy-related conferences.
+He was also one of the worlds experts on Wilhelm Furtwangler, perhaps the greatest symphonic and operatic conductor of the 20th century, and collected one of the most complete sets of his recordings.
+Publications[edit]
+Measuring The Invisible: Quantifying Emissions Reductions From Transport Solutions - Hanoi Case Study, March, 2008 (with: Maria Cordeiro, Robyn Liska, Dr. Tuan Le Anh, Hans Orn, Wei-shiuen NG) WRI 2008, http://www.wri.org/publication/measuring-the-invisible-hanoi
+Measuring the Invisible: Quantifying Emissions Reductions from Transport Solutions - Quertaro Case Study, September, 2006 (with: Maria Cordeiro, Diana Noriega) WRI 2006, http://www.wri.org/publication/measuring-the-invisible-queretaro
+Growing in the Greenhouse: Protecting the Climate by Putting Development First, December, 2005 (with: Rob Bradley, Jonathan Pershing, Kevin A. Baumert, Navroz K. Dubash, Jose Roberto Moreira, Stanford Mwakasonda, Wei-Shiuen Ng, Luiz Augusto Horta Nogueira, Virginia Parente, Harald Winkler) WRI 2005, http://www.wri.org/publication/growing-in-the-greenhouse
+Too Expensive to Ignore: The Real Story on Car Fuel Economy and Use, July 2008, EMBARQ 2008, http://www.embarq.org/en/news/08/07/21/too-expensive-ignore-the-real-story-car-fuel-economy-and-use
+Transportation in Developing Countries: Greenhouse Gas Scenarios for Delhi, India, May 2001, (with: Ranjan K. Bose, Daniel Sperling, Mark A. Delucchi, K. Nesamani, Lothlorien S. Redmond, Geetam Tiwari) UC Davis ITS, Reference Number: UCD-ITS-RP-01-13, http://pubs.its.ucdavis.edu/publication_detail.php?id=388
+Mind the Gap: The Vicious Circle of Measuring Automobile Fuel Use, December 1993, (with: Maria J. Figueroa, Lynn K. Price, Molly Espey) UC Davis ITS, Reference Number: UCD-ITS-RP-93-27, http://pubs.its.ucdavis.edu/publication_detail.php?id=878
+Environmentally Benign Automobiles, October 1992, (with: Daniel Sperling, Mark A. DeLuchi, Michael Q. Wang) UC Davis ITS, Reference Number: UCD-ITS-RP-92-25, http://pubs.its.ucdavis.edu/publication_detail.php?id=936
+Transport and Carbon Dioxide Emissions: Forecasts, Options Analysis, and Evaluation, 2009, Asian Development Bank, http://www.asiandevbank.org/documents/papers/adb-working-paper-series/ADB-WP09-Transport-CO2-Emissions.pdf
+References[edit]
+[5] [6]
+^ Energy economics' most influential papers, Energy Economics 28 (2006) 405409 , retrieved 19 August 2011
+^ Science 3 December 1976: Vol. 194 no. 4269 pp. 1001-1013, DOI: 10.1126/science.194.4269.1001
+^ Leon Schipper, Physicist and Iconoclast, Dies at 64, The New York TImes, retrieved 19 August 2011
+^ Lee Schipper, leader of the University of California Jazz Quintet interview, 27 May 1968: http://research.archives.gov/description/130296
+^ A survey on impacts of climate change on road transport infrastructure and adaptation strategies in Asia, ENVIRONMENTAL ECONOMICS AND POLICY STUDIES Volume 13, Number 1, 21-41, doi:10.1007/s10018-010-0002-y
+^ Cars and Carbon: Automobiles and European Climate Policy in a Global Context, Theodoros I. Zachariadis (Editor), Springer Dordrecht, ISBN 978-94-007-2122-7
+External links[edit]
+[1]
+NewPP limit report
+Parsed by mw1261
+Cached time: 20161118092607
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.084 seconds
+Real time usage: 0.107 seconds
+Preprocessor visited node count: 348/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 21194/2097152 bytes
+Template argument size: 6146/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 3/500
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 1.17 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+85.964
+1 - -total
+98.33%
+84.524
+3 - Template:Ambox
+81.05%
+69.677
+1 - Template:Multiple_issues
+23.71%
+20.382
+1 - Template:More_footnotes
+13.52%
+11.621
+1 - Template:Reflist
+8.72%
+7.492
+1 - Template:Citation_style
+5.86%
+5.040
+1 - Template:Doi
+2.85%
+2.449
+2 - Template:Hide_in_print
+1.38%
+1.182
+1 - Template:Only_in_print
+1.30%
+1.116
+1 - Template:Str_left
+Saved in parser cache with key enwiki:pcache:idhash:32478215-0!*!0!!*!4!* and timestamp 20161118092606 and revision id 720287119
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Lee_Schipper&oldid=720287119"
+Categories: People associated with energy2011 deathsPeople from Santa Monica, CaliforniaUniversity of California, Berkeley alumni1947 birthsHidden categories: Pages using ISBN magic linksArticles lacking in-text citations from January 2012All articles lacking in-text citationsWikipedia references cleanup from September 2012All articles needing references cleanupArticles covered by WikiProject Wikify from September 2012All articles covered by WikiProject Wikify

@@ -1,0 +1,43 @@
+Firedamp
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Firedamp is flammable gas found in coal mines. It is the name given to a number of flammable gases, especially methane. It is particularly found in areas where the coal is bituminous. The gas accumulates in pockets in the coal and adjacent strata, and when they are penetrated, the release can trigger explosions. Historically, if such a pocket was highly pressurized, it was termed a "bag of foulness".[1]
+Contents
+1 Name
+2 Contribution to mine deaths
+3 See also
+4 References
+Name[edit]
+Damps is the collective name given to all gases (other than air) found in coal mines in Great Britain. The word corresponds to German Dampf, the name for "vapour".[2]
+Alongside firedamp, other damps include blackdamp (carbon dioxide and other gases), poisonous, explosive stinkdamp (hydrogen sulfide), with its characteristic "rotten egg" odour, and the insidiously lethal afterdamp (carbon monoxide and other gases) produced following explosions of firedamp or coal dust.
+Contribution to mine deaths[edit]
+Firedamp is explosive at concentrations between 4% and 16%, with most explosions occurring at around 10%. It caused much loss of life in coal mines before the invention of the Geordie lamp and Davy lamp.[3] The invention was prompted by the Felling mine disaster near Newcastle upon Tyne claiming 92 lives on 25 May 1812. Davy experimented with iron gauze, determining the maximum size of the gaps and the optimum wire thickness to prevent a flame passing through the gauze. If a naked flame was thus enclosed totally by such a gauze, then methane could pass into the lamp and burn safely above the flame. He did not patent his invention.
+Even after the safety lamps were brought into common use, firedamp explosions could still occur from sparks produced when coal contaminated with pyrites was struck with metal tools. The presence of coal dust in the air increased the risk of explosion with firedamp, and indeed could cause explosions itself.
+Davy lamp (drawing)
+The Tyneside coal mines in England had the deadly combination of bituminous coal contaminated with pyrites, and a great number of lives were lost in accidents due to firedamp explosions, including 102 dead at Wallsend in 1835.[3] A continuous flame was produced at Whitehaven some time before 1733, described as being "a yard wide and two yards long." The miners dealt with it by piping it to the outside.[4]
+Rather than the Davy lamp, Tyneside miners used the Geordie lamp, a similar safety lamp designed by George Stephenson. After the widespread introduction of the safety lamp, explosions continued because the early Davy lamps were fragile and easily damaged. The iron gauze for example only needed to lose one wire to become unsafe. The light was also very poor, and there were continuous attempts to improve the basic design. The height of the cone of burning methane in a flame safety lamp can be used to estimate the concentration of the gas in the local atmosphere. It was not until the 1890s that safe and reliable electric lamps became available in collieries.
+See also[edit]
+Abercarn colliery disaster
+Coalbed methane
+Darr Mine Disaster
+Gresford Disaster
+Mining accident
+Udston mining disaster
+References[edit]
+^ William Stukeley Gresly (1882). "Bag of foulness". A Glossary of Terms Used in Coal Mining. London: E. & F.N. Spon.
+^ Oxford English Dictionary: damp, n.1
+^ a b Holland, John (1841). The History and Description of Fossil Fuel, the Collieries, and Coal Trade of Great Britain. London: Whittaker and Co (Digital edition Kress Library of Business and Economics, Harvard University). pp.2678.
+^ The Book of Knowledge (1945) Vol.3 p. 990
+"Experiments Show How Gas Explodes in a Mine", Popular Science monthly, February 1919, Unnumbered page, Scanned by Google Books: https://books.google.com/books?id=7igDAAAAMBAJ&pg=PT21
+v
+t
+e
+Damps
+Afterdamp
+Blackdamp
+Firedamp
+Stinkdamp
+Whitedamp
+Saved in parser cache with key enwiki:pcache:idhash:505455-0!*!0!!en!4!* and timestamp 20161105025019 and revision id 745868952
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Firedamp&oldid=745868952"
+Categories: Coal miningFuel gasMine safetyNatural gas safety

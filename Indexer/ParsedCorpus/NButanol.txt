@@ -1,0 +1,1085 @@
+NButanol
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+n-Butanol
+Names
+Systematic IUPAC name
+Butan-1-ol[1]
+Other names
+Butalcohol
+Butanol
+1-Butanol
+Butyl alcohol
+Butyl hydrate
+Butylic alcohol
+Butyralcohol
+Butyric alcohol
+Butyryl alcohol
+n-Butyl alcohol
+1-Hydroxybutane
+n-Propylcarbinol
+Identifiers
+CAS Number
+71-36-3Y
+3D model (Jmol)
+Interactive image
+3DMet
+B00907
+Beilstein Reference
+969148
+ChEBI
+CHEBI:28885N
+ChEMBL
+ChEMBL14245Y
+ChemSpider
+258Y
+DrugBank
+DB02145N
+ECHA InfoCard
+100.000.683
+EC Number
+200-751-6
+Gmelin Reference
+25753
+KEGG
+D03200Y
+MeSH
+1-Butanol
+PubChem
+263
+RTECS number
+EO1400000
+UNII
+8PJ61P6TS3Y
+UN number
+1120
+InChI
+InChI=1S/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3Y
+Key:LRHPLDYGYMQRHN-UHFFFAOYSA-NY
+InChI=1/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3
+SMILES
+CCCCO
+Properties
+Chemical formula
+C4H10O
+Molar mass
+74.12gmol1
+Appearance
+Colourless, refractive liquid
+Odor
+banana-like,[2] harsh, alcoholic and sweet
+Density
+0.81 g cm3
+Melting point
+89.8C (129.6F; 183.3K)
+Boiling point
+117.7C (243.9F; 390.8K)
+Solubility in water
+73 g L1 at 25C
+Solubility
+very soluble in acetone
+miscible with ethanol, ethyl ether
+log P
+0.839
+Vapor pressure
+6 mmHg (20C)[3]
+Acidity (pKa)
+16.10
+Refractive index (nD)
+1.3993 (20C)
+Viscosity
+2.573 mPas (at 25C) [4]
+Dipole moment
+1.66 D
+Thermochemistry
+Std molar
+entropy (So298)
+225.7 JK1mol1
+Std enthalpy of
+formation (fHo298)
+328(4) kJ mol1
+Std enthalpy of
+combustion (cHo298)
+2670(20) kJ mol1
+Hazards
+Safety data sheet
+ICSC 0111
+EUclassification (DSD)
+Xn
+R-phrases
+R10, R22, R37/38, R41, R67
+S-phrases
+(S2), S7/9, S13, S26, S37/39, S46
+NFPA 704
+3
+1
+0
+Flash point
+35C (95F; 308K)
+Autoignition
+temperature
+343C (649F; 616K)
+Explosive limits
+1.4511.25%
+Lethal dose or concentration (LD, LC):
+LD50 (median dose)
+790 mg/kg (rat, oral)
+LDLo (lowest published)
+3484 mg/kg (rabbit, oral)
+790 mg/kg (rat, oral)
+1700 mg/kg (dog, oral)[5]
+LC50 (median concentration)
+9221 ppm (mammal)
+8000 ppm (rat, 4 hr)[5]
+US health exposure limits (NIOSH):
+PEL (Permissible)
+TWA 100 ppm (300 mg/m3)[3]
+REL (Recommended)
+C 50 ppm (150 mg/m3) [skin][3]
+IDLH (Immediate danger)
+1400 ppm[3]
+Related compounds
+Related compounds
+Butanethiol
+n-Butylamine
+Pentane
+Except where otherwise noted, data are given for materials in their standard state (at 25C [77F], 100kPa).
+Nverify(what isYN?)
+Infoboxreferences
+n-Butanol or n-butyl alcohol or normal butanol is a primary alcohol with a 4-carbon structure and the chemical formula C4H9OH. Its isomers include isobutanol, 2-butanol, and tert-butanol. Butanol is one of the group of "fusel alcohols" (from the German for "bad liquor"), which have more than two carbon atoms and have significant solubility in water.
+n-Butanol occurs naturally as a minor product of the fermentation of sugars and other carbohydrates,[6] and is present in many foods and beverages.[7][8] It is also a permitted artificial flavorant in the United States,[9] used in butter, cream, fruit, rum, whiskey, ice cream and ices, candy, baked goods and cordials.[10] It is also used in a wide range of consumer products.[7]
+The largest use of n-butanol is as an industrial intermediate, particularly for the manufacture of butyl acetate (itself an artificial flavorant and industrial solvent). It is a petrochemical, manufactured from propylene and usually used close to the point of manufacture. Estimated production figures for 1997 are: United States 784,000tonnes; Western Europe 575,000tonnes; Japan 225,000tonnes.[8]
+Contents
+1 Production
+2 Industrial use
+3 Other uses
+3.1 Occurrence in Nature
+4 Occurrence in food
+5 Metabolism and toxicity
+6 Other hazards
+7 See also
+8 External links
+9 References
+Production[edit]
+n-Butanol is produced industrially from the petrochemical feedstock propylene. Propylene is hydroformylated to butyraldehyde (oxo process) in the presence of a rhodium-based homogeneous catalyst similar to Wilkinson's catalyst. The butyraldehyde is then hydrogenated to produce n-butanol.[8]
+Industrial use[edit]
+n-butanol is an intermediate in the production of butyl acrylate, butyl acetate, dibutyl phthalate, dibutyl sebacate, and other butyl esters,[11][12] butyl ethers such as ethylene glycol monobutyl ether, di- and triethylene glycol monobutyl ether, and the corresponding butyl ether acetates. Other industrial uses include the manufacture of pharmaceuticals, polymers, pyroxylin plastics, herbicide esters, printing (e.g., 2,4-D, 2,4,5-T)[13] and butyl xanthate. It is also used as a diluent/reactant in the manufacture of ureaformaldehyde and melamineformaldehyde resins.[8]
+Other uses[edit]
+n-Butanol is used as an ingredient in perfumes and as a solvent for the extraction of essential oils.[11] n-Butanol is also used as an extractant in the manufacture of antibiotics, hormones, and vitamins;[11][12] a solvent for paints, coatings, natural resins, gums, synthetic resins, dyes, alkaloids, and camphor.[11][12] Other miscellaneous applications of n-butanol are as a swelling agent in textiles, as a component of hydraulic brake fluids, cleaning formulations, degreasers, and repellents;[7] and as a component of ore floation agents,[13] and of wood-treating systems.[14]
+n-Butanol has been proposed as a substitute for diesel fuel and gasoline. It is produced in small quantities in nearly all fermentations (see fusel oil), but species of Clostridium produce much higher yields of butanol, and research is currently underway to increase the ultimate yield of biobutanol from biomass.
+The production or, in some cases, use of the following substances may result in exposure to n-butanol: artificial leather, butyl esters, rubber cement, dyes, fruit essences, lacquers, motion picture, and photographic films, raincoats, perfumes, pyroxylin plastics, rayon, safety glass, shellac varnish, and waterproofed cloth.[7]
+Occurrence in Nature[edit]
+Honey bees use n-butanol as an Alarm pheromone.
+Occurrence in food[edit]
+n-Butanol occurs naturally as a result of carbohydrate fermentation in a number of alcoholic beverages, including beer,[15] grape brandies,[16] wine,[17] and whisky.[18] It has been detected in the volatiles of hops,[19] jack fruit,[20] heat-treated milks,[21] musk melon,[22] cheese,[23] southern pea seed,[24] and cooked rice.[25] n-Butanol is also formed during deep frying of corn oil, cottonseed oil, trilinolein, and triolein.[26]
+n-Butanol is used as an ingredient in processed and artificial flavourings,[11] and for the extraction of lipid-free protein from egg yolk,[27] natural flavouring materials and vegetable oils, the manufacture of hop extract for beermaking, and as a solvent in removing pigments from moist curd leaf protein concentrate.[28]
+Metabolism and toxicity[edit]
+n-Butanol is readily absorbed through the intestinal tract and lungs, and also to some extent through the skin.[29] It is metabolized completely in vertebrates in a manner similar to ethanol: alcohol dehydrogenase converts n-butanol to butyraldehyde; this is then converted to butyric acid by aldehyde dehydrogenase. Butyric acid can be fully metabolized to carbon dioxide and water by the -oxidation pathway. In the rat, only 0.03% of an oral dose of 2000mg/kg was excreted in the urine.[30]
+The acute toxicity of n-butanol is relatively low, with oral LD50 values of 7904360mg/kg (rat; comparable values for ethanol are 700015000mg/kg).[8][31] No deaths were reported at an inhaled concentration of 8000ppm (4-hour exposure, rats). At sub-lethal doses, n-butanol acts as a depressant of the central nervous system, similar to ethanol: one study in rats indicated that the intoxicating potency of n-butanol is some six times higher than that of ethanol, possibly because of its slower transformation by alcohol dehydrogenase.[32]
+n-Butanol is a natural component of many alcoholic beverages, albeit in low (but variable) concentrations.[33][34] It (along with similar fusel alcohols) is reputed to be responsible for severe "hangovers", although experiments in animal models show no evidence for this.[35] An unknown dose n-Butanol was consumed by a 47-year-old male with no previous medical history, leading to a range of adverse health effects.[36]
+Other hazards[edit]
+Liquid n-butanol, as is common with most organic solvents, is extremely irritating to the eyes; repeated contact with the skin can also cause irritation.[8] This is believed to be a generic effect of "defatting". No skin sensitization has been observed. Irritation of the respiratory pathways occurs only at very high concentrations (>2400ppm).[37]
+With a flash point of 35C, n-butanol presents a moderate fire hazard: it is slightly more flammable than kerosene or diesel fuel but less flammable than many other common organic solvents. The depressant effect on the central nervous system (similar to ethanol intoxication) is a potential hazard when working with n-butanol in enclosed spaces, although the odour threshold (0.230ppm) is far below the concentration which would have any neurological effect.[37][38]
+n-Butanol is of low toxicity to aquatic vertebrates and invertebrates. It is rapidly biodegraded in water, although an estimated 83% partitions to air where it is degraded by hydroxyl radicals with a half-life of 1.22.3days. It has low potential to bioaccumulate.[8] A potential hazard of significant discharges to watercourses is the rise in chemical oxygen demand (C.O.D.) associated with its biodegradation.
+See also[edit]
+Butanol fuel
+External links[edit]
+International Chemical Safety Card 0111
+"NIOSH Pocket Guide to Chemical Hazards #0076". National Institute for Occupational Safety and Health (NIOSH).
+SIDS Initial Assessment Report for n-Butanol from the Organisation for Economic Co-operation and Development (OECD)
+IPCS Environmental Health Criteria 65: Butanols: four isomers
+IPCS Health and Safety Guide 3: 1-Butanol
+References[edit]
+^ "1-Butanol - Compound Summary". The PubChem Project. USA: National Center of Biotechnology Information.
+^ [n-Butanol Product Information, The Dow Chemical Company, Form No. 327-00014-1001, page 1]
+^ a b c d "NIOSH Pocket Guide to Chemical Hazards #0076". National Institute for Occupational Safety and Health (NIOSH).
+^ Dubey, Gyan (2008). "Study of densities, viscosities, and speeds of sound of binary liquid mixtures of butan-1-ol with n-alkanes (C6, C8, and C10) at T = (298.15, 303.15, and 308.15) K". The Journal of Chemical Thermodynamics. 40 (2): 309320. doi:10.1016/j.jct.2007.05.016.
+^ a b "N-butyl alcohol". Immediately Dangerous to Life and Health. National Institute for Occupational Safety and Health (NIOSH).
+^ Hazelwood, Lucie A.; Daran, Jean-Marc; van Maris, Antonius J. A.; Pronk, Jack T.; Dickinson, J. Richard (2008), "The Ehrlich pathway for fusel alcohol production: a century of research on Saccharomyces cerevisiae metabolism", Appl. Environ. Microbiol., 74 (8): 225966, doi:10.1128/AEM.02625-07, PMC2293160, PMID18281432.
+^ a b c d Butanols: four isomers, Environmental Health Criteria monograph No.65, Geneva: World Health Organization, 1987, ISBN92-4-154265-9.
+^ a b c d e f g n-Butanol (PDF), SIDS Initial Assessment Report, Geneva: United Nations Environment Programme, April 2005.
+^ 21 C.F.R.  172.515; 42 FR 14491, Mar. 15, 1977, as amended.
+^ Hall, R. L.; Oser, B. L. (1965), "Recent progress in the consideration of flavouring ingredients under the food additives amendement. III. Gras substances", Food Technol.: 151, cited in Butanols: four isomers, Environmental Health Criteria monograph No.65, Geneva: World Health Organization, 1987, ISBN92-4-154265-9.
+^ a b c d e Mellan, I. (1950), Industrial Solvents, New York: Van Nostrand Reinhold, pp.48288, cited in Butanols: four isomers, Environmental Health Criteria monograph No.65, Geneva: World Health Organization, 1987, ISBN92-4-154265-9.
+^ a b c Doolittle, A. K. (1954), The Technology of Solvents and Plasticizers, New York: Wiley, pp.64445, cited in Butanols: four isomers, Environmental Health Criteria monograph No.65, Geneva: World Health Organization, 1987, ISBN92-4-154265-9.
+^ a b Monich, J. A. (1968), Alcohols: Their Chemistry, Properties, and Manufacture, New York: Chapman and Reinhold, cited in Butanols: four isomers, Environmental Health Criteria monograph No.65, Geneva: World Health Organization, 1987, ISBN92-4-154265-9.
+^ ZA 7801031, Amundsen, J.; R. J. Goodwin & W. H. Wetzel, "Water-soluble pentachlorophenol and tetrachlorophenol wood-treating systems", published 28 Feb. 1979.
+^ Bonte, W. (1979), "Congener substances in German and foreign beers", Blutalkohol, 16: 10824, cited in Butanols: four isomers, Environmental Health Criteria monograph No.65, Geneva: World Health Organization, 1987, ISBN92-4-154265-9.
+^ Schreier, Peter; Drawert, Friedrich; Winkler, Friedrich (1979), "Composition of neutral volatile constituents in grape brandies", J. Agric. Food Chem., 27 (2): 36572, doi:10.1021/jf60222a031.
+^ Bonte, W. (1978), "Congener content of wine and similar beverages", Blutalkohol, 15: 392404, cited in Butanols: four isomers, Environmental Health Criteria monograph No.65, Geneva: World Health Organization, 1987, ISBN92-4-154265-9.
+^ Postel, W.; Adam, L. (1978), "Gas chromatographic characterization of whiskey. III. Irish whiskey", Branntweinwirtschaft, 118: 4047, cited in Butanols: four isomers, Environmental Health Criteria monograph No.65, Geneva: World Health Organization, 1987, ISBN92-4-154265-9.
+^ Tressl, Roland; Friese, Lothar; Fendesack, Friedrich; Koeppler, Hans (1978), "Studies of the volatile composition of hops during storage", J. Agric. Food Chem., 26 (6): 142630, doi:10.1021/jf60220a036.
+^ Swords, G.; Bobbio, P. A.; Hunter, G. L. K. (1978), "Volatile constituents of jack fruit (Arthocarpus heterophyllus)", J. Food Sci., 43 (2): 63940, doi:10.1111/j.1365-2621.1978.tb02375.x.
+^ Jaddou, Haytham A.; Pavey, John A.; Manning, Donald J. (1978), "Chemical analysis of flavor volatiles in heat-treated milks", J. Dairy Res., 45 (3): 391403, doi:10.1017/S0022029900016617.
+^ Yabumoto, K.; Yamaguchi, M.; Jennings, W. G. (1978), "Production of volatile compounds by Muskmelon, Cucumis melo", Food Chem., 3 (1): 716, doi:10.1016/0308-8146(78)90042-0.
+^ Dumont, Jean Pierre; Adda, Jacques (1978), "Occurrence of sesquiterpones in mountain cheese volatiles", J. Agric. Food Chem., 26 (2): 36467, doi:10.1021/jf60216a037.
+^ Fisher, Gordon S.; Legendre, Michael G.; Lovgren, Norman V.; Schuller, Walter H.; Wells, John A. (1979), "Volatile constituents of southernpea seed [Vigna unguiculata (L.) Walp.]", J. Agric. Food Chem., 27 (1): 711, doi:10.1021/jf60221a040.
+^ Yajima, Izumi; Yanai, Tetsuya; Nakamura, Mikio; Sakakibara, Hidemasa; Habu, Tsutomu (1978), "Volatile flavor components of cooked rice", Agric. Biol. Chem., 42 (6): 122933, doi:10.1271/bbb1961.42.1229.
+^ Chang, S. S.; Peterson, K. J.; Ho, C. (1978), "Chemical reactions involved in the deep-fat frying of foods", J. Am. Oil Chem. Soc.: 71827, cited in Butanols: four isomers, Environmental Health Criteria monograph No.65, Geneva: World Health Organization, 1987, ISBN92-4-154265-9.
+^ Meslar, Harry W.; White, Harold B., III (1978), "Preparation of lipid-free protein extracts of egg yolk", Anal. Biochem., 91 (1): 7581, doi:10.1016/0003-2697(78)90817-5, PMID9762085.
+^ Bray, Walter J.; Humphries, Catherine (1978), "Solvent fractionation of leaf juice to prepare green and white protein products", J. Sci. Food Agric., 29 (10): 83946, doi:10.1002/jsfa.2740291003.
+^ Theorell, Hugo; Bonnichsen, Roger; Holtermann, Hugo; Srensen, JRgine Stene; Srensen, Nils Andreas (1951), "Studies on Liver Alcohol Dehydrogenase I. Equilibria and Initial Reaction Velocities" (PDF), Acta Chem. Scand., 5: 110526, doi:10.3891/acta.chem.scand.05-1105. Winer, Alfred D.; Nurmikko, V.; Hartiala, K.; Hartiala, K.; Veige, S.; Diczfalusy, E. (1958), "A Note of the Substrate Specificity of Horse Liver Alcohol Dehydrogenase" (PDF), Acta Chem. Scand., 12: 169596, doi:10.3891/acta.chem.scand.12-1695. Merritt, A. Donald; Tomkins, Gordon M. (1959), "Reversible Oxidation of Cyclic Secondary Alcohols by Liver Alcohol Dehydrogenase", J. Biol. Chem., 234 (10): 277882. von Wartburg, Jean-Pierre; Bethane, J. L.; Vallee, B. L. (1964), "Human Liver Alcohol Dehydrogenase: Kinetic and Physiochemical Properties", Biochemistry, 3 (11): 177582, doi:10.1021/bi00899a033.
+^ Gaillard, D.; Derache, R. (1965), "Mtabilisation de diffrents alcools prsents dans les biossons alcooliques chez le rat", Trav. Soc. Pharmacol. Montpellier, 25: 54162, cited in Butanols: four isomers, Environmental Health Criteria monograph No.65, Geneva: World Health Organization, 1987, ISBN92-4-154265-9.
+^ Ethanol (PDF), SIDS Initial Assessment Report, Geneva: United Nations Environment Programme, August 2005.
+^ McCreery, N. J.; Hunt, W. A. (1978), "Physico-chemical correlates of alcohol intoxication", Neuropharmacology, 17 (7): 45161, doi:10.1016/0028-3908(78)90050-3, PMID567755.
+^ Woo, Kang-Lyung (2005), "Determination of low molecular weight alcohols including fusel oil in various samples by diethyl ether extraction and capillary gas chromatography", J. AOAC Int., 88 (5): 141927, doi:10.5555/jaoi.2005.88.5.1419, PMID16385992.
+^ Lachenmeier, Dirk W.; Haupt, Simone; Schulz, Katja (2008), "Defining maximum levels of higher alcohols in alcoholic beverages and surrogate alcohol products", Regul. Toxicol. Pharmacol., 50 (3): 31321, doi:10.1016/j.yrtph.2007.12.008, PMID18295386.
+^ Hori, Hisako; Fujii, Wataru; Hatanaka, Yutaka; Suwa, Yoshihide (2003), "Effects of fusel oil on animal hangover models", Alcohol. Clin. Exp. Res., 27 (8 Suppl): 37S41S, doi:10.1097/01.ALC.0000078828.49740.48, PMID12960505.
+^ Bunc, M.; Pezdir, T.; Moina, H.; Moina, M.; Brvar, M. (2006), "Butanol ingestion in an airport hangar", Hum. Exp. Toxicol., 25 (4): 19597, doi:10.1191/0960327106ht607oa, PMID16696295.
+^ a b Wysocki, C. J.; Dalton, P. (1996), Odor and Irritation Thresholds for 1-Butanol in Humans, Philadelphia: Monell Chemical Senses Center, cited in n-Butanol (PDF), SIDS Initial Assessment Report, Geneva: United Nations Environment Programme, April 2005.
+^ Cometto-Muiz, J. Enrique; Cain, William S. (1998), "Trigeminal and Olfactory Sensitivity: Comparison of Modalities and Methods of Measurement", Int. Arch. Occup. Environ. Health, 71 (2): 10510, doi:10.1007/s004200050256, PMID9580447.
+v
+t
+e
+Alcohols
+Straight-chain
+primary
+alcohols (1)
+Methanol (C
+1)
+Ethanol (C
+2)
+1-Propanol (C
+3)
+n-Butanol (C
+4)
+1-Pentanol (C
+5)
+1-Hexanol (C
+6)
+1-Heptanol (C
+7)
+1-Octanol (C
+8)
+1-Nonanol (C
+9)
+1-Decanol (C
+10)
+Undecanol (C
+11)
+Dodecanol (C
+12)
+Tridecan-1-ol (C
+13)
+1-Tetradecanol (C
+14)
+Pentadecan-1-ol (C
+15)
+Cetyl alcohol (C
+16)
+Heptadecan-1-ol (C
+17)
+Stearyl alcohol (C
+18)
+Nonadecan-1-ol (C
+19)
+Arachidyl alcohol (C
+20)
+Heneicosan-1-ol (C
+21)
+Docosanol (C
+22)
+Tricosan-1-ol (C
+23)
+1-Tetracosanol (C
+24)
+Pentacosan-1-ol (C
+25)
+1-Hexacosanol (C
+26)
+1-Heptacosanol (C
+27)
+1-Octacosanol (C
+28)
+1-Nonacosanol (C
+29)
+Triacontanol (C
+30)
+Other primary
+alcohols
+Isobutanol (C
+4)
+Isoamyl alcohol (C
+5)
+2-Methyl-1-butanol (C
+5)
+Phenethyl alcohol (C
+8)
+Tryptophol (C
+10)
+Secondary
+alcohols (2)
+Isopropanol (C
+3)
+2-Butanol (C
+4)
+2-Pentanol (C
+5)
+2-Hexanol (C
+6)
+2-Heptanol (C
+7)
+Cyclohexanol (C
+6)
+Tertiary
+alcohols (3)
+tert-Butyl alcohol (C
+4)
+tert-Amyl alcohol (C
+5)
+2-Methyl-2-pentanol (C
+6)
+2-Methylhexan-2-ol (C
+7)
+2-Methylheptan-2-ol (C
+8)
+3-Methyl-3-pentanol (C
+6)
+3-Methyloctan-3-ol (C
+9)
+v
+t
+e
+Hypnotics/sedatives (N05C)
+GABAA
+Alcohols
+2M2B
+Chloralodol
+Ethanol
+Alcohol
+Ethchlorvynol
+Methylpentynol
+Trichloroethanol
+Barbiturates
+Allobarbital
+Amobarbital
+Aprobarbital
+Barbital
+Butabarbital
+Butobarbital
+Cyclobarbital
+Ethallobarbital
+Heptabarb
+Hexobarbital
+Mephobarbital
+Methohexital
+Narcobarbital
+Pentobarbital
+Phenallymal
+Phenobarbital
+Propylbarbital
+Proxibarbal
+Reposal
+Secobarbital
+Talbutal
+Thiamylal
+Thiopental
+Thiotetrabarbital
+Vinbarbital
+Vinylbital
+Benzodiazepines
+Brotizolam
+Cinolazepam
+Climazolam
+Doxefazepam
+Estazolam
+Flunitrazepam
+Flurazepam
+Flutoprazepam
+Haloxazolam
+Loprazolam
+Lormetazepam
+Midazolam
+Nimetazepam
+Nitrazepam
+Phenazepam
+Quazepam
+Temazepam
+Triazolam
+Carbamates
+Carisoprodol
+Emylcamate
+Ethinamate
+Hexapropymate
+Meprobamate
+Methocarbamol
+Phenprobamate
+Procymate
+Tybamate
+Imidazoles
+Etomidate
+Metomidate
+Propoxate
+Monoureides
+Acecarbromal
+Apronal (apronalide)
+Bromisoval
+Capuride
+Carbromal
+Ectylurea
+Neuroactive steroids
+Acebrochol
+Allopregnanolone
+Alphadolone
+Alphaxolone
+Eltanolone
+Hydroxydione
+Minaxolone
+Progesterone
+Nonbenzodiazepines
+Eszopiclone
+Indiplon
+Lirequinil
+Necopidem
+Pazinaclone
+Saripidem
+Suproclone
+Suriclone
+Zaleplon
+Zolpidem
+Zopiclone
+Piperidinediones
+Glutethimide
+Methyprylon
+Pyrithyldione
+Piperidione
+Quinazolinones
+Afloqualone
+Cloroqualone
+Diproqualone
+Etaqualone
+Mebroqualone
+Mecloqualone
+Methaqualone
+Methylmethaqualone
+Nitromethaqualone
+Others
+Acetophenone
+Acetylglycinamide chloral hydrate
+Bromide compounds
+Lithium bromide
+Potassium bromide
+Sodium bromide
+Centalun
+Chloral betaine
+Chloral hydrate
+Chloralose
+Clomethiazole
+Dichloralphenazone
+Gaboxadol
+Kavalactones
+Loreclezole
+Paraldehyde
+Petrichloral
+Sulfonylalkanes
+Sulfonmethane (sulfonal)
+Tetronal
+Trional
+Triclofos
+Sesquiterpene
+Isovaleramide
+Isovaleric acid
+Valerenic acid
+GABAB
+1,4-Butanediol
+Aceburic acid
+Baclofen
+GABOB
+GHB (sodium oxybate)
+GBL
+GVL
+Phenibut
+Tolibut
+H1
+Antihistamines
+Captodiame
+Cyproheptadine
+Diphenhydramine
+Doxylamine
+Hydroxyzine
+Methapyrilene
+Pheniramine
+Promethazine
+Propiomazine
+Antidepressants
+Tricyclic antidepressants
+Amitriptyline
+Doxepin
+Trimipramine, etc.
+Tetracyclic antidepressants
+Mianserin
+Mirtazapine, etc.
+Antipsychotics
+Typical antipsychotics
+Chlorpromazine
+Thioridazine, etc.
+Atypical antipsychotics
+Olanzapine
+Quetiapine
+Risperidone, etc.
+2-Adrenergic
+Clonidine
+Detomidine
+Dexmedetomidine
+Lofexidine
+Medetomidine
+Romifidine
+Tizanidine
+Xylazine
+5-HT2A
+Antidepressants
+Trazodone
+Tricyclic antidepressants
+Amitriptyline
+Doxepin
+Trimipramine, etc.
+Tetracyclic antidepressants
+Mianserin
+Mirtazapine, etc.
+Antipsychotics
+Typical antipsychotics
+Chlorpromazine
+Thioridazine, etc.
+Atypical antipsychotics
+Olanzapine
+Quetiapine
+Risperidone, etc.
+Others
+Niaprazine
+Melatonin
+Agomelatine
+Melatonin
+Ramelteon
+Tasimelteon
+Orexin
+Almorexant
+Filorexant
+Suvorexant
+Others
+Cannabidiol
+Cannabis
+Chlorophenylalkyldiols
+Fenpentadiol
+Metaglycodol
+Phenaglycodol
+Diethylpropanediol
+Evoxine
+Fenadiazole
+Gabapentinoids
+Gabapentin
+Gabapentin enacarbil
+Phenibut
+Pregabalin
+Guaifenesin-related muscle relaxants
+Chlorphenesin
+Mephenesin
+Mephenoxalone
+Metaxalone
+Methocarbamol
+Passion flower
+Scopolamine
+Trazodone
+UMB68
+Valnoctamide
+v
+t
+e
+GABAA receptor positive allosteric modulators
+Alcohols
+Brometone
+Butanol
+Chloralodol
+Chlorobutanol (cloretone)
+Ethanol (drinking alcohol)
+Ethchlorvynol
+Isobutanol
+Isopropanol
+Menthol
+Methanol
+Methylpentynol
+Pentanol
+Petrichloral
+Propanol
+tert-Butanol (2M2P)
+tert-Pentanol (2M2B)
+Tribromoethanol
+Trichloroethanol
+Triclofos
+Trifluoroethanol
+Barbiturates
+(-)-DMBB
+Allobarbital
+Alphenal
+Amobarbital
+Aprobarbital
+Barbexaclone
+Barbital
+Benzobarbital
+Benzylbutylbarbiturate
+Brallobarbital
+Brophebarbital
+Butabarbital/Secbutabarbital
+Butalbital
+Buthalital
+Butobarbital
+Butallylonal
+Carbubarb
+CP-1414S
+Crotylbarbital
+Cyclobarbital
+Cyclopentobarbital
+Difebarbamate
+Enallylpropymal
+Ethallobarbital
+Eterobarb
+Febarbamate
+Heptabarb
+Heptobarbital
+Hexethal
+Hexobarbital
+Metharbital
+Methitural
+Methohexital
+Methylphenobarbital
+Narcobarbital
+Nealbarbital
+Pentobarbital
+Phenallymal
+Phenobarbital
+Phetharbital
+Primidone
+Probarbital
+Propallylonal
+Propylbarbital
+Proxibarbital
+Reposal
+Secobarbital
+Sigmodal
+Spirobarbital
+Talbutal
+Tetrabamate
+Tetrabarbital
+Thialbarbital
+Thiamylal
+Thiobarbital
+Thiobutabarbital
+Thiopental
+Thiotetrabarbital
+Valofane
+Vinbarbital
+Vinylbital
+Benzodiazepines
+2-Oxoquazepam
+3-Hydroxyphenazepam
+Adinazolam
+Alprazolam
+Arfendazam
+Avizafone
+Bentazepam
+Bretazenil
+Bromazepam
+Brotizolam
+Camazepam
+Carburazepam
+Chlordiazepoxide
+Ciclotizolam
+Cinazepam
+Cinolazepam
+Clazolam
+Climazolam
+Clobazam
+Clonazepam
+Clonazolam
+Clorazepate
+Clotiazepam
+Cloxazolam
+Cyprazepam
+Delorazepam
+Demoxepam
+Diazepam
+Diclazepam
+Doxefazepam
+Elfazepam
+Estazolam
+Ethyl carfluzepate
+Ethyl dirazepate
+Ethyl loflazepate
+Etizolam
+EVT-201
+FG-8205
+Fletazepam
+Flubromazepam
+Flubromazolam
+Fludiazepam
+Flunitrazepam
+Flurazepam
+Flutazolam
+Flutemazepam
+Flutoprazepam
+Fosazepam
+Gidazepam
+Halazepam
+Haloxazolam
+Iclazepam
+Imidazenil
+Irazepine
+Ketazolam
+Lofendazam
+Lopirazepam
+Loprazolam
+Lorazepam
+Lormetazepam
+Meclonazepam
+Medazepam
+Menitrazepam
+Metaclazepam
+Mexazolam
+Midazolam
+Motrazepam
+N-Desalkylflurazepam
+Nifoxipam
+Nimetazepam
+Nitrazepam
+Nitrazepate
+Nitrazolam
+Nordazepam
+Nortetrazepam
+Oxazepam
+Oxazolam
+Phenazepam
+Pinazepam
+Pivoxazepam
+Prazepam
+Premazepam
+Proflazepam
+Pyrazolam
+QH-II-66
+Quazepam
+Reclazepam
+Remimazolam
+Rilmazafone
+Ripazepam
+Ro48-6791
+Ro48-8684
+SH-053-R-CH3-2F
+Sulazepam
+Temazepam
+Tetrazepam
+Tolufazepam
+Triazolam
+Triflubazam
+Triflunordazepam (Ro5-2904)
+Tuclazepam
+Uldazepam
+Zapizolam
+Zolazepam
+Zomebazam
+Carbamates
+Carisbamate
+Carisoprodol
+Clocental
+Cyclarbamate
+Difebarbamate
+Emylcamate
+Ethinamate
+Febarbamate
+Felbamate
+Hexapropymate
+Lorbamate
+Mebutamate
+Meprobamate
+Nisobamate
+Pentabamate
+Phenprobamate
+Procymate
+Styramate
+Tetrabamate
+Tybamate
+Flavonoids
+6-Methylapigenin
+Ampelopsin (dihydromyricetin)
+Apigenin
+Baicalein
+Baicalin
+Catechin
+EGC
+EGCG
+Hispidulin
+Linarin
+Luteolin
+Rc-OMe
+Skullcap constituents (e.g., baicalin)
+Wogonin
+Imidazoles
+Etomidate
+Metomidate
+Propoxate
+Kava constituents
+10-Methoxyyangonin
+11-Methoxyyangonin
+11-Hydroxyyangonin
+Desmethoxyyangonin
+11-Methoxy-12-hydroxydehydrokavain
+7,8-Dihydroyangonin
+Kavain
+5-Hydroxykavain
+5,6-Dihydroyangonin
+7,8-Dihydrokavain
+5,6,7,8-Tetrahydroyangonin
+5,6-Dehydromethysticin
+Methysticin
+7,8-Dihydromethysticin
+Yangonin
+Monoureides
+Acecarbromal
+Apronal (apronalide)
+Bromisoval
+Carbromal
+Capuride
+Ectylurea
+Neuroactive steroids
+Acebrochol
+Allopregnanolone (SAGE-547)
+Alfadolone
+Alfaxalone
+Anabolic steroids
+3-Androstanediol
+Androstenol
+Androsterone
+Cholesterol
+DHDOC
+3-DHP
+5-DHP
+5-DHP
+DHT
+Etiocholanolone
+Ganaxolone
+Hydroxydione
+Minaxolone
+Org 20599
+Org 21465
+Pregnanolone (eltanolone)
+Progesterone
+Renanolone
+SAGE-105
+SAGE-217
+SAGE-324
+SAGE-516
+SAGE-689
+SAGE-872
+Testosterone
+THDOC
+Nonbenzodiazepines
+-Carbolines: Abecarnil
+Gedocarnil
+Harmane
+SL-651,498
+ZK-93423; Cyclopyrrolones: Eszopiclone
+Pagoclone
+Pazinaclone
+Suproclone
+Suriclone
+Zopiclone; Imidazopyridines: Alpidem
+DS-1
+Necopidem
+Saripidem
+Zolpidem; Pyrazolopyrimidines: Divaplon
+Fasiplon
+Indiplon
+Lorediplon
+Ocinaplon
+Panadiplon
+Taniplon
+Zaleplon; Others: Adipiplon
+CGS-8216
+CGS-9896
+CGS-13767
+CGS-20625
+CL-218,872
+CP-615,003
+CTP-354
+ELB-139
+GBLD-345
+JM-1232
+L-838,417
+Lirequinil (Ro41-3696)
+NS-2664
+NS-2710
+NS-11394
+Pipequaline
+ROD-188
+RWJ-51204
+SB-205,384
+SX-3228
+TGSC01AA
+TP-003
+TPA-023
+TP-13
+U-89843A
+U-90042
+Viqualine
+Y-23684
+Phenols
+Fospropofol
+Propofol
+Thymol
+Piperidinediones
+Glutethimide
+Methyprylon
+Piperidione
+Pyrithyldione
+Pyrazolopyridines
+Cartazolate
+Etazolate
+ICI-190,622
+Tracazolate
+Quinazolinones
+Afloqualone
+Cloroqualone
+Diproqualone
+Etaqualone
+Mebroqualone
+Mecloqualone
+Methaqualone
+Methylmethaqualone
+Nitromethaqualone
+SL-164
+Volatiles/gases
+Acetone
+Acetophenone
+Acetylglycinamide chloral hydrate
+Aliflurane
+Benzene
+Butane
+Butylene
+Centalun
+Chloral
+Chloral betaine
+Chloral hydrate
+Chloroform
+Cryofluorane
+Desflurane
+Dichloralphenazone
+Dichloromethane
+Diethyl ether
+Enflurane
+Ethyl chloride
+Ethylene
+Fluroxene
+Gasoline
+Halopropane
+Halothane
+Isoflurane
+Kerosine
+Methoxyflurane
+Methoxypropane
+Nitric oxide
+Nitrogen
+Nitrous oxide
+Norflurane
+Paraldehyde
+Propane
+Propylene
+Roflurane
+Sevoflurane
+Synthane
+Teflurane
+Toluene
+Trichloroethane (methyl chloroform)
+Trichloroethylene
+Vinyl ether
+Others/unsorted
+3-Hydroxybutanal
+-EMTBL
+AA-29504
+Avermectins (e.g., ivermectin)
+Bromide compounds (e.g., lithium bromide, potassium bromide, sodium bromide)
+Carbamazepine
+Chloralose
+Chlormezanone
+Clomethiazole
+DEABL
+Dihydroergolines (e.g., dihydroergocryptine, dihydroergosine, dihydroergotamine, ergoloid (dihydroergotoxine))
+DS2
+Efavirenz
+Etazepine
+Etifoxine
+Fenamates (e.g., flufenamic acid, mefenamic acid, niflumic acid, tolfenamic acid)
+Fluoxetine
+Flupirtine
+Hopantenic acid
+Lanthanum
+Lavender oil
+Lignans (e.g., 4-O-methylhonokiol, honokiol, magnolol, obovatol)
+Loreclezole
+Menthyl isovalerate (validolum)
+Monastrol
+Niacin
+Nicotinamide (niacinamide)
+Org 25,435
+Phenytoin
+Propanidid
+Retigabine (ezogabine)
+Safranal
+Seproxetine
+Stiripentol
+Sulfonylalkanes (e.g., sulfonmethane (sulfonal), tetronal, trional)
+Terpenoids (e.g., borneol)
+Topiramate
+Valerian constituents (e.g., isovaleric acid, isovaleramide, valerenic acid, valerenol)
+Unsorted benzodiazepine site PAMs: MRK-409 (MK-0343)
+TCS-1105
+TCS-1205
+See also: GABAergics
+Authority control
+GND: 4147063-1
+NewPP limit report
+Parsed by mw1267
+Cached time: 20161120170403
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 1.028 seconds
+Real time usage: 1.183 seconds
+Preprocessor visited node count: 17695/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 494994/2097152 bytes
+Template argument size: 53159/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 1/500
+Lua time usage: 0.398/10.000 seconds
+Lua memory usage: 7.71 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+984.088
+1 - -total
+47.85%
+470.844
+1 - Template:Chembox
+29.41%
+289.382
+1 - Template:Reflist
+21.60%
+212.598
+45 - Template:Citation
+20.06%
+197.428
+1 - Template:Chembox_Identifiers
+14.76%
+145.236
+6 - Template:Navbox
+12.49%
+122.912
+1 - Template:Chembox_Properties
+12.47%
+122.693
+1 - Template:Alcohols
+11.15%
+109.766
+48 - Template:Chem
+10.76%
+105.882
+20 - Template:Trim
+Saved in parser cache with key enwiki:pcache:idhash:5417532-0!*!0!!en!4!* and timestamp 20161120170401 and revision id 715328595
+Retrieved from "https://en.wikipedia.org/w/index.php?title=N-Butanol&oldid=715328595"
+Categories: Alcohol solventsPrimary alcoholsGABAA receptor positive allosteric modulatorsSedativesHypnoticsAlkanolsHidden categories: Articles with changed EBI identifierArticles with changed DrugBank identifierChemboxes which contain changes to verified fieldsChemboxes which contain changes to watched fieldsWikipedia articles with GND identifiers

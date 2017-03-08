@@ -1,0 +1,1583 @@
+TeslaModelS
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"Model S" redirects here. For the fighter aircraft, see Curtiss Model S.
+Tesla Model S
+Overview
+Manufacturer
+Tesla Motors
+Alsocalled
+Code name: WhiteStar[1][2][3]
+Production
+2012present
+Modelyears
+2012present
+Assembly
+United States: Fremont, California (Tesla Factory)
+Europe: Tilburg, The Netherlands (all parts)
+Designer
+Franz von Holzhausen
+Body and chassis
+Class
+Full-size luxury (USA)
+Sports car (EU)
+Bodystyle
+5-door liftback
+Layout
+Rear-motor, rear-wheel drive
+Dual motor all-wheel drive (D models)
+Related
+Tesla Model X
+Powertrain
+Electricmotor
+Front and rear motor combined output up to 762bhp (568kW), 687ftlb (931Nm), 3-phase AC induction motor
+Transmission
+1-speed fixed gear (9.73:1)
+Battery
+60, 70, 75, 85, 90 or 100kWh lithium ion[4]
+Electricrange
+70kWh (250MJ)
+240mi (390km)(EPA)
+85kWh (310MJ)
+265mi (426km)(EPA)
+310mi (500km)(NEDC)
+Plug-incharging
+11 kW 85265V onboard charger for 1 40A or 3 16A[5] on IEC Type 2 inlet[6]
+Optional Dual Charger for 22kW for 1 80A or 3 32A[5]
+Supercharger for 120kW DC offboard charging, adapters for domestic AC sockets (110240V)
+Dimensions
+Wheelbase
+2,960mm (116.5in)
+Length
+4,976mm (195.9in)
+Width
+1,964mm (77.3in)
+Height
+1,435mm (56.5in)
+Curbweight
+1,961kg (4,323lb) (60)[7]
+2,085kg (4,597lb) (60D)[8]
+2,090kg (4,608lb) (70D)[9]
+2,108kg (4,647lb) (85)
+2,188kg (4,824lb) (85D)[8]
+2,239kg (4,936lb) (P85D)[8]
+The Tesla Model S is a full-size all-electric five-door, luxury liftback, produced by Tesla Motors, and introduced in June 2012.[10] It scored a perfect 5.0 NHTSA automobile safety rating, as well as being the "third fastest accelerating production car ever produced," and the fastest accelerating car currently in production.[11] The United States Environmental Protection Agency (EPA) official range for the 2012 Model S Performance model equipped with an 85kWh (310MJ) battery pack is 265 miles (426km), higher than any other electric car at the time.[12][13][14] EPA rates its energy consumption at 237.5watt-hoursperkilometer (38kWh/100mi or 24kWh/100km) for a combined fuel economy of 89 miles per gallon gasoline equivalent (2.64L/100km or 107mpg-imp).[12][15]
+The Model S became the first electric car to top the monthly new car sales ranking in any country, twice leading in Norway, in September and again in December 2013;[16][17][18][19] and also in Denmark in December 2015.[20] Global Model S sales passed the 100,000 unit milestone in December 2015,[21] and almost 145,500 units have been sold worldwide as of September 2016[update].[22][23]
+The Model S ranked as the world's best selling plug-in electric vehicle in 2015, up from second best in 2014,[24][25] and continued to lead global plug-in car sales during the first nine months of 2016.[26] The Model S also ranked as the top selling plug-in electric car in the U.S. in 2015.[27][28] As of December 2015[update], the leading markets were the United States with a 60% share of global sales and Norway with 9.4%. Other leading country markets are China, the Netherlands, Canada, Denmark, Germany, and Switzerland.[24] As of June 2016[update], the Model S ranked as the world's second best selling plug-in electric car in history after the Nissan Leaf.[29]
+The Tesla Model S won awards including the 2013 World Green Car of the Year, 2013 Motor Trend Car of the Year, Automobile magazine's 2013 Car of the Year, Time Magazine Best 25 Inventions of the Year 2012 award and Consumer Reports top-scoring car in its road testing. In 2015, Car and Driver named the Model S the Car of the Century.[30] After declining to recommend the Model S in 2015 due to reliability issues, one year later Consumer Reports added the car to the magazine's recommended list.[31][32]
+In 2016, Tesla updated the design of the Model S, which now looks more like the Model X. The 60, 60D, 70, 70D, 75, 75D and 90D versions are available. 70 and 70D Model S owners have the option to unlock the 75 kWh capacity via a software update, adding up to 19 miles (31km) per charge.[33] The 60 and 60D, reintroduced in June 2016, owners have a US$9,000 anytime option to unlock the full 75 kWh capacity via a software update.[34] In August 2016, Tesla introduced the P100D to be the new top-level model. The P100D model has a 100kWh battery, a 060mph (097km/h) time of 2.5 seconds and over 300 miles (485km) of EPA rated range.[35]
+Contents
+1 History
+2 Production
+3 Design
+3.1 Powertrain
+3.2 Dual-motor all-wheel-drive versions
+4 Battery
+4.1 Practicality and livability
+4.2 Specifications
+4.3 Energy consumption
+4.4 Battery placement
+4.5 Charger
+4.5.1 North America
+4.5.2 Europe / Asia Pacific
+4.6 Suspension
+4.7 Autopilot
+4.7.1 Fatal accident
+4.8 Instrument panel
+4.9 Features
+4.10 Vehicle warranty and maintenance
+4.11 Environmental footprint
+5 Tesla stations
+5.1 Supercharger
+5.2 Battery swapping
+6 Editions
+7 Sales and markets
+7.1 Global
+7.2 Top selling countries
+7.3 Asia/Pacific
+7.4 Europe
+7.5 North America
+8 Safety
+8.1 Safety features
+8.2 First crash with battery fire
+8.3 Subsequent fires
+8.4 Recalls
+9 Recognition
+9.1 Awards
+9.2 Distance records
+10 Controversies
+10.1 Range limitation
+10.2 NHTSA safest car
+10.3 Power dissipation when not in use
+10.4 Consumer Reports' recommendation
+10.5 Power discrepancy
+10.6 Autonomy limitations
+10.7 Electrical consumption of Tesla Model S
+11 See also
+12 References
+13 Further reading
+14 External links
+History[edit]
+Tesla Model S prototype at the 2009 Frankfurt Motor Show
+The Model S was styled by Franz von Holzhausen, who previously worked for Mazda North American Operations.[36] The car was codenamed WhiteStar during research and preliminary development.[1][2][3]
+The Model S was announced in a press release on June 30, 2008.[37][38] The prototype vehicle was displayed at a press conference on March 26, 2009.[39]
+In February 2008 it was reported that Tesla Motors was planning to offer a range-extended version of its Model S. This version would have included a gasoline engine to extend the driving range of the vehicle,[40] but it was removed in later revisions. At the GoingGreen conference in September 2008 Tesla's CEO, Elon Musk, announced that Tesla was developing only electric cars.[41]
+Construction of an assembly factory in Albuquerque, New Mexico (a central location for shipping) was supposed to begin in April 2007, but was cancelled.[42] A factory to be built in San Jose, California was also announced.[43][44][45] In May 2010 Tesla announced it would produce the Model S at the former NUMMI assembly plant in Fremont, California,[46] now known as the Tesla Factory. This third plan was implemented.
+The first production Tesla Model S (with owner Tesla Board member Steve Jurvetson) in June 2015, three years after the car's market release
+In June 2015, three years after the Model S introduction and with almost 75,000 Model S sedans delivered worldwide, Tesla announced that Model S owners have accumulated over 1 billion electric miles (1.6 billion km) traveled, and saved more than half a million tons of CO2.[47][48] The Tesla Model S is the first plug-in electric vehicle to reach that milestone. In October 2014 General Motors reported that Volt owners had accumulated a total of 629 million all-electric miles (over 1 billion kilometers) out of a total of 1 billion miles (1.6 billion km) traveled; while Nissan reported in December 2014 that Leaf owners had traveled 625 million miles (1 billion kilometers).[48] Tesla also reported that 68% of Model S travel took place in North America, 25% in Europe and 7% in Asia-Pacific.[48] Global Model S sales passed the 100,000 unit milestone in December 2015.[21]
+In 2016, a racing series called the "Electric GT World Series" was promoted in preparation for a 2017 racing season using the P85+ as a race car on certain traditional tracks. The first season is planned to have 20 cars in 10 teams.[49]
+In April 2016, a refresh Model S was introduced. The front fascia has with a similar design as the Model X, and also adaptive LED headlights were introduced. Also, the improved Model S has a HEPA air filtration system that removes at least 99.97% of particulate exhaust pollution and all allergens, bacteria, and other contaminants from cabin air. The standard charger was upgraded from 40 to 48 amps in order to enable faster charging when connected to higher-amp outlets. Two new interior choices were added: figured ash wood and dark ash wood. These improvements were accompanied by a US$1,500 price increase in the base model.[50]
+Production[edit]
+Main article: Tesla Factory Tesla Model S manufacturing process
+A Tesla Model S being manufactured at the Tesla Factory
+Tesla manufactures the Model S at the 5.4 million square foot[51] Tesla Factory in Fremont, California. For the European market, Tesla assembles and distributes from its European Distribution Center in Tilburg, the Netherlands.[52] Cars are built and tested in Fremont, California. The battery pack, the electric motor and parts are disassembled and shipped separately to Tilburg, where the cars are reassembled.[53] The center occupies a 203,000sqft (18,900m2) industrial building that also serves as a workshop and spare parts warehouse. Tesla expects the Model S to "pay back" the energy that went into producing the car in fewer than 10,000 miles (16,000km).[54]
+The first ten customers received their cars at the Fremont factory on June 22, 2012 at the official launch.[55] Production grew from 1520 cars completed/week in August 2012[55] to about 1,000 cars per week in 2015.[56]
+In October 2015, Tesla Motors announced the company is negotiating with the Chinese government on producing its electric cars domestically. Local production has the potential to reduce the sales prices of Tesla models by a third.[57] A Model S starts at US$71,500 in the U.S., while in China pricing starts at CN673,000, about US$106,000, after duties and other taxes.[58] Elon Musk clarified that production will remain in the U.S., but if there's sufficient local demand for the Tesla Model 3 in China, a factory could be built in the country as soon as a year after the launch of the new model. Production in Europe will also depend on the region's demand for the Model 3.[59]
+Design[edit]
+Model S chassis, on display at Santana Row in San Jose, California
+The Model S exists in several versions, differing in energy capacity (battery size), power (motor size), and equipment. It is classified as a fullsize luxury car in the USA, or as a "Large Car"[60] (120 cu ft or more) or "Luxury Sedan"[61] by the EPA. The Euro Car Segment classification is S-segment (sports car),[62][63] or "Oberklasse" in Germany.[64]
+Powertrain[edit]
+Cutaway view of a Tesla Model S drive motor
+A Tesla Model S P85+ using regenerative braking power in excess of 60kW. During regenerative braking the power indicator is green.
+The 2012 Tesla Model S Performance model has a three phase, four pole AC induction 416hp (310kW) and 443ftlb (600Nm) rear-mounted electric motor with copper rotor.[65] The base model uses a 362hp (270kW) and 325ftlb (440Nm) motor. The company claimed a drag coefficient of Cd=0.24,[66] lower than any car when released. [67] Independent measurement by Car And Driver in May 2014 bore out Tesla's claim by exactly confirming a drag coefficient of Cd=0.24.[68]
+The rear axle has a traditional open differential. Models with dual motors also have an open differential on the front axles as well. The front and rear axles have no mechanical linkage  with dual motors the power distribution among them is controlled electronically.[69]
+The Model S P90D has a top speed of 155mph (249km/h) and it accelerates from 0 to 60 miles per hour (0 to 97km/h) in 2.8 seconds, despite the lower total motor power, in part due to the improved traction of the all-wheel drive powertrain. The Model S P85D, a dual motor all-wheel drive vehicle has a governed top speed of 155mph (249km/h)[70] and it accelerates from 0 to 60 miles per hour (0 to 97km/h) in 3.2 seconds (tested to 3.1 seconds), under "Insane Mode", with 1g of acceleration.[70][71] New P85Ds have an optional "Ludicrous Mode" hardware package available with the 90 kWh battery upgrade (thus becoming a P90D) that improves the 0 to 60 miles per hour (0 to 97km/h) acceleration to 2.8 seconds and 1.1g.[72][73][74] Tesla initially reported the total output in the P85D as the arithmetic addition of the maximum power of the individual electric motors at 691hp (515kW) but later reported it as 463hp (345kW) because the two motors do not give their maximum power at the same time.[75]
+The powertrain also provides regenerative braking power of more than 60kW which reduces both energy consumption and improves brake lifetime.
+Owners reported many powertrain issues from 2012, improving significantly over the years.[76] In July 2015, Tesla announced its goal to make the Model S powertrain last for one million miles.[77]
+Dual-motor all-wheel-drive versions[edit]
+On October 9, 2014, Tesla announced the introduction of All Wheel Drive (AWD) versions of the Model S's 60, 85, and P85 models, designated by a D at the end of the model number.[78][79][80]
+On April 8, 2015, Tesla introduced the Model S 70D as its new US$75,000 entry-level car, with all-wheel drive and an improved range of 240 miles (385km). The 70D replaced the 60 and 60D in the Model S lineup, with the latter two models no longer being available for purchase. The P85 option was also dropped.[81][82]
+In the 85D, the rear drive unit is replaced by a smaller one to save cost and weight, while a second motor of similar size is added to the front wheels. This results in an AWD car with comparable power and acceleration to the RWD version while keeping the price increase to US$5,000. Additionally, the 85D reports a 2% (5-mile) range increase and 11% increase in top speed over the 85[83] (presumably due to incremental improvements in hardware and software). In the P85D, the high-power rear drive unit is retained, while a new front drive motor boosts the total power by about 50%. This results in a significant increase in acceleration and top speed. The 85kWh version rose from US$81,070 to US$86,070, while the P85 (now the P85D) jumped from US$94,570 to US$105,670. Deliveries of the P85D started in December 2014, with the 85D models starting in February 2015, and the 70D models starting in April 2015.[79]
+On June 9, 2016, Tesla reintroduced the 60 and 60D, which has a 75kWh battery, locked out to 60kWh[84] but upgradable by software, as is the Autopilot option. The spring refresh of 2016 also offers the "Bioweapon Defense Mode" airfilter first offered on the Model X.[85]
+On August 23, 2016, Tesla introduced the Model S P100D with Ludicrous Mode as its new US$134,500 top-level car, with all-wheel drive and an improved EPA estimated range of 315 miles (505km).[35] This version of the Model S is notable for being the first electric vehicle to have a U.S. EPA estimated range greater than 300 miles (485km) and for being the fastest accelerating vehicle currently in production, with a 060mph (097km/h) time of 2.5 seconds, when optioned with Ludicrous Mode.[86][87]
+Battery[edit]
+External images
+Speed-dependent ranges of various Model S
+Speed-dependent ranges, Roadster & Model S
+Cylindrical cell (18650) prior to assembly. Several thousand of them form the Tesla Model S battery (see Gigafactory).
+In 2012, the EPA range for the 60kWh battery pack model was 208mi (335km)[88] and the 85kWh battery was 265 miles (426km).[12][89] According to Musk, the Model S has a battery with twice the energy density of that on the Nissan Leaf, but the difference in range is more than double. This is also due to other factors such as drag coefficient, weight, engine efficiency and rolling resistance.[90] Musk stated that driving at 65mph (105km/h), under normal conditions, gives a reasonable range of 250 miles (400km).[91]
+The energy-saving sleep state powers off the display and other vehicle electronics, after the car goes to sleep. This increases the time it takes the touchscreen and instrument panel to become usable. This mode can decrease the loss of the car's range when not being used (2.3mi, 3.7km per day, as of 2013[update]).[92]
+The 85kWh battery pack weighs 1,200lb (540kg)[93][bettersourceneeded] and contains 7,104 lithium-ion battery cells in 16 modules[94] wired in series (14 in the flat section and two stacked on the front).[95] Each module contains 6 groups[96] of 74 cells[97] wired in parallel; the 6 groups are then wired in series within the module.[97][98][99][100] As of June 2012[update], the battery pack used modified Panasonic cells with nickel-cobalt-aluminum cathodes.[4] Each cell was of the 18650 form factor (i.e., an 18mm diameter, 65mm height cylinder), similar to the Panasonic NCR18650B cell that has an energy density of 265Wh/kg.[101] Analysts estimate battery cost to be around 2122% of the car cost.[102] List price for a replacement battery was US$44,000 in February 2015.[103]
+The battery is guaranteed for eight years or 125,000 miles (200,000km in metric countries) for the base model with the 60kWh battery pack. The 85kWh battery pack is guaranteed for eight years and unlimited miles.[104][105] A poll among drivers indicate that accumulated battery loss steadies around 5% after 30,000 miles (50,000km),[106][76] decreasing further about 1% per additional 30,000 miles. Unlike Nissan, Tesla does not specify a limit for battery loss, but some early battery packs have been replaced.[103][107]
+A separate battery replacement guarantee takes effect after the eighth year at a cost of US$10,000 for the 60kWh battery and US$12,000 for the 85kWh battery.[108]
+In 2013, Tesla canceled a 40kWh version of the car due to lack of demand, stating that only 4% of pre-orders were for the 40kWh battery option. Customers who ordered this option instead received the 60kWh pack, with charge software-limited to 40kWh (139 miles, 224km[109]). It has the improved acceleration and top speed of the bigger pack and can be upgraded to use the full 60kWh for US$11,000.[110]
+On April 8, 2015, Tesla Motors discontinued the Model S 60, and replaced the base model with the Model S 70.[111]
+In 2015, Tesla introduced a 70kWh battery to replace the existing 60kWh batteries and base 60kWh Model S vehicles, as the 60 was low margin and not sufficiently welcomed by customers.[112][113] All 70kWh cars can be had with rear-wheel drive or all wheel drive.[114] The 60 was re-introduced in 2016 as a software-limited 75, upgradable to 75.
+In July 2015, Tesla introduced its 70, 90, 90D and P90D variants along with a "ludicrous mode" for the performance model. The P90D combines a front axle power of 259 horsepower (193kW) and rear axle power of 503 horsepower (375kW) to a total of 762 horsepower (568kW), for a 060mph time of 2.8 sec. The acceleration of the P90D can reach 1.1g, described by Tesla as "faster than falling".[77] The "ludicrous mode" costs US$10,000 for P90D, but was discounted to US$5,000 plus labor for P85D owners until January 2016.[115]
+Tesla Model S showing the front trunk where the engine would be in a typical car. Tesla Motors calls this a frunk.[116]
+In July 2015, Tesla introduced its 90 and P90D, a "range upgrade" of the 85 variants with a 90kWh battery and explained the 6% energy increase with "improved cell chemistry"[77] and with the introduction of silicon into the graphite cell anode.[117] Tesla additionally announced its expectation of an annual improvement in battery capacity of about 5%. Tesla also explained that apart from the P90D the Model S has its main battery conductor protected by a fuse rated for 1,300A and that this rating is somewhat conservative given the uncertainty of the exact conditions under which a fuse melts. To reduce this uncertainty Tesla has for the P90D introduced Inconel battery contactors[118] and an electronically controlled pyro-activated fuse, which monitors the current at the millisecond level, cuts the power with "extreme precision and certainty" and has a rating of 1,500A.[77]
+In February 2016, the 85 kWh battery option was discontinued in countries including the US, Australia and Canada.[119]
+In March 2016, media reported that a firmware version distributed for the Tesla Model S has support for a yet to come P100D variant.[120] This battery is more complicated to make than the 90 version.[121] The P100D was released in August 2016.[35]
+Practicality and livability[edit]
+The Model S is notable for being designed solely with an electric powertrain in mind, unlike other vehicles where the manufacturer has simply swapped out or supplanted an internal combustion engine with an electric motor.[122] As a result, the Model S is able to offer unique features such as a front trunk, 'frunk', in addition to a spacious rear trunk (with a capacity of 894 liters) and a greatly enlarged front crumple zone compared to the typical combustion engine powered vehicle.[86]
+To enhance livability, Tesla has developed a network of fast-charging 'Supercharger' stations that allow the driver to quickly and easily top-up the charge on their Model S.[86] This Supercharger network has rapidly expanded in Europe, across the United States, and other countries where the there is significant demand, and as of September 2016[update], the network has been established in most American states, thus making cross-country and long distance trips in an electric vehicle feasible and greatly alleviating fears of range anxiety.[86] See the Supercharger section below for further information.
+Researchers from the University of California, Davis conducted a study to identify the factors influencing the decision to adopt high-end battery electric vehicles (BEV), such as the Tesla Model S, as these vehicles are remarkably different from mainstream BEVs. The 2016 study found that "environmental, performance, and technological motivations are reasons for adoption; the new technology brings a new segment of buyers into the market; and financial purchase incentives are not important in the consumers decision to adopt a high-end BEV."[123]
+Specifications[edit]
+Model S features (past and current)
+40kWh[a]
+60kWh
+70kWh
+75kWh
+85kWh
+90kWh
+100 kWh
+RWD
+RWD
+(60)
+AWD
+(60D)
+RWD
+(70)
+AWD
+(70D)
+RWD
+(75)
+AWD
+(75D)
+RWD
+(85)
+AWD
+(85D)
+RWD Perf.
+(P85)
+AWD Perf.
+(P85D)
+Ludicrous
+(P85D)
+AWD
+(90D)
+AWD Perf.
+(P90D)
+Ludicrous
+(P90D)[b][c]
+Ludicrous
+(P100D)
+Range[124][125]
+EPA:[126] 139mi
+224km
+EPA: 210mi
+340km
+NEDC: 375km
+233mi
+EPA: 218mi
+351km
+EPA: 230mi
+370km
+NEDC: 375km
+233mi
+EPA: 240mi
+390km
+NEDC: 442km
+275mi
+EPA: 249mi
+401km
+EPA: 259mi
+417km
+EPA: 265mi
+426km
+NEDC: 502km
+312mi
+EPA: 270mi
+430km
+NEDC: 528km
+328mi
+EPA: 265mi
+426km
+NEDC: 502km
+312mi
+EPA: 253mi
+407km
+NEDC: 480km
+300mi
+EPA: 253mi
+407km
+NEDC: 480km
+300mi
+EPA: 294mi
+473km
+NEDC: 528km
+328mi
+EPA: 270mi
+430km
+NEDC: 509km
+316mi
+EPA: 270mi
+430km
+NEDC: 509km
+316mi
+EPA: 315mi
+507km
+NEDC: 613km
+381mi
+Max. power,
+motor
+382hp
+285kW
+382hp
+285kW
+518hp
+386kW
+382hp
+285kW
+518hp
+386kW
+382hp
+285kW
+518hp
+386kW
+382hp
+285kW
+518hp
+386kW
+470hp
+350kW
+691hp
+515kW[c]
+762hp
+568kW[b][c]
+518hp
+386kW
+691hp
+515kW[c]
+762hp
+568kW[b][c]
+Unavailable
+Max. power,
+battery
+235hp
+175kW
+302hp
+225kW
+315hp
+235kW
+329hp
+245kW
+373hp
+278kW
+417hp
+311kW
+420hp
+310kW
+504hp
+376kW
+532hp
+397kW
+417hp
+311kW
+504hp
+376kW
+532hp
+397kW
+Unavailable
+Max. torque
+317lbft
+430Nm
+317lbft
+430Nm
+325lbft
+441Nm
+387lbft
+525Nm
+325lbft
+441Nm
+485lbft
+658Nm
+443lbft
+601Nm
+687lbft
+931Nm
+687lbft
+931Nm
+485lbft
+658Nm
+713lbft
+967Nm
+713lbft
+967Nm
+Unavailable
+060mph[d]
+6.5 sec
+5.5 sec
+5.2 sec
+5.5 sec
+5.2 sec
+5.5 sec
+5.2 sec
+5.4 sec
+4.2 sec
+4.2 sec
+3.1 sec
+2.8 sec
+4.2 sec
+3.1 sec
+2.8 sec
+2.5 sec
+0100km/h[127]
+5.8 sec
+5.4 sec
+5.8 sec
+5.4 sec
+5.6 sec
+4.4 sec
+4.4 sec
+3.3 sec
+3.0 sec
+4.4 sec
+3.3 sec
+3.0 sec
+2.7 sec
+Top speed
+110mph
+180km/h
+130mph
+210km/h
+130mph
+210km/h
+140mph
+230km/h
+140mph
+230km/h
+140mph
+230km/h
+140mph
+230km/h
+140mph
+230km/h
+155mph
+249km/h
+130mph
+210km/h
+155mph
+249km/h[127]
+155mph
+249km/h
+155mph
+249km/h[127]
+155mph
+249km/h[127]
+155mph
+249km/h
+155mph
+249km/h
+Supercharging
+No
+Optional[e]
+(US$2,000)
+Included until Dec 31,2016. First 400kWh/yr after Jan 1, 2017[128]
+Price (base US)
+$59,900
+$66,000
+$71,000
+$70,000
+$75,000
+$74,500
+$79,500
+$79,900
+$84,900
+$93,400
+$105,000
+$115,000
+$89,500
+$112,000
+$119,500
+$134,500
+Availability
+2012
+Apr 2013
+2012
+Apr2015;
+Jun2016
+present
+Jun2016
+present
+Jul2015
+May2016
+Apr2015
+May2016
+May2016
+present
+May2016
+present
+2012
+Feb2016
+Nov2014
+Feb2016
+2012
+Nov2014
+Nov2014
+Feb2016
+Aug2015
+Feb2016
+Aug2015
+present
+Aug2015
+Nov2016
+Aug2015
+Aug2016
+Aug2016
+present
+^ Original stated 40 kWh model specifications. Range limited 60 kWh versions actually delivered.
+^ a b c Only available for Dual-Motor Performance models with optional Ludicrous Mode upgrade, which requires 90kWh battery for new cars (P90D). Only available until January 2016 for P85D already in ownership.[115]
+^ a b c d e Total motor power specification, battery power limited to less.
+^ Tesla subtracts "one foot rollout" from acceleration times.
+^ After purchase, a Supercharging upgrade was available for US$2,500.
+Energy consumption[edit]
+Under its five-cycle testing protocol, the US Environmental Protection Agency (EPA) rated the 85kWh Model S model with a combined fuel economy equivalent of 89MPGe (2.64L/100km), with an equivalent 88mpg-US (2.7L/100km; 106mpg-imp) in city driving and 90mpg-US (2.6L/100km; 110mpg-imp) on highways.[12]
+The following table shows the EPA's official ratings for fuel economy in miles per gallon gasoline equivalent (MPGe) and EPA's estimated out-of-pocket fuel costs for the variants of the Model S rated as of 30 December 2015[update] and as displayed in the Monroney label.
+201215 Tesla Model S fuel economy and operating costs
+Model
+Model
+year
+Fuel economy (MPGe)
+25mi (40km)
+journey cost
+Annual fuel cost[a]
+(15,000mi or 24,000km)
+Combined
+City
+Highway
+60kWh[129][130][131]
+201315
+95; 35kWh/100mi
+22kWh/100km
+94; 36kWh/100mi
+22kWh/100km
+97; 35kWh/100mi
+22kWh/100km
+US$1.14
+US$700
+AWD 70D
+70kWh[129][131]
+2015
+101; 33kWh/100mi
+20kWh/100km
+101; 33kWh/100mi
+20kWh/100km
+102; 33kWh/100mi
+20kWh/100km
+US$1.07
+US$650
+85kWh[129][132]
+201215
+89; 38kWh/100mi
+24kWh/100km
+88; 38kWh/100mi
+24kWh/100km
+90; 37kWh/100mi
+23kWh/100km
+US$1.23
+US$750
+AWD
+85kWh[124][129]
+2014
+89; 38kWh/100mi
+24kWh/100km
+86; 40kWh/100mi
+25kWh/100km
+94; 36kWh/100mi
+22kWh/100km
+US$1.23
+US$750
+AWD 85D
+85kWh[124][129]
+2015
+100; 34kWh/100mi
+21kWh/100km
+95; 35kWh/100mi
+22kWh/100km
+106; 32kWh/100mi
+20kWh/100km
+US$1.10
+US$650
+AWD 90D
+90kWh[129][131]
+2015
+100; 34kWh/100mi
+21kWh/100km
+95; 35kWh/100mi
+22kWh/100km
+106; 32kWh/100mi
+20kWh/100km
+US$1.10
+US$650
+AWD P85D
+85kWh[124][129]
+2015
+93; 36kWh/100mi
+22kWh/100km
+89; 38kWh/100mi
+24kWh/100km
+98; 35kWh/100mi
+22kWh/100km
+US$1.17
+US$700
+AWD P90D
+90kWh[129][131]
+2015
+93; 36kWh/100mi
+22kWh/100km
+89; 38kWh/100mi
+24kWh/100km
+98; 35kWh/100mi
+22kWh/100km
+US$1.17
+US$700
+^ Based on 45% highway and 55% city driving. Values rounded to the nearest US$50. Electricity cost of US$0.13/kWh, as of 30 December 2015[update].
+Miles per gallon equivalent (MPGe) based on 1 U.S. gal. gasoline = 33.7kWh.
+Battery placement[edit]
+In contrast to most other battery electric vehicles including the Roadster, the battery pack of the Model S forms the floor of the vehicle between the axles, providing the vehicle with several advantages. Most notably, since the battery pack is the single heaviest component of the vehicle, the Model S has a center of gravity height of only 18 inches (46cm)[93][133] (about the same as a Lotus Elise),[134] helping it to achieve a lateral acceleration of 0.9g[135] and good protection against rollover.[136][137] Secondly, the absence of a heavy engine between the front or rear axle allows the bulk of the mass to be centralized between the axles, lowering rotational inertia allowing it to turn more quickly for its weight. Thirdly, the placement of the battery pack increases the rigidity of the passenger compartment, improving the passive safety of the vehicle.[138] Fourth, placing the battery pack under the vehicle makes it possible to remove or replace the entire unit in 90 seconds,[139] either for maintenance or for Tesla's Battery Swap service.
+Charger[edit]
+The Model S charge port is located in front of the left taillight.
+Model S charging connectors at the Tesla store in Austin, Texas
+In all markets the charge port is located behind a door in the left taillight. During charging, the charge port pulses green. The frequency at which the charge port's light pulses slows down as the charge level approaches full. When charging is complete, the light stops pulsing and is solid green.[140]
+The Model S comes equipped with a different charger and connector in North American versus other markets, derived from differences in the local electric grid systems.
+North America[edit]
+The standard North American onboard charger accepts single phase 120 or 240-volt sources at a rate of up to 10 kW. Included adapters allow the car to charge from a standard 120 volt outlet, a 240 volt NEMA 14-50 outlet, and SAE J1772 public chargers. An optional US$2,000 upgrade for a second 10 kW onboard charger supports a total of up to 20 kW charging from an 80 amp available US$750 Tesla Wall Connector.[4] The North American connector uses a proprietary Tesla design.
+Charging times vary depending on the battery pack's state-of-charge, its overall capacity, the available voltage, and the available circuit breaker amperage. From a 120 volt/15 amp household outlet, the range increases by 3.75 miles (6km) for every hour of charging. From a 10 kW, NEMA 1450 240 V/50 A outlet (like those used by RVs or standard cooking ranges), the charge rate is 28.75 miles (46km) per hour. Using Tesla's 20 kW, 240 V High Power Wall Connector increases the rate to 57 miles (92km) per hour if the car is configured with dual chargers (20 kW).[141]
+Europe / Asia Pacific[edit]
+Type 2-compatible inlet on European Model S
+The standard European charger accepts three phase 230 V or 400 V at up to 11 kW. The Type 2 connector on the car directly accepts "Mennekes" IEC 62196 charging from public stations at up to 400V, and included adapters allow the car to charge from standard continental European outlets and IEC 60309 230 volt (blue 3-pin) or 400 volt (red 5-pin) outlets, depending on region. The addition of a second charger supports charging at up to 22kW, providing up to 70 miles (110km) of range per hour of charge; the Tesla Wall Connector is expected to be available in the second quarter of 2016.[142]
+Type 2-compatible outlet found on Tesla superchargers in Europe
+Suspension[edit]
+The Model S has independent coil spring suspension on all four wheels
+front double wishbone, virtual steer axis control arm and rear independent multilink.[65] As an extra-cost option, the car is available with self-leveling, height-adjustable air suspension. This is accomplished via adjustable Bilstein shock absorbers controlled by the driver. The car is meant to lower itself at highway speed and raise itself to traverse steep driveways and rough terrain, despite the low 6-inch ground clearance and rather long 116-inch wheelbase.[143]
+Because, in the Tesla, electronic systems can be upgraded by "over-the-air" download, rather than recall, the suspension system has been changed retroactively on several occasions. During the 2013 'fire investigation', NHTSA asked Tesla to disable the car's ability to lower itself at speed on the theory that a ground clearance below 6 inches might cause the batteries underneath the car to contact road debris.[144] In September 2014, Tesla upgraded the height adjustment feature for Model S cars equipped with air suspension to remember locations that require higher clearance such as those with potholes and steep driveways, and automatically adjusts to avoid them.[145]
+Autopilot[edit]
+Main article: Tesla Autopilot
+See also: Autonomous car and Connected car
+Beginning in late September 2014, all new Model S vehicles come equipped with a camera (supplied by Mobileye) mounted at the top of the windshield, forward looking radar (supplied by Bosch)[146][147] in the lower grill, and ultrasonic acoustic location sensors in the front and rear bumpers that provide a 360-degree buffer zone around the car. This equipment allows Model S to detect road signs, lane markings, obstacles, and other vehicles. In addition to adaptive cruise control and lane departure warning, a US$2,500 "Tech Package" option will allow this system to enable semi-autonomous drive and parking capabilities.[148][149][150] All Model S sold since October 2014 have the option to have Autopilot, which allows limited hands-free driving. AutoPilot-enabled cars receive software updates for the AutoPilot software wirelessly, just as all other Model S cars receive general software updates wirelessly.
+Some people agreed that Tesla Autopilot can reduce accidents due negligence and fatigue in long range drive use.[151]
+According to Elon Musk, the Model S was designed to be a computer on wheels: "We really designed the Model S to be a very sophisticated computer on wheels. Tesla is a software company as much as it is a hardware company. A huge part of what Tesla is, is a Silicon Valley software company. We view this the same as updating your phone or your laptop."[152] Full autonomy is really a software limitation: The hardware exists to create full autonomy, so its really about developing advanced, narrow AI for the car to operate on.[153][154]
+Tesla's autonomous driving features are ahead of production cars, and its Autopilot can be classified as somewhere between levels 2 and 3 under the U.S. Department of Transportations National Highway Traffic Safety Administration (NHTSA) five levels of vehicle automation. At this level, the car can act autonomously but requires the full attention of the driver, who must be prepared to take control at a moment's notice.[155][156][157] Autopilot is suitable only on limited-access highways, and sometimes it will fail to detect lane markings and disengage itself. In urban driving the system will not read traffic signals or obey stop signs. The system also does not detect pedestrians or cyclists.[158]
+Starting October 2016, all Tesla cars are built with the necessary hardware to allow full self-driving capability at a safety level (SAE Level 5).[159] The system will operate in "shadow mode" (processing without taking action) and send data back to Tesla to improve its abilities until the software is ready for deployment via over-the-air upgrades.[160] Tesla Motors says it expects to enable full self-driving by the end of 2017, after proper testing.[159]
+Fatal accident[edit]
+The first known fatal accident involving a Tesla Model S when the car was in autopilot mode took place in Williston, Florida on 7 May 2016. The driver was killed in a crash with a large 18-wheel tractor-trailer. By late June 2016 the U.S. National Highway Traffic Safety Administration (NHTSA) opened a formal investigation into the accident working with the Florida Highway Patrol. According to the NHTSA, preliminary reports indicate the crash occurred when the tractor-trailer made a left turn in front of the Tesla at an intersection on a non-controlled access highway, and the car failed to apply the brakes. The car continued to travel after passing under the trucks trailer.[161][162][163] The NHTSA's preliminary evaluation was opened to examine the design and performance of any automated driving systems in use at the time of the crash, which involves a population of an estimated 25,000 Model S cars.[164] On 8 July 2016, the NHTSA requested Tesla Motors to hand over to the agency detailed information about the design, operation and testing of its Autopilot technology. The agency also requested details of all design changes and updates to Autopilot since its introduction, and Tesla's planned updates scheduled for the next four months.[165]
+According to Tesla, "neither autopilot nor the driver noticed the white side of the tractor-trailer against a brightly lit sky, so the brake was not applied." The car attempted to drive full speed under the trailer, "with the bottom of the trailer impacting the windshield of the Model S." Tesla also stated that this was Teslas first known autopilot death in over 130 million miles (208 million km) driven by its customers where Autopilot was activated. According to Tesla there is a fatality every 94 million miles (150 million km) among all type of vehicles in the U.S.[161][162][166] Some statisticians say that Tesla's use of statistics is meaningless due to the relatively small total distance traveled by Tesla cars and the different driving conditions of the two data sets being compared. It is estimated that billions of miles will need to be traveled before a statistically significant comparison can be made. Researchers say that Tesla and others need to release more data on the limitations and performance of automated driving systems if self-driving cars are to become safe and understood enough for mass market use.[167]
+Instrument panel[edit]
+Production dashboard with main dashboard digital display (left) and central 17-inch (430mm) touchscreen control panel (right)
+The instrument panel is a 12.3-inch (31cm) liquid-crystal display electronic instrument cluster that indicates speed, power usage, charge level, estimated range and active gear, as well as Nav directions (driven by Garmin). The gearbox can be set to Drive, Neutral, Reverse and Park. The infotainment control touchscreen is a 17-inch (43cm) multi-touch panel divided into four areas. A top line displays status symbols and provides shortcuts to Charging, HomeLink, Driver Profiles, vehicle information (software version and the Vehicle identification number) and Bluetooth. The second line provides access to several apps including Media, Nav (driven by Google Maps, and thus is separate from the Nav on instrument panel), Energy, Web, Camera and Phone. The central main viewing area displays the (two) active apps, subdivided into upper and lower areas. (Most apps can be expanded to take up the entire area). At the bottom is access to various controls and settings for the vehicle such as doors, locks and lights as well as temperature controls and a secondary volume control.
+The instrument cluster and the infotainment panel are driven by separate Nvidia Tegra 3 3D Visual Computing Modules.[168][169] Tesla was the first company to ship this technology. (Audi later delivered this technology in its 2013 model year in Europe, and in North America in 2014.)[170] The Tegra system on a chip (SoC) integrates eight specialized processors, including a multi-core ARM CPU, a GPU, and dedicated audio, video and image processors. Nvidia claimed that it consumes 2% of the energy of a typical CPU.[171]
+The navigation system uses GPS and a mix of Garmin and Google Maps route guidance. The map display on the 17-inch screen requires a constant Internet connection, so navigation is limited in areas without mobile network coverage. The Nav on the instrument panel is loaded on the car and does not need Internet access to function.[172] Update 6.2 features automatic nav guidance to charging stations if range is insufficient.[173]
+Enthusiasts have developed the Open Vehicle Monitoring System (OVMS) which allows the owner to remotely observe a variety of different vehicle operating parameters, such as battery state of charge, typically using a smartphone. Some switchgear used are Mercedes parts, such as window switches, cruise control lever, and drive selector.
+According to Elon Musk, the Model S runs on the open-source Linux operating system.[174] In 2014 Autoblog reported that Tesla Models S owners had determined via the car's combined diagnostics and Ethernet port that a Ubuntu system controlling the central touchscreen is connected to the car's internal Ethernet.[175] The same users determined that another Ubuntu system controlling the dashboard/navigation screen also is connected to the internal network, together with a third computer of unknown type with an unknown function.[176]
+Features[edit]
+The Model S has an optional folding third row with rear-facing seats for two children secured with a racing-style five-point harness.
+The Model S key
+All versions of the Model S have the same body and normally seat five passengers. An optional folding third row for US$2,500 becomes a rear-facing two-place child seat. The option includes a stronger rear bumper.[133][137] Each third row seat has a racing-style five-point harness for passengers over 37in (0.94m) tall and weighing between 35 to 77lb (16 to 35kg). Cargo space is available under the front hood (which Tesla called a "frunk," a portmanteau of "front trunk.") The optional third row gives the greatest passenger capacity of any electric vehicle.[177] In October 2014, the upgraded Model S P85D, D for dual, was introduced.[178] The upgraded version features two electric motors, one driving the rear wheels as in prior versions, and one driving the front wheels. Safety features are enhanced also, for example with partial auto-pilot functions. The dual motor version will be available also for the basic 85 kWh versions for around US$4,000 more in price. The rear wheel drive version of the P85 was removed, and the dual motor option is not available for the 60 kWh version.[81]
+The 2015 model year update introduced electromechanical brakes.[179] In 2016, the 85kWh and later 90kWh battery was discontinued from all markets. A glass roof with no horizontal roof bar between the B-pillars was introduced in late 2016.[180]
+Vehicle warranty and maintenance[edit]
+The Model S is covered by a 4-year, 50,000mi (80,000km) limited warranty,[181] that includes all standard equipment, the transmission and the complete powertrain (excluding tires).[182] The warranty can be extended an additional 4 years or 50,000 miles (80,000km) beyond the original terms for US$4,000.[182] Warranty coverage includes a complementary loaner cara Performance 85 or Tesla Roadsterwhen service is required.[183] In April 2013, Tesla announced that a previously mandatory US$600 annual vehicle inspection and maintenance fee would be made optional, and would not be required to maintain warranty coverage.[183] If chosen, the fee covers a complete inspection, tire alignment, new brake pads, hardware upgrades and miscellaneous other maintenance items as needed.
+The battery and drive unit are covered for eight years or 125,000 miles (200,000km in metric countries) for the 60kWh base model, or eight years and unlimited distance for all 70 and 85kWh models.[104][184] The unconditional battery warranty covers everything except deliberate damage, even including user error.[185] However, loss of battery capacity over time or usage is not covered under warranty.[clarification needed][184][186]
+Environmental footprint[edit]
+In February 2014, the Automotive Science Group (ASG) published the result of a study conducted to assess the life-cycle of over 1,300 automobiles across nine categories sold in North America. The study ranked the Model S as the best environmental performer in the 2014 full-size cars category.[187] Based on the assessment of life-cycle environmental footprint, the study concluded that the increased environmental impacts of manufacturing the vehicle are more than offset with increased environmental performance during operation. For the assessment, the study used the average electricity mix of the U.S. grid in 2014. The Nissan Leaf had the smallest life-cycle environmental footprint of any model year 2014 automobile available in the North American market.[188]
+In 2015, the Union of Concerned Scientists found that in the US regions where the Model S is popular, the 68% higher manufacturing emissions are offset within a few years of average driving. During their life-cycle, EVs emit about half the amount of comparable fossil cars.[189][190] According to an IBM researcher, this analysis is the best available.[191]
+Tesla has worked with ToxCo/Kinsbursky in the US since 2008 and Umicore in Europe[192] to recycle worn out RoHS batteries,[193][194] which will be performed in Gigafactory 1.[195]
+Tesla stations[edit]
+Tesla Model S charging at the Supercharger network station in Newark, Delaware, United States
+Tesla Model S charging at a public charging station in Zoutelande, the Netherlands
+Main article: Tesla station
+In 2012, Tesla began building a network of 480-volt charging stations to facilitate long-distance travel. In June 2013 Tesla announced that existing and future stations would become Tesla stations, with facilities to support under-two-minute battery pack swaps. As of early October 2014, 115 stations were operating in the United States, 71 in Europe and 23 in Asia.[196][197] The Tesla network is usable only by Tesla vehicles, which are engineered for compatibility.
+The first Supercharger corridor opened in October 2012, with six stations placed along routes connecting San Francisco, Lake Tahoe, Los Angeles and Las Vegas.[198][199] A second corridor opened in December 2012 connecting Washington, D.C., New York City, and Boston; it includes three stations located in highway rest areas in Delaware and Connecticut.[200]
+The first Tesla stations in Europe opened in Norway in August 2013.[201] Tesla next focused on Germany and the Netherlands, with plans to cover both countries by mid-2014. Switzerland, Belgium, Austria, Denmark and Luxembourg were to be covered by the end of 2014. Stations were to be within 200mi (320km) for about 90% of the population in France, England, Wales and Sweden by the end of 2014.[202]
+Supercharger[edit]
+The Supercharger is a proprietary DC rapid-charging station that provides up to 135kW of power, giving 85kWh vehicles an additional 180mi (290km) of range in about 1530 minutes. Older 60kWh may have reduced charge rate.[203] In the West Coast corridor the Superchargers's grid access is assisted by a solar carport system (some including a battery of a few hundred kWh)[204] provided by SolarCity. Eventually, all Tesla stations will be assisted by solar power.
+Supercharging hardware is now a standard on all vehicles sold by Tesla Motors. The Roadster is not compatible.[198][199][200] In early November 2013, Tesla reported that 90% of its customers had opted for supercharging capability.[202] As of April 2016[update], there are over 620 open superchargers around the world. Elon Musk said at the unveiling of the Model 3 that that number would be doubled by the end of 2017. Tesla has received criticism about the length of time it has taken them to install chargers on high use corridors of the United States such as I-40 and I-80.[citation needed]
+Tesla built 120kW[205] Tesla supercharger stations to allow long distance travel in North America, Europe, Asia, and Australia.[206] A Supercharger can add up to 125 miles (201km) of range in 20 minutes and a full charge in approximately one hour assuming a nearly empty 85 kWh battery.[4][141]
+Supercharging hardware is included in the 85kWh, 70kWh, and 60kWh battery packs; in both the 85kWh models and 70kWh models,[207] the payment for the car includes supercharging by default, but in the 60kWh, supercharging was software-disabled and one must pay an extra fee to enable supercharging.[104][141][208][209]
+Battery swapping[edit]
+Tesla designed its Model S to allow fast battery swapping, which also facilitates vehicle assembly.[210] In June 2013, Tesla announced their goal to deploy a battery swapping station in Tesla stations. At a demonstration Tesla showed a battery swap operation taking just over 90 seconds, about half the time it takes to refill an empty gas tank.[211][212]
+Panoramic view of Tesla Supercharger rapid charging station in Tejon Ranch, California.
+Battery swapping was to be deployed along Interstate 5 in California to allow travel from San Francisco to Los Angeles. These were to be followed by the Washington, D.C. to Boston corridor. Each swapping station costs US$500,000 and stocks about 50 batteries. The service would be offered for the price of about 15 US gallons (57l; 12impgal) of gasoline at the current local rate, around US$60 to US$80 at June 2013 prices. Owners can pick up their original battery pack fully charged on the return trip, which is included in the swap fee. Tesla would also offer the option to keep the swapped battery for a fee or to receive the original pack from Tesla for a fee. Pricing has not been determined.[211]
+Tesla's only battery swap station is located at Harris Ranch, California, and was available for pilot testing in late December 2014.[213] As of 2015[update], Tesla says they have hundreds of cars in the battery swap program, although few owners are interested in using the service.[214] In June 2015, Tesla said that it was unlikely that more battery swap stations would be added due to lack of demand for battery swaps costing around $60 when supercharging is included free with most models.[215]
+Editions[edit]
+Tesla allocated the first 1,000 units to its Signature and Signature Performance limited edition configurations, equipped with the 85kWh battery pack, and priced in the U.S. at US$95,400 and US$105,400 respectively, not including any applicable U.S. federal and local government tax credits and incentives.[216][217] As of July 2015[update], the base Model S starts at US$75,000 with a 70kWh battery pack and goes up to US$105,000 for the performance model with the 85kWh pack before any government subsidies.[83] Tesla does not make a convertible Model S.[218][219]
+A custom Model S was designed for the Oceanic Preservation Society in collaboration with Obscura Digital, and was used to project images of endangered animals to help educate the public about the ongoing Holocene mass extinction, as featured in the 2015 documentary Racing Extinction.
+Sales and markets[edit]
+Global[edit]
+Model S first retail deliveries ceremony at the Tesla Factory in Fremont, California, held on June 22, 2012
+Tesla Motors reported 520 reservations for the Model S during the first week they were available[220] and by December 2012, a total 15,000 net reservations (after deliveries and cancellations) had been received by year-end.[221] The special edition Model S Signature model was sold out before deliveries began in June 2012, and according to Tesla Motors all models were sold out for that year shortly after. A car ordered in May 2012 would be delivered in early to mid-2013.[222][223]
+Initially Tesla expected to reach global sales of 35,000 units in 2014, but in November 2014 reduced its sales target to 33,000 units due to a deficit in production of 2,000 units during the third quarter of 2014. The company expected its annual production to increase by over 50% in 2014 to 35,000 units, and another increase of 50% in 2015.[224] Tesla Motors set a target of between 50,000 and 52,000 deliveries for Model S and Model X cars in 2015, and delivered 50,658 units.[225][226] Tesla plans to deliver 80,000 to 90,000 new Model S and Model X vehicles in 2016.[226]
+2012
+U.S. deliveries began June 2012.[10] Deliveries of the 60kWh model were rescheduled from November 2012 to January/February 2013.[227] A total of 2,650 cars were delivered in North America in 2012.[228]
+2013
+During the first six months of 2013, 10,050 were delivered.[229] The Model S was released in Europe in early August 2013, and the first deliveries took place in Norway, Switzerland and the Netherlands,[230] and by November 2013, the Model S was on sale in 20 countries.[202]
+Sales totaled about 22,477 units in North America and Europe,[231] surpassing Tesla's annual sales target of 21,500 units.[232] Global cumulative sales passed the 25,000 unit milestone in December 2013.[232] By the end of 2013, according to Elon Musk, Norway and Switzerland became the company's largest per capita sales markets.[233]
+Tesla Model S global sales by quarter
+Quarter
+Units sold
+3Q 2012
+250
+4Q 2012
+2,400
+1Q 2013
+4,900
+2Q 2013
+5,150
+3Q 2013
+5,500
+4Q 2013
+6,892
+1Q 2014
+6,457
+2Q 2014
+7,579
+3Q 2014
+7,785
+4Q 2014
+9,834
+1Q 2015
+10,045
+2Q 2015
+11,532
+3Q 2015
+11,597
+4Q 2015
+17,272
+1Q 2016
+12,420
+2Q 2016
+9,764
+3Q 2016
+16,047
+2014
+Retail deliveries in China began in April 2014.[234] The right-hand-drive model was released in the UK in June 2014,[235] followed by Hong Kong in July 2014,[236] and Japan in September 2014.[237] Deliveries in Australia began in December 2014.[238]
+Global cumulative sales of the Model S passed the 50,000 unit mark in October 2014.[239] A total of 31,655 units were sold worldwide in 2014, allowing the Model S to rank as the world's second best selling plug-in electric vehicle after the Nissan Leaf that year.[25] In 2014 about 55% of Model S deliveries took place in North America, 30% in Europe, and 15% in the Asia-Pacific market.[240]
+2015
+A total of 21,577 units were sold worldwide during the first half of 2015, of which, 11,532 were delivered during the second quarter alone, up about 52% over the same quarter the previous year.[241][242][243] As of June 2015[update], the Model S was sold in 30 countries.[241] A total of 11,597 Model S cars were delivered during the third quarter, up about 49% over the same quarter in 2014.[225] A total of 17,272 Model S were delivered during the fourth quarter, up 76% over the same quarter the previous year, and setting a new record for the most cars delivered in a quarter.[226][244] Global Model S sales passed the 100,000 unit milestone in December 2015, three years and a half after its introduction.[21] A total of 50,446 Model S sedans were sold globally in 2015, making the Model S the world's best-selling plug-in electric car in 2015, ahead of the Nissan Leaf (about 43,000 units).[24][226]
+As of December 2015[update], a total of 107,228 Model S sedans have been sold worldwide since its introduction, ranking as the world's second best selling plug-in car ever after the Nissan Leaf (200,000).[24][226] The United States is the leading market with 63,161 units sold.[226][245] Norway is the Model S largest overseas market,[246] with 10,062 new units registered,[247][248][249] followed by China with 5,524 units registered through September 2015,[57][250] and the Netherlands with 4,462 units registered at the end of December 2015.[251][252][253][254]
+2016
+Model S global sales totaled 12,420 units during the first quarter of 2016.[255] Sales during the second quarter of 2016 were lower than anticipated by Tesla, with 9,764 Model S cars delivered worldwide during the quarter. Although production was up 20% from the previous quarter, the number of vehicles in transit at the end of June 2016 was much higher than expected (5,150 including Model X cars), representing 35.8% of the number of cars delivered in the quarter (14,402 vehicles including the Model X).[256][257] As of June 2016[update], the Model S remained as the world's all-time second best-selling plug-in electric car after the Nissan Leaf.[29]
+Deliveries in the third quarter of 2016 totaled 16,047 units, for cumulative sales of 38,231 Model S cars during the first nine months of 2016,[22][255][256] allowing the Model S to rank as the world's top selling plug-in car during this period, just ahead of the Nissan Leaf.[26] As of September 2016[update], cumulative global sales totaled almost 145,500 units,[22][23] with the United States leading global sales with about 84,000 units delivered through September 2016.[226][245][258]
+Top selling countries[edit]
+The following table shows sales by year for the top selling countries through June 2016:
+Tesla Model S sales/registrations by top national markets
+(June 2012  June 2016)
+Country
+Cumulative
+sales
+% of global
+sales[a]
+1st Half
+2016
+2015
+2014
+2013
+2012
+US[226][245][259]
+~74,861
+57.8%
+11,700
+25,202
+16,689
+~18,650
+~2,620
+Norway[247][248][249][260]
+11,303
+8.7%
+1,241
+4,039
+4,040
+1,983
+N/A
+China[57][250]
+5,524[b]
+4.3%
+[c]
+3,025[b]
+2,499
+N/A
+N/A
+Netherlands[251][252][253][261]
+5,334
+4.1%
+866
+1,805
+1,468
+1,195
+N/A
+Canada[262]
+4,396
+3.4%
+806
+2,010
+847
+638
+95
+Denmark[263]
+3,355
+2.6%
+47
+2,736
+460
+112
+N/A
+Germany[64][264][265][266]
+3,346
+2.6%
+758
+1,582
+815
+191
+N/A
+UK[267][268][269]
+3,312
+2.6%
+1,225
+1,389
+698
+N/A
+N/A
+Switzerland[d][270]
+3,060
+2.4%
+795
+1,556
+496
+213
+N/A
+Hong Kong[271]
+2,221[e]
+1.7%
+[c]
+2,221
+N/A
+N/A
+N/A
+Belgium[272][273][274]
+1,870
+1.4%
+381
+820
+521
+148
+N/A
+Sweden[275][276][277]
+1,618
+1.3%
+351
+996
+266
+5
+N/A
+France[278][279]
+1,525
+1.2%
+454
+708
+328
+35
+N/A
+Australia[280][281]
+~1,319
+1.0%
+[c]
+~1,250
+69[f]
+N/A
+N/A
+Austria[282][283]
+1,038
+0.8%
+362
+492
+136
+48
+N/A
+Italy[284]
+283
+0.2%
+103
+120
+52
+8
+N/A
+Global[24][226][255][256]
+129,412
+22,184[255][256]
+50,446[24][226]
+31,655[25]
+22,477[231]
+~2,650[221]
+^ Percentage of global sales by country, inception through June 2016.
+^ a b Sales in China through September 2015.
+^ a b c Sales figures for first half of 2016 not available
+^ Includes registrations in Liechtenstein.
+^ Hong Kong sales for 2015 only.
+^ Only includes registrations in New South Wales and Victoria.
+Asia/Pacific[edit]
+Model S at a quick charging CHAdeMO station in Japan.
+Australia
+The first nine units were delivered in Sydney on December 9, 2014. Tesla Motors also opened its first store and service centre in St Leonards, and its first Supercharger station at Pyrmont in December 2014. Initially, only two versions were available, the 60 starting at A$91,400, and the 85 starting at A$103,400 before any options, stamp duty and the Australian luxury car tax (LCT). The Model S P85D, starting at A$133,500, had deliveries scheduled to begin in June 2015.[285][286]
+As of December 2014[update], a total of 65 Model S cars were registered in New South Wales and only four in Victoria.[287] At the end of March 2015, registrations totaled 119 in New South Wales and 54 in Victoria. Although there were no sales figures reported for Tesla in other states, the combined sales of these two states alone were enough for the Model S to rank as the top selling all-electric car in the country for the first quarter of 2015, ahead of the BMW i3 (46) and the Nissan Leaf (31).[287]
+China
+The first deliveries took place on April 22, 2014.[234] The Model S has the same standard equipment as the continental European version, but was adapted to provide larger back seats because the car was expected to be driven by a chauffeur.[288] Only two versions with an 85kWh battery pack are available in the Chinese market, standard and performance.[289] Pricing starts at CN734,000 (~US$121,200),[289] similar to the US, adding only taxes and transportation costs. Comparable luxury cars cost more than US$180,000 in the Chinese market.[290][291]
+Chinese sales up to June 2014 were estimated between 1,000 to 1,300 units.[292][293] JLWarren Capital, an equity firm, estimated that about 2,800 Tesla Model S cars have been imported to China by mid September 2014, but only 432 had received the license plates.[294] According to a Tesla spokesman, the major reasons for the discrepancy could be that registration rules were holding deliveries in Shanghai, and Tesla only recently was able to start delivering the electric cars to customers who bought them in Shanghai. Secondly, many Chinese customers have delayed taking possession of their Model S car while waiting for the government to add the Tesla to the list of electric vehicles exempt from its 8% to 10% purchase tax.[294][295] As of December 2014[update], Tesla had imported 4,800 Model S cars, but only 2,499 of those vehicles were registered for road use in China.[250]
+Tesla's CEO expressed disappointment with the Chinese sales, as stock continued to be high by early 2015.[296] As sales improved, Model S sales reached 2,147 units representing an 80% share of the imported plug-in hybrid or electric car segment in China for the first half of 2015.[297] Sales totaled 3,025 units during the first nine months of 2015,[57] for cumulative registrations of 5,524 units through September 2015.[57][250]
+Hong Kong
+Sales of the Model S began in July 2014.[236] After the introduction of the Model S, sales of all-electric cars took off in Hong Kong.[citation needed] Thanks to tax waiver on electric vehicles, the Model S price is very competitive in the luxury car segment. While the after tax price of the Model S 70D is HK$619,000, a Mercedes-Benz E 200 Premium Edition costs HK$1,009,500.[298] As of June 2015[update], an EV enthusiasts group estimated that the Model S was the top selling all-electric car in the territory with roughly 70% of the registered stock of EVs.[298] According to Tesla, as of June 2015[update], Hong Kong has the world's highest density of Tesla superchargers, with eight stations comprising a total of 36 supercharger stalls. This infrastructure allows most Model S owners to have a supercharger within 20 minutes' drive.[299] Sales totaled 2,221 units in 2015,[271] and by August 2016 about 80% of 5,800 EVs in Hong Kong were Teslas.[300]
+Europe[edit]
+The first European deliveries took place at Tesla's store in Oslo in August 2013.
+Retail deliveries began in Europe in early August 2013, in Norway, Switzerland and the Netherlands.[230] The two biggest markets for the Model S in Europe are Norway and the Netherlands.[301] The Model S, with about 3,900 units sold, ended 2013 as the third-best selling all-electric car in Europe after the Nissan Leaf and the Renault Zoe.[302][303] A total of 8,734 Model S cars were sold in 2014, representing a market share of 15.5% of new all-electric passenger car sales in Europe,[304] and again allowing the Model S to rank as the third best selling all-electric car in Europe after the Leaf and the Zoe.[304] Accounting for sales during the first nine months of 2014, the Model S outsold the Audi A8, BMW 7 Series and Jaguar XJ, ranking second in the European luxury vehicle segment after the Mercedes-Benz S-Class.[305]
+European Model S sales in 2015 totaled 15,515 units, ranking second after the Renault Zoe (18,727) and ahead of the Leaf (15,455). The Model S captured 15.9% of the European all-electric segment sales in 2015.[306] The Model S topped the European luxury car segment in 2015, ahead of the Mercedes-Benz S-Class (14,990), the segment's leader in previous years.[307] Norway was the leading market in 2015 with 4,039 units sold.[249] Cumulative Model S sales in Europe totaled 28,149 units by the end of 2015.[302][304][306]
+Pricing
+American and European standard equipment and options packages are the same. European prices are higher, due to exchange rates, the value-added tax (VAT), plus transport costs, import duties and other country-specific costs. In most countries where the Model S is sold base prices for the 60kWh start at 72,600, and 83,150 for the 85kWh battery car. The 85kWh Performance, Signature, and Signature Performance trim levels are listed at 97,550, 101,400, and 110,950 respectively. Tesla offered a deduction of 1,700 to buyers who held a reservation by the end of December 2012.[308][309]
+Sales by country
+Czech Republic
+A total of 23 units were sold during 2014.[310]
+Denmark
+During its first full month in the Danish market, the Model S was the top selling electric vehicle with 42 units sold.[311] Sales were 112 units in 2013 and 460 in 2014.[263] Model S sales constituted 35% of the sales of luxury cars by mid 2014.[312] A Model S was tested as a taxi, but high price and low range made the project uneconomic.[313][314] When the AWD model was announced in Autumn 2014, used Model S were sold fast at high price.[315]
+In October 2015, the Danish Parliament approved to phase out the tax exemption for electric vehicles, and customers rushed to order the Model S before the price increase. It became the most sold car of any kind in Denmark in December 2015, with 1,248 cars delivered that month, out of 1,573 electric cars sold in December. This is the first time ever that an electric car is the best selling car in Denmark.[20] The Model S comprised 98% of luxury cars sold in Denmark in 2015.[316] Cumulative sales in the country reached 3,308 units through December 2015, of which, a record of 2,736 units were sold in 2015.[263] Sales plummeted to 49 cars in the first half year after the tax increase.[317]
+Germany
+Model S customers in Germany are offered a free optional high speed tuning for Autobahn driving. The company announced that by November 2013 the first Tesla stations would open between Munich and Stuttgart, Munich and Zurich, Switzerland, and Cologne and Frankfurt. Tesla Motors planned to cover more than 50% of Germany by the end of March 2014, and 100% by the end of 2014. Germany would then have the most Superchargers per capita of any country. German stations would support 135 kW charging.[318] By late 2013 Tesla announced a goal to sell 10,000 Model S in Germany in 2015.[319]
+A total of 183 units were registered in the country during 2013.[264] Registrations totaled 815 units in 2014, representing 2.7% of the luxury segment sales in the country.[265] As of November 2015[update], cumulative registrations totaled 2,354 units.[264][265][320]
+Netherlands
+The first deliveries in the country occurred on August 22, 2013, at Tesla's European Distribution Center in Tilburg.[53] A total of 1,194 units were sold in 2013.[251] After the end of the registration tax exemption, sales fell significantly, and only 262 units were sold during the first four months of 2014.[321] Sales in 2015 totaled 1,805 units.[253] The Model S is the all-time top selling all-electric car in the Netherlands with 5,622 cars registered at the end of September 2016.[254] As of October 2016[update], combined registrations of the Model S (5,681) and the Model X (250) represented 48.6% of the 12,196 all-electric cars on Dutch roads at the end of that month.[322]
+Norway
+The first delivery of a Model S in Europe took place in Oslo on August 7, 2013.[323] By the end of August 2013, Europe's first six charging stations were opened, in Lyngdal, Aurland, Dombs, Gol, Sundebru and Lillehammer.[201] That month 186 units were delivered, ranking second among all-electric cars behind the Nissan Leaf (448 units).[324] Sales surged in September totaling 616 units, beating the Leaf and achieving an overall new car market share of 5.1%.[16][17][18]
+As of December 2015[update], Norway is the second largest Model S market by volume, with about 9.4% of cumulative global sales.[24] Shown in Geiranger.
+In 2013, a five-month waiting list emerged creating a used market, with US$10,000 to US$20,000 premiums for a used model.[325][326] Sales dropped to 98 units in October,[327] before jumping back to 527 units in November, ranking it number two in new car registrations after the Volkswagen Golf.[328] In December, sales of 553 units made it the top-selling new car again and capturing a 4.9% market share of new car sales.[19] With less than five months of sales, the Model S ranked 20th for the year with a market share of 1.4% of Norwegian new car sales, Tesla's largest in Europe.[329][330]
+The Model S topped the monthly sales ranking for a third time in March 2014, with 1,493 units sold, breaking the 28-year-old monthly sales record, surpassing the Ford Sierra, which sold 1,454 units in May 1986.[331][332] Sales totaled 2,056 Model S cars during the first quarter of 2014, making the Model S the best selling new car in Norway during this period. The Model S captured a 5.6% market share of new car sales and 38.8% of the new plug-in electric car segment during this quarter.[331][333][334] By the end of 2014, the Model S ranked as the fifth best selling new car in the Norwegian market, with 4,040 units registered and a market share of 2.8% of new car sales in the country that year.[248]
+As of July 2014[update], Norway ranked as Tesla's largest overseas market, with an average of 436 Model S sedans sold per month since August 2013. In comparison, the average in the United States was about 1,630 units delivered per month since the electric car went on sales in 2012.[246] As of December 2015[update], Norway continued as the second largest Model S market by volume, with about 9.4% of cumulative global sales.[24] Since its introduction, a total of 11,802 new Model S cars have sold in Norway through October 2016.[247][248][249][335]
+Switzerland
+Retail deliveries began in August 2013,[230] and a total of 213 units were registered in 2013.[270] The Model S, with 496 units registered, ranked as the top selling plug-in electric car in the country in 2014.[336] With 835 units sold during the first seven months of 2015, the Model S outsold combined Swiss sales of the luxury segment including such models as the Mercedes S-Class, Audi A8 and BMW 7 Series during the same period.[337] Cumulative Model S sales totaled 3,060 units up until June 2016, which includes units sold in Liechtenstein.[270]
+United Kingdom
+Deliveries began in June 2014,[235] and a total of 698 units were registered in the UK by the end of 2014.[338] Pricing starts at GB54,380 before the GB5,000 Plug-in Car Grant. Model S owners are also exempted from the London congestion charge.[339] A total of 3,312 Model S sedans were registered in the UK at the end of June 2016.[269] During the first half of 2016, slightly more Model S cars were registered in the UK than in Norway, the leading Model S market in Europe. During the first six months of 2016 a total of 1,263 Model S sedans were registered in the UK and 1,248 in Norway.[340]
+North America[edit]
+Canada
+The first Model S sedans were delivered in December 2012. Cumulative sales totaled 3,590 units as of December 2015[update], and ranks as the second best-selling plug-in car in the country ever after the Chevrolet Volt (5,415) and ahead of the Nissan Leaf (3,198). The Model S was the top selling plug-in electric car in Canada in 2015 with 2,010 units sold.[262]
+Mexico
+Retail sales began in Mexico City in December 2015. Initially, no Supercharger stations are available in the country.[341]
+United States
+Personalized delivery of a Tesla Model S in the U.S.
+The first delivery took place on June 1, 2012.[342] Deliveries for retail customers in the United States started on June 22, at a special event held at the Tesla Factory in Fremont, California.[10] The first 1,000 production units were Signature and Signature Performance limited editions equipped with an 85kWh battery pack.[221] Cumulative sales passed the 50,000 unit milestone in early July 2015.[343]
+About 2,620 units were sold in the U.S. during 2012 out of 2,650 units delivered in North America.[221][245] California is the largest American regional market for the Model S.[301] In March 2013, Tesla reported the delivery of the 3,000th Model S in California, representing around 50% of US sales to that date.[344][345] During the first quarter of 2013 the Model S ranked as the top selling plug-in electric vehicle in the U.S. with about 4,900 units delivered, followed by the Chevrolet Volt with 4,244 units.[229][346][347] During 2013, the Model S was listed as the least stolen car in the United States, with a theft rating of just 0.15 per 1,000 units produced. By comparison, the U.S. average is 3.51 cars stolen per 1,000 produced. The Honda Accord was the most stolen car in the U.S. in 2013, with about 54,000 units, mostly models built in 2007 or before.[348]
+California is the top selling regional market of the Model S. Shown in San Francisco.[349]
+According to Edmunds.com, between January and August 2013 the Model S achieved a high market share of new car sales among the U.S. most expensive ZIP codes, as rated by Forbes, led by California. Atherton ranked first with a 15.4% share, followed by Los Altos Hills with 11.9%, and Portola Valley with 11.2%. During this period the Model S had the highest number of new passenger car registrations in 8 of the 25 most expensive American ZIP codes.[350] With 8,347 units sold in 2013, it was the third-best selling luxury car in California (after the Mercedes-Benz E-Class and BMW 5 Series sedans),[351] with a 9.8% share of the Californian luxury and sports segment.[352] As of November 2013[update], the Model S was available nationwide with California leading sales with a 48% share of national sales.[349] During the first nine months of 2015, with 7,736 units registered, the Model S captured a 11.4% market share of the luxury and sports segment in California and ranked third after the Mercedes-Benz E-Class (8,583) and BMW 5 Series (8,207).[353] The Model S was the top selling car in the luxury and sports segment in the first quarter of 2016, with a market share of 13.5% of the segment registrations in California.[354][355]
+American sales totaled about 18,650 units in 2013,[196][356] placing the Model S as the third selling plug-in electric car after the Chevrolet Volt (23,094) and the Nissan Leaf (22,610).[245] Also in 2013, the Model S was the top seller in the full-size luxury sedan category, ahead of the Mercedes-Benz S-Class at 13,303.[196] In 2014, 16,689 Model S sedans were delivered, down 10.5% from 2013, but the electric sedan ranked again as the third best selling plug-in car in the U.S.[226][356]
+In 2015 the Model S ranked as the top selling plug-in electric car in the U.S, with 25,202 delivered, surpassing both the Leaf (17,296) and the Volt (15,393).[27][28][226] The Model S was also the country's best-selling car in the large luxury segment among comparably priced four-door sedans, ahead of the Mercedes-Benz S-Class (21,934) and BMW 7 Series (9,292).[226] By the end of 2015, cumulative sales in the American market represented almost 60% of global sales since the introduction of the Model S.[24] According to Tesla, with 9,156 units sold in third quarter of 2016, up 59% from the same quarter in 2015, the Model S led sales in the large luxury car segments, representing almost a third of the segment sales, and ahead of the Mercedes-Benz S-Class (4,921) and the BMW 7 Series (3,634).[357] The Model S remained as the top selling plug-in electric in the American market during the first three quarters of 2016 with an estimated 20,856 units delivered.[258] An estimated 85,217 Model S cars have been sold in the United States through October 2016.[226][245][358]
+Owners
+Owners of the Model S are overwhelmingly male and over 45 years old.[359]
+Retail sales model
+Main article: Tesla sales model
+Tesla Motors sells its cars directly to consumers without creating a dealer network, as other manufacturers have done and as many states require by legislation. In support of its approach, the company has fought legal and legislative battles in Ohio, New Jersey, New York and other states.[360][361] With law changes in recent years in New Jersey, New York, Maryland, Ohio, and Pennsylvania the Tesla direct sales model is permitted in 22 states as of March 2015.[362][363] As of May 2015[update] the sales procedure in other states such as Texas is somewhat different with the Tesla salesperson being prevented from discussing prices, the actual sale having to be made online and the sales tax having to be paid up front. Delivery of a Tesla car to a Texas address is no different than in other states.[364] Consequently, while Tesla showcases and sells its cars directly to the consumer in Tesla Stores abroad, it operates a mix of Tesla Stores and Tesla Galleries in the US.[365]
+Pricing
+In June 2012, the Model S Signature model was priced at US$95,400 and the Signature Performance model at US$105,400.[216] On November 29, 2012, Tesla announced an all model price increase of US$2,500 for new reservations, starting January 1, 2013. The price of a pre-paid 60kWh replacement pack was US$10,000, while the 85kWh pack was priced at US$12,000, in 2013.[366] As of June 2014[update], the model with the 60kWh pack begins at US$69,900, the base model with the 85kWh pack starts at US$79,900, and the P85 performance model at US$93,400. As of April 2015[update], the Model S begins at US$75,000 for the 70kWh dual-motor edition, US$80,000 for the 85kWh single motor edition, US$85,000 for the 85kWh dual-motor edition, and US$105,000 for the 85kWh dual-motor performance edition. These prices do not reflect U.S. federal and local government tax credits or purchase incentives.[104]
+As of 2016[update], with the exception of used Teslas, all plug-in models depreciate more rapidly than conventionally powered cars and trucks, according to NerdWallet. For all-electric cars depreciation varies between 60% to 75% in three years. In contrast, most conventionally powered vehicles in the same period depreciate between 45% to 50%. However, the Tesla Model S is more like conventional cars, with three-year depreciation of about 40%.[367]
+According to Black Book, a three-year-old Model S sells for about 62% of its original price.[368] According to Autolist, a used Model S with 50,000mi (80,000km) on the odometer loses 28% value on average; less than similar cars.[369]
+Safety[edit]
+Tesla Model S P85+ (US)
+Safety features[edit]
+External video
+NHTSA Frontal crash test on YouTube
+NHTSA Side crash test on YouTube
+NHTSA Pole crash test on YouTube
+EuroNCAP crash test on YouTube
+Tesla EV Safety Training for rescuers on YouTube
+The Model S is one of just a few cars to have ever achieved a 5-star safety rating from both Euro NCAP and the U.S. National Highway Traffic Safety Administration (NHTSA).[370][371] Only two other cars have earned the same recognition since 2011 (when the NHTSA introduced its latest rating scheme).[372][unreliable source?]
+NHTSA[373]
+Euro NCAP[374]
+Overall
+Overall
+Frontal, driver
+Adult occupant
+31 pts / 82%
+Frontal, passenger
+Child occupant
+38 pts / 77%
+Side, driver
+Pedestrian
+24 pts / 66%
+Side, passenger
+Driver assist
+9 pts / 71%
+Side pole, driver
+Rollover
+/ 5.7%
+First crash with battery fire[edit]
+See also: Tesla Model S fire incidents
+The first widely reported Model S fire occurred several minutes after the vehicle hit metal debris on the Washington State Route 167 highway in Kent, Washington on October 1, 2013.[375] The driver "was able to exit the highway as instructed by the onboard alert system, bring the car to a stop and depart the vehicle without injury".[376] He then contacted authorities and, while awaiting their arrival, smoke began coming out the front of the vehicle. The driver stated that he hit something while exiting the HOV lane.[375][377][378] Tesla stated that the fire was caused by the "direct impact of a large metallic object to one of the 16 battery modules", and that by design, the modules were separated by firewalls, limiting the fire to "a small section in the front of the vehicle".[375]
+The module was evidently punctured by a "curved section" that fell off a truck and was recovered near the accident. Tesla stated that the debris punched a 3-inch (76mm) diameter hole through the .25-inch (6.4mm) armor plate under the vehicle, applying force of some 25 tons. Built-in vents directed the flames away from the vehicle so that the fire did not enter the passenger compartment. According to Tesla, the firefighters followed standard procedure; using large amounts of water to extinguish the fire was correct,[379] however, puncturing the metal firewall to gain access to the fire also allowed the flames to spread to the front trunk.[376] Tesla also stated that because the battery pack contains "only about 10% of the energy contained in a gasoline tank", the effective combustion potential of a single module is only about 1% that of a conventional vehicle.[376]
+On October 24, 2013, the U.S. National Highway Traffic Safety Administration (NHTSA) announced, "After reviewing all available data, the National Highway Traffic Safety Administration has not found evidence at this time that would indicate the recent battery fire involving a Tesla Model S was the result of a vehicle safety defect or noncompliance with federal safety standards."[380] But the following month, the NHTSA opened a preliminary evaluation to determine "the potential risks associated with undercarriage strikes on model year 2013 Tesla Model S vehicles".[381][382] On March 28, 2014, NHTSA closed its investigation, claiming that the new titanium underbody shield and aluminum deflector plates, along with increased ground clearance, "should reduce both the frequency of underbody strikes and the resultant fire risk".[383]
+Subsequent fires[edit]
+On November 6, 2013 another fire broke out after a Model S struck a tow hitch on the roadway, causing damage beneath the vehicle.[384] The incidents led Tesla to extend its vehicle warranty to cover fire damage and to apply a software update to increase ground clearance when operating at highway speed.[381][385]
+Another fire incident took place in Toronto, Canada, in early February 2014. The Model S was parked in a garage and was not charging when the fire started. The origin of the fire is undetermined.[386] According to Tesla "in this particular case, we don't yet know the precise cause, but have definitively determined that it did not originate in the battery, the charging system, the adapter or the electrical receptacle, as these components were untouched by the fire".[387]
+Starting with vehicle bodies manufactured as of 6 March 2014[update], all units were outfitted with a triple underbody shield. Existing cars were retrofitted upon request or as part of a normally scheduled service.[388][389]
+On 1 January 2016, a 2014 Model S caught fire in Norway while supercharging unsupervised. The vehicle was totally destroyed but nobody was injured.[390][391][392] The fire was slow, and the owner had time to unplug the car and retrieve possessions.[393] An investigation by the Norwegian Accident Investigation Board (AIBN) indicated that the fire originated in the car, but was otherwise inconclusive.[394] In March 2016, Tesla stated that their own investigation into the incident concluded that the fire was caused by a short circuit in the vehicle's distribution box, but that the amount of damage prevented them from determining the exact cause.[393] Tesla stated that the Supercharger detected the short circuit and deactivated, and a future Model S software update would stop the vehicle from charging if a short circuit is detected.[395]
+Recalls[edit]
+On November 20, 2015, Tesla announced a voluntary worldwide recall of all of its 90,000 Model S vehicles, in order to check for a possible defect in the cars' front seat belt assemblies. The problem was raised in early November by one customer in Europe. Tesla's resulting investigation was unable to identify a root cause for the failure, and the company decided to examine every single car. Tesla reported that there have been no accidents or injuries related to the problem.[396][397]
+Recognition[edit]
+Awards[edit]
+2013 AutoGuide.com Reader's Choice Car of the Year[398]
+2013 World Green Car of the Year.[399]
+Automobile Magazine's 2013 Car of the Year, a unanimous decision.[400]
+CNET Tech Car of the Year for 2012[401]
+Consumer Reports gave the Model S a score of 103 out of 100, its highest ever. The Model S broke the rating scale of Consumer Reports during its most recent test.[402]
+Consumer Reports' 2013 survey of owner satisfaction produced a score of 99 out of 100, "the highest the magazine has seen in years."[403] In 2014 the Model S topped for the second year in a row Consumer Reports survey of owner satisfaction. This time the Model S had a score of 98 out of 100.[404]
+Consumer Reports found the Model S to be 'Best Overall' for 2014 across all 10 categories of cars, light trucks and SUVs, chosen from more than 260 vehicles the organization has recently tested. The magazine considers the Model S a "technological tour de force, while pricey, is brimming with innovation."[405] In 2015 they rated the Model S at 103 (breaking the scale).[406][407]
+Green Car Reports' Best Car To Buy 2013[408]
+Motor Trend 2013 Car of the Year, also a unanimous decision and the first winner in the award's history to not be powered by an internal combustion engine.[409]
+Natural Resources Canada 2013 EcoENERGY for Vehicles Awards in the full-size category[410]
+Popular Science's Auto Grand Award Winner Best of What's New list 2012.[411]
+The Telegraph included the Model S in its list of the top 10 cars that changed the world published in December 2014, and also named the electric sedan the most important car of the last 20 years.[412][413]
+Time Magazine Best 25 Inventions of the Year 2012 award.[414]
+Yahoo! Autos 2013 Car of the Year.[415]
+American Automobile Association Green Car Guide 2015, top spot (P85D).[416] The Model S also won the 2014 AAA Green Car Guide.[417]
+Distance records[edit]
+As of August 2015[update], the distance record is 452.8mi (728.7km) in a Model S on a single charge. It was made by Norwegian Bjrn Nyland and his friend, Morgan Trvolt on a flat stretch with low traffic around the supercharger in Rdekro, Denmark. They used hypermiling techniques such as front motor only, low speed (39km/h) and no airconditioning.[418][419] The previous record was 425.8 miles (685.3km), made overnight on February 14, 2013 by Bruno Bowden.[420][421][422] The first record of 423.5 miles (681.6km) was set during November 2012 by David and Adam Metcalf.[423][424] These attempts were inspired by a blog written by Elon Musk about the planned range and efficiency of the Tesla Model S, offering a prize for anyone exceeding 400 miles (640km) on a single charge, where it was estimated the 85 kwh model could do it by driving at a constant 36mph (58km/h) under ideal conditions.[425]
+Controversies[edit]
+Range limitation[edit]
+On February 8, 2013, The New York Times published a review by John M. Broder about a trip between Washington, D.C., and Boston using Tesla's Supercharger network. At the time it included only two stations on the East Coast. Broder made a variety of critical claims about the battery's performance in cold weather and the distance between charging stations. The trip ended with the Model S carried by a flatbed truck to the Milford, Connecticut, station.[426]
+Tesla responded by publishing logs of the vehicle's charge levels and driving speed that contradicted Broder's account on several factual details.[427] Tesla implied that Broder's behavior forced the car to fail. Broder replied to the criticism in a blog post and suggested that the speed discrepancies may have been because the car had been equipped with 19-inch wheels rather than the specified 21-inch wheels.[428] In the midst of the controversy, a CNN reporter recreated Broder's trip without exhausting the battery. However, two key differences distinguished the two journeys. The weather was about 10F (6C) warmer and CNN did the trip in one day; the Times let the car sit overnight without being plugged in.[429] A reporter from CNBC also recreated the trip in one day without incidents.[430] One week later, a group of Tesla owners recreated Broder's trip without problems. One owner was delayed because his car failed to charge and required two firmware updates.[431][432]
+On February 18, 2013, New York Times Public Editor Margaret Sullivan published an editorial stating that Broder took "casual and imprecise notes" of his test drive and did not use good judgment, but she maintained that the article was done in good faith. She also claimed that Broder's vehicle logs were "sometimes quite misleading."[433][434][435]
+In July and September 2014 tests performed by an independent German car magazine in cooperation with the TV (German Association for Technical Inspection) and Tesla owners seemed to reveal issues with the battery's performance. According to the magazine, Tesla did not take up the invitation to repeat the test, and also seemed to refuse to offer vehicles for a second test.[436][437] A test performed by another German publication ("Die Welt") supported the findings.[438]
+NHTSA safest car[edit]
+On August 19, 2013, based on NHTSA safety ratings, a Tesla press release claimed that the Model S had achieved the best safety rating of any car ever tested. Tesla stated, "NHTSA does not publish a star rating above 5, however safety levels better than 5 stars are captured in the overall Vehicle Safety Score (VSS) provided to manufacturers, where the Model S achieved a new combined record of 5.4 stars."[439][440][441][442][443] However, a few days later NHTSA rebutted Tesla's claim, explaining that the rating for the Model S was equal to any other car receiving 5-stars, and claiming that the carmaker did not follow its advertising guidelines.[444][445][446]
+Power dissipation when not in use[edit]
+Older versions of the system software suffered from power drain issues when the car wasn't being used, with the batteries losing 4.5 kWh overnight (known commonly as "vampire drain").[447] System software v5.8 (v1.49.30), released December 12, 2013, reduced overnight energy loss substantially, to 1.1kWh per night, or around 3 miles.[92] In January 2014, Bjrn Nyland, a Model S owner in Norway, recorded a range loss of approximately 20% during a 27-day extended vacation, an indicated range loss of 63 miles (101km), or 2.3 miles (3.7km) per day, while stored in frigid temperatures without any charging cable attached.[448]
+Consumer Reports' recommendation[edit]
+In October 2015, two months after naming the Tesla 'the best car ever tested,' Consumer Reports declined to give the Tesla Model S a "recommended" designation, citing too many complaints from owners. Complaints ranged from minor, such as misaligned doors and squeaky body, to severe - things like total drive train replacement and inoperable door handles. Tesla's shares dropped 15%, both because of the magazine's cut and because of concerns over the Tesla Model X luxury SUV.[31][449] Similarly, Edmunds.com found quality and safety issues in their long-term road test and "amassed quite the repair rsum during the last 17 months."[450] Both Edmunds and Consumer Reports reported issues, including the vehicle stalling while driving.[451]
+In their 2016 Annual Auto Reliability Survey, Consumer Reports improved the Model S rating to average reliability, while reporting that the Model X has had significant malfunction issues. The magazine also raised "serious concerns about how some automakers, including Tesla, have designed, deployed, and marketed semi-autonomous technology."[32]
+Power discrepancy[edit]
+The P85D "Insane" was widely reported to have 691 horsepower,[452][453] but some owners reported 20% less power on dynamometer in various circumstances.[454][455]
+Manufacturers are required by EU law to display power "at full setting of the power controller" (from an external DC source when performing laboratory vehicle approval), but not necessarily to show power limited by battery. Other equipment must be removed, or their power added to the measurement.[456][457] Actual power available depends on circumstances,[456] as it does for piston cars[458] which until 1972 could be 2530% less than given.[459][460]
+As of November 2015[update], Tesla website shows battery-limited combined 463hp for P85D (532hp for "Ludicrous").[461][454]
+Autonomy limitations[edit]
+The autonomy features of the Model S, including Autosteer and Traffic-Aware Cruise Control, have limitations that have led to collisions when the driver becomes inattentive.[462] Tesla warns in the owners manual that drivers always must be aware of road conditions and not rely on the cruise control to prevent a collision,[463] as the system may not detect stationary vehicles or obstacles, bicycles, and pedestrians. However, critics such as scientist Andrew Ng have accused Tesla of being irresponsible by releasing a product with such limitations as it can lull drivers into a false sense of security.[464]
+Electrical consumption of Tesla Model S[edit]
+In early March 2016, a report by Stuff magazine revealed that test performed by VICOM, Ltd on behalf of Singapore's Land Transport Authority had found a 2014 Tesla Model S to be consuming 444Wh/km (0.715kWh/mi),[465][466] which was greater than the 236Wh/km (0.38kWh/mi) reported by the U.S Environmental Protection Agency (EPA)[467] and the 181Wh/km (0.291kWh/mi) reported by Tesla.[468] As a result, a carbon surcharge of S$15,000 (US$10,900) was imposed on the Model S, making Singapore the only country in the world to impose an environmental surcharge on a fully electric car.[469] The Land Transport Authority justified this by stating that it had to "account for CO2 emissions during the electricity generation process" and therefore "a grid emission factor of 0.5g/watt-hour was also applied to the electric energy consumption",[470] however Tesla Motors countered that when the energy used to extract, refine, and distribute gasoline was taken into account, the Model S produces approximately one-third the CO2 of an equivalent gasoline-powered vehicle.[468]
+Later that month, the Land Transport Authority released a statement stating that they and the VICOM Emission Test Laboratory will be working with Tesla engineers to determine if there was a flaw in the test,[471] and a Tesla statement indicated that the discussions were "positive" and that they were confident of a quick resolution.[468]
+See also[edit]
+Electric car use by country
+Government incentives for plug-in electric vehicles
+List of electric cars currently available
+List of fastest production cars by acceleration
+List of modern production plug-in electric vehicles
+List of production battery electric vehicles
+Revenge of the Electric Car
+Tesla Model X
+Tesla Model 3
+Tesla Roadster
+References[edit]
+^ a b Lam, Brian (2007-02-19). "Tesla Whitestar Electric Sedan: 4 Doors, Half the Price of the Roadster". Gizmodo.com. Retrieved 2012-05-06.
+^ a b Johnson, Merritt (2008-02-04). "Tesla Whitestar to be offered as both an EV and a REV". CNET News. Retrieved 2012-05-06.
+^ a b Abuelsamid, Samuel (2008-06-12). "Super-secret photo of Tesla Whitestar leaks out of San Carlos". Autoblog Green. Retrieved 2013-10-08.
+^ a b c d Markus, Frank (2012-06-22). "2012 Tesla Model S First Drive". Motor Trend. Retrieved 2012-06-22.
+^ a b "Model S Specs and Standard features". Tesla Motors. Retrieved 2013-08-08.
+^ "Model S Optionen und Preis" [Model S options and Price] (in German). Germany: Tesla Motors. Retrieved 2013-08-08.
+^ Sabatini, Jeff (November 2014). "2014 Tesla Model S 60 Full Test  Review". Car and Driver. Retrieved 2015-05-07.
+^ a b c Cantle, Chriss (2014-10-09). "Tesla Model S P85D: Dual motors, AWD, 691 hp, 3.2 to 60". Road & Track. Retrieved 2015-05-12.
+^ Sherman, Don (May 2015). "2015 Tesla Model S 70D". Car and Driver. Retrieved 2015-05-12.
+^ a b c John Boudreau (2012-06-22). "In a Silicon Valley milestone, Tesla Motors begins delivering Model S electric cars". San Jose Mercury News. Retrieved 2012-06-22.
+^ Carmichael, Joe (2016-08-23). "Elon Musk Announces New Crazy-Fast P100D Tesla Battery". Inverse. US. Retrieved 2016-08-24.
+^ a b c d "EPA rating for 85 kWh Tesla Model S: 89 MPGe, 265-mile range". Green Car Congress. 2012-06-21. Retrieved 2012-06-21.
+^ Voelcker, John (2012-06-20). "2012 Tesla Model S: EPA Range of 265 Miles, 89 MPGe Efficiency". Green Car Reports. Retrieved 2012-06-21.
+^ Blanco, Sebastian (2012-06-20). "Tesla Model S officially rated at 89 MPGe with 265-mile range". Autoblog Green. Retrieved 2012-06-21.
+^ U. S. Environmental Protection Agency and U.S. Department of Energy (2012-06-21). "Compare side-by-side: 2012 Tesla Model S". Fueleconomy.gov. Retrieved 2012-06-21.
+^ a b Grnn bil (2013-10-01). "Norges mest solgte bil i september er en elbil" [Norway's best selling car in September is an electric vehicle] (in Norwegian). Grnn bil. Retrieved 2013-10-02.
+^ a b Gasnier, Mat (2013-10-02). "Norway September 2013: Tesla Model S in pole position!". Best Selling Cars Blog. Retrieved 2013-10-02.
+^ a b Voelcker, John (2013-10-01). "Tesla Model S Was Best-Selling Car in Norway For September". Green Car Reports. Retrieved 2013-10-02.
+^ a b Mark Kane (2014-01-04). "Tesla Model S Again No. 1 in Overall Sales in Norway in December!". InsideEVs.com. Retrieved 2014-01-04.
+^ a b Christensen, Thomas Bo (2016-01-04). "Tesla blev Danmarks mest solgte bil i december" [Tesla was Denmark's best selling car in December]. Energi Watch (in Danish). Retrieved 2016-01-07.
+^ a b c Jeff Cobb (2015-12-15). "Tesla Model S Crossed 100,000 Sales Milestone This Month". HybridCars.com. Retrieved 2015-12-16.
+^ a b c "Tesla Third Quarter 2016 Update" (PDF). Tesla Motors. Palo Alto. 2016-10-26. Retrieved 2016-10-27.
+^ a b Cobb, Jeff (2016-07-26). "Top-Selling Chevy Volt Crosses 100,000 US Sales Milestone". HybridCars.com. Retrieved 2016-07-29.
+^ a b c d e f g h i Cobb, Jeff (2016-01-12). "Tesla Model S Was World's Best-Selling Plug-in Car in 2015". HybridCars.com. Retrieved 2016-01-13.
+^ a b c Jeff Cobb (2015-02-11). "2014's Top-10 Global Best-Selling Plug-in Cars". HybridCars.com. Retrieved 2015-02-11. A total of 31,655 units were sold worldwide in 2014. Global cumulative sales since June 2012 totaled 56,782 Model S cars by the end of 2014.
+^ a b Kane, Mark (2016-11-05). "World's Top 10 Selling EVs Led By The Tesla Model S After Strong September". EV Sales Blog. InsideEVs.com. Retrieved 2016-11-06.
+^ a b Cobb, Jeff (2016-01-06). "December 2015 Dashboard". HybridCars.com and Baum & Associates. Retrieved 2016-01-08.
+^ a b Jeff Cobb (2015-10-06). "Tesla Model S is America's Best-Selling Plug-in Car This Year". HybridCars.com and Baum & Associates. Retrieved 2015-10-06.
+^ a b Cobb, Jeff (2016-08-10). "Global 10 Best-Selling Plug-In Cars Are Accelerating Forward". HybridCars.com. Retrieved 2016-08-24. As of June 2016[update], cumulative global sales of the top selling plug-in electric cars were led by the Nissan Leaf (over 228,000), followed by the Tesla Model S (129,393), Votl/Ampera family (about 117,300), Mitsubishi Outlander PHEV (about 107,400), Toyota Prius PHV (over 75,400), BYD Qin (56,191), Renault Zoe (51,193), BMW i3 (around 49,500), Mitsubishi i-MiEV family (about 37,600) and BYD Tang (37,509).
+^ Sherman, Don. "2015 Tesla Model S 70D". Tesla Model S. Car and Driver. Retrieved 2015-07-30.
+^ a b "Consumer Reports Cuts Tesla From Its Recommended List Over Reliability". Yahoo!. Retrieved 2015-10-27.
+^ a b "Consumer Reports Car Reliability Survey 2016". Consumer Reports. 2016-10-24. Retrieved 2016-10-24.
+^ "Tesla Motors Model S". Tesla Model S. Official Site. Retrieved 2016-04-13.
+^ O'Kane, sean (2016-06-09). "Tesla just released two cheaper versions of the Model S". The Verge. US. Retrieved 2016-06-09.
+^ a b c Lambert, Fred (2016-08-24). "Tesla's new Model S P100D is not only quick, it's the first all-electric car with over 300 miles of range". Eleckrek. Retrieved 2016-09-08.
+^ Wert, Ray (2007-02-20). "Darryl Siry responds to rumor on Jalopnik forum". Jalopnik.com. Retrieved 2010-11-27.
+^ Richard, Michael Graham (2008-06-30). "Tesla's Next Electric Car to be Called "Model S", New Factory to Open in North California". TreeHugger.com. Retrieved 2012-05-06.
+^ Monticello, Mike (2008-10-23). "Tesla Builds a 4-Door  New and Future Cars". Road & Track (Hachette Filipacchi Media, U.S., Inc.). Retrieved 2011-05-04.
+^ "Tesla debuts electric car for the masses". CBC News. 2009-03-27. Retrieved 2009-03-28.
+^ Kanellos, Michael (2008-02-01). "Tesla to make gas-electric car". News.com. Retrieved 2010-11-27.
+^ "Tesla Kills Its Gas-Electric Hybrid". Greenlight.greentechmedia.com. 2008-09-18. Retrieved 2010-11-27.
+^ Severns, Dave. "Tesla Motors blog post regarding Albuquerque decision". Teslamotors.com. Retrieved 2010-11-27.
+^ "Tesla Motors press release  announcement of Albuquerque plant". Teslamotors.com. Retrieved 2010-11-27.
+^ "The Albuquerque Tribune Editorial: Don't hold your breath on Tesla Motors plant". Abqtrib.com. Retrieved 2010-11-27.
+^ "Tesla to build electric car factory in Bay Area". San Jose Mercury News. Retrieved 2010-11-27.
+^ "Tesla Wants NUMMI Operational By 2012". Ktvu.com. 2010-05-20. Retrieved 2010-11-27.
+^ "Tesla Model S one billion miles". Western Morning News. 2015-06-23. Retrieved 2015-06-23.
+^ a b c Cobb, Jeff (2015-06-23). "Happy 3rd Birthday Tesla Model S: Fleet Is First To Travel One Billion Miles". HybridCars.com. Retrieved 2015-06-23.
+^ van Leeuwen, Andrew (2016-03-10). "World-first electric GT series launched". Motorsport. Retrieved 2016-03-15.
+^ Korosec, Kirsten (2016-04-12). "Tesla's Model S Will Look Different Starting Today". Fortune (magazine). Retrieved 2016-05-09.
+^ "Tesla Motors 10-k Page 42". 2015-02-26. Retrieved 2015-03-23.
+^ King, Danny (2012-12-13). "Tesla will assemble, distribute vehicles in Holland for European market". Autoblog Green. Retrieved 2012-12-23.
+^ a b Willebrands, Michiel (2013-08-22). "Tesla opent assemblagecentrum in Tilburg" [Tesla opens assembly center in Tilburg] (in Dutch). Auto Week Netherlands. Retrieved 2013-10-07.
+^ Rogowsky, Mark (2014-02-05). "Musk: 'We Hope The Big Car Companies Do Copy Tesla'". Forbes. Retrieved 2014-09-05.
+^ a b Blankenship, George (2012-08-21). "Inside Tesla". Tesla Motors. Retrieved 2012-08-24.
+^ Gordon-Bloomfield, Nikki (2015-05-06). "Tesla Motors Posts Q1 2015 Losses, Due to Strong Dollar, High Capital Expenditures. Hits 1,000 Car/Week Model S Production". Transport Evolved. Retrieved 2015-05-08.
+^ a b c d e Jake Spring (2015-10-23). "CORRECTED-(OFFICIAL)-UPDATE 2-Tesla CEO says negotiating with China on local production". Reuters. Retrieved 2015-10-24. Tesla sold sold 3,025 Model S cars in China from January to September 2015.
+^ Yu, Rose (2015-10-23). "Tesla Aims to Build Its Electric Cars in China". The Wall Street Journal. Retrieved 2015-10-25.
+^ Loveday, Eric (2015-10-26). "Elon Musk Tweets: Model 3 To Launch In ~2 Years  China & Europe Could Get Factories To Support Demand". InsideEVs.com. Retrieved 2015-10-27.
+^ "2016 Tesla Model S (70 kW-hr battery pack) [click "Specs"]". U.S. Department of Energy. Retrieved 2016-08-11.
+^ "Fuel Economy of 2016 Luxury Sedans with MPG >= 45". U.S. Department of Energy. Retrieved 2016-08-11.
+^ Thiel, Christian; Krause, Jette; Dilara, Panagiota (2015). "Electric vehicles in the EU from 2010 to 2014 - is full scale commercialisation near?" (PDF). European Commission Joint Research Centre. pp.9, 1516. Retrieved 2016-08-12.
+^ Fergusson, Malcolm (2015). "How clean are Europe's cars?" (PDF). European Federation for Transport and Environment. p.14. Retrieved 2016-08-12.
+^ a b Kraftfahrt-Bundesamt (KBA) (January 2016). "Neuzulassungen von Personenkraftwagen nach Segmenten und Modellreihen im Dezember 2015" [New registrations of passenger cars by segments and models in December 2015] (PDF) (in German). KBA. Retrieved 2016-01-18. A total of 1,582 Model S cars were registered in Germany in 2015.
+^ a b "Model S Specifications". Tesla Motors. Retrieved 2015-12-05.
+^ "Tesla Model S first drive". CNET. Retrieved 2013-01-28.
+^ Berman, Bradley (2012-09-28). "One Big Step for Tesla, One Giant Leap for E.V.'s". The New York Times. Retrieved 2012-09-29.
+^ Sherman, Don (June 2014). "Drag Queens: Aerodynamics Compared  Comparison Test". Car and Driver. Retrieved 2014-06-09.
+^ "front/rear differential?". Tesla Forums. 2014-08-07. Retrieved 2015-08-30.
+^ a b Tingwall, Eric (June 2015). "2015 Tesla Model S P85D - Driving 40,000 miles, 250 miles at a time.". Car and Driver. Archived from the original on 2015-09-28.
+^ Shahan, Zachary (2015-09-23). "JB Straubel Answers (Trolls?) Tesla Horsepower Critics". Clean Technica.
+^ "Tesla Model S Performance  Battery". Tesla Motors. Retrieved 2012-06-22.
+^ Davies, Alex (2015-07-17). "Tesla's New 'Ludicrous Mode' Makes the Model S a Supercar". Wired. Retrieved 2015-09-11.
+^ Eisenstein, Paul A. (2015-07-17). "When 'Insane Mode' Isn't Enough  Tesla Adds "Luuudicrous Mode"". The Detroit Bureau.
+^ Tingwall, Eric (2016-05-20). "2015 Tesla Model S P85D - Not quite weatherproof". Car and Driver. US. Retrieved 2016-05-20.
+^ a b "Tesla Model S battery pack data shows very little capacity loss over high mileage". Electrek. 2016-06-06. Retrieved 2016-08-20.
+^ a b c d Blanco, Sebastian (2015-07-17). "Tesla announces Model S Ludicrous upgrade, 90-kWh battery". Autoblog. Retrieved 2015-07-17.
+^ Alspach, Kyle (2014-10-09). "New Tesla Is Way More Robotic and Also One of the Fastest Sedans on the Planet". BostInno.
+^ a b Davies, Alex (2014-10-10). "The Model D Is Tesla's Most Powerful Car Ever, Plus Autopilot". Wired. Retrieved 2014-10-11.
+^ "Tesla Model D: Elon Musk's new electric car is company's most powerful yet". The Independent. 2014-10-10.
+^ a b Noland, David (2014-11-11). "2014 Tesla Model S: 2014 Tesla Model S: Killing 3 Versions, 2 Colors, Some Options". Green Car Reports. Retrieved 2014-11-27.
+^ Bruce, Chris (2015-04-08). "Tesla adds Model S 70D with all-wheel drive to lineup for $75k*". AutoBlog. Retrieved 2015-04-17.
+^ a b "Model S Design Studio; Tesla Motors". my.teslamotors.com. Retrieved 2015-07-07.
+^ Weintraub, Seth (2016-06-09). "Tesla's new 60kWh pricing option is a software revolution, here are the exclusive details". Electrek. US. Retrieved 2016-06-09.
+^ O'Kane, Sean (2016-06-09). "Tesla just released two cheaper versions of the Model S". The Verge. Vox Media. Retrieved 2016-06-11.
+^ a b c d "Tesla Model S P100D". www.deeptread.com. Deep Tread. Retrieved 2016-09-17.
+^ "New Tesla Model S Now the Quickest Production Car in the World". www.tesla.com. Retrieved 2016-09-17.
+^ Voelcker, John (2012-12-07). "Tesla Model S 60-kWh Version: EPA Range Rated At 208 Miles". Green Car Reports. Retrieved 2012-12-07.
+^ Ingram, Antony (2013-01-02). "Tesla Model S Owner Drives Coast To Coast Electrically (Again)". Green Car Reports. Retrieved 2013-01-09.
+^ Fowler, Steve (2014-07-21). "Elon Musk: Tesla boss on EVs with 500-mile range and colonies on Mars". Auto Express. Retrieved 2016-01-02.
+^ Elon Musk interesting interview at TED. 2015-04-22  via YouTube.
+^ a b Nolan, David (2013-12-06). "Life With Tesla Model S: Electric-Draw Vampire Slain, At Last". Green Car Reports. Retrieved 2013-12-09.
+^ a b Roper, L. David. "Tesla Model S Data". Retrieved 2015-04-05.
+^ Musk, Elon (2013-10-04). "Model S Fire". Tesla Motors. Retrieved 2014-02-20.
+^ Cunningham, Wayne (2010-10-06). "Tesla Model S: The battery pack". C|Net. Retrieved 2014-02-20.
+^ stopcrazypp. "NHTSA Opened Up the Model S Battery Pack  Pics". Tesla Motors Club Forum. Retrieved 2014-02-20. We know from the diagnosis screen that the 85kWh pack has 16 modules with 6 groups in series (so 96 groups in series):[1]
+^ a b US patent 8286743, Rawlison, Peter Dore, "Vehicle Battery Pack Ballistic Shield", issued 2012-10-16
+^ US patent 2007009787, "Method and Apparatus for Mounting, Cooling, Connecting, and Protecting Batteries", issued 2007-1-11
+^ Beltran, Balbino A.; Dunlap, Michael L.; Richardson, Frank D. (2013-08-07). "REPORT NUMBER: NCAP305I-KAR-13-054 NEW CAR ASSESSMENT PROGRAM (NCAP) FMVSS NO. 305 INDICANT TEST TESLA MOTORS, INC. 2013 TESLA MODEL S 5-DOOR HATCHBACK NHTSA NUMBER: MD5001" (NCAP305I-KAR-13-054). U.S. Department of Transportation, National Highway Safety Adminitstration: A-13. Retrieved 2014-02-20.
+^ Josie Garthaite (2012-06-23). "Leaving Baggage on the Dock, a Flagship Departs From California". The New York Times. Retrieved 2012-06-24.
+^ Carlson, Randy (2015-03-02). "Tesla: Gigafactory Tipping Point". Seeking Alpha. Retrieved 2015-07-08.
+^ Edelstein, Stephen (2015-09-24). "Tesla Model 3 Will Benefit From Lowest Battery Costs of Any Maker: Jefferies". Green Car Reports. Retrieved 2015-11-06.
+^ a b Noland, David (2015-02-17). "Tesla Model S Battery Life: How Much Range Loss For Electric Car Over Time?". Green car reports. Retrieved 2016-02-23.
+^ a b c d "Model S/Options and pricing". Tesla Motors. Retrieved 2014-06-14.
+^ "Service plans". Tesla Motors. Archived from the original on 2016-08-05. Retrieved 2016-08-05.
+^ "Tesla Model S battery degradation shown to level off at 5% after 30,000 miles". Electrek. 2015-05-08. Archived from the original on 2015-09-10.
+^ Steinbuch, Maarten (2015-01-24). "Tesla Model S battery degradation data". Retrieved 2016-02-23.
+^ George Blankenship (2012-11-29). "2013 Model S Price Increase | Tesla Motors". Tesla Motors. Retrieved 2012-11-29. See more details in Press Release.
+^ "2013 Tesla Model S (40 kW-hr battery pack)". fueleconomy.gov. Retrieved 2016-01-13.
+^ "Tesla Model S Sales Exceed Target" (Press release). Tesla Motors. 2013-03-31. Retrieved 2013-04-26.
+^ "Introducing the All-Wheel Drive Model-S 70D". Tesla Motors. 2015-04-08. Retrieved 2015-04-08.
+^ "Tesla Motors (TSLA) Earnings Report: Q1 2015 Conference Call Transcript". TheStreet. 2015-05-07. p.8. Retrieved 2015-05-11.
+^ "Tesla Motors (TSLA) Earnings Report: Q1 2015 Conference Call Transcript". TheStreet. 2015-05-07. p.9. Retrieved 2015-05-11.
+^ "Model S Design Studio | Tesla Motors". my.teslamotors.com. Retrieved 2015-08-10.
+^ a b Musk, Elon (2015-07-17). "Three Dog Day" (Press release). Tesla Motors.
+^ "Model S Specs and Standards". Tesla Motors. Retrieved 2012-06-04.
+^ LeVine, Steve (2015-07-21). "Why did Elon Musk pass up a chance to boast about a scientific coup?". Quartz. Retrieved 2015-07-23.
+^ "Elon Musk's recent "Ludicrous" announcement hints at more synergy between Tesla and SpaceX". Electrek. Archived from the original on 2015-09-12.
+^ Ayre, James (2016-02-09). "Tesla Pulls 85 kWh Battery Option From US Design Studio". evobsession.com. Retrieved 2016-03-06.
+^ Hanley, Steve (2016-03-06). "Breaking News: Tesla P100D Is On The Way". gas2.org. Retrieved 2016-03-06.
+^ "Tesla's vision of an all-electric car future is still years off". Retrieved 29 August 2016.
+^ "Audi A3 Sportback e-tron (2017)". Retrieved 2016-09-17.
+^ Hardman, Scott; Tal, Gil (2016). "Exploring the Decision to Adopt a High-End Battery Electric Vehicle: Role of Financial and Nonfinancial Motivations". Transportation Research Record: Journal of the Transportation Research Board. US. 2572: 2027. doi:10.3141/2572-03. Retrieved 2016-09-17.
+^ a b c d U. S. Environmental Protection Agency and U.S. Department of Energy (2015-12-30). "2015 Tesla Model S (85 kW-hr battery pack); 2014 Tesla Model S AWD (85 kW-hr battery pack); 2015 Tesla Model S AWD  85D; and 2015 Tesla Model S AWD  P85D". Fueleconomy.gov. Retrieved 2015-12-30.
+^ U. S. Environmental Protection Agency and U.S. Department of Energy (2015-01-26). "2014 Tesla Model S (60 kW-hr battery pack); 2014 Tesla Model S (85 kW-hr battery pack); 2014 Tesla Model S AWD (85 kW-hr battery pack)". Fueleconomy.gov. Retrieved 2015-01-26.
+^ "2013 Tesla Model S (40 kW-hr battery pack)".
+^ a b c d ""Model S". Australia: Tesla Motors. Retrieved 2015-04-01.
+^ "An Update to Our Supercharging Program" (Press release). Tesla Motors. 2016-11-07. Retrieved 2016-11-09.
+^ a b c d e f g h United States Environmental Protection Agency and U.S. Department of Energy (2015-08-12). "Model Year 2015 Fuel Economy Guide - Electric vehicles & Plug-in Hybrid Electric Vehicles" (PDF). fueleconomy.gov. Retrieved 2015-08-17. pp. 32
+^ U. S. Environmental Protection Agency and U.S. Department of Energy (2012-12-05). "2013 Tesla Model S (60 kWh battery pack)". Fueleconomy.gov. Retrieved 2012-12-07.
+^ a b c d U. S. Environmental Protection Agency and U.S. Department of Energy (2015-12-30). "Compare Side-by-Side - 2015 Tesla Model S 60 kWh/AWD - 70D/AWD - 90D/AWD - P90D". Fueleconomy.gov. Retrieved 2015-12-30.
+^ U. S. Environmental Protection Agency and U.S. Department of Energy (2012-06-27). "2012 Tesla Model S". Fueleconomy.gov. Retrieved 2012-06-27.
+^ a b David Biello. "How Tesla Motors Builds One of the World's Safest Cars [Video]". Scientific American.
+^ "Suspension". 2014-02-04. Retrieved 2016-06-05. The Lotus Elise has a kinematic roll center height of 30mm above the ground and a center of gravity height of 470mm. The Lotus Elise RCH is 6% the height of the CG, meaning 6% of lateral force is transferred through the suspension arms and 94% is transferred through the springs and dampers.
+^ 2015 Dodge Charger SRT Hellcat vs. 2015 Tesla Model S P85D! - Head 2 Head Ep. 65 at 14m. Motor Trend Channel, 2015-04-29
+^ Read, Richard (2013-08-20). "Tesla Model S: So Safe, It Broke NHTSA's Testing Equipment". TheCarConnection.com. Retrieved 2015-09-01. NHTSA's normal tests couldn't induce the car to flip, so the agency had to resort to "special means". Tesla credits the sedan's battery pack for that, which gives the Model S a very low center of gravity
+^ a b Antony Ingram. "Tesla Models S Gets Highest Safety-Test Score Ever Awarded By NHTSA". Green Car Reports.
+^ Tesla Model S Production Forum 720p HD. 2014-11-30. 16 minutes in. Retrieved 2015-07-08  via YouTube. The battery adds strength and rigidity to the car and lowers its center of gravity. This improves the Model S traction and handling as well as its safety rating
+^ Tesla Model S - Battery Swap HD Official. 2013-06-21. 7 minutes in. Retrieved 2015-09-01  via YouTube. Model S is designed to allow a fast battery swap, exchanging your battery for a fully charged battery in less than half the time it takes to refill a gas tank.
+^ "Tesla Model S Owner's Manual" (PDF). Tesla Motors. Retrieved 2015-07-09.
+^ a b c "Charge your Model S  Adapter Guide, High Power Charging, and Supercharge". Tesla Motors. Retrieved 2012-06-23.
+^ "Tesla Charging - Tesla Motors Europe". Tesla Motors. Retrieved 2015-07-28.
+^ Dan Edmunds (2012-09-26). "2012 Tesla Model S Signature Performance Suspension Walkaround". Edmunds.com. Retrieved 2015-03-21.
+^ Gabe Nelson (2014-03-28). "NHTSA closes Tesla fire inquiry as Model S gets new battery shield". Automotive News. Retrieved 2015-03-21.
+^ Kirsten Korosec (2014-09-19). "Potholes and Tesla's Model S: Never the twain shall meet". Fortunes. Retrieved 2015-03-21.
+^ Isidore, Chris (2016-07-18). "Elon Musk says Autopilot upgrade could be coming". US: CNN. Retrieved 2016-07-19.
+^ Musk, Elon (2016-07-17). "Twitter". Retrieved 2016-07-19.
+^ "Riding shotgun in Tesla's fastest car ever". Engadget. Retrieved 2014-10-10.
+^ "Tesla D is, as expected, an AWD Model S but new autopilot features surprise". AutoblogGreen. Retrieved 2014-10-10.
+^ White, Joseph B. (2014-10-10). "Tesla Aims to Leapfrog Rivals". The Wall Street Journal. Retrieved 2015-03-21.
+^ Epstein, Zach (2016-07-21). "Tesla Autopilot Crash Avoidance Model S Autopilot saves man's life". BGR. Retrieved 2016-08-26.
+^ Hirsch, Jerry (2015-03-19). "Elon Musk: Model S not a car but a 'sophisticated computer on wheels'". Los Angeles Times. Retrieved 2015-04-18.
+^ Carmichael, Joe (2016-08-23). "When Will Elon Musk Announce Autopilot 2.0 and the Model 3 HUD?". Inverse. Retrieved 2016-09-15.
+^ McMahon, Jeff (2016-08-04). "Software Is The Last Obstacle To Fully Autonomous Vehicles, Elon Musk Says". Forbes. US. Retrieved 2016-09-15.
+^ Charlton, Alistair (2016-06-13). "Tesla Autopilot is 'trying to kill me', says Volvo R&D chief". International Business Times. Retrieved 2016-07-01.
+^ Golson, Jordan (2016-04-27). "Volvo autonomous car engineer calls Tesla's Autopilot a 'wannabe'". The Verge. Retrieved 2016-07-01.
+^ Korosec, Kirsten (2015-12-15). "Elon Musk Says Tesla Vehicles Will Drive Themselves in Two Years". Fortune (magazine). Retrieved 2016-07-01.
+^ Abuelsamid, Sam (2016-07-01). "Tesla Autopilot Fatality Shows Why Lidar And V2V Will Be Necessary For Autonomous Cars". Forbes. Retrieved 2016-07-01.
+^ a b "Autopilot: Full Self-Driving Hardware on All Cars". Tesla Motors. Retrieved 2016-10-21.
+^ Guess, Megan (2016-10-20). "Teslas will now be sold with enhanced hardware suite for full autonomy". Ars Technica. Retrieved 2016-10-20.
+^ a b Yadron, Danny; Tynan, Dan (2016-07-01). "Tesla driver dies in first fatal crash while using autopilot mode". The Guardian. San Francisco. Retrieved 2016-07-01.
+^ a b Vlasic, Bill; Boudette, Neal E. (2016-06-30). "Self-Driving Tesla Involved in Fatal Crash". The New York Times. Retrieved 2016-07-01.
+^ Morris, David Paul (2016-07-01). "Highway patrol found DVD player in wreckage of fatal Tesla accident". Associated Press. CNBC. Retrieved 2016-07-01.
+^ Office of Defects Investigations, NHTSA (2016-06-28). "ODI Resume - Investigation: PE 16-007" (PDF). U.S.: National Highway Traffic Safety Administration (NHTSA). Retrieved 2016-07-02.
+^ Shepardson, David (2016-07-12). "NHTSA seeks answers on fatal Tesla Autopilot crash". Automotive News. Retrieved 2016-07-13.
+^ "A Tragic Loss" (Press release). Tesla Motors. 2016-06-30. Retrieved 2016-07-01. This is the first known fatality in just over 130 million miles where Autopilot was activated. Among all vehicles in the US, there is a fatality every 94 million miles. Worldwide, there is a fatality approximately every 60 million miles.
+^ Simonite, Tom (2016-07-06). "Tesla's Dubious Claims About Autopilot's Safety Record". MIT Technology Review. US. Retrieved 2016-07-07.
+^ "NVIDIA Powers Digital Dashboard in New Tesla Motors Electric Sedan" (Press release). NVidia. 2012-06-21. Retrieved 2013-01-14.
+^ Arik Hesseldahl. "What's Inside the Tesla Model S Dashboard". Re/code.
+^ Buckley, Sean (2013-01-08). "Audi to take NVIDIA powered MIB systems global, drive Tegra through Asian, North American markets". Engadget. Retrieved 2013-01-14.
+^ "Visual Computing Module" (Press release). NVIDIA. Retrieved 2013-01-14.
+^ Tesla Model S First Look. PhoneDog.com. Retrieved 2014-02-13.
+^ Olsen, Stein Jarle (2015-03-19). "TESLA MODEL S  Slik vil Tesla gjre slutt p rekkeviddeangsten" [Tesla Model S  How will end the Tesla range anxiety]. Teknisk Ukeblad (in Norwegian). Retrieved 2015-04-06.
+^ "2015 Annual Shareholder Meeting" (Press release). Tesla Motors.
+^ "Tesla Model S owners hack their cars, find Ubuntu". Autoblog. 2014-04-12. Retrieved 2015-07-16.
+^ "Successful connection on the Model S internal Ethernet network". teslamotorsclub.com. 2014-03-02. Retrieved 2015-07-16.
+^ Gabe Shenhar (2013-03-19). "Our Tesla Model S gets a third-row seat and now seats seven". Consumer Reports. Retrieved 2013-05-12.
+^ "Elon Musk Reveals the Car of the Future, and It Is Glorious". Inc.com. Associated Press. 2014-10-10. Retrieved 2015-03-21.
+^ Cantle, Chris. "Tesla Model S P85D: Dual motors, AWD, 691 hp, 3.2 to 60". Road & Track. Retrieved 2015-04-18.
+^ Dow, Jameson (2016-11-04). "Tesla adds new "Glass Roof" Model S option; discontinues P90D". Electrek. Retrieved 2016-11-04.
+^ "Tesla Model S Specs and Standard Features".
+^ a b "Tesla Service". Tesla Motors. Retrieved 2012-12-14.
+^ a b Elon Musk (2013-04-26). "Tesla Blo - Creating the World's Best Service and Warranty Program". Tesla Motors. Retrieved 2012-12-14.
+^ a b "Model S new vehicle limited warranty for North America" (PDF). Tesla. 2015. p.3. Retrieved 2015-03-12.
+^ Valdes-Dapena, Peter (2013-04-26). "Tesla offers idiot-proof battery warranty". CNN. Retrieved 2013-07-25.
+^ "Model S Quick Guide" (PDF). Tesla. 2013. Retrieved 2014-04-01.[dead link]
+^ Eric Loveday (2014-02-11). "Nissan LEAF Has Smallest Lifecycle Footprint of Any 2014 Model Year Automobile Sold in North America". Inside EVs. Retrieved 2014-02-22.
+^ Automotive Science Group (ASG) (2014-02-04). "Life-cycle Assessment of 1,300 Models Reveals Best of 2014". ASG Press Room. Retrieved 2016-03-31.
+^ Nealer, Rachael; Reichmuth, David; Anair, Don (November 2015). "Cleaner Cars from Cradle to Grave: How Electric Cars Beat Gasoline Cars on Lifetime Global Warming Emissions" (PDF). Union of Concerned Scientists (UCS). Retrieved 2014-11-22.
+^ Sebastian Blanco (2015-11-17). "UCS: Well-to-wheel, EVs cleaner than pretty much all gas cars". Autoblog (website). Retrieved 2015-11-22.
+^ Barnard, Mike (2016-04-22). "The Carbon Footprint Of Tesla Manufacturing". Forbes. Retrieved 2016-10-18.
+^ "Tesla's Closed Loop Battery Recycling Program". Tesla Motors. 2011-01-26. Retrieved 2016-10-18.
+^ "Mythbusters Part 3: Recycling our Non-Toxic Battery Packs - Tesla Motors". teslamotors.com. 2008-03-11. Archived from the original on 2015-05-05.
+^ Katie Spence (2014-02-09). "Will Battery Recycling Help Tesla Motors' Massive Shortcoming?". fool.com. Archived from the original on 2014-08-19.
+^ "The Electric Vehicle Battery 'Can And Should Be Recycled'". CleanTechnica. 2015-07-23.
+^ a b c Mark Rogowsky (2014-01-16). "Tesla Sales Blow Past Competitors, But With Success Comes Scrutiny". Forbes. Retrieved 2014-01-17. About 18,000 units were sold in the U.S. in 2013.
+^ "Supercharger". teslamotors.com. Retrieved 2014-08-14.
+^ a b "Tesla launches first six Supercharger locations; 100 kW charging, with 120kW in future". Green Car Congress. 2012-09-25. Retrieved 2012-12-23.
+^ a b Jeff Cobb (2012-10-12). "First Tesla Superchargers Open October 19". HybridCars.com. Retrieved 2012-12-23.
+^ a b Jim Motavalli (2012-12-21). "Tesla Begins East Coast Fast-Charging Corridor". The New York Times. Retrieved 2012-12-23.
+^ a b Mark Kane (2013-08-30). "First Six Tesla Supercharger Stations Up And Runing(sic) in Norway; ~ 120 kW of Power". InsideEVs.com. Retrieved 2013-09-01.
+^ a b c "Tesla Motors, Inc.  Third Quarter 2013 Shareholder Letter" (PDF). Tesla Motors. 2013-11-05. Retrieved 2013-11-06.
+^ Kane, Mark (2014-11-13). "Supercharging Tesla Model S 60 kWh Versus 85 kWh - Video + Graphs". Inside EVs. US. Retrieved 2016-08-20.
+^ Godske, Bjrn (2014-10-12). "Tesla gr Kge til knudepunkt for hurtigopladning" [Tesla makes Kge a hub for fast charging] (in Danish). Ingeniren. Retrieved 2015-03-12.
+^ "Tesla Supercharger: An In-Depth Look". Motor Trend. Retrieved 2013-04-01.
+^ "Supercharger". Tesla Motors. Retrieved 2015-07-28.
+^ "Model S Tesla Motors". Tesla Motors. Retrieved 2015-05-17.
+^ "Tesla Gear Shop - Enable Supercharging". Retrieved 2015-05-17.
+^ "Tesla Model S Sales Exceed Target" (Press release). Tesla Motors. 2013-03-31. Retrieved 2013-04-01.
+^ Sebastian Blanco (2009-09-27). "REPORT: Tesla Model S was designed with battery swaps in mind". Autoblog Green. Retrieved 2013-06-22.
+^ a b Mark Rogowsky (2013-06-21). "Tesla 90-Second Battery Swap Tech Coming This Year". Forbes. Retrieved 2013-06-22.
+^ "Tesla Motors demonstrates battery swap in the Model S". Green Car Congress. 2013-06-21. Retrieved 2013-06-22.
+^ Cunningham, Wayne (2014-12-19). "Tesla tentatively tests battery swap plan". CNET. Retrieved 2014-12-20.
+^ "Tesla Motors (TSLA) Earnings Report: Q1 2015 Conference Call Transcript". TheStreet. 2015-05-07. p.2. Retrieved 2015-05-11.
+^ Robert Sorokanich. "Musk: Tesla "unlikely" to pursue battery swapping stations". Road & Track.
+^ a b Antony Ingram (2012-06-04). "Want A 2013 Tesla Model S Signature Edition? Too Late, They're All Gone". Green Cars Reports. Retrieved 2012-06-21.
+^ Josie Garthwaite (2011-05-06). "Tesla Prepares for a Gap as Roadster Winds Down". The New York Times. Retrieved 2011-05-07.
+^ "First Tesla Model S Convertible Hits the Streets of San Francisco". TESLARATI.com. 2014-09-24. Retrieved 2016-03-22.
+^ ABC video Quote:" One thing it doesn't make, is a convertible"
+^ "520 Model S Reserved in the First Week". Business Wire. 2009-04-01. Retrieved 2012-06-25.
+^ a b c d Paul Lienert (2013-02-20). "UPDATE 2-Tesla Motors expects first profit in Q1". Reuters. Retrieved 2013-02-20. A total of about 2,650 Model S sedans were sold during 2012
+^ Anita Lienert, (2012-06-04). "2013 Tesla Model S Signature Series Is Sold Out". Edmunds Inside Line. Retrieved 2012-06-25.
+^ Jim Motavalli (2012-05-12). "In White Plains, Tesla Motors Sells the Sizzle and Maybe a Car or Two". The New York Times. Retrieved 2012-06-25.
+^ "Tesla Motors, Inc.Third Quarter 2014 Shareholder Letter" (PDF). Tesla Motors. 2014-11-05. Retrieved 2014-11-05.Global sales during 3Q 2014 Totaled 7,785 units.
+^ a b "Tesla Motors  Third Quarter 2015 Shareholder Letter" (PDF) (Press release). Palo Alto, California: Tesla Motors. 2015-11-03. Retrieved 2015-11-03. Tesla global electric car sales totaled 11,603 units during the third quarter of 2015, including six Tesla Model X untis.
+^ a b c d e f g h i j k l m n Tesla Motors (2016-02-10). "Tesla Fourth Quarter & Full Year 2015 Update" (PDF). Tesla Motors. Retrieved 2016-02-10. A total of 17,478 units were delivered globaly during the fourth quarter of 2015, including 206 Model X vehicles. Model S sales in the United States totaled 16,689 units in 2014 and 25,202 in 2015.
+^ Jay Cole (2012-12-04). "Tesla 60 kWh Model S Deliveries Delayed To JanuaryFebruary, Entry Level Until MarchApril". Inside EVs. Retrieved 2012-12-07.
+^ Yoney, Domenick (2013-02-20). "Tesla delivered 2,650 Model S EVs last year, Musk confident of profit in Q1 and beyond". Autoblog Green. Retrieved 2013-03-10.
+^ a b Alan Ohnsman (2013-05-08). "Tesla Posts First Quarterly Profit on Model S Deliveries". Bloomberg News. Retrieved 2013-05-08.,
+^ a b c "Tesla Motors, Inc.  Second Quarter 2013 Shareholder Letter" (PDF). Tesla Motors. 2013-08-07. Retrieved 2013-08-07.
+^ a b Jerry Hirsch (2014-02-19). "Tesla Motors ends year with higher sales but still a big loss". Los Angeles Times. Retrieved 2014-02-19. A total of 22,477 Model S sedans were sold in 2013.
+^ a b Alan Ohnsman (2014-01-14). "Tesla Rises After Model S Sales in 2013 Exceed Forecast". Bloomberg News. Retrieved 2014-01-15.
+^ Dana Hull (2013-02-14). "Elon Musk vs The New York Times: battle escalates Thursday with dueling blog posts". San Jose Mercury News. Retrieved 2014-09-15.
+^ a b Julie Makinen (2014-04-22). "Tesla delivers its first electric cars in China; delays upset some". Los Angeles Times. Retrieved 2014-04-22.
+^ a b Eric Loveday (2014-06-07). "First Right Hand Drive Tesla Model S EVs Get Delivered in UK". InsideEVs.com. Retrieved 2014-06-08.
+^ a b Eric Loveday (2014-07-30). "Tesla Celebrates First Model S Deliveries in Hong Kong  Video". InsideEVs.com. Retrieved 2014-07-30.
+^ Takashi Mochizuki (2014-09-08). "Tesla's Musk, in Tokyo, Says 'Heart' of Model S Is Japanese". The Wall Street Journal. Retrieved 2014-09-08.
+^ Philippe Crowe (2014-12-09). "Tesla Officially Open For Business in Australia". HybridCars.com. Retrieved 2014-12-09.
+^ Jeff Cobb (2015-06-16). "Tesla Due To Sell 75,000th Model S This Month". HybridCars.com. Retrieved 2015-06-17.
+^ "Tesla Motors  Fourth Quarter & Full Year 2014 Shareholder Letter" (PDF). Tesla Motors. 2014-02-11. Retrieved 2014-02-11. Global sales during 4Q 2014 totaled 9,834 units.
+^ a b "Tesla Motors  Second Quarter 2015 Shareholder Letter" (PDF). Tesla Motors. 2015-08-05. Retrieved 2015-08-05. A total of 11,532 units were delivered globaly during the second quarter of 2015. The Model S was the best-selling electric vehicle in the U.S for the first half of 2015.
+^ Jeff Cobb (2015-07-02). "Tesla Model S Is Top-Selling Plug-in Car For First Half of 2015". HybridCars.com. Retrieved 2015-07-02. An estimated 11,900 Model S sedans were sold in the U.S. during the first half of 2015, and as of June 2015[update], global cumulative Model S sales totaled over 78,300 units sold through June 2015.
+^ "Tesla Motors  First Quarter 2015 Shareholder Letter" (PDF). Tesla Motors. 2015-05-06. Retrieved 2015-05-21. A total of 10,045 units were delivered globaly during the first quarter of 2015.
+^ "Tesla Delivers 17,400 Vehicles in Q4 2015; Total 2015 Deliveries Were 50,580" (Press release). Palo Alto, California: Market Wired. 2016-01-03. Retrieved 2016-01-08.
+^ a b c d e f Jeff Cobb (2014-01-06). "December 2013 Dashboard". HybridCars.com and Baum & Associates. Retrieved 2015-07-06. An estimated 18,650 Model S sedans were sold in the U.S. in 2013, and about 2,620 in 2012. See section "December 2013 Plug-in Electric Car Sales Numbers"
+^ a b Angelo Young (2014-08-14). "Tesla in Norway: 436 Model S Sedans Are Being Delivered Monthly In Tesla's Largest Overseas Market". International Business Times. Retrieved 2014-09-15.
+^ a b c OFV (January 2014). "Bilsalget i desember og hele 2013" [Car sales in December and during 2013] (in Norwegian). Opplysningsrdet for Veitrafikken AS (OFV). Retrieved 2014-07-31.
+^ a b c d Norwegian Road Federation (OFV) (January 2015). "Bilsalget i 2014" [Car sales in 2014] (in Norwegian). OFV. Retrieved 2015-02-12. Click on "Modellfordelt" to display the top 20 selling new cars in Norway: A total of 4,040 Model S cars were sold in 2014, representing a 2.8% market share of new car sales in the country.
+^ a b c d Norwegian Road Federation (OFV) (January 2016). "Bilsalget i desember" [Car sales in December] (in Norwegian). OFV. Retrieved 2016-02-03. A total of 4,039 new Model S cars were registered in Norway in 2015.
+^ a b c d Staff (2015-03-07). "Tesla cutting 30% of staff in China". Want China Times. Retrieved 2015-03-09. Tesla imported 4,800 Model S cars in 2014, but only 2,499 of those vehicles were registered for road use in China.
+^ a b c RAI (2014-01-24). "Verkoopstatistieken  Meer marktinformatie" [Sales Statistics  More Market Information] (in Dutch). RAI Vereniging. Retrieved 2014-06-08. Download pdf file for detailed sales in 2013 ("Download nieuwverkoop personenautos 201312").
+^ a b RAI (2015-01-27). "Verkoopstatistieken" [Sales Statistics] (PDF) (in Dutch). RAI Vereniging. Retrieved 2015-01-31. Download the pdf file for detailed sales by model during 2014: "nieuwverkoop personenautos 201412".
+^ a b c "Nieuwverkoop Personenautos Per Merk/Model" [New passenger cars sales by brand/model] (in Dutch). RAI Vereniging. January 2016. Retrieved 2016-02-28. A total of 1,805 Model S cars were sold in the Netherlands in 2015".
+^ a b Rijksdienst voor Ondernemend Nederland (RVO) (October 2016). "Cijfers elektrisch vervoer  Top 10 geregistreerde modellen volledig elektrische auto (30-09-2016)" [Figures electric transport  Top 10 registered fully electric vehicle models (09-30-2016)] (in Dutch). RVO (Dutch National Office for Enterprising). Retrieved 2016-11-05. A total of 5,622 Model S sedans were registered in the Netherlands at the end of September 2016, ranking as the all-time top registered all-electric vehicle in the country.
+^ a b c d "Tesla Delivers 14,820 Vehicles in Q1 2016; On Track for Full-Year Delivery Guidance". Tesla Motors (Press release). Palo Alto: Market Wired. 2016-04-04. Retrieved 2016-04-04.
+^ a b c d "Tesla Second Quarter 2016 Update" (PDF) (Press release). Palo Alto: Tesla Motors. 2016-08-03. Retrieved 2016-08-03. During the second quarter of 2016 Tesla Motors delivered 14,402 new vehicles consisting of 9,764 Model S and 4,638 Model X. Production during 2Q 2016 totaled 18,345 vehicles.
+^ "Tesla Q2 2016 Vehicle Production and Deliveries" (Press release). Palo Alto: Tesla Motors. 2016-07-03. Retrieved 2016-07-03.
+^ a b Cobb, Jeff (2016-11-02). "October 2016 Dashboard". HybridCars.com and Baum & Associates. Retrieved 2016-11-04. Tesla sales for 3Q 2016 have been restated based upon information provided from the company corresponding to U.S. sales during 3Q 2016. Tesla reported 9,156 Model S and 5,428 Model X sold during the third quarter of 2016. The combined effect of both models totaled 1,116 less units than originally estimated, so the revised current-year-to-date figure for sales through September is 108,397 units. The revised CYTD figure for Model S is 20,856 and 12,328 for the Model X. October sales figures already reflect this adjustment.
+^ Cobb, Jeff (2016-07-05). "June 2016 Dashboard". HybridCars.com and Baum & Associates. Retrieved 2016-08-08. An estimated 11,700 Model S cars were sold in the U.S. in the first half of 2016.
+^ Stle Frydenlund (2016-07-05). "15 av 100 nye biler var elbiler" [15 out of 100 cars were electric vehicles] (in Norwegian). Norsk Elbilforening (Norwegian Electric Vehicle Association). Retrieved 2016-07-27.
+^ "Rapportage over Nieuwe voertuigen 2016" [Reporting on New Vehicles 2016] (in Dutch). RAI Vereniging. July 2016. Retrieved 2016-08-09. A total of 866 Model S cars were sold in the Netherlands in the first half of 2016."
+^ a b Klippenstein, Matthew (August 2016). "Canadian Plug-in Electric Vehicle Sales". Green Car Reports. Retrieved 2016-08-09.Tesla Model S sales figures from IHS data.
+^ a b c De Danske Bilimportrer (July 2016). "Statistik  Nyregistreringstal - Personbiler - Pr.model: januar - juni 2016" [Statistics  Passenger cars by model: January  June 2015] (in Danish). Bilimp. Retrieved 2016-08-09. "Select januar - juni 2016" and "2015 or 2014 or 2013  Hele ret" for the corresponding year and click on "Pr. model" for details of sales by brand and model.
+^ a b c Kraftfahrt-Bundesamt (KBA) (May 2014). "Neuzulassungen von Personenkraftwagen 2013 nach Herstellern, Handelsnamen und ausgewhlten Merkmalen" [New registrations of passenger cars 2013 by manufacturers, trade names and selected characteristics] (PDF). Statistische Mitteilungen des Kraftfahrt-Bundesamtes FZ 4, Jahr 2013 (in German). KBA. Retrieved 2015-04-13. A total of 183 units were registered in Germany in 2013.
+^ a b c Kraftfahrt-Bundesamt (KBA) (January 2015). "Neuzulassungen von Personenkraftwagen nach Segmenten und Modellreihen im Dezember 2014" [New registrations of passenger cars by segments and models in December 2014] (PDF) (in German). KBA. Retrieved 2015-02-08. A total of 815 units were registered in Germany in 2014.
+^ Kraftfahrt-Bundesamt (KBA) (July 2016). "Neuzulassungen von Personenkraftwagen nach Segmenten und Modellreihen im Juni 2016" [New registrations of passenger cars by segments and models in June 2016] (PDF) (in German). KBA. Retrieved 2016-08-09. A total of 758 Model S cars were registered in Germany in the first half of 2016.
+^ RAC Foundation. "Plug-in grant eligible vehicles licensed (at the end of Q1 2016)". UK: RAC Foundation. Retrieved 2016-06-07. Figures correspond to the number of vehicles registered at the end of the corresponding quarter.
+^ Chris Lilly (2015-09-17). "Outlander PHEV tops ultra-low emission league table as plug-in sales soar". Next Green Car. Retrieved 2015-09-24. A total of 1,047 Model S cars were registered in the UK at the end of June 2015.
+^ a b RAC Foundation (September 2016). "Plug-in grant eligible vehicles licensed (at the end of Q2 2016)". UK: RAC Foundation. Retrieved 2016-09-09. A total of 3,312 Model S cars were registered in the UK at the end of June 2016.
+^ a b c Vereinigung Schweizer Automobil-Importeure. "Autoverkufe nach Modellen  Modellstatistik" [Passenger cars by model  Statistics by model] (in German). Auto Schweiz Suisse. Retrieved 2016-08-09. Under "Modellstatistik Januar - Juni 2016" download the xls file "ModellePW2016" for CYTD 2016 sales, and under "Modellstatistiken 20102015" click "2015 Statistik" to download the file "ModellePW2015" with sales by model for 2015, "2014 Statistik" to download the file "ModellePW2014" with sales by model for 2014, and "2013 Statistik" to download the file "ModellePW2013" with sales by model for 2013.
+^ a b Soo, Zen (2016-01-25). "With Tesla's Model S now Hong Kong's top-selling sedan, chief Elon Musk predicts city to become world leader in electric vehicles". South China Morning Post. Retrieved 2016-02-02.
+^ Jose Pontes (2014-01-18). "Belgium December 2013". EV Sales. Retrieved 2014-01-25.
+^ "Immatriculations de Voitures Neuves Par Marque - December 2015" [New Car Registrations per Brand - December 2015] (PDF) (in French). Fdration Belge De LAutombile Et Du Cycle (FEBIAC). January 2016. Retrieved 2016-01-19. See in the left side cumulative sales for 2015 (820) and 2014 (521).
+^ "Immatriculations de Voitures Neuves Par Marque - June 2016" [New Car Registrations per Brand - June 2016] (PDF) (in French). Fdration Belge De LAutombile Et Du Cycle (FEBIAC). July 2016. Retrieved 2016-08-09. See in the left side cumulative sales between January and June 2016 (381).
+^ Bil Sweden (2015-01-06). "Topplistan december 2014 (def)" [Highscore in December 2014 (definitely)] (PDF) (in Swedish). Bil Sweden. Retrieved 2015-04-13.
+^ Bil Sweden (2016-01-04). "Nyregistreringar december 2015 def" [New Registrations December 2015 (final)] (in Swedish). Bil Sweden. Retrieved 2016-01-19. Download the pdf file "Nyregistreringar december 2015 def" See table: Nyregistrerade miljpersonbilar december 2015
+^ Bil Sweden (2016-07-01). "Nyregistreringar juni 2016 (II) def" [New Registrations June 2016 (ii)] (in Swedish). Bil Sweden. Retrieved 2016-08-09. Download the pdf file "Nyregistreringar juni 2016 (II)" See table: Nyregistrerade supermiljbilar juni 2016
+^ Michal Torregrossa (2014-01-15). "Tesla Model S  Plus de 22.000 ventes dans le monde en 2013" [Tesla Model S  More than 22,000 sales worldwide in 2013] (in French). Association pour l'Avenir du Vhicule Electrique Mditerranen (AVEM). Retrieved 2015-02-12. A total of 15 units were registered in France in 2013.
+^ Automobile Propre (July 2015). "Chiffres de vente & immatriculations de voitures lectriques en France" [Sales figures & electric car registrations in France] (in French). Automobile Propre. Retrieved 2016-08-09. See "Ventes de voitures lectriques" in 2016, 2015, 2014 and 2013. It shows all-electric car registrations between 2010 and June 2016. A total of 454 Model S cars were registered in the first half of 2016, 708 in 2015 and 328 in 2014.
+^ Gasnier, Mat (2016-01-12). "Australia Full Year 2015: Mazda first full importer to #2 in record market". Best Selling Cars Blog. Retrieved 2016-01-18. Model S deliveries estimated at 1,250 units in 2015.
+^ David McCowen (2015-05-26). "Why the Tesla is Australia's best-selling electric car". Drive. Retrieved 2016-01-18. There were 65 Tesla Model S registered in New South Wales at the end of 2014, and 4 in Victoria.
+^ "Bundeslnder-Statistik - Dezember 2015" [Federal Statistics - December 2015] (in German). Myampera.wordpress.com. August 2016. Retrieved 2016-08-12. Click on the tables by model by year.
+^ "Neuzulassungen nach Jahren" [Registrations by year] (in German). Statistik Austria. January 2015. Retrieved 2015-02-12. Download the pdf file "Kfz-Neuzulassungen Jnner bis Dezember 2014" for Tesla's monthly sales during 2014.
+^ "BEV Overview table - Italy". European Alternative Fuels Observatory. August 2016. Retrieved 2016-08-12. Filter by country Italy.
+^ Philippe Crowe (2014-12-09). "Tesla Officially Open For Business in Australia". HybridCars.com. Retrieved 2015-07-14.
+^ Eric Loveday (2014-12-10). "Tesla Model S Launches in Australia; First Australian Supercharger Comes Online". InsideEVs.com. Retrieved 2015-07-14.
+^ a b David McCowen (2015-05-26). "Why the Tesla is Australia's best-selling electric car". Drive. Retrieved 2015-07-13.
+^ Ucilia Wang (2013-11-05). "Tesla Makes Record Delivery of Model S, Promises A 'Pioneering Approach' To Servicing Its Cars". Forbes. Retrieved 2013-11-05. Over 5,500 units delivered during 3Q 2013.
+^ a b Eric Loveday (2014-01-23). "Tesla Model S 85 kWh 'Fairly Priced' From $121,000 in China". InsideEVs.com. Retrieved 2014-01-23.
+^ "Experts eye Tesla to spur China's electric vehicle market". Xinhua English News. Xinhua News Agency. 2014-02-01. Retrieved 2014-02-16.
+^ Eric Loveday (2014-02-15). "Experts Say Tesla Model S Will Likely Spur China's Stagnant EV Market". Inside EVs. Retrieved 2014-02-16.
+^ Alan Ohnsman (2014-07-30). "Tesla Seen Reporting Record Deliveries on China Expansion". Bloomberg News. Retrieved 2014-07-31. Sales in China up to June 2014 are estimated at about 1,000 units by Barclays analysts.
+^ Michelle Jones (2014-07-09). "Tesla Motors' Q2 Delivery Guidance Hinges on China". Seeking Alpha. Retrieved 2014-07-31. Based on several sources Chinese sales are estimated between 1,000 to 1,300 units through June 2014
+^ a b Charles Fleming (2014-09-26). "Are Teslas disappearing in China?". Los Angeles Times. Retrieved 2014-10-16. Estimates by JLWarren Capital.
+^ Sarita Pereira (2014-10-16). "Tesla Motors: The Road To China Is Getting Harder". Seeking Alpha. Retrieved 2014-10-17.
+^ Angelo Young (2015-03-16). "Tesla Motors Inc in China: Hundreds Of Model S Cars Sent To China Are Unsold, According To 'Insiders'". International Business Times. Retrieved 2015-06-15. CEO Elon Musk has admitted the Model S isn't selling as well as expected.
+^ Staff (2015-08-06). "Tesla sells well in China but Q2 report indicates losses". Greentech Leaf. Retrieved 2015-08-06.
+^ a b Josh Horwitz (2015-11-26). "In Hong Kong's luxury car market, a Tesla is cheap". Quartz. Retrieved 2015-11-28. About 70% of the electric cars in Hong Kong roads by the end of July 2015 are Tesla Model S cars (~1,720 units).
+^ Zen Soo (2015-07-02). "Hong Kong now has highest density of Tesla superchargers in the world". South China Morning Post. Retrieved 2015-11-28.
+^ Lambert, Fred (2016-09-05). "Tesla has 80% market share of Hong Kong's growing electric vehicle market, German automakers are not happy". Electrek. Retrieved 2016-09-06.
+^ a b Angelo Young (2014-09-02). "Tesla Motors' Tesla Model S Is Outselling Nissan Leaf in Northern European Markets". International Business Times. Retrieved 2014-09-21.
+^ a b Neil Winton (2014-02-06). "Electric Car Sales in Western Europe Spurt, But From Miniscule Base". Forbes. Retrieved 2014-02-16. Sales figures based on Automotive Industry Data (AID). About 3,900 Tesla Model S cars were sold in Europe in 2013..
+^ Jose Pontes (2014-01-26). "Europe December 2013". EVSales.com. Retrieved 2014-02-16. The Tesla Model S ranked as the third best selling all-electric passenger car and as the seventh among highway-capable plug-in electric vehicles..
+^ a b c "Nissan LEAF is the best-selling electric car in Europe for fourth year in a row" (Press release). Rolle, Switzerland: Nissan Europe. 2015-01-19. Retrieved 2015-02-08.
+^ Jeremy Bennett (2014-10-17). "New cars: Europe's recovery continues  JATO". Automotive Management online. Retrieved 2014-10-31.
+^ a b Association Nationale pour le Dveloppement de la Mobilit Electrique - AVERE France (2016-03-24). "Quelle est la place de la France sur le march europen du vhicule lectrique?" [What is the place of France in the European electric vehicle market] (in French). AVERE. Retrieved 2016-03-27. A total of 97,687 all-electric vehicles were registered in the European market in 2015. The top selling electric cars were the Renault Zoe (18,727), the Tesla Model S (15,515), and the Nissan Leaf (15,455).
+^ Automotive Industry Data (AID) (2016-04-01). "Tesla's Model S outsold Mercedes S-Class in Europe last year". AID Newsletter. Retrieved 2016-04-07. During 2015 Tesla Models S sales in Western Europe totaled 15,787 units, while Mercedes-Benz S-Class sales totaled 14,990 units.
+^ Antony Ingram (2012-12-20). "Tesla Reveals European Pricing For Model S Electric Sedan". Green Car Reports. Retrieved 2012-12-23.
+^ Pete Brissette (2012-12-21). "Tesla Announces European Model S Pricing". HybridCars.com. Retrieved 2012-12-23.
+^ Kre, Lubo; Skoup, Adla (2015-04-10). "Drahm autm se v esku da. Lamborghini chce prodvat 15 voz ron" [Expensive cars in the Czech Republic. Lamborghini wants to sell 15 cars a year]. Hospodsk noviny (in Czech). Retrieved 2015-04-13.
+^ Eric Loveday (2013-10-09). "Tesla Model S Soars to Top of EV Sales Chart in Denmark". InsideEVs.com. Retrieved 2013-10-11.
+^ Kurt Hedevang (2014-02-11). "Tesla spurter fra luksusbilerne" (in Danish). Jyllandsposten. Retrieved 2014-08-16.
+^ "RTT med Cleardrive og TaxiNord 448 til test af Tesla Model S" 25. 07. 2012
+^ Larsen, Lars-Bo (2014-08-16). "Forsg med eltaxa stopper" [Trial ends for electric taxi]. Politiken. Archived from the original on 2014-09-18. Retrieved 2015-04-08.
+^ Graubk, Allan (2014-10-10). "Ny Tesla fr brugt-salget til at eksplodere" [New Tesla makes second-hand sale explode]. Politiken. Archived from the original on 2015-02-14. Retrieved 2015-04-08.
+^ Rydberg, Anders Vestergaard; Baunsgaard, Casper (June 2016). "Assessment of the Danish Car Market - With Emphasis on Consumer Behaviour" (PDF). Aarhus University, School of Business and Social Sciences. pp.89. Retrieved 2016-08-12.
+^ Lambert, Fred (2016-08-10). "Tesla victim of its own success in Denmark: 2 to 3 months wait for service, some owners are furious". Electrek. Retrieved 2016-08-11.
+^ "Tesla Motors Announces Major Developments for Germany". Bloomberg News. 2013-10-23. Retrieved 2013-10-23.
+^ "Tesla eyes annual sales of 10,000 cars in Germany, Musk says". Automotive News Europe. Reuters. 2013-10-26. Retrieved 2013-11-02.
+^ Kraftfahrt-Bundesamt (KBA) (December 2015). "Neuzulassungen von Personenkraftwagen nach Segmenten und Modellreihen im November 2015" [New registrations of passenger cars by segments and models in November 2015] (PDF) (in German). KBA. Retrieved 2015-12-16. A total of 1,348 Model S sedans were registered in Germany between January and November 2015.
+^ RAI (May 2014). "Nieuwverkoop Per Merk/Model" [New Sales By Brand / Model] (in Dutch). RAI Vereniging. Retrieved 2014-06-08.
+^ Cobb, Jeff (2016-11-17). "The Netherlands Becomes Sixth Country To Buy 100,000 Plug-in Vehicles". HybridCars.com. Retrieved 2016-11-18.
+^ Antony Ingram (2013-08-07). "First 2013 Tesla Model S Delivered Outside North AmericaIn Oslo". Green Car Reports. Retrieved 2013-08-07.
+^ "Rekordsalg av elbiler i august" [Record sales of electric cars in August] (in Norwegian). Grnn bil. 2013-09-02. Retrieved 2013-09-04.
+^ "Tesla's $110,000 Model S is now Norway's best-selling car". The Globe and Mail. Reuters. 2013-10-09. Retrieved 2013-10-11.
+^ Eric Loveday (2013-10-09). "Norwegians Buying "Used" Tesla Model S Sedans at Prices Higher Than New to Avoid 5-Month Wait". InsideEVs.com. Retrieved 2013-10-11.
+^ "Nissan Leaf tops Norway Oct. car sales, beats Toyota Auris, VW Golf". Automotive News Europe. Reuters. 2013-11-01. Retrieved 2013-11-02.
+^ OFV (2013-12-02). "Bilsalget i november OFV AS" [Car sales in August] (in Norwegian). Opplysningsrdet for Veitrafikken (OFV). Retrieved 2013-12-31.
+^ Mat Gasnier (2014-01-05). "Norway Full Year 2013: VW Golf No. 1, Nissan Leaf on podium!". Best Selling Cars Blog. Retrieved 2014-01-20.
+^ Angelo Young (2013-12-13). "Tesla Owners in Norway Get $134,000 Tax Break, Which Is More Than The Base Price of the Model S". International Business Times. Retrieved 2014-01-04.
+^ a b Stle Frydenlund (2014-04-02). "Tesla knuste 28 r gammel rekord" [Tesla broke 28-year-old record] (in Norwegian). Norsk Elbilforening (Norwegian Electric Vehicle Association). Retrieved 2014-04-03.
+^ John D. Stoll (2014-04-02). "Tesla Breaks Norway's All-Time Sales Record". The Wall Street Journal. Retrieved 2014-04-03.
+^ Staff (2014-04-02). "Elbilsalget i mars slo alle rekorder" [Electric vehicle sales in March broke all records] (in Norwegian). Grnn bil. Retrieved 2014-04-03.
+^ Norwegian Road Federation (OFV) (April 2014). "Bilsalget i mars" [Car sales in March] (in Norwegian). OFV. Retrieved 2014-04-03. A total of 36,492 new passenger cars were registered in Norway during the first quarter of 2014. The Model S ranks first with 2,056 units and a market share of 5.6%, followed by the VW Golf with 1,577 (4.3%) and the Nissan Leaf with 1,559 (4.3%)
+^ Norwegian Road Federation (OFV) (2016-11-01). "Bilsalget i oktober" [Car sales in October] (in Norwegian). OFV. Retrieved 2016-11-04. Click on "Modellfordelt" to display the top 20 selling new cars in Norway: Tesla Model S registrations totaled 1,740 new units during the first ten months of 2016.
+^ Jose Pontes (2015-01-18). "Switzerland December 2014". EVSales.com. Retrieved 2015-02-08.
+^ Automotive Industry Data (AID) (2015-08-25). "Switzerland's status-conscious rich dump conventional luxury saloons for Tesla's Green-Halo Model S". AID Newsletter. Retrieved 2015-08-26.
+^ Natalie Middleton (2015-06-26). "Outlander PHEV tops ultra-low emission league table as plug-in sales soar". Fleet World. Retrieved 2016-01-22. A total of 698 Model S sedans were registered in the UK through December 2014
+^ Neil Thomason (2015-01-21). "FleetPoint first impressions of the Tesla Model S". FleetPoint.org. Retrieved 2015-06-27.
+^ Lambert, Fred (2016-09-08). "UK becomes Tesla's biggest European market, surpassing even Norway  for the moment". Electrotek. Retrieved 2016-09-10.
+^ Mark Kane (2015-12-24). "Tesla Model S Now on Sale in Mexico". InsideEVs.com. Retrieved 2015-12-24. See more details in video (in Spanish).
+^ John Voelcker (2012-06-06). "First 2012 Tesla Model S Delivered To Earliest Depositor Steve Jurvetson (Video)". Green Car Reports. Retrieved 2012-06-06.
+^ Jeff Cobb (2015-07-06). "Tesla Model S Crosses 50,000 U.S. Sales Milestone". HybridCars.com and Baum & Associates. Retrieved 2015-07-06. A total of 49,720 Model S sedans had been sold in the U.S. through June 2015, of which, about 11,900 were sold during the first half of 2015. The 50,000 unit milestone was passed in early July 2015.
+^ John Voelcker (2013-03-22). "Tesla Model S Update: 3,000th Electric Sedan Delivered In CA". Green Car Reports. Retrieved 2013-03-22.
+^ Jay Cole (2013-03-22). "Tesla: Model S Production Now More Than 500 Per Week, Over 12 Million Total Miles Driven So Far". Inside EVs. Retrieved 2013-03-22.
+^ Jeff Cobb (2013-04-03). "March 2013 Dashboard". HybridCars.com and Baum & Associates. Retrieved 2013-04-07.
+^ "Tesla likely Q1 US PEV leader with 4,750+ sales in North America; Nissan surges with LEAF in March in US". Green Car Congress. 2013-04-04. Retrieved 2013-04-07.
+^ Vikas Shukla (2014-08-27). "Tesla's car comes with a 3G chip, so it can be tracked and shut down remotely". Value Walk. Retrieved 2014-08-29.
+^ a b Hull, Dana (2014-01-29). "With a registration in Jackson, Mississippi, Tesla's Model S now has sales in all 50 states". SiliconBeat. Retrieved 2014-06-05.
+^ Jessica Caldwell (2013-10-31). "Drive by Numbers  Tesla Model S is the vehicle of choice in many of America's wealthiest zip codes". Edmunds.com. Retrieved 2013-11-02.
+^ "Toyota Prius keeps Calif. sales crown; Tesla moves up". Automotive News. 2014-02-13. Retrieved 2014-02-16.
+^ California New Car Dealers Association (CNCDA) (February 2014). "California Auto Outlook: Fourth Quarter 2013". CNCDA. Retrieved 2014-02-16.
+^ California New Car Dealers Association (CNCDA) (November 2015). "California New Vehicle Registrations Predicted to Exceed 2 Million Units in 2015" (PDF). CNCDA. Retrieved 2015-11-22. See section: Top Selling Models in Each Segment - New Car and Light Truck Registrations, YTD 2015 thru September.
+^ Nikolewski, Rob (2016-05-23). "California's car buying boom continues". The San Diego Union-Tribune. Retrieved 2016-05-28.
+^ California New Car Dealers Association (CNCDA) (May 2016). "California New Vehicle Market On Track to Top 2 Million Units For Second Straight Year in 2016" (PDF). CNCDA. Retrieved 2016-05-28. During 1Q 2016 a total of 2,552 Model S cars were registered in California, followed by the Mercedes E-Class with 2,445 units, and the BMW 5-Series with 2,068.
+^ a b Jeff Cobb (2015-01-06). "December 2014 Dashboard". HybridCars.com and Baum & Associates. Retrieved 2015-01-10. A total of 16,550 Model S sedans were sold in the U.S. in 2014. See section "December 2014 Battery Electric Car Sales Numbers"
+^ Randall, Tom (2016-10-12). "Tesla Dominates U.S. Luxury Sedan Sales". Bloomberg. Retrieved 2016-10-14.
+^ Cobb, Jeff (2016-11-02). "October 2016 Dashboard". HybridCars.com and Baum & Associates. Retrieved 2016-11-05.
+^ Mosendz, Polly (2016-07-13). "What Happens When You Die Waiting for a Tesla?". Bloomberg. Retrieved 2016-07-30.
+^ Ingram, Antony (2013-12-03). "Tesla Wins Vs Ohio Car Dealers, Amendment Defeated". Green Car Reports. Retrieved 2013-12-03.
+^ Voelcker, John (2013-06-21). "New York Auto Dealers Try To Make Registering Tesla Stores Illegal". Green Car Reports. Retrieved 2013-12-17.
+^ "Where can Tesla sell cars?". Mojo Motors, Inc. 2015-03-19. Retrieved 2015-07-07.
+^ Tani, Maxwell (2015-05-21). "Texas says no to Tesla direct sales". Business Insider. Retrieved 2015-07-07.
+^ Hutchinson, Lee (2015-05-21). "Bill to allow Tesla to sell cars in Texas dies in committee". Ars Technica. Retrieved 2015-07-08.
+^ "List of Tesla Stores, Service Centers and Chargers". teslamotors.com. Retrieved 2015-07-07.
+^ Antony Ingram (2012-11-29). "New Tesla Model S Pricing Announced For Jan 1, Battery Pack Costs Too". Green Car Reports. Retrieved 2012-12-16.
+^ ODell, John (2016-09-12). "Used plug-in cars could be a bargain". Christian Science Monitor. Retrieved 2016-09-13.
+^ Halvorson, Bengt (2016-08-10). "Tesla Aside, Used Electric Car Resale Values Are Tanking". Car and Driver. Archived from the original on 2016-08-11. Retrieved 2016-08-18.
+^ "Tesla Model S retains its value better than gas-powered cars in its segment, losing only 28% after 50k miles". Electrek. 2016-09-13. Retrieved 2016-09-17.
+^ "Official Tesla Model S 2014 safety rating results". EURO NCAP. 2014. Retrieved 2016-08-16.
+^ "2014 Tesla Model S 5 HB RWD". NHTSA. 2014. Retrieved 2016-08-16.
+^ "Model S Achieves Euro NCAP 5-Star Safety Rating". Tesla Motors. 2013-11-05. Retrieved 2014-11-26.
+^ "2013 Tesla Model S 5 HB RWD". U.S. Department of Transportation. Retrieved 2014-10-25.
+^ "Official Tesla Model S 2014 safety rating results". Euro NCAP. Retrieved 2016-05-07.
+^ a b c Christopher Jensen (2013-10-02). "Tesla Says Car Fire Started in Battery". The New York Times. Retrieved 2013-10-05.
+^ a b c Steven Russolillo (2013-10-04). "Musk Explains Why Tesla Model S Caught on Fire". The Wall Street Journal. Retrieved 2013-10-05.
+^ Phillipe Crowe (2013-10-04). "Tesla Model S Catches Fire". HybridCars.com. Retrieved 2013-10-05.
+^ Voelcker, John (2013-10-03). "First Tesla Model S Fire Caused By Collision With Road Debris". Green Car Reports. Retrieved 2014-10-23.
+^ 20122013 Model S Emergency Response Guide (PDF). Tesla Motors. 2013. p.18. Retrieved 2014-10-23. If the high voltage battery becomes involved in fire or is bent, twisted, damaged, or breached in any way, or if you suspect that the battery is heating, use large amounts of water to cool the battery. DO NOT extinguish fire with a small amount of water. Always establish or request an additional water supply.
+^ David Shepardson (2013-10-24). "U.S. will not open investigation into Tesla fire". The Detroit News. Retrieved 2013-10-25.
+^ a b Bill Vlasic and Jaclyn Trop (2013-11-19). "After 3 Fires, Safety Agency Opens Inquiry into Tesla Model S". The New York Times. Retrieved 2013-11-24.
+^ Eric Loveday (2013-11-19). "NHTSA Opens Formal Investigation into 13,108 Model Year 2013 Tesla Model S Sedans Sold in US (Update)". InsideEVs.com. Retrieved 2013-11-24.
+^ Danielle Ivory (2014-03-28). "Federal Safety Agency Ends Its Investigation of Tesla Fires". The New York Times. Retrieved 2014-03-31.
+^ Trop, Jaclyn (2013-11-07). "Another Fire Raises Questions for Tesla". The New York Times. Retrieved 2013-11-10.
+^ Voelcker, John (2013-11-19). "Tesla Fires: NHTSA Will Probe, Warranty To Cover Fire Damage, Ride-Height Tweak". Green Car Reports. Retrieved 2013-11-24.
+^ Lopez, Linette (2014-02-13). "Another Tesla Caught on Fire While Sitting in a Toronto Garage This Month". Business Insider. Retrieved 2014-02-16.
+^ Ohnsman, Alan (2014-02-14). "Tesla Investigating Cause of Fire in Toronto With Model S". Bloomberg News. Retrieved 2014-02-16.
+^ George, Patrick (2014-03-28). "The Tesla Model S: Now With Road Debris-Crushing Titanium!". Jalopnik. Retrieved 2014-03-31.
+^ Blanco, Sebastian (2014-03-28). "Tesla adds free titanium underbody shields to Model S to prevent fires". Autoblog Green. AOL Inc. Retrieved 2014-03-31.
+^ Roelsgaard, Peter (2016-01-01). "Norsk Tesla bryder i brand under opladning" [Norsk Tesla ignites during charging]. Ekstra Bladet (in Norwegian). Retrieved 2016-01-02.
+^ Hopland, Sindre (2016-01-02). "Tesla tok fyr under hurtiglading" [Tesla caught fire while supercharging]. NRK Srlandet (in Norwegian). Retrieved 2016-01-02.
+^ George, Patrick (2016-01-01). "Tesla Model S Burns to a Crisp During Supercharging in Norway". Jalopnik. Retrieved 2016-01-02.
+^ a b Hattrem, Hanne; Larsen-Vonstett, ystein (2016-03-17). "Tesla-brannen: Kortslutning i bilen, men vet ikke hvorfor" [Tesla fire: Short circuit in the car but do not know why]. Verdens Gang (in Norwegian). Retrieved 2016-03-18.
+^ Lambert, Fred (2016-02-14). "Tesla Supercharger Fire: Authorities are shutting down the investigation and report indications that the fire originated in the car". Electrek. Retrieved 2016-03-18.
+^ Lambert, Fred (2016-03-17). "Tesla will update the Model S software for safer charging following a Supercharger fire". Electrek. Retrieved 2016-03-18.
+^ "Tesla Recalling All Model S Sedans to Check for Seat Belt Defect". NBC News. 2015-11-20. Retrieved 2015-11-21.
+^ "Model S seat belt inspection". Tesla Motors. Retrieved 2015-11-24.
+^ "Tesla Model S Named 2013 AutoGuide.com Reader's Choice Car of the Year". AutoGuide. 2012-12-12. Retrieved 2012-12-28.
+^ "And Now There Is One.... Tesla Model S Declared 2013 World Green Car". International Business Times. PR Newswire. 2013-03-28. Retrieved 2013-03-28.
+^ Zenlea, David (2012-11-01). "2013 Automobile of the Year: Tesla Model S". Automobile Magazine. Retrieved 2012-11-01.
+^ Cunningham, Wayne; Goodwin, Antuan (2012-12-19). "2012 Car Tech Awards: And the winner is...". CNET. Retrieved 2012-12-24.
+^ Mark Rechtin. "Tesla Model S P85D Breaks the Consumer Reports Ratings System". Consumer Reports.
+^ Jamie Butters and Alan Ohnsman (2013-01-21). "Tesla Model S Tops Consumer Reports Survey of Owners". Bloomberg News. Retrieved 2013-11-24.
+^ Stephen Edelstein (2014-12-04). "Tesla Model S Tops Consumer Reports Customer Satisfaction Index, Again". Green Car Reports. Retrieved 2014-12-07.
+^ Jeff Cobb (2014-02-25). "Consumer Reports: Tesla Model S 'Best Overall' 2014 Top Pick". HybridCars.com. Retrieved 2014-02-26.
+^ "2015 Tesla Model S P85D". consumerreports.org.
+^ The Tesla Model S P85D Is So Good It Broke the Consumer Reports Test PopMech
+^ Voelcke, John (2012-12-10). "2013 Tesla Model S: Green Car Reports' Best Car To Buy 2013". Green Car Reports. Retrieved 2012-12-28.
+^ MacKenzie, Angus (2013-01-01). "2013 Motor Trend Car of the Year: Tesla Model S". Motor Trend. Retrieved 2012-11-12.
+^ Natural Resources Canada (2013-02-14). "2013 ecoENERGY for Vehicles Awards" (Press release). Natural Resources Canada. Retrieved 2013-02-22.
+^ "Auto Grand Award Winner: Tesla Model S". PopSci. 2012-11-01. Retrieved 2012-11-19.
+^ "The top 10 cars that changed the world (and one that's about to)". The Daily Telegraph. 2014-12-21. Retrieved 2014-12-29.
+^ Chris Knapman (2014-12-21). "Tesla Model S: the most important car of the last 20 years". The Daily Telegraph. Retrieved 2014-12-29.
+^ "Best Inventions of the Year 2012  $22,000  $750,000 -The Tesla Model S". Time. 2012-11-01. Retrieved 2012-11-02.
+^ della Cava, Marco R. (2012-10-31). "Tesla Model S: The 2013 Yahoo! Autos Car of the Year". Yahoo! Autos. Retrieved 2013-01-19.
+^ Phillips, Drew (2015-04-28). "AAA ranks Tesla Model S P85D best green car of 2015, Versa is best value". Auto Blog. Retrieved 2015-05-12.
+^ Snyder, John Beltz (2014-06-24). "AAA says Tesla Model S is the best green car available". Auto Blog. Retrieved 2015-05-12.
+^ Andersen, Ina (2015-08-26). "Norske Bjrn kjrte 728 kilometer i en Tesla  p n lading" [Norwegian Bjorn ran 728 kilometers in a Tesla - on a single charge]. Teknisk Ukeblad (in Norwegian). Retrieved 2016-06-22.
+^ "Longest Trip In A Production Electric Car: Tesla Model S P85D breaks Guinness World Records record". World Record Academy. 2015-08-27. Retrieved 2016-06-22.
+^ Taylor, Dennis (2014-07-19). "The EV generation: The faithful gather for Tesla event in Monterey". Mercury News. US. Retrieved 2016-06-22.
+^ "New Tesla Model S World Record single charge distance 425.8 miles". Electric Vehicle News. 2013-05-11. Retrieved 2016-06-22.
+^ Elon Musk: The mind behind Tesla, SpaceX, SolarCity ... 2013-03-19. Retrieved 2016-06-22."Elon Musk mentions the record but with an incorrect distance"
+^ Metcalf, David; Metcalf, Adam (2012-12-13). "World Record Father-Son Drive" (Press release). Tesla Motors. Retrieved 2016-06-22.
+^ Motavalli, Jim (2012-12-12). "Father and Son Drive 423 Miles on One Charge in Tesla Model S". The New York Times. Retrieved 2016-06-22.
+^ Musk, Elon (2012-05-09). "Model S Efficiency and Range". Tesla Motors. Retrieved 2014-10-11.
+^ Broder, John (2013-02-10). "Stalled Out on Tesla's Electric Highway". The New York Times. Retrieved 2013-02-16.
+^ Musk, Elon (2013-02-13). "A Most Peculiar Test Drive". Tesla Motors. Retrieved 2013-02-16.
+^ Broder, John (2013-02-14). "That Tesla Data: What It Says and What It Doesn't". The New York Times. Retrieved 2013-02-16.
+^ Peter Valdes-Dapena (2013-02-15). "Test drive: DC to Boston in a Tesla Model S". CNN Money. Retrieved 2013-02-16.
+^ Philip LeBeau (2013-02-19). "Behind the Wheel, Putting the Tesla to the Test". CNBC. Retrieved 2013-02-22.
+^ Elvia Thompson (2013-02-18). "Tesla Model S Road Trip: Electric Cars Make It From DC To CT". Green Car Reports. Retrieved 2013-02-20.
+^ Sebastian Blanco (2013-02-18). "Tesla Model S road trip drivers find success along NYT's failed drive route [w/video]". Autoblog Green. Retrieved 2013-02-20.
+^ Margaret Sullivan (2013-02-18). "Problems With Precision and Judgment, but Not Integrity, in Tesla Test". The New York Times. Retrieved 2013-02-20.
+^ James Poniewozik (2013-03-04). "Charged Debate". Time. Retrieved 2013-02-22.
+^ "After a Charging System Test, a Debate Erupts Online". The New York Times. 2013-02-22. Retrieved 2013-02-22.
+^ "E-Auto-Hrtetest auto motor und sport unterstreicht harte Testmethoden" [car auto motor und sport emphasizes hard test methods]. Auto motor und Sport. Retrieved 2014-11-12.
+^ "Tesla S im Nachtest 258 km Reichweite bei 120km/h und 13 Grad" [Tesla S at posttest reaches 258 km at 120km / h, 13 degrees]. Auto motor und Sport. 2014-09-12. Retrieved 2014-11-12.
+^ Meiners, Jens (2014-08-28). "Beim dritten Gassto fngt der Tesla an zu schwcheln" [By the third step on the pedal the Tesla starts to weaken]. Die Welt. Retrieved 2014-11-12.
+^ "Tesla Model S Achieves Best Safety Rating of Any Car Ever Tested" (Press release). Tesla Motors. 2013-08-19. Retrieved 2013-09-01.
+^ Ashlee Vance (2013-08-20). "Tesla's Model S Sedan Destroys Safety Tests ... Literally". Bloomberg Businessweek. Retrieved 2013-09-01.
+^ Jerry Hirsch (2013-08-20). "Upstart Tesla wins top U.S. safety rating; what will competitors do?". Los Angeles Times. Retrieved 2013-09-01.
+^ Alan Ohnsman (2013-08-20). "Tesla Says Model S Sedan Receives Top U.S. Crash Rating". Bloomberg News. Retrieved 2013-09-01.
+^ Mark Rogowsky (2013-08-20). "Safest Car on the Road: Even Crashing Into A Wall Is Good News For Tesla". Forbes. Retrieved 2013-09-01.
+^ Cheryl Jensen (2013-08-21). "How Does Tesla's 5-Star Safety Rating Inform Overall Vehicle Safety?". The New York Times. Retrieved 2013-09-01.
+^ Jason Siu (2013-08-22). "Tesla Model S is NOT the Safest Car Ever, Say Feds". Auto Guide. Retrieved 2013-09-01.
+^ "UPDATE: Tesla roof so strong it broke crush-test machine". USA Today. 2013-08-21. Retrieved 2013-09-01.
+^ Nolan, David (2013-11-25). "Life With Tesla Model S: Even After Update, Vampire Draw Remains". Green Car Reports. Retrieved 2013-11-25.
+^ Nyland, Bjorn. Tesla Model S vampire drain after 27 days in winter. You Tube. Retrieved 2014-02-09.
+^ Rechtin, Mark (2015-10-20). "Tesla Reliability Doesn't Match Its High Performance". Consumer Reports. Retrieved 2015-11-24.
+^ "2013 Tesla Model S Long-Term Wrap-Up | Edmunds.com". Edmunds. Retrieved 2016-04-05.
+^ "Tesla Model S Critical Backlash: Five Main Problems With Electric Car Identified In Recent Reviews". International Business Times. Retrieved 2016-04-05.
+^ Christian Seabaugh (2015-10-28). "2015 Tesla Model S P90D w/Ludicrous Upgrade First Test". Motor Trend.
+^ "Model S - Tesla Motors". teslamotors.com. Archived from the original on 2015-03-11.
+^ a b Ronan Glon (2015-09-29). "Owners Question Tesla P85D Power Output". Digital Trends.
+^ Sarah Shelton (2015-09-29). "What Is The Actual Overall Horsepower Rating for the Tesla P85D?". HybridCars.com.
+^ a b JB Straubel. "Tesla All Wheel Drive (Dual Motor) Power and Torque Specifications" Tesla, 2015-09-21. Quote: "only this (single or combined) motor shaft horsepower rating that is legally required to be posted in the European Union."
+^ "Uniform provisions concerning the approval of internal combustion engines or electric drive trains intended for the propulsion of motor vehicles of categories M and N with regard to the measurement of net power and the maximum 30 minutes power of electric drive trains" pages 9+41. United Nations Economic Commission for Europe, 2013-08-21. Quote: "5.3.1.2. The net power test shall consist of a run at full setting of the power controller." "Note: If the battery limits the maximum 30 minutes power, the maximum 30 minutes power of an electric vehicle can be less than the maximum 30 minutes power of the drive train of the vehicle according to this test."
+^ Nathan Morris. "Keep Your Engine Alive: The Importance of Oil Temperature". Tuner University.
+^ Jim Koscs. "Engine Horsepower - Muscle Car Horsepower". Hagerty Insurance Agency.
+^ Aaron Severson (2008-04-15). "Understanding Gross Versus Net Horsepower Ratings". Ate Up With Motor.
+^ "Model S - Tesla Motors". teslamotors.com. Archived from the original on 2015-11-02.
+^ Zolfagharifard, Ellie (2016-05-27). "A Tesla Model S with autopilot and cruise control activated crashes van". Daily Mail Online. UK. Retrieved 2016-06-02.
+^ "Model S Owner's Manual" (PDF). Tesla Motors. pp.6061. Retrieved 2016-06-01.
+^ Lambert, Fred (2016-05-30). "Google Deep Learning Founder says Tesla's Autopilot system is 'irresponsible'". Electrek. 9to5 Network. Retrieved 2016-06-01.
+^ "Be prepared for these roadblocks if you want to drive a Tesla in Singapore | Stuff". www.stuff.tv. Retrieved 2016-06-01.
+^ "LTA on Tesla: CO2 emissions for electric cars start at power grid". Channel NewsAsia. Retrieved 2016-06-01.
+^ "Gas Mileage of 2014 Tesla Model S". www.fueleconomy.gov. Retrieved 2016-06-01.
+^ a b c "Here's how clean a Model S is in Singapore (and elsewhere)". Tesla Motors. Retrieved 2016-06-01.
+^ hermes (2016-03-04). "Electric car Tesla slapped with $15,000 tax surcharge". The Straits Times. Retrieved 2016-06-01.
+^ "LTA on Tesla: CO2 emissions for electric cars start at power grid". Channel NewsAsia. Retrieved 2016-06-01.
+^ "Singapore's LTA says the Tesla Model S it tested was a used car, hence its low efficiency". Tech in Asia. 2016-03-10. Retrieved 2016-06-01.
+Further reading[edit]
+van Gilluwe, Frank (2013). Tesla Model S - Best Car Ever! (1st. ed.). FAQware. ISBN978-0-9860689-0-4.  See book review: "Tesla Model S Best Car Ever!" is the Book All Model S Owners Should Own (Book Review), InsideEVs, December 13, 2013.
+Howe, Nick J. (2014). Owning Model S: The Definitive Guide to Buying and Owning the Tesla Model S (1st. ed.).  See book review: Owning A Tesla Model S: New Book Offers Tips, Tricks, Inside Info (Book Review), Green Car Reports, May 27, 2014.
+External links[edit]
+Wikimedia Commons has media related to Tesla Model S.
+Official website
+2012 Tesla Model S test and range verification
+Comparison of the Model S against other PEVs available in the U.S., Business Insider
+Should Battery Fires Drive Electric Cars Off the Road?, Scientific American, November 12, 2013.
+Road test, Total Car Magazine
+Track test, Teslarati
+Tesla Model S EV Safety Training for Emergency Responders, YouTube. Production: Ron Moore and Brock Archer, with collaboration of Tesla Motors, October 2013.
+v
+t
+e
+Tesla Motors
+People
+Elon Musk (CEO, Chief Product Architect)
+JB Straubel (CTO)
+Franz von Holzhausen (Chief Designer)
+Martin Eberhard (co-founder, inaugural CEO)
+Products
+Sedans
+Model S
+Model 3 (planned)
+Crossovers/SUVs
+Model X
+Discontinued
+Roadster
+Others
+Powerwall
+Autopilot
+Collaborations
+Mercedes A-Class E-Cell
+Mercedes B-Class Electric Drive
+Smart electric drive
+RAV4 EV Second generation
+Facilities
+Tesla Factory
+Gigafactory 1
+Superchargers and battery-swapping stations
+Other
+History
+Dealership disputes
+Category
+Commons
+NewPP limit report
+Parsed by mw1249
+Cached time: 20161120194639
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 3.648 seconds
+Real time usage: 3.847 seconds
+Preprocessor visited node count: 37535/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 920700/2097152 bytes
+Template argument size: 34806/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 28/500
+Lua time usage: 1.898/10.000 seconds
+Lua memory usage: 8.63 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 3334.099
+1 - -total
+65.31% 2177.466
+4 - Template:Reflist
+30.22% 1007.490
+260 - Template:Cite_web
+18.62%
+620.644
+177 - Template:Cite_news
+5.96%
+198.810
+166 - Template:Convert
+4.29%
+143.198
+3 - Template:Infobox
+3.18%
+106.152
+30 - Template:As_of
+2.93%
+97.725
+1 - Template:Infobox_electric_vehicle
+2.79%
+92.937
+36 - Template:DMCA
+2.68%
+89.388
+36 - Template:Dated_maintenance_category
+Saved in parser cache with key enwiki:pcache:idhash:18215937-0!*!0!!en!4!* and timestamp 20161120194635 and revision id 750523898
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Tesla_Model_S&oldid=750523898"
+Categories: Battery electric carsRear-wheel-drive vehiclesAll-wheel-drive vehiclesSports sedansTesla Motors vehiclesElectric sports carsCars introduced in 2012Full-size vehiclesHidden categories: Articles containing potentially dated statements from December 2015All articles containing potentially dated statementsCS1 German-language sources (de)CS1 Norwegian-language sources (no)CS1 Danish-language sources (da)Articles containing potentially dated statements from June 2016CS1 Dutch-language sources (nl)All articles with dead external linksArticles with dead external links from June 2016Articles containing potentially dated statements from June 2015CS1 French-language sources (fr)CS1 Swedish-language sources (sv)CS1 Czech-language sources (cs)Use mdy dates from September 2014Articles containing potentially dated statements from September 2016Articles containing potentially dated statements from 2013All articles lacking reliable referencesArticles lacking reliable references from April 2016Articles containing potentially dated statements from June 2012Wikipedia articles needing clarification from March 2015Articles containing potentially dated statements from April 2016All articles with unsourced statementsArticles with unsourced statements from April 2016Articles containing potentially dated statements from 2015Articles containing potentially dated statements from July 2015Articles containing potentially dated statements from December 2014Articles with unsourced statements from July 2016Articles containing potentially dated statements from November 2015Articles containing potentially dated statements from October 2016Articles containing potentially dated statements from July 2014Articles containing potentially dated statements from November 2013Articles containing potentially dated statements from May 2015Articles containing potentially dated statements from June 2014Articles containing potentially dated statements from April 2015Articles containing potentially dated statements from 2016Articles lacking reliable references from August 2016Articles containing potentially dated statements from March 2014Articles containing potentially dated statements from August 2015Commons category with local link same as on Wikidata

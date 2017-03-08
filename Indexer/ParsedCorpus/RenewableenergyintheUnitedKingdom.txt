@@ -1,0 +1,874 @@
+RenewableenergyintheUnitedKingdom
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Installed capacity (MW) of renewable energy sources in the United Kingdom between 2000 and 2015[1]
+Electricity generated (GWh) from renewable sources in the United Kingdom between 2000 and 2015[1]
+' Percentage of electricity produced from renewable sources in the UK, 2011-2015.
+5
+10
+15
+20
+25
+30
+2011
+2012
+2013
+2014
+2015
+Percentage on a 2009 Renewable Energy Directive basis. (Normalised). Source Department for Business, Energy & Industrial Strategy, DUKES 2016 Chapter 6: Renewable sources of energy.[2]
+Renewable energy in the United Kingdom can be divided into the generation of renewable electricity, the generation of renewable heat and renewable energy use in the transport sector.
+From the mid-1990s renewable energy began to contribute to the electricity generated in the United Kingdom, adding to a small hydroelectricity generating capacity. The total of all renewable electricity sources provided for 14.9% of the electricity generated in the United Kingdom in 2013,[3] reaching 53.7 TWh of electricity generated. In the second quarter of 2015, renewable electricity penetration exceeded 25% and coal generation for the first time.[4]
+Renewable energy contributions to meeting the UK's 15% target reduction in total energy consumption by 2020, in accordance with the 2009 EU Renewable Directive, totalled 5.2% in 2013 as measured in accordance with the methodology set out in the Directive.[3] By 2016 provisional calculations show that the figure had risen again to 8.3 per cent of energy consumption (all sources) coming from renewable sources in 2015.[5]
+Interest in renewable energy in the UK has increased in recent years due to new UK and EU targets for reductions in carbon emissions and the promotion of renewable electricity power generation through commercial incentives such as the Renewable Obligation Certificate scheme (ROCs) and Feed in tariffs (FITs) and the promotion of renewable heat through the Renewable Heat Incentive. Historically hydroelectric schemes were the largest producers of renewable electricity in the UK, but these have now been surpassed by wind power schemes, for which the UK has large potential resources.
+Contents
+1 History
+2 Economics
+2.1 Strike prices
+3 Wind
+4 Ocean power
+5 Biofuels
+6 Solar
+7 Hydroelectric
+8 Geothermal power
+9 Microgeneration
+10 Community energy systems
+11 See also
+12 References
+13 External links
+History[edit]
+Renewable heat energy, in the form of biofuels, dates back to 415,000 BP in the UK. Uranium series dating and thermoluminescence dating give evidence to the use of wood fires at the site of Beeches Pit, Suffolk.[6][7]
+Waterwheel technology was imported to the country by the Romans, with sites in Ikenham and Willowford in England being from the 2nd century AD.[8] At the time of the compilation of the Domesday Book (1086), there were 5,624 watermills in England alone, only 2% of which have not been located by modern archaeological surveys.[9] Later research estimates a less conservative number of 6,082, and it has been pointed out that this should be considered a minimum as the northern reaches of England were never properly recorded.[10] In 1300, this number had risen to between 10,000 and 15,000.[11]
+Windmills first appeared in Europe during the Middle Ages. The earliest certain reference to a windmill in Europe (assumed to have been of the vertical type) dates from 1185, in the former village of Weedley in Yorkshire which was located at the southern tip of the Wold overlooking the Humber estuary.[12] The first electricity-generating wind turbine was a battery charging machine installed in July 1887 by Scottish academic James Blyth to light his holiday home in Marykirk, Scotland.[13]
+In 1878 the world's first hydroelectric power scheme was developed at Cragside in Northumberland, England by William George Armstrong. It was used to power a single Arc lamp in his art gallery.[14]
+However, almost all electricity generation thereafter was based on burning coal. In 1964 coal accounted for 88% of electricity generation, and oil was 11%.[15] The remainder was mostly supplied by hydroelectric power, which continued to grow its share of electricity generation as coal struggled to meet demand. The world's third pumped-storage hydroelectric power station, the Cruachan Dam in Argyll and Bute, Scotland, became fully operational in 1967.[16] The Central Electricity Generating Board attempted to experiment with wind energy on the Lln Peninsula in Wales during the 1950s, but this was shelved after local opposition.[15]
+Renewable energy experienced a turning point in the 1970s with the 1973 oil crisis, miners' strike (1972), growing environmentalism and wind energy development in the United States exerting pressure on the government. In 1974, the Central Policy Review Staff made the recommendation that the first stage of a full technical and economic appraisal of harnessing wave power for electricity generation should be put in hand at once. Wave power was seen to be the future of the nation's energy policy, and solar, wind, and tidal schemes were dismissed as 'impractical'. Nevertheless, an alternative energy research centre was opened in Harwell, although it was criticised for favouring nuclear power. By 1978, four wave energy generator prototypes had been designed which were later deemed too expensive. The Wave Energy Programme closed in the same year.[15]
+During this period, there was a large increase in installations of solar thermal collectors to provide hot water. In 1986, Southampton began pumping heat from the geothermal borehole through a district heating network. Over the years, several combined heat and power (CHP) engines and backup boilers for heating have been added, along with absorption chillers and backupvapour compression machines for cooling.[17]
+In 1987 a 3.7MW demonstration wind turbine on Orkney began supplying electricity to homes, the largest in Britain at the time. Privatisation of the energy sector in 1989 caused direct governmental research funding to cease. Two years later the UK's first onshore windfarm was opened in Delabole, Cornwall. The farm consists of 10 turbines and produces enough energy for 2,700 homes. This was followed by the UK's first offshore windfarm in North Hoyle, Wales.[18]
+The share of renewables in the country's electricity generation has risen from below 2% in 1990 to 14.9% in 2013, helped by subsidy and falling costs. Introduced on 1 April 2002, the Renewables Obligation requires all electricity suppliers who supply electricity to end consumers to supply a set portion of their electricity from eligible renewables sources; a proportion that will increase each year until 2015 from a 3% requirement in 2002-2003, via 10.4% in 2010-2012 up to 15.4% by 2015-2016. The UK Government announced in the 2006 Energy Review an additional target of 20% by 2020-21. For each eligible megawatt hour of renewable energy generated, a tradable certificate called a Renewables obligation certificate(ROC) is issued by OFGEM.
+In 2007, the United Kingdom Government agreed to an overall European Union target of generating 20% of the European Union's energy supply from renewable sources by 2020. Each European Union member state was given its own allocated target; for the United Kingdom it is 15%. This was formalised in January 2009 with the passage of the EU Renewables Directive. As renewable heat and fuel production in the United Kingdom are at extremely low bases, RenewableUK estimates that this will require 3540% of the United Kingdom's electricity to be generated from renewable sources by that date,[19] to be met largely by 3335 GW of installed wind capacity. The 2008 Climate Change Act consists of a commitment to reducing net Greenhouse Gas Emissions by 80% by 2050 (on 1990 levels) and an intermediate target reduction of 26% by 2020.
+The Green Deal is UK government policy, launched by the Department of Energy and Climate Change on 1 October 2012. It permits loans for energy saving measures for properties in Great Britain to enable consumers to benefit from energy efficient improvements to their home.
+Economics[edit]
+Estimated levelised costs (pence/kWh) of low-carbon electricity generation technologies[20]
+Technology
+2011 estimate
+2040 central projection
+River hydro (best locations)
+6.9
+5
+Onshore wind
+8.3
+5.5
+Nuclear
+9.6
+6
+CCGT with carbon capture
+10.0
+10
+Wood CFBC
+10.3
+7.5
+Geothermal
+15.9
+9
+Offshore wind
+16.9
+8.5
+Energy crops
+17.1
+11
+Tidal stream
+29.3
+13
+Solar PV
+34.3
+8
+Tidal barrage
+51.8
+22
+Strike prices[edit]
+The "strike price" forms the basis of the Contract for Difference between the 'generator and the Low Carbon Contracts Company (LCCC), a government-owned company'[21] and guarantees the price per MWh paid to the electricity producer. It is not the same as the Levelized cost of electricity (LCOE) which is a first order estimate of the average cost the producer must receive to break-even.
+Low-carbon generation sources have agreed "strike prices" in the range 50-79.23/MWh for photovoltaic, 80/MWh for energy from waste, 79.23-82.5/MWh for onshore wind, and 114.39-119.89/MWh for offshore wind and conversion technologies (all expressed in 2012 prices).[22][23] These prices are indexed to inflation.[24]
+With new interconnectors, specifically the ongoing construction of the NSN Link is expected to finish in 2020 after which the UK will get 1.4 GW of access to less expensive sources in the south Norway bidding area (NO2) of Nord Pool Spot.[25] Similarly, Viking Link is expected to start operations in 2022,[26] after which the UK will get another 1.4 GW of access to the less expensive west Denmark bidding area (DK1) of Nord Pool Spot.
+Wind[edit]
+Main article: Wind power in the United Kingdom
+Wind power delivers a growing fraction of the energy in the United Kingdom and at the beginning of January 2015, wind power in the United Kingdom consisted of 6,546 wind turbines with a total installed capacity of just under 12 gigawatts: 7,950 megawatts of onshore capacity and 4,049 megawatts of offshore capacity.[27] The United Kingdom is ranked as the world's sixth largest producer of wind power, having overtaken France and Italy in 2012.[28] Polling of public opinion consistently shows strong support for wind power in the UK, with nearly three quarters of the population agreeing with its use, even for people living near onshore wind turbines. Wind power is expected to continue growing in the UK for the foreseeable future, RenewableUK estimates that more than 2GW of capacity will be deployed per year for the next five years.[29] Within the UK, wind power is the second largest source of renewable energy after biomass.[3] In 2016
+Dong Energy is the UKs largest windfarm operator with stakes in planned or existing projects able to produce 5 GW wind energy. Dong Energy chief executive have confirmed plan to sell companys oil and gas division.[30]
+2010 saw the completion of some significant projects in the UK wind industry with the Gunfleet Sands, Robin Rigg[31] and Thanet[32] offshore wind farms coming on stream. Over 1.1GW of new wind power capacity was brought online during 2010, a 3% increase on 2009. There was a 38% drop in onshore installations to 503MW compared with 815MW in 2009 but there was a 230% increase in offshore installations with 653MW installed (compared with 285MW in 2009).
+Ocean power[edit]
+PB150 PowerBuoy with peak-rated power output of 150 kW.
+Main article: Marine energy
+The Islay limpet wave power device
+Due to the island location of the UK, the country has great potential for generating electricity from wave power and tidal power.
+To date, wave and tidal power have received very little money for development and consequently have not yet been exploited on a significant commercial basis due to doubts over their economic viability in the UK.[33] The European Marine Energy Centre in Orkney operates a grid connected wave power scheme at Billia Croo outside Stromness and a grid connected tidal test side in a narrow channel between the Westray Firth and Stronsay Firth.[34]
+Funding for the UK's first wave farm was announced by then Scottish Executive in February 2007. It will be the world's largest, with a capacity of 3 MW generated by four Pelamis machines and a cost of over 4 million pounds.[35] In the south of Scotland,investigations have taken place into a Tidal Power scheme involving the construction of a Solway Barage, possibly located south of Annan.
+A Wave farm project to harness Wave power, using the PB150 PowerBuoy has been completed by Ocean Power Technologies in Scotland and is under development off Cornwall at Wave Hub.
+Biofuels[edit]
+Main article: Biofuel in the United Kingdom
+Gas from sewage and landfill (biogas) has already been exploited in some areas. In 2004 it provided 129.3 GWh (up 690% from 1990 levels), and was the UK's leading renewable energy source, representing 39.4% of all renewable energy produced (including hydro).[36] The UK has committed to a target of 10.3% of renewable energy in transport to comply with the Renewable Energy Directive of the European Union but has not yet implemented legislation to meet this target.
+Other biofuels can provide a close-to-carbon-neutral energy source, if locally grown. In South America and Asia, the production of biofuels for export has in some cases resulted in significant ecological damage, including the clearing of rainforest. In 2004 biofuels provided 105.9 GWh, 38% of it wood. This represented an increase of 500% from 1990.[37]
+Solar[edit]
+Solar panels on the BedZED development in the London Borough of Sutton
+Main article: Solar power in the United Kingdom
+At the end of 2011, there were 230,000 solar power projects in the United Kingdom,[38] with a total installed generating capacity of 750 megawatts (MW).[39] By February 2012 the installed capacity had reached 1,000 MW.[40] Solar power use has increased very rapidly in recent years, albeit from a small base, as a result of reductions in the cost of photovoltaic (PV) panels, and the introduction of a Feed-in tariff (FIT) subsidy in April 2010.[38] In 2012, the government said that 4 million homes across the UK will be powered by the sun within eight years,[41] representing 22,000 MW of installed solar power capacity by 2020.[38]
+Hydroelectric[edit]
+Main article: Hydroelectricity in the United Kingdom
+The Dinorwig Power Station lower reservoir, a 1,800 MW pumped-storage hydroelectric scheme, in north Wales, and the largest hydroelectric power station in the UK
+As of 2012, hydroelectric power stations in the United Kingdom accounted for 1.67 GW of installed electrical generating capacity, being 1.9% of the UK's total generating capacity and 14% of UK's renewable energy generating capacity. Annual electricity production from such schemes is approximately 5,700 GWh, being about 1.5% of the UK's total electricity production.[42]
+There are also pumped-storage power stations in the UK. These power stations are net consumers of electrical energy however they contribute to balancing the grid, which can facilitate renewable generation elsewhere, for example by 'soaking up' surplus renewable output at off-peak times and release the energy when it is required.
+Geothermal power[edit]
+Main article: Geothermal power in the United Kingdom
+Investigations into the exploitation of Geothermal power in the United Kingdom, prompted by the 1973 oil crisis, were abandoned as fuel prices fell. Only one scheme is operational, in Southampton. In 2004 it was announced that a further scheme would be built to heat the UK's first geothermal energy model village near Eastgate, County Durham.[43]
+Microgeneration[edit]
+Microgeneration technologies are seen as having considerable potential by the Government. However, the microgeneration strategy launched in March 2006[44] was seen as a disappointment by many commentators.[45] Microgeneration involves the local production of electricity by homes and businesses from low-energy sources including small scale wind turbines, and solar electricity installations. The Climate Change and Sustainable Energy Act 2006[46] is expected to boost the number of microgeneration installations,[47] however, funding for grants under the Low Carbon Building Programme is proving insufficient to meet demand[48] with funds for March 2007 being spent in 75 minutes.[49] FiTs (Feed-in-Tariffs, aka "Clean Energy Cashback") were introduced from 1 April 2010 to support microgeneration of electricity. The Renewable Heat Incentive was introduced from 28 November 2011 to support microgeneration of heat from ground source heat pumps, solar thermal panels and biomass boilers, but only for non-domestic dwellings. The Government has plans to extend the RHI to domestic dwellings in 2013. The delay of introducing the RHI for renewable heat long after the subsidy for renewable electricity was introduced has dealt a savage blow to the renewable heat industries.
+Community energy systems[edit]
+Sustainable community energy systems, pioneered by Woking Borough Council, provide an integrated approach to using cogeneration, renewables and other technologies to provide sustainable energy supplies to an urban community. It is expected that the same approach will be developed in other towns and cities, including London.[50] Highlands and Islands Community Energy Company based in Inverness are active in developing community-owned and led initiatives in Scotland.[51]
+Energy positive house was built in Wales with 120,000 in July 2015. The future price is estimated as 100,000. The annual export of energy of building is higher than its own demand.[52]
+See also[edit]
+Renewable energy in Scotland
+Renewable energy in the Republic of Ireland
+Wind power in the United Kingdom
+Solar power in the United Kingdom
+Biofuel in the United Kingdom
+Hydroelectricity in the United Kingdom
+Geothermal power in the United Kingdom
+Energy in the United Kingdom
+List of renewable resources produced and traded by the United Kingdom
+Renewable energy by country
+Renewable energy in the European Union
+Feed-in tariff
+Decarbonisation Measures in Proposed UK Electricity Market Reform
+Department of Energy and Climate Change (DECC)
+References[edit]
+^ a b "Renewable sources of energy" (PDF).
+^ "Department for Business, Energy & Industrial Strategy, / chapter-6-digest-of-united-kingdom-energy-statistics-dukes".
+^ a b c "Department of Energy and Climate Change: Annual tables: 'Digest of UK energy statistics' (DUKES) - Chapter 6: Renewable Sources of energy". Retrieved 13 April 2015.
+^ http://www.theguardian.com/environment/2015/sep/24/renewable-energy-outstrips-coal-for-first-time-in-uk-electricity-mix
+^ "Department for Business, Energy & Industrial Strategy, DUKES 2016 Chapter 6: Renewable sources of energy.".
+^ Preece, R. C. (2006). "Humans in the Hoxnian: habitat, context and fire use at Beeches Pit, West Stow, Suffolk, UK". Journal of Quaternary Science. Wiley: 485496.
+^ Gowlett, John A. J. (2005). "BEECHES PIT: AR CHAE OLOGY, AS SEM BLAGE DY NAM ICS AND EARLY FIRE HIS TORY OF A MID DLE PLEIS TO CENE SITE IN EAST AN GLIA, UK" (PDF). Eurasian Prehistory.
+^ rjan, Wikander (1985). "Archaeological Evidence for Early Water-Mills. An Interim Report". History of Technology. 10: 151179.
+^ Gimpel 1977, pp.1112
+^ Langdon 2004, pp.910
+^ Langdon 2004, pp.11
+^ Laurence Turner, Roy Gregory (2009). Windmills of Yorkshire. Catrine, East Ayrshire: Stenlake Publishing. p.2. ISBN9781840334753.
+^ Price, Trevor J. (2004). "Blyth, James (18391906)". Oxford Dictionary of National Biography (online ed.). Oxford University Press. doi:10.1093/ref:odnb/100957. (Subscription or UK public library membership required.)
+^ Association for Industrial Archaeology (1987). Industrial archaeology review, Volumes 10-11. Oxford University Press. p.187.
+^ a b c Wilson, John Campbell (September 2010). "A history of the UK renewable energy programme, 1974-88: some social, political, and economic aspects." (PDF). School of Social and Political Sciences College of Social Sciences University of Glasgow. Retrieved 25 Jul 2015.
+^ "Pumped Storage Hydro In ScotlandScotland's Renewable Energy Guide". www.scotsrenewables.com. 19 Feb 2011. Retrieved 2015-07-25.
+^ "Case study: Southampton | Greenpeace UK". www.greenpeace.org.uk. 23 July 2007. Retrieved 2015-07-25.
+^ Nixon, Niki (17 October 2008). "Timeline: The history of wind power". the Guardian. Retrieved 2015-07-25.
+^ McKenna, John (2009-04-08). "New Civil Engineer  Wind power: Chancellor urged to use budget to aid ailing developers". Nce.co.uk. Retrieved 2013-10-05.
+^ Mott MacDonald; Guy Doyle; Konrad Borkowski; George Vantsiotis; James Dodds; Simon Critten (9 May 2011), Costs of low-carbon generation technologies (PDF), Checked and approved by David Holding, Committee on Climate Change, pp.ix, xiii, archived from the original (PDF) on 17 August 2011, retrieved 11 June 2011
+^ "Electricity Market Reform: Contracts for Difference". Department for Business, Energy and Industrial Strategy. 26 February 2015. Retrieved 4 August 2016.
+^ UK Government. "Contracts for Difference (CFD) Allocation Round One Outcome" (PDF). UK Government.
+^ "Comparing the cost of electricity generation from Hinkley Point C with solar and flexibility mechanisms" (PDF). Solar Trade Association.
+^ UK Government. "FiT Contract for Difference Standard terms and Conditions" (PDF). UK Government.
+^ "Southern Norway towards new HVDC-connections". nordpoolspot.com. Retrieved 2016-08-02.
+^ "Denmark - National Grid". nationalgrid.com. Retrieved 2016-02-03.
+^ [1]. RenewableUK  UK Wind Energy Database (UKWED)
+^ "Wind power production for main countries". thewindpower.net.
+^ RenewableUK. "RenewableUK - The Voice of Wind & Marine Energy". bwea.com.
+^ Wind turbines 'could supply most of UK's electricity' The Guardian 8.11.2016
+^ NewEnergyFocus wind news webpage
+^ PublicService.co.uk news article
+^ [1]
+^ "Facilities: EMEC: European Marine Energy Centre". www.emec.org.uk. Retrieved 2015-07-25.
+^ "Orkney to get 'biggest' wave farm". BBC News. 2007-02-20.
+^ DTI figures
+^ (DTI figures)
+^ a b c Yeganeh Torbati (Feb 9, 2012). "UK wants sustained cuts to solar panel tariffs". Reuters.
+^ European Photovoltaic Industry Association (2012). "Market Report 2011".
+^ Jonathan Gifford (23 February 2012). "UK hits one GW of PV capacity". PV Magazine. Missing or empty |url= (help)
+^ Fiona Harvey (9 February 2012). "Greg Barker: 4m homes will be solar-powered by 2020".
+^ "Department of Energy and Climate Change: UK use of Hydroelectricity". Retrieved 23 September 2013.
+^ "BBC NEWS - UK - England - 'Hot rocks' found at cement plant". bbc.co.uk.
+^ Our energy challenge: power from the people. Microgeneration strategy - BERR
+^ "Home power plan 'disappointment'". BBC News. 2006-03-29. Retrieved 2010-05-02.
+^ Climate Change and Sustainable Energy Act 2006 (c. 19)
+^ "Power from the people". BBC News. 2006-03-09. Retrieved 2010-05-02.
+^ "r-p-a.org.uk". r-p-a.org.uk.
+^ Elliott, Larry (2007-03-02). "Green energy industry attacks government rationing of grants". The Guardian. London. Retrieved 2010-05-02.
+^ Muir, Hugh (2005-06-29). "Wake-up call from Woking". The Guardian. London. Retrieved 2010-05-02.
+^ "404 - Page not found" (PDF). hie.co.uk.
+^ John Vidal. "Britain's first 'energy positive' house opens in Wales". the Guardian.
+External links[edit]
+Sustainable Energy at DEFRA
+The UK Renewable Energy Strategy (official government policy)
+Planning Policy Statement 22 (PPS22) on renewable energy
+UK Renewables Policy.
+Small-scale Wind Power in the UK
+Britain's Old Industries See Renewable Boost
+Britain To Launch Innovative Feed-in Tariff Program in 2010
+Map of UK renewable power installations
+v
+t
+e
+Energy in the United Kingdom
+Companies
+Coal
+Anglo American
+Asia Energy
+BHP Billiton
+ENRC
+Glencore
+Rio Tinto
+UK Coal
+Oil and gas
+Integrated
+BG Group
+BP
+Royal Dutch Shell
+Exploration and
+production
+Afren
+BHP Billiton
+Cairn Energy
+Centrica
+Dana Petroleum
+Desire Petroleum
+Emerald Energy
+EnQuest
+Essar Energy
+Falkland Oil and Gas
+Hardy Oil and Gas
+JKX Oil & Gas
+Melrose Resources
+Ophir Energy
+Perenco
+Premier Oil
+Regal Petroleum
+Rockhopper Exploration
+SOCO International
+Star Energy
+Tullow Oil
+Supply
+Greenergy
+Murco Petroleum
+Support
+Abbot Group
+AMEC
+Ensco
+Expro
+Hunting
+Petrofac
+Qserv
+Score Group
+Weir Group
+WesternGeco1
+Wood Group
+Utilities
+Generation and
+supply
+Integrated
+Centrica
+EDF Energy1
+E.ON UK1
+RWE npower1
+Scottish Power1
+SSE
+Generation
+Drax Group
+Falck Renewables
+Horizon Nuclear Power1
+International Power
+Vattenfall United Kingdom1
+Vedanta Resources
+Supply
+The Co-operative Energy
+Ecotricity
+ESB International
+Extra Energy
+Firmus Energy
+First Utility
+Good Energy
+Green Energy
+LoCO2 Energy
+Opus Energy
+Ovo Energy
+Phoenix Natural Gas
+Telecom Plus
+Distribution
+Electricity
+Electricity North West1
+Northern Powergrid1
+SP Energy Networks1
+SSE Power Distribution
+UK Power Networks1
+Western Power Distribution1
+Gas
+Firmus Energy
+National Grid
+Northern Gas Networks
+Phoenix Natural Gas
+SGN
+Wales & West Utilities1
+Transmission
+Electricity
+National Grid2
+Scottish Hydro Electric Transmission
+SP Energy Networks1
+Gas
+National Grid
+Other
+Aggreko
+APX Group
+Aquamarine Power
+Ecogen
+EnServe
+Geothermal Engineering
+Hi-Gen Power
+Mark Group
+Wavegen
+Companies with headquarters and/or registered office in the UK but no applicable energy operations within the country shown in italics 1Ultimate parent company is not UK-based 2Integrated in the United States, no generation or supply activities in the UK
+Energy sources
+Coal
+Coal Authority
+Coal-fired power stations
+Coal mines
+Coal mining regions
+Confederation of UK Coal Producers
+Greenhouse gas emissions
+History (Miners' strike
+National Coal Board)
+Open-pit coal mining
+Electricity
+Association of Electricity Producers
+BritNed
+EastWest Interconnector
+Energy switching services
+Economy 7
+Economy 10
+Electricity billing
+Green electricity
+Grid Trade Master Agreement
+HVDC Cross-Channel
+HVDC Moyle
+HVDC NorwayUK
+Isle of Man to England Interconnector
+National Grid
+Control
+Reserve Service
+New Electricity Trading Arrangements
+Power stations
+Timeline of the electricity supply industry
+Nuclear
+Advanced gas-cooled reactor
+FrancoBritish Nuclear Forum
+Magnox
+National Nuclear Laboratory
+Nuclear Decommissioning Authority
+Nuclear Liabilities Fund
+Nuclear power stations
+Office for Nuclear Regulation
+Sellafield
+United Kingdom Atomic Energy Authority
+Oil and gas
+BBL Pipeline
+Dash for Gas
+Forties pipeline system
+Fuel protests
+Gas infrastructure
+Greenhouse gas emissions
+Hydrocarbon oil duty
+Oil and Gas Authority
+National Transmission System
+Natural gas fields
+Natural gas-fired power stations
+North Sea oil
+Oil & Gas UK
+Oil fields
+Oil-fired power stations
+Oil infrastructure
+Oil refineries
+Petroleum revenue tax
+Renewables
+Biofuels
+Biodiesel
+Biofuel power stations
+National Non-Food Crops Centre
+Renewable Fuels Agency
+Renewable Transport Fuel Obligation
+Geothermal
+Geothermal power stations
+Hydroelectricity
+Hydroelectric power stations
+Severn Barrage
+Wave farms
+Solar power
+Wind power
+List of offshore wind farms
+List of onshore wind farms
+North Sea Offshore Grid
+Wind power in Scotland
+Government and regulation
+Organisations
+Carbon Trust
+Cenex
+Committee on Climate Change
+Department of Energy and Climate Change
+Department for Environment, Food and Rural Affairs
+Energy Saving Trust
+Environment Agency
+Office of Gas and Electricity Markets
+Legislation and
+initiatives
+Carbon Emission Reduction Target
+Climate Change Act 2008
+Climate Change Agreement
+Climate Change Levy
+Climate Change and Sustainable Energy Act 2006
+CRC Energy Efficiency Scheme
+Display Energy Certificate
+Energy Act 2013
+Energy Performance Certificate
+Fossil Fuel Levy
+Low Carbon Building Programme
+National Industrial Symbiosis Programme
+Non-Fossil Fuel Obligation
+Planning Act 2008
+Renewable Heat Incentive
+Renewables Obligation
+United Kingdom Climate Change Programme
+Non-governmental organisations
+Charities and
+pressure groups
+Ashden Award
+BioRegional
+Campaign against Climate Change
+Centre for Alternative Technology
+National Energy Action
+Stop Climate Chaos
+Tyndall Centre
+Industry bodies
+Combined Heat and Power Association
+Energy Institute
+Energy Networks Association
+Energy Retail Association
+Green Power Forum
+RenewableUK
+Utilities Intermediaries Association
+Research
+Centre for Renewable Energy Systems Technology
+Energy Technologies Institute
+Hadley Centre for Climate Prediction and Research
+NaREC
+Oil Depletion Analysis Centre
+UK Energy Research Centre
+Energy conservation
+Association for the Conservation of Energy
+British Energy Efficiency Federation
+Close the Door campaign
+Code for Sustainable Homes
+Double Glazing & Conservatory Ombudsman Scheme
+EcoHomes
+Energy efficiency in British housing
+Energy Saving Trust (Energy Saving Trust Recommended)
+Greenhouse gas emissions
+HTB
+National Home Energy Rating
+Category
+Commons
+v
+t
+e
+Economy of the United Kingdom
+Companies
+Co-operatives
+Employee-owned companies
+FTSE 100 Index
+FTSE 250 Index
+FTSE Fledgling Index
+FTSE SmallCap Index
+Government-owned companies
+Currency
+governance
+regulation
+Bank of England
+Governor of the Bank of England
+Budget
+Company law
+Competition Commission
+Department for Business, Innovation and Skills
+Financial Conduct Authority
+Gilts
+HM Revenue and Customs
+HM Treasury
+Chancellor of the Exchequer
+Debt Management Office
+Monetary Policy Committee
+Office for Budget Responsibility
+Office of Fair Trading
+Pound sterling
+Banknotes
+Coinage
+Taxation
+UK Statistics Authority
+UK Trade & Investment
+History
+Chronological
+16591849 Navigation Acts
+Agricultural Revolution
+Industrial Revolution
+Panic of 179697
+181546 Corn Laws
+New Imperialism 1830s1945
+Second Industrial Revolution 1860s1914
+187379 Long Depression
+1926 general strike
+192939 Great Depression
+194852 Marshall Plan
+1974 Three-Day Week
+1979 Winter of Discontent
+1986 Big Bang
+1992 Black Wednesday
+Late-2000s recession
+2008 bank rescue package
+2009 bank rescue package
+Recurrent
+Economic geography
+Free trade
+Gold standard
+Recessions and recoveries
+National champions policy
+Economic liberalism
+Privatization
+Nationalisation
+Nations,
+regions,
+cities
+England
+Atlantic Gateway
+Birmingham
+Big City Plan
+Bristol
+Cornwall
+Croydon
+Croydon Vision 2020
+Devon
+Expansion plans for Milton Keynes
+Fishing
+Leeds
+List of counties by GVA
+Liverpool
+London
+East London Tech City
+London Plan
+M4 corridor
+M11 Corridor
+Manchester
+Reading
+Sheffield
+Silicon Fen
+Thames Gateway
+Tourism
+Transport
+N. Ireland
+Belfast
+Transport
+Scotland
+Aberdeen
+Agriculture
+Edinburgh
+Industrialisation
+Fishing
+Oil and gas
+Renewable energy
+Silicon Glen
+Tourism
+Transport
+Whisky
+Wales
+Cardiff(Cardiff Bay)
+Swansea
+Tourism
+Transport
+People and labour
+Billionaires
+Businesspeople
+Demography
+Income
+Poverty
+Labour law
+Equal opportunities
+Minimum wage
+Working Time Directive
+Pensions
+Trade unions
+Trades Union Congress
+Unemployment
+Sectors
+Resource &
+production
+Energy/Renewable energy
+Biodiesel
+Coal
+Geothermal
+Hydraulic frac.
+Hydroelectricity
+Marine
+North Sea oil
+Solar
+Wind
+Food
+Agriculture
+Cider
+Wine
+Beer
+Fishing
+English
+Scottish
+Materials
+Forestry
+Mining
+Financial
+services
+Baltic Exchange
+Banking
+List of banks
+List of UK building societies
+Canary Wharf
+The City
+Euronext.liffe
+Glasgow International Financial Services District
+Insurance
+Lloyd's of London
+LCH.Clearnet
+London Interbank Offered Rate
+London Metal Exchange
+London Platinum and Palladium Market
+London Stock Exchange
+Alternative Investment Market
+Other
+Education
+Entertainment & Media
+Cinema
+Gambling
+Newspapers
+Radio
+Television
+Theatre
+Healthcare
+Legal services
+Manufacturing
+Aerospace
+Automotive
+Pharmaceuticals
+Exports
+Property
+Architecture
+Construction
+Housing
+Real estate
+Science and technology
+Internet
+Telecommunications
+Supermarkets
+Tourism
+Transport
+Aviation
+Rail
+Inter-city
+High-speed
+Trade and business
+organisations
+Business and employer associations
+British Bankers' Association
+British Chambers of Commerce
+Confederation of British Industry
+Co-operatives UK
+EEF
+Federation of Small Businesses
+Industry trade groups
+Institute of Directors
+UK Payments Administration (UKPA)
+Category
+Commons
+v
+t
+e
+Science and technology in the United Kingdom
+Economy of the United Kingdom
+Official bodies
+and personnel
+Chief Scientific Adviser to the Ministry of Defence
+Council for Science and Technology
+DESG (Defence Engineering and Science Group)
+Defence Science and Technology Laboratory
+Food and Environment Research Agency
+Government Office for Science
+Chief Scientific Adviser
+Innovate UK
+Intellectual Property Office
+List of UK government scientific research institutes
+Parliamentary Office of Science and Technology
+Science and Technology Select Committee
+UK Research Councils
+Arts and Humanities
+Biotechnology and Biological Sciences
+Economic and Social
+Engineering and Physical Sciences
+Medical
+Natural Environment
+Science and Technology
+UK Space Agency
+Industry sectors
+Aerospace
+British space programme
+Automotive
+Computers
+Nuclear technology
+Pharmaceutical
+Renewable energy
+Telecommunications
+Non-governmental
+bodies
+Education and museums
+Science museums
+National Museum of Science and Industry
+National Space Centre
+Universities
+List
+Golden triangle
+Russell Group
+Societies and
+professional bodies
+British Mass Spectrometry Society
+British Science Association
+Engineering Council
+Institute of Physics
+Institute of Physics and Engineering in Medicine
+Royal Academy of Engineering
+Royal Aeronautical Society
+Royal Astronomical Society
+Royal Entomological Society
+Royal Institution
+Christmas Lectures
+Royal Society
+Royal Society of Chemistry
+Science Council
+Royal Society of Biology
+Other
+Campaign for Science and Engineering
+EngineeringUK
+Science Media Centre
+Wellcome Trust
+People
+Engineers
+Inventors
+Nobel laureates
+Science writers
+Scientists
+Technology writers
+Places
+East London Tech City
+M4 corridor
+Science parks
+Silicon Fen
+Silicon Glen
+Silicon Gorge
+Sites of Special Scientific Interest
+Other
+Inventions
+Science and technology awards
+Science and technology magazines
+JANET
+National Science Week
+Category
+Commons
+v
+t
+e
+Renewable energy by country
+Africa
+Ethiopia
+Kenya
+Morocco
+Seychelles
+Asia
+Afghanistan
+Bangladesh
+Bhutan
+China
+India
+Kazakhstan
+Nepal
+Pakistan
+Philippines
+Taiwan
+Thailand
+Europe
+European Union (Czech Republic, Denmark, Finland, Germany, Greece, Hungary, Ireland, Italy, Lithuania, Luxembourg, Netherlands, Portugal, Spain, Sweden, United Kingdom)
+Albania
+Iceland
+Norway
+Russia
+North America
+Canada
+Costa Rica
+Honduras
+Mexico
+United States
+Oceania
+Australia
+New Zealand
+Tuvalu
+South America
+Argentina
+Brazil
+Chile
+Colombia
+Category
+Portals:
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1175
+Cached time: 20161118215226
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.636 seconds
+Real time usage: 0.711 seconds
+Preprocessor visited node count: 3949/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 381482/2097152 bytes
+Template argument size: 27218/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Lua time usage: 0.254/10.000 seconds
+Lua memory usage: 3.72 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+484.798
+1 - -total
+57.11%
+276.857
+1 - Template:Reflist
+28.84%
+139.814
+27 - Template:Cite_web
+24.19%
+117.281
+17 - Template:Navbox
+17.49%
+84.779
+1 - Template:Energy_in_the_United_Kingdom
+16.73%
+81.120
+1 - Template:Navbox_with_collapsible_groups
+5.22%
+25.305
+1 - Template:Science_and_technology_in_the_United_Kingdom
+4.70%
+22.789
+1 - Template:Economy_of_the_United_Kingdom
+4.44%
+21.516
+5 - Template:Cite_news
+4.33%
+20.997
+1 - Template:Image_frame
+Saved in parser cache with key enwiki:pcache:idhash:12593441-0!*!0!!en!4!* and timestamp 20161118215225 and revision id 749493294
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Renewable_energy_in_the_United_Kingdom&oldid=749493294"
+Categories: Renewable energy in the United KingdomHidden categories: Wikipedia articles incorporating a citation from the ODNBPages using web citations with no URL

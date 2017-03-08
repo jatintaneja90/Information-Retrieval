@@ -1,0 +1,95 @@
+Minimumenergyperformancestandard
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}A MEPS (Minimum Energy Performance Standard) is a specification, containing a number of performance requirements for an energy-using device, that effectively limits the maximum amount of energy that may be consumed by a product in performing a specified task.
+A MEPS is usually made mandatory by a government energy efficiency body. It may include requirements not directly related to energy; this is to ensure that general performance and user satisfaction are not adversely affected by increasing energy efficiency.
+A MEPS generally requires use of a particular test procedure that specifies how performance is measured.
+In North America when addressing energy efficiency, a MEPS is sometimes referred to simply as a standard, as in Co-operation on Labeling and Standards Programs. In Latin America when addressing energy efficiency, MEPS are sometimes referred to as Normas (translated as "norms").
+Contents
+1 Examples
+2 California
+3 Australia
+4 Brazil
+5 New Zealand
+6 See also
+7 References
+8 External links
+Examples[edit]
+A refrigerating appliance is required to maintain temperatures inside its compartments within specified limits, and to operate (including defrosting) in a specified ambient temperature while using at most a specified amount of electricity; the energy use allowed varies according to volume, number of doors, the function of the various compartments and other parameters. This graph shows the dramatic reduction in electricity use in U.S. refrigerators following the introduction of a series of first California then U.S. MEPS starting in the mid-1970s:
+Price, volume and efficiency of refrigerators
+An electric fan is required to shift air at a specified rate while consuming a limited amount of power.
+A storage water heater providing hot water for sanitary purposes is required to heat up a specified quantity of water to a specified temperature and store it at that temperature for a specified time while consuming a limited amount of energy. In this example, the requirements for heating up and for maintaining the temperature may be applied as two separate energy performance requirements or there may be a single task efficiency.
+An electric induction motor is required to have a specified minimum full-load efficiency.
+A compact fluorescent lamp is required to start and run up to near full brightness in a given time, to have a minimum life of several thousand hours, to maintain its output within specified limits, to withstand a certain number of switchings, to have a consistent colour appearance and a specified colour rendering. Its energy performance requirement is usually stated in terms of minimum efficacy (light output per electrical input).
+California[edit]
+In the U.S., the state of California was a pioneer [1] in the introduction of MEPS. In order to reduce the growth in electricity use, the California Energy Commission (CEC) was given unique and strong authority to regulate the efficiency of appliances sold in the state. It started to adopt appliance efficiency regulations in 1978, and has updated the standards regularly over time, and expanded the list of covered appliances.
+In 1988, California's standards became national standards for the U.S. through the enactment of the National Appliance Energy Conservation Act (NAECA). The federal standards preempted state standards (unless the state justified a waiver from federal preemption based on conditions in the state), and since then, the U.S. Department of Energy has had the responsibility to update the federal standards.
+California has continued to expand the list of appliances it regulates for appliances that are not federally regulated, and therefore not preempted. In recent years,[when?] the CEC's attention has been focused on consumer electronics, for which energy use has been growing dramatically.
+Australia[edit]
+MEPS programs are made mandatory in Australia by state government legislation and regulations which give force to the relevant Australian Standards. It is mandatory for the following products manufactured in or imported into Australia to meet the MEPS levels specified by the relevant Australian Standards:
+Calendar of implementation of MEPS in Australia[2]
+Appliance
+Date
+Refrigerators and freezers
+1 October 1999
+Mains pressure electric storage water heaters
+1 October 1999
+Three phase electric motors
+1 October 2001
+Three-phase air conditioners
+1 October 2001
+Ballasts for linear fluorescent lamps
+1 March 2003
+Single-phase air conditioners
+1 October 2004
+Linear fluorescent lamps
+1 October 2004
+Distribution transformers
+1 October 2004
+commercial refrigeration
+1 October 2004
+Pressure electric storage water heaters smaller than 80 liters,
+low pressure and heat exchange types
+1 October 2005
+Brazil[edit]
+A law was approved in 2001.[3] MEPS have been set for three-phase electric motors and compact fluorescent lamps.
+New Zealand[edit]
+On 5 February 2002, New Zealand introduced Minimum Energy Performance Standards (MEPS) with Energy Efficiency Regulations. MEPS and energy rating labels help improve the energy efficiency of our[who?] products, and enable consumers to choose products that use less energy. Products covered by MEPS must meet or exceed set levels for energy performance before they can be sold to consumers. MEPS have been updated over the years (2002, 2003, 2004, 2008, 2011) to cover a wide range of products, and increasing levels of stringency. New Zealand works with Australia to harmonise MEPS levels. Almost all of its standards are joint standards with Australia. New Zealand has mandatory Energy rating labelling for dishwashers and clothes dryers, fridges, washing machines and room air conditioners. MEPS apply to the following:[4]
+Refrigerators and freezers
+Washing machines
+Air conditioners
+Computer room air conditioners
+Chillers
+Electric water storage heaters
+Gas water heaters
+External power supplies
+Set-top boxes
+Distribution transformers
+Refrigerated display cabinets
+Three-phase electric motors
+Ballasts for fluorescent lamps
+Tubular fluorescent lamps
+See also[edit]
+Energy Star
+One Watt Initiative
+Power management
+E-waste
+Green energy
+House Energy Rating (Australia)
+European Union energy label
+Ecodesign
+References[edit]
+^ http://www.eceee.org S. Nadel S., 2003, Appliance & equipment efficiency standards in the US: Accomplishments,next steps and lessons learned, ECEEE 2003 Summer Study, St Raphael.
+^ energy jargon
+^ Energy Efficiency in Brazil. Paulo Augusto Leonelli, Brazilian Ministry of Mines and energy. November 20, 2007
+^ Energy Efficiency and Conservation Authority of New Zealand http://www.eeca.govt.nz/standards-and-ratings/minimum-energy-performance-standards-and-labelling
+External links[edit]
+Appliance Standards Awareness Project (ASAP) (US)
+California Energy Commission (efficiency standards and database) (US)
+Collaborative Labeling and Appliance Standards Program (CLASP) (US)
+Department of Energy (U.S. efficiency standards) (US)
+Australian energy standards and labels
+Natural Resources Canada
+Saved in parser cache with key enwiki:pcache:idhash:16716910-0!*!0!!en!4!* and timestamp 20161021035748 and revision id 716753998
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Minimum_energy_performance_standard&oldid=716753998"
+Categories: Product certificationEnergy conservationEnvironmental standardsHidden categories: Vague or ambiguous time from April 2014All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from April 2014

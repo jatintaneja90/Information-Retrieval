@@ -1,0 +1,566 @@
+Environmentaleconomics
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Not to be confused with ecological economics.
+Part of a series about
+Environmental economics
+Concepts
+Green accounting
+Green economy
+Green trading
+Eco commerce
+Green job
+Environmental enterprise
+Fiscal environmentalism
+Environmental finance
+Renewable energy
+Policies
+Sustainable tourism
+Ecotax
+Environmental tariff
+Net metering
+Environmental pricing reform
+Pigovian tax
+Dynamics
+Renewable energy commercialization
+Marginal abatement cost
+Green paradox
+Green politics
+Pollution haven hypothesis
+Carbon related
+Low-carbon economy
+Carbon neutral fuel
+Carbon neutrality
+Carbon pricing
+Emissions trading
+Carbon credit
+Carbon offset
+Carbon emission trading
+Personal carbon trading
+Carbon tax
+Carbon finance
+Feed-in tariff
+Carbon diet
+Food miles
+2000-watt society
+Carbon footprint
+v
+t
+e
+Environmental economics is a sub-field of economics that is concerned with environmental issues. Quoting from the National Bureau of Economic Research Environmental Economics program:
+[...] Environmental Economics [...] undertakes theoretical or empirical studies of the economic effects of national or local environmental policies around the world [...]. Particular issues include the costs and benefits of alternative environmental policies to deal with air pollution, water quality, toxic substances, solid waste, and global warming.[1]
+Environmental economics is distinguished from ecological economics in that ecological economics emphasizes the economy as a subsystem of the ecosystem with its focus upon preserving natural capital.[2] One survey of German economists found that ecological and environmental economics are different schools of economic thought, with ecological economists emphasizing "strong" sustainability and rejecting the proposition that natural capital can be substituted by human-made capital.[3]
+Contents
+1 Topics and concepts
+1.1 Market failure
+1.2 Externality
+1.3 Common goods and public goods
+1.4 Valuation
+2 Solutions
+3 Relationship to other fields
+4 Professional bodies
+5 See also
+5.1 Hypotheses and theorems
+6 Notes
+7 References
+Topics and concepts[edit]
+Economics
+World GDP (PPP) per capita by country(2015)
+Index
+Outline
+Category
+History
+Types
+Classification
+History of economics
+Economic history (academic study)
+Schools of economics
+Microeconomics
+Macroeconomics
+Methodology
+Heterodox economics
+JEL classification codes
+Concepts
+Theory
+Techniques
+Econometrics
+Economic growth
+Economic system
+Experimental economics
+Mathematical economics
+Game theory
+Market
+National accounting
+By application
+Agricultural
+Behavioral
+Business
+Computational
+Cultural
+Demographic
+Development
+Digitization
+Ecological
+Education
+Environmental
+Evolutionary
+Expeditionary
+Geography
+Health
+Industrial organization
+Information
+International
+Knowledge
+Labour
+Law
+Managerial
+Monetary/ Financial
+Natural resource
+Personnel
+Public/ Welfare economics
+Regional
+Rural
+Service
+Urban
+Welfare
+Lists
+Economists
+Publications(journals)
+Business and economics portal
+v
+t
+e
+Market failure[edit]
+Central to environmental economics is the concept of market failure. Market failure means that markets fail to allocate resources efficiently. As stated by Hanley, Shogren, and White (2007) in their textbook Environmental Economics:[4] "A market failure occurs when the market does not allocate scarce resources to generate the greatest social welfare. A wedge exists between what a private person does given market prices and what society might want him or her to do to protect the environment. Such a wedge implies wastefulness or economic inefficiency; resources can be reallocated to make at least one person better off without making anyone else worse off." Common forms of market failure include externalities, non-excludability and non-rivalry.
+Externality[edit]
+An externality exists when a person makes a choice that affects other people in a way that is not accounted for in the market price. An externality can be positive or negative, but is usually associated with negative externalities in environmental economics. For instance, water seepage in residential buildings happen in upper floor affect the lower floor.[5] Or a firm emitting pollution will typically not take into account the costs that its pollution imposes on others. As a result, pollution may occur in excess of the 'socially efficient' level, which is the level that would exist if the market was required to account for the pollution. A classic definition influenced by Kenneth Arrow and James Meade is provided by Heller and Starrett (1976), who define an externality as a situation in which the private economy lacks sufficient incentives to create a potential market in some good and the nonexistence of this market results in losses of Pareto efficiency.[6] In economic terminology, externalities are examples of market failures, in which the unfettered market does not lead to an efficient outcome.
+Common goods and public goods[edit]
+When it is too costly to exclude some people from access to an environmental resource, the resource is either called a common property resource (when there is rivalry for the resource, such that one person's use of the resource reduces others' opportunity to use the resource) or a public good (when use of the resource is non-rivalrous). In either case of non-exclusion, market allocation is likely to be inefficient.
+These challenges have long been recognized. Hardin's (1968) concept of the tragedy of the commons popularized the challenges involved in non-exclusion and common property. "Commons" refers to the environmental asset itself, "common property resource" or "common pool resource" refers to a property right regime that allows for some collective body to devise schemes to exclude others, thereby allowing the capture of future benefit streams; and "open-access" implies no ownership in the sense that property everyone owns nobody owns.[7]
+The basic problem is that if people ignore the scarcity value of the commons, they can end up expending too much effort, over harvesting a resource (e.g., a fishery). Hardin theorizes that in the absence of restrictions, users of an open-access resource will use it more than if they had to pay for it and had exclusive rights, leading to environmental degradation. See, however, Ostrom's (1990) work on how people using real common property resources have worked to establish self-governing rules to reduce the risk of the tragedy of the commons.[7]
+The mitigation of climate change effects is an example of a public good, where the social benefits are not reflected completely in the market price. This is a public good since the risks of climate change are both non-rival and non-excludable. Such efforts are non-rival since climate mitigation provided to one does not reduce the level of mitigation that anyone else enjoys. They are non-excludable actions as they will have global consequences from which no one can be excluded. A country's incentive to invest in carbon abatement is reduced because it can "free ride" off the efforts of other countries. Over a century ago, Swedish economist Knut Wicksell (1896) first discussed how public goods can be under-provided by the market because people might conceal their preferences for the good, but still enjoy the benefits without paying for them.
+GLOBAL BIOGEOCHEMICAL CYCLES CRITICAL FOR LIFE
+Nitrogen Cycle
+Water Cycle
+Carbon Cycle
+Oxygen Cycle
+Valuation[edit]
+Assessing the economic value of the environment is a major topic within the field. Use and indirect use are tangible benefits accruing from natural resources or ecosystem services (see the nature section of ecological economics). Non-use values include existence, option, and bequest values. For example, some people may value the existence of a diverse set of species, regardless of the effect of the loss of a species on ecosystem services. The existence of these species may have an option value, as there may be the possibility of using it for some human purpose (certain plants may be researched for drugs). Individuals may value the ability to leave a pristine environment to their children.
+Use and indirect use values can often be inferred from revealed behavior, such as the cost of taking recreational trips or using hedonic methods in which values are estimated based on observed prices. Non-use values are usually estimated using stated preference methods such as contingent valuation or choice modelling. Contingent valuation typically takes the form of surveys in which people are asked how much they would pay to observe and recreate in the environment (willingness to pay) or their willingness to accept (WTA) compensation for the destruction of the environmental good. Hedonic pricing examines the effect the environment has on economic decisions through housing prices, traveling expenses, and payments to visit parks.[8]
+Solutions[edit]
+Solutions advocated to correct such externalities include:
+Environmental regulations. Under this plan, the economic impact has to be estimated by the regulator. Usually this is done using cost-benefit analysis. There is a growing realization that regulations (also known as "command and control" instruments) are not so distinct from economic instruments as is commonly asserted by proponents of environmental economics. E.g.1 regulations are enforced by fines, which operate as a form of tax if pollution rises above the threshold prescribed. E.g.2 pollution must be monitored and laws enforced, whether under a pollution tax regime or a regulatory regime. The main difference an environmental economist would argue exists between the two methods, however, is the total cost of the regulation. "Command and control" regulation often applies uniform emissions limits on polluters, even though each firm has different costs for emissions reductions. Some firms, in this system, can abate inexpensively, while others can only abate at high cost. Because of this, the total abatement has some expensive and some inexpensive efforts to abate. Consequently, modern "Command and control" regulations are oftentimes designed in a way, which addresses these issues by incorporating utility parameters. For instance, CO2 emission standards for specific manufacturers in the automotive industry are either linked to the average vehicle footprint (US system) or average vehicle weight (EU system) of their entire vehicle fleet. Environmental economic regulations find the cheapest emission abatement efforts first, then the more expensive methods second. E.g. as said earlier, trading, in the quota system, means a firm only abates if doing so would cost less than paying someone else to make the same reduction. This leads to a lower cost for the total abatement effort as a whole.[citation needed]
+Quotas on pollution. Often it is advocated that pollution reductions should be achieved by way of tradeable emissions permits, which if freely traded may ensure that reductions in pollution are achieved at least cost. In theory, if such tradeable quotas are allowed, then a firm would reduce its own pollution load only if doing so would cost less than paying someone else to make the same reduction. In practice, tradeable permits approaches have had some success, such as the U.S.'s sulphur dioxide trading program or the EU Emissions Trading Scheme, and interest in its application is spreading to other environmental problems.
+Taxes and tariffs on pollution/Removal of "dirty subsidies." Increasing the costs of polluting will discourage polluting, and will provide a "dynamic incentive," that is, the disincentive continues to operate even as pollution levels fall. A pollution tax that reduces pollution to the socially "optimal" level would be set at such a level that pollution occurs only if the benefits to society (for example, in form of greater production) exceeds the costs. Some advocate a major shift from taxation from income and sales taxes to tax on pollution - the so-called "green tax shift."
+Better defined property rights. The Coase Theorem states that assigning property rights will lead to an optimal solution, regardless of who receives them, if transaction costs are trivial and the number of parties negotiating is limited. For example, if people living near a factory had a right to clean air and water, or the factory had the right to pollute, then either the factory could pay those affected by the pollution or the people could pay the factory not to pollute. Or, citizens could take action themselves as they would if other property rights were violated. The US River Keepers Law of the 1880s was an early example, giving citizens downstream the right to end pollution upstream themselves if government itself did not act (an early example of bioregional democracy). Many markets for "pollution rights" have been created in the late twentieth centurysee emissions trading.
+Relationship to other fields[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2012) (Learn how and when to remove this template message)
+Environmental economics is related to ecological economics but there are differences. Most environmental economists have been trained as economists. They apply the tools of economics to address environmental problems, many of which are related to so-called market failurescircumstances wherein the "invisible hand" of economics is unreliable. Most ecological economists have been trained as ecologists, but have expanded the scope of their work to consider the impacts of humans and their economic activity on ecological systems and services, and vice versa. This field takes as its premise that economics is a strict subfield of ecology. Ecological economics is sometimes described as taking a more pluralistic approach to environmental problems and focuses more explicitly on long-term environmental sustainability and issues of scale.
+Environmental economics is viewed as more pragmatic in a price system; ecological economics as more idealistic in its attempts not to use money as a primary arbiter of decisions. These two groups of specialists sometimes have conflicting views which may be traced to the different philosophical underpinnings.
+Another context in which externalities apply is when globalization permits one player in a market who is unconcerned with biodiversity to undercut prices of another who is - creating a race to the bottom in regulations and conservation. This in turn may cause loss of natural capital with consequent erosion, water purity problems, diseases, desertification, and other outcomes which are not efficient in an economic sense. This concern is related to the subfield of sustainable development and its political relation, the anti-globalization movement.
+The three pillars of sustainability (clickable)
+Environmental economics was once distinct from resource economics. Natural resource economics as a subfield began when the main concern of researchers was the optimal commercial exploitation of natural resource stocks. But resource managers and policy-makers eventually began to pay attention to the broader importance of natural resources (e.g. values of fish and trees beyond just their commercial exploitation;, externalities associated with mining). It is now difficult to distinguish "environmental" and "natural resource" economics as separate fields as the two became associated with sustainability. Many of the more radical green economists split off to work on an alternate political economy.
+Environmental economics was a major influence for the theories of natural capitalism and environmental finance, which could be said to be two sub-branches of environmental economics concerned with resource conservation in production, and the value of biodiversity to humans, respectively. The theory of natural capitalism (Hawken, Lovins, Lovins) goes further than traditional environmental economics by envisioning a world where natural services are considered on par with physical capital.
+The more radical Green economists reject neoclassical economics in favour of a new political economy beyond capitalism or communism that gives a greater emphasis to the interaction of the human economy and the natural environment, acknowledging that "economy is three-fifths of ecology" - Mike Nickerson.
+These more radical approaches would imply changes to money supply and likely also a bioregional democracy so that political, economic, and ecological "environmental limits" were all aligned, and not subject to the arbitrage normally possible under capitalism.
+An emerging sub-field of environmental economics studies its intersection with development economics. Dubbed "envirodevonomics" by Michael Greenstone and B. Kelsey Jack in their paper "Envirodevonomics: A Research Agenda for a Young Field,"[9] the sub-field is primarily interested in studying "why environmental quality [is] so poor in developing countries."[10] A strategy for better understanding this correlation between a country's GDP and its environmental quality involves analyzing how many of the central concepts of environmental economics, including market failures, externalities, and willingness to pay, may be complicated by the particular problems facing developing countries, such as political issues, lack of infrastructure, or inadequate financing tools, among many others.[11]
+Professional bodies[edit]
+The main academic and professional organizations for the discipline of Environmental Economics are the Association of Environmental and Resource Economists (AERE) and the European Association for Environmental and Resource Economics (EAERE). The main academic and professional organization for the discipline of Ecological Economics is the International Society for Ecological Economics (ISEE). The main organization for Green Economics is the Green Economics Institute.
+See also[edit]
+ISO 14000 an eco standard.
+Agroecology
+Economics of global warming
+Carbon finance
+Carbon negative fuel
+Climate change in Washington
+Earth Economics (policy think tank)
+Eco-capitalism
+Eco commerce
+Ecometrics
+Eco-Money
+Ecological economics
+Eco-socialism
+Ecosystem Marketplace
+Ecotax
+Energy balance
+Environmental accounting
+Environmental credit crunch
+Environmental enterprise
+Environmental finance
+Environmental Investment Organisation
+Environmental pricing reform
+Environmental tariff
+Fair trade
+Fiscal environmentalism
+Free-market environmentalism
+Green banking
+Green economy
+Green libertarianism
+Green syndicalism
+Green trading
+Journal of Environmental Economics and Management
+Natural capital
+Natural resource
+Natural resource economics
+Principles of ecopreneurship
+Property rights (economics)
+Renewable resource
+Risk assessment
+Strategic Sustainable Investing (SSI)
+Systems ecology
+World Ecological Forum
+Hypotheses and theorems[edit]
+Coase theorem
+Porter hypothesis
+Notes[edit]
+^ "Environmental Economics". NBER Working Group Descriptions. National Bureau of Economic Research. Retrieved 2006-07-23.
+^ Jeroen C.J.M. van den Bergh (2001). "Ecological Economics: Themes, Approaches, and Differences with Environmental Economics," Regional Environmental Change, 2(1), pp. 13-23 (press +).
+^ Illge L, Schwarze R. (2006). A Matter of Opinion: How Ecological and Neoclassical Environmental Economists Think about Sustainability and Economics . German Institute
+^ Hanley, N., J. Shogren, and B. White (2007). Environmental Economics in Theory and Practice, Palgrave, London.
+^ Rita Yi Man Li (2012), The Internalisation Of Environmental Externalities Affecting Dwellings: A Review Of Court Cases In Hong Kong, Economic Affairs, Volume 32, Issue 2, pages 8187
+^ Heller, Walter P. and David A. Starrett (1976), On the Nature of Externalities, in: Lin, Stephen A.Y. (ed.), Theory and Measurement of Economic Externalities, Academic Press, New York, p.10
+^ a b Ostrom, E. 1990. Governing the Commons. Cambridge: Cambridge University Press.
+^ Harris J. (2006). Environmental and Natural Resource Economics: A Contemporary Approach. Houghton Mifflin Company.
+^ Greenstone, Michael; Jack, B. Kelsey (September 2013). "Envirodevonomics: A Research Agenda for a Young Field". NBER (19426). Retrieved 15 January 2015.
+^ Greenstone, Michael; Jack, B. Kelsey (September 2013). "Envirodevonomics: A Research Agenda for a Young Field". NBER (19426): 3. Retrieved 15 January 2015.
+^ Inclusive green growth the pathway to sustainable development. (PDF). Washington, D.C.: World Bank. May 2012. pp.1213. ISBN978-0-8213-9552-3. Retrieved 15 January 2015.
+References[edit]
+Allen K. Kneese and Clifford S. Russell (1987). "environmental economics," The New Palgrave: A Dictionary of Economics, v. 2, pp.15964.
+Robert N. Stavins (2008). "environmental economics," The New Palgrave Dictionary of Economics, 2nd Edition. Abstract & article.
+Maureen L. Cropper and Wallace E. Oates (1992). "Environmental Economics: A Survey," Journal of Economic Literature, 30(2), pp. 675-740(press +).
+David Pearce (2002). "An Intellectual History Of Environmental Economics", Annual Review of Energy and the Environment 2002, 27:5781.
+UNEP (2007). Guidelines for Conducting Economic Valuation of Coastal Ecosystem Goods and Services, UNEP/GEF/SCS Technical Publication No. 8.
+UNEP (2007). Procedure for Determination of National and Regional Economic Values for Ecotone Goods and Services, and Total Economic Values of Coastal Habitats in the context of the UNEP/GEF Project Entitled: Reversing Environmental Degradation Trends in the South China Sea and Gulf of Thailand, South China Sea Knowledge Document No. 3. UNEP/GEF/SCS/Inf.3
+v
+t
+e
+Environmental science
+Main fields
+Atmospheric sciences
+Biogeochemistry
+Ecology
+Environmental chemistry
+Geosciences
+Hydrology
+Limnology
+Oceanography
+Soil science
+Related fields
+Biology
+Chemistry
+green
+Ecological economics
+Environmental design
+Environmental economics
+Environmental engineering
+Environmental health
+epidemiology
+Environmental studies
+Environmental toxicology
+Geodesy
+Physics
+Sustainability science
+Systems ecology
+Urban ecology
+Applications
+Energy conservation
+Environmental technology
+Natural resource management
+Pollution control
+Recycling
+Remediation
+Renewable energy
+Sewage treatment
+Urban metabolism
+Water purification
+Waste management
+See also
+Human impact on the environment
+Sustainability
+Environment portal
+Category
+scientists
+Glossary
+Degrees
+Institutions
+Journals
+Research institutes
+v
+t
+e
+Environmental social science
+Fields
+Ecological anthropology
+Ecological economics
+Environmental anthropology
+Environmental economics
+Environmental communication
+Environmental history
+Environmental politics
+Environmental psychology
+Environmental sociology
+Human ecology
+Human geography
+Political ecology
+Regional science
+Related
+Agroecology
+Anthrozoology
+Behavioral geography
+Community studies
+Demography
+Design
+ecological
+environmental
+Ecological humanities
+Economics
+energy
+thermo
+Environmental
+education
+ethics
+law
+science
+studies
+Ethnobiology
+botany
+ecology
+zoology
+Forestry
+Industrial ecology
+Integrated geography
+Permaculture
+Rural sociology
+Science, technology and society
+science studies
+Sustainability
+science
+studies
+Systems ecology
+Urban
+ecology
+geography
+metabolism
+studies
+Applied
+Architecture
+landscape
+sustainable
+Ecopsychology
+Engineering
+ecological
+environmental
+Green criminology
+Health
+environmental
+epidemiology
+occupational
+public
+Management
+environmental
+fisheries
+forest
+natural resource
+waste
+Planning
+environmental
+land use
+regional
+spatial
+urban
+Policy
+energy
+environmental
+Environment portal
+Category
+Concepts
+Degrees
+Institutions
+Journals
+Research institutes
+Scholars
+v
+t
+e
+Sustainability
+Principles
+Ecological modernization
+Environmentalism
+Human impact on the environment
+Planetary boundaries
+Social sustainability
+Stewardship
+Sustainable development
+Consumption
+Anthropization
+Anti-consumerism
+Ecological footprint
+Ethical
+Over-consumption
+Simple living
+Sustainability advertising
+Sustainability brand
+Sustainability marketing myopia
+Sustainable
+Systemic change resistance
+Tragedy of the commons
+Population
+Birth control
+Family planning
+Control
+Overpopulation
+Zero growth
+Technology
+Appropriate
+Environmental
+Sustainable
+Biodiversity
+Biosecurity
+Biosphere
+Conservation biology
+Deep ecology
+Endangered species
+Holocene extinction
+Invasive species
+Energy
+Carbon footprint
+Climate change mitigation
+Conservation
+Descent
+Efficiency
+Emissions trading
+Fossil-fuel phase-out
+Peak oil
+Renewable
+Energy poverty
+Food
+Forest gardening
+Local
+Permaculture
+Security
+Sustainable agriculture
+Sustainable fishery
+Urban horticulture
+Water
+Conservation
+Crisis
+Efficiency
+Footprint
+Accountability
+Sustainability accounting
+Sustainability measurement
+Sustainability metrics and indices
+Sustainability reporting
+Standards and certification
+Sustainable yield
+Applications
+Advertising
+Architecture
+Art
+Business
+City
+College programs
+Community
+Design
+Ecovillage
+Education for Sustainable Development
+Fashion
+Gardening
+Geopark
+Green marketing
+Industries
+Landscape architecture
+Living
+Low-impact development
+Sustainable market
+Organizations
+Packaging
+Practices
+Procurement
+Tourism
+Transport
+Urban drainage systems
+Urban infrastructure
+Urbanism
+Management
+Environmental
+Fisheries
+Forest
+Materials
+Natural resource
+Planetary
+Waste
+Agreements
+UN Conference on the Human Environment (Stockholm 1972)
+Brundtlandt Commission Report (1983)
+Our Common Future (1987)
+Earth Summit (1992)
+Rio Declaration on Environment and Development
+Agenda 21 (1992)
+Convention on Biological Diversity (1992)
+ICPD Programme of Action (1994)
+Earth Charter
+Lisbon Principles
+UN Millennium Declaration (2000)
+Earth Summit 2002 (Rio+10, Johannesburg)
+United Nations Conference on Sustainable Development (Rio+20, 2012)
+Sustainable Development Goals
+Category
+Lists
+Outline
+Portal
+Science
+Studies
+Degrees
+Authority control
+GND: 4061638-1
+NDL: 00857646
+NewPP limit report
+Parsed by mw1237
+Cached time: 20161119044537
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.294 seconds
+Preprocessor visited node count: 1203/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 90196/2097152 bytes
+Template argument size: 677/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.076/10.000 seconds
+Lua memory usage: 4.06 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+203.652
+1 - -total
+16.15%
+32.890
+1 - Template:Citation_needed
+14.65%
+29.844
+2 - Template:Sidebar
+14.59%
+29.712
+1 - Template:Fix
+12.34%
+25.128
+1 - Template:Cite_web
+11.88%
+24.201
+1 - Template:Economics_sidebar
+9.46%
+19.267
+3 - Template:Navbox
+9.02%
+18.369
+2 - Template:Category_handler
+8.24%
+16.781
+1 - Template:Distinguish
+8.10%
+16.495
+1 - Template:Authority_control
+Saved in parser cache with key enwiki:pcache:idhash:47763-0!*!0!!en!4!* and timestamp 20161119044536 and revision id 727388293
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Environmental_economics&oldid=727388293"
+Categories: Environmental economicsEnvironmental social scienceIndustrial ecologyMarket failureHidden categories: All articles with unsourced statementsArticles with unsourced statements from May 2012Articles needing additional references from August 2012All articles needing additional referencesWikipedia articles with GND identifiers

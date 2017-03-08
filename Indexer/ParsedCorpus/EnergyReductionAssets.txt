@@ -1,0 +1,49 @@
+EnergyReductionAssets
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (October 2013) (Learn how and when to remove this template message)
+This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (October 2013) (Learn how and when to remove this template message)
+This article may be unbalanced towards certain viewpoints. Please improve the article by adding information on neglected viewpoints, or discuss the issue on the talk page. (October 2013)
+(Learn how and when to remove this template message)
+The reduction of expected energy use is a potential revenue source that may be manipulated to improve business performance and reduce waste and environmental impacts. In 2011, the World Economic Forum reported that personal, digital data is a new asset class, generating a new wave of opportunity for economic and societal value creation.[1] Due to dramatic advances in web-based monitoring, real-time data analytics and utilities using peak pricing, energy reduction is now becoming a tangible asset that companies can measure, manage, procure and sell. For energy reduction, capturing data is the means to tap into energy savings, which, over time, become an asset. In order to implement efficiency measures and generate revenue streams, it is important to determine areas of least efficiency. This will provide the platform for accurately focusing efforts to achieve the greatest returns on investment.[2] Energy Reduction Assets (ERAs) are revenue streams that are created by tracking the unspent portion of traditional energy usage.[clarification needed]
+Contents
+1 Generating an Energy Reduction Asset
+2 Growing success of energy efficiency industry
+3 See also
+4 References
+5 External links
+Generating an Energy Reduction Asset[edit]
+There are two ways to generate an energy reduction asset: through an energy efficiency project or by participating in a demand response program. Energy efficiency results in long-term savings, while Demand Response programs produce immediate earnings/revenue streams.
+Energy efficiency projects have proven to be valuable to organizations in cost savings, as well as in reducing the carbon footprint, conservation and other positive environmental impacts. Energy efficiency measures include building control upgrades, updating HVAC, lighting and mechanical systems that use less energy per unit of service they provide. Essentially, these measures aim to reduce the amount of energy needed to supply a particular service, which means less energy is used and less money is spent. Companies/consumers can use the money saved over time through energy efficiency, as assets to sell and invest in the market.
+Demand Response programs are similar to energy efficiency projects; however, they result in immediate short-term energy reduction, along with immediate earnings from the energy saved. Demand Response is the process of curtailing an energy load (load shedding) during peak energy demand hours. Historically, Demand Response has played a vital role in emergency situations that create an imbalance on the energy grid, resulting in power outages and extreme costs. In recent years however, the market for Demand Response has been transforming into a demand management system whereby automated energy management systems (known as Automated Demand Response) and market developments make it possible for companies to earn money for modifying their electricity usage year-round.[3]
+These earnings are the ERAs generated through reduced energy usage during peak demand hours. In essence, the market for demand response stems from the end users ability to sell the energy not used when they curtail usageat the same prices as real megawatts of generated electricity. This process of selling a theoretical unit of powerthe negawattthat represents the amount of energy saved during a demand response program. When the electricity provider does not have to provide x amount of megawatts to their customer, then that customer essentially gets paid for that as if they sold it to someone else in the market. Thus, revenue streams are generated through this process of curtailing an energy load at peak demand hours.
+Growing success of energy efficiency industry[edit]
+Utilizing new technologies to gather data and implement energy efficiency measures is key to generating ERAs. The environmental and economic benefits of reducing energy usage are becoming increasingly apparent throughout the country. Energy Service Companies (ESCOs) have grown the market for energy efficiency from $500 million in 1990 to over $5 billion in 2011. According to the Lawrence Berkeley National Laboratory, revenues will continue to increasedoubling or even tripling to $15.3 billion by the end of the decade.[4] These growing revenues are a significant representation of the improving energy efficiency market. However, energy efficiency remains critically underutilized in the nations energy portfolio. It is time to take advantage of the data and programs available to capture the savings that energy efficiency offers.[5]
+See also[edit]
+Demand response
+Carbon footprint
+Peak demand
+Energy demand management
+Negawatt
+Energy efficient use
+References[edit]
+^ http://www3.weforum.org/docs/WEF_ITTC_PersonalDataNewAsset_Report_2011.pdf
+^ http://www.hwm-water.com/blog/post/intelligent-efficiency-turning-data-and-energy-efficiency-into-valuable-assets/
+^ http://www.greentechmedia.com/articles/read/joule-assets-marries-demand-response-energy-efficiency-and-financing
+^ http://www.greentechmedia.com/articles/read/How-the-ESCO-Market-for-Efficiency-Can-Continue-Expanding
+^ http://www.epa.gov/cleanenergy/documents/suca/cost-effectiveness.pdf
+External links[edit]
+http://www.greentechmedia.com/articles/read/demand-response-hits-a-new-record-in-pjm
+http://energy.gov/articles/resolve-save-energy-year
+http://www.greentechmedia.com/articles/read/joule-assets-marries-demand-response-energy-efficiency-and-financing
+http://www.greentechmedia.com/articles/read/How-the-ESCO-Market-for-Efficiency-Can-Continue-Expanding
+http://www.epa.gov/cleanenergy/documents/suca/cost-effectiveness.pdf
+http://www.hwm-water.com/blog/post/intelligent-efficiency-turning-data-and-energy-efficiency-into-valuable-assets/
+http://www.greentechmedia.com/articles/read/intelligent-efficiency-innovations-reshaping-the-energy-efficiency-market?utm_source=Daily&utm_medium=Headline&utm_campaign=GTMDaily
+http://www.ferc.gov/market-oversight/mkt-electric/pjm.asp#dem
+https://www.citipower.com.au/docs/pdf/Customer%20Information/Fact%20Sheet%20-%20Load%20Shedding.pdf
+Saved in parser cache with key enwiki:pcache:idhash:40871379-0!*!0!!en!4!* and timestamp 20161104160605 and revision id 699820114
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Energy_Reduction_Assets&oldid=699820114"
+Categories: Energy economicsHidden categories: Wikipedia external links cleanup from October 2013Wikipedia spam cleanup from October 2013Articles lacking reliable references from October 2013All articles lacking reliable referencesArticles needing more viewpoints from October 2013Wikipedia articles needing clarification from December 2015

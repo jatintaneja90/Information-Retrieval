@@ -1,0 +1,306 @@
+Costbenefitanalysis
+From Wikipedia, the free encyclopedia
+(Redirected from Cost-benefit analysis)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Costbenefit analysis (CBA), sometimes called benefitcost analysis (BCA), is a systematic approach to estimating the strengths and weaknesses of alternatives (for example in transactions, activities, functional business requirements); it is used to determine options that provide the best approach to achieve benefits while preserving savings.[1] The CBA is also defined as a systematic process for calculating and comparing benefits and costs of a decision, policy (with particular regard to government policy) or (in general) project.
+Broadly, CBA has two main purposes:
+To determine if an investment/decision is sound (justification/feasibility)  verifying whether its benefits outweigh the costs, and by how much;
+To provide a basis for comparing projects  which involves comparing the total expected cost of each option against its total expected benefits.[2]
+CBA is related to, but distinct from cost-effectiveness analysis. In CBA, benefits and costs are expressed in monetary terms, and are adjusted for the time value of money, so that all flows of benefits and flows of project costs over time (which tend to occur at different points in time) are expressed on a common basis in terms of their net present value.
+Closely related, but slightly different, formal techniques include cost-effectiveness analysis, costutility analysis, riskbenefit analysis, economic impact analysis, fiscal impact analysis, and social return on investment (SROI) analysis.
+Contents
+1 Theory
+2 Process
+3 Evaluation
+4 Time and discounting
+5 Risk and uncertainty
+6 History
+6.1 Public policy
+6.2 Transportation investment
+6.3 CBA and Regulation under various US Administrations
+7 Accuracy
+8 See also
+9 References
+10 Further reading
+11 External links
+Theory[edit]
+Costbenefit analysis is often used by organizations to appraise the desirability of a given policy. It is an analysis of the expected balance of benefits and costs, including an account of foregone alternatives and the status quo. CBA helps predict whether the benefits of a policy outweigh its costs, and by how much relative to other alternatives, so that one can rank alternate policies in terms of the costbenefit ratio.[3] Generally, accurate costbenefit analysis identifies choices that increase welfare from a utilitarian perspective. Assuming an accurate CBA, changing the status quo by implementing the alternative with the lowest costbenefit ratio can improve Pareto efficiency.[4] While CBA can offer a well-educated estimate of the best alternative  perfect appraisal of all present and future costs and benefits is difficult , perfection in terms of economic efficiency and social welfare are not guaranteed.[5]
+Process[edit]
+The following is a list of steps that comprise a generic costbenefit analysis.[6]
+List alternative projects/programs.
+List stakeholders.
+Select measurement(s) and measure all cost/benefit elements.
+Predict outcome of cost and benefits over relevant time period.
+Convert all costs and benefits into a common currency.
+Apply discount rate.
+Calculate net present value of project options.
+Perform sensitivity analysis.
+Adopt recommended choice.
+Evaluation[edit]
+CBA attempts to measure the positive or negative consequences of a project, which may include:
+Effects on users or participants
+Effects on non-users or non-participants
+Externality effects
+Option value or other social benefits.
+A similar breakdown is employed in environmental analysis of total economic value. Both costs and benefits can be diverse. Financial costs tend to be most thoroughly represented in cost-benefit analyses due to relatively abundant market data. The net benefits of a project may incorporate cost savings or public willingness to pay compensation (implying the public has no legal right to the benefits of the policy) or willingness to accept compensation (implying the public has a right to the benefits of the policy) for the welfare change resulting from the policy. The guiding principle of evaluating benefits is to list all (categories of) parties affected by an intervention and add the (positive or negative) value, usually monetary, that they ascribe to its effect on their welfare.
+The actual compensation an individual would require to have their welfare unchanged by a policy is inexact at best. Surveys (stated preference techniques) or market behavior (revealed preference techniques) are often used to estimate the compensation associated with a policy. Stated preference technique is a direct way of assessing willingness to pay. Because it involves asking people directly to indicate their willingness to pay for some environmental feature, or some outcome that is closely connected to the state of the environment.[7] However, survey respondents often have strong incentives to misreport their true preferences and market behavior does not provide any information about important non-market welfare impacts. Revealed preference technique is an indirect approaches to individual willingness to pay. People make market choices among certain items that have different characteristics related to the environment, they reveal the value they place on these environmental factors. [8]
+One controversy is valuing a human life, e.g. when assessing road safety measures or life-saving medicines. However, this can sometimes be avoided by using the related technique of cost-utility analysis, in which benefits are expressed in non-monetary units such as quality-adjusted life years. For example, road safety can be measured in terms of cost per life saved, without formally placing a financial value on the life. However, such non-monetary metrics have limited usefulness for evaluating policies with substantially different outcomes. Additionally, many other benefits may accrue from the policy, and metrics such as 'cost per life saved' may lead to a substantially different ranking of alternatives than traditional costbenefit analysis.
+Another controversy is valuing the environment, which in the 21st century is typically assessed by valuing ecosystem services to humans, such as air and water quality and pollution.[9] Monetary values may also be assigned to other intangible effects such as business reputation, market penetration, or long-term enterprise strategy alignment.
+Time and discounting[edit]
+CBA usually tries to put all relevant costs and benefits on a common temporal footing using time value of money calculations. This is often done by converting the future expected streams of costs and benefits into a present value amount using a discount rate. Empirical studies and a technical framework suggest that in reality, people do discount the future like this.[10]
+The choice of discount rate is subjective. A smaller rate values future generations equally with the current generation. Larger rates (e.g. a market rate of return) reflects humans' attraction to time inconsistencyvaluing money that they receive today more than money they get in the future. The choice makes a large difference in assessing interventions with long-term effects. One issue is the equity premium puzzle, in which long-term returns on equities may be rather higher than they should be. If so then arguably market rates of return should not be used to determine a discount rate, as doing so would have the effect of undervaluing the distant future (e.g. climate change).[11]
+Risk and uncertainty[edit]
+Risk associated with project outcomes is usually handled using probability theory. This can be factored into the discount rate (to have uncertainty increasing over time), but is usually considered separately. Particular consideration is often given to risk aversionthe preference for avoiding loss over achieving gain. Expected return calculations do not account for the detrimental effect of uncertainty.[citation needed]
+Uncertainty in CBA parameters (as opposed to risk of project failure etc.) can be evaluated using a sensitivity analysis, which shows how results respond to parameter changes. Alternatively a more formal risk analysis can be undertaken using Monte Carlo simulations.[12]
+History[edit]
+The French engineer and economist Jules Dupuit, credited with the creation of costbenefit analysis.
+The concept of CBA dates back to an 1848 article by Jules Dupuit and was formalized in subsequent works by Alfred Marshall. The Corps of Engineers initiated the use of CBA in the US, after the Federal Navigation Act of 1936 effectively required costbenefit analysis for proposed federal waterway infrastructure.[13] The Flood Control Act of 1939 was instrumental in establishing CBA as federal policy; it demanded that "the benefits to whomever they accrue [be] in excess of the estimated costs."[14]
+Public policy[edit]
+The application for broader public policy started from the work of Otto Eckstein,[15] who in 1958 laid out a welfare economics foundation for CBA and its application for water resource development. Over the 1960s, CBA was applied in the US for water quality,[16] recreation travel,[17] and land conservation.[18] During this period, the concept of option value was developed to represent the non-tangible value of preserving resources such as national parks.[19]
+CBA was later expanded to address both intangible and tangible benefits of public policies relating to mental illness,[20] substance abuse,[21] college education,[22] and chemical waste policies.[23] In the US, the National Environmental Policy Act of 1969 first required the application of CBA for regulatory programs, and since then, other governments have enacted similar rules. Government guidebooks for the application of CBA to public policies include the Canadian guide for regulatory analysis,[24] Australian guide for regulation and finance,[25] US guide for health care programs,[26] and US guide for emergency management programs.[27]
+Transportation investment[edit]
+CBA application for transport investment started in the UK, with the M1 motorway project in 1960. It was later applied on many projects including London Underground's Victoria line. Later, the New Approach to Appraisal (NATA) was introduced by the then Department for Transport, Environment and the Regions. This presented costbenefit results and detailed environmental impact assessments in a balanced way. NATA was first applied to national road schemes in the 1998 Roads Review but subsequently rolled out to all transport modes. As of 2011 it was a cornerstone of transport appraisal in the UK and is maintained and developed by the Department for Transport.
+The EU's 'Developing Harmonised European Approaches for Transport Costing and Project Assessment' (HEATCO) project, part of its Sixth Framework Programme, reviewed transport appraisal guidance across EU member states and found that significant differences exist between countries.[28] HEATCO's aim was to develop guidelines to harmonise transport appraisal practice across the EU.[29]
+Transport Canada promoted the use of CBA for major transport investments with the 1994 issuance of its Guidebook.[30]
+In the US, both federal and state transport departments commonly apply CBA, using a variety of available software tools including HERS, BCA.Net, StatBenCost, Cal-BC, and TREDIS. Guides are available from the Federal Highway Administration,[31][32] Federal Aviation Administration,[33] Minnesota Department of Transportation,[34] California Department of Transportation (Caltrans),[35] and the Transportation Research Board Transportation Economics Committee.[36]
+CBA and Regulation under various US Administrations[edit]
+The increased usage of CBA in the US regulatory process is often associated with President Ronald Reagan's administration. Though the use of CBA in US policy making dating back many decades, Reagan's Executive Order 12291 mandated the use of CBA in the regulatory process. Reagan campaigned on a deregulation platform, and once he took office in 1981 quickly issued this EO, which vested the Office of Information and Regulatory Affairs (OIRA) with the authority to review agency regulations and required federal agencies to produce regulatory impact analyses when the annual impact could be estimated over $100M. Shortly thereafter, in the 1980s, academic and institutional critiques of CBA started to emerge. The three main criticisms were:[37]
+That CBA could be used for political goals. Debates on the merits of cost and benefit comparisons can be used to sidestep political or philosophical goals, rules and regulations.
+That CBA is inherently anti-regulatory, therefore not a neutral analysis tool. This is an ethical argument: that the monetization of policy impacts is an inappropriate tool for assessing things such as mortality risks and distributional impacts.
+That the length of time necessary to complete CBA can create significant delays, which can impede policy regulations.
+These criticisms continued through the 1990s under the Clinton administration, who furthered the anti-regulatory environment through his Executive Order 12866.[38] EO 12866 changed some of Reagan's language, requiring benefits to justify, rather than exceed costs, and added "reduction of discrimination or bias" as one of the benefits to be analyzed. Criticisms of aspects of CBA, including uncertainly valuations, discounting future values, and the calculation of risk, were used to argue that CBA should play no part in the regulatory process.[39] The use of CBA in the regulatory process continues today under the Obama administration, though the debate over its practical and objective value continues. Some analysts oppose the use of CBA in policy making, while those in favor of its use favor improvements to the analysis and calculations.
+Accuracy[edit]
+The value of a costbenefit analysis depends on the accuracy of the individual cost and benefit estimates. Comparative studies indicate that such estimates are often flawed, preventing improvements in Pareto and Kaldor-Hicks efficiency.[citation needed] Causes of these inaccuracies include:[citation needed]
+Overreliance on data from past projects (often differing markedly in function or size and the skill levels of the team members)
+Use of subjective impressions in assessment
+Inappropriate use of heuristics to derive money cost of the intangible elements
+Confirmation bias among project supporters (looking for reasons to proceed).
+Interest groups may attempt to include or exclude significant costs from an analysis to influence the outcome.[40]
+In the case of the Ford Pinto (where, because of design flaws, the Pinto was liable to burst into flames in a rear-impact collision), the company's decision was not to issue a recall. Ford's costbenefit analysis had estimated that based on the number of cars in use and the probable accident rate, deaths due to the design flaw would cost it about $49.5 million to settle wrongful death lawsuits versus recall costs of $137.5 million. Ford overlooked (or considered insignificant) the costs of the negative publicity that would result, which forced a recall and damaged sales.[41]
+In health economics, some analysts think costbenefit analysis can be an inadequate measure because willingness-to-pay methods of determining the value of human life can be influenced by income level. They support use of variants such as costutility analysis and quality-adjusted life year to analyze the effects of health policies.[42]
+For some environmental effects cost-benefit analysis can be substituted with cost-effectiveness analysis. This is especially true when there is only one type of physical outcome that is sought, such as the reduction of energy use by increasing energy efficiency. Using cost-effectiveness analysis is less laborious and time-consuming as it does not involve the monetization of outcomes, which can be difficult in some cases.[43]
+In environmental and occupational health regulation, it has been argued that if modern costbenefit analyses had been applied prospectively to decisions such as whether to mandate the removal of lead from gasoline, block the construction of two proposed dams just above and below the Grand Canyon on the Colorado River, and regulate workers' exposure to vinyl chloride, these measures would not have been implemented even though they are considered to be highly successful in retrospect.[44] The Clean Air Act has been cited in retrospective studies as a case where benefits exceeded costs, but the knowledge of the benefits (attributable largely to the benefits of reducing particulate pollution) was not available until many years later.[44]
+See also[edit]
+Guns versus butter model
+Business case
+Economic forecasting
+Have one's cake and eat it too
+Opportunity cost
+Scarcity
+Social impact assessment
+Tax choice
+There ain't no such thing as a free lunch
+Trade-off
+Calculus of negligence
+References[edit]
+^ David, Rodreck; Ngulube, Patrick; Dube, Adock (16 July 2013). "A cost-benefit analysis of document management strategies used at a financial institution in Zimbabwe: A case study". SA Journal of Information Management. 15 (2). doi:10.4102/sajim.v15i2.540.
+^ [1] Archived October 16, 2008, at the Wayback Machine.
+^ Cellini, Stephanie Riegg; Kee, James Edwin. "Cost-Effectiveness and Cost-Benefit Analysis" (PDF).
+^ http://www.finance.gov.au/obpr/docs/Decision-Rules.pdf
+^ Weimer, D.; Vining, A. (2005). Policy Analysis: Concepts and Practice (Fourth ed.). Upper Saddle River, NJ: Pearson Prentice Hall. ISBN0-13-183001-5.
+^ Boardman, N. E. (2006). Cost-benefit Analysis: Concepts and Practice (3rd ed.). Upper Saddle River, NJ: Prentice Hall. ISBN0-13-143583-3.
+^ Field, Barry C; Field, Martha K (2016). ENVIRONMENTAL ECONOMICS: AN INTRODUCTION, SEVENTH EDITION. America: McGraw-Hill. p.144. ISBN978-0-07-802189-3.
+^ Field, Barry C; Field, Martha K (2016). ENVIRONMENTAL ECONOMICS: AN INTRODUCTION, SEVENTH EDITION. America: McGraw-Hill. p.138. ISBN978-0-07-802189-3.
+^ Campbell, Harry F.; Brown, Richard (2003). "Valuing Traded and Non-Traded Commodities in Benefit-Cost Analysis". Benefit-Cost Analysis: Financial and Economic Appraisal using Spreadsheets. Cambridge: Cambridge University Press. ISBN0-521-52898-4. Ch. 8 provides a useful discussion of non-market valuation methods for CBA.
+^ Dunn, William N. (2009). Public Policy Analysis: An Introduction. New York: Longman. ISBN978-0-13-615554-6.
+^ Newell, R. G. (2003). "Discounting the Distant Future: How Much Do Uncertain Rates Increase Valuations?". Journal of Environmental Economics and Management. 46 (1): 5271. doi:10.1016/S0095-0696(02)00031-1.
+^ Campbell, Harry F.; Brown, Richard (2003). "Incorporating Risk in Benefit-Cost Analysis". Benefit-Cost Analysis: Financial and Economic Appraisal using Spreadsheets. Cambridge: Cambridge University Press. ISBN0-521-52898-4. Ch. 9 provides a useful discussion of sensitivity analysis and risk modelling in CBA.
+^ "History of Benefit-Cost Analysis" (PDF). Proceedings of the 2006 Cost Benefit Conference.
+^ Guess, George M.; Farnham, Paul G. (2000). Cases in Public Policy Analysis. Washington, DC: Georgetown University Press. pp.304308. ISBN0-87840-768-5.
+^ Eckstein, Otto (1958). Water Resource Development: The Economics of Project Evaluation. Cambridge: Harvard University Press.
+^ Kneese, A. V. (1964). The Economics of Regional Water Quality Management. Baltimore: Johns Hopkins Press.
+^ Clawson, M.; Knetsch, J. L. (1966). Economics of Outdoor Recreation. Baltimore: Johns Hopkins Press.
+^ Krutilla, J. V. (1967). "Conservation Reconsidered". American Economic Review. 57 (4): 777786. JSTOR1815368.
+^ Weisbrod, Burton A. (1964). "Collective-Consumption Services of Individual-Consumption Goods". Quarterly Journal of Economics. 78 (3): 471477. doi:10.2307/1879478.
+^ Weisbrod, Burton A. (1981). "Benefit-Cost Analysis of a Controlled Experiment: Treating the Mentally Ill". Journal of Human Resources. 16 (4): 523548. JSTOR145235.
+^ Plotnick, Robert D. (1994). "Applying Benefit-Cost Analysis to Substance Abuse Prevention Programs". International Journal of the Addictions. 29 (3): 339359. doi:10.3109/10826089409047385.
+^ Weisbrod, Burton A.; Hansen, W. Lee (1969). Benefits, Costs, and Finance of Public Higher Education. Markham.
+^ Moll, K. S.; et al. (1975). Hazardous wastes: A Risk-Benefit Framework Applied to Cadmium and Asbestos. Menlo Park, CA: Stanford Research Institute.
+^ Canadian CostBenefit Guide: Regulatory Proposals, Treasury Canada, 2007. [2]
+^ Australian Government, 2006. Introduction to CostBenefit Analysis and Alternative Evaluation Methodologies and Handbook of CostBenefit Analysis, Finance Circular 2006/01. http://www.finance.gov.au/publications/finance-circulars/2006/01.html
+^ US Department of Health and Human Services, 1993. Feasibility, Alternatives, And Cost/Benefit Analysis Guide, Administration for Children and Families, and Health Care Finance Administration. http://www.acf.hhs.gov/programs/cb/systems/sacwis/cbaguide/index.htm
+^ Federal Emergency Management Administration, 1022. Guide to Benefit Cost Analysis. http://www.fema.gov/government/grant/bca.shtm
+^ "HEATCO project site". Heatco.ier.uni-stuttgart.de. Retrieved 2013-04-21.
+^ [3] Guide to Cost-Benefit Analysis of Major Projects. Evaluation Unit, DG Regional Policy, European Commission, 2008.
+^ Guide to Benefit-Cost Analysis in Transport Canada. Transport Canada. Economic Evaluation Branch, Transport Canada, Ottawa, 1994 [4]
+^ US Federal Highway Administration: Economic Analysis Primer: Benefit-Cost Analysis 2003 [5]
+^ US Federal Highway Administration: Cost-Benefit Forecasting Toolbox for Highways, Circa 2001 [6]
+^ US Federal Aviation Administration: Airport Benefit-Cost Analysis Guidance, 1999 [7] [8]
+^ Minnesota Department of Transportation: Benefit Cost Analysis. MN DOT Office of Investment Management [9]
+^ California Department of Transportation: Benefit-Cost Analysis Guide for Transportation Planning [10]
+^ Transportation Research Board, Transportation Economics Committee: Transportation Benefit-Cost Analysis [11]
+^ http://regulation.huji.ac.il/papers/jp5.pdf
+^ http://govinfo.library.unt.edu/npr/library/direct/orders/2646.html
+^ Heinzerling, L. (2000), 'The Rights of Statistical People', Harvard Environmental Law Review 24, 189-208.
+^ Huesemann, Michael H., and Joyce A. Huesemann (2011). Technofix: Why Technology Wont Save Us or the Environment, Chapter 8, The Positive Biases of Technology Assessments and Cost Benefit Analyses, New Society Publishers, Gabriola Island, British Columbia, Canada, ISBN 0865717044, 464 pp.
+^ "Ford Fuel Fires". Archived from the original on July 15, 2011. Retrieved 29 December 2011.
+^ Phelps, Charles (2009). Health Economics (4th ed.). New York: Pearson/Addison-Wesley. ISBN978-0-321-59457-0.
+^ Pekka Tuominen, Francesco Reda, Waled Dawoud, Bahaa Elboshy, Ghada Elshafei, Abdelazim Negm: Economic Appraisal of Energy Efficiency in Buildings Using Cost-effectiveness Assessment. Procedia Economics and Finance, Volume 21, 2015, Pages 422430.
+^ a b Ackerman; et al. (2005). "Applying Cost-Benefit to Past Decisions: Was Environmental Protection Ever a Good Idea?". Administrative Law Review. 57: 155.
+Further reading[edit]
+Campbell, Harry; Brown, Richard (2003). Benefit-Cost Analysis: Financial and Economic Appraisal Using Spreadsheets. Cambridge University Press. ISBN0-521-82146-0.
+Chakravarty, Sukhamoy (1987). "Cost-benefit analysis". The New Palgrave: A Dictionary of Economics. 1. London: Macmillan. pp.687690. ISBN0-333-37235-2.
+David, R., Ngulube, P. & Dube, A., 2013, A cost-benefit analysis of document management strategies used at a financial institution in Zimbabwe: A case study, SA Journal of Information Management 15(2), Art. #540, 10 pages. http://www.sajim.co.za/index.php/SAJIM/article/view/540/640
+Dupuit, Jules (1969). "On the Measurement of the Utility of Public Works". In Arrow, Kenneth J.; Scitovsky, Tibor. Readings in Welfare Economics. London: Allen and Unwin. ISBN0-04-338038-7.
+Eckstein, Otto (1958). Water-resource Development: The Economics of Project Evaluation. Cambridge: Harvard University Press.
+Folland, Sherman; Goodman, Allen C.; Stano, Miron (2007). The Economics of Heath and Health Care (Fifth ed.). New Jersey: Pearson Prentice Hall. pp.8384. ISBN978-0-13-227942-0.
+Ferrara, A. (2010). Cost-Benefit Analysis of Multi-Level Government: The Case of EU Cohesion Policy and US Federal Investment Policies. London and New York: Routledge. ISBN978-0-415-56821-0.
+Frank, Robert H. (2000). "Why is Cost-Benefit Analysis so Controversial?". Journal of Legal Studies. 29 (S2): 913930. doi:10.1086/468099.
+Hirshleifer, Jack (1960). Water Supply: Economics, Technology, and Policy. Chicago: University of Chicago Press.
+Huesemann, Michael H., and Joyce A. Huesemann (2011). Technofix: Why Technology Wont Save Us or the Environment, Chapter 8, The Positive Biases of Technology Assessments and Cost Benefit Analyses, New Society Publishers, Gabriola Island, British Columbia, Canada, ISBN 0865717044, 464 pp.
+Maass, Arthur, ed. (1962). Design of Water-resource Systems: New Techniques for Relating Economic Objectives, Engineering Analysis, and Governmental Planning. Cambridge: Harvard University Press.
+McKean, Roland N. (1958). Efficiency in Government through Systems Analysis: With Emphasis on Water Resources Development. New York: Wiley.
+Nas, Tevfik F. (1996). Cost-Benefit Analysis: Theory and Application. Thousand Oaks, CA: Sage. ISBN0-8039-7133-8.
+Portney, Paul R. (2008). "Benefit-Cost Analysis". In David R. Henderson (ed.). Concise Encyclopedia of Economics (2nd ed.). Indianapolis: Library of Economics and Liberty. ISBN978-0-86597-665-8.
+Richardson, Henry S. (2000). "The Stupidity of the Cost-Benefit Analysis". Journal of Legal Studies. 29 (S2): 9711003. doi:10.1086/468102.
+Quigley, John; Walls, Lesley (2003). "Cost-Benefit Modelling for Reliability Growth". Journal of the Operational Research Society. 54 (12): 12341241. doi:10.1057/palgrave.jors.2601633.
+Sen, Amartya (2000). "The Discipline of Cost-Benefit Analysis". Journal of Legal Studies. 29 (S2): 931952. doi:10.1086/468100.
+External links[edit]
+Benefit-Cost Analysis Center at the University of Washington's Daniel J. Evans School of Public Affairs
+Intro to Cost-Benefit Analysis
+v
+t
+e
+Microeconomics
+Major topics
+Aggregation
+Bilateral monopoly
+Budget
+Consumer
+Convexity and non-convexity
+Cost
+Costbenefit analysis
+Deadweight loss
+Distribution
+Duopoly
+Economies of scale
+Economies of scope
+Elasticity
+Equilibria
+Exchange
+Expected utility
+Externality
+Firms
+General equilibrium
+Household
+Incomeconsumption curve
+Information
+Indifference curve
+Intertemporal choice
+Marginal cost
+Market failure
+Market structure
+Monopoly
+Monopsony
+Oligopoly
+Preferences
+Production
+Profit
+Public goods
+Returns to scale
+Risk aversion
+Scarcity
+Shortage
+Social choice
+Sunk costs
+Supply & demand
+Surplus
+Uncertainty
+Utility
+Welfare
+Subfields
+Behavioral
+Business
+Computational
+Statistical decision theory
+Econometrics
+Experimental
+Game theory
+Industrial organization
+Labor
+Managerial
+Mathematical economics
+Microfoundations of macroeconomics
+Operations research
+Optimization
+v
+t
+e
+Health care quality
+Concepts of quality
+Evidence-based medicine
+Medical guideline
+Medical consensus
+Health care evaluations
+Clinical audit
+Health care ratings
+Health impact assessment
+Health services research
+Routine health outcomes measurement
+Independent medical review
+Medical peer review
+Accreditation
+Hospital accreditation
+International healthcare accreditation
+List of international healthcare accreditation organizations
+Costs and benefits
+Cost per procedure
+Cost-effectiveness analysis
+Cost-minimization analysis
+Incremental cost-effectiveness ratio
+Tools
+Incremental cost-effectiveness ratio
+Clinical Quality Management System
+Quality-adjusted life year
+Authority control
+GND: 4032589-1
+NDL: 00563296
+NewPP limit report
+Parsed by mw1201
+Cached time: 20161118054137
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.376 seconds
+Real time usage: 0.424 seconds
+Preprocessor visited node count: 2229/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 85181/2097152 bytes
+Template argument size: 1490/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.201/10.000 seconds
+Lua memory usage: 4.18 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+341.016
+1 - -total
+47.21%
+161.007
+1 - Template:Reflist
+25.41%
+86.642
+24 - Template:Cite_book
+22.07%
+75.269
+3 - Template:Citation_needed
+18.63%
+63.516
+11 - Template:Cite_journal
+17.15%
+58.496
+3 - Template:Fix
+8.38%
+28.561
+3 - Template:Delink
+7.73%
+26.357
+6 - Template:Category_handler
+5.00%
+17.041
+1 - Template:Authority_control
+3.14%
+10.704
+3 - Template:Cite_web
+Saved in parser cache with key enwiki:pcache:idhash:374583-0!*!0!!en!4!* and timestamp 20161118054137 and revision id 750180161
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Costbenefit_analysis&oldid=750180161"
+Categories: Decision analysisCostsEvaluation methodsWelfare economicsPublic financeProject managementHidden categories: Webarchive template wayback linksPages using ISBN magic linksAll articles with unsourced statementsArticles with unsourced statements from January 2012Wikipedia articles with GND identifiers

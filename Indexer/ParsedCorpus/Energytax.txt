@@ -1,0 +1,45 @@
+Energytax
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}An energy tax is a tax that increases the price of energy (Fisher et al., 1996, p.416).[1] Arguments in favour of energy taxes have included the pursuit of macroeconomic objectives, e.g., fiscal deficit reduction in the 1990s, as well as environmental benefits, i.e., reduced pollution (Nellor, 1994, p.1).[2] A weakness of energy taxes is that they impose a burden (or cost) in the form of reduced economic output and employment (p.19).
+Contents
+1 United States
+1.1 Colorado
+2 References
+3 See also
+United States[edit]
+In 1993, then President Bill Clinton proposed a BTU tax. A BTU tax is a type of energy tax (Baron, 1997, p.14).[3] The tax would have taxed all fuel sources based on their heat content except for wind, solar, and geothermal. It was never adopted. The BTU tax passed the House, but was rejected by the Senate in light of the lobbying effort mobilized against its adoption. The rejected proposal was watered down, as the Clinton administration tried to salvage their efforts by offering to exempt manufacturers and base the tax on the cost rather than the heat content of energy.[4] Many of the House Democrats who voted for the tax and who lost their seats in the 1994 midterm election, blamed their loss on their vote for the BTU tax. Getting "BTU'd" became Beltway slang at the time for those who lost reelection by voting for the controversial proposal.[5]
+Colorado[edit]
+On 7 November 2006, citizens of Boulder, Colorado (a cit with roughly 100,000 residents situated in the foothills of the Rocky Mtns) voted in favor of initiative 202, the Boulder Climate Action Plan Tax. That marks the first time in the nation that a municipal government has imposed an energy tax directly upon its residents to combat global warming. It applies to energy consumption with deductions for carbon-neutral and renewable energy sources (such as Xcel Energys WindSource).
+The tax appears on consumer's energy bills and is used to fund the citys Office of Environmental Affairs that is in charge of programs designed to reduce Boulder's carbon footprint.
+The CAP tax is to generate roughly $1 million annually. The City Council has the authority to increase the rates as needed. As of October 2009, the rate is assigned as follows:[6]
+Electricity User Type
+Tax Rate
+Average Annual Tax
+Residential
+$0.0049/kWh
+$21
+Commercial
+$0.0009/kWh
+$94
+Industrial
+$0.0003/kWh
+$9,600
+References[edit]
+^ Fisher, B.S.; et al. (1996). An Economic Assessment of Policy Instruments for Combating Climate Change. In: Climate Change 1995: Economic and Social Dimensions of Climate Change. Contribution of Working Group III to the Second Assessment Report of the Intergovernmental Panel on Climate Change (J.P. Bruce et al. Eds.). Cambridge University Press, Cambridge, U.K., and New York, N.Y., U.S.A. doi:10.2277/0521568544. ISBN978-0-521-56854-8.
+^ Nellor, D.C.L. (16 May 1994). "Energy Taxes and Macroeconomic Policy Objectives. Series: Papers on Policy Analysis and Assessment No. 94/9. Stock No: PPIEA0091994". International Monetary Fund, Fiscal Affairs Department. Retrieved 2010-04-23.
+^ Baron, R. (1997). "Economic/Fiscal Instruments: Taxation (i.e., Carbon/Energy). Annex I Expert Group on the United Nations Framework Convention on Climate Change, Working Paper No. 4, Organisation for Economic Co-operation and Development" (PDF). OECD website. Retrieved 2010-04-22.
+^ Hilzenrath, David S. "Miscalculations, Lobby Effort Doomed Btu Tax Plan." The Washington Post (June 11, 1993).
+^ Nordhaus, Ted. "Getting Real on Climate Change," The American Prospect (December 1, 2008).
+^ "Climate Action Plan Tax". City of Boulder, Colorado (www.bouldercolorado.gov). 2009-10-15. Retrieved 2010-01-28.
+See also[edit]
+Carbon tax
+Ecotax
+Energy Tax Act of 1978
+Energy Policy Act of 2005
+Fee and dividend
+Fuel economy in automobiles
+H.R. 1424
+Saved in parser cache with key enwiki:pcache:idhash:8314359-0!*!0!!en!*!* and timestamp 20161116220354 and revision id 731051081
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Energy_tax&oldid=731051081"
+Categories: Energy policyTaxation

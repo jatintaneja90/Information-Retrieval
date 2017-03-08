@@ -1,0 +1,360 @@
+Jetfuel
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"JP-1" redirects here. For other uses, see JP1.
+Jet fuel
+Identifiers
+CAS Number
+70892-11-4 (fuel oil no. 5)Y
+8008-20-6 (kerosene)Y
+Properties
+Appearance
+Straw-colored liquid
+Density
+775.0-840.0 g/L
+Melting point
+47C (53F; 226K)
+Boiling point
+176C (349F; 449K)
+Hazards
+Safety data sheet
+[2] [3]
+NFPA 704
+2
+2
+0
+Flash point
+38C (100F; 311K)
+Autoignition
+temperature
+210C (410F; 483K)
+Except where otherwise noted, data are given for materials in their standard state (at 25C [77F], 100kPa).
+Yverify(what isYN?)
+Infoboxreferences
+Jet fuel, aviation turbine fuel (ATF), or avtur, is a type of aviation fuel designed for use in aircraft powered by gas-turbine engines. It is colorless to straw-colored in appearance. The most commonly used fuels for commercial aviation are Jet A and Jet A-1, which are produced to a standardized international specification. The only other jet fuel commonly used in civilian turbine-engine powered aviation is Jet B, which is used for its enhanced cold-weather performance.
+Jet fuel is a mixture of a large number of different hydrocarbons. The range of their sizes (molecular weights or carbon numbers) is defined by the requirements for the product, such as the freezing or smoke point. Kerosene-type jet fuel (including Jet A and Jet A-1) has a carbon number distribution between about 8 and 16 (carbon atoms per molecule); wide-cut or naphtha-type jet fuel (including Jet B), between about 5 and 15.[1]
+Contents
+1 History
+2 Types
+2.1 Jet A
+2.2 Differences between Jet A and Jet A-1
+2.3 Typical physical properties for Jet A and Jet A-1
+2.4 Jet B
+3 Additives
+4 Water in jet fuel
+5 Military jet fuels
+6 Piston engine use
+7 Synthetic jet fuel
+8 USAF synthetic fuel trials
+9 Jet biofuels
+10 Worldwide consumption of jet fuel
+11 See also
+12 References
+13 External links
+History[edit]
+Fuel for piston-engine powered aircraft (usually a high-octane gasoline known as avgas) has a low flash point to improve its ignition characteristics. Turbine engines can operate with a wide range of fuels, and jet-aircraft engines typically use fuels with higher flash points, which are less flammable and therefore safer to transport and handle.
+The first axial compressor jet engine in widespread production and combat service, the Junkers Jumo 004 used on the Messerschmitt Me 262A fighter and the Arado Ar 234B jet recon-bomber, burned either a special synthetic "J2" fuel or diesel fuel. Gasoline was a third option but unattractive due to high fuel consumption.[2] Other fuels used were kerosene or kerosene and gasoline mixtures. Most jet fuels in use since the end of World War II are kerosene-based. Both British and American standards for jet fuels were first established at the end of World War II. British standards derived from standards for kerosene use for lampsknown as paraffin in the UKwhereas American standards derived from aviation gasoline practices. Over the subsequent years, details of specifications were adjusted, such as minimum freezing point, to balance performance requirements and availability of fuels. Very low temperature freezing points reduce the availability of fuel. Higher flash point products required for use on aircraft carriers are more expensive to produce.[3] In the United States, ASTM International produces standards for civilian fuel types, and the U.S. Department of Defense produces standards for military use. The British Ministry of Defence establishes standards for both civil and military jet fuels.[3] For reasons of inter-operational ability, British and United States military standards are harmonized to a degree. In Russia and former Soviet Union countries, grades of jet fuels are covered by the State Standard (GOST) number, or a Technical Condition number, with the principal grade available in Russia and members of the CIS being TS-1.
+Types[edit]
+Jet A[edit]
+Shell Jet A-1 refueller truck on the ramp at Vancouver International Airport. Note the signs indicating UN1863 hazardous material and JET A-1.
+A US Airways Boeing 757 being fueled at Fort LauderdaleHollywood International Airport.
+An Iberia Airbus A340 being fueled at La Aurora International Airport.
+Jet A specification fuel has been used in the United States since the 1950s and is usually not available outside the United States[4] and a few Canadian airports such as Toronto and Vancouver,[5] whereas Jet A-1 is the standard specification fuel used in the rest of the world other than the former Soviet states where TS-1 is the most common standard. Both Jet A and Jet A-1 have a flash point higher than 38C (100F), with an autoignition temperature of 210C (410F).[6]
+Differences between Jet A and Jet A-1[edit]
+The primary difference is the lower freezing point of A-1:[4]
+Jet A's is 40C (40F)
+Jet A-1's is 47C (53F)
+The other difference is the mandatory addition of an anti-static additive to Jet A-1.
+Jet A trucks, storage tanks, and plumbing that carry Jet A are marked with a black sticker with "Jet A" in white printed on it, adjacent to another black stripe.
+Typical physical properties for Jet A and Jet A-1[edit]
+Jet A-1 fuel must meet:
+DEF STAN 91-91 (Jet A-1),
+ASTM specification D1655 (Jet A-1), and
+IATA Guidance Material (Kerosene Type), NATO Code F-35.
+Jet A fuel must reach ASTM specification D1655 (Jet A)[7]
+Typical physical properties for Jet A / Jet A-1[8]
+Jet A-1
+Jet A
+Flash point
+38C (100F)
+Autoignition temperature
+210C (410F)[6]
+Freezing point
+47C (53F)
+40C (40F)
+Max adiabatic burn temperature
+2,500K (2,230C) (4,040F) Open Air Burn temperature: 1,030C (1,890F)[9][10][11]
+Density at 15C (59F)
+0.804kg/l (6.71lb/USgal)
+0.820kg/l (6.84lb/USgal)
+Specific energy
+42.80 MJ/kg
+43.02 MJ/kg
+Energy density
+34.7 MJ/l
+35.3 MJ/l
+Jet B[edit]
+Jet B is a fuel in the naphtha-kerosene region that is used for its enhanced cold-weather performance. However, Jet B's lighter composition makes it more dangerous to handle.[7] For this reason, it is rarely used, except in very cold climates. A blend of approximately 30% kerosene and 70% gasoline, it is known as wide-cut fuel. It has a very low freezing point of 60C (76F), and a low flash point as well. It is primarily used in some military aircraft. It is also used in Canada, Alaska, and sometimes Russia, because of its low freezing point.
+Additives[edit]
+The DEF STAN 91-91 (UK) and ASTM D1655 (international) specifications allow for certain additives to be added to jet fuel, including:[12][13]
+Antioxidants to prevent gumming, usually based on alkylated phenols, e.g., AO-30, AO-31, or AO-37;
+Antistatic agents, to dissipate static electricity and prevent sparking; Stadis 450, with dinonylnaphthylsulfonic acid (DINNSA) as a component, is an example
+Corrosion inhibitors, e.g., DCI-4A used for civilian and military fuels, and DCI-6A used for military fuels;
+Fuel system icing inhibitor (FSII) agents, e.g., Di-EGME; FSII is often mixed at the point-of-sale so that users with heated fuel lines do not have to pay the extra expense.
+Biocides are to remediate microbial (i.e., bacterial and fungal) growth present in aircraft fuel systems. Currently, two biocides are approved for use by most aircraft and turbine engine original equipment manufacturers (OEMs); Kathon FP1.5 Microbiocide and Biobor JF.[14]
+Metal deactivator can be added to remediate the deleterious effects of trace metals on the thermal stability of the fuel. The one allowable additive is N,N-disalicylidene 1,2-propanediamine.
+As the aviation industrys jet kerosene demands have increased to more than 5% of all refined products derived from crude, it has been necessary for the refiner to optimize the yield of jet kerosene, a high value product, by varying process techniques. New processes have allowed flexibility in the choice of crudes, the use of coal tar sands as a source of molecules and the manufacture of synthetic blend stocks. Due to the number and severity of the processes used, it is often necessary and sometimes mandatory to use additives. These additives may, for example, prevent the formation of harmful chemical species or improve a property of a fuel to prevent further engine wear.
+Water in jet fuel[edit]
+It is very important that jet fuel be free from water contamination. During flight, the temperature of the fuel in the tanks decreases, due to the low temperatures in the upper atmosphere. This causes precipitation of the dissolved water from the fuel. The separated water then drops to the bottom of the tank, because it is denser than the fuel. Since the water is no longer in solution, it can form droplets which can supercool to below 0C. If these supercooled droplets collide with a surface they can freeze and may result in blocked fuel inlet pipes.[15] This was the cause of the British Airways Flight 38 accident. Removing all water from fuel is impractical; therefore, fuel heaters are usually used on commercial aircraft to prevent water in fuel from freezing.
+There are several methods for detecting water in jet fuel. A visual check may detect high concentrations of suspended water, as this will cause the fuel to become hazy in appearance. An industry standard chemical test for the detection of free water in jet fuel uses a water-sensitive filter pad that turns green if the fuel exceeds the specification limit of 30ppm (parts per million) free water.[16] A critical test to rate the ability of jet fuel to release emulsified water when passed through coalescing filters is ASTM standard D3948 Standard Test Method for Determining Water Separation Characteristics of Aviation Turbine Fuels by Portable Separometer.
+Military jet fuels[edit]
+Machinist's Mate 3rd Class inspects a sample of JP-5 jet fuel aboard an amphibious transport dock ship
+Military organizations around the world use a different classification system of JP (for "Jet Propellant") numbers. Some are almost identical to their civilian counterparts and differ only by the amounts of a few additives; Jet A-1 is similar to JP-8, Jet B is similar to JP-4.[17] Other military fuels are highly specialized products and are developed for very specific applications.
+Jet fuels are sometimes classified as kerosene or naphtha-type.[3] Kerosene-type fuels include Jet A, Jet A-1, JP-5 and JP-8. Naphtha-type jet fuels, sometimes referred to as "wide-cut" jet fuel, include Jet B and JP-4.[3]
+JP-1
+was an early jet fuel[18] specified in 1944 by the United States government (AN-F-32). It was a pure kerosene fuel with high flash point (relative to aviation gasoline) and a freezing point of 60C (76F). The low freezing point requirement limited availability of the fuel and it was soon superseded by other "wide cut" jet fuels which were kerosene-naphtha or kerosene-gasoline blends. It was also known as avtur.
+JP-2 and JP-3
+are obsolete types developed during World War II. JP-2 was intended to be easier to produce than JP-1 since it had a higher freezing point, but was never widely used. JP-3 was even more volatile than JP-2 and intended to improve production, but its volatility led to high evaporation loss in service.[19]
+JP-4
+was a 50-50 kerosene-gasoline blend. It had lower flash point than JP-1, but was preferred because of its greater availability. It was the primary United States Air Force jet fuel between 1951 and 1995. Its NATO code is F-40. It is also known as avtag.
+JP-5
+is a yellow kerosene-based jet fuel developed in 1952 for use in aircraft stationed aboard aircraft carriers, where the risk from fire is particularly great. JP-5 is a complex mixture of hydrocarbons, containing alkanes, naphthenes, and aromatic hydrocarbons that weighs 6.8 pounds per U.S. gallon (0.81kg/l) and has a high flash point (min. 60C or 140F).[20] Because some US naval air stations, Marine Corps air stations and Coast Guard air stations host both sea-based and shore-based (e.g., "land based") naval aircraft, these installations will also typically fuel their shore-based aircraft with JP-5, thus precluding the need to maintain separate fuel facilities for JP-5 and non-JP-5 fuel. In addition, JP-5 may well have been used by other countries for their military aircraft. Its freezing point is 46C (51F). It does not contain antistatic agents. JP5 is also known as NCI-C54784. JP-5's NATO code is F-44. It is also called AVCAT fuel for Aviation Carrier Turbine fuel.[21]
+The JP-4 and JP-5 fuels, covered by the MIL-DTL-5624 and meeting the British Specification DEF STAN 91-86 AVCAT/FSII (formerly DERD 2452),[22] are intended for use in aircraft turbine engines. These fuels require military-unique additives that are necessary in military weapon systems, engines, and missions.
+JP-6
+Flash point:
+tbd
+Autoignition temperature:
+tbd
+Freezing point:
+tbd
+Open air burning temperatures:
+tbd
+Specific Weight:
+6.55lb/gal[23]
+Military Specification:
+MIL-J-25656
+JP-6
+This is a type of jet fuel developed for the General Electric YJ93 jet engine of the XB-70 Valkyrie supersonic aircraft. JP-6 was ideal for the high altitude bomber, being similar to JP-5 but with a lower freezing point and improved thermal oxidative stability. When the XB-70 program was cancelled, the JP-6 specification, MIL-J-25656, was also cancelled.[24]
+JP-7
+was developed for the twin Pratt & Whitney J58 turbojet/ramjet engines of the SR-71 Blackbird and has a high flash point to better cope with the heat and stresses of high speed supersonic flight.
+JP-8
+is a jet fuel, specified and used widely by the U.S. military. It is specified by MIL-DTL-83133 and British Defence Standard 91-87. JP-8 is a kerosene-based fuel, projected to remain in use at least until 2025. It was first introduced at NATO bases in 1978. Its NATO code is F-34.
+JP-10
+is a gas turbine fuel for missiles, specifically the ALCM.[25] It contains a mixture of (in decreasing order) endo-tetrahydrodicyclopentadiene, exo-tetrahydrodicyclopentadiene, and adamantane. It is produced by catalytic hydrogenation of dicyclopentadiene. It superseded JP-9 fuel, achieving a lower low-temperature service limit of 65F (54C).[25]
+JPTS
+was developed in 1956 for the Lockheed U-2 spy plane.
+Zip fuel
+designates a series of experimental boron-containing "high energy fuels" intended for long range aircraft. The toxicity and undesirable residues of the fuel made it difficult to use. The development of the ballistic missile removed the principal application of zip fuel.
+Syntroleum
+has been working with the USAF to develop a synthetic jet fuel blend that will help them reduce their dependence on imported petroleum. The USAF, which is the United States military's largest user of fuel, began exploring alternative fuel sources in 1999. On December 15, 2006, a B-52 took off from Edwards Air Force Base for the first time powered solely by a 50-50 blend of JP-8 and Syntroleum's FT fuel. The seven-hour flight test was considered a success. The goal of the flight test program was to qualify the fuel blend for fleet use on the service's B-52s, and then flight test and qualification on other aircraft.
+Piston engine use[edit]
+This section may be confusing or unclear to readers. (July 2014) (Learn how and when to remove this template message)
+Jet fuel is very similar to diesel fuel, and in some cases, may be burned in diesel engines. The possibility of environmental legislation banning the use of leaded avgas, and the lack of a replacement fuel with similar performance, has left aircraft designers and pilot's organizations searching for alternative engines for use in small aircraft.[26] As a result, a few aircraft engine manufacturers, most notably Thielert and Austro Engine, have begun offering aircraft diesel engines which run on jet fuel. This technology has potential to simplify airport logistics by reducing the number of fuel types required. Jet fuel is available in most places in the world, whereas avgas is only widely available in a few countries which have a large number of general aviation aircraft. A diesel engine may also potentially be more environmentally friendly and fuel-efficient than an avgas engine. However, very few diesel aircraft engines have been certified by aviation authorities. Diesel aircraft engines are uncommon today, even though opposed-piston aviation diesel powerplants such as the Junkers Jumo 205 family had been used during the Second World War.
+Jet fuel is often used in ground support vehicles at airports, instead of diesel. The United States military makes heavy use of JP-8, for instance. However, jet fuel tends to have poor lubricating ability in comparison to diesel, thereby increasing wear on fuel pumps and other related engine parts.[citation needed] Civilian vehicles tend to disallow its use, or require that an additive be mixed with the jet fuel to restore its lubricity. Jet fuel is more expensive than diesel fuel but the logistical advantages of using one fuel can offset the extra expense of its use in certain circumstances.
+Jet fuel contains more sulfur, up to 1,000ppm, which therefore means it is more lubricative and does not currently require a lubricity additive as all pipeline diesel fuels require. The introduction of Ultra Low Sulfur Diesel or ULSD brought with it the need for lubricity modifiers. Pipeline diesels before ULSD were able to contain up to 500ppm of sulfur and was called Low Sulfur Diesel or LSD. LSD is now only available to the off-road construction, locative and marine markets. As more EPA regulations are introduced, more refineries are hydrotreating their jet fuel production, thus limiting the lubricating abilities of jet fuel, as determined by ASTM Standard D445.
+Synthetic jet fuel[edit]
+Main article: Synthetic fuel
+A significant effort is under way to certify FischerTropsch (FT) Synthesized Paraffinic Kerosene (SPK) synthetic fuels for use in United States and international aviation fleets. In this effort is being led by an industry coalition known as the Commercial Aviation Alternative Fuels Initiative (CAAFI),[27] also supported by a parallel initiative under way in the USAF,[28] to certify FT fuel for use in all aviation platforms. The USAF has a stated goal of certifying its entire fleet for use with FT synthetic fuel blends by 2011.[29] The CAAFI initiative aims to certify the civilian aviation fleet for FT synthetic fuels blends by 2010, and has programs under way to certify Hydroprocessed Esters and Fatty Acids (HEFA) (aka Hydrogenated Renewable Jet (HRJ)) SPK biofuels as early as 2013.[30] "Hydroprocessed" and "hydrotreated" have also been used in lieu of "hydrogenated". Both FT and HEFA based SPKs blended with JP-8 are specified in MIL-DTL-83133H.
+Synthetic jet fuels show a reduction in pollutants such as SOx, NOx, particulate matter, and hydrocarbon emissions.[31] It is envisaged that usage of synthetic jet fuels will increase air quality around airports which will be particularly advantageous at inner city airports.[32]
+Qatar Airways became the first airline to operate a commercial flight on a 50:50 blend of synthetic Gas to Liquid (GTL) jet fuel and conventional jet fuel. The natural gas derived synthetic kerosene for the six-hour flight from London to Doha came from Shell's GTL plant in Bintulu, Malaysia.[33]
+The world's first passenger aircraft flight to use only synthetic jet fuel was from Lanseria International Airport to Cape Town International Airport on September 22, 2010. The fuel was developed by Sasol.[34]
+Chemist Heather Willauer is leading a team of researchers at the U.S. Naval Research Laboratory who are developing a process to make jet fuel from seawater. The technology requires an input of electrical energy to separate carbon dioxide (CO2) and hydrogen (H2) gas from seawater using an iron-based catalyst, followed by an oligomerization step wherein carbon monoxide (CO) and hydrogen are recombined into long-chain hydrocarbons, using zeolite as the catalyst. The technology is expected to be deployed in the 2020s by U.S. Navy warships, especially nuclear-powered aircraft carriers.[35][36][37][38][39][40]
+USAF synthetic fuel trials[edit]
+On August 8, 2007, Air Force Secretary Michael Wynne certified the B-52H as fully approved to use the FT blend, marking the formal conclusion of the test program.
+The USAF C-17 Globemaster III was built to perform development testing.
+This program is part of the Department of Defense Assured Fuel Initiative, an effort to develop secure domestic sources for the military energy needs. The Pentagon hopes to reduce its use of crude oil from foreign producers and obtain about half of its aviation fuel from alternative sources by 2016. With the B-52 now approved to use the FT blend, the USAF will use the test protocols developed during the program to certify the C-17 Globemaster III and then the B-1B to use the fuel. To test these two aircraft, the USAF has ordered 281,000USgal (1,060,000l) of FT fuel. The USAF intends to test and certify every airframe in its inventory to use the fuel by 2011. They will also supply over 9,000 US gallons (34,000l; 7,500impgal) to NASA for testing in various aircraft and engines.[needs update]
+The USAF has certified the B-1B, B-52H, C-17, C-130J, F-4 (as QF-4 target drones), F-15, F-22, and T-38 to use the synthetic fuel blend.[41]
+The U.S. Air Force's C-17 Globemaster III, F-16 and F-15 are certified for use of hydrotreated renewable jet fuels.[42][43] The USAF plans to certify over 40 models for fuels derived from waste oils and plants by 2013.[43] The U.S. Army is considered one of the few customers of biofuels large enough to potentially bring biofuels up to the volume production needed to reduce costs.[43] The U.S. Navy has also flown a Boeing F/A-18E/F Super Hornet dubbed the "Green Hornet" at 1.7 times the speed of sound using a biofuel blend.[43] The Defense Advanced Research Projects Agency (DARPA) funded a $6.7 million project with Honeywell UOP to develop technologies to create jet fuels from biofeedstocks for use by the United States and NATO militaries.[44]
+Jet biofuels[edit]
+Main article: Aviation biofuel
+The air transport industry is responsible for 1 percent of man-made carbon dioxide emitted.[45] Boeing estimates that biofuels could reduce flight-related greenhouse-gas emissions by 60 to 80 percent. One possible solution which has received more media coverage than others would be blending synthetic fuel derived from algae with existing jet fuel:[46]
+Green Flight International became the first airline to fly jet aircraft on 100% biofuel. The flight from Reno Stead Airport in Stead, Nevada was in an Aero L-29 Delfn piloted by Carol Sugars and Douglas Rodante.[47]
+Boeing and Air New Zealand are collaborating with Tecbio[48] Aquaflow Bionomic and other jet biofuel developers around the world.
+Virgin Atlantic successfully tested a biofuel blend consisting of 20 percent babassu nuts and coconut and 80 percent conventional jet fuel, which was fed to a single engine on a 747 flight from London Heathrow to Amsterdam Schiphol.[49]
+A consortium consisting of Boeing, NASA's Glenn Research Center, MTU Aero Engines (Germany), and the U.S. Air Force Research Laboratory is working on development of jet fuel blends containing a substantial percentage of biofuel.[50]
+British Airways and Solena Group are establishing a sustainable jet fuel plant in East London, UK as BA plans to use the biofuel to power part of its fleet from 2014.[51]
+24 commercial and military biofuel flights have taken place using Honeywell Green Jet Fuel, including a Navy F/A-18 Hornet.[52]
+In 2011, United Continental Holdings was the first United States airline to fly passengers on a commercial flight using a blend of sustainable, advanced biofuels and traditional petroleum-derived jet fuel. Solazyme developed the algae oil, which was refined utilizing Honeywell's UOP process technology, into jet fuel to power the commercial flight.[53]
+Solazyme produced the world's first 100 percent algae-derived jet fuel, Solajet, for both commercial and military applications.[54]
+Oil prices increased about fivefold from 2003 to 2008, raising fears that world petroleum production is becoming unable to keep up with demand. The fact that there are few alternatives to petroleum for aviation fuel adds urgency to the search for alternatives. Twenty-five airlines were bankrupted or stopped operations in the first six months of 2008, largely due to fuel costs.[55]
+In 2014 ASTM approved a modification to Specification D1655 Standard Specification for Aviation Turbine Fuels to permit up to 50 ppm (5mg/kg) of FAME (fatty acid methyl ester) in jet fuel.
+Worldwide consumption of jet fuel[edit]
+Worldwide demand of jet fuel has been steadily increasing since 1980. Consumption more than tripled in 30 years from 1,837,000 barrels/day in 1980, to 5,220,000 in 2010.[56] Around 30% of the worldwide consumption of jet fuel is in the US (1,398,130 barrels/day in 2012).
+See also[edit]
+Aviation portal
+References[edit]
+^ Chevron Products Corporation. "Aviation Fuels Technical Review" (PDF).
+^ "Summary of Debriefing of German pilot Hans Fey" (PDF). Zenos' Warbird Video Drive-In.
+^ a b c d Salvatore J. Rand,(ed), Significance of Tests for Petroleum Products (8th Edition) ASTM International, 2010, ISBN 978-1-61583-673-4 page 88
+^ a b World-wide Civil Jet Fuel Grades
+^ Canada Flight Supplement. Effective 0901Z 15 September 2016 to 0901Z 10 November 2016
+^ a b [1]
+^ a b "Aviation Fuel Jet Fuel Information". Csgnetwork.com. 2004-01-05. Retrieved 2010-11-28.
+^ "Handbook of Products" (PDF). Air BP.
+^ "FUEL DATA FOR COMBUSTION WITH AIR" (PDF). Isidoro Martnez Prof. of Thermodynamics, Ciudad Universitaria. 2014. Retrieved 2014-05-09.
+^ "Performance of JP-8 Unified Fuel in a Small Bore Indirect Injection Diesel Engine for APU Applications". SAE International. January 2012. Retrieved 2014-05-09.
+^ "Resource Guide To Aircraft Fire Fighting & Rescue". Aviation Safety Advisory Group of Arizona, Inc. 2014. Archived from the original on 2014-05-12. Retrieved 2014-05-09.
+^ Turbine Fuel, Aviation Kerosine Type, Jet A-1. Ministry of Defence (UK) Standard 91-91, Issue 6, 2008-08-25.
+^ Standard Specification for Aviation Turbine Fuels, ASTM D1655-09a (2010). ASTM International, West Conshohocken, Pennsylvania, United States.
+^ Lombardo, David A., "Fuel-quality evaluation requires pilot vigilance". Aviation International News, July 2005.
+^ Murray, B.J.; et al. (2011). "Supercooling of water droplets in jet aviation fuel". Fuel. 90: 433435. doi:10.1016/j.fuel.2010.08.018.
+^ The Shell Water Detector
+^ "Shell Aviation Fuels" (PDF). shell.com. Shell Oil Company. p.4. Retrieved 27 November 2014.
+^ Aviation Fuel - US Centennial of Flight Commission, Retrieved 3 January 2012
+^ Larry Reithmaier, Mach 1 and Beyond: The Illustrated Guide to High-Speed Flight, (McGraw-Hill Professional, 1994), ISBN 0070520216, page 104
+^ Characteristics of Fuels Marine Corps Schools Detachment Ft. Leonard Wood
+^ UK MOD DEF STAN 23-8 ISSUE 2
+^ Shell Fuels Technical Data Sheet - F-44
+^ Taube, L.J. (April 1972). "Vol. III" (pdf). B-70 Aircraft Study Final Report. North American Rockwell. Retrieved 2008-10-31.
+^ The History of Jet Fuel Archived October 18, 2012, at the Wayback Machine. Air BP
+^ a b Aviation Fuel Properties (PDF). Coordinating Research Council. 1983. p.3. CRC Report N 530.
+^ Planemakers challenged to find unleaded fuel option - The Wichita Eagle Archived June 6, 2009, at the Wayback Machine.
+^ "Significant progress made towards adoption of semi-synthetic aviation fuel" (PDF). Retrieved 2009-06-24.
+^ "Synthetic Future, USAF Pushes Ahead With Fuel Production Despite Price Drop". Retrieved 2009-06-24.
+^ "USAF drives biofuel bandwagon". Retrieved 2009-06-24.
+^ "CAAFI pools aviation industry resources to certify synthetic jet fuel". Retrieved 2009-06-24.
+^ Fuel Property, Emission Test, and Operability Results from a Fleet of Class 6 Vehicles Operating on Gas-To-Liquid Fuel and Catalyzed Diesel Particle Filters Yosemite Waters-Vehicle Evaluation Report - National Renewable Energy Lab
+^ Best Synth Jet Fuel[dead link]
+^ "Qatar Airways Becomes First to Operate Commercial Flight on GTL Jet Fuel Blend". Green Car Congress. 2009-10-12.
+^ "Sasol takes to the skies with the world's first fully synthetic jet fuel". Sasol. 2010-09-22. Archived from the original on 2011-05-15.
+^ Parry, Daniel (September 24, 2012). "Fueling the Fleet, Navy Looks to the Seas". Naval Research Laboratory News.
+^ Palmer, Roxanne (December 17, 2013). "How The Navy Might Spin Seawater Into Jet Fuel". International Business Times.
+^ Tozer, Jessica L. (April 11, 2014). "Energy Independence: Creating Fuel from Seawater". Armed with Science. U.S. Department of Defense. Missing or empty |url= (help)
+^ Koren, Marina (December 13, 2013). "Guess What Could Fuel the Battleships of the Future?". National Journal.
+^ Tucker, Patrick (April 10, 2014). "The Navy Just Turned Seawater Into Jet Fuel". Defense One.
+^ Ernst, Douglas (April 10, 2014). "U.S. Navy to turn seawater into jet fuel". The Washington Times.
+^ Sirak, Michael (2010-01-27). "B-2 Goes Synthetic". Air Force Magazine. Retrieved 7 July 2012.
+^ Dowdell, Richelle (February 10, 2011). "Officials certify first aircraft for biofuel usage". The Official Website of the U.S. Air Force. Retrieved March 7, 2012.[permanent dead link]
+^ a b c d Morales, Alex; Louise Downing (October 18, 2011). "Fat Replaces Oil for F-16s as Biofuels Head to War: Commodities". BusinessWeek. Archived from the original on February 26, 2012. Retrieved March 7, 2012.
+^ "UOP To Develop Technology to Produce Bio JP-8 for Military Jets". Green Car Congress. June 28, 2007. Retrieved March 7, 2012.
+^ "Beginner's Guide to Aviation Biofuels" (PDF). Air Transport Action Group. May 2009. Retrieved 2009-09-20.[permanent dead link]
+^ "A Promising Oil Alternative: Algae Energy". The Washington Post. 2008-01-06. Retrieved 2010-05-06.
+^ "Gfi Home". Greenflightinternational.com. Archived from the original on 2011-01-25. Retrieved 2010-11-28.
+^ "Tecbio". Tecbio. Archived from the original on 2011-01-23. Retrieved 2010-11-28.
+^ "Crop this: Virgin takes off with nut-fuel - 26 Feb 2008 - NZ Herald: New Zealand Business, Markets, Currency and Personal Finance News". NZ Herald. 2008-02-26. Retrieved 2010-11-28.
+^ "2008 Environment Report". Boeing. Retrieved 2010-11-28.
+^ "British Airways to use Biofuel". RenewableEnergyFocus.com. February 16, 2010.
+^ Koch, Wendy (November 7, 2011). "United flies first US passengers using fuel from algae". USA Today. Retrieved December 16, 2011.
+^ "United Airlines Flies First U.S. Commercial Advanced Biofuel Flight". United Continental Holdings, Inc. Retrieved November 7, 2011.[permanent dead link]
+^ Price, Toby (November 10, 2011). "Solazyme completes first commercial flight on biofuel". Renewable Energy Magazine. Retrieved 13 February 2013.
+^ "More airlines fold as fuel prices soar: IATA". News.asiaone.com. Retrieved 2010-11-28.
+^ "Jet fuel consumption on Index Mundi". Retrieved 19 November 2014.
+External links[edit]
+History of Jet Fuel
+MIL-DTL-5624U
+MIL-DTL-83133H
+Aviation Fuel Properties 1983
+v
+t
+e
+Aircraft gas turbine engine components, systems and terminology
+Gas turbines
+Types
+Propfan
+Turbofan
+Turbojet
+Turboprop
+Turboshaft
+Mechanical
+components
+Accessory drive
+Afterburner (reheat)
+Axial compressor
+Centrifugal compressor
+Combustor
+Constant speed drive
+Propelling nozzle
+Turbine blade
+Terminology
+Aircraft engine starting
+Bypass ratio
+Compressor stall
+Engine pressure ratio (EPR)
+Flameout
+Windmill restart
+Propellers
+Components
+Propeller governor
+Propeller speed reduction unit
+Terminology
+Autofeather
+Blade pitch
+Constant-speed
+Contra-rotating
+Counter-rotating
+Proprotor
+Scimitar
+Variable-pitch
+Engine
+instruments
+Annunciator panel
+Electronic centralised aircraft monitor (ECAM)
+Electronic flight instrument system (EFIS)
+Engine-indicating and crew-alerting system (EICAS)
+Flight data recorder
+Glass cockpit
+Engine controls
+Autothrottle
+Full Authority Digital Engine/Electronics (FADEC)
+Thrust lever
+Thrust reversal
+Fuel and induction
+systems
+Jet fuel
+Other systems
+Air-start system
+Auxiliary power unit (APU)
+Bleed air system
+Hydraulic system
+Ice protection system
+Authority control
+GND: 4163647-8
+NewPP limit report
+Parsed by mw1173
+Cached time: 20161119202030
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.920 seconds
+Real time usage: 1.053 seconds
+Preprocessor visited node count: 8893/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 158522/2097152 bytes
+Template argument size: 14265/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 7/500
+Lua time usage: 0.394/10.000 seconds
+Lua memory usage: 8.8 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+934.002
+1 - -total
+45.27%
+422.828
+1 - Template:Chembox
+29.82%
+278.530
+1 - Template:Reflist
+18.31%
+170.995
+1 - Template:Chembox_Identifiers
+17.17%
+160.372
+1 - Template:Chembox_Properties
+15.64%
+146.096
+3 - Template:Chembox_headerbar
+15.37%
+143.529
+9 - Template:Trim
+13.50%
+126.064
+26 - Template:Cite_web
+7.38%
+68.945
+26 - Template:Convert
+5.56%
+51.925
+6 - Template:Fix
+Saved in parser cache with key enwiki:pcache:idhash:1205435-0!*!0!!en!4!* and timestamp 20161119202029 and revision id 750355664
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Jet_fuel&oldid=750355664"
+Categories: Aviation fuelsLiquid fuelsPetroleum productsHidden categories: Webarchive template wayback linksAll articles with dead external linksArticles with dead external links from June 2016Pages using web citations with no URLArticles with dead external links from November 2016Articles with permanently dead external linksPages using ISBN magic linksChemical articles with multiple CAS Registry NumbersArticles without EBI sourceChemicals that do not have a ChemSpider ID assignedArticles without KEGG sourceArticles without InChI sourceArticles without UNII sourceWikipedia articles needing clarification from July 2014All Wikipedia articles needing clarificationArticles using small message boxesAll articles with unsourced statementsArticles with unsourced statements from June 2009Wikipedia articles in need of updating from October 2014All Wikipedia articles in need of updatingWikipedia articles with GND identifiers

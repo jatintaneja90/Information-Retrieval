@@ -1,0 +1,166 @@
+Electricitydelivery
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Electricity delivery is the process that goes from generation of electricity in the power station to the use by the consumer.
+The main processes in electricity delivery are, by order:
+Generation
+Transmission
+Distribution
+Retailing
+External links[edit]
+Very simple lay tutorial on power delivery on WE Energies website.
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+This article about electric power is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+NewPP limit report
+Parsed by mw1188
+Cached time: 20161118233023
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.052 seconds
+Real time usage: 0.067 seconds
+Preprocessor visited node count: 532/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 27274/2097152 bytes
+Template argument size: 732/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.012/10.000 seconds
+Lua memory usage: 886 KB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+42.729
+1 - -total
+83.53%
+35.693
+2 - Template:Navbox
+80.00%
+34.183
+1 - Template:Electricity_generation
+23.71%
+10.133
+1 - Template:Navbox_subgroup
+19.85%
+8.483
+1 - Template:Electric-power-stub
+17.42%
+7.443
+1 - Template:Asbox
+3.12%
+1.332
+3 - Template:Longitem
+Saved in parser cache with key enwiki:pcache:idhash:326545-0!*!0!*!*!4!* and timestamp 20161118233023 and revision id 743825805
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Electricity_delivery&oldid=743825805"
+Categories: Electric powerElectric power stubsHidden categories: All stub articles

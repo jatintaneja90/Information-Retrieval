@@ -1,0 +1,96 @@
+Liquidnitrogen
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"LN2" redirects here. For the high-speed railway line in France, see LGV Atlantique.
+Liquid nitrogen
+Play media
+A demonstration of liquid nitrogen at the Freeside maker space in Atlanta, Georgia during the Online News Association conference in 2013
+Students preparing homemade ice cream with liquid nitrogen.
+Liquid nitrogen is nitrogen in a liquid state at an extremely low temperature. It is a colorless clear liquid with a density of 0.807 g/ml at its boiling point (195.79C (77K; 320F)) and a dielectric constant of 1.43.[1] Nitrogen was first liquefied at the Jagiellonian University on 15 April 1883 by Polish physicists, Zygmunt Wrblewski and Karol Olszewski.[2] It is produced industrially by fractional distillation of liquid air. Liquid nitrogen is often referred to by the abbreviation, LN2 or "LIN" or "LN" and has the UN number 1977. Liquid nitrogen is a diatomic liquid, which means that the diatomic character of the covalent N bonding in N2 gas is retained after liquefaction.[3]
+Liquid nitrogen is a cryogenic fluid that can cause rapid freezing on contact with living tissue. When appropriately insulated from ambient heat, liquid nitrogen can be stored and transported, for example in vacuum flasks. The temperature is held constant at 77K by slow boiling of the liquid, resulting in the evolution of nitrogen gas. Depending on the size and design, the holding time of vacuum flasks (Dewars) ranges from a few hours to a few weeks. The development of pressurised super-insulated vacuum vessels has enabled liquefied nitrogen to be stored and transported over longer time periods with losses reduced to 2% per day or less.[4]
+The temperature of liquid nitrogen can readily be reduced to its freezing point 63K (210C; 346F) by placing it in a vacuum chamber pumped by a vacuum pump.[5] Liquid nitrogen's efficiency as a coolant is limited by the fact that it boils immediately on contact with a warmer object, enveloping the object in insulating nitrogen gas. This effect, known as the Leidenfrost effect, applies to any liquid in contact with an object significantly hotter than its boiling point. Faster cooling may be obtained by plunging an object into a slush of liquid and solid nitrogen rather than liquid nitrogen alone.
+Contents
+1 Uses
+1.1 Culinary use of liquid nitrogen
+2 Safety
+3 Production
+4 See also
+5 References
+Uses
+Liquid nitrogen is a compact and readily transported source of dry nitrogen gas, as it does not require pressurization. Further, its ability to maintain temperatures far below the freezing point of water makes it extremely useful in a wide range of applications, primarily as an open-cycle refrigerant, including:
+in cryotherapy for removing unsightly or potentially malignant skin lesions such as warts and actinic keratosis
+to store cells at low temperature for laboratory work
+in cryogenics
+in a cryophorus to demonstrate rapid freezing by evaporation
+as a backup nitrogen source in hypoxic air fire prevention systems
+as a source of very dry nitrogen gas
+for the immersion, freezing, and transportation of food products
+for the cryopreservation of blood, reproductive cells (sperm and egg), and other biological samples and materials
+to preserve tissue samples from surgical excisions for future studies
+to facilitate Cryoconservation of animal genetic resources
+as a method of freezing water and oil pipes in order to work on them in situations where a valve is not available to block fluid flow to the work area, method known as a cryogenic isolation (frequently used in industry and New York district steam pipework)  Electrical heat pumps are now often used for small pipe diameters.
+in the process of promession, a way to dispose of the dead
+for cryonic preservation in hopes of future reanimation.
+to shrink-weld machinery parts together
+as a coolant
+for CCD cameras in astronomy
+for a high-temperature superconductor to a temperature sufficient to achieve superconductivity
+for vacuum pump traps and in controlled-evaporation processes in chemistry.
+to increase the sensitivity of infrared homing seeker heads of missiles such as the Strela 3
+to temporarily shrink mechanical components during machine assembly and allow improved interference fits
+for computers and extreme overclocking[6]
+for simulation of space background in vacuum chamber during spacecraft thermal testing [7]
+in food preparation, such as for making ultra-smooth ice cream.[8] See also molecular gastronomy.
+in container inerting and pressurisation by injecting a controlled amount of liquid nitrogen just prior to sealing or capping.[9][10]
+as a cosmetic novelty giving a smoky, bubbling "cauldron effect" to drinks. See liquid nitrogen cocktail.
+as an energy storage medium.[11][12]
+branding cattle.[13]
+Culinary use of liquid nitrogen
+See also: Ice cream Cryogenics
+The culinary use of liquid nitrogen is mentioned in an 1890 recipe book titled Fancy Ices authored by Mrs. Agnes Marshall,[14] but has been employed in more recent times by restaurants in the preparation of frozen desserts, such as ice cream, which can be created within moments at the table because of the speed at which it cools food.[14] The rapidity of chilling also leads to the formation of smaller ice crystals, which provides the dessert with a smoother texture.[14] The technique is employed by chef Heston Blumenthal who has used it at his restaurant, The Fat Duck to create frozen dishes such as egg and bacon ice cream.[14][15] Liquid nitrogen has also become popular in the preparation of cocktails because it can be used to quickly chill glasses or freeze ingredients.[16] It is also added to drinks to create a smoky effect, which occurs as tiny droplets of the liquid nitrogen come into contact with the surrounding air, condensing the vapour that is naturally present.[16]
+Safety
+Filling a liquid nitrogen Dewar from a storage tank
+Because the liquid-to-gas expansion ratio of nitrogen is 1:694 at 20C (68F), a tremendous amount of force can be generated if liquid nitrogen is rapidly vaporized in an enclosed space. In an incident on January 12, 2006 at Texas A&M University, the pressure-relief devices of a tank of liquid nitrogen were malfunctioning and later sealed. As a result of the subsequent pressure buildup, the tank failed catastrophically. The force of the explosion was sufficient to propel the tank through the ceiling immediately above it, shatter a reinforced concrete beam immediately below it, and blow the walls of the laboratory 0.10.2 m off their foundations.[17]
+Because of its extremely low temperature, careless handling of liquid nitrogen and any objects cooled by it may result in cold burns. In that case, special gloves should be used while handling. However, a small splash or even pouring down skin will not burn immediately, because the evaporating gas thermally insulates to some extent, like touching a hot element very briefly with a wet finger. If the liquid nitrogen pools anywhere, it will burn severely.
+As liquid nitrogen evaporates it reduces the oxygen concentration in the air and can act as an asphyxiant, especially in confined spaces. Nitrogen is odorless, colorless, and tasteless and may produce asphyxia without any sensation or prior warning.[18][19][20]
+Oxygen sensors are sometimes used as a safety precaution when working with liquid nitrogen to alert workers of gas spills into a confined space.[21]
+Vessels containing liquid nitrogen can condense oxygen from air. The liquid in such a vessel becomes increasingly enriched in oxygen (boiling point 90K; 183C; 298F) as the nitrogen evaporates, and can cause violent oxidation of organic material.[22]
+Ingestion of liquid nitrogen can cause severe internal damage. For example, in 2012, a young woman in England had her stomach removed after ingesting a cocktail made with liquid nitrogen.[23]
+Production
+Main article: Air separation
+Liquid nitrogen is produced commercially from the cryogenic distillation of liquified air or from the liquefication of pure nitrogen derived from air using pressure swing adsorption. An air compressor is used to compress filtered air to high pressure; the high-pressure gas is cooled back to ambient temperature, and allowed to expand to a low pressure. The expanding air cools greatly (the JouleThomson effect), and oxygen, nitrogen, and argon are separated by further stages of expansion and distillation. Small-scale production of liquid nitrogen is easily achieved using this principle. Liquid nitrogen may be produced for direct sale, or as a byproduct of manufacture of liquid oxygen used for industrial processes such as steelmaking. Liquid-air plants producing on the order of tons per day of product started to be built in the 1930s but became very common after the Second World War; a large modern plant may produce 3000 tons/day of liquid air products.[24]
+See also
+Industrial gas
+Computer cooling
+Cryogenic nitrogen plant
+Liquid nitrogen vehicle
+References
+^ Murphy, E. J.; Morgan, S. O. "The Dielectric Properties of Insulating Materials" (PDF). Retrieved October 2, 2012.
+^ Tilden, William Augustus (2009). A Short History of the Progress of Scientific Chemistry in Our Own Times. BiblioBazaar, LLC. p.249. ISBN1-103-35842-1.
+^ Henshaw, D. G.; Hurst, D. G.; Pope, N. K. (1953). "Structure of Liquid Nitrogen, Oxygen, and Argon by Neutron Diffraction". Physical Review. 92: 1229. doi:10.1103/PhysRev.92.1229.
+^ DATA BOOK for Cryogenic Gases and Equipment. aspenycap.org
+^ Umrath, W. (1974). "Cooling bath for rapid freezing in electron microscopy". Journal of Microscopy. 101: 103105. doi:10.1111/j.1365-2818.1974.tb03871.x.
+^ Wainner, Scott; Richmond, Robert (2003). The Book of Overclocking: Tweak Your PC to Unleash Its Power. No Starch Press. p.44. ISBN1-886411-76-X.
+^ Karam, Robert D. (1998). Satellite Thermal Control for System Engineers. AIAA. p.89. ISBN1-56347-276-7.
+^ Liquid Nitrogen Ice Cream Recipe, March 7, 2006
+^ Liquid nitrogen  how to dose effectively, June 19, 2012
+^ Chart Dosers Dosing Products, June 19, 2012
+^ Harrabin, Roger (2 October 2012). "Liquid air 'offers energy storage hope'". BBC.
+^ Markham, Derek (October 3, 2012). "Frozen Air Batteries Could Store Wind Energy for Peak Demand". Treehugger. Discovery Communications.
+^ Dyer, Ted G. (February 2010). "Freeze-branding cattle" (PDF).
+^ a b c d "Who What Why: How dangerous is liquid nitrogen?". BBC News. BBC. 9 October 2012. Retrieved 9 October 2012.
+^ Wallop, Harry (9 October 2012). "The dark side of liquid nitrogen cocktails". The Daily Telegraph. Telegraph Media Group. Retrieved 12 October 2012.
+^ a b Gladwell, Amy (9 October 2012). "Teenager's stomach removed after drinking cocktail". Newsbeat. BBC. Retrieved 9 October 2012.
+^ Mattox, Brent S. "Investigative Report on Chemistry 301A Cylinder Explosion" (reprint). Texas A&M University.
+^ British Compressed Gases Association (2000) BCGA Code of Practice CP30. The Safe Use of Liquid nitrogen Dewars up to 50 litres. ISSN 0260-4809.
+^ Confined Space Entry - Worker and Would-be Rescuer Asphyxiated, Valero Refinery Asphyxiation Incident Case Study.
+^ Inquiry after man dies in chemical leak, BBC News, October 25, 1999.
+^ Liquid Nitrogen  Code of practice for handling. United Kingdom: Birkbeck, University of London. 2007. Retrieved 2012-02-08.
+^ Levey, Christopher G. "Liquid Nitrogen Safety". Thayer School of Engineering at Dartmouth.
+^ Liquid nitrogen cocktail leaves teen in hospital, BBC News, October 8, 2012.
+^ Almqvist, Ebbe (2003) History of Industrial Gases, Springer, ISBN 0306472775 p. 163
+Authority control
+GND: 4154696-9
+Saved in parser cache with key enwiki:pcache:idhash:306364-0!*!0!default!!en!4!* and timestamp 20161103000556 and revision id 747263532
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Liquid_nitrogen&oldid=747263532"
+Categories: NitrogenCoolantsMedical equipmentIndustrial gasesHidden categories: Wikipedia semi-protected pagesWikipedia articles with GND identifiersArticles containing video clips

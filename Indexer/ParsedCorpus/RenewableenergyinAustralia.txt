@@ -1,0 +1,545 @@
+RenewableenergyinAustralia
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article may require cleanup to meet Wikipedia's quality standards. No cleanup reason has been specified. Please help improve this article if you can. (November 2009) (Learn how and when to remove this template message)
+This article needs to be updated. Please update this article to reflect recent events or newly available information. (March 2016)
+(Learn how and when to remove this template message)
+Australian renewable power plants
+Percentage of renewable electricity generation by energy source (2010)
+Renewable energy in Australia deals with efforts being made in Australia to quantify and expand renewable energy, which includes electricity, transport fuels and thermal energy. Total renewable energy consumption in Australia in 2015 was 346PJ, representing 5.9% of Australia's total energy consumption.[1] This is an increase of 1.6% from 201112 levels (265PJ), representing 4.3% of Australia's total energy consumption.[2] Of all renewable energy consumption in 2015 (in order of contribution) biomass (wood, woodwaste and bagasse) represents 53%, hydroelectricity 19.2%, wind 10.7%, solar PV 5.1%, biogas 4.7%, solar hot water 3.8% and biofuels 3.6%.[3] Bioenergy (the sum of all energy derived from plant matter) represented 61.3% (211.9PJ) of Australia's total renewable energy consumption in 2015.[3]
+Renewable electricity has undergone substantial growth in Australia in the 21st century. It is estimated that Australia produced 35,007 gigawatt hours (GWh) of renewable electricity (or equivalent) over the year ending December 2015, representing 14.6% of the total production in Australia.[4] By way of comparison, in 2006, approximately 9,500GWh of electricity came from renewable sources, representing less than 4% of nationally generated electricity.[5][citation needed]
+Of all renewable electrical sources in 2012, hydroelectricity represented 57.8%, wind 26%, bioenergy 8.1%, solar PV 8%, large-scale solar 0.147%, geothermal 0.002% and marine 0.001%; additionally, solar hot water heating was estimated to replace a further 2,422GWh of electrical generation.[6]
+Similar to many other countries, development of renewable electricity in Australia has been encouraged by government energy policy implemented in response to concerns about climate change, energy independence and economic stimulus.[7] A key policy that has been in place since 2001 to encourage large-scale renewable energy development is a mandatory renewable energy target, which in 2010 was increased to 41,000gigawatt-hours of renewable generation from power stations. This was subsequently reduced to 33,000 gigawatt-hours by the Abbott Government with the agreement of the Labor opposition.[8] Alongside this there is the Small-Scale Renewable Energy Scheme, an uncapped scheme to support rooftop solar power and solar hot water[9] and several State schemes providing feed-in tariffs to encourage photovoltaics. In 2012, these policies were supplemented by a carbon price and a 10billion-dollar fund to finance renewable energy projects,[10] although these initiatives were later withdrawn by the Federal Government.[11]
+It has been suggested that with sufficient public and private sector investment and government policy certainty, Australia could switch entirely to renewable energy within a decade by building additional large-scale solar and wind power developments, upgrading to transmission infrastructure and introduction of appropriate energy efficiency measures.[7][12]
+Contents
+1 Renewable energy sources and initiatives
+1.1 Hydro power
+1.2 Wind power
+1.3 Solar
+1.3.1 Solar photovoltaics
+1.3.1.1 Mildura Solar concentrator power station
+1.3.1.2 Technology development
+1.3.2 Solar thermal energy
+1.3.2.1 Solar water heating
+1.3.2.2 Solar thermal power
+1.3.3 Solar Cities
+1.4 Geothermal energy
+1.5 Wave power
+1.6 Biofuels
+1.7 Biomass
+2 Major renewable energy companies
+2.1 BP Solar
+2.2 Edwards
+2.3 Eurosolar
+2.4 Origin Energy
+2.5 Pacific Hydro
+2.6 Snowy Hydro Limited
+2.7 Solahart
+2.8 Solar Systems
+2.9 Wind Prospect
+3 Government policy
+3.1 Mandatory Renewable Energy Target (MRET) schemes
+3.2 Renewable Energy Certificates Registry
+3.3 Carbon pricing
+3.4 Clean Energy Finance Corporation
+3.5 Feed-in tariffs
+3.6 Subsidies to fossil fuel industry
+3.7 Ratification of the Kyoto Protocol
+4 Public opinion and action
+5 Future prospects
+6 See also
+7 References
+8 Further reading
+9 External links
+Renewable energy sources and initiatives[edit]
+Australia has a very high potential for renewable energy.[13] Therefore, the transition to a renewable energy system is gaining momentum in the peer-reviewed scientific literature. Among them several studies have examined the feasibility of a transition to a 100% renewable electricity systems, which was found both practicable as well as economically and environmentally beneficial to combat global warming.[14][15][16]
+Hydro power[edit]
+The Snowy Mountains Scheme constructed between 1949 and 1974 consists of sixteen major dams and seven major power stations, and has a total generating capacity of 3,800MW. The scheme generates on average 4,500 GWh electricity per year.[17]
+Hydro Tasmania operates thirty power stations and fifty dams, and has a total generating capacity of 2,600MW. Each year an average of 9,000 GWh of hydro-electricity is generated by the company.[18]
+In 200708 hydro-electricity represented 15% of renewable energy production in Australia.[19] In 2015 this had risen to 40% of renewable energy production.[4]
+Wind power[edit]
+Main article: Wind power in Australia
+Windy Hill Wind Farm, Atherton Tablelands, Queensland
+As of October 2010, around 22.9% of Australia's renewable electricity, and 2% of Australia's total electricity, was sourced from wind power,[20] enough electricity to power more than 700,000 homes.[21] This came from 52 operating wind farms containing a total of 1,052turbines producing approximately 5,000GWh of electricity per year. This figure represented approximately a 30% increase in wind power generation each year over the previous decade, or a total increase of more than 1,000% over that time. The total installed capacity as of October 2010 was 1,880MW (including only projects over 100kW), with a further 1,043MW under construction.[21]
+Wind power in South Australia is a fast-growing industry as South Australia is well suited for wind farms. Consequently, more wind power is generated in South Australia than any other Australian state or territory. As of October 2010 South Australia had an installed capacity of 907MW from 435turbines accounting for close to 20% of that state's electricity needs, considerably ahead of Victoria with 428MW from 267turbines, and Western Australia with 202MW from 142turbines.[21] By the end of 2011 wind power in South Australia had risen to 26% of the state's electricity generation, edging out coal fired power for the first time. With only 7.2% of Australia's population South Australia had 54% of the nation's installed wind power capacity.[22] Adelaide's $A2.2billion desalination plant, capable of providing 50% of the city's water needs, is totally powered by renewable energy.
+The Waubra Wind Farm near Ballarat, Victoria, completed in 2009, was the largest wind farm in the southern hemisphere,[19] consisting of 128turbines spread over 173km2[21] and rated at 192MW. However, in terms of generating capacity Lake Bonney Wind Farm near Millicent, South Australia was the largest with 239.5MW, despite only having 99turbines. These figures have since been surpassed by the Macarthur Wind Farm at Macarthur, Victoria, which opened in 2013 with a capacity of 420MW.[21][23]
+Solar[edit]
+Main article: Solar power in Australia
+See also: Feed-in tariffs in Australia
+Solar photovoltaics[edit]
+Solar photovoltaic (PV) technology generates electricity from sunlight, and it can be used in grid-connected and off-grid applications. They first become mass-produced in 2000, when German environmentalists and Eurosolar succeeded in obtaining the government support for the 100,000 roofs program.[24]
+The issue for the Australian photovoltaics industry today is that there is enormous market potential, built up through a natural competitiveness in Australian research and development, industry investment and government policy support. However, despite this, the industry is not yet self-sustaining and advantages gained to date could be lost.[25] A 2004 market report suggested that a partnership between government and industry is necessary:
+"The PV industry cannot continue to actively invest in strategic industry development unless the Australian government is also committed to the journey. The industry ... requires policy and program support to assist it in bridging the gap to mainstream commercial competitiveness."[25]
+Two recent projects which illustrate co-operation between industry and government are the solar power station planned for north-western Victoria, and the development of new solar cells. Queensland Solar and Lighting is a major importer of Chinese and European Solar products for the Brisbane region in Queensland, Australia.[26]
+Mildura Solar concentrator power station[edit]
+Many projects have demonstrated the feasibility of solar power in Australia and a large new solar power station in Victoria is planned.
+Solar Systems is to build the world's most advanced[27] photovoltaic (PV) heliostat solar concentrator power station in north-western Victoria. The 154MW, A$420million project, will generate 270,000MWh per year, enough for more than 45,000 homes. It will aid in reducing salinity and create jobs during manufacture, construction and operation. It will also reduce greenhouse gas emissions by approximately 400,000tonnes per year.[28] Full commissioning is expected in 2013, with the first stage to be completed in 2010.[29]
+The essential components of the power plant, developed by Solar Systems over the past 16years, are:
+"An ultra powerful solar module for use in concentrated sunlight".
+"A cooling system to keep solar cells operating at 60C to optimise the operation of the PV modules in a concentrated solar beam that can melt steel".
+"Low cost, high performance mirror concentrator systems".
+"A control system to manage the power station to deliver maximum reliability and output".[29]
+The commercialisation of this technology has already seen four smaller solar power stations established in central Australia, with support from the Australian Greenhouse Office.[30]
+Technology development[edit]
+SLIVER Cell (TM) photovoltaic technology uses just one tenth of the costly and limited supply of silicon used in conventional solar panels while matching power, performance, and efficiency.[31] Professor Andrew Blakers, Director of the Australian National University Centre for Sustainable Energy Systems, invented the technology with colleague Dr Klaus Weber and developed it with funding from energy supplier Origin Energy and the Australian Research Council. Blakers and Weber won the Australian Institute of Physics' Walsh Medal for their work.[32] Origin Energy is presently developing SLIVER modules for commercialisation at its A$20M pilot plant in Regency Park, South Australia.[33]
+Solar thermal energy[edit]
+Main article: Solar thermal energy in Australia
+Australia has developed world leading solar thermal technologies, but with only very low levels of actual use. Domestic solar water heating is the most common solar thermal technology.[34]
+Solar water heating[edit]
+Main article: Solar hot water in Australia
+During the 1950s, Australia's Commonwealth Scientific and Industrial Research Organisation (CSIRO) carried out world leading research into flat plate solar water heaters. A solar water heater manufacturing industry was subsequently established in Australia and a large proportion of the manufactured product was exported. Four of the original companies are still in business and the manufacturing base has now expanded to 24 companies. Despite an excellent solar resource, the penetration of solar water heaters in the Australian domestic market was only about 5% in 2006, with new dwellings accounting for most sales.[35] By 2014, around 14% of Australian households had solar hot water installed [36]
+It is estimated that by installing a solar hot water system, it could reduce a family's CO2 emissions up to 3tonnes per year while saving up to 80% of the energy costs for water heating.[37]
+While solar water heating saves a significant amount of energy, they are generally omitted from measures of renewable energy production as they do not actually produce electricity. Based on the installed base in Australia as of October 2010, it was calculated that solar hot water units would account for about 7.4% of clean energy production if they were included in the overall figures.[38]
+Solar thermal power[edit]
+White Cliffs Solar Power Station, Australia's first solar power station operated between 1981 and 2004
+CSIRO's National Solar Energy Centre in Newcastle, NSW houses a 500kW (thermal) and a 1.5 MW (thermal) solar central receiver system, which are used as research and development facilities.[39][40]
+The Australian National University (ANU) has worked on dish concentrator systems since the early 1970s and early work lead to the construction of the White Cliffs solar thermal station. In 1994, the first 'Big Dish' 400m2 solar concentrator was completed on the ANU campus. In 2005, Wizard Power Pty Ltd was established to commercialise the Big Dish technology to deployment.[41] Wizard Power has built and demonstrated the 500m2 commercial Big Dish design in Canberra and the Whyalla SolarOasis[42] will be the first commercial implementation of the technology, using 300 Wizard Power Big Dish solar thermal concentrators to deliver a 40MWe solar thermal power plant.[43] Construction is expected to commence in mid-late 2013.
+Research activities at the University of Sydney and University of New South Wales have spun off into Solar Heat and Power Pty Ltd (now Ausra), which is currently building a major project at Liddell Power station in the Hunter Valley. The CSIRO Division of Energy Technology has opened a major solar energy centre in Newcastle that has a tower system purchased from Solar Heat and Power and a prototype trough concentrator array developed in collaboration with the ANU.[41]
+Cloncurry, a town in north-west Queensland, has been chosen as the site for an innovative $31million (including a $7million government grant) solar thermal power station. The 10 MW solar thermal power station would deliver about 30million kilowatt hours of electricity a year, enough to power the whole town. Ergon Energy will develop the project which should be running by early 2010.[44][45]
+In August 2008 Worley Parsons, an Australian engineering firm, announced plans to build world's biggest solar plant in Australia within three years. Backed by nine Australian companies, including miners BHP Billiton and Rio Tinto, they have launched a study into finding possible sites to host the $1billion plant.[46]
+Solar Cities[edit]
+Solar Cities in Australia is a $75million program which is designed to demonstrate how solar power, smart meters, energy conservation and new approaches to electricity pricing can combine to provide a sustainable energy future in urban locations throughout Australia. It is a partnership approach that involves all levels of Government, the private sector and the local community. Adelaide, Townsville, Blacktown and Alice Springs are the first four solar cities announced in Australia.[47] Consumers will be able to purchase solar photovoltaic panels using discounted loans. The project also plans to help low-income and rental households in the community share in the benefits of the project through other cost-saving initiatives.[48]
+Geothermal energy[edit]
+Main article: Geothermal energy in Australia
+In Australia, geothermal energy is a natural resource which is not utilised as a form of energy. However, there are known and potential locations near the centre of the country in which geothermal activity is detectable. Exploratory geothermal wells have been drilled to test for the presence of high temperature geothermal activity and such high levels were detected. As a result, projects will eventuate in the coming years and more exploration is expected at potential locations.
+South Australia has been described as "Australia's hot rock haven" and this emissions free and renewable energy form could provide an estimated 6.8% of Australia's base load power needs by 2030.[49] According to an estimate by the Centre for International Economics, Australia has enough geothermal energy to contribute electricity for 450years.[50]
+There are currently 19 companies Australia-wide spending A$654million in exploration programmes in 141 areas. In South Australia, which is expected to dominate the sector's growth, 12 companies have already applied for 116 areas and can be expected to invest A$524million (US$435 M) in their projects by the next six years. Ten projects are expected to achieve successful exploration and heat flows, by 2010, with at least three power generation demonstration projects coming on stream by 2012.[49]
+A geothermal power plant is generating 80kW of electricity at Birdsville, in southwest Queensland.[51]
+Wave power[edit]
+Main article: Wave power in Australia
+Several projects for harvesting the power of the ocean are under development:
+Ocean Power Technologies Australasia Pty Ltd is developing a 19MW wave power station connected to the grid near Portland, Victoria. The project has received an AU$66.46million grant from the Federal Government of Australia.
+Oceanlinx is trialling a wave energy system at Port Kembla.
+Carnegie Corp of Western Australia is refining a method of using energy captured from passing waves, CETO to generate high-pressure sea water. This is piped onshore to drive a turbine and to create desalinated water. A series of large buoys is tethered to piston pumps anchored in waters 15 to 50 metres (49 to 164ft) deep. The rise and fall of passing waves drives the pumps, generating water pressures of up to 1,000pounds per square inch (psi). The company is looking to have a 50 MW demonstration project finished within the next four years.
+BioPower Systems is developing its bioWAVE system anchored to the seabed that would generate electricity through the movement of buoyant blades as waves pass, in a swaying motion similar to the way sea plants, such as kelp, move. It expects to complete pilot wave and tidal projects off northern Tasmania this year.[52]
+Biofuels[edit]
+Main article: Biofuel in Australia
+Biofuels produced from food crops have become controversial as food prices increased significantly in mid-2008, leading to increased concerns about food vs fuel. Ethanol fuel in Australia can be produced from sugarcane or grains and there are currently three commercial producers of fuel ethanol in Australia, all on the east coast.
+Legislation imposes a 10% cap on the concentration of fuel ethanol blends. Blends of 90% unleaded petrol and 10% fuel ethanol are commonly referred to as E10,[53] which is mainly available through service stations operating under the BP, Caltex, Shell, and United brands.
+In partnership with the Queensland Government, the Canegrowers organisation launched a regional billboard campaign in March 2007 to promote the renewable fuels industry. Over 100million litres of the new BP Unleaded with renewable ethanol has now been sold to Queensland motorists.[53]
+Biodiesel produced from oilseed crops or recycled cooking oil may be a better prospect than ethanol, given the nation's heavy reliance on road transport, and the growing popularity of fuel-efficient diesel cars.[54] Australian cities are some of the most car-deponent cities in the world,[55] and legislations involving vehicle pollution within the country are considered relatively lax.[56]
+Biomass[edit]
+Biomass can be used directly for electricity generation, for example by burning sugar cane waste (bagasse) as a fuel for thermal power generation in sugar mills. It can also be used to produce steam for industrial uses, cooking and heating. It can also be converted into a liquid or gaseous biofuel.[57]
+In 2015 Bagasse accounted for 26.1% (90.2PJ) of Australia's renewable energy consumption, while wood and woodwaste for another 26.9% (92.9PJ).[3]
+Biomass for energy production was the subject of a federal government report in 2004.[58]
+Major renewable energy companies[edit]
+BP Solar[edit]
+BP has been involved in solar power since 1973 and its subsidiary, BP Solar, is now one of the world's largest solar power companies with production facilities in the United States, Spain, India and Australia.[59] BP Solar is involved in the commercialisation of a long life deep cycle lead acid battery, jointly developed by the CSIRO and Battery Energy, which is ideally suited to the storage of electricity for renewable remote area power systems (RAPS).[60]
+Edwards[edit]
+Edwards first began manufacturing water heaters in Australia in 1963. Edwards is now an international organisation which is a leader in producing hot water systems for both domestic and commercial purposes using solar technology. Edwards exports to Asia, the Pacific, the Americas, Europe, Africa and the Middle East.[61]
+Eurosolar[edit]
+Eurosolar was first formed in 1993, with an aim of providing photovoltaic systems to the masses. It focuses on Solar Power in multiple Australian capitals, in cooperation with the Clean Energy Council they continue to install panels all around Australia.
+Origin Energy[edit]
+Origin Energy is active in the renewable energy arena, and has spent a number of years developing several wind farms in South Australia, a solar cell business using technology invented by a team led by Professor Andrew Blakers at the Australian National University,[33] and geothermal power via a minority shareholding stake in Geodynamics.[62]
+Pacific Hydro[edit]
+Pacific Hydro is an Australian company that specialises in electricity generation using renewable energy. Its focus is on hydroelectricity and wind power. Power stations owned by Pacific Hydro include wind farms: Codrington Wind Farm, Challicum Hills Wind Farm, Portland Wind Project and Hydro power: Eildon Pondage Power Station, Ord River Hydro Power Station and The Drop Hydro.
+Snowy Hydro Limited[edit]
+Snowy Hydro Limited, previously known as the Snowy Mountains Hydro-Electric Authority, manages the Snowy Mountains Scheme which generates on average around 4500 gigawatt hours of renewable energy each year, which represented around 74% of all renewable energy in the National Electricity Market in 2005. The scheme also diverts water for irrigation from the Snowy River Catchment west to the Murray and Murrumbidgee River systems.
+Solahart[edit]
+Solahart manufactured its first solar water heater in 1953, and products currently manufactured by Solahart include thermosiphon and split system solar and heat pump water heaters. These are marketed in 90 countries around the world and overseas sales represent 40% of total business. Solahart has a market share of 50% in Australia.[63]
+Solar Systems[edit]
+Solar Systems is a leader in high concentration solar photovoltaic applications,[64][65] and the company is preparing to build the world's largest photovoltaic Mildura Solar concentrator power station, Australia.[66][67] This project will use innovative concentrator dish technology to power 45,000 homes, providing 270,000 MWh/year for A$420million.[68]
+Solar Systems has already completed construction of three concentrator dish power stations in the Northern Territory, which together generate 1,555 MWh/year (260 homes, going by the energy/home ratio above). This represents a saving of 420,000litres of diesel fuel and 1550tonnes of greenhouse gas emissions per year. The total cost of the solar power station was "A$7M, offset by a grant from the Australian and Northern Territory Governments under their Renewable Remote Power Generation Program".[69] For comparison; 420,000litres of diesel, at September 2009 prices of A$1.24/litre,[70] would cost $520,800.[71]
+Wind Prospect[edit]
+Wind Prospect developed the 46 MW Canunda Wind Farm in South Australia, which was commissioned in March 2005. A second South Australian wind farm, Mount Millar Wind Farm, was commissioned in January 2006 and this provides a further 70 MW of generation. More recently, a third wind farm has reached financial close for Wind Prospect in South Australia. This is the 95 MW Hallett Wind Farm which is expected to be fully commissioned late in 2008.
+Government policy[edit]
+This article needs to be updated. Please update this article to reflect recent events or newly available information. (April 2009)
+Main articles: Energy policy of Australia and Solar credits
+There are a number of government policies in place in Australia that influence the development of renewable energy.
+Mandatory Renewable Energy Target (MRET) schemes[edit]
+A key policy encouraging the development of renewable energy in Australia includes Mandatory Renewable Energy Target (MRET) schemes at both Commonwealth and State levels. In 2001, the Howard Government introduced an MRET of 9,500 GWh of new renewable energy generation by 2010. This target has since been revised with the Gillard Government introducing in January 2011 an expanded target of 45,000 GWh of additional renewable energy between 2001 and 2020.[72] This MRET has been split into a small scale renewable energy scheme (SRES) and large scale renewable energy target (LRET) components to ensure that adequate incentive exists for large scale grid connected renewable energy.[73]
+A number of states have also implemented their own renewable energy targets independent of the Commonwealth. For example, the Victorian Renewable Energy Target Scheme (VRET) mandated an additional 5% of Victoria's "load for renewable generation", although this has since been replaced by the new Australian Government LRET and SRES targets.[73] South Australia achieved its target of 20% of renewable supply by 2014 three years ahead of schedule (i.e. in 2011) and has subsequently established a new target of 33% to be achieved by 2020.[74]
+Renewable Energy Certificates Registry[edit]
+The Renewable Energy Certificates Registry (REC-registry) is an internet based registry system that is required by the Australian Renewable Energy (Electricity) Act 2000 (the Act).[75] The REC-registry is dedicated to: maintaining various registers (as set in the Act); and facilitating the creation, registration, transfer and surrender of renewable energy certificates (RECs).
+Carbon pricing[edit]
+Main article: Carbon pricing in Australia
+In 2012, the Gillard government implemented a carbon price of $23 per tonne to be paid by 300 liable entities representing the highest business emitters in Australia. The carbon price will increase to $25.40 per tonne by 201415, and then will be set by the market from 1 July 2015 onwards.[76] It is expected that in addition to encouraging efficient use of electricity, pricing carbon will encourage investment in cleaner renewable energy sources such as solar and wind power. Treasury modelling has projected that with a carbon price, energy from the renewables sector is likely to reach 40 percent of supply by 2050.[77]
+Analysis of the first 6months of operation of the carbon tax have shown that there has been a drop in carbon emissions by the electricity sector. It has been observed that there has been a change in the mix of energy over this period, with less electricity being sourced from coal and more being produced by renewables such as hydro and wind power.[78] The government at the time presented this analysis as an indicator that their policies to promote cleaner energy are working.[78]
+The carbon pricing legislation was repealed by the Tony Abbott-led Australian Government on 17 July 2014.[79] Since then, carbon emissions from the electricity sector have increased.[80]
+Clean Energy Finance Corporation[edit]
+Main article: Clean Energy Finance Corporation
+The Australian Government has announced the creation of the new 10billion dollar Clean Energy Finance Corporation which will commence business in July 2013. The goal of this intervention is to overcome barriers to the mobilisation of capital by the renewable energy sector. It will make available two billion dollars a year for five years for the financing of renewable energy, energy efficiency and low emissions technologies projects in the latter stages of development. The government has indicated that the fund is expected to be financially self-sufficient producing a positive return on investment comparable to the long term bond rate.[10][81]
+Feed-in tariffs[edit]
+Main article: Feed-in tariffs in Australia
+Feed-in tariffs have been enacted on a state by state basis in Australia to encourage investment in renewable energy by providing above commercial rates for electricity generated from sources such as rooftop photovoltaic panels or wind turbines.[7] The schemes in place focus on residential scale infrastructure by having limits that effectively exclude larger scale developments such as wind farms. Feed-in tariffs schemes in Australia started at a premium, but have mechanisms by which the price paid for electricity decreases over time to be equivalent or below the commercial rate.[7] All the schemes now in place in Australia are "net" schemes whereby the householder is only paid for surplus electricity over and above what is actually used. In the past, New South Wales and the Australian Capital Territory enacted "gross" schemes whereby householders were entitled to be paid for 100% of renewable electricity generated on the premises, however these programs have now expired. In 2008 the Council of Australian Governments (COAG) agreed to harmonise the various state schemes and developed a set of national principles to apply to new schemes.[82] Leader of the Australian Greens, Christine Milne, has advocated a uniform national "gross" feed-in tariff scheme, however this proposal has not been enacted.[83]
+Subsidies to fossil fuel industry[edit]
+There is dispute about the level of subsidies paid to the fossil fuel industry in Australia.
+The Australian Conservation Foundation (ACF) argues that according to the definitions of the Organisation for Economic Co-operation and Development (OECD), fossil fuel production and use is subsidised in Australia by means of direct payments, favourable tax treatment, and other actions. It is suggested these measures act as impediments to investment in renewable energy resources.[84] Analysis by the ACF indicates that these provisions add up to a total annual subsidy of A$7.7billion, with the most significant component being the Fuel Tax Credits program that rebates diesel fuel excise to many business users.[85]
+This analysis is disputed by the Institute of Public Affairs (IPA) who argue that the ACF's definition of a subsidy differs from that of the OECD and that the fuel tax rebate schemes are in place to ensure that all producers are treated equally from a tax point of view. However, the IPA acknowledges that regardless of perceived issues with the ACF analysis, some level of fossil fuel subsidy is likely in existence.[86]
+Ratification of the Kyoto Protocol[edit]
+Australia ratified the Kyoto Protocol in December 2007 under the then newly elected Prime Minister Kevin Rudd. Evidence suggests Australia will meet its targets required under this protocol. Australia had not ratified the Kyoto Protocol until then, due to concerns over a loss of competitiveness with the US, which also rejects the treaty.[87]
+Public opinion and action[edit]
+Demonstration in front of the Parliament House, Melbourne supporting investment in renewable energy.
+Survey results suggest that there is considerable public support for the use of renewable energy and energy efficiency in Australia. In one recent survey, 74% of respondents favoured a "greenhouse strategy based mainly on energy efficiency and renewable energy, and 19% favoured an "approach that focuses mainly on nuclear power and clean coal technologies."[88]
+The Australian results from the 1st Annual World Environment Review, based on a survey of 1,007 people in 2007, found that:[89]
+88% of Australians think that the Government should do more to increase the use of solar power. 78% say the government should do more to boost wind power, 58% hydro power, 50% tidal power, and 38% geothermal power, while only 25% think that the Government should do more to increase use of nuclear power.
+84% of Australians think that the Government should make it easier for people to buy renewable electricity.
+89% think that all electricity should contain a minimum 25% of power generated from renewable energy sources. Only 3% disagree.
+82% think that the Government should make it easier for people to buy solar panels.
+80% think that the Government should make it easier for people to buy energy efficient products, such as energy-saving light globes, water-saving shower heads and insulation etc.
+85% think that the Government should raise national fuel efficiency standards for cars and light trucks.
+87% think that the Government should do more to increase the number of cars that don't use petrol.
+There is a considerable movement known as The Transition Decade to transition Australia's entire energy system to renewable by 2020.
+Voluntary uptake of GreenPower, a Government program initiated in 1997 whereby people can pay extra for electricity that is generated from renewable sources, increased from 132,300 customers in 2005 to 904,716 customers in 2009.[90]
+Future prospects[edit]
+The percentage of renewable resources that could be achieved by 2020 has evolved from 25% in 2007 to 100% in 2010:
+2007
+Several reports have discussed the possibility of Australia setting a renewable energy target of 25% by 2020.[91][92] Combined with some basic energy efficiency measures, such a target could deliver 15,000MW new renewable power capacity, $33billion in new investment, 16,600 new jobs, and 69million tonnes reduction in electricity sector greenhouse gas emissions.[92]
+2008
+Greenpeace released a report in 2008 called "Energy [r]evolution: A Sustainable Energy Australia Outlook", detailing how Australia could produce 40% of its energy through renewable energy by 2020 and completely phase out coal-fired power by 2030 without any job losses.[93]
+David Spratt and Phillip Sutton argue in their book Climate Code Red that Australia (as part of a concerted global effort) needs to reduce its greenhouse gas emissions down to zero as quickly as possible so that carbon dioxide can be drawn down from the atmosphere and greenhouse gas emissions can be reduced to less than 325ppm CO2-e, which they argue is the upper "safe climate" level at which we can continue developing infinitely. They outline a plan of action which would accomplish this.[94]
+2010
+Australia could entirely transition to renewable energy within the 2010decade by building 12 very large scale solar power plants (3500 MW each), which would provide 60% of electricity used, and 6500 7.5 MW wind turbines, which would supply most of the remaining 40%, along with other changes, according to the "Zero Carbon Australia Stationary Energy Plan",[95] for a cost of A$370billion, about $8/household/week over a decade to create an infrastructure that will last a minimum of 30 to 40years. Biofuel use is proposed to increase from 2 PJ used in 2010 to 51 PJ/year for modes of transportation not easily electrified, along with some hybrid vehicles.[96] The cost of oil, post peak oil, is increasing, and without converting now to 100% renewable sources the world will pay an additional USD$8trillion over the next 25years  and then convert to 100% renewable.[97]
+Recently an uptake of Third Party ownership models for small to mid-scale solar photovoltaic systems has been seen in Australia mirroring developments in the same direction in the US with over 70% of all new PV systems installed under such models in California, Colorado and Arizona.[98] In Australia the Solar Power Purchase Agreement approach is pursued under the term Solar Sponsoring[99]
+2015
+The Australian Federal Government ordered[100] the $10billion Clean Energy Finance Corporation[101] to refrain from any new investment in wind power projects, with the explanation that the government prefers the corporation to invest in researching new technologies rather than the "mature" wind turbine sector.
+See also[edit]
+Energy portal
+Renewable energy portal
+Australia portal
+Environment portal
+Centre for Energy and Environmental Markets
+Effects of global warming on Australia
+Solar power in Australia
+Wind power in Australia
+Geothermal power in Australia
+Biofuel in Australia
+Erneuerbare-Energien-Gesetz
+Garnaut Climate Change Review
+Green electricity in Australia
+Greenhouse Mafia
+Greenhouse Solutions with Sustainable Energy
+List of countries by electricity production from renewable sources
+Mitigation of global warming in Australia
+Photovoltaic engineering in Australia
+Natural Edge Project
+Renewable Energy Certificates
+Renewable energy commercialization
+Renewable Energy Target Explained
+Renewable energy in South Australia
+Energy in South Australia
+Centre for Appropriate Technology (Australia)
+The future of renewable energy in Australia
+References[edit]
+^ Department of Industry and Science (2015) Australian Energy Statistics
+^ Australian Bureau of Resources and Energy Economics (2013) 2013 Australian Energy Update
+^ a b c Department of Industry and Science (2015) Australian Energy Statistics, Table C.
+^ a b Clean Energy Council. "Clean Energy Report 2015". Retrieved 14 June 2016.
+^ Global green
+^ "Clean Energy Australia Report 2012" (PDF). Southbank Victoria: Clean Energy Council. March 2013. p.9. Archived from the original (PDF) on 22 August 2013. Retrieved 18 June 2013.
+^ a b c d Tim Flannery; Veena Sahajwalla (November 2012). "Critical Decade: Generating a Renewable Australia". Canberra: Department of Climate Change and Energy Efficiency. Retrieved 2 March 2013.
+^ "Renewable Energy Target: Legislation to cut RET passes Federal Parliament". ABC. Retrieved 13 September 2015.
+^ Australian Government: Office of the Renewable Energy Regulator  LRET-SRES Basics[dead link]
+^ a b "Taxpayers to back $10bn renewable energy fund". The Australian. 17 April 2012. Retrieved 2 March 2013.
+^ Michael Safi; Shalailah Medhora (22 December 2014). "Tony Abbott says repealing carbon tax his biggest achievement as minister for women". The Guardian. Retrieved 14 June 2016.
+^ "How to be fully renewable in 10 years". The Sydney Morning Herald.
+^ Shafiullah et al., Prospects of renewable energy e a feasibility study in the Australian context. In: Renewable Energy 39, (2012), 183197, doi:10.1016/j.renene.2011.08.016.
+^ Elliston et al, Simulations of scenarios with 100% renewable electricity in the Australian National Electricity Market. In: Energy Policy 45, (2012), 606613, doi:10.1016/j.enpol.2012.03.011.
+^ Elliston et al, Least cost 100% renewable electricity scenarios in the Australian National Electricity Market. In: Energy Policy 59, (2013), 270282, doi:10.1016/j.enpol.2013.03.038.
+^ Elliston et al. Comparing least cost scenarios for 100% renewable electricity with low emission fossil fuel scenarios in the Australian National Electricity Market. In: Renewable Energy 66, (2014), 196204, doi:10.1016/j.renene.2013.12.010.
+^ Snowy Hydro: Power Stations, retrieved 19 November 2010 Archived 21 March 2010 at the Wayback Machine.
+^ "Hydro: Energy". Retrieved 30 September 2011.
+^ a b ABS: Australia's Environment: Issues and Trends, Jan 2010, retrieved 19 November 2010
+^ "Clean Energy Australia 2010 (Report)" (PDF). Official site. Clean Energy Council. p.5. Archived from the original (PDF) on 25 February 2011. Retrieved 12 June 2011.
+^ a b c d e "Clean Energy Australia 2010 (Report): Wind Power" (PDF). Official site. Clean Energy Council. pp.4953. Archived from the original (PDF) on 27 July 2011. Retrieved 12 June 2011.
+^ Center for National Policy, Washington DC, 4 April 2012
+^ "AGL How We Source Energy: Macarthur Wind Farm". Retrieved 14 June 2016.
+^ Solar Power for the World: What You Wanted to Know about PhotovoltaicsTaylor & Francis Group
+^ a b Australian Business Council for Sustainable Energy. The Australian Photovoltaic Industry Roadmap p. 1. Archived 7 September 2006 at the Wayback Machine.
+^ "Solar Power Gold Coast". www.queenslandsolarandlighting.com. Retrieved 19 September 2015.
+^ Australia advances with solar power The Times, 26 October 2006.
+^ Solar Systems. Solar systems projects Archived 18 February 2011 at the Wayback Machine.
+^ a b Solar Systems. Solar systems facts sheet: the technology Archived 8 February 2007 at the Wayback Machine.
+^ Solar Systems. World-leading Australian solar technology for export under AP6 Archived 15 July 2007 at the Wayback Machine.
+^ Australian National University, Centre for Sustainable energy systems Archived 19 August 2006 at the Wayback Machine.
+^ Super-skinny solar cells soak up the sun News in Science, 6 December 2006.
+^ a b Origin Energy. SLIVER technology facts sheet
+^ Lovegrove, Keith and Dennis, Mike. Solar thermal energy systems in Australia International Journal of Environmental Studies, Vol. 63, No. 6, December 2006, p. 791.
+^ Lovegrove, Keith and Dennis, Mike. Solar thermal energy systems in Australia International Journal of Environmental Studies, Vol. 63, No. 6, December 2006, p. 793.
+^ Australian Bureau of Statistics (3 December 2014). "Environmental Issues: Energy Use and Conservation, Mar 2014". Retrieved 14 June 2016.
+^ PJT Solar Hot Water
+^ "Clean Energy Australia 2010 (Report)" (PDF). Official site. Clean Energy Council. pp.5, 42. Archived from the original (PDF) on 25 February 2011. Retrieved 12 June 2011.
+^ CSIRO Solar Blog, retrieved Nov 2011, http://csirosolarblog.com
+^ 'CSIRO Gets Sun Smart at the National Solar Energy Centre', June 2008, http://www.csiro.au/places/SolarEnergyCentre.html
+^ a b Lovegrove, Keith and Dennis, Mike. Solar thermal energy systems in Australia International Journal of Environmental Studies, Vol. 63, No. 6, December 2006, p. 797.
+^ Solar Oasis: About
+^ ABC Rural (Australian Broadcasting Corporation)
+^ Cloncurry to run on solar power: Bligh
+^ Australian town to run on solar power in 2 years
+^ Aust firm unveils plans to build 'world's biggest solar plant'
+^ Solar Cities  A Vision of the Future
+^ Solar City to Advance Renewable Energy Down Under
+^ a b Big energy role for central Australias hot rocks Mineweb, 2 May 2007.
+^ Scientists get hot rocks off over green nuclear power Sydney Morning Herald, 12 April 2007.
+^ Energy superpower or sustainable energy leader? (PDF) Ecos, OctoberNovember 2007.
+^ "FACTBOX-Main renewables being developed in Australia". Reuters. 4 February 2009.
+^ a b Queensland Government. Ethanol case studies Archived 20 August 2007 at the Wayback Machine.
+^ The biofuels promise: updated thinking Ecos, OctoberNovember 2006.
+^ "Car dependence in Australian cities: a discussion of causes, environmental impact and possible solutions" (PDF). Flinders University study. Archived from the original (PDF) on 1 March 2011. Retrieved 3 February 2015.
+^ "Australia's weaker emissions standards allow car makers to dump polluting cars". The Conversation. 30 September 2015. Retrieved 18 March 2016.
+^ Renewable Energy Commercialisation in Australia  Biomass Projects
+^ Summary of report  Biomass energy production in Australia Status, costs and opportunities for major technologies Archived 12 June 2008 at the Wayback Machine.
+^ Solar Power Profitability: BP Solar Environmental News Network, 25 May 2005.
+^ Wind energy round the clock
+^ Edwards solar hot water
+^ Geodynamics: Power from the earth
+^ Solahart Industries Archived 30 August 2007 at the Wayback Machine.
+^ Solar Systems.Solar Systems wins National Engineering Excellence award Archived 21 February 2007 at the Wayback Machine.
+^ Solar technologies reaching new levels of efficiencies in Central Australia ABC Radio Australia, 12 November 2006.
+^ Solar Systems to Build A$420 million, 154MW Solar Power Plant in Australia
+^ Solar Systems. Solar Systems home page
+^ "Large Scale Solar Power" (PDF). Archived from the original (PDF) on 18 July 2008. Retrieved 20 March 2009.
+^ [1] Archived 3 December 2008 at the Wayback Machine.
+^ Fuelwatch
+^ Diesel Gas Australia
+^ Parkinson, Giles (4 April 2011). "RET: Hail fellow, not well met". Climate Spectator. Business Spectator. Retrieved 9 March 2013.
+^ a b "Benefit of the Renewable Energy Target to Australia's Energy Markets and Economy. Report to the Clean Energy Council" (PDF). Clean Energy Council. August 2012. Retrieved 9 March 2013.
+^ "A Renewable Energy Plan for South Australia" (PDF). RenewablesSA. Government of South Australia. 19 October 2011. Retrieved 9 March 2013.
+^ REC Registry
+^ "Clean Energy Regulator  Liable Entities Public Information Database".
+^ "Clean Energy Australia  Investing in the clean energy sources of the future" (PDF). Clean Energy Future. Commonwealth of Australia. Retrieved 10 March 2013.
+^ a b Uren, David (23 January 2013). "Emissions drop signals fall in carbon tax take". The Australian. Retrieved 10 March 2013.
+^ http://reneweconomy.com.au/2014/australia-dumps-carbon-price-as-repeal-passes-senate-22018
+^ http://www.smh.com.au/business/comment-and-analysis/coal-makes-a-comeback-thanks-to-carbon-price-repeal-emissions-rise-20150413-1mifs6.html
+^ "Clean Energy Finance Corporation Expert Review". Clean Energy Future. Commonwealth of Australia. Retrieved 10 March 2013.
+^ "Feed-in tariffs". Parliament of Australia. 21 December 2011. Retrieved 20 April 2013.
+^ "NSW slashes its solar feed-in tariffs". The Fifth Estate. 28 October 2010. Retrieved 20 April 2013.
+^ "Fossil fuel subsidies". Australian Conservation Foundation. Retrieved 20 April 2013.
+^ O'Conner, Simon (25 June 2010). "G20 and fossil fuel subsidies" (PDF). Australian Conservation Foundation. Retrieved 20 April 2013.
+^ Berg, Chris (2 February 2011). "The Truth About Energy Subsidies". Institute of Public Affairs. Retrieved 20 April 2013.
+^ Australian Government (2004). Securing Australia's Energy Future Archived 30 October 2006 at the Wayback Machine.
+^ Australians Reject Nuclear Energy Angus Reid Global Monitor, 25 June 2007. Archived 21 May 2008 at the Wayback Machine.
+^ First Annual World Environment Review Poll Reveals Countries Want Governments to Take Strong Action on Climate Change Global Market Insite, 5 June 2007.
+^ ABS: Year Book Australia, 200910, retrieved 19 November 2010
+^ CSIRO (2007). Rural Australia Providing Climate Solutions p.1[dead link]
+^ a b Australian Conservation Foundation (2007). A Bright Future: 25% Renewable Energy for Australia by 2020[dead link]
+^ Energy [r]evolution: A Sustainable Energy Australia Outlook, Teske, Sven and Vincent, Julien, Greenpeace International 2008 Archived 13 November 2008 at the Wayback Machine.
+^ Spratt, David and Sutton, Phillip, Climate Code Red: The case for a sustainability emergency, Friends of the Earth, Melbourne 2008
+^ "How to be fully renewable in 10 years". The Sydney Morning Herald. 13 August 2010.
+^ Zero Carbon Australia Stationary Energy Plan Archived 23 May 2012 at the Wayback Machine.
+^ Has the World Already Passed Peak Oil?
+^ [2]
+^ Solar Sponsoring in Australia
+^ "Tony Abbott has escalated his war on wind power, causing a cabinet split and putting international investment at risk". Retrieved 2015-07-13.
+^ "Clean Energy Finance Corporation". www.cleanenergyfinancecorp.com.au. Retrieved 2015-07-13.
+Further reading[edit]
+Australian Conservation Foundation (2007). A Bright Future: 25% Renewable Energy for Australia by 2020[dead link] 27 pages.
+Australian Government (2007). Australian Government Renewable Energy Policies and Programs 2 pages.
+CSIRO (2007). Climate Change in Australia: Technical Report 148 pages.
+CSIRO (2007). Rural Australia Providing Climate Solutions[dead link] 54 pages.
+Diesendorf, Mark (2007). Paths to a Low Carbon Future 33 pages.
+ICLEI Oceania (2007). Biodiesel in Australia: Benefits, Issues and Opportunities for Local Government Uptake[dead link] 95 pages.
+New South Wales Government (2006). NSW Renewable Energy Target: Explanatory Paper 17 pages.
+Office of the Renewable Energy Regulator (2006). Mandatory Renewable Energy Target Overview 5 pages.
+Renewable Energy Generators Australia (2006). Renewable Energy  A Contribution to Australias Environmental and Economic Sustainability 116 pages.
+The Natural Edge Project, Griffith University, ANU, CSIRO and NFEE (2008). Energy Transformed: Sustainable Energy Solutions for Climate Change Mitigation 600+ pages.
+Greenpeace Australia Pacific Energy [R]evolution Scenario: Australia, 2008 [3]) 47 pages.
+Beyond Zero Emissions Zero Carbon Australia 2020, 2010 [4])
+External links[edit]
+Media related to Renewable energy in Australia at Wikimedia Commons
+Office of the Renewable Energy Regulator
+The Australian Centre for Renewable Energy (ACRE)
+"Climate change", Australian Government  Department of the Environment
+Map of operating renewable energy generators in Australia
+Renewable energy farms and Energy Georeference World map
+Desert Knowledge Australia Solar Centre
+Articles
+Australia no shining star of renewable energy
+MRET policy 'stills wind farm plans'
+Green energy market unviable: Vestas
+Cool wind blows for investors
+Riches in energy harvesting, farmers told
+Greens unveil farm renewable energy plan
+Renewable energy revolution for NSW cane growers
+Coalition calls for 'solar continent'
+Australian breakthrough snapped up  by eager Americans
+Sun's rays alone 'can power Australia by 2030'
+v
+t
+e
+Energy in Australia
+Energy policy of Australia
+Fossil Fuel
+Industry
+Biofuel in Australia
+Green electricity in Australia
+Coal in Australia
+Australian Uranium Association
+Petroleum industry in Western Australia
+Renewable Energy
+Industry
+Carbon capture and storage in Australia
+Renewable energy in Australia
+Solar hot water in Australia
+Solar power in Australia
+Solar thermal energy in Australia
+Wave power in Australia
+Wind power in Australia
+Policies and
+Targets
+Asia-Pacific Emissions Trading Forum
+Carbon pricing in Australia
+Effects of global warming on Australia
+Energy Efficient Homes Package
+Feed-in tariffs in Australia
+Mandatory renewable energy targets
+Mitigation of global warming in Australia
+Solar Cities in Australia
+The Transition Decade
+Nuclear power
+Anti-nuclear movement in Australia
+Australian Uranium Association
+Nuclear Fuel Cycle Royal Commission
+Nuclear power in Australia
+Uranium Council
+Uranium mining in Australia
+Agencies
+Australian Atomic Energy Commission
+Australian Energy Regulator
+Australian Energy Market Commission
+Australian Energy Market Operator
+Australian Nuclear Science and Technology Organisation
+Australian Radiation Protection and Nuclear Safety Agency
+National Offshore Petroleum Safety Authority
+Department of Climate Change and Energy Efficiency
+Research
+Energy Policy Institute of Australia
+Garnaut Climate Change Review
+Photovoltaic engineering in Australia
+Other topics
+Contribution to global warming by Australia
+Adaptation to global warming in Australia
+Climate change in Australia
+Category:Energy in Australia
+Energy
+Renewable energy
+Environment
+v
+t
+e
+Renewable energy by country
+Africa
+Ethiopia
+Kenya
+Morocco
+Seychelles
+Asia
+Afghanistan
+Bangladesh
+Bhutan
+China
+India
+Kazakhstan
+Nepal
+Pakistan
+Philippines
+Taiwan
+Thailand
+Europe
+European Union (Czech Republic, Denmark, Finland, Germany, Greece, Hungary, Ireland, Italy, Lithuania, Luxembourg, Netherlands, Portugal, Spain, Sweden, United Kingdom)
+Albania
+Iceland
+Norway
+Russia
+North America
+Canada
+Costa Rica
+Honduras
+Mexico
+United States
+Oceania
+Australia
+New Zealand
+Tuvalu
+South America
+Argentina
+Brazil
+Chile
+Colombia
+Category
+Portals:
+Energy
+Renewable energy
+Sustainable development
+v
+t
+e
+Lists about renewable energy
+Wind farm lists
+List of onshore wind farms
+List of onshore wind farms in the United Kingdom
+List of offshore wind farms in the United Kingdom
+List of offshore wind farms in the United States
+Lists of offshore wind farms by country
+Lists of offshore wind farms by water area
+Lists of wind farms by country
+List of wind farms in Australia
+List of wind farms in Canada
+List of wind farms in Iran
+List of wind farms in Romania
+List of wind farms in Sweden
+List of wind farms in the United States
+Other lists
+Index of solar energy articles
+List of books about renewable energy
+List of concentrating solar thermal power companies
+List of countries by electricity production from renewable sources
+List of energy storage projects
+List of geothermal power stations
+Lists of hydroelectric power stations
+List of largest hydroelectric power stations
+List of people associated with renewable energy
+List of photovoltaics companies
+List of photovoltaic power stations
+List of pioneering solar buildings
+NewPP limit report
+Parsed by mw1261
+Cached time: 20161120064448
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.564 seconds
+Real time usage: 0.660 seconds
+Preprocessor visited node count: 4400/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 152844/2097152 bytes
+Template argument size: 12407/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 12/500
+Lua time usage: 0.212/10.000 seconds
+Lua memory usage: 9.21 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+518.025
+1 - -total
+47.46%
+245.839
+1 - Template:Reflist
+20.07%
+103.959
+27 - Template:Cite_web
+15.04%
+77.910
+4 - Template:Ambox
+12.38%
+64.111
+1 - Template:Multiple_issues
+7.56%
+39.179
+15 - Template:Category_handler
+7.46%
+38.623
+7 - Template:Fix
+7.20%
+37.283
+3 - Template:Navbox
+6.52%
+33.792
+6 - Template:Dead_link
+6.05%
+31.363
+1 - Template:Cleanup
+Saved in parser cache with key enwiki:pcache:idhash:10337796-0!*!0!!en!4!* and timestamp 20161120064448 and revision id 750080847
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Renewable_energy_in_Australia&oldid=750080847"
+Categories: Renewable energy in AustraliaHidden categories: All articles with dead external linksArticles with dead external links from August 2012Webarchive template wayback linksArticles with dead external links from June 2016Articles needing cleanup from November 2009All articles needing cleanupCleanup tagged articles without a reason field from November 2009Wikipedia pages needing cleanup from November 2009Wikipedia articles in need of updating from March 2016All Wikipedia articles in need of updatingUse dmy dates from May 2016All articles with unsourced statementsArticles with unsourced statements from October 2013Wikipedia articles in need of updating from April 2009Articles with dead external links from September 2016Articles with dead external links from July 2013Commons category with page title same as on Wikidata

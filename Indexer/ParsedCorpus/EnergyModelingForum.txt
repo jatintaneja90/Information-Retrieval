@@ -1,0 +1,231 @@
+EnergyModelingForum
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2009) (Learn how and when to remove this template message)
+Energy Modeling Forum
+Abbreviation
+EMF
+Formation
+1976 (40years ago)(1976)
+Founded at
+Stanford University, California, USA
+Purpose
+Scientific cooperation
+Official language
+English
+Director
+John Weyant
+Website
+emf.stanford.edu
+The Energy Modeling Forum (EMF) is a structured forum for discussing important issues in energy and the environment. The EMF was established in 1976 at Stanford University. The EMF works through a series of ad hoc working groups, each focussing on a particular corporate or policy decision. The EMF provides a non-partisan platform that ensures objective consideration of opposing views. Participation is by invitation.
+Since the late-1990s, the EMF has made contributions to the economics of climate change, as witnessed in the reports of the Intergovernmental Panel on Climate Change (IPCC) and on integrated assessment modeling more generally.
+John Weyant is the current director of the EMF.
+Contents
+1 Ethos
+2 List of EMF projects
+3 See also
+4 References
+5 External links
+Ethos[edit]
+The EMF was convened in 1976 over concerns that the insights that large-scale energy models could provide policymakers were being overshadowed by the "plethora of detailed quantitative results" being disseminated and discussed.[1]:449 As a result, the EMF sought to bring energy modelers together to provide a proper context for their work. Indeed, the EMF was "formed to foster better communication between the builders and users of energy models in energy planning and policy analysis".[1]:449 The EMF periodically establishes ad hoc working groups to conduct studies on selected energy topics. A working group then identifies relevant existing models and sets a series of tests to illuminate the basic structure and behavior of each model. Results are compared and the strengths and weaknesses of each model is documented in a (as of 1982) freely available report.[1]
+List of EMF projects[edit]
+Reports for most of the completed projects are available from the EMF website.[2] Reports since 2006 have sometimes been published exclusively in special editions of (paywalled) academic journals instead.
+EMF projects[2]
+Project
+Reported
+Description
+Completed projects
+EMF01
+1977
+Energy and the economy
+EMF02
+1978
+Coal in transition: 19802000
+EMF03
+1979
+Electric load forecasting: probing the issue with models
+EMF04
+1980
+Aggregate elasticity of energy demand
+EMF05
+1982
+US oil and gas supply
+EMF06
+1981
+World oil
+EMF07
+1986
+Macroeconomic impacts of energy shocks
+EMF08
+1987
+Industrial energy demand, conservation, and interfuel substitution
+EMF09
+1989
+North American natural gas markets
+EMF10
+1991
+Electricity markets and planning
+EMF11
+1992
+International oil supplies and demands
+EMF12
+1993
+Controlling global carbon emissions: costs and policy options
+EMF13
+1996
+Markets for energy efficiency
+EMF14
+
+Integrated assessment of climate change
+EMF15
+1998
+A competitive electricity industry
+EMF16
+1999
+The costs of the Kyoto Protocol
+EMF17
+
+Prices and emissions in a restructured electricity market
+EMF18
+
+International trade dimensions of climate policies
+EMF19
+2002
+Climate change: technology strategies and international trade
+EMF20
+2003
+Natural gas, fuel diversity, and North American energy markets
+EMF21
+2008
+Multi-gas mitigation and climate change
+EMF22
+2010
+Climate change control scenarios
+EMF23
+2009
+World natural gas markets and trade
+EMF24
+2014
+US technology and climate policy strategies
+EMF25
+2011
+Energy efficiency and climate change mitigation
+EMF26
+2013
+Emissions and market implications of new natural gas supplies
+EMF27
+2014
+Global technology and climate policy strategies
+EMF28
+2013
+The effects of technology choices on EU climate policy
+EMF29
+2012
+The role of border carbon adjustment in unilateral climate policy
+Current projects (as of late-2016)
+EMF30
+Short-lived climate forcers and air quality
+EMF31
+North American natural gas markets in transition
+EMF32
+US GHG and revenue recycling scenarios
+EMF33
+Bio-energy and land use
+The reported year is that of the last revision.
+A dash indicates that no report is available.
+See also[edit]
+Energy modeling  the process of building computer models of energy systems
+Open Energy Modelling Initiative  an open source energy modeling initiative, centered on Europe
+References[edit]
+^ a b c Huntington, Hillard G; Weyant, John P; Sweeney, James L (1 January 1982). "Modeling for insights, not numbers: the experiences of the Energy Modeling Forum" (PDF). Omega: The International Journal of Management Science. 10 (5): 449462. doi:10.1016/0305-0483(82)90002-0. ISSN0305-0483. Retrieved 2016-10-22.
+^ a b "Projects  Energy Modeling Forum". Energy Modeling Forum (EMF). Stanford, CA, USA. Retrieved 2016-10-23.
+External links[edit]
+EMF home page
+v
+t
+e
+Energy modeling
+Models
+ACEGES
+iNEMS
+MARKAL
+NEMS
+POLES
+Open data
+OpenEI
+Reegle
+Concepts
+Climate change mitigation scenarios
+Computer simulation
+Energy modeling
+Mathematical optimization
+Scenario analysis
+System dynamics
+Applications
+Electricity market
+Electric power transmission
+Energy market
+Energy planning
+Energy policy
+Integrated assessment modelling
+People
+Hartmut Bossel
+Mark Jacobson
+John Laitner
+John Weyant
+Organizations
+Energy Modeling Forum
+Openmod Initiative
+Categories
+Economics models
+Energy models
+NewPP limit report
+Parsed by mw1267
+Cached time: 20161118170831
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.148 seconds
+Real time usage: 0.208 seconds
+Preprocessor visited node count: 1478/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 25939/2097152 bytes
+Template argument size: 1146/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 1/500
+Lua time usage: 0.065/10.000 seconds
+Lua memory usage: 3.22 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+182.505
+1 - -total
+45.51%
+83.067
+1 - Template:Infobox_organization
+38.64%
+70.527
+1 - Template:Infobox
+20.42%
+37.268
+1 - Template:Refimprove
+20.34%
+37.129
+1 - Template:Reflist
+14.60%
+26.640
+1 - Template:Cite_journal
+13.67%
+24.941
+1 - Template:Ambox
+10.24%
+18.693
+2 - Template:Unbulleted_list
+8.44%
+15.411
+4 - Template:If_empty
+8.15%
+14.882
+1 - Template:Energy_modeling
+Saved in parser cache with key enwiki:pcache:idhash:15160793-0!*!0!!en!4!* and timestamp 20161118170831 and revision id 749472323
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Energy_Modeling_Forum&oldid=749472323"
+Categories: Economics organizationsEnergy modelsEnergy organizationsHidden categories: Articles needing additional references from April 2009All articles needing additional references

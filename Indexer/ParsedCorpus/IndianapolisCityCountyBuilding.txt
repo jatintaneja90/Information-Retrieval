@@ -1,0 +1,139 @@
+IndianapolisCityCountyBuilding
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+City-County Building
+General information
+Type
+Government offices
+Location
+200 East Washington Street, Indianapolis, Indiana
+Coordinates
+394604.5N 860920.75W / 39.767917N 86.1557639W / 39.767917; -86.1557639Coordinates: 394604.5N 860920.75W / 39.767917N 86.1557639W / 39.767917; -86.1557639
+Completed
+1962
+Owner
+Marion County Building Authority
+Height
+Roof
+372ft (113m)
+Technical details
+Floor count
+28
+Design and construction
+Architect
+Wright, Porteous & Lowe/Bonar; Lennox, Matthews, Simmons & Ford, Inc.
+Structural engineer
+J. M. Rotz Engineering Co.
+The Indianapolis City-County Building is a 28-story building at 200 E. Washington Street in downtown Indianapolis, Indiana that houses the offices of the consolidated city-county government of Indianapolis and Marion County, Indiana, known as Unigov, in its 665,534 square feet [1] of office space. It also houses the Marion County Courts and the headquarters of the Indianapolis Metropolitan Police Department and the Indianapolis City-County Council. The office of the Mayor of Indianapolis is on the top floor of the Indianapolis City-County Building.[2]
+The building opened in 1962 after two years of construction,[3] at a cost of $22 million.[4] The City-County Building was the first building in the city to be taller than the Soldiers' and Sailors' Monument, and was the tallest building in the city until 1970.[3]
+References[edit]
+^ "Mayor drops plan to privatize City-County Building". Indianapolis Business Journal. Retrieved 2016-06-25.
+^ Price, Nelson (2004). Indianapolis Then & Now. San Diego, California: Thunder Bay Press. p.38. ISBN1-59223-208-6.
+^ a b "City-County Building, Indianapolis". Emporis. Retrieved 2007-12-09.
+^ Caldwell, Howard; Jones, Darryl (1990). Goodall, Kenneth, ed. Indianapolis. Bloomington, Indiana, United States: Indiana University Press. ISBN0-253-32998-1. Retrieved 2008-12-25.
+External links[edit]
+City-County Building at SkyscraperPage
+Precededby
+Indiana Statehouse
+Tallest Building in Indianapolis
+19621970
+113 m
+Succeededby
+One Indiana Square
+v
+t
+e
+Indianapolis skyscrapers and high-rises
+Current
+Chase Tower
+OneAmerica Tower
+Regions Tower
+Market Tower
+300 North Meridian
+BMO Plaza
+JW Marriott Indianapolis
+City-County Building
+101 West Ohio
+AT&T Building
+Capital Center South Tower
+Hilton Indianapolis
+Riley Towers I
+Riley Towers II
+Conrad Indianapolis
+AT&T 220 Building
+Market Square Center
+Sidney and Lois Eskenazi Hospital
+Lucas Oil Stadium
+Hyatt Regency Indianapolis/PNC Center
+Simon Property Group Headquarters
+Indiana State House
+Fifth Third Bank Tower
+Barnes and Thornburg Building
+8888 Keystone Crossing
+Hilton Garden Inn
+Sheraton Indianapolis City Centre
+Indianapolis Marriott Downtown
+Indiana Government Center North
+One North Pennsylvania
+Riley Hospital for Children Simon Family Tower
+30 South Meridian
+110 East Washington Street
+Proposed
+Aloft/Element Hotel Indianapolis
+Under construction
+360 Market Square
+See also: List of tallest buildings in Indianapolis
+This Indianapolis, Indiana-related article is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+NewPP limit report
+Parsed by mw1216
+Cached time: 20161120150747
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.192 seconds
+Real time usage: 0.250 seconds
+Preprocessor visited node count: 1623/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 36541/2097152 bytes
+Template argument size: 1031/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.095/10.000 seconds
+Lua memory usage: 4.72 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+222.228
+1 - -total
+59.16%
+131.480
+1 - Template:Infobox_building
+49.69%
+110.425
+1 - Template:Infobox
+21.99%
+48.862
+1 - Template:Reflist
+13.99%
+31.096
+2 - Template:Cite_web
+13.54%
+30.098
+1 - Template:Convert
+10.76%
+23.911
+1 - Template:Geobox_coor
+6.76%
+15.018
+1 - Template:Indianapolis_skyscrapers
+6.02%
+13.378
+1 - Template:Navbox
+5.29%
+11.759
+5 - Template:Ifempty
+Saved in parser cache with key enwiki:pcache:idhash:14639669-0!*!0!!*!4!* and timestamp 20161120150746 and revision id 743484160
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Indianapolis_City-County_Building&oldid=743484160"
+Categories: Skyscrapers in IndianapolisGovernment of IndianapolisOffice buildings in IndianapolisSkyscrapers between 100 and 149 metersGovernment buildings completed in 1962Headquarters in the United StatesCounty government buildings in IndianaIndianapolis stubsHidden categories: Coordinates on WikidataPages using deprecated coordinates formatAll stub articles

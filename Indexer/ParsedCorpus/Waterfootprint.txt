@@ -1,0 +1,213 @@
+Waterfootprint
+From Wikipedia, the free encyclopedia
+(Redirected from Water footprint)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Water use can mean the amount of water used by a household or a country, or the amount used for a given task or for the production of a given quantity of some product or crop, or the amount allocated for a particular purpose.
+Globally, of precipitation falling on land each year (about 117,000km3 (28,000cumi)),[1] about 4 percent is used by rainfed agriculture and about half is subject to evaporation and transpiration in forests and other natural or quasi-natural landscapes.[2] The remainder, which goes to groundwater replenishment and surface runoff, is sometimes called total actual renewable freshwater resources. Its magnitude was recently estimated at 52,579km3 (12,614cumi)/year.[3] It represents water that can be used either instream or after withdrawal from surface and groundwater sources. Of this remainder, about 3,918km3 were withdrawn in 2007, of which 2,722km3 (69 percent) were used by agriculture, and 734km3 (19 percent) by other industry.[4] Most agricultural use of withdrawn water is for irrigation, which uses about 5.1 percent of total actual renewable freshwater resources.[3] World water use has been growing rapidly in the last hundred years (see graph from New Scientist article[5]).
+There are numerous measures of water use, including total water use, drinking water consumption, non-consumptive use, withdrawn water use (from surface and groundwater sources), instream use, water footprint, etc. Each of these (and other) measures of water use is appropriate for some purposes and inappropriate for others. Water footprints have become popular measures of use, e.g. in relation to personal consumption. The term "water footprint" is often used to refer to the amount of water used by an individual, community, business, or nation, or the amount of water use associated with (although not necessarily assignable to) a product.
+The total water footprint of a typical 3-person household in the U.S. is 23,360l (5,140impgal; 6,170USgal).[6] By comparison, a typical single family home in the U.S. only uses about 262l (58impgal; 69USgal) of water per day (2008 estimate). This includes (in decreasing order) toilet use, washing machine use, showers, baths, faucet use, and leaks.[7][bettersourceneeded]
+Contents
+1 Water footprint
+1.1 History
+1.2 Water Footprint Network (WFN)
+1.2.1 blue water footprint
+1.2.2 green water footprint
+1.2.3 grey water footprint
+1.2.4 sustainable water use
+2 Calculation for different actors
+2.1 International standard
+2.2 Life Cycle Analysis of water use
+3 Water footprint of products
+4 Water footprint of individual consumers
+5 Water footprint of companies
+6 Water footprint of nations
+6.1 Europe
+7 Criticism of water footprint and virtual water
+7.1 Insufficient consideration of consequences of proposed water saving policies to farm households
+7.2 Insufficient consideration of regional water scarcity
+8 Environmental water use
+9 Sectoral distributions of withdrawn water use
+10 See also
+11 References
+12 External links
+Water footprint[edit]
+The water footprint of an individual, community or business is defined as the total volume of freshwater used to produce the goods and services consumed by the individual or community or produced by the business. Water use is measured in water volume consumed (evaporated) and/or polluted per unit of time. A water footprint can be calculated for any well-defined group of consumers (e.g., an individual, family, village, city, province, state or nation) or producers (e.g., a public organization, private enterprise or economic sector). The water footprint is a geographically explicit indicator, not only showing volumes of water use and pollution, but also the locations.[8][9]
+The water footprint of a country is related to what its people eat. For example, it is a common thought that the water involved in a cup of coffee is just the water in the cup.[9] There is actually 140 litres of water involved. The 140 litres of water is the amount of water that was used to grow, produce, package, and ship the coffee beans.[9] A hamburger needs an estimated 2,400 litres of water. This hidden water is technically called virtual water.[9] Therefore, eating a lot of meat means a large water footprint. However, care is needed to avoid misunderstanding the significance of water footprints of food. (See "Water footprint of products", below.)
+History[edit]
+The water footprint concept was introduced in 2002 by Arjen Y. Hoekstra from UNESCO-IHE as an alternative indicator of water use.[10] Water footprint is one of a family of footprint indicators, which also includes carbon footprint and land footprint. The water footprint concept is further related to the idea of virtual water trade introduced by Professor John Allan (2008 Stockholm Water Prize Laureate). The most elaborate publications on how to estimate water footprints are a 2004 report on the "Water footprint of nations" from UNESCO-IHE [11] and the 2008 book Globalization of Water,[12] and the 2011 manual The water footprint assessment manual: Setting the global standard.[13] Cooperation between global leading institutions in the field has led to the establishment of the Water Footprint Network in 2008 that aims to coordinate efforts to further develop and disseminate knowledge on water footprint concepts, methods and tools.
+Water Footprint Network (WFN)[edit]
+The Water Footprint Network is an international learning community (non-profit foundation under Dutch law) that serves as a platform for connecting communities interested in sustainability, equitability and efficiency of water use. The organization has two work programmes: a Technical Work Programme and a Policy Work Programme. In addition, there is a Partner Forum which offer partners of the WFN a way of receiving, contributing and exchanging knowledge and experience on water footprint. Its mission and activities are listed below and taken directly from the Water Footprint website.[14]
+blue water footprint[edit]
+The blue water footprint is the volume of freshwater that evaporated from the global blue water resources (surface water and ground water) to produce the goods and services consumed by the individual or community (either lost through evapotranspiration, incorporated in products or transferred to non-blue catchments).
+green water footprint[edit]
+The green water footprint is the volume of water evaporated from the global green water resources (rainwater stored in the soil as soil moisture) during production or those incorporated in products.
+grey water footprint[edit]
+The grey water footprint is the volume of polluted water that associates with the production of all goods and services for the individual or community. The latter can be estimated as the volume of water that is required to dilute pollutants to such an extent that the quality of the water remains at or above agreed water quality standards. It is calculated as:
+W
+F
+p
+r
+o
+c
+,
+g
+r
+e
+y
+=
+L
+c
+m
+a
+x
+ 
+c
+n
+a
+t
+{\displaystyle WF_{proc,grey}={\frac {L}{c_{max}-c_{nat}}}}
+where L is the pollutant load (as mass flux), cmax the maximum allowable concentration and cnat the natural concentration of the pollutant in the receiving water body (both expressed in mass/volume).[15]
+sustainable water use[edit]
+Sustainable water use involves the rigorous assessment of all source of clean water to establish the current and future rates of use, the impacts of that use both downstream and in the wider area where the water may be used and the impact of contaminated water streams on the environment and economic well being of the area. It also involves the implementation of social policies such as water pricing in order to manage water demand.[16] In some localities, water may also have spiritual relevance and the use of such water may need to take account of such interests. For example, the Maori believe that water is the source and foundation of all life and have many spiritual associations with water and places associated with water.[17] On a national and global scale, water sustainability requires strategic and long term planning to ensure appropriate sources of clean water are identified and the environmental and economic impact of such choices are understood and accepted.[18] The re-use and reclamation of water is also part of sustainability including downstream impacts on both surface waters and ground waters.[19]
+Calculation for different actors[edit]
+The water footprint of a process is expressed as volumetric flow rate of water. That of a product is the whole footprint (sum) of processes in its complete supply chain divided by the number of product units. For consumers, businesses and geographic area, water footprint is indicated as volume of water per time, in particular:[15]
+That of a consumer is the sum of footprint of all consumed products.
+That of a community or a nation is the sum for all of its members resp. inhabitants.
+That of a business is the footprint of all produced goods.
+That of a geographically delineated area is the footprint of all processes undertaken in this area. The virtual water balance of an area is the net import of virtual water Vi, net, defined as the difference of the gross import Vi of virtual water from its gross export Ve. The water footprint of national consumption WFarea,nat results from this as the sum of the water footprint of national area and its virtual water balance.
+International standard[edit]
+In February 2011, the Water Footprint Network, in a global collaborative effort of environmental organizations, companies, research institutions and the UN, launched the Global Water Footprint Standard. On July 24, 2014, ISO issued ISO 14046:2014, Environmental managementWater footprintPrinciples, requirements and guidelines. [4] The ISO standard is based on Life Cycle Assessment (LCA) principles and can be applied for different sorts of assessment of products and companies.
+Life Cycle Analysis of water use[edit]
+Life Cycle Analysis (LCA) is a systematic, phased approach to assessing the environmental aspects and potential impacts that are associated with a product, process or service. Life cycle refers to the major activities in the course of the products life-span from its manufacture, use, and maintenance, to its final disposal, including the raw material acquisition required to manufacture the product.[20] Thus a method for assessing the environmental impacts of freshwater consumption was developed. It specifically looks at the damage to three areas of protection: human health, ecosystem quality, and resources. The consideration of water consumption is crucial where water-intensive products (for example agricultural goods) are concerned and need to therefore undergo a life-cycle assessment.[21] In addition, regional assessments are equally as necessary as the impact of water use depends on its location. In short, LCA is important as it identifies the impact of water use in certain products, consumers, companies, nations, etc. which can help reduce the amount of water used.
+Water footprint of products[edit]
+The water footprint of a product is the total volume of freshwater used to produce the product, summed over the various steps of the production chain. The water footprint of a product refers not only to the total volume of water used; it also refers to where and when the water is used (Source: WFN Glossary). The Water Footprint Network maintains a global database on the water footprint of products: WaterStat
+The water footprints involved in various diets vary greatly, and much of the variation tends to be associated with levels of meat consumption.[22] The following table gives some examples of estimated global average water footprints of some agricultural products.[23][24]
+Product
+Global average water footprint, L/kg
+almonds, shelled
+16,194
+beef
+15,415
+chocolate
+17,196
+cotton lint
+9,114
+lettuce
+238
+milk
+1,021
+olive oil
+14,430
+tomatoes, fresh
+214
+tomatoes, dried
+4,275
+vanilla beans
+126,505
+wheat bread
+1,608
+(For more product water footprints: see the Product Gallery of the Water Footprint Network)
+Water footprint of individual consumers[edit]
+The water footprint of an individual refers to the sum of his or her direct and indirect freshwater use. The direct water use is the water used at home, while the indirect water use relates to the total volume of freshwater that is used to produce the goods and services consumed.
+The average global water footprint of an individual is 1,385 m3 per year. Residents in some example nations have a water footprints as shown in the table:
+Nation
+annual water footprint
+China
+1,071 m3[25]
+Finland
+1,733 m3[26]
+India
+1,089 m3[25]
+United Kingdom
+1,695 m3[27]
+United States
+2,842 m3[28]
+Water footprint of companies[edit]
+The water footprint of a business, the 'corporate water footprint', is defined as the total volume of freshwater that is used directly or indirectly to run and support a business. It is the total volume of water use to be associated with the use of the business outputs. The water footprint of a business consists of water used for producing/manufacturing or for supporting activities and the indirect water use in the producers supply chain.
+The Carbon Trust argue that a more robust approach is for businesses to go beyond simple volumetric measurement to assess the full range of water impact from all sites. Its work with leading global pharmaceutical company GlaxoSmithKline (GSK) analysed four key categories: water availability, water quality, health impacts, and licence to operate (including reputational and regulatory risks) in order to enable GSK to quantitatively measure, and credibly reduce, its year-on-year water impact.[29]
+The Coca-Cola Company operates over a thousand manufacturing plants in about 200 countries. Making its drink uses a lot of water. Critics say its water footprint has been large. Coca-Cola has started to look at its water sustainability.[30] It has now set out goals to reduce its water footprint such as treating the water it uses so it goes back into the environment in a clean state. Another goal is to find sustainable sources for the raw materials it uses in its drinks, such as sugarcane, oranges, and corn. By making its water footprint better, the company can reduce costs, improve the environment, and benefit the communities in which it operates.[19]
+Water footprint of nations[edit]
+The water footprint of a nation is the water used to produce the goods and services consumed by the inhabitants of the nation. The internal water footprint is the appropriation of domestic water resources; the external water footprint is the appropriation of water resources in other countries. About 65% of Japan's total water footprint comes from outside the country; about 7% of the Chinese water footprint falls outside China.[9]
+Europe[edit]
+See also: Category:Droughts in Europe
+Each EU citizen consumes 4,815 litres of water per day on average, 44% is used in power production primarily to cool thermal plants or nuclear power plants. Energy production annual water consumption in the EU 27 in 2011 was as billion m3 for gas 0.53, coal 1.54 and nuclear 2.44. Wind energy avoided the use of 387 million cubic metres (mn m) of water in 2012 avoiding a cost of 743 mn. The cost of droughts in Europe over the past thirty years is according to the European Commission 100 billion.[31][32]
+Criticism of water footprint and virtual water[edit]
+Insufficient consideration of consequences of proposed water saving policies to farm households[edit]
+According to Dennis Wichelns of the International Water Management Institute: Although one goal of virtual water analysis is to describe opportunities for improving water security, there is almost no mention of the potential impacts of the prescriptions arising from that analysis on farm households in industrialized or developing countries. It is essential to consider more carefully the inherent flaws in the virtual water and water footprint perspectives, particularly when seeking guidance regarding policy decisions.[33]
+Insufficient consideration of regional water scarcity[edit]
+The application and interpretation of water footprints may sometimes be used to promote industrial activities that lead to facile criticism of certain products. For example, the 140 litres required for coffee production for one cup[9] might be of no harm to water resources if its cultivation occurs mainly in humid areas, but could be damaging in more arid regions. Other factors such as hydrology, climate, geology, topography, population and demographics should also be taken into account. Nevertheless, high water footprint calculations do suggest that environmental concern may be appropriate.
+The use of the term "footprint" can also confuse people familiar with the notion of a carbon footprint, because the water footprint concept includes sums of water quantities without necessarily evaluating related impacts. This is in contrast to the carbon footprint, where carbon emissions are not simply summarized but normalized by CO2 emissions, which are globally identical, to account for the environmental harm. The difference is due to the somewhat more complex nature of water; while involved in the global hydrological cycle, it is expressed in conditions both local and regional through various forms like river basins, watersheds, on down to groundwater (as part of larger aquifer systems).
+The water footprint of a business, the 'corporate water footprint', is defined as the total volume of fresh water that is used directly or indirectly to run and support a business. It is the total volume of water use to be associated with the use of the business outputs. The water footprint of a business consists of water used for producing/manufacturing or for supporting activities and the indirect water use in the producers supply chain. Water Credit for conserving water: Nagpur based innovator Shripad Vaidya's idea of giving water credit's, much like carbon credits, to those who save and conserve water is gaining ground. These water credits can be marketed or sold to those in need of surplus water for social,agricultural or industrial ventures.[34][35][36]
+Environmental water use[edit]
+Although agricultures water use includes provision of important terrestrial environmental values (as discussed in the Water footprint of products section above), and much green water is used in maintaining forests and wild lands, there is also direct environmental use (e.g. of surface water) that may be allocated by governments. For example, in California, where water use issues are sometimes severe because of drought, about 48 percent of dedicated water use in an average water year is for the environment (somewhat more than for agriculture).[37] Such environmental water use is for keeping streams flowing, maintaining aquatic and riparian habitats, keeping wetlands wet, etc.
+Sectoral distributions of withdrawn water use[edit]
+Several nations estimate sectoral distribution of use of water withdrawn from surface and groundwater sources. For example, in Canada, in 2005, 42 billion cu. m of withdrawn water were used, of which about 38 billion cu. m was freshwater. Distribution of this use among sectors was: thermoelectric power generation 66.2%, manufacturing 13.6%, residential 9.0%, agriculture 4.7%, commercial and institutional 2.7%, water treatment and distribution systems 2.3%, mining 1.1%, and oil and gas extraction 0.5%. The 38 billion cu.m of freshwater withdrawn in that year can be compared with the nations annual freshwater yield (estimated as streamflow) of 3,472 billion cu.m.[38] Sectoral distribution is different in many respects in the US, where agriculture accounts for about 39% of fresh water withdrawals, thermoelectric power generation 38%, industrial 4%, residential 1%, and mining (including oil and gas) 1%.[39]
+Within the agricultural sector, withdrawn water use is for irrigation and for livestock. Whereas all irrigation in the US (including loss in conveyance of irrigation water) is estimated to account for about 38 percent of US withdrawn freshwater use,[39] the irrigation water used for production of livestock feed and forage has been estimated to account for about 9 percent,[40] and other withdrawn freshwater use for the livestock sector (for drinking, washdown of facilities, etc.) is estimated at about 0.7 percent.[39] Because agriculture is a major user of withdrawn water, changes in the magnitude and efficiency of its water use are important. In the US, from 1980 (when agricultures withdrawn water use peaked) to 2010, there was a 23 percent reduction in agricultures use of withdrawn water,[39] while US agricultural output increased by 49 percent over that period.[41]
+In the US, irrigation water application data are collected in the quintennial Farm and Ranch Irrigation Survey, conducted as part of the Census of Agriculture. Such data indicate great differences in irrigation water use within various agricultural sectors. For example, about 14 percent of corn-for-grain land and 11 percent of soybean land in the US are irrigated, compared with 66 percent of vegetable land, 79 percent of orchard land and 97 percent of rice land.[42][43]
+See also[edit]
+Sustainable development portal
+Environment portal
+Ecology portal
+Carbon footprint
+Deficit irrigation
+Ecological footprint
+Runoff footprint
+Social metabolism
+Virtual water
+Waste water
+Water crisis
+Water resource management
+Water resources
+References[edit]
+^ Schneider, U. et al. 2014. GPCCs new land surface precipitation climatology based on quality-controlled in-situ data and its role in quantifying the global water cycle. Theoretical and Applied Climatology. 115: 15-40.
+^ FAO. Water use. http://www.fao.org/nr/water/aquastat/water_use/index.stm#tables
+^ a b Frenken, K. and V. Gillet. 2012. Irrigation water requirement and water withdrawal by country. AQUASTAT, FAO.
+^ FAO. 2014. Water withdrawal by sector, around 2007. http://www.fao.org/nr/water/aquastat/tables/WorldData-Withdrawal_eng.pdf
+^ "Looming water crisis simply a management problem" by Jonathan Chenoweth, New Scientist 28 Aug., 2008, pp. 28-32.
+^ "Mekonnen, M.M. and Hoekstra, A.Y.,National water footprint accounts: the green, blue and grey water footprint of production and consumption, Value of Water Research Report Series No. 50, UNESCO-IHE, Delft, the Netherlands." (PDF). Water Footprint Network. 2011. Archived from the original on 2014.
+^ "Cashing in on climate change". IBISWorld. 29 May 2008. Archived from the original on 4 October 2008.
+^ Definition taken from the Hoekstra, A.Y. and Chapagain, A.K. (2008) Globalization of water: Sharing the planet's freshwater resources, Blackwell Publishing, Oxford, UK.[1]
+^ a b c d e f "Waterfootprint.org: Water footprint and virtual water". The Water Footprint Network. Retrieved 9 April 2014.
+^ Hoekstra, A.Y. (2003) (ed) Virtual water trade: Proceedings of the International Expert Meeting on Virtual Water Trade, IHE Delft, the Netherlands [2]
+^ [3]
+^ Globalization of Water, A.Y. Hoekstra and A.K. Chapagain, Blackwell, 2008
+^ Hoekstra, Arjen (2011). The water footprint assessment manual: Setting the global standard (PDF). London: Earthscan. ISBN978-1-84971-279-8.
+^ "Why a Water Footprint Network". Water Footprint Network. Retrieved 2013. Check date values in: |access-date= (help)
+^ a b "The Water Footprint Assessment Manual". Water Footprint Network. Retrieved 2015-01-20.
+^ "Policies and measure to promote sustainable water use". Europeanm Environment Agency. 18 February 2008. Retrieved 26 April 2016.
+^ e Ahukaram Charles Royal (22 September 2012). "Tangaroa  the sea - Water as the source of life". Encyclopaedia of New Zealand.
+^ "Water Consumption and Sustainable Water Resources Management". OECD Library. 25 March 1998. ISBN9789264162648. Retrieved 26 April 2016.
+^ a b Naumann, Ruth (2011). Sustainability (1st ed.). North Shore, N.Z.: Cengage Learning. pp.5658. ISBN978-017021-034-8.
+^ Scientific Applications International Corporations (SAIC) (2006). Life Cycle Assessment: Principles and Practice. Reston, VA: SAIC.
+^ Pfister, Stephan; Koehler, Annette; Hellweg, Stefanie (20 March 2009). "Assessing the Environmental Impacts of Freshwater Consumption in LCA". Environmental Science. 43: 4008104.
+^ Vanham, D., M. M.Mekonnen and A. Y. Hoekstra. 2013. The water footprint of the EU for different diets. Ecological Indicators 32: 1-8.
+^ Mekonnen, M. M. and A. Y. Hoekstra. 2010. The green, blue and grey water footprint of farm animals and animal products. Volume 1: Main report. UNESCO-IHE., Institute for Water Education. 50 pp.
+^ Mekonnen, M. M. and A. Y. Hoekstra. 2010. The green, blue and grey water footprint of crops and derived crop products. Volume 2. Appendices main report. Value of Water Research Report Series No. 47. UNESCO-IHE Institute for Water Education. 1196 pp.
+^ a b Hoekstra, AY (2012). "The Water Footprint of Humanity". PNAS. doi:10.1073/pnas.1109936109.
+^ Data obtained from the Finnish Wikipedia article page Vesijalanjlki
+^ Chapagain, A.K. & Orr, S. "U.K. Water Footprint: The Impact of the U.K.'s Food and Fibre Consumption on Global Water Resources, Volume 1" (PDF). WWF-UK. WWF-UK. and volume 2 Chapagain, A.K. & Orr, S. "Volume 2" (PDF). WWF-UK. WWF-UK.
+^ "The Water Footprint of Humanity". JournalistsResource.org, retrieved 20 March 2012
+^ "Water, water everywhere... or is it?", The Carbon Trust, 26 November 2014. Retrieved on 20 January 2015.
+^ "2013 Water Report: The Coca-Cola Company". The Coca-Cola Company. Retrieved 8 April 2014.
+^ Saving water with wind energy EWEA June 2014
+^ Saving water with wind energy Summary EWEA
+^ Wichelns, Dennis (2010). "Virtual water and water footprints offer limited insight regarding important policy questions". International Journal of Water Resources Development. 26 (4): 639651. doi:10.1080/07900627.2010.519494. Retrieved 2015-01-21.
+^ http://www.scribd.com/doc/97302583/Water-use
+^ Limca Book of Records2012 page 278
+^ https://arnoneumann.wordpress.com/tag/environment-2/page/2/
+^ California Department of Water Resources. California State Water Project water supply. http://www.water.ca.gov/swp/watersupply.cfm
+^ Statistics Canada. 2010. Human activity and the environment. Freshwater supply and demand in Canada. Catalogue no. 16-201-X.
+^ a b c d Maupin, M. A. et al. 2014. Estimated use of water in the United States 2010. U. S. Geological Survey Circular 1405. 55 pp.
+^ Zering, K. D., T. J. Centner, D. Meyer, G. L. Newton, J. M. Sweeten and S. Woodruff. 2012. Water and land issues associated with animal agriculture: a U.S. perspective. CAST Issue Paper No. 50. Council for Agricultural Science and Technology, Ames, Iowa. 24 pp.
+^ USA ERS.2013. Table 1. Indices of farm output, input and total factor productivity for the United States, 1948-2011. (last update 9/27/2013) http://www.ers.usda.gov/data-products/agricultural-productivity-in-the-us.aspx#28247
+^ US Department of Agriculture. 2009. 2007 Census of agriculture. Farm and ranch irrigation survey (2008). Volume 3. Special Studies. Part 1. AC-07-SS-1. 177 pp. + appendices.
+^ USDA. 2009. 2007 Census of agriculture. United States summary and State Data. Vol. 1. Geographic Area Series. Part 51. AC-07-A-51. 639 pp. + appendices.
+External links[edit]
+Water Footprint Network
+WWF-UK Key freshwater issues
+WWF-NL Watervoetafdruk
+UNESCO-IHE Value of Water Research Report Series
+Water Footprint of Crops | Visual.ly
+Saved in parser cache with key enwiki:pcache:idhash:18962147-0!*!0!!en!4!*!math=5 and timestamp 20161116192145 and revision id 745754632
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Water_use&oldid=745754632"
+Categories: WaterWater supplyWater development and sustainabilityEnvironmental issues with waterHidden categories: CS1 errors: datesAll articles lacking reliable referencesArticles lacking reliable references from September 2012

@@ -1,0 +1,255 @@
+Poweroutage
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about accidental power failures. For intentionally engineered ones, see rolling blackout.
+Vehicle lights provide the only illumination during the 2009 Ecuador electricity crisis
+A power outage (also called a power cut, a power blackout, power failure or a blackout) is a short- or long-term loss of the electric power to an area.
+There are many causes of power failures in an electricity network. Examples of these causes include faults at power stations, damage to electric transmission lines, substations or other parts of the distribution system, a short circuit, or the overloading of electricity mains.
+Power failures are particularly critical at sites where the environment and public safety are at risk. Institutions such as hospitals, sewage treatment plants, mines, shelters and the like will usually have backup power sources such as standby generators, which will automatically start up when electrical power is lost. Other critical systems, such as telecommunication, are also required to have emergency power. The battery room of a telephone exchange usually has arrays of leadacid batteries for backup and also a socket for connecting a generator during extended periods of outage.
+Contents
+1 Types of power outage
+2 Protecting the power system from outages
+3 Protecting computer systems from power outages
+4 Restoring power after a wide-area outage
+5 Blackout inevitability and electric sustainability
+5.1 Self-organized criticality
+5.2 OPA model
+5.3 Mitigation of power outage frequency
+6 Key performance indicators
+7 See also
+8 References
+9 External links
+Types of power outage[edit]
+Blackout
+Transient fault
+Power outages are categorized into three different phenomena, relating to the duration and effect of the outage:
+A permanent fault is a massive loss of power typically caused by a fault on a power line. Power is automatically restored once the fault is cleared.
+A brownout is a drop in voltage in an electrical power supply. The term brownout comes from the dimming experienced by lighting when the voltage sags. Brownouts can cause poor performance of equipment or even incorrect operation.
+A blackout is the total loss of power to an area and is the most severe form of power outage that can occur. Blackouts which result from or result in power stations tripping are particularly difficult to recover from quickly. Outages may last from a few minutes to a few weeks depending on the nature of the blackout and the configuration of the electrical network.
+Protecting the power system from outages[edit]
+Tree limbs creating a short circuit in electrical lines during a storm. This typically results in a power outage in the area supplied by these lines
+In power supply networks, the power generation and the electrical load (demand) must be very close to equal every second to avoid overloading of network components, which can severely damage them. Protective relays and fuses are used to automatically detect overloads and to disconnect circuits at risk of damage.
+Under certain conditions, a network component shutting down can cause current fluctuations in neighboring segments of the network leading to a cascading failure of a larger section of the network. This may range from a building, to a block, to an entire city, to an entire electrical grid.
+Modern power systems are designed to be resistant to this sort of cascading failure, but it may be unavoidable (see below). Moreover, since there is no short-term economic benefit to preventing rare large-scale failures, researchers have expressed concern that there is a tendency to erode the resilience of the network over time, which is only corrected after a major failure occurs. In a 2003 publication, Carreras and co-authors claimed that reducing the likelihood of small outages only increases the likelihood of larger ones.[1] In that case, the short-term economic benefit of keeping the individual customer happy increases the likelihood of large-scale blackouts.
+Protecting computer systems from power outages[edit]
+Computer systems and other electronic devices containing logic circuitry are susceptible to data loss or hardware damage that can be caused by the sudden loss of power. These can include data networking equipment, video projectors, alarm systems as well as computers. To protect against this, the use of an uninterruptible power supply or UPS can provide a constant flow of electricity if a primary power supply becomes unavailable for a short period of time. To protect against surges (events where voltages increase for a few seconds), which can damage hardware when power is restored, a special device called a surge protector that absorbs the excess voltage can be used.
+Restoring power after a wide-area outage[edit]
+Restoring power after a wide-area outage can be difficult, as power stations need to be brought back on-line. Normally, this is done with the help of power from the rest of the grid. In the total absence of grid power, a so-called black start needs to be performed to bootstrap the power grid into operation. The means of doing so will depend greatly on local circumstances and operational policies, but typically transmission utilities will establish localized 'power islands' which are then progressively coupled together. To maintain supply frequencies within tolerable limits during this process, demand must be reconnected at the same pace that generation is restored, requiring close coordination between power stations, transmission and distribution organizations.
+Blackout inevitability and electric sustainability[edit]
+Self-organized criticality[edit]
+It has been argued on the basis of historical data[2] and computer modeling[3][4] that power grids are self-organized critical systems. These systems exhibit unavoidable[5] disturbances of all sizes, up to the size of the entire system. This phenomenon has been attributed to steadily increasing demand/load, the economics of running a power company, and the limits of modern engineering.[6] While blackout frequency has been shown to be reduced by operating it further from its critical point, it generally isnt economically feasible, causing providers to increase the average load over time or upgrade less often resulting in the grid moving itself closer to its critical point. Conversely, a system past the critical point will experience too many blackouts leading to system-wide upgrades moving it back below the critical point. The term critical point of the system is used here in the sense of statistical physics and nonlinear dynamics, representing the point where a system undergoes a phase transition; in this case the transition from a steady reliable grid with few cascading failures to a very sporadic unreliable grid with common cascading failures. Near the critical point the relationship between blackout frequency and size follows a power law distribution.[4][6] Other leaders are dismissive of system theories that conclude that blackouts are inevitable, but do agree that the basic operation of the grid must be changed. The Electric Power Research Institute champions the use of smart grid features such as power control devices employing advanced sensors to coordinate the grid. Others advocate greater use of electronically controlled High-voltage direct current (HVDC) firebreaks to prevent disturbances from cascading across AC lines in a wide area grid.[7]
+Cascading failure becomes much more common close to this critical point. The power law relationship is seen in both historical data and model systems.[6] The practice of operating these systems much closer to their maximum capacity leads to magnified effects of random, unavoidable disturbances due to aging, weather, human interaction etc. While near the critical point, these failures have a greater effect on the surrounding components due to individual components carrying a larger load. This results in the larger load from the failing component having to be redistributed in larger quantities across the system, making it more likely for additional components not directly affected by the disturbance to fail, igniting costly and dangerous cascading failures.[6] These initial disturbances causing blackouts are all the more unexpected and unavoidable due to actions of the power suppliers to prevent obvious disturbances (cutting back trees, separating lines in windy areas, replacing aging components etc.). The complexity of most power grids often makes the initial cause of a blackout extremely hard to identify.
+Further information: Self-organized criticality control
+OPA model[edit]
+In 2002, researchers at Oak Ridge National Laboratory (ORNL), Power System Engineering Research Center of the University of Wisconsin (PSerc),[8] and the University of Alaska Fairbanks proposed a mathematical model for the behavior of electrical distribution systems.[9][10] This model has become known as the OPA model, a reference to the names of the authors' institutions. OPA is a cascading failure model. Other cascading failure models include Manchester, Hidden failure, CASCADE, and Branching.[11]
+Mitigation of power outage frequency[edit]
+The effects of trying to mitigate cascading failures near the critical point in an economically feasible fashion are often shown to not be beneficial and often even detrimental. Four mitigation methods have been tested using the OPA blackout model:[1]
+Increase critical number of failures causing cascading blackouts  Shown to decrease the frequency of smaller blackouts but increase that of larger blackouts.
+Increase individual power line max load  Shown to increase the frequency of smaller blackouts and decrease that of larger blackouts.
+Combination of increasing critical number and max load of lines  Shown to have no significant effect on either size of blackout. The resulting minor reduction in the frequency of blackouts is projected to not be worth the cost of the implementation.
+Increase the excess power available to the grid  Shown to decrease the frequency of smaller blackouts but increase that of larger blackouts.
+In addition to the finding of each mitigation strategy having a cost-benefit relationship with regards to frequency of small and large blackouts, the total number of blackout events was not significantly reduced by any of the above-mentioned mitigation measures.[1]
+A complex network-based model to control large cascading failures (blackouts) using local information only was proposed by A. E. Motter.[12]
+Key performance indicators[edit]
+Utilities are measured on three specific performance measures:
+System Average Interruption Duration Index, measured in minutes
+Customer Average Interruption Duration Index, measured in minutes
+Customer Average Interruption Frequency Index
+See also[edit]
+Energy portal
+Brittle Power
+Dumsor
+Electromagnetic pulse
+Energy conservation
+List of major power outages
+List of energy storage projects
+NaFIRS
+Outage management system
+Renewable energy
+Rolling blackout
+Self-organized criticality control
+Smart grid
+Uninterruptible power supply
+References[edit]
+^ a b c Carreras, B. A.; Lynch, V. E.; Newman, D. E.; Dobson, I. (2003). "Blackout mitigation assessment in power transmission systems". 36th Hawaii International Conference on System Sciences. Hawaii.
+^ IEEE Computer Society Conference Publishing Services
+^ Microsoft Word  HICSS2002-paper2
+^ a b H. Hoffmann and D. W. Payton (2014). "Suppressing cascades in a self-organized-critical model with non-contiguous spread of failures" (PDF). Chaos, Solitons and Fractals. 67: 8793. doi:10.1016/j.chaos.2014.06.011.
+^ http://eceserv0.ece.wisc.edu/~dobson/PAPERS/carrerasHICSS00.pdf
+^ a b c d Dobson et al. Complex systems analysis of series of blackouts: Cascading failure, critical points, and self-organization. Chaos 17, 2007.
+^ Peter Fairley (August 2004). "The Unruly Power Grid". IEEE Spectrum. Institute of Electrical and Electronics Engineers. 41 (8): 22. doi:10.1109/MSPEC.2004.1318179. Retrieved 2012-06-24.
+^ "Power Systems Engineering Research Center". Board of Regents of the University of Wisconsin System. 2014. Retrieved 2015-06-23.
+^ Carreras, B. A.; Lynch, V. E.; Dobson, I.; Newman, D. E. (2002). "Critical points and transitions in an electric power transmission model for cascading failure blackouts" (PDF). Chaos: an Interdisciplinary Journal of Nonlinear Science. 12 (4): 985. doi:10.1063/1.1505810. ISSN1054-1500.
+^ Dobson, I.; Carreras, B.A.; Lynch, V.E.; Newman, D.E. (2001). "Proceedings of the 34th Annual Hawaii International Conference on System Sciences": 710. doi:10.1109/HICSS.2001.926274. ISBN0-7695-0981-9. |chapter= ignored (help)
+^ Nedic, Dusko P.; Dobson, Ian; Kirschen, Daniel S.; Carreras, Benjamin A.; Lynch, Vickie E. (2006). "Criticality in a cascading failure blackout model". International Journal of Electrical Power & Energy Systems. 28 (9): 627. doi:10.1016/j.ijepes.2006.03.006.
+^ Motter, Adilson E. (2004). "Cascade Control and Defense in Complex Networks". Physical Review Letters. 93 (9). doi:10.1103/PhysRevLett.93.098701.
+External links[edit]
+Wikinews has related news: Category:Disasters and accidents
+What caused Super Bowl power outage?
+3 Major Problems in Restoring Power After a Black Out Space Weather
+A. E. Motter and Y.-C. Lai, Cascade-based attacks on complex networks, Physical Review E (Rapid Communications) 66, 065102 (2002)
+How Stuff Works  Blackouts
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+Authority control
+LCCN: sh85041887
+GND: 4997345-9
+NDL: 01137850
+NewPP limit report
+Parsed by mw1212
+Cached time: 20161119052118
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.236 seconds
+Preprocessor visited node count: 1237/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 46754/2097152 bytes
+Template argument size: 1009/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.065/10.000 seconds
+Lua memory usage: 2.87 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+179.836
+1 - -total
+40.70%
+73.200
+1 - Template:Reflist
+16.05%
+28.864
+1 - Template:Cite_conference
+14.99%
+26.962
+2 - Template:Navbox
+14.13%
+25.412
+1 - Template:Electricity_generation
+12.71%
+22.848
+6 - Template:Cite_journal
+12.22%
+21.972
+1 - Template:Authority_control
+10.53%
+18.932
+1 - Template:About
+6.74%
+12.120
+1 - Template:Navbox_subgroup
+5.30%
+9.532
+1 - Template:Wikinews
+Saved in parser cache with key enwiki:pcache:idhash:296636-0!*!0!!en!4!* and timestamp 20161119052118 and revision id 749186147
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Power_outage&oldid=749186147"
+Categories: Electric power blackoutsElectric power qualityHidden categories: CS1 errors: chapter ignoredWikipedia articles with LCCN identifiersWikipedia articles with GND identifiers

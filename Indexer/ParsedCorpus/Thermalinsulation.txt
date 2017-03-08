@@ -1,0 +1,151 @@
+Thermalinsulation
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Mineral wool Insulation, 1600 dpi scan
+Thermal insulation is the reduction of heat transfer (the transfer of thermal energy between objects of differing temperature) between objects in thermal contact or in range of radiative influence. Thermal insulation can be achieved with specially engineered methods or processes, as well as with suitable object shapes and materials.
+Heat flow is an inevitable consequence of contact between objects of differing temperature. Thermal insulation provides a region of insulation in which thermal conduction is reduced or thermal radiation is reflected rather than absorbed by the lower-temperature body.
+The insulating capability of a material is measured with thermal conductivity (k). Low thermal conductivity is equivalent to high insulating capability (R-value). In thermal engineering, other important properties of insulating materials are product density () and specific heat capacity (c).
+Contents
+1 Definition
+1.1 Insulation
+2 Applications
+2.1 Clothing and natural animal insulation in birds and mammals
+2.2 Buildings
+2.3 Mechanical systems
+2.4 Spacecraft
+2.5 Automotive
+3 Factors influencing performance
+4 Calculating requirements
+5 See also
+6 References
+7 Further reading
+8 External links
+Definition[edit]
+Insulation[edit]
+Car exhausts usually require some form of heat barrier, especially high performance exhausts where a ceramic coating is often applied
+Solid materials chosen for insulation have a low thermal conductivity k, measured in watts-per-meter per kelvin (Wm1K1). As the thickness of insulation is increased, the thermal resistanceor R-valuealso increases.
+For insulated cylinders, there is a complication  a critical radius beyond which extra insulation paradoxically increases heat transfer. The convective thermal resistance is inversely proportional to the surface area and therefore the radius of the cylinder, while the thermal resistance of a cylindrical shell (the insulation layer) depends on the ratio between outside and inside radius, not on the radius itself. If the outside radius of a cylinder is doubled by applying insulation, a fixed amount of conductive resistance (equal to ln(2)/(2kL)) is added. However, at the same time, the convective resistance has been halved. Because convective resistance tends to infinity when the radius approaches zero, at small enough radiuses the decrease in convective resistance will be larger than the added conductive resistance, resulting in lower total resistance.
+This implies that adding insulation actually increases the heat transfer, until a critical radius is reached, at which point the heat transfer is at maximum. Above this critical radius, added insulation decreases the heat transfer. For insulated cylinders, the critical radius is given by the equation [1]
+r
+c
+r
+i
+t
+i
+c
+a
+l
+=
+k
+h
+{\displaystyle {r_{critical}}={k \over h}}
+This equation shows that the critical radius depends only on the heat transfer coefficient and the thermal conductivity of the insulation. If the radius of the uninsulated cylinder is larger than the critical radius for insulation, the addition of any amount of insulation will decrease heat transfer.
+Applications[edit]
+Clothing and natural animal insulation in birds and mammals[edit]
+Gases possess poor thermal conduction properties compared to liquids and solids, and thus makes a good insulation material if they can be trapped. In order to further augment the effectiveness of a gas (such as air) it may be disrupted into small cells which cannot effectively transfer heat by natural convection. Convection involves a larger bulk flow of gas driven by buoyancy and temperature differences, and it does not work well in small cells where there is little density difference to drive it.
+In order to accomplish gas cell formation in man-made thermal insulation, glass and polymer materials can be used to trap air in a foam-like structure. This principle is used industrially in building and piping insulation such as (glass wool), cellulose, rock wool, polystyrene foam (styrofoam), urethane foam, vermiculite, perlite, and cork. Trapping air is also the principle in all highly insulating clothing materials such as wool, down feathers and fleece.
+The air-trapping property is also the insulation principle employed by homeothermic animals to stay warm, for example down feathers, and insulating hair such as natural sheep's wool. In both cases the primary insulating material is air, and the polymer used for trapping the air is natural keratin protein.
+Buildings[edit]
+Main article: Building insulation
+Common insulation applications in apartment building in Ontario, Canada.
+Maintaining acceptable temperatures in buildings (by heating and cooling) uses a large proportion of global energy consumption. Building insulations also commonly use the principle of small trapped air-cells as explained above, e.g. fiberglass (specifically glass wool), cellulose, rock wool, polystyrene foam, urethane foam, vermiculite, perlite, cork, etc. For a period of time, Asbestos was also used, however, it caused health problems.
+When well insulated, a building:
+is energy-efficient, thus saving the owner money.
+provides more uniform temperatures throughout the space. There is less temperature gradient both vertically (between ankle height and head height) and horizontally from exterior walls, ceilings and windows to the interior walls, thus producing a more comfortable occupant environment when outside temperatures are extremely cold or hot.
+has minimal recurring expense. Unlike heating and cooling equipment, insulation is permanent and does not require maintenance, upkeep, or adjustment.
+lowers the carbon footprint of a building.
+Many forms of thermal insulation also reduce noise and vibration, both coming from the outside and from other rooms inside a building, thus producing a more comfortable environment.
+Window insulation film can be applied in weatherization applications to reduce incoming thermal radiation in summer and loss in winter.
+In industry, energy has to be expended to raise, lower, or maintain the temperature of objects or process fluids. If these are not insulated, this increases the energy requirements of a process, and therefore the cost and environmental impact.
+Mechanical systems[edit]
+Main article: Pipe insulation
+Thermal insulation applied to exhaust component by means of plasma spraying
+Space heating and cooling systems distribute heat throughout buildings by means of pipe or ductwork. Insulating these pipes using pipe insulation reduces energy into unoccupied rooms and prevents condensation from occurring on cold and chilled pipework.
+Pipe insulation is also used on water supply pipework to help delay pipe freezing for an acceptable length of time.
+Spacecraft[edit]
+Thermal insulation on the Huygens probe
+Cabin insulation of a Boeing 747-8 airliner
+Launch and re-entry place severe mechanical stresses on spacecraft, so the strength of an insulator is critically important (as seen by the failure of insulating foam on the Space Shuttle Columbia). Re-entry through the atmosphere generates very high temperatures due to compression of the air at high speeds. Insulators must meet demanding physical properties beyond their thermal transfer retardant properties. E.g. reinforced carbon-carbon composite nose cone and silica fiber tiles of the Space Shuttle. See also Insulative paint.
+Automotive[edit]
+Main article: Exhaust Heat Management
+Internal combustion engines produce a lot of heat during their combustion cycle. This can have a negative effect when it reaches various heat-sensitive components such as sensors, batteries and starter motors. As a result, thermal insulation is necessary to prevent the heat from the exhaust reaching these components.
+High performance cars often use thermal insulation as a means to increase engine performance.
+Factors influencing performance[edit]
+Insulation performance is influenced by many factors the most prominent of which include:
+Thermal conductivity ("k" or "" value)
+Surface emissivity ("" value)
+Insulation thickness
+Density
+Specific heat capacity
+Thermal bridging
+It is important to note that the factors influencing performance may vary over time as material ages or environmental conditions change.
+Calculating requirements[edit]
+Industry standards are often rules of thumb, developed over many years, that offset many conflicting goals: what people will pay for, manufacturing cost, local climate, traditional building practices, and varying standards of comfort. Both heat transfer and layer analysis may be performed in large industrial applications, but in household situations (appliances and building insulation), air tightness is the key in reducing heat transfer due to air leakage (forced or natural convection). Once air tightness is achieved, it has often been sufficient to choose the thickness of the insulating layer based on rules of thumb. Diminishing returns are achieved with each successive doubling of the insulating layer. It can be shown that for some systems, there is a minimum insulation thickness required for an improvement to be realized.[2]
+See also[edit]
+Thermal mass
+List of thermal conductivities
+Insulative paint
+References[edit]
+^ Bergman, Lavine, Incropera and DeWitt, Introduction to Heat Transfer (sixth edition), Wiley, 2011.
+^ Frank P. Incropera; David P. De Witt (1990). Fundamentals of Heat and Mass Transfer (3rd ed.). John Wiley & Sons. pp.100103. ISBN0-471-51729-1.
+Further reading[edit]
+US DOE publication, Residential Insulation
+US DOE publication, Energy Efficient Windows
+US EPA publication on home sealing
+DOE/CE 2002
+External links[edit]
+Wikimedia Commons has media related to Thermal insulation.
+Thermal Performance: Understanding how reflective insulation works
+Authority control
+GND: 4064200-8
+NDL: 00561253
+NewPP limit report
+Parsed by mw1277
+Cached time: 20161120222755
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.112 seconds
+Real time usage: 0.176 seconds
+Preprocessor visited node count: 358/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 6123/2097152 bytes
+Template argument size: 160/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.033/10.000 seconds
+Lua memory usage: 1.72 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+105.213
+1 - -total
+34.62%
+36.421
+1 - Template:Reflist
+29.92%
+31.482
+1 - Template:Cite_book
+24.46%
+25.737
+1 - Template:Commons_category
+23.56%
+24.788
+3 - Template:Main
+18.76%
+19.733
+1 - Template:Commons
+17.56%
+18.475
+1 - Template:Sister_project
+13.75%
+14.462
+1 - Template:Side_box
+13.25%
+13.945
+1 - Template:Authority_control
+1.81%
+1.900
+1 - Template:Refbegin
+Saved in parser cache with key enwiki:pcache:idhash:67043-0!*!0!!en!4!*!math=5 and timestamp 20161120222756 and revision id 750624793
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Thermal_insulation&oldid=750624793"
+Categories: Heat transferThermal protectionHidden categories: Commons category with page title same as on WikidataWikipedia articles with GND identifiers

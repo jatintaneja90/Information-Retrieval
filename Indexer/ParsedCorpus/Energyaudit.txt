@@ -1,0 +1,151 @@
+Energyaudit
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}An energy audit is an inspection, survey and analysis of energy flows, for energy conservation in a building, process or system to reduce the amount of energy input into the system without negatively affecting the output(s). In commercial and industrial real estate, an energy audit is the first step in identifying opportunities to reduce energy expense and carbon footprints.
+Contents
+1 Principle
+2 Home energy audit
+2.1 In the United States
+2.1.1 New York City
+2.2 In Lebanon
+3 Industrial energy audits
+4 Types of energy audit
+4.1 Benchmarking
+4.2 Walk-through (or) preliminary audit
+4.3 General audit
+4.4 Investment-grade audit
+5 Simulation-based energy audit procedure for non-residential buildings
+6 Specific audit techniques
+6.1 Infrared thermography audit
+6.2 Pollution audits
+7 History
+8 Building energy rating systems
+9 See also
+10 References
+11 Further reading
+12 External links
+Principle[edit]
+When the object of study is an occupied building then reducing energy consumption while maintaining or improving human comfort, health and safety are of primary concern. Beyond simply identifying the sources of energy use, an energy audit seeks to prioritize the energy uses according to the greatest to least cost effective opportunities for energy savings.
+Home energy audit[edit]
+A home energy audit is a service where the energy efficiency of a house is evaluated by a person using professional equipment (such as blower doors and infrared cameras), with the aim to suggest the best ways to improve energy efficiency in heating and cooling the house.
+An energy audit of a home may involve recording various characteristics of the building envelope including the walls, ceilings, floors, doors, windows, and skylights. For each of these components the area and resistance to heat flow (R-value) is measured or estimated. The leakage rate or infiltration of air through the building envelope is of concern, both of which are strongly affected by window construction and quality of door seals such as weatherstripping. The goal of this exercise is to quantify the building's overall thermal performance. The audit may also assess the efficiency, physical condition, and programming of mechanical systems such as the heating, ventilation, air conditioning equipment, and thermostat.
+A home energy audit may include a written report estimating energy use given local climate criteria, thermostat settings, roof overhang, and solar orientation. This could show energy use for a given time period, say a year, and the impact of any suggested improvements per year. The accuracy of energy estimates are greatly improved when the homeowner's billing history is available showing the quantities of electricity, natural gas, fuel oil, or other energy sources consumed over a one or two-year period.
+Some of the greatest effects on energy use are user behavior, climate, and age of the home. An energy audit may therefore include an interview of the homeowners to understand their patterns of use over time. The energy billing history from the local utility company can be calibrated using heating degree day and cooling degree day data obtained from recent, local weather data in combination with the thermal energy model of the building. Advances in computer-based thermal modeling can take into account many variables affecting energy use.
+A home energy audit is often used to identify cost effective ways to improve the comfort and efficiency of buildings. In addition, homes may qualify for energy efficiency grants from central government.
+Recently, the improvement of smartphone technology has enabled homeowners to perform relatively sophisticated energy audits of their own homes. This technique has been identified as a method to accelerate energy efficiency improvements.[1]
+In the United States[edit]
+In the United States, this kind of service can often be facilitated by:
+Public utility companies, or their energy conservation department.
+Independent, private-sector companies such as energy services company, insulation contractor, or air sealing specialist.
+(US) State energy office.
+Utility companies may provide this service, as well as loans and other incentives to insulate. They also often provide incentives to switch, for example, if you are an oil customer considering switching to natural gas.
+Where to look for insulation recommendations:
+Local building inspectors office.
+Local or state building codes.
+US Department of Energy.
+Your local Builders Association
+Residential energy auditors are accredited by the Building Performance Institute (BPI)[2] or the Residential Energy Services Network (RESNET).[3][4]
+There are also some simplified tools available, with which a homeowner can quickly assess energy improvement potential. Often these are supplied for free by state agencies or local utilities, who produce a report with estimates of usage by device/area (since they have usage information already). Examples include the Energy Trust of Oregon program[5] and the Seattle Home Resource Profile.[6] Such programs may also include free compact fluorescent lights.
+A simple do-it-yourself home energy audit can be performed without using any specialized tools. With an attentive and planned assessment, a homeowner can spot many problems that cause energy losses and make decisions about possible energy efficiency upgrades. During a home energy audit it is important to have a checklist[7] of areas that were inspected as well as problems identified. Once the audit is completed, a plan for suggested actions needs to be developed.
+New York City[edit]
+In New York City, some local laws, such as Local Law 87, require buildings larger than 50,000 sq. ft. to have an energy audit once every 10 years (as assigned by BBL number).[8] While the new laws require energy auditors to have certifications to perform this work, there currently does not exist oversight to ensure that this is the case. Because Local Law 87 requires a licensed Professional Engineer to oversee the work, choosing a well established engineering firm is the safest route. These laws are the results of New York City's PlaNYC to reduce energy used by buildings  which are the greatest source of pollution in NYC.[9] Some engineering firms provide free energy audits for facilities committed to implementing the energy saving measures found.[10]
+In Lebanon[edit]
+Since 2002, The Lebanese Center for Energy Conservation (LCEC) initiated a nationwide program on energy audits for medium and large consuming facilities. By the end of 2008, LCEC has financed and supervised more than 100 audits.
+LCEC launched an energy audit program to assist Lebanese energy consuming tertiary and public buildings and industrial plants in the management of their energy through this program.
+The long term objective of LCEC is to create a market for ESCOs, whereby any beneficiary can contact directly a specialized ESCO to conduct an energy audit, implement energy conservation measures and monitor energy saving program according to a standardized energy performance contract.
+Currently, LCEC is helping in the funding of the energy audit study and thus is linking both the beneficiary and the energy audit firm. LCEC also targets the creation of a special fund used for the implementation of the energy conservation measures resulting from the study.
+LCEC set a minimum standard for the ESCOs qualifications in Lebanon and published a list of qualified ESCOs[11] on its website.
+Industrial energy audits[edit]
+Increasingly in the last several decades, industrial energy audits have exploded as the demand to lower increasingly expensive energy costs and move towards a sustainable future have made energy audits greatly important. Their importance is magnified since energy spending is a major expense to industrial companies (energy spending accounts for ~ 10% of the average manufacturer's expenses). This growing trend should only continue as energy costs continue to rise.
+While the overall concept is similar to a home or residential energy audit, industrial energy audits require a different skillset. Weatherproofing and insulating a house are the main focus of residential energy audits. For industrial applications, it is the HVAC, lighting, and production equipment that use the most energy, and hence are the primary focus of energy audits.
+Types of energy audit[edit]
+The term energy audit is commonly used to describe a broad spectrum of energy studies ranging from a quick walk-through of a facility to identify major problem areas to a comprehensive analysis of the implications of alternative energy efficiency measures sufficient to satisfy the financial criteria of sophisticated investors. Numerous audit procedures have been developed for non-residential (tertiary) buildings (ASHRAE;[12] IEA-EBC Annex 11;[13] Krarti, 2000). Audit is required to identify the most efficient and cost-effective Energy Conservation Opportunities (ECOs) or Measures (ECMs). Energy conservation opportunities (or measures) can consist in more efficient use or of partial or global replacement of the existing installation.
+When looking to the existing audit methodologies developed in IEA EBC Annex 11, by ASHRAE and by Krarti (2000), it appears that the main issues of an audit process are:
+The analysis of building and utility data, including study of the installed equipment and analysis of energy bills;
+The survey of the real operating conditions;
+The understanding of the building behaviour and of the interactions with weather, occupancy and operating schedules;
+The selection and the evaluation of energy conservation measures;
+The estimation of energy saving potential;
+The identification of customer concerns and needs.
+Common types/levels of energy audits are distinguished below, although the actual tasks performed and level of effort may vary with the consultant providing services under these broad headings. The only way to ensure that a proposed audit will meet your specific needs is to spell out those requirements in a detailed scope of work. Taking the time to prepare a formal solicitation will also assure the building owner of receiving competitive and comparable proposals.
+Generally, four levels of analysis can be outlined (ASHRAE):
+Level 0  Benchmarking: This first analysis consists in a preliminary Whole Building Energy Use (WBEU) analysis based on the analysis of the historic utility use and costs and the comparison of the performances of the buildings to those of similar buildings. This benchmarking of the studied installation allows determining if further analysis is required;
+Level I  Walk-through audit: Preliminary analysis made to assess building energy efficiency to identify not only simple and low-cost improvements but also a list of energy conservation measures (ECMs, or energy conservation opportunities, ECOs) to orient the future detailed audit. This inspection is based on visual verifications, study of installed equipment and operating data and detailed analysis of recorded energy consumption collected during the benchmarking phase;
+Level II  Detailed/General energy audit: Based on the results of the pre-audit, this type of energy audit consists in energy use survey in order to provide a comprehensive analysis of the studied installation, a more detailed analysis of the facility, a breakdown of the energy use and a first quantitative evaluation of the ECOs/ECMs selected to correct the defects or improve the existing installation. This level of analysis can involve advanced on-site measurements and sophisticated computer based simulation tools to evaluate precisely the selected energy retrofits;
+Level III  Investment-Grade audit: Detailed Analysis of Capital-Intensive Modifications focusing on potential costly ECOs requiring rigorous engineering study.
+Benchmarking[edit]
+The impossibility of describing all possible situations that might be encountered during an audit means that it is necessary to find a way of describing what constitutes good, average and bad energy performance across a range of situations. The aim of benchmarking is to answer this question. Benchmarking mainly consists in comparing the measured consumption with reference consumption of other similar buildings or generated by simulation tools to identify excessive or unacceptable running costs. As mentioned before, benchmarking is also necessary to identify buildings presenting interesting energy saving potential. An important issue in benchmarking is the use of performance indexes to characterize the building.
+These indexes can be:
+Comfort indexes, comparing the actual comfort conditions to the comfort requirements;
+Energy indexes, consisting in energy demands divided by heated/conditioned area, allowing comparison with reference values of the indexes coming from regulation or similar buildings;
+Energy demands, directly compared to reference energy demands generated by means of simulation tools.
+Walk-through (or) preliminary audit[edit]
+The preliminary audit (alternatively called a simple audit, screening audit or walk-through audit) is the simplest and quickest type of audit. It involves minimal interviews with site-operating personnel, a brief review of facility utility bills and other operating data, and a walk-through of the facility to become familiar with the building operation and to identify any glaring areas of energy waste or inefficiency.
+Typically, only major problem areas will be covered during this type of audit. Corrective measures are briefly described, and quick estimates of implementation cost, potential operating cost savings, and simple payback periods are provided. A list of energy conservation measures (ECMs, or energy conservation opportunities, ECOs) requiring further consideration is also provided. This level of detail, while not sufficient for reaching a final decision on implementing proposed measure, is adequate to prioritize energy-efficiency projects and to determine the need for a more detailed audit.
+General audit[edit]
+The general audit (alternatively called a mini-audit, site energy audit or detailed energy audit or complete site energy audit) expands on the preliminary audit described above by collecting more detailed information about facility operation and by performing a more detailed evaluation of energy conservation measures. Utility bills are collected for a 12- to 36-month period to allow the auditor to evaluate the facility's energy demand rate structures and energy usage profiles. If interval meter data is available, the detailed energy profiles that such data makes possible will typically be analyzed for signs of energy waste.[14] Additional metering of specific energy-consuming systems is often performed to supplement utility data. In-depth interviews with facility operating personnel are conducted to provide a better understanding of major energy consuming systems and to gain insight into short and longer term energy consumption patterns. This type of audit will be able to identify all energy-conservation measures appropriate for the facility, given its operating parameters. A detailed financial analysis is performed for each measure based on detailed implementation cost estimates, site-specific operating cost savings, and the customer's investment criteria. Sufficient detail is provided to justify project implementation. The evolution of cloud-based energy auditing software platforms is enabling the managers of commercial buildings to collaborate with general and specialty trades contractors in performing general and energy system-specific audits.[15] The benefit of software-enabled collaboration is the ability to identify the full range of energy efficiency options that may be applicable to the specific building under study with "live time" cost and benefit estimates supplied by local contractors.
+Investment-grade audit[edit]
+In most corporate settings, upgrades to a facility's energy infrastructure must compete for capital funding with non-energy-related investments. Both energy and non-energy investments are rated on a single set of financial criteria that generally stress the expected return on investment (ROI). The projected operating savings from the implementation of energy projects must be developed such that they provide a high level of confidence. In fact, investors often demand guaranteed savings. The investment-grade audit expands on the detailed audit described above and relies on a complete engineering study in order to detail technical and economical issues necessary to justify the investment related to the transformations.
+Simulation-based energy audit procedure for non-residential buildings[edit]
+A complete audit procedure, very similar to the ones proposed by ASHRAE and Krarti (2000), has been proposed in the frame of the AUDITAC[16] and HARMONAC[17] projects to help in the implementation of the EPB (Energy Performance of Buildings) directive in Europe and to fit to the current European market.
+The following procedure proposes to make an intensive use of modern BES tools at each step of the audit process, from benchmarking to detailed audit and financial study:
+Benchmarking stage: While normalization is required to allow comparison between data recorded on the studied installation and reference values deduced from case studies or statistics. The use of simulation models, to perform a code-compliant simulation of the installation under study, allows to assess directly the studied installation, without any normalization needed. Indeed, applying a simulation-based benchmarking tool allows an individual normalization and allows avoiding size and climate normalization.[18]
+Preliminary audit stage: Global monthly consumptions are generally insufficient to allow an accurate understanding of the buildings behaviour. Even if the analysis of the energy bills does not allow identifying with accuracy the different energy consumers present in the facility, the consumption records can be used to calibrate building and system simulation models. To assess the existing system and to simulate correctly the buildings thermal behaviour, the simulation model has to be calibrated on the studied installation. The iterations needed to perform the calibration of the model can also be fully integrated in the audit process and help in identifying required measurements and critical issues.[19]
+Detailed audit stage: At this stage, on-site measurements, sub-metering and monitoring data are used to refine the calibration of the BES tool. Extensive attention is given to understanding not only the operating characteristics of all energy consuming systems, but also situations that cause load profile variations on short and longer term bases (e.g. daily, weekly, monthly, annual). When the calibration criteria is satisfied, the savings related to the selected ECOs/ECMs can be quantified.[20]
+Investment-grade audit stage: At this stage, the results provided by the calibrated BES tool can be used to assess the selected ECOs/ECMs and orient the detailed engineering study.
+Specific audit techniques[edit]
+Infrared thermography audit[edit]
+The advent of high resolution thermography has enabled inspectors to identify potential issues within the building envelope by taking a thermal image of the various surfaces of a building. For purposes of an energy audit, the thermographer will analyze the patterns within the surface temperatures to identify heat transfer through convection, radiation, or conduction. It is important to note that the thermography ONLY identifies SURFACE temperatures, and analysis must be applied to determine the reasons for the patterns within the surface temperatures. Thermal analysis of a home generally costs between 300 and 600 dollars.
+For those who cannot afford a thermal inspection, it is possible to get a general feel for the heat loss with a non contact infrared thermometer and several sheets of reflective insulation. The method involves measuring the temperatures on the inside surfaces of several exterior walls to establish baseline temperatures. After this, reflective barrier insulation is taped securely to the walls in 8-foot (2.4m) by 1.5-foot (0.46m) strips and the temperatures are measured in the center of the insulated areas at 1 hour intervals for 12 hours (The reflective barrier is pulled away from the wall to measure the temperature in the center of the area which it has covered.). The best manner in which to do this is when the temperature differential (Delta T) between the inside and outside of the structure is at least 40 degrees. A well insulated wall will commonly change approximately 1 degree per hour if the difference between external and internal temperatures is an average of 40 degrees. A poorly insulated wall can drop as much as 10 degrees in an hour.
+Pollution audits[edit]
+With increases in carbon dioxide emissions or other greenhouse gases, pollution audits are now a prominent factor in most energy audits. Implementing energy efficient technologies help prevent utility generated pollution.
+Online pollution and emission calculators can help approximate the emissions of other prominent air pollutants in addition to carbon dioxide.
+Pollution audits generally take electricity and heating fuel consumption numbers over a two-year period and provide approximations for carbon dioxide, VOCs, nitrous oxides, carbon monoxide, sulfur dioxide, mercury, cadmium, lead, mercury compounds, cadmium compounds and lead compounds.
+History[edit]
+Energy audits initially became popular in response to the energy crisis of 1973 and later years. Interest in energy audits has recently increased as a result of growing understanding of human impact upon global warming and climate change. Energy audits are also popular due to financial incentives for homeowners.[21]
+Building energy rating systems[edit]
+Australia  House Energy Rating
+Canada  EnerGuide
+UK  National Home Energy Rating
+US  Home energy rating
+See also[edit]
+Efficient energy use
+Energy Efficiency Implementation
+Energy recovery
+Heat recovery ventilation
+Home performance
+Pinch analysis
+Utility bill audit
+References[edit]
+^ Patrick Leslie, Joshua Pearce, Rob Harrap, Sylvie Daniel, The application of smartphone technology to economic and environmental analysis of building energy conservation strategies, International Journal of Sustainable Energy 31(5), pp. 295-311 (2012). open access
+^ "BPI Certifications - Certifications for Skilled, Advanced Home Energy, Entry Level Practitioner, and Multi-Family Building professionals". Retrieved 30 June 2015.
+^ "Home Energy Rating System Program (HERS)". Energy.ca.gov. Retrieved 2012-03-29.
+^ "Home Energy Rating System". Southface.org. Retrieved 2012-03-29.
+^ "Energy Trust of Oregon". Energytrust.org. Retrieved 2012-07-26.
+^ "Seattle City Light/Seattle Public Utilities Home Resources Profile". Seattle.gov. Retrieved 2012-07-26.
+^ "Boost Your Home's Energy Efficiency: DIY Energy Audit Checklist". Retrieved 30 June 2015.
+^ "GBEE - Greener, Greater Buildings Plan - LL87: Energy Audits & Retro-commissioning". Retrieved 30 June 2015.
+^ http://www.nyc.gov/html/planyc2030/downloads/pdf/ll87of2009_audits_and_retro-commissioning.pdf
+^ "Power Concepts Energy Division - Home Page". Retrieved 30 June 2015.
+^ "LCEC". Lcecp.org.lb. Retrieved 2012-07-26.
+^ "ASHRAE Audit Procedures". Techstreet.com. Retrieved 2012-03-29.
+^ "IEA EBC Annex 11". iea-ebc.org. Retrieved 2012-03-29.
+^ "How to Use Energy Profiles to Find Energy Waste". Energylens.com. 2005-05-30. Retrieved 2012-03-29.
+^ "EnergyActio". EnergyActio.com. 2013-05-30. Retrieved 2013-06-01.
+^ "Auditac". Cardiff.ac.uk. Retrieved 2012-03-29.
+^ "harmonac.info". harmonac.info. Retrieved 2012-08-01.
+^ "Simulation of a building and its HVAC system with an equation solver. Application to benchmarking". Missing or empty |url= (help)
+^ "Development of an Evidence-based Calibration Methodology Dedicated to Energy Audit of Office Buildings. Methodology and Modeling". Missing or empty |url= (help)
+^ "Simulation of a building and its HVAC system: Application to audit". Missing or empty |url= (help)
+^ "For Homeowners: ENERGY STAR". Retrieved 30 June 2015.
+Further reading[edit]
+Wulfinghoff, Donald. (2000). Energy Efficiency Manual. Energy Institute Press. ISBN 0-9657926-7-6
+Clark, William. (1998) Retrofitting for energy conservation. Mc Graw Hill. ISBN 0-07-011920-1
+Thumann, Albert. (2012). Handbook of Energy Audits. 9th Edition. The Fairmont Press. ISBN 0-88173-685-6
+Krarti, M. (2000). Energy audit of building systems: an engineering approach. CRC Press. ISBN 0-8493-9587-9
+External links[edit]
+Energy Star: Home Energy Audits
+US Department of Energy: Energy Efficiency
+Saved in parser cache with key enwiki:pcache:idhash:9728715-0!*!0!!en!*!* and timestamp 20161117072301 and revision id 747958270
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Energy_audit&oldid=747958270"
+Categories: Energy conservationEnergy efficiencyHidden categories: Pages using web citations with no URLPages using ISBN magic links

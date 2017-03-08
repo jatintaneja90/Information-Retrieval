@@ -1,0 +1,287 @@
+Moltencarbonatefuelcell
+From Wikipedia, the free encyclopedia
+(Redirected from Molten-carbonate fuel cell)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article or section may have been copied and pasted from http://energy.gov/eere/fuelcells/types-fuel-cells#molten(DupDet CopyVios), possibly in violation of Wikipedia's copyright policy. Please remedy this by editing this article to remove any non-free copyrighted content and attributing free content correctly, or flagging the content for deletion. Please be sure that the supposed source of the copyright violation is not itself a Wikipedia mirror. (December 2014)
+Scheme of a molten-carbonate fuel cell
+Molten-carbonate fuel cells (MCFCs) are high-temperature fuel cells that operate at temperatures of 600C and above.
+Molten carbonate fuel cells (MCFCs) are currently being developed for natural gas, biogas (produced as a result of anaerobic digestion or biomass gasification), and coal-based power plants for electrical utility, industrial, and military applications. MCFCs are high-temperature fuel cells that use an electrolyte composed of a molten carbonate salt mixture suspended in a porous, chemically inert ceramic matrix of beta-alumina solid electrolyte (BASE). Since they operate at extremely high temperatures of 650C (roughly 1,200F) and above, non-precious[dubious  discuss] metals can be used as catalysts at the anode and cathode, reducing costs.
+Improved efficiency is another reason MCFCs offer significant cost reductions over phosphoric acid fuel cells (PAFCs). Molten carbonate fuel cells can reach efficiencies approaching 60%, considerably higher than the 3742% efficiencies of a phosphoric acid fuel cell plant. When the waste heat is captured and used, overall fuel efficiencies can be as high as 85%.
+Unlike alkaline, phosphoric acid, and polymer electrolyte membrane fuel cells, MCFCs don't require an external reformer to convert more energy-dense fuels to hydrogen. Due to the high temperatures at which MCFCs operate, these fuels are converted to hydrogen within the fuel cell itself by a process called internal reforming, which also reduces cost.
+Molten carbonate fuel cells are not prone to poisoning by carbon monoxide or carbon dioxide  they can even use carbon oxides as fuel  making them more attractive for fueling with gases made from coal. Because they are more resistant to impurities than other fuel cell types, scientists believe that they could even be capable of internal reforming of coal, assuming they can be made resistant to impurities such as sulfur and particulates that result from converting coal, a dirtier fossil fuel source than many others, into hydrogen. Alternatively, because MCFCs require CO2 be delivered to the cathode along with the oxidizer, they can be used to electrochemically separate carbon dioxide from the flue gas of other fossil fuel power plants for sequestration.
+The primary disadvantage of current MCFC technology is durability. The high temperatures at which these cells operate and the corrosive electrolyte used accelerate component breakdown and corrosion, decreasing cell life. Scientists are currently exploring corrosion-resistant materials for components as well as fuel cell designs that increase cell life without decreasing performance.
+Contents
+1 Operation
+1.1 Background
+1.2 Reactions[4]
+1.3 Materials
+1.3.1 Anode
+1.3.2 Cathode
+1.3.3 Electrolyte
+2 MTU fuel cell
+3 See also
+4 References
+5 Sources
+6 External links
+Operation[edit]
+Background[edit]
+Molten carbonate FC's are a recently developed type of fuel cell that targets small and large energy distribution/generation systems since their power production is in the 0.3-3 MW range.[1] The operating pressure is between 1-8 atm while the temperatures are between 600-700 oC.[2] Due to the production of CO2 during reforming of the fossil fuel (methane, natural gas), MCFCs are not a completely green technology, but are promising due to their reliability and efficiency (sufficient heat for co-generation with electricity). Current MCFC efficiencies range from 60-70%.[3]
+Reactions[4][edit]
+Internal Reformer:
+C
+H
+4
++
+H
+2
+O
+=
+3
+H
+2
++
+C
+O
+{\displaystyle CH_{4}+H_{2}O=3H_{2}+CO}
+Anode:
+H
+2
++
+C
+O
+3
+=
+=
+H
+2
+O
++
+C
+O
+2
++
+2
+e
+ 
+{\displaystyle H_{2}+CO_{3}^{=}=H_{2}O+CO_{2}+2e^{-}}
+Cathode:
+1
+2
+O
+2
++
+C
+O
+2
++
+2
+e
+ 
+=
+C
+O
+3
+=
+{\displaystyle {\frac {1}{2}}O_{2}+CO_{2}+2e^{-}=CO_{3}^{=}}
+Cell:
+H
+2
++
+1
+2
+O
+2
++
+C
+O
+2
+=
+H
+2
+O
++
+C
+O
+2
+{\displaystyle H_{2}+{\frac {1}{2}}O_{2}+CO_{2}=H_{2}O+CO_{2}}
+Nernst Equation:
+E
+=
+E
+o
++
+R
+T
+2
+F
+l
+o
+g
+P
+H
+2
+P
+O
+2
+1
+2
+P
+H
+2
+O
++
+R
+T
+2
+F
+l
+o
+g
+P
+C
+O
+2
+,
+c
+a
+t
+h
+o
+d
+e
+P
+C
+O
+2
+,
+a
+n
+o
+d
+e
+{\displaystyle E=E^{o}+{\frac {RT}{2F}}log{\frac {P_{H_{2}}P_{O_{2}}^{\frac {1}{2}}}{P_{H_{2}O}}}+{\frac {RT}{2F}}log{\frac {P_{CO_{2},cathode}}{P_{CO_{2},anode}}}}
+Materials[edit]
+Due to the high operating temperatures of MCFCs, the materials need to be very carefully selected to survive the conditions present within the cell. The following sections cover the various materials present in the fuel cell and recent developments in research.
+Anode[edit]
+The anode material typically consists of a porous (3-6 m, 45-70% material porosity) Ni based alloy. Ni is alloyed with either Chromium or Aluminum in the 2-10% range. These alloying elements allow for formation of LiCrO2/LiAlO2 at the grain boundaries, which increases the materials' creep resistance and prevents sintering of the anode at the high operating temperatures of the fuel cell.[5] Recent research has looked at using nano Ni and other Ni alloys to increase the performance and decrease the operating temperature of the fuel cell.[6] A reduction in operating temperature would extend the lifetime of the fuel cell (i.e. decrease corrosion rate) and allow for use of cheaper component materials. At the same time, a decrease in temperature would decrease ionic conductivity of the electrolyte and thus, the anode materials need to compensate for this performance decline (e.g. by increasing power density). Other researchers have looked into enhancing creep resistance by using a Ni3Al alloy anode to reduce mass transport of Ni in the anode when in operation.[7]
+Cathode[edit]
+On the other side of the cell, the cathode material is composed of a porous Ni that is converted to a lithiated nickel oxide (lithium is intercalated within the NiO crystal structure). The pore size within the cathode is in the range of 7-15 m with 60-70% of the material being porous.[8] The primary issue with the cathode material is dissolution of NiO since it reacts with CO2 when the cathode is in contact with the carbonate electrolyte. This dissolution leads to precipitation of Ni metal in the electrolyte and since it is electrically conductive, the fuel cell can get short circuited. Therefore, current studies have looked into the addition of MgO to the NiO cathode to limit this dissolution.[9] Magnesium oxide serves to reduce the solubility of Ni2+ in the cathode and decreases precipitation in the electrolyte. Alternatively, replacement of the conventional cathode material with a LiFeO2-LiCoO2-NiO alloy has shown promising performance results and almost completely avoids the problem of Ni dissolution of the cathode.[9]
+Electrolyte[edit]
+MCFCs use a liquid electrolyte (molten carbonate) which consists of a sodium(Na) and potassium(K) carbonate. This electrolyte is supported by a ceramic (LiAlO2) matrix to contain the liquid between the electrodes. The high temperatures of the fuel cell is required to produce sufficient ionic conductivity of oxygen through this electrolyte.[2] Common MCFC electrolytes contain 62% Li2CO3 and 38% K2CO3.[10] A greater fraction of Li carbonate is used due to its higher ionic conductivity but is limited to 62% due to its lower gas solubility and ionic diffusivity of oxygen. In addition, Li2CO3 is a very corrosive electrolyte and this ratio of carbonates provides the lowest corrosion rate. Due to these issues, recent studies have delved into replacing the potassium carbonate with a sodium carbonate.[11] A Li/Na electrolyte has shown to have better performance (higher conductivity) and improves the stability of the cathode when compared to a Li/K electrolyte (Li/K is more basic). In addition, scientists have also looked into modifying the matrix of the electrolyte to prevent issues such as phase changes (-LiAlO2 to -LiAlO2) in the material during cell operation. The phase change accompanies a volume decrease in the electrolyte which leads to lower ionic conductivity. Through various studies, it has been found that an alumina doped -LiAlO2 matrix would improve the phase stability while maintaining the fuel cell's performance.[11]
+MTU fuel cell[edit]
+The German company MTU Friedrichshafen presented an MCFC at the Hannover Fair in 2006. The unit weighs 2 tonnes and can produce 240kW of electric power from various gaseous fuels, including biogas. If fueled by fuels that contain carbon such as natural gas, the exhaust will contain CO2 but will be reduced by up to 50% compared to diesel engines running on marine bunker fuel.[12] The exhaust temperature is 400C, hot enough to be used for many industrial processes. Another possibility is to make more electric power via a steam turbine. Depending on feed gas type, the electric efficiency is between 12% and 19%. A steam turbine can increase the efficiency by up to 24%. The unit can be used for cogeneration.
+See also[edit]
+Energy portal
+Sustainable development portal
+Glossary of fuel cell terms
+Hydrogen technologies
+References[edit]
+^ "Types of Fuel Cells - Fuel Cell Energy". www.fuelcellenergy.com. Retrieved 2015-11-02.
+^ a b "NFCRC Tutorial: Molten Carbonate Fuel Cell (MCFC)". www.nfcrc.uci.edu. Retrieved 2015-11-02.
+^ "Types of Fuel Cells | Department of Energy". energy.gov. Retrieved 2015-11-02.
+^ "High Temperature Fuel Cells" (PDF). University of Babylon. Retrieved 1 November 2015.
+^ Boden, Andreas (2007). "The anode and the electrolyte in the MCFC" (PDF). Diva Portal. Retrieved 1 November 2015.
+^ Nguyen, Hoang Viet Phuc; Othman, Mohd Roslee; Seo, Dongho; Yoon, Sung Pil; Ham, Hyung Chul; Nam, Suk Woo; Han, Jonghee; Kim, Jinsoo (2014-08-04). "Nano Ni layered anode for enhanced MCFC performance at reduced operating temperature". International Journal of Hydrogen Energy. 39 (23): 1228512290. doi:10.1016/j.ijhydene.2014.03.253.
+^ Kim, Yun-Sung; Lim, Jun-Heok; Chun, Hai-Soo (2006-01-01). "Creep mechanism of porous MCFC Ni anodes strengthened by Ni3Al". AIChE Journal. 52 (1): 359365. doi:10.1002/aic.10630. ISSN1547-5905.
+^ Wijayasinghe, Athula (2004). "Development and Characterisation of Cathode Materials for the Molten Carbonate Fuel Cell" (PDF). Retrieved 2 November 2015.
+^ a b Antolini, Ermete. "The stability of molten carbonate fuel cell electrodes: A review of recent improvements". Applied Energy. 88 (12): 42744293. doi:10.1016/j.apenergy.2011.07.009.
+^ Fang, Baizeng; Liu, Xinyu; Wang, Xindong; Duan, Shuzhen (1998-01-15). "The mechanism of surface modification of a MCFC anode". Journal of Electroanalytical Chemistry. 441 (12): 6568. doi:10.1016/S0022-0728(97)00202-7.
+^ a b Kulkarni, A.; Giddey, S. (2012-06-08). "Materials issues and recent developments in molten carbonate fuel cells". Journal of Solid State Electrochemistry. 16 (10): 31233146. doi:10.1007/s10008-012-1771-y. ISSN1432-8488.
+^ MCFC emission
+Sources[edit]
+http://www.eere.energy.gov/hydrogenandfuelcells/fuelcells/fc_types.html#molten
+External links[edit]
+LLNL: The Carbon/Air Fuel Cell Conversion of Coal-Derived Carbons
+DoD
+MTU 240kW fuel cell presented on the Hannover Fair 2006
+Logan Energy Limited integrate, install and operate all fuel cell technologies
+[1] molten carbonate fuel cells distributed generation challenge
+[2] presentation to Fourth Annual Conference on Carbon Capture and Sequestration
+v
+t
+e
+Fuel cells
+By electrolyte
+Alkaline fuel cell
+Molten carbonate fuel cell
+Phosphoric acid fuel cell
+Proton exchange membrane fuel cell
+Solid oxide fuel cell
+By fuel
+Direct-ethanol fuel cell
+Direct methanol fuel cell
+Formic acid fuel cell
+Reformed methanol fuel cell
+Zinc-air battery
+Biofuel cells
+Enzymatic biofuel cell
+Microbial fuel cell
+Others
+Blue energy
+Direct borohydride fuel cell
+Direct carbon fuel cell
+Electro-galvanic fuel cell
+Flow battery
+Membraneless Fuel Cells
+Metal hydride fuel cell
+Photoelectrochemical cell
+Protonic ceramic fuel cell
+Regenerative fuel cell
+Solid oxide electrolyser cell
+Unitized regenerative fuel cell
+Hydrogen
+Economy
+Storage
+Station
+Vehicle
+Glossary
+NewPP limit report
+Parsed by mw1175
+Cached time: 20161120062231
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.968 seconds
+Preprocessor visited node count: 1012/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 44419/2097152 bytes
+Template argument size: 1760/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 2/500
+Lua time usage: 0.099/10.000 seconds
+Lua memory usage: 3.71 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+407.996
+1 - -total
+31.21%
+127.318
+1 - Template:Portal
+24.55%
+100.177
+1 - Template:Reflist
+22.04%
+89.931
+1 - Template:Fuel_cells
+21.63%
+88.264
+1 - Template:Navbox
+13.36%
+54.502
+1 - Template:Copypaste
+12.72%
+51.893
+6 - Template:Cite_web
+9.48%
+38.685
+1 - Template:Ambox
+6.50%
+26.513
+5 - Template:Cite_journal
+6.10%
+24.905
+1 - Template:Dubious
+Saved in parser cache with key enwiki:pcache:idhash:1049637-0!*!0!!en!4!*!math=5 and timestamp 20161120062230 and revision id 737647038
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Molten_carbonate_fuel_cell&oldid=737647038"
+Categories: Fuel cellsHidden categories: Copied and pasted articles and sections with url provided from December 2014All copied and pasted articles and sectionsAll accuracy disputesArticles with disputed statements from October 2014

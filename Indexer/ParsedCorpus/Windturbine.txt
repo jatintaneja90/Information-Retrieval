@@ -1,0 +1,443 @@
+Windturbine
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about wind-powered electrical generators. For wind-powered machinery used to grind grain or pump water, see Windmill and Windpump.
+Offshore wind farm, using 5 MW turbines REpower 5M in the North Sea off the coast of Belgium.
+Part of a series on
+Renewable energy
+Biofuel
+Biomass
+Geothermal
+Hydropower
+Solar energy
+Tidal power
+Wave power
+Wind power
+Topics by country
+100% renewable energy
+Marketing and policy trends
+v
+t
+e
+A wind turbine is a device that converts the wind's kinetic energy into electrical power.
+Wind turbines are manufactured in a wide range of vertical and horizontal axis types. The smallest turbines are used for applications such as battery charging for auxiliary power for boats or caravans or to power traffic warning signs. Slightly larger turbines can be used for making contributions to a domestic power supply while selling unused power back to the utility supplier via the electrical grid. Arrays of large turbines, known as wind farms, are becoming an increasingly important source of intermittent renewable energy and are used by many countries as part of a strategy to reduce their reliance on fossil fuels.
+Contents
+1 History
+2 Resources
+3 Efficiency
+4 Types
+4.1 Horizontal axis
+4.2 Vertical axis
+5 Design and construction
+5.1 Unconventional designs
+5.2 Turbine monitoring and diagnostics
+6 Materials and durability
+7 Wind turbines on public display
+8 Small wind turbines
+9 Wind turbine spacing
+10 Operability
+10.1 Maintenance
+10.2 Repowering
+10.3 Demolition
+11 Records
+12 See also
+13 References
+14 Further reading
+15 External links
+History[edit]
+Main article: History of wind power
+James Blyth's electricity-generating wind turbine, photographed in 1891
+Windmills were used in Persia (present-day Iran) about 500-900 A.D.[1] The windwheel of Hero of Alexandria marks one of the first known instances of wind powering a machine in history.[2][3] However, the first known practical windmills were built in Sistan, an Eastern province of Iran, from the 7th century. These "Panemone" were vertical axle windmills, which had long vertical drive shafts with rectangular blades.[4] Made of six to twelve sails covered in reed matting or cloth material, these windmills were used to grind grain or draw up water, and were used in the gristmilling and sugarcane industries.[5]
+Windmills first appeared in Europe during the Middle Ages. The first historical records of their use in England date to the 11th or 12th centuries and there are reports of German crusaders taking their windmill-making skills to Syria around 1190.[6] By the 14th century, Dutch windmills were in use to drain areas of the Rhine delta. Advanced wind mills were described by Croatian inventor Fausto Veranzio. In his book Machinae Novae (1595) he described vertical axis wind turbines with curved or V-shaped blades.
+The first electricity-generating wind turbine was a battery charging machine installed in July 1887 by Scottish academic James Blyth to light his holiday home in Marykirk, Scotland.[7] Some months later American inventor Charles F. Brush was able to build the first automatically operated wind turbine after consulting local University professors and colleagues Jacob S. Gibbs and Brinsley Coleberd and successfully getting the blueprints peer-reviewed for electricity production in Cleveland, Ohio.[7] Although Blyth's turbine was considered uneconomical in the United Kingdom[7] electricity generation by wind turbines was more cost effective in countries with widely scattered populations.[6]
+The first automatically operated wind turbine, built in Cleveland in 1887 by Charles F. Brush. It was 60 feet (18m) tall, weighed 4 tons (3.6 metric tonnes) and powered a 12kW generator.[8]
+In Denmark by 1900, there were about 2500 windmills for mechanical loads such as pumps and mills, producing an estimated combined peak power of about 30 MW. The largest machines were on 24-meter (79ft) towers with four-bladed 23-meter (75ft) diameter rotors. By 1908 there were 72 wind-driven electric generators operating in the United States from 5kW to 25kW. Around the time of World War I, American windmill makers were producing 100,000 farm windmills each year, mostly for water-pumping.[9]
+By the 1930s, wind generators for electricity were common on farms, mostly in the United States where distribution systems had not yet been installed. In this period, high-tensile steel was cheap, and the generators were placed atop prefabricated open steel lattice towers.
+A forerunner of modern horizontal-axis wind generators was in service at Yalta, USSR in 1931. This was a 100kW generator on a 30-meter (98ft) tower, connected to the local 6.3kV distribution system. It was reported to have an annual capacity factor of 32 percent, not much different from current wind machines.[10]
+In the autumn of 1941, the first megawatt-class wind turbine was synchronized to a utility grid in Vermont. The Smith-Putnam wind turbine only ran for 1,100 hours before suffering a critical failure. The unit was not repaired, because of shortage of materials during the war.
+The first utility grid-connected wind turbine to operate in the UK was built by John Brown & Company in 1951 in the Orkney Islands.[7][11]
+Despite these diverse developments, developments in fossil fuel systems almost entirely eliminated any wind turbine systems larger than supermicro size. In the early 1970s, however, anti-nuclear protests in Denmark spurred artisan mechanics to develop microturbines of 22kW. Organizing owners into associations and co-operatives lead to the lobbying of the government and utilities and provided incentives for larger turbines throughout the 1980s and later. Local activists in Germany, nascent turbine manufacturers in Spain, and large investors in the United States in the early 1990s then lobbied for policies that stimulated the industry in those countries. Later companies formed in India and China. As of 2012, Danish company Vestas is the world's biggest wind-turbine manufacturer.
+Resources[edit]
+Main article: Wind power
+Wind turbine in Germany
+A quantitative measure of the wind energy available at any location is called the Wind Power Density (WPD). It is a calculation of the mean annual power available per square meter of swept area of a turbine, and is tabulated for different heights above ground. Calculation of wind power density includes the effect of wind velocity and air density. Color-coded maps are prepared for a particular area described, for example, as "Mean Annual Power Density at 50 Metres". In the United States, the results of the above calculation are included in an index developed by the National Renewable Energy Laboratory and referred to as "NREL CLASS". The larger the WPD, the higher it is rated by class. Classes range from Class 1 (200 watts per square meter or less at 50m altitude) to Class 7 (800 to 2000 watts per square m). Commercial wind farms generally are sited in Class 3 or higher areas, although isolated points in an otherwise Class 1 area may be practical to exploit.[12]
+Wind turbines are classified by the wind speed they are designed for, from class I to class IV, with A or B referring to the turbulence.[13]
+Class
+Avg Wind Speed (m/s)
+Turbulence
+IA
+10
+18%
+IB
+10
+16%
+IIA
+8.5
+18%
+IIB
+8.5
+16%
+IIIA
+7.5
+18%
+IIIB
+7.5
+16%
+IVA
+6
+18%
+IVB
+6
+16%
+Efficiency[edit]
+Not all the energy of blowing wind can be used, but some small wind turbines are designed to work at low wind speeds.[14]
+Conservation of mass requires that the amount of air entering and exiting a turbine must be equal. Accordingly, Betz's law gives the maximal achievable extraction of wind power by a wind turbine as 16/27 (59.3%) of the total kinetic energy of the air flowing through the turbine.[15]
+The maximum theoretical power output of a wind machine is thus 0.59 times the kinetic energy of the air passing through the effective disk area of the machine. If the effective area of the disk is A, and the wind velocity v, the maximum theoretical power output P is:
+P
+=
+0.59
+1
+2
+ 
+v
+3
+A
+{\displaystyle P=0.59{\frac {1}{2}}\rho v^{3}A}
+where  is air density
+As wind is free (no fuel cost), wind-to-rotor efficiency (including rotor blade friction and drag) is one of many aspects impacting the final price of wind power.[16] Further inefficiencies, such as gearbox losses, generator and converter losses, reduce the power delivered by a wind turbine. To protect components from undue wear, extracted power is held constant above the rated operating speed as theoretical power increases at the cube of wind speed, further reducing theoretical efficiency. In 2001, commercial utility-connected turbines deliver 75% to 80% of the Betz limit of power extractable from the wind, at rated operating speed.[17][18][needs update]
+Efficiency can decrease slightly over time due to wear. Analysis of 3128 wind turbines older than 10 years in Denmark showed that half of the turbines had no decrease, while the other half saw a production decrease of 1.2% per year.[19] Vertical turbine designs have much lower efficiency than standard horizontal designs.[20]
+Types[edit]
+The three primary types: VAWT Savonius, HAWT towered; VAWT Darrieus as they appear in operation
+Wind turbines can rotate about either a horizontal or a vertical axis, the former being both older and more common.[21] They can also include blades (transparent or not)[22] or be bladeless.[23] Vertical designs produce less power and are less common.[24]
+Horizontal axis[edit]
+Components of a horizontal axis wind turbine (gearbox, rotor shaft and brake assembly) being lifted into position
+A turbine blade convoy passing through Edenfield, UK
+Horizontal-axis wind turbines (HAWT) have the main rotor shaft and electrical generator at the top of a tower, and must be pointed into the wind. Small turbines are pointed by a simple wind vane, while large turbines generally use a wind sensor coupled with a servo motor. Most have a gearbox, which turns the slow rotation of the blades into a quicker rotation that is more suitable to drive an electrical generator.[25]
+Since a tower produces turbulence behind it, the turbine is usually positioned upwind of its supporting tower. Turbine blades are made stiff to prevent the blades from being pushed into the tower by high winds. Additionally, the blades are placed a considerable distance in front of the tower and are sometimes tilted forward into the wind a small amount.
+Downwind machines have been built, despite the problem of turbulence (mast wake), because they don't need an additional mechanism for keeping them in line with the wind, and because in high winds the blades can be allowed to bend which reduces their swept area and thus their wind resistance. Since cyclical (that is repetitive) turbulence may lead to fatigue failures, most HAWTs are of upwind design.
+Turbines used in wind farms for commercial production of electric power are usually three-bladed and pointed into the wind by computer-controlled motors. These have high tip speeds of over 320km/h (200mph), high efficiency, and low torque ripple, which contribute to good reliability. The blades are usually colored white for daytime visibility by aircraft and range in length from 20 to 40 meters (66 to 131ft) or more. The tubular steel towers range from 60 to 90 meters (200 to 300ft) tall.
+The blades rotate at 10 to 22 revolutions per minute. At 22 rotations per minute the tip speed exceeds 90 meters per second (300ft/s).[26][27] A gear box is commonly used for stepping up the speed of the generator, although designs may also use direct drive of an annular generator. Some models operate at constant speed, but more energy can be collected by variable-speed turbines which use a solid-state power converter to interface to the transmission system. All turbines are equipped with protective features to avoid damage at high wind speeds, by feathering the blades into the wind which ceases their rotation, supplemented by brakes.
+Year by year the size and height of turbines increase. Offshore wind turbines are built up to 8MW today and have a blade length up to 80m. Onshore wind turbines are installed in low wind speed areas and getting higher and higher towers. Usual towers of multi megawatt turbines have a height of 70m to 120m and in extremes up to 160m, with blade tip speeds reaching 80m/s to 90m/s. Higher tip speeds means more noise and blade erosion.
+Vertical axis[edit]
+A vertical axis Twisted Savonius type turbine.
+Vertical-axis wind turbines (or VAWTs) have the main rotor shaft arranged vertically. One advantage of this arrangement is that the turbine does not need to be pointed into the wind to be effective, which is an advantage on a site where the wind direction is highly variable. It is also an advantage when the turbine is integrated into a building because it is inherently less steerable. Also, the generator and gearbox can be placed near the ground, using a direct drive from the rotor assembly to the ground-based gearbox, improving accessibility for maintenance. However, these designs produce much less energy averaged over time, which is a major drawback.[24][28]
+The key disadvantages include the relatively low rotational speed with the consequential higher torque and hence higher cost of the drive train, the inherently lower power coefficient, the 360-degree rotation of the aerofoil within the wind flow during each cycle and hence the highly dynamic loading on the blade, the pulsating torque generated by some rotor designs on the drive train, and the difficulty of modelling the wind flow accurately and hence the challenges of analysing and designing the rotor prior to fabricating a prototype.[29]
+When a turbine is mounted on a rooftop the building generally redirects wind over the roof and this can double the wind speed at the turbine. If the height of a rooftop mounted turbine tower is approximately 50% of the building height it is near the optimum for maximum wind energy and minimum wind turbulence. Wind speeds within the built environment are generally much lower than at exposed rural sites,[30][31] noise may be a concern and an existing structure may not adequately resist the additional stress.
+Subtypes of the vertical axis design include:
+Offshore Horizontal Axis Wind Turbines (HAWTs) at Scroby Sands Wind Farm, UK
+Onshore Horizontal Axis Wind Turbines in Zhangjiakou, China
+Darrieus wind turbine
+"Eggbeater" turbines, or Darrieus turbines, were named after the French inventor, Georges Darrieus.[32] They have good efficiency, but produce large torque ripple and cyclical stress on the tower, which contributes to poor reliability. They also generally require some external power source, or an additional Savonius rotor to start turning, because the starting torque is very low. The torque ripple is reduced by using three or more blades which results in greater solidity of the rotor. Solidity is measured by blade area divided by the rotor area. Newer Darrieus type turbines are not held up by guy-wires but have an external superstructure connected to the top bearing.[33]
+Giromill
+A subtype of Darrieus turbine with straight, as opposed to curved, blades. The cycloturbine variety has variable pitch to reduce the torque pulsation and is self-starting.[34] The advantages of variable pitch are: high starting torque; a wide, relatively flat torque curve; a higher coefficient of performance; more efficient operation in turbulent winds; and a lower blade speed ratio which lowers blade bending stresses. Straight, V, or curved blades may be used.[35]
+Savonius wind turbine
+These are drag-type devices with two (or more) scoops that are used in anemometers, Flettner vents (commonly seen on bus and van roofs), and in some high-reliability low-efficiency power turbines. They are always self-starting if there are at least three scoops.
+Twisted Savonius
+Twisted Savonius is a modified savonius, with long helical scoops to provide smooth torque. This is often used as a rooftop windturbine and has even been adapted for ships.[36]
+Another type of vertical axis is the Parallel turbine, which is similar to the crossflow fan or centrifugal fan. It uses the ground effect. Vertical axis turbines of this type have been tried for many years: a unit producing 10kW was built by Israeli wind pioneer Bruce Brill in the 1980s.[37][unreliable source?]
+Vortexis
+The most recent advancement in Vertical Axis Wind Turbines has been the Vortexis VAWT, utilizing a pre-swirled augmented vertical axis wind turbine (PA-VAWT) designed for the purpose of developing a high efficiency VAWT concept that keeps the advantages of VAWT's compact size, lack of bias as to incoming wind direction, easy deployment and low radar cross section for use in mobile applications for the military, referred to in Special Operations as "Black Swan."[38][39]
+Design and construction[edit]
+Main article: Wind turbine design
+Components of a horizontal-axis wind turbine
+Inside view of a wind turbine tower, showing the tendon cables.
+Wind turbines are designed to exploit the wind energy that exists at a location. Aerodynamic modeling is used to determine the optimum tower height, control systems, number of blades and blade shape.
+Wind turbines convert wind energy to electricity for distribution. Conventional horizontal axis turbines can be divided into three components:
+The rotor component, which is approximately 20% of the wind turbine cost, includes the blades for converting wind energy to low speed rotational energy.
+The generator component, which is approximately 34% of the wind turbine cost, includes the electrical generator,[40][41] the control electronics, and most likely a gearbox (e.g. planetary gearbox),[42] adjustable-speed drive or continuously variable transmission[43] component for converting the low speed incoming rotation to high speed rotation suitable for generating electricity.
+The structural support component, which is approximately 15% of the wind turbine cost, includes the tower and rotor yaw mechanism.[44]
+A 1.5 MW wind turbine of a type frequently seen in the United States has a tower 80 meters (260ft) high. The rotor assembly (blades and hub) weighs 22,000 kilograms (48,000lb). The nacelle, which contains the generator component, weighs 52,000 kilograms (115,000lb). The concrete base for the tower is constructed using 26,000 kilograms (58,000lb) of reinforcing steel and contains 190 cubic meters (250cuyd) of concrete. The base is 15 meters (50ft) in diameter and 2.4 meters (8ft) thick near the center.[45]
+Among all renewable energy systems wind turbines have the highest effective intensity of power-harvesting surface[46] because turbine blades not only harvest wind power, but also concentrate it.[47][dubious  discuss]
+Unconventional designs[edit]
+Main article: Unconventional wind turbines
+Counter rotating wind turbine (dual rotor)
+The corkscrew shaped wind turbine at Progressive Field in Cleveland, Ohio
+An E-66 wind turbine in the Windpark Holtriem, Germany, has an observation deck for visitors. Another turbine of the same type with an observation deck is located in Swaffham, England. Airborne wind turbine designs have been proposed and developed for many years but have yet to produce significant amounts of energy. In principle, wind turbines may also be used in conjunction with a large vertical solar updraft tower to extract the energy due to air heated by the sun.
+Wind turbines which utilise the Magnus effect have been developed.[48]
+A ram air turbine (RAT) is a special kind of small turbine that is fitted to some aircraft. When deployed, the RAT is spun by the airstream going past the aircraft and can provide power for the most essential systems if there is a loss of all on-board electrical power,[49] as in the case of the "Gimli Glider".
+The two-bladed turbine SCD 6MW offshore turbine designed by aerodyn Energiesysteme, built by MingYang Wind Power has a helideck for helicopters on top of its nacelle. The prototype was erected in 2014 in Rudong China.
+Turbine monitoring and diagnostics[edit]
+See also: Wind turbine prognostics
+Due to data transmission problems, structural health monitoring of wind turbines is usually performed using several accelerometers and strain gages attached to the nacelle to monitor the gearbox and equipments. Currently, digital image correlation and stereophotogrammetry are used to measure dynamics of wind turbine blades. These methods usually measure displacement and strain to identify location of defects. Dynamic characteristics of non-rotating wind turbines have been measured using digital image correlation and photogrammetry.[50] Three dimensional point tracking has also been used to measure rotating dynamics of wind turbines.[51]
+Materials and durability[edit]
+Materials that are typically used for the rotor blades in wind turbines are composites, as they tend to have a high stiffness, high strength, high fatigue resistance, and low weight.[52] Typical resins used for these composites include polyester and epoxy, while glass and carbon fibers have been used for the reinforcing material.[53] Construction may use manual layup techniques or composite resin injection molding. As the price of glass fibers is only about one tenth the price of carbon fiber, glass fiber is still dominant.
+As competition in the wind market increases, companies are seeking ways to draw greater efficiency from their designs. One of the predominant ways wind turbines have gain performance is by increasing rotor diameters, and thus blade length. Retrofitting current turbines with larger blades mitigates the need and risks associated with a system-level redesign. By incorporating carbon fiber into parts of existing blade systems, manufacturers may increase the length of the blades without increasing their overall weight. For instance, the spar cap, a structural element of a turbine blade, commonly experiences high tensile loading, making it an ideal candidate to utilize the enhanced tensile properties of carbon fiber in comparison to glass fiber.[54] Higher stiffness and lower density translates to thinner, lighter blades offering equivalent performance. In a 10-MW turbinewhich will become more common in offshore systems by 2021blade lengths may reach over 100 m and weigh up to 50 metric tonnes when fabricated out of glass fiber. A switch to carbon fiber in the structural spar of the blade yields weight savings of 20 to 30 percent, or approximately 15 metric tonnes.[55] The compressive properties of carbon fiber do not differ significantly from those of glass fiber. It is therefore not economical to replace glass fiber components under compression with carbon fiber components.
+While the material cost is significantly higher for all-glass fiber blades than for hybrid glass/carbon fiber blades, there is a potential for tremendous savings in manufacturing costs when labor price is considered. Utilizing carbon fiber enables for simpler designs that use less raw material. The chief manufacturing process in blade fabrication is the layering of plies. By reducing the number of layers of plies, as is enabled by thinner blade design, the cost of labor may be decreased, and in some cases, equate to the cost of labor for glass fiber blades.[56]
+Materials for wind turbine parts other than the rotor blades (including the rotor hub, gearbox, frame, and tower) are largely composed of steel. Smaller wind turbines have begun incorporating more aluminum based alloys into these components in an effort to make the turbines more lightweight and efficient, and may continue to be used increasingly if fatigue and strength properties can be improved. Prestressed concrete has been increasingly used for the material of the tower, but still requires much reinforcing steel to meet the strength requirement of the turbine. Additionally, step-up gear boxes are being increasingly replaced with variable speed generators, increasing the demand for magnetic materials in wind turbines.[52] In particular this would require an increased supply of the rare earth metal neodymium. Reliance on rare earth minerals for components has risked expense and price volatility as China has been main producer of rare earth minerals (96% in 2009) and had been reducing its export quotas of these materials.[57] In recent years, however, other producers have increased production of rare earth minerals and China has removed its reduced export quota on rare earths leading to an increased supply and decreased cost of rare earth minerals, increasing the viability of the implementation of variable speed generators in wind turbines on a large scale.[58]
+Wind turbines on public display[edit]
+Main article: Wind turbines on public display
+The Nordex N50 wind turbine and visitor centre of Lamma Winds in Hong Kong, China
+A few localities have exploited the attention-getting nature of wind turbines by placing them on public display, either with visitor centers around their bases, or with viewing areas farther away.[59] The wind turbines are generally of conventional horizontal-axis, three-bladed design, and generate power to feed electrical grids, but they also serve the unconventional roles of technology demonstration, public relations, and education.
+Small wind turbines[edit]
+Main article: Small wind turbine
+A small Quietrevolution QR5 Gorlov type vertical axis wind turbine in Bristol, England. Measuring 3m in diameter and 5m high, it has a nameplate rating of 6.5kW to the grid.
+Small wind turbines may be used for a variety of applications including on- or off-grid residences, telecom towers, offshore platforms, rural schools and clinics, remote monitoring and other purposes that require energy where there is no electric grid, or where the grid is unstable. Small wind turbines may be as small as a fifty-watt generator for boat or caravan use. Hybrid solar and wind powered units are increasingly being used for traffic signage, particularly in rural locations, as they avoid the need to lay long cables from the nearest mains connection point.[60] The U.S. Department of Energy's National Renewable Energy Laboratory (NREL) defines small wind turbines as those smaller than or equal to 100 kilowatts.[61] Small units often have direct drive generators, direct current output, aeroelastic blades, lifetime bearings and use a vane to point into the wind.
+Larger, more costly turbines generally have geared power trains, alternating current output, flaps and are actively pointed into the wind. Direct drive generators and aeroelastic blades for large wind turbines are being researched.
+Wind turbine spacing[edit]
+On most horizontal windturbine farms, a spacing of about 6-10 times the rotor diameter is often upheld. However, for large wind farms distances of about 15 rotor diameters should be more economically optimal, taking into account typical wind turbine and land costs. This conclusion has been reached by research[62] conducted by Charles Meneveau of the Johns Hopkins University,[63] and Johan Meyers of Leuven University in Belgium, based on computer simulations[64] that take into account the detailed interactions among wind turbines (wakes) as well as with the entire turbulent atmospheric boundary layer. Moreover, recent research by John Dabiri of Caltech suggests that vertical wind turbines may be placed much more closely together so long as an alternating pattern of rotation is created allowing blades of neighbouring turbines to move in the same direction as they approach one another.[65]
+Operability[edit]
+Maintenance[edit]
+Wind turbines need regular maintenance to stay reliable and available, reaching 98%.[66][67]
+Modern turbines usually have a small onboard crane for hoisting maintenance tools and minor components. However, large heavy components like generator, gearbox, blades and so on are rarely replaced and a heavy lift external crane is needed in those cases. If the turbine has a difficult access road, a containerized crane can be lifted up by the internal crane to provide heavier lifting.[68]
+Repowering[edit]
+Main article: Repowering
+Installation of new wind turbines can be controversial. An alternative is repowering, where existing wind turbines are replaced with bigger, more powerful ones, sometimes in smaller numbers while keeping or increasing capacity.
+Demolition[edit]
+Older turbines were in some early cases not required to be removed when reaching the end of their life. Some still stand, waiting to be recycled or repowered.[69][70]
+A demolition industry develops to recycle offshore turbines at a cost of DKK 24 million per MW, to be guaranteed by the owner.[71]
+Records[edit]
+Fuhrlnder Wind Turbine Laasow, in Brandenburg, Germany, among the world's tallest wind turbines
+ole, the largest vertical axis wind turbine, in Cap-Chat, Quebec, Canada
+Largest capacity conventional drive
+The Vestas V164 has a rated capacity of 8MW,[72] has an overall height of 220m (722ft), a diameter of 164m (538ft), is for offshore use, and is the world's largest-capacity wind turbine since its introduction in 2014. The conventional drive train consist of a main gearbox and a medium speed PM generator. Prototype installed in 2014 at the National Test Center Denmark nearby sterild. Series production starts end of 2015.
+Largest capacity direct drive
+The Enercon E-126 with 7.58MW and 127m rotor diameter is the largest direct drive turbine. It's only for onshore use. The turbine has parted rotor blades with 2 sections for transport. In July 2016, Siemens upgraded its 7 to 8MW.[73]
+Largest vertical-axis
+Le Nordais wind farm in Cap-Chat, Quebec has a vertical axis wind turbine (VAWT) named ole, which is the world's largest at 110m.[74] It has a nameplate capacity of 3.8MW.[75]
+Largest 1-bladed turbine
+Riva Calzoni M33 was a single-bladed wind turbine with 350kW, designed and built In Bologna in 1993.[citation needed]
+Largest 2-bladed turbine
+The biggest 2-bladed turbine is built by Mingyang Wind Power in 2013. It is a SCD6.5MW offshore downwind turbine, designed by aerodyn Energiesysteme.[76][77][78]
+Largest swept area
+The turbine with the largest swept area is the Samsung S7.0-171, with a diameter of 171m, giving a total sweep of 22966m2.
+Tallest
+A Nordex 3.3 MW was installed in July 2016. It has a total height of 230m, and a hub height of 164m on 100m concrete tower bottom with steel tubes on top (hybrid tower).[79]
+Vestas V164 was the tallest wind turbine, standing in sterild, Denmark, 220 meters tall, constructed in 2014. It has a steel tube tower.
+Highest tower
+Fuhrlnder installed a 2.5MW turbine on a 160m lattice tower in 2003 (see Fuhrlnder Wind Turbine Laasow and Nowy Tomyl Wind Turbines).
+Most rotors
+Lagerwey has build Four-in-One, a multi rotor wind turbine with one tower and four rotors near Maasvlakte.[citation needed] In April 2016, Vestas installed a 900kW quadrotor test wind turbine at Ris, made from 4 recycled 225kW V29 turbines.[80][81][82]
+Most productive
+Four turbines at Rnland wind farm in Denmark share the record for the most productive wind turbines, with each having generated 63.2GWh by June 2010.[83]
+Highest-situated
+Since 2013 the world's highest-situated wind turbine was made and installed by WindAid and is located at the base of the Pastoruri Glacier in Peru at 4,877 meters (16,001ft) above sea level.[84] The site uses the WindAid 2.5kW wind generator to supply power to a small rural community of micro entrepreneurs who cater to the tourists who come to the Pastoruri glacier.[85]
+Largest floating wind turbine
+The world's largestand also the first operational deep-water large-capacityfloating wind turbine is the 2.3 MW Hywind currently operating 10 kilometers (6.2mi) offshore in 220-meter-deep water, southwest of Karmy, Norway. The turbine began operating in September 2009 and utilizes a Siemens 2.3 MW turbine.[86][87]
+See also[edit]
+Renewable energy portal
+Sustainable development portal
+Compact wind acceleration turbine
+Environmental impact of wind power
+olienne Bolle
+Renewable energy
+Tidal stream generator
+Wind lens
+Windbelt
+Windpump
+References[edit]
+^ "Part 1 Early History Through 1875". Retrieved 2008-07-31.
+^ A.G. Drachmann, "Heron's Windmill", Centaurus, 7 (1961), pp. 145151
+^ Dietrich Lohrmann, "Von der stlichen zur westlichen Windmhle", Archiv fr Kulturgeschichte, Vol. 77, Issue 1 (1995), pp. 130 (10f.)
+^ Ahmad Y Hassan, Donald Routledge Hill (1986). Islamic Technology: An illustrated history, p. 54. Cambridge University Press. ISBN 0-521-42239-6.
+^ Donald Routledge Hill, "Mechanical Engineering in the Medieval Near East", Scientific American, May 1991, p. 64-69. (cf. Donald Routledge Hill, Mechanical Engineering)
+^ a b Morthorst, Poul Erik; Redlinger, Robert Y.; Andersen, Per (2002). Wind energy in the 21st century: economics, policy, technology and the changing electricity industry. Houndmills, Basingstoke, Hampshire: Palgrave/UNEP. ISBN0-333-79248-3.
+^ a b c d Price, Trevor J. (2004). "Blyth, James (18391906)". Oxford Dictionary of National Biography (online ed.). Oxford University Press. doi:10.1093/ref:odnb/100957. (Subscription or UK public library membership required.)
+^ A Wind Energy Pioneer: Charles F. Brush. Danish Wind Industry Association. Retrieved 2008-12-28.
+^ Quirky old-style contraptions make water from wind on the mesas of West Texas Archived February 3, 2008, at the Wayback Machine.
+^ Alan Wyatt: Electric Power: Challenges and Choices. Book Press Ltd., Toronto 1986, ISBN 0-920650-00-7
+^ Anon. "Costa Head Experimental Wind Turbine". Orkney Sustainable Energy Website. Orkney Sustainable Energy Ltd. Retrieved 19 December 2010.
+^ "NREL: Dynamic Maps, GIS Data, and Analysis Tools Wind Maps". Nrel.gov. 2013-09-03. Retrieved 2013-11-06.
+^ IEC Wind Turbine Classes June 7, 2006
+^ Small-Scale "Dragonfly" Wind Turbine Works at Low Wind Speeds
+^ "The Physics of Wind Turbines Kira Grogg Carleton College, 2005, p.8" (PDF). Retrieved 2013-11-06.
+^ "Wind Energy Basics". Bureau of Land Management. Retrieved 23 April 2016.
+^ "Enercon E-family, 330 Kw to 7.5 Mw, Wind Turbine Specification" Archived May 16, 2011, at the Wayback Machine.
+^ Tony Burton et al., (ed), Wind Energy Handbook, John Wiley and Sons 2001 ISBN 0471489972 page 65
+^ Sanne Wittrup. "11 years of wind data shows surprising production decrease" (in Danish) Ingeniren, 1 November 2013. Retrieved 2 November 2013.
+^ E. Hau., Wind Turbines: Fundamentals, Technologies, Application, Economics. Springer. Germany. 2006
+^ "Wind Energy Basics". American Wind Energy Association. Archived from the original on 2010-09-23. Retrieved 2009-09-24.
+^ Transparent plexiglass blades
+^ No blades
+^ a b http://www.wind-works.org/cms/index.php?id=64&tx_ttnews%5Btt_news%5D=3103&cHash=be80a2ca690fe1bcec1c0dc0af1e795b
+^ [1] Archived June 7, 2008, at the Wayback Machine.
+^ "Products & Services". Gepower.com. Retrieved 2013-11-06.
+^ "Technical Specs of Common Wind Turbine Models". Aweo.org.
+^ http://cleantechnica.com/2014/04/07/vertical-axis-wind-turbines-great-1890-also-rans-2014/
+^ http://www.awsopenwind.org/downloads/documentation/ModelingUncertaintyPublic.pdf
+^ Hugh Piggott (2007-01-06). "Windspeed in the city reality versus the DTI database". Scoraigwind.com. Retrieved 2013-11-06.
+^ http://www.urbanwind.net/pdf/technological_analysis.pdf
+^ "Vertical-Axis Wind Turbines". Symscape. 2008-07-07. Retrieved 2013-11-06.
+^ Exploit Nature-Renewable Energy Technologies by Gurmit Singh, Aditya Books, pp 378
+^ [2] Archived April 3, 2005, at the Wayback Machine.
+^ "Experimental Mechanics, Volume 18, Number 1 SpringerLink" (PDF). Springerlink.com. 1978-01-01. Retrieved 2013-11-06.
+^ Rob Varnon. Derecktor converting boat into hybrid passenger ferry, Connecticut Post website, December 2, 2010. Retrieved April 25, 2012.
+^ "Modular wind energy device Brill, Bruce I". Freepatentsonline.com. 2002-11-19. Retrieved 2013-11-06.
+^ "Wind Power Systems". windpwrsys.com. 2015-05-15. Retrieved 2015-10-20.
+^ "Special Operations Summit Little Creek Wind Power: "Small and Micro Wind"...A Position of Power I". Tactical Defense Media's DoD Power, Energy & Propulsion Q2 2012, tacticaldefensemedia.com. Retrieved 2015-10-20.
+^ Navid Goudarzi (June 2013). "A Review on the Development of the Wind Turbine Generators across the World". International Journal of Dynamics and Control. Springer. 1 (2): 192202. doi:10.1007/s40435-013-0016-y.
+^ Navid Goudarzi; Weidong Zhu (November 2012). "A Review of the Development of Wind Turbine Generators Across the World". ASME 2012 International Mechanical Engineering Congress and Exposition. ASME. 4 - Paper No: IMECE2012-88615: 12571265.
+^ "Hansen W4 series". Hansentransmissions.com. Archived from the original on 15 March 2002. Retrieved 6 November 2013.
+^ John Gardner, Nathaniel Haro & Todd Haynes (October 2011). "Active Drivetrain Control to Improve Energy Capture of Wind Turbines" (PDF). Boise State University. Retrieved 28 February 2012
+^ ""Wind Turbine Design Cost and Scaling Model", Technical Report NREL/TP-500-40566, December, 2006, page 35, 36" (PDF). Retrieved 2013-11-06.
+^ [3] Archived July 15, 2011, at the Wayback Machine.
+^ See Erich Hau: Windkraftanlagen: Grundlagen, Technik, Einsatz, Wirtschaftlichkeit. Berlin/ Heidelberg 2008, pp. 621. (German). (For the english Edition see Erich Hau, Wind Turbines: Fundamentals, Technologies, Application, Economics, Springer 2005)
+^ "Innovation in Wind Turbine Design" (2011), Peter Jamieson
+^ "Spiral Magnus|MECARO|Introducuction to Magnus". Mecaro.jp. Retrieved 2013-11-06.
+^ "Ram Air Turbine Electrical Systems". UTC Aerospace Systems. UTC Aerospace Systems. 2016.
+^ Using Stereophotogrammetry to Predict Dynamic Strain on A Wind Turbine Rotor
+^ Using Stereophotogrammetry to Measure Vibrations of a Rotating Wind Turbine
+^ a b Ancona, Dan; Jim, McVeigh. "Wind Turbine - Materials and Manufacturing Fact Sheet". psu.edu. Retrieved 6 November 2016.
+^ Watson, James; Serrano, Juan. "Composite Materials for Wind Blades". windsystemsmag.com. Retrieved 6 November 2016.
+^ Davis, imphatic Labs, Garrett. "Composite Materials for Wind Blades - Wind Systems Magazine". www.windsystemsmag.com. Retrieved 2016-11-12.
+^ "Wind turbine blades: Glass vs. carbon fiber : CompositesWorld". www.compositesworld.com. Retrieved 2016-11-12.
+^ Ong & Tsai, Cheng-Huat & Stephen W. (2000). "The Use of Carbon Fibers in Wind Turbine Blade Design" (PDF). http://energy.sandia.gov/. External link in |website= (help)
+^ Wilburn, David. "Wind Energy in the United States and Materials Required for the Land-Based Wind Turbine Industry From 2010 Through 2030" (PDF). U.S. Department of the Interior.
+^ Yap, Chui-Wei. "China Ends Rare-Earth Minerals Export Quotas". wsg.com.
+^ Young, Kathryn (2007-08-03). "Canada wind farms blow away turbine tourists". Edmonton Journal. Retrieved 2008-09-06.
+^ Anon. "Solar & Wind Powered Sign Lighting". Energy Development Cooperative Ltd. Retrieved 19 October 2013.
+^ Small Wind, U.S. Department of Energy National Renewable Energy Laboratory website
+^ J. Meyers and C. Meneveau, "Optimal turbine spacing in fully developed wind farm boundary layers" (2012), Wind Energy 15, 305-317 doi:10.1002/we.469
+^ Print version (2011-01-18). "Optimal spacing for wind turbines". Gazette.jhu.edu. Retrieved 2013-11-06.
+^ "M. Calaf, C. Meneveau and J. Meyers, "Large Eddy Simulation study of fully developed wind-turbine array boundary layers" (2010), Phys. Fluids 22, 015110". Link.aip.org. Retrieved 2013-11-06.
+^ Dabiri, J. Potential order-of-magnitude enhancement of wind farm power density via counter-rotating vertical-axis wind turbine arrays (2011), J. Renewable Sustainable Energy 3, 043104
+^ G.J.W. van Bussel, PhD; M.B. Zaaijer, MSc Reliability, Availability and Maintenance aspects of large-scale offshore wind farms page 2 Delft University of Technology, 2001.
+^ "Iberwind builds on 98% availability with fresh yaw, blade gains". 15 February 2016. Retrieved 30 May 2016.
+^ Morten Lund (30 May 2016). "Dansk firma stter prisbelnnet selvhejsende kran i serieproduktion". Ingeniren. Retrieved 30 May 2016.
+^ Jeremy Fugleberg (8 May 2014). "Abandoned Dreams of Wind and Light". Atlas Obscura. Retrieved 30 May 2016.
+^ Tom Gray (11 March 2013). "Fact check: About those 'abandoned' turbines ...". American Wind Energy Association. Retrieved 30 May 2016.
+^ "Aldrende havmlleparker bner marked for klog nedrivning". Ingeniren. Retrieved 20 May 2016.
+^ Wittrup, Sanne. "Power from Vestas' giant turbine" (in Danish. English translation ). Ingeniren, 28 January 2014. Retrieved 28 January 2014.
+^ http://www.windpowermonthly.com/article/1401293/siemens-confirms-8mw-turbine
+^ "Visits: Big wind turbine". Retrieved 2010-04-17.
+^ "Wind Energy Power Plants in Canada other provinces". 2010-06-05. Retrieved 2010-08-24.
+^ http://www.windpoweroffshore.com/article/1207686/close---aerodyns-6mw-offshore-turbine-design
+^ http://www.windpowermonthly.com/article/1188373/ming-yang-install-65mw-offshore-turbine
+^ David Weston. "Aerodyn 6MW connected to grid" 12 March 2015. Archive
+^ http://www.windpowermonthly.com/article/1400374/nordex-installs-230-metre-onshore-turbine
+^ "EXCLUSIVE: Vestas tests four-rotor concept turbine". Windpower Monthly. Retrieved 20 April 2016.
+^ Sanne Wittrup. "Vestas rejser usdvanlig ny multirotor-vindmlle". Ingeniren. Retrieved 20 April 2016.
+^ Video of quadrotor on YouTube
+^ "Surpassing Matilda: record-breaking Danish wind turbines". Retrieved 2010-07-26.
+^ http://www.guinnessworldrecords.com/world-records/highest-altitude-wind-generator
+^ http://www.lehighvalleylive.com/bethlehem/index.ssf/2013/08/northampton_community_college_53.html
+^ Patel, Prachi (2009-06-22). "Floating Wind Turbines to Be Tested". IEEE Spectrum. Retrieved 2011-03-07. will test how the 2.3-megawatt turbine holds up in 220-meter-deep water.
+^ Madslien, Jorn (8 September 2009). "Floating challenge for offshore wind turbine". BBC News. Retrieved 2011-03-07. world's first full-scale floating wind turbine
+Further reading[edit]
+Tony Burton, David Sharpe, Nick Jenkins, Ervin Bossanyi: Wind Energy Handbook, John Wiley & Sons, 2nd edition (2011), ISBN 978-0-470-69975-1
+Darrell, Dodge, Early History Through 1875, TeloNet Web Development, Copyright 19962001
+Ersen Erdem, Wind Turbine Industrial Applications
+Robert Gasch, Jochen Twele (ed.), Wind power plants. Fundamentals, design, construction and operation, Springer 2012 ISBN 978-3-642-22937-4.
+Erich Hau, Wind turbines: fundamentals, technologies, application, economics Springer, 2013 ISBN 978-3-642-27150-2 (preview on Google Books)
+Siegfried Heier, Grid integration of wind energy conversion systems John Wiley & Sons, 3rd edition (2014), ISBN 978-1-119-96294-6
+Peter Jamieson, Innovation in Wind Turbine Design. Wiley & Sons 2011, ISBN 978-0-470-69981-2
+J. F. Manwell, J. G. McGowan, A. L. Roberts, Wind Energy Explained: Theory, Design and Application, John Wiley & Sons, 2nd edition (2012), ISBN 978-0-47001-500-1
+David Spera (ed,) Wind Turbine Technology: Fundamental Concepts in Wind Turbine Engineering, Second Edition (2009), ASME Press, ISBN 9780791802601
+Alois Schaffarczyk (ed.), Understanding wind power technology, John Wiley & Sons, (2014), ISBN 978-1-118-64751-6
+Hermann-Josef Wagner, Jyotirmay Mathur, Introduction to wind energy systems. Basics, technology and operation. Springer (2013), ISBN 978-3-642-32975-3
+GA Mansoori, N Enayati, LB Agyarko (2016), Energy: Sources, Utilization, Legislation, Sustainability, Illinois as Model State
+External links[edit]
+Wikimedia Commons has media related to Wind turbine.
+Harvesting the Wind (45 lectures about wind turbines by professor Magdi Ragheb[dead link]
+Wind Projects
+Make small wind turbine at home Complete video and image Guide by Newphysicist
+Guided tour on wind energy
+U.S. Wind Turbine Manufacturing: Federal Support for an Emerging Industry Congressional Research Service
+Wind Energy Technology World Wind Energy Association
+Wind turbine simulation, National Geographic
+Airborne Wind Industry Association international
+Top 10 biggest wind turbines in the world
+The Tethys database seeks to gather, organize and make available information on potential environmental effects of offshore wind energy development
+v
+t
+e
+Wind power
+Wind power
+Environmental impact
+High-altitude
+History
+Land vehicles
+Offshore
+Turbines
+on public display
+Windmill
+Wind turbines
+Aerodynamics
+Airborne
+Crosswind kite
+Darrieus
+Design
+Floating
+Savonius
+Small
+Unconventional
+Vertical axis
+Wind power industry
+Consulting companies
+Farm management
+Manufacturers
+Software
+Windmade
+Wind farms
+Community-owned
+Farms by country
+Offshore farms
+by country
+Onshore farms
+Concepts
+Betz's law
+Capacity factor
+EROEI
+Forecasting
+Grid energy storage
+HVDC
+Intermittency
+Variability
+Laddermill
+Net energy gain
+Resource assessment
+Storage
+Subsidies
+Virtual power plant
+Wind hybrid power systems
+Wind profile power law
+Authority control
+GND: 4128839-7
+NewPP limit report
+Parsed by mw1195
+Cached time: 20161119065715
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.632 seconds
+Real time usage: 0.754 seconds
+Preprocessor visited node count: 3998/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 112322/2097152 bytes
+Template argument size: 3772/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.301/10.000 seconds
+Lua memory usage: 8.57 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+602.259
+1 - -total
+50.75%
+305.629
+1 - Template:Reflist
+26.76%
+161.163
+39 - Template:Cite_web
+13.94%
+83.956
+6 - Template:Fix
+7.62%
+45.882
+19 - Template:Convert
+7.56%
+45.528
+5 - Template:Delink
+7.40%
+44.538
+1 - Template:Update_inline
+5.51%
+33.158
+9 - Template:Category_handler
+4.47%
+26.933
+2 - Template:Citation_needed
+3.40%
+20.475
+1 - Template:Authority_control
+Saved in parser cache with key enwiki:pcache:idhash:20541773-0!*!0!!en!4!*!math=5 and timestamp 20161119065718 and revision id 750362843
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wind_turbine&oldid=750362843"
+Categories: AerodynamicsElectric powerElectrical generatorsElectromechanical engineeringEnergy conversionWind turbinesHidden categories: Wikipedia articles incorporating a citation from the ODNBWebarchive template wayback linksArticles with inconsistent citation formatsCS1 errors: external linksPages using ISBN magic linksWikipedia articles in need of updating from April 2016All Wikipedia articles in need of updatingAll articles lacking reliable referencesArticles lacking reliable references from October 2013All accuracy disputesArticles with disputed statements from October 2013All articles with unsourced statementsArticles with unsourced statements from July 2016All articles with dead external linksArticles with dead external links from September 2016Wikipedia articles with GND identifiers

@@ -1,0 +1,111 @@
+ExothermicReaction
+From Wikipedia, the free encyclopedia
+(Redirected from Exothermic Reaction)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2013) (Learn how and when to remove this template message)
+An exothermic thermite reaction using iron(III) oxide. The sparks flying outwards are globules of molten irons trailing smoke in their wake.
+An exothermic reaction is a chemical reaction that releases energy by light or heat. It is the opposite of an endothermic reaction.[1]
+Expressed in a chemical equation: reactants  products + energy
+Contents
+1 Overview
+2 Examples of exothermic reactions
+3 Other points to think about
+4 Measurement
+5 See also
+6 References
+7 External links
+Overview[edit]
+An exothermic reaction is a chemical or physical reaction that releases heat. It gives net energy to its surroundings. That is, the energy needed to initiate the reaction is less than the energy released.[2]
+When the medium in which the reaction is taking place gains heat, the reaction is exothermic. When using a calorimeter, the total amount of heat that flows into (or through) the calorimeter is the negative of the net change in energy of the system.
+The absolute amount of energy in a chemical system is difficult to measure or calculate. The enthalpy change, H, of a chemical reaction is much easier to work with. The enthalpy change equals the change in internal energy of the system plus the work needed to change the volume of the system against constant ambient pressure. A bomb calorimeter is very suitable for measuring the energy change, H, of a combustion reaction. Measured and calculated H values are related to bond energies by:
+H = energy used in forming product bonds  energy released in breaking reactant bonds
+An energy profile of an exothermic reaction
+In an exothermic reaction, by definition, the enthalpy change has a negative value:
+H < 0
+since a larger value (the energy released in the reaction) is subtracted from a smaller value (the energy used for the reaction). For example, when hydrogen burns:
+2H2 (g) + O2 (g)  2H2O (g)
+H = 483.6 kJ/mol of O2 [3]
+The most commonly available hand warmers make use of the oxidation of iron to achieve an exothermic reaction:
+4Fe(s) + 3O2(g)  2Fe2O3(s).
+Examples of exothermic reactions[edit]
+Play media
+Video of an exothermic reaction. Ethanol vapor is ignited inside a bottle, causing combustion.
+Combustion reactions of fuels
+Neutralization
+Burning of a substance
+Deposition of dry ice (carbon dioxide) from the gaseous state
+Adding water to anhydrous copper(II) sulfate
+The thermite reaction
+Reactions taking place in a self-heating can based on lime aluminium
+Many corrosion reactions such as oxidation of metals
+Most polymerization reactions
+The Haber process of ammonia production
+Respiration
+Decomposition of vegetable matter into compost
+Solution of sulfuric acid into water
+Dehydration of sugars upon contact with sulfuric acid
+Detonation of nitroglycerin
+Nuclear fission of uranium-235
+Other points to think about[edit]
+The concept and its opposite number endothermic relate to the enthalpy change in any process, not just chemical reactions.
+In endergonic reactions and exergonic reactions it is the sign of the Gibbs free energy that determines the equilibrium point, and not enthalpy. The related concepts endergonic and exergonic apply to all physical processes.
+The conceptually related endotherm and ectotherm (or sometimes exotherm) are concepts in animal physiology.
+In quantum numbers, when any excited energy level goes down to its original level for example: when n=4 fall to n=2, energy is released so, it is exothermic.
+Where an exothermic reaction causes heating of the reaction vessel which is not controlled, the rate of reaction can increase, in turn causing heat to be evolved even more quickly. This positive feedback situation is known as thermal runaway. An explosion can also result from the problem.
+Measurement[edit]
+Heat production or absorption in either a physical process or chemical reaction is measured using calorimetry. One common laboratory instrument is the reaction calorimeter, where the heat flow into or from the reaction vessel is monitored. The technique can be used to follow chemical reactions as well as physical processes such as crystallization and dissolution.
+Energy released is measured in Joule per mole. The reaction has a negative H(heat change) value due to heat loss. e.g.: -123 J/mol
+See also[edit]
+Chemical thermodynamics
+Differential scanning calorimetry
+Endergonic
+Exergonic
+Endergonic reaction
+Exergonic reaction
+Exothermic
+Endothermic reaction
+Endotherm
+References[edit]
+^ Article written by Anne Marie Helmenstine, Ph.D on exothermic and endothermic reactions http://chemistry.about.com/cs/generalchemistry/a/aa051903a.htm
+^ "Endothermic and Exothermic Reactions". About Chemistry. 3 February 2013. Retrieved 5 April 2016.
+^ http://chemistry.osu.edu/~woodward/ch121/ch5_enthalpy.htm
+External links[edit]
+Chemistry portal
+NewPP limit report
+Parsed by mw1224
+Cached time: 20161117213846
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.084 seconds
+Real time usage: 0.122 seconds
+Preprocessor visited node count: 241/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 6125/2097152 bytes
+Template argument size: 9/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/500
+Lua time usage: 0.036/10.000 seconds
+Lua memory usage: 1.7 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+87.306
+1 - -total
+48.01%
+41.916
+1 - Template:Refimprove
+38.55%
+33.658
+1 - Template:Reflist
+33.78%
+29.496
+1 - Template:Cite_web
+30.96%
+27.031
+1 - Template:Ambox
+10.67%
+9.312
+1 - Template:Portal_bar
+Saved in parser cache with key enwiki:pcache:idhash:536063-0!*!0!!en!4!* and timestamp 20161117213850 and revision id 750109115
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Exothermic_reaction&oldid=750109115"
+Categories: ThermochemistryHidden categories: Articles needing additional references from June 2013All articles needing additional references

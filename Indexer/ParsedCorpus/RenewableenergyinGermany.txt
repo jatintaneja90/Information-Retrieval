@@ -1,0 +1,980 @@
+RenewableenergyinGermany
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Renewable Energy in Germany (from top left to bottom right):
+ Renewables in the German electricity sector
+ Biogas fermenter in Hornstet
+ Wind park in Bernburg
+ Geothermal power plant in Neustadt-Glewe
+ German Levelized cost of electricity in 2013
+ German wind and solar in Rhineland-Palatinate
+Germany's renewable energy sector is among the most innovative and successful worldwide. Net-generation from renewable energy sources in the German electricity sector has increased from 6.3% in 2000 to about 30% in 2014.[1][2] For the first time ever, wind, biogas, and solar combined accounted for a larger portion of net electricity production than brown coal in the first half of 2014.[3] On Sunday 15 May 2016 at 14:00 hours, renewables supplied nearly all of domestic electricity demand.[4]
+While peak-generation from combined wind and solar reached a previous all-time high of 74% in April 2014,[5] wind power saw its best day ever on December 12, 2014, generating 562 GWh.[6] Germany has been called "the world's first major renewable energy economy".[7][8]
+More than 23,000 wind turbines and 1.4 million solar PV systems are distributed all over the country's area of 357,000square kilometers.[9][10] As of 2011, Germany's federal government is working on a new plan for increasing renewable energy commercialization,[11] with a particular focus on offshore wind farms.[12] A major challenge is the development of sufficient network capacities for transmitting the power generated in the North Sea to the large industrial consumers in southern parts of the country.[13]
+According to official figures, some 370,000 people were employed in the renewable energy sector in 2010, especially in small and medium-sized companies. This is an increase of around 8% compared to 2009 (around 339,500 jobs), and well over twice the number of jobs in 2004 (160,500). About two-thirds of these jobs are attributed to the Renewable Energy Sources Act.[14][15]
+Germany's energy transition, the Energiewende, designates a significant change in energy policy from 2011. The term encompasses a reorientation of policy from demand to supply and a shift from centralized to distributed generation (for example, producing heat and power in very small cogeneration units), which should replace overproduction and avoidable energy consumption with energy-saving measures and increased efficiency.
+Contents
+1 Targets
+2 Primary energy consumption
+3 Sources
+3.1 Wind power
+3.2 Biomass
+3.3 Photovoltaic solar power
+3.4 Hydroelectricity
+3.5 Geothermal power
+4 Industry
+5 Government policy
+6 Energy transition
+7 Ownership
+8 Jobs
+9 Statistics
+10 Computer models
+11 See also
+12 References
+13 External links
+Targets[edit]
+Electricity by source in 2014
+Nuclear: 91.8 TWh (17.2%)
+Brown Coal: 140.7 TWh (26.4%)
+Hard Coal: 110.1 TWh (20.7%)
+Natural Gas: 33.9 TWh (6.4%)
+Wind: 51.4 TWh (9.7%)
+Solar: 32.8 TWh (6.2%)
+Biomass: 53 TWh (10.0%)
+Hydro: 18.5 TWh (3.5%)
+Net generated electricity in 2014[16]
+Since the passage of the Directive on Electricity Production from Renewable Energy Sources in 1997, Germany and the other states of the European Union were working towards a target of 12% renewable electricity by 2010. Germany passed this target early in 2007, when the renewable energy share in electricity consumption in Germany reached 14%.[17] In September 2010, the German government announced ambitious energy targets:[18]:5 After the 2013 elections, the new CDU/CSU and SPD coalition government continued the energy transition, with only minor modifications of its targets in the coalition agreement.[19] These targets include, for renewable energy:
+Renewable energy targets (with actual figures for 2014)[20]:4
+Target
+2014
+2020
+2030
+2040
+2050
+Share of gross final energy consumption
+13.5%
+18%
+30%
+45%
+60%
+Share of gross electricity consumption
+27.4%
+35%
+50%
+65%
+80%
+Share of heat consumption
+12.0%
+14%
+Share in transport sector
+5.6%
+The German Government reported, in 2011, renewable energy (mainly wind turbines and biomass plants) generated more than 123TWh of electricity, providing nearly 20% of the 603TWh of electricity supplied.[21]
+In 2012, all renewable energy accounted for 21.9% of electricity, with wind turbines and photovoltaic providing 11.9% of the total.[22]
+Chancellor Angela Merkel, along with a vast majority of her compatriots, believes, "As the first big industrialized nation, we can achieve such a transformation toward efficient and renewable energies, with all the opportunities that brings for exports, developing new technologies and jobs".[23]
+As of 2014, renewable sources account for 30.8% of the net electricity production (first half-year). Compared to the same period of 2013, energy production from wind, solar and biomass increased by 9.9 TWh, while it decreased from fossil fuels by 14.8 TWh, and remained almost unchanged for nuclear and hydro power.[1]
+Primary energy consumption[edit]
+Germany's primary energy consumption of 1,449 petajoules or 403 terawatt-hours refers to the total energy used by the nation. The final renewable energy consumption, split by the sectors in 2015, and with their relative share, are:[24]:4
+Electricity sector, with a renewable energy consumption of 32.6% (195.882TWh)
+Heating sector, with a renewable energy consumption of 13.2% (155.159TWh)
+Transportation sector, with a renewable energy consumption of 5.3% (34.263 TWh)
+As of the end of 2014, renewable energy sources, such as biomass, biogas, biofuels, hydro, wind and solar, accounted for 11.1% of the country's primary energy consumption, a more than doubling compared to 2004, when renewables only contributed 4.5%. Renewable contribute most to the electricity sector with 27.8% (gross-generation), followed by the heat and transportation sector with 9.9% and 5.4%, respectively.[24]:5
+Although the terms "energy" and "electricity" are often used interchangeably, they should not be confused with one another, as electricity is only one form of energy and does not account for the energy consumed by combustion engines and heat boilers, used in transportation by vehicles and for the heating of buildings.
+Source: Federal Ministry for Economic Affairs and Energy, 20002015, as per February 2015[24]:5
+Sources[edit]
+A travel guide to renewable energy destinations in Germany was published in 2016.[25]
+Wind power[edit]
+Main article: Wind power in Germany
+Wind power in Germany
+10,000
+20,000
+30,000
+40,000
+1990
+1998
+2006
+2012
+Wind power: installed capacity in MW (19902014)[26]
+In 2013, wind power generated a total of 53.4 TWh of electricity and more than 3.2 GW of new capacity was added to the grid.[27] In 2011, the country's installed capacity of wind power reached 29,075 megawatts (MW), about 8% of the overall capacity.[28] According to EWEA, in a normal wind year, installed wind capacity in Germany will meet 10.6% at end 2011 and 9.3% at end 2010 of the German electricity needs.[29][30]
+More than 21,607 wind turbines are located in the German federal area and the country has plans to build more.[31][32] As of 2011, Germany's federal government is working on a new plan for increasing renewable energy commercialization,[11] with a particular focus on offshore wind farms.[12] A major challenge is the development of sufficient network capacities for transmitting the power generated in the North Sea to the large industrial consumers in southern Germany.[13] In 2016, Germany decided to replace feed-in tariffs with auctions from 2017.[33]
+Biomass[edit]
+The key provider of biomass supply in Germany is supposed to be agriculture. Moreover, 40% of German wood production is also used as a biomass feedstock.[34] The German Federal Research Centre for Forestry and Forest Products claims that there are also reserves which may assist in enlarging the part of forestry in biomass production. Agriculture is the main source of rapeseed oil, which is used for the production of biodiesel and making substrates for the production of biogas.[35]
+Biomass used for the production of biogas and biofuels are some of Germany's most important sources of renewable energy. In 2010, biomass accounted for 30% of renewable electricity generation and for 70% of all renewable energy (mostly wood).[36]
+Germany has committed to blending 6.25% biofuels in petroleum by 2014 with the Biofuels Quota Act.[37][38]
+Photovoltaic solar power[edit]
+Main articles: Solar power in Germany and Solar power in the European Union
+Solar power in Germany
+10,000
+20,000
+30,000
+40,000
+2000
+2004
+2008
+2012
+Solar power: installed capacity in MW (20002014)[39]
+Solar photovoltaic (PV) technology generates electricity from sunlight, and it can be used in grid-connected and off-grid applications. They were first mass-produced in the year 2000, when German environmentalists and Eurosolar have succeeded in obtaining the government support for the 100,000 roofs program.[40] In July 2012, a cumulative installed total solar PV power of 29.7 GW was in place.[41] Solar PV provided 18TWh in 2011, 3% of the total electricity demand. As solar power installations rise quickly, in first half of 2012, about 5.3% of the total electricity demand was covered by solar power.[42] On Saturday May 25, 2012, solar power broke a new record high, feeding 22 GW into the power grid, or as much as 20 nuclear power stations. This jump above the 20 GW level was due to increased capacity and excellent weather conditions countrywide, and made up for half of the nation's electricity demand at midday.[43] Germany was also the biggest expanding market for solar PV 2012, with 7.6 GW of newly connected systems.[44] Some market analysts expect the solar electricity share could reach 25% by 2050.[45] Price of PV systems has decreased more than 50% in 5years since 2006.[46]
+Hydroelectricity[edit]
+The total installed hydroelectic capacity in Germany at the end of 2006 was 4.7 GW. Hydropower meets 3.5% of the electricity demand. Latest estimates show, in Germany in 2007, about 9,400 people were employed in the hydropower sector which generated a total turnover of 1.23 billion.[47]
+Geothermal power[edit]
+Main article: Geothermal power in Germany
+Geothermal power in Germany is expected to grow, mainly because of a law that benefits the production of geothermal electricity and guarantees a feed-in tariff. But after a renewable energy law that introduced a tariff scheme of 0.15 [US$0.23] per kilowatt-hour (kWh) for electricity produced from geothermal sources came into effect that year, a construction boom was sparked and the new power plants are now starting to come online.
+Industry[edit]
+Annual yield of domestic renewable electricity by source.
+Germany's renewable energy sector is among the most innovative and successful worldwide. Enercon, Nordex, REpower Systems, Siemens, and Fuhrlnder are wind-power companies based in Germany. SolarWorld, Q-Cells, and Conergy are solar-power companies based in Germany. These companies dominate[clarification needed] the world market. Every third solar panel and every second wind rotor in Germany are German, and German turbines and generators used in hydro energy generation are among the most popular worldwide.[48]
+Nearly 800,000 people work in the German environment technology sector; an estimated 214,000 people work with renewables in Germany, up from 157,000 in 2004, an increase of 36%.[48]
+Siemens chief executive Peter Lscher believes Germanys target of generating 35% of its energy from renewables by 2020 is achievable  and, most probably, profitable for Europes largest engineering company. Its environmental solutions portfolio, which is firmly focused on renewables, is already generating more than 27 billion a year, 35 per cent of Siemens total revenue, and the plan is to grow this to 40 billion by 2015. Ending its involvement in nuclear industry will boost the credibility of Siemens as a purveyor of green technology.[49]
+Germany's main competitors in solar electricity are Japan, the US, and China. In the wind industry, it is Denmark, Spain, and the US.
+Government policy[edit]
+The renewable energy sector benefited when the Alliance '90/The Greens party joined the federal government between 1998 and 2005. Support for renewable energy continued under all following governments, regardless of composition, including the current CDU/CSU and SPD coalition government starting in 2013.[19] The renewable energy sector was aided especially by the Renewable Energy Sources Act that promotes renewable energy mainly by stipulating feed-in tariffs and recently also market premiums that grid operators must pay for renewable energy fed into the power grid. People who produce renewable energy can sell their 'product' at fixed prices for a period of 20 or 15years. This has created a surge in the production of renewable energy.[50] In 2012, Siemens estimated the total cost of renewable energy would come to at least 1.4trillion (US$1.8trillion) by 2030.[51]
+For the 20112014 period, the federal government set aside 3.5billion euros for scientific research in the country.[52] Additionally, in 2001 a law was passed requiring the closing of all nuclear power plants within a period of 32years. The shutdown time was extended to 2040 by a new government in 2010. After the Fukushima incident, the law was abrogated and the end of nuclear energy was set to 2022.[53] After the 2013 federal elections, the new CDU/CSU and SPD coalition in important areas continued the Energiewende of the previous government, but also agreed on a major revision of the EEG.[54]
+The German energy policy is framed within the European Union, and the March 2007 European Council in Brussels approved a mandatory energy plan that requires a 20% reduction of carbon dioxide emissions before the year 2020 and the consumption of renewable energies to be 20% of total EU consumption (compared to 7% in 2006).[55] The accord indirectly acknowledged the role of nuclear energy  which is not commonly regarded as renewable, but emissions-free  in the reduction of the emission of greenhouse gases, allowing each member state to decide whether or not to use nuclear-generated electricity.[56]
+Also, a compromise was reached to achieve a minimum quota of 10% biofuels in the total consumption of gasoline and diesel in transport in 2020.
+Energy transition[edit]
+Main articles: Energy transition and Energy transition in Germany
+Energiewende ("energy transition") designates a significant change in energy policy: The term encompasses a reorientation of policy from demand to supply and a shift from centralized to distributed generation (for example, producing heat and power in very small cogeneration units), which should replace overproduction and avoidable energy consumption with energy-saving measures and increased efficiency.
+The key policy document outlining the Energiewende was published by the German government in September 2010, some six months before the Fukushima nuclear accident.[18] Legislative support was passed in September 2010. Important aspects include:
+Key Energiewende policy targets (with actual figures for 2014)[20]:4
+Target
+2014
+2020
+2030
+2040
+2050
+Greenhouse gas emissions (base year 1990)
+27.0%
+40%
+55%
+70%
+80 to 95%
+Renewable energy share of gross final energy consumption
+13.5%
+18%
+30%
+45%
+60%
+Renewable energy share of gross electricity consumption
+27.4%
+35%
+50%
+65%
+80%
+Primary energy consumption (base year 2008)
+8.7%
+20%
+50%
+Gross electricity consumption (base year 2008)
+4.6%
+10%
+25%
+In addition, there will be an associated research and development drive.
+The policy has been embraced by the German federal government and has resulted in a huge expansion of renewables, particularly wind power. Germany's share of renewables has increased from around 5% in 1999 to 22.9% in 2012, reaching close to the OECD average of 18% usage of renewables.[57] Producers have been guaranteed a fixed feed-in tariff for 20 years, guaranteeing a fixed income. Energy co-operatives have been created, and efforts were made to decentralize control and profits. The large energy companies have a disproportionately small share of the renewables market. Nuclear power plants were closed, and the existing nine plants will close earlier than planned, in 2022.
+In May 2013, the International Energy Agency commended Germany for its commitment to developing a comprehensive energy transition strategy, ambitious renewable energy goals, and plans to increase efficient energy use and supported this approach. Nevertheless, the scale of Germanys energy policy ambitions, coupled with the large size and energy intensity of its economy, and its central location in Europes energy system, mean further policy measures must be developed if the countrys ambitious energy transition is to maintain a workable balance between sustainability, affordability, and competitiveness.[58]
+Subsidies aimed at stimulating the growth of renewables have driven up consumer energy prices by 12.5% in 2013.[59] To date, German consumers have absorbed the costs of the Energiewende, but the IEA says the debate over the social and economic impacts of the new approach has become more prominent as the share of renewable energy has continued to grow alongside rising electricity prices. The transition to a low-carbon energy sector requires public acceptance, and, therefore, retail electricity prices must remain at an affordable level. Presently, German electricity prices are among the highest in Europe, despite relatively low wholesale prices.[58] At the same time, the IEA said the new energy policy is based on long-term investment decisions, and a strong policy consensus in Germany in favour of large-scale renewable energy commercialisation exists.[58]
+Ownership[edit]
+In Germany, almost half of renewable power capacity was citizen-owned as of 2013, and about 20 million Germans lived in so-called 100% renewable energy regions.[60]
+Jobs[edit]
+Estimated German jobs in renewable energy in 20122013 were about 370,000.[61]
+Statistics[edit]
+Increases in installed renewable electric power capacity and generation in recent years is shown in the charts and table below:
+50,000
+100,000
+150,000
+200,000
+1990
+1994
+1998
+2002
+2006
+2010
+2014
+Electricity generation from renewables since 1990 (in GWh, excluding geothermal)[24]
+HydroWaste incinerationOnshore WindOffshore WindSolar PVBiomass
+Year
+Installed
+capacity
+[MW]
+Electric gross generation in gigawatt-hours [GWh] by renewable sources since 1990
+Share of gross
+electricity
+consumption
+[%]
+Hydro
+Wind
+Biomass[62]
+Biogenic waste
+incineration[63]
+Photovoltaics
+Geothermal
+Total
+generation
+onshore
+offshore
+1990
+4,718
+17,426
+71
+
+222
+1,213
+1
+
+18,933
+3.4
+1991
+4,826
+14,891
+100
+
+260
+1,211
+1
+
+16,463
+3.1
+1992
+4,918
+17,397
+275
+
+296
+1,262
+4
+
+19,234
+3.6
+1993
+5,190
+17,878
+600
+
+432
+1,203
+3
+
+20,116
+3.8
+1994
+5,548
+19,930
+909
+
+569
+1,306
+7
+
+22,721
+4.3
+1995
+6,223
+21,780
+1,500
+
+662
+1,348
+7
+
+25,297
+4.7
+1996
+6,694
+21,957
+2,032
+
+755
+1,343
+12
+
+26,099
+4.8
+1997
+7,255
+17,357
+2,966
+
+876
+1,397
+18
+
+22,614
+4.1
+1998
+8,301
+17,216
+4,489
+
+1,638
+1,618
+35
+
+24,996
+4.5
+1999
+10,155
+19,647
+5,528
+
+1,845
+1,740
+30
+
+28,790
+5.2
+2000
+12,330
+21,732
+9,513
+
+2,887
+1,844
+60
+
+36,036
+6.2
+2001
+15,157
+22,733
+10,509
+
+3,355
+1,859
+76
+
+38,532
+6.6
+2002
+18,824
+23,124
+15,786
+
+4,099
+1,949
+162
+
+45,120
+7.7
+2003
+22,311
+17,722
+18,713
+
+6,603
+2,238
+313
+
+45,589
+7.6
+2004
+25,533
+20,095
+25,509
+
+8,218
+2,253
+557
+0.2
+56,632
+9.3
+2005
+29,167
+19,638
+27,229
+
+11,102
+3,252
+1,282
+0.2
+62,503
+10.2
+2006
+32,943
+20,008
+30,710
+
+14,793
+3,907
+2,220
+0.4
+71,638
+11.6
+2007
+36,215
+21,170
+39,713
+
+19,832
+4,531
+3,075
+0.4
+88,321
+14.2
+2008
+40,369
+20,443
+40,574
+
+23,121
+4,671
+4,420
+18
+93,247
+15.1
+2009
+47,602
+19,031
+38,610
+38
+26,255
+4,323
+6,583
+19
+94,859
+16.3
+2010
+57,148
+20,953
+37,619
+174
+29,561
+4,781
+11,729
+28
+104,810
+17.0
+2011
+67,376
+17,671
+48,315
+568
+32,848
+4,755
+19,599
+19
+123,775
+20.4
+2012
+77,570
+22,091
+49,948
+722
+39,682
+4,951
+26,380
+25
+143,799
+23.7
+2013
+84,988
+22,998
+50,803
+905
+41,156
+5,415
+31,010
+80
+152,367
+25.4
+2014
+93,102
+19,587
+55,908
+1,449
+43,345
+6,069
+36,056
+98
+162,512
+27.8
+2015
+97.395
+19,320
+79,272
+8,703
+44,225
+5,800
+38,432
+130
+195,882
+32.6
+Source: Federal Ministry for Economic Affairs and Energy (German: Bundesministerium fr Energie und Wirtschaft)[24]:6, 7
+Version: last published PDF data sheet as per February, 2015[64]
+Note: column "Biomass" contains all generated electricity from biomass, biofuels and biogas, excluding generation from biogenic waste incineration
+5,000
+10,000
+15,000
+20,000
+25,000
+30,000
+1990
+1994
+1998
+2002
+2006
+2010
+2014
+Generation from hydro since 1990 (in GWh)
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+70,000
+80,000
+1990
+1994
+1998
+2002
+2006
+2010
+2014
+Generation from onshore wind since 1990 (in GWh)
+10,000
+20,000
+30,000
+40,000
+1990
+1994
+1998
+2002
+2006
+2010
+2014
+Generation from solar PV since 1990 (in GWh)
+10,000
+20,000
+30,000
+40,000
+50,000
+1990
+1994
+1998
+2002
+2006
+2010
+2014
+Generation from biomass, biofuel, biogas since 1990 (in GWh) (without biogenic waste incineration)
+Computer models[edit]
+Main article: Energiewende in Germany Computer studies
+The Energiewende has be subject to a number of computer studies. Most concentrate on electricity generation and consumption as this sector is undergoing a rapid transition in terms of technologies and institutions.
+See also[edit]
+Renewable energy portal
+Germany portal
+European Union portal
+100% renewable energy
+Amory Lovins
+Energy in Germany
+Energy policy of the European Union
+Geothermal power in Germany
+Germany National Renewable Energy Action Plan
+German Solar Industry Association
+Hermann Scheer
+List of countries by renewable electricity production
+Passivhaus
+Renewable energy commercialization
+Renewable energy in the European Union
+Renewable energy by country
+Solar power in Germany
+The Fourth Revolution: Energy
+Wind power in Germany
+Wildpoldsried
+References[edit]
+^ a b Burger, Bruno (21 April 2014). Electricity production from solar and wind in Germany in 2014. Freiburg, Germany: Fraunhofer Institute for Solar Energy Systems ISE. Archived from the original (pdf) on 2014-07-22. Retrieved 2014-07-22.
+^ Winter, Caroline (14 August 2014). "Germany reaches new levels of Greendom, gets 31 percent of its electricity from renewables". USA: Bloomberg Businessweek. Retrieved 2016-06-15.
+^ Kroh, Kiley (10 July 2014). "Bye-bye brown coal: Germany's new renewables mark". Business Spectator. Australia. Retrieved 2016-06-15.
+^ Shankleman, Jessica (16 May 2016). "Germany achieves milestone: renewables supply nearly 100 percent energy for a day". Renewable Energy World. Retrieved 2016-06-15.
+^ thinkprogress.org, Sets New Record, Generating 74 Percent Of Power Needs From Renewable Energy, 13 May 2014
+^ RenewEconomy.com.au, Craig Morris, New wind power generation record in Germany, 16 December 2014
+^ Germany: The World's First Major Renewable Energy Economy
+^ Fraunhofer ISE, Electricity production from solar and wind in Germany  New record in wind power production, p.2, 15 December 2014
+^ http://www.wind-energie.de, Number of Wind Turbines in Germany, 2012
+^ Fraunhofer ISE Recent Facts about Photovoltaics in Germany, p.5, 16 October 2014
+^ a b "100% renewable electricity supply by 2050". Federal Ministry for Environment, Nature Conservation and Nuclear Safety. 26 January 2011. Retrieved 4 June 2011.
+^ a b Schultz, Stefan (23 March 2011). "Will Nuke Phase-Out Make Offshore Farms Attractive?". Spiegel Online. Retrieved 26 March 2011.
+^ a b The Wall Street Journal Online, 24 April 2012
+^ Renewable Energy Sources in Figures - National and International Development
+^ Germany Leads Way on Renewables, Sets 45% Target by 2030
+^ "Electricity production from solar and wind in Germany in 2014 (German version)" (pdf). ise.fraunhofer.de. Fraunhofer Institute, Germany. 5 January 2015. pp.23. Retrieved 5 January 2015.
+^ Share in electricity supply has gone up to 14 per cent
+^ a b Federal Ministry of Economics and Technology (BMWi); Federal Ministry for the Environment, Nature Conservation and Nuclear Safety (BMU) (28 September 2010). Energy concept for an environmentally sound, reliable and affordable energy supply (PDF). Berlin, Germany: Federal Ministry of Economics and Technology (BMWi). Retrieved 2016-06-16.
+^ a b "Overview CDU/CSU and SPD Present Coalition Agreement  55% to 60% Renewables by 2035 and More". German Energy Blog. Germany. 27 November 2013. Retrieved 2016-06-16.
+^ a b The Energy of the Future: Fourth "Energy Transition" Monitoring Report  Summary (PDF). Berlin, Germany: Federal Ministry for Economic Affairs and Energy (BMWi). November 2015. Retrieved 2016-06-09.
+^ "Development of Renewable Energy Sources in 2011" (PDF). December 2012.
+^ "Bruttostromerzeugung in Deutschland von 1990 bis 2012 nach Energietrgern" (PDF). AG Energiebilanzen e.V. February 2013. Retrieved 10 June 2013.
+^ Alexander Ochs (2012-03-16). "The End of the Atomic Dream: One Year After Fukushima, the Shortfalls of Nuclear Energy Are Clearer Than Ever". Worldwatch.
+^ a b c d e "BMWi  Erneuerbare Energien  Zeitreihen Erneuerbare Energien" [Federal Ministry for Economic Affairs and Energy  Historic data about the development of renewable energies in Germany]. Erneuerbare Energien (in German). February 2016. Retrieved 4 May 2016.
+^ Germany: experience renewable energy  Baedeker Reisefhrer. Germany: Baedeker. 2016. ISBN978-382971499-0. Retrieved 2016-06-14.
+^ "GWEC Global Wind Statistics 2014" (PDF). GWEC. 10 February 2015. p.3.
+^ Renewables 2014 Global Status Report, page 57
+^ Bundesministerium fr Wirtschaft und Technologie (February 2012). "Die Energiewende in Deutschland" (PDF). Berlin. p.4.
+^ Wind in power 2011 European statistics EWEA February 2012, pages 4 and 11
+^ Wind in power 2010 European statistics EWEA February 2011, page 11
+^ "Wind energy in Germany".
+^ "72,6 Gigawatts Worldwide" (PDF). Wind Energy Barometer. February 2007. Retrieved 4 July 2007.
+^ http://cleantechnica.com/2016/07/12/germany-confirms-end-renewable-energy-feed-tariffs/
+^ http://energytransition.de/2012/09/e-biomass/
+^ German Biomass Strategy
+^ General Information - Biomass
+^ Bundesministeriums der Justiz in Zusammenarbeites mit der juris. August 9, 2009. Verordnung ber Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen (Biokraftstoff-Nachhaltigkeitsverordnung - Biokraft-NachV).
+^ BioenergyWiki: Policy implementation in Germany
+^ "Photovoltaikanlagen: Datenmeldungen sowie EEG-Vergtungsstze" [Monthly reported new installations of PV systems and current feed-in tariffs] (in German). Bundesnetzagentur. Retrieved February 2015. Check date values in: |access-date= (help)
+^ Solar Power for the World: What You Wanted to Know about PhotovoltaicsTaylor & Francis Group
+^ Entwicklung des deutschen PV-Marktes Jan-Jul 2012 (German)
+^ Erneuerbare Energien liefern mehr als ein Viertel des Stroms
+^ Germany sets new solar power record, institute says
+^ "Global Market Outlook for Photovoltaics 2013 - 2017". European Photovoltaic Industry Association. Retrieved 2014-03-19.
+^ Another Sunny Year for Solar Power
+^ BSW-Solar, Statistische Zahlen der deutschen Solarstrombranche (Photovoltaik), Oct 2011
+^ General information - Hydropower
+^ a b Green energy boom in Germany
+^ "Nuclear sunset?". The Irish Times. September 23, 2011.
+^ Renewable Energy Sources in Germany - key information 2009 at a glance
+^ "Eye-watering cost of renewable revolution". World Nuclear News. 23 January 2012. Retrieved 26 January 2012.
+^ German Energy Blog Federal Cabinet Adopts 3.5 Billion Energy Research Programme
+^ German Energy Blog Clear Bundestag Majority for 2022 Nuclear Phase-Out and Coalition Party Approval for Energy Package
+^ German Energy Blog Overview Renewable Energy Sources Act
+^ EU2007.de - Historical agreement on climate protection
+^ EU2007.de - Historical agreement on climate protection
+^ "Germany's energy transformation Energiewende". The Economist. July 28, 2012. Retrieved 6 March 2013.
+^ a b c International Energy Agency (24 May 2013). "Germany's Energiewende is to maintain a balance between sustainability, affordability and competitiveness". Missing or empty |url= (help)
+^ http://www.world-nuclear-news.org/NP-German-law-limits-renewable-growth-0904147.html
+^ Renewables 2014 Global Status Report, page 27
+^ Renewables 2014 Global Status Report, page 49
+^ Includes all sorts of biomass, biofuels and biogas, e.g. methane from sewage and landfills, except the electricity generated from waste incineration of biomass. (See separate column "Bio waste incineration)."
+^ Bionic share of energy generation from waste incineration
+^ (PDF-data sheet) Federal Ministry for Economic Affairs and Energy, Zeitreihen zur Entwicklung der erneuerbaren Energien in Deutschland (Historic data about the development of renewable energies in Germany), as per February, 2015
+External links[edit]
+Wikimedia Commons has media related to Renewable energy in Germany.
+2011 Renewable Energy Sources in Figures from the Federal Ministry for the Environment, Nature Conservation and Nuclear Safety - Renewable Energy
+For German Homeowners, Renewable Energy is No Longer a Choice
+Climate, Energy, and Environment Overview from the German Department of State
+Official site about renewable Energy in the Emscher-Lippe-Region
+v
+t
+e
+Energy in Germany
+Nuclear
+issues
+Anti-nuclear movement in Germany
+Anti-nuclear protests
+Anti-WAAhnsinns Festival
+Brokdorf
+Bund fr Umwelt und Naturschutz Deutschland
+EnBW Energie Baden-Wuerttemberg AG
+E.ON Kernkraft GmbH
+Free Republic of Wendland
+Gorleben
+Kalkar
+List of nuclear reactors
+Nuclear power in Germany
+Nuclear power phase-out
+Nuclear reprocessing plant Wackersdorf
+RWE Power AG
+Vattenfall Europe Nuclear Energy GmbH
+Wyhl
+Renewable
+energy
+100% renewable energy
+Energiewende
+Energy transition
+Energy transition in Germany
+List of photovoltaic power stations
+Renewable energy commercialization
+Renewable energy in Germany
+Solar power in Germany
+Wind power in Germany
+Public policy
+Climate Action Plan 2050
+Energy Saving Ordinance
+National Action Plan on Energy Efficiency
+National Renewable Energy Action Plan
+Renewable Energy Sources Act
+People
+Hermann Behmel
+Hildegard Breiner
+Rolf Disch
+Hans-Peter Drr
+Hans-Josef Fell
+Erich Fromm
+Siegwart Horst Gnther
+Robert Jungk
+Claudia Kemfert
+Andr Larivire
+Irene Meichsner
+Rainer Moormann
+Claudia Roth
+Rdiger Sagel
+Hermann Scheer
+Jens Scheer
+Inge Schmitz-Feuerhake
+Michael Sladek
+Ursula Sladek
+Klaus Traube
+Roland Vogt
+Armin Weiss
+Media
+The Atom Besieged
+Energy Autonomy: The Economic, Social & Technological Case for Renewable Energy
+The Energy Imperative: 100 Percent Renewable Now
+The Fourth Revolution: Energy
+The Seventh Decade: The New Shape of Nuclear Danger
+What Will Work
+World Nuclear Industry Status Report
+Books about nuclear issues
+Films about nuclear issues
+Related
+topics
+Environmental movement
+The GreensEuropean Free Alliance
+History of the anti-nuclear movement
+List of power stations in Germany
+Lists of nuclear disasters and radioactive incidents
+Nuclear-Free Future Award
+Nuclear power debate
+Nuclear weapons debate
+v
+t
+e
+Renewable energy by country
+Africa
+Ethiopia
+Kenya
+Morocco
+Seychelles
+Asia
+Afghanistan
+Bangladesh
+Bhutan
+China
+India
+Kazakhstan
+Nepal
+Pakistan
+Philippines
+Taiwan
+Thailand
+Europe
+European Union (Czech Republic, Denmark, Finland, Germany, Greece, Hungary, Ireland, Italy, Lithuania, Luxembourg, Netherlands, Portugal, Spain, Sweden, United Kingdom)
+Albania
+Iceland
+Norway
+Russia
+North America
+Canada
+Costa Rica
+Honduras
+Mexico
+United States
+Oceania
+Australia
+New Zealand
+Tuvalu
+South America
+Argentina
+Brazil
+Chile
+Colombia
+Category
+Portals:
+Energy
+Renewable energy
+Sustainable development
+v
+t
+e
+Renewable energy in Europe
+Sovereign states
+European Union
+Austria
+Belgium
+Bulgaria
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Poland
+Portugal
+Romania
+Slovakia
+Slovenia
+Spain
+Sweden
+United Kingdom
+Other
+Albania
+Andorra
+Armenia
+Azerbaijan
+Belarus
+Bosnia and Herzegovina
+Georgia
+Iceland
+Kazakhstan
+Liechtenstein
+Macedonia
+Moldova
+Monaco
+Montenegro
+Norway
+Russia
+San Marino
+Serbia
+Switzerland
+Turkey
+Ukraine
+States with limited
+recognition
+Abkhazia
+Kosovo
+Nagorno-Karabakh
+Northern Cyprus
+South Ossetia
+Transnistria
+Dependencies and
+other territories
+land
+Faroe Islands
+Gibraltar
+Guernsey
+Isle of Man
+Jersey
+Svalbard
+Other entities
+European Union
+v
+t
+e
+Energy in Europe
+Sovereign states
+European Union
+Austria
+Belgium
+Bulgaria
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Poland
+Portugal
+Romania
+Slovakia
+Slovenia
+Spain
+Sweden
+United Kingdom
+Other
+Albania
+Andorra
+Armenia
+Azerbaijan
+Belarus
+Bosnia and Herzegovina
+Georgia
+Iceland
+Kazakhstan
+Liechtenstein
+Macedonia
+Moldova
+Monaco
+Montenegro
+Norway
+Russia
+San Marino
+Serbia
+Switzerland
+Turkey
+Ukraine
+States with limited
+recognition
+Abkhazia
+Kosovo
+Nagorno-Karabakh
+Northern Cyprus
+South Ossetia
+Transnistria
+Dependencies and
+other territories
+land
+Faroe Islands
+Gibraltar
+Guernsey
+Isle of Man
+Jersey
+Svalbard
+Other entities
+European Union
+NewPP limit report
+Parsed by mw1269
+Cached time: 20161120201318
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.736 seconds
+Real time usage: 1.040 seconds
+Preprocessor visited node count: 24913/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 415698/2097152 bytes
+Template argument size: 98284/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 14/500
+Lua time usage: 0.220/10.000 seconds
+Lua memory usage: 5.39 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+833.521
+1 - -total
+42.47%
+353.961
+6 - Template:Navbox
+22.75%
+189.631
+2 - Template:Europe_topic
+19.41%
+161.819
+2 - Template:Navbox_subgroup
+17.17%
+143.122
+1 - Template:Reflist
+16.45%
+137.093
+98 - Template:I2c
+12.03%
+100.303
+8 - Template:Image_frame
+8.11%
+67.574
+98 - Template:Iso2country/data
+5.93%
+49.463
+16 - Template:Cite_web
+4.83%
+40.243
+1 - Template:Clarify
+Saved in parser cache with key enwiki:pcache:idhash:9347277-0!*!0!!en!4!* and timestamp 20161120201317 and revision id 749322762
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Renewable_energy_in_Germany&oldid=749322762"
+Categories: Renewable energy in GermanyHidden categories: CS1 German-language sources (de)CS1 errors: datesPages using web citations with no URLUse dmy dates from June 2016Wikipedia articles needing clarification from May 2016Articles containing German-language textCommons category with page title same as on Wikidata

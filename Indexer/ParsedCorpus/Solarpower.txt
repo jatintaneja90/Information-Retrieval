@@ -1,0 +1,1131 @@
+Solarpower
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about generation of electricity using solar energy. For other uses of solar energy, see Solar energy.
+Not to be confused with Solar luminosity.
+A solar PV array on a rooftop in Hong Kong
+The first three concentrated solar power (CSP) units of Spain's Solnova Solar Power Station in the foreground, with the PS10 and PS20 solar power towers in the background
+Average insolation. Note that this is for a horizontal surface, whereas solar panels are normally propped up at an angle and receive more energy per unit area, especially at high latitudes. Potential of solar energy. The small black dots show land area required to replace the world primary energy supply with solar power.
+Solar power is the conversion of sunlight into electricity, either directly using photovoltaics (PV), or indirectly using concentrated solar power. Concentrated solar power systems use lenses or mirrors and tracking systems to focus a large area of sunlight into a small beam. Photovoltaic cells convert light into an electric current using the photovoltaic effect.[1]
+The International Energy Agency projected in 2014 that under its "high renewables" scenario, by 2050, solar photovoltaics and concentrated solar power would contribute about 16 and 11 percent, respectively, of the worldwide electricity consumption, and solar would be the world's largest source of electricity. Most solar installations would be in China and India.[2]
+Photovoltaics were initially solely used as a source of electricity for small and medium-sized applications, from the calculator powered by a single solar cell to remote homes powered by an off-grid rooftop PV system. As the cost of solar electricity has fallen, the number of grid-connected solar PV systems has grown into the millions and utility-scale solar power stations with hundreds of megawatts are being built. Solar PV is rapidly becoming an inexpensive, low-carbon technology to harness renewable energy from the Sun. The current largest photovoltaic power station in the world is the 850MW Longyangxia Dam Solar Park, in Qinghai, China.
+Commercial concentrated solar power plants were first developed in the 1980s. The 392MW Ivanpah installation is the largest concentrating solar power plant in the world, located in the Mojave Desert of California.
+Contents
+1 Mainstream technologies
+1.1 Photovoltaics
+1.1.1 Conventional PV systems
+1.2 Concentrated solar power
+1.2.1 Hybrid systems
+2 Development and deployment
+2.1 Early days
+2.2 Mid-1990s to early 2010s
+2.3 Current status
+2.4 Forecasts
+2.5 Photovoltaic power stations
+2.6 Concentrating solar power stations
+3 Economics
+3.1 Cost
+3.1.1 Levelized cost of electricity
+3.1.2 Current installation prices
+3.2 Grid parity
+3.3 Self consumption
+3.4 Energy pricing and incentives
+3.4.1 Rebates
+3.4.2 Net metering
+3.4.3 Feed-in tariffs (FIT)
+3.4.4 Solar Renewable Energy Credits (SRECs)
+4 Environmental impacts
+4.1 Greenhouse gases
+4.2 Energy payback
+4.3 Other issues
+5 Emerging technologies
+5.1 Concentrator photovoltaics
+5.2 Floatovoltaics
+6 Grid integration
+7 Geographic solar insolation
+8 See also
+9 References
+10 Sources
+11 Further reading
+Mainstream technologies[edit]
+Many industrialized nations have installed significant solar power capacity into their grids to supplement or provide an alternative to conventional energy sources while an increasing number of less developed nations have turned to solar to reduce dependence on expensive imported fuels (see solar power by country). Long distance transmission allows remote renewable energy resources to displace fossil fuel consumption. Solar power plants use one of two technologies:
+Photovoltaic (PV) systems use solar panels, either on rooftops or in ground-mounted solar farms, converting sunlight directly into electric power.
+Concentrated solar power (CSP, also known as "concentrated solar thermal") plants use solar thermal energy to make steam, that is thereafter converted into electricity by a turbine.
+Photovoltaics[edit]
+Main article: Photovoltaics
+Schematics of a grid-connected residential PV power system[3]
+A solar cell, or photovoltaic cell (PV), is a device that converts light into electric current using the photovoltaic effect. The first solar cell was constructed by Charles Fritts in the 1880s.[4] The German industrialist Ernst Werner von Siemens was among those who recognized the importance of this discovery.[5] In 1931, the German engineer Bruno Lange developed a photo cell using silver selenide in place of copper oxide,[6] although the prototype selenium cells converted less than 1% of incident light into electricity. Following the work of Russell Ohl in the 1940s, researchers Gerald Pearson, Calvin Fuller and Daryl Chapin created the silicon solar cell in 1954.[7] These early solar cells cost 286USD/watt and reached efficiencies of 4.56%.[8]
+Conventional PV systems[edit]
+The array of a photovoltaic power system, or PV system, produces direct current (DC) power which fluctuates with the sunlight's intensity. For practical use this usually requires conversion to certain desired voltages or alternating current (AC), through the use of inverters.[3] Multiple solar cells are connected inside modules. Modules are wired together to form arrays, then tied to an inverter, which produces power at the desired voltage, and for AC, the desired frequency/phase.[3]
+Many residential PV systems are connected to the grid wherever available, especially in developed countries with large markets.[9] In these grid-connected PV systems, use of energy storage is optional. In certain applications such as satellites, lighthouses, or in developing countries, batteries or additional power generators are often added as back-ups. Such stand-alone power systems permit operations at night and at other times of limited sunlight.
+Concentrated solar power[edit]
+Main article: Concentrated solar power
+A parabolic collector concentrates sunlight onto a tube in its focal point.
+Concentrated solar power (CSP), also called "concentrated solar thermal", uses lenses or mirrors and tracking systems to focus a large area of sunlight into a small beam. Contrary to photovoltaics  which converts light directly into electricity  CSP uses the heat of the sun's radiation to generate electricity from conventional steam-driven turbines.
+A wide range of concentrating technologies exists: among the best known are the parabolic trough, the compact linear Fresnel reflector, the Stirling dish and the solar power tower. Various techniques are used to track the sun and focus light. In all of these systems a working fluid is heated by the concentrated sunlight, and is then used for power generation or energy storage.[10] Thermal storage efficiently allows up to 24-hour electricity generation.[11]
+A parabolic trough consists of a linear parabolic reflector that concentrates light onto a receiver positioned along the reflector's focal line. The receiver is a tube positioned right above the middle of the parabolic mirror and is filled with a working fluid. The reflector is made to follow the sun during daylight hours by tracking along a single axis. Parabolic trough systems provide the best land-use factor of any solar technology.[12] The SEGS plants in California and Acciona's Nevada Solar One near Boulder City, Nevada are representatives of this technology.[13][14]
+Compact Linear Fresnel Reflectors are CSP-plants which use many thin mirror strips instead of parabolic mirrors to concentrate sunlight onto two tubes with working fluid. This has the advantage that flat mirrors can be used which are much cheaper than parabolic mirrors, and that more reflectors can be placed in the same amount of space, allowing more of the available sunlight to be used. Concentrating linear fresnel reflectors can be used in either large or more compact plants.[15][16]
+The Stirling solar dish combines a parabolic concentrating dish with a Stirling engine which normally drives an electric generator. The advantages of Stirling solar over photovoltaic cells are higher efficiency of converting sunlight into electricity and longer lifetime. Parabolic dish systems give the highest efficiency among CSP technologies.[17] The 50kW Big Dish in Canberra, Australia is an example of this technology.[13]
+A solar power tower uses an array of tracking reflectors (heliostats) to concentrate light on a central receiver atop a tower. Power towers are more cost effective, offer higher efficiency and better energy storage capability among CSP technologies.[13] The PS10 Solar Power Plant and PS20 solar power plant are examples of this technology.
+Hybrid systems[edit]
+A hybrid system combines (C)PV and CSP with one another or with other forms of generation such as diesel, wind and biogas. The combined form of generation may enable the system to modulate power output as a function of demand or at least reduce the fluctuating nature of solar power and the consumption of non renewable fuel. Hybrid systems are most often found on islands.
+CPV/CSP system
+A novel solar CPV/CSP hybrid system has been proposed, combining concentrator photovoltaics with the non-PV technology of concentrated solar power, or also known as concentrated solar thermal.[18]
+ISCC system
+The Hassi R'Mel power station in Algeria, is an example of combining CSP with a gas turbine, where a 25-megawatt CSP-parabolic trough array supplements a much larger 130MW combined cycle gas turbine plant. Another example is the Yazd power station in Iran.
+PVT system
+Hybrid PV/T), also known as photovoltaic thermal hybrid solar collectors convert solar radiation into thermal and electrical energy. Such a system combines a solar (PV) module with a solar thermal collector in an complementary way.
+CPVT system
+A concentrated photovoltaic thermal hybrid (CPVT) system is similar to a PVT system. It uses concentrated photovoltaics (CPV) instead of conventional PV technology, and combines it with a solar thermal collector.
+PV diesel system
+It combines a photovoltaic system with a diesel generator.[19] Combinations with other renewables are possible and include wind turbines.[20]
+PV-thermoelectric system
+Thermoelectric, or "thermovoltaic" devices convert a temperature difference between dissimilar materials into an electric current. Solar cells use only the high frequency part of the radiation, while the low frequency heat energy is wasted. Several patents about the use of thermoelectric devices in tandem with solar cells have been filed.[21] The idea is to increase the efficiency of the combined solar/thermoelectric system to convert the solar radiation into useful electricity.
+Development and deployment[edit]
+See also: Timeline of solar cells, Solar power by country, and Concentrated solar power Deployment around the world
+Deployment of Solar Power
+Capacity in MW by Technology
+25,000
+50,000
+75,000
+100,000
+125,000
+150,000
+2007
+2010
+2013
+Worldwide deployment of solar power by technology since 2006.[22]
+Solar PV CSP - Solar thermal
+Electricity Generation from Solar
+Year
+Energy (TWh)
+% of Total
+2004
+2.6
+0.01%
+2005
+3.7
+0.02%
+2006
+5.0
+0.03%
+2007
+6.8
+0.03%
+2008
+11.4
+0.06%
+2009
+19.3
+0.10%
+2010
+31.4
+0.15%
+2011
+60.6
+0.27%
+2012
+96.7
+0.43%
+2013
+134.5
+0.58%
+2014
+185.9
+0.79%
+2015
+253.0
+1.05%
+Source: BP-Statistical Review of World Energy, 2016[23][24][25]
+Early days[edit]
+The early development of solar technologies starting in the 1860s was driven by an expectation that coal would soon become scarce. However, development of solar technologies stagnated in the early 20thcentury in the face of the increasing availability, economy, and utility of coal and petroleum.[26] In 1974 it was estimated that only six private homes in all of North America were entirely heated or cooled by functional solar power systems.[27] The 1973 oil embargo and 1979 energy crisis caused a reorganization of energy policies around the world and brought renewed attention to developing solar technologies.[28][29] Deployment strategies focused on incentive programs such as the Federal Photovoltaic Utilization Program in the US and the Sunshine Program in Japan. Other efforts included the formation of research facilities in the United States (SERI, now NREL), Japan (NEDO), and Germany (FraunhoferISE).[30] Between 1970 and 1983 installations of photovoltaic systems grew rapidly, but falling oil prices in the early 1980s moderated the growth of photovoltaics from 1984 to 1996.
+Mid-1990s to early 2010s[edit]
+In the mid-1990s, development of both, residential and commercial rooftop solar as well as utility-scale photovoltaic power stations, began to accelerate again due to supply issues with oil and natural gas, global warming concerns, and the improving economic position of PV relative to other energy technologies.[31] In the early 2000s, the adoption of feed-in tariffsa policy mechanism, that gives renewables priority on the grid and defines a fixed price for the generated electricitylead to a high level of investment security and to a soaring number of PV deployments in Europe.
+Current status[edit]
+Further information: Growth of photovoltaics
+For several years, worldwide growth of solar PV was driven by European deployment, but has since shifted to Asia, especially China and Japan, and to a growing number of countries and regions all over the world, including, but not limited to, Australia, Canada, Chile, India, Israel, Mexico, South Africa, South Korea, Thailand, and the United States.
+Worldwide growth of photovoltaics has averaged 40% per year since 2000 and total installed capacity reached 139GW at the end of 2013 with Germany having the most cumulative installations (35.7GW) and Italy having the highest percentage of electricity generated by solar PV (7.0%).[32]
+Concentrated solar power (CSP) also started to grow rapidly, increasing its capacity nearly tenfold from 2004 to 2013, albeit from a lower level and involving fewer countries than solar PV.[33]:51 As of the end of 2013, worldwide cumulative CSP-capacity reached 3,425MW.
+Forecasts[edit]
+In 2010, the International Energy Agency predicted that global solar PV capacity could reach 3,000 GW or 11% of projected global electricity generation by 2050enough to generate 4,500TWh of electricity.[34] Four years later, in 2014, the agency projected that, under its "high renewables" scenario, solar power could supply 27% of global electricity generation by 2050 (16% from PV and 11% from CSP).[2] In 2015, analysts predicted that one million homes in the U.S. will have solar power by the end of 2016.[35]
+Photovoltaic power stations[edit]
+Main article: List of photovoltaic power stations
+The Desert Sunlight Solar Farm is a 550MW power plant in Riverside County, California, that uses thin-film CdTe-modules made by First Solar.[36] As of November 2014, the 550 megawatt Topaz Solar Farm was the largest photovoltaic power plant in the world. This was surpassed by the 579 MW Solar Star complex. The current largest photovoltaic power station in the world is Longyangxia Dam Solar Park, in Gonghe County, Qinghai, China.
+World's largest photovoltaic power stations as of 2015
+Name
+Capacity
+(MW)
+Location
+Year Completed
+Info
+Longyangxia Dam Solar Park
+850
+Qinghai, China
+2013, 2015
+Kamuthi Solar Power Project
+648
+Kamuthi, India
+2015[37]
+Solar Star I and II
+579
+California, USA
+2015[38]
+Topaz Solar Farm
+550
+California, USA
+2014
+Desert Sunlight Solar Farm
+550
+California, USA
+2015
+California Valley Solar Ranch
+292
+California, USA
+2013
+Agua Caliente Solar Project
+290
+Arizona, USA
+2014
+Mount Signal Solar
+266
+California, USA
+2014[39]
+Antelope Valley Solar Ranch
+266
+California, USA
+pending
+Charanka Solar Park
+224
+Gujarat, India
+2012
+Mesquite Solar project
+207
+Arizona, USA
+pending
+(planned 700 MW)
+Huanghe Hydropower Golmud Solar Park
+200
+Qinghai, China
+2011
+Gonghe Industrial Park Phase I
+200
+Gonghe County, China
+2013[40]
+Imperial Valley Solar Project
+200
+California, USA
+2013
+Note: figures rounded. List may change frequently. For more detailed and up to date information see:
+List of world's largest photovoltaic power stations or corresponding article.
+Concentrating solar power stations[edit]
+Main article: List of solar thermal power stations
+Commercial concentrating solar power (CSP) plants, also called "solar thermal power stations", were first developed in the 1980s. The 377MW Ivanpah Solar Power Facility, located in California's Mojave Desert, is the worlds largest solar thermal power plant project. Other large CSP plants include the Solnova Solar Power Station (150MW), the Andasol solar power station (150MW), and Extresol Solar Power Station (150MW), all in Spain. The principal advantage of CSP is the ability to efficiently add thermal storage, allowing the dispatching of electricity over up to a 24-hour period. Since peak electricity demand typically occurs at about 5pm, many CSP power plants use 3 to 5hours of thermal storage.[41]
+Largest operational solar thermal power stations
+Name
+Capacity
+(MW)
+Location
+Notes
+Ivanpah Solar Power Facility
+392
+Mojave Desert, California, USA
+Operational since February 2014. Located southwest of Las Vegas.
+Solar Energy Generating Systems
+354
+Mojave Desert, California, USA
+Commissioned between 1984 and 1991. Collection of 9 units.
+Mojave Solar Project
+280
+Barstow, California, USA
+Completed December 2014
+Solana Generating Station
+280
+Gila Bend, Arizona, USA
+Completed October 2013
+Includes a 6h thermal energy storage
+Genesis Solar Energy Project
+250
+Blythe, California, USA
+Completed April 2014
+Solaben Solar Power Station[42]
+200
+Logrosn, Spain
+Completed 20122013[43]
+Noor I
+160
+Morocco
+Completed 2016
+Solnova Solar Power Station
+150
+Seville, Spain
+Completed in 2010
+Andasol solar power station
+150
+Granada, Spain
+Completed 2011. Includes a 7.5h thermal energy storage.
+Extresol Solar Power Station
+150
+Torre de Miguel Sesmero, Spain
+Completed 20102012
+Extresol 3 includes a 7.5h thermal energy storage
+For a more detailed, sourced and complete list, see: List of solar thermal power stations#Operational or corresponding article.
+Ivanpah Solar Electric Generating System with all three towers under load during February 2014, with the Clark Mountain Range seen in the distance
+Part of the 354 MW Solar Energy Generating Systems (SEGS) parabolic trough solar complex in northern San Bernardino County, California
+Economics[edit]
+Cost[edit]
+Swanson's law  the PV learning curve
+Solar PV  LCOE for Europe until 2020 (in euro-cts. per kWh)[44]
+Economic photovoltaic capacity vs installation cost, in the United States
+Adjusting for inflation, it cost $96 per watt for a solar module in the mid-1970s. Process improvements and a very large boost in production have brought that figure down to 68 cents per watt in February 2016, according to data from Bloomberg New Energy Finance.[45] Palo Alto California signed a wholesale purchase agreement in 2016 that secured solar power for 3.7 cents per kilowatt-hour. And in sunny Dubai large-scale solar generated electricity sold in 2016 for just 2.99 cents per kilowatt-hour -- "competitive with any form of fossil-based electricity  and cheaper than most."[46]
+Photovoltaic systems use no fuel, and modules typically last 25 to 40 years. Thus, capital costs make up most of the cost of solar power. Operations and maintenance costs for new utility-scale solar plants in the US are estimated to be 9 percent of the cost of photovoltaic electricity, and 17 percent of the cost of solar thermal electricity.[47] Governments have created various financial incentives to encourage the use of solar power, such as feed-in tariff programs. Also, Renewable portfolio standards impose a government mandate that utilities generate or acquire a certain percentage of renewable power regardless of increased energy procurement costs. In most states, RPS goals can be achieved by any combination of solar, wind, biomass, landfill gas, ocean, geothermal, municipal solid waste, hydroelectric, hydrogen, or fuel cell technologies.[48]
+Levelized cost of electricity[edit]
+The PV industry is beginning to adopt levelized cost of electricity (LCOE) as the unit of cost. The electrical energy generated is sold in units of kilowatt-hours (kWh). As a rule of thumb, and depending on the local insolation, 1 watt-peak of installed solar PV capacity generates about 1 to 2kWh of electricity per year. This corresponds to a capacity factor of around 1020%. The product of the local cost of electricity and the insolation determines the break even point for solar power. The International Conference on Solar Photovoltaic Investments, organized by EPIA, has estimated that PV systems will pay back their investors in 8 to 12 years.[49] As a result, since 2006 it has been economical for investors to install photovoltaics for free in return for a long term power purchase agreement. Fifty percent of commercial systems in the United States were installed in this manner in 2007 and over 90% by 2009.[50]
+Shi Zhengrong has said that, as of 2012, unsubsidised solar power is already competitive with fossil fuels in India, Hawaii, Italy and Spain. He said "We are at a tipping point. No longer are renewable power sources like solar and wind a luxury of the rich. They are now starting to compete in the real world without subsidies". "Solar power will be able to compete without subsidies against conventional power sources in half the world by 2015".[51]
+Current installation prices[edit]
+In its 2014 edition of the Technology Roadmap: Solar Photovoltaic Energy report, the International Energy Agency (IEA) published prices for residential, commercial and utility-scale PV systems for eight major markets as of 2013 (see table below).[2] However, DOE's SunShot Initiative has reported much lower U.S. installation prices. In 2014, prices continued to decline. The SunShot Initiative modeled U.S. system prices to be in the range of $1.80 to $3.29 per watt.[52] Other sources identify similar price ranges of $1.70 to $3.50 for the different market segments in the U.S.,[53] and in the highly penetrated German market, prices for residential and small commercial rooftop systems of up to 100kW declined to $1.36 per watt (1.24/W) by the end of 2014.[54] In 2015, Deutsche Bank estimated costs for small residential rooftop systems in the U.S. around $2.90 per watt. Costs for utility-scale systems in China and India were estimated as low as $1.00 per watt.[55]
+Typical PV system prices in 2013 in selected countries (USD)
+USD/W
+Australia
+China
+France
+Germany
+Italy
+Japan
+United Kingdom
+United States
+Residential
+1.8
+1.5
+4.1
+2.4
+2.8
+4.2
+2.8
+4.91
+Commercial
+1.7
+1.4
+2.7
+1.8
+1.9
+3.6
+2.4
+4.51
+Utility-scale
+2.0
+1.4
+2.2
+1.4
+1.5
+2.9
+1.9
+3.31
+Source: IEA  Technology Roadmap: Solar Photovoltaic Energy report, September 2014'[2]:15
+1U.S figures are lower in DOE's Photovoltaic System Pricing Trends[52]
+Grid parity[edit]
+Main article: Grid parity
+Grid parity, the point at which the cost of photovoltaic electricity is equal to or cheaper than the price of grid power, is more easily achieved in areas with abundant sun and high costs for electricity such as in California and Japan.[56] In 2008, The levelized cost of electricity for solar PV was $0.25/kWh or less in most of the OECD countries. By late 2011, the fully loaded cost was predicted to fall below $0.15/kWh for most of the OECD and to reach $0.10/kWh in sunnier regions. These cost levels are driving three emerging trends: vertical integration of the supply chain, origination of power purchase agreements (PPAs) by solar power companies, and unexpected risk for traditional power generation companies, grid operators and wind turbine manufacturers.[57][dead link]
+Grid parity was first reached in Spain in 2013,[58] Hawaii and other islands that otherwise use fossil fuel (diesel fuel) to produce electricity, and most of the US is expected to reach grid parity by 2015.[59][not in citation given][60][not in citation given]
+In 2007, General Electric's Chief Engineer predicted grid parity without subsidies in sunny parts of the United States by around 2015; other companies predicted an earlier date:[61] the cost of solar power will be below grid parity for more than half of residential customers and 10% of commercial customers in the OECD, as long as grid electricity prices do not decrease through 2010.[57]
+Self consumption[edit]
+In cases of self consumption of the solar energy, the payback time is calculated based on how much electricity is not purchased from the grid. For example, in Germany, with electricity prices of 0.25 Euro/KWh and insolation of 900 KWh/KW, one KWp will save 225 Euro per year, and with an installation cost of 1700 Euro/KWp the system cost will be returned in less than 7 years.[62] However, in many cases, the patterns of generation and consumption do not coincide, and some or all of the energy is fed back into the grid. The electricity is sold, and at other times when energy is taken from the grid, electricity is bought. The relative costs and prices obtained affect the economics.
+Energy pricing and incentives[edit]
+Main article: PV financial incentives
+The political purpose of incentive policies for PV is to facilitate an initial small-scale deployment to begin to grow the industry, even where the cost of PV is significantly above grid parity, to allow the industry to achieve the economies of scale necessary to reach grid parity. The policies are implemented to promote national energy independence, high tech job creation and reduction of CO2 emissions. Three incentive mechanisms are often used in combination as investment subsidies: the authorities refund part of the cost of installation of the system, the electricity utility buys PV electricity from the producer under a multiyear contract at a guaranteed rate (), and Solar Renewable Energy Certificates (SRECs)
+Rebates[edit]
+With investment subsidies, the financial burden falls upon the taxpayer, while with feed-in tariffs the extra cost is distributed across the utilities' customer bases. While the investment subsidy may be simpler to administer, the main argument in favour of feed-in tariffs is the encouragement of quality. Investment subsidies are paid out as a function of the nameplate capacity of the installed system and are independent of its actual power yield over time, thus rewarding the overstatement of power and tolerating poor durability and maintenance. Some electric companies offer rebates to their customers, such as Austin Energy in Texas, which offers $2.50/watt installed up to $15,000.[63]
+Net metering[edit]
+Net metering, unlike a feed-in tariff, requires only one meter, but it must be bi-directional.
+In net metering the price of the electricity produced is the same as the price supplied to the consumer, and the consumer is billed on the difference between production and consumption. Net metering can usually be done with no changes to standard electricity meters, which accurately measure power in both directions and automatically report the difference, and because it allows homeowners and businesses to generate electricity at a different time from consumption, effectively using the grid as a giant storage battery. With net metering, deficits are billed each month while surpluses are rolled over to the following month. Best practices call for perpetual roll over of kWh credits.[64] Excess credits upon termination of service are either lost, or paid for at a rate ranging from wholesale to retail rate or above, as can be excess annual credits. In New Jersey, annual excess credits are paid at the wholesale rate, as are left over credits when a customer terminates service.[65]
+Feed-in tariffs (FIT)[edit]
+With feed-in tariffs, the financial burden falls upon the consumer. They reward the number of kilowatt-hours produced over a long period of time, but because the rate is set by the authorities, it may result in perceived overpayment. The price paid per kilowatt-hour under a feed-in tariff exceeds the price of grid electricity. Net metering refers to the case where the price paid by the utility is the same as the price charged.
+The complexity of approvals in California, Spain and Italy has prevented comparable growth to Germany even though the return on investment is better.[citation needed] In some countries, additional incentives are offered for BIPV compared to stand alone PV.
+France + EUR 0.16 /kWh (compared to semi-integrated) or + EUR 0.27/kWh (compared to stand alone)
+Italy + EUR 0.04-0.09 kWh
+Germany + EUR 0.05/kWh (facades only)
+Solar Renewable Energy Credits (SRECs)[edit]
+Alternatively, SRECs allow for a market mechanism to set the price of the solar generated electricity subsity. In this mechanism, a renewable energy production or consumption target is set, and the utility (more technically the Load Serving Entity) is obliged to purchase renewable energy or face a fine (Alternative Compliance Payment or ACP). The producer is credited for an SREC for every 1,000kWh of electricity produced. If the utility buys this SREC and retires it, they avoid paying the ACP. In principle this system delivers the cheapest renewable energy, since the all solar facilities are eligible and can be installed in the most economic locations. Uncertainties about the future value of SRECs have led to long-term SREC contract markets to give clarity to their prices and allow solar developers to pre-sell and hedge their credits.
+Financial incentives for photovoltaics differ across countries, including Australia, China,[66] Germany,[67] Israel,[68] Japan, and the United States and even across states within the US.
+The Japanese government through its Ministry of International Trade and Industry ran a successful programme of subsidies from 1994 to 2003. By the end of 2004, Japan led the world in installed PV capacity with over 1.1GW.[69]
+In 2004, the German government introduced the first large-scale feed-in tariff system, under the German Renewable Energy Act, which resulted in explosive growth of PV installations in Germany. At the outset the FIT was over 3x the retail price or 8x the industrial price. The principle behind the German system is a 20-year flat rate contract. The value of new contracts is programmed to decrease each year, in order to encourage the industry to pass on lower costs to the end users. The programme has been more successful than expected with over 1GW installed in 2006, and political pressure is mounting to decrease the tariff to lessen the future burden on consumers.
+Subsequently, Spain, Italy, Greecethat enjoyed an early success with domestic solar-thermal installations for hot water needsand France introduced feed-in tariffs. None have replicated the programmed decrease of FIT in new contracts though, making the German incentive relatively less and less attractive compared to other countries. The French and Greek FIT offer a high premium (EUR 0.55/kWh) for building integrated systems. California, Greece, France and Italy have 30-50% more insolation than Germany making them financially more attractive. The Greek domestic "solar roof" programme (adopted in June 2009 for installations up to 10kW) has internal rates of return of 10-15% at current commercial installation costs, which, furthermore, is tax free.
+In 2006 California approved the 'California Solar Initiative', offering a choice of investment subsidies or FIT for small and medium systems and a FIT for large systems. The small-system FIT of $0.39 per kWh (far less than EU countries) expires in just 5 years, and the alternate "EPBB" residential investment incentive is modest, averaging perhaps 20% of cost. All California incentives are scheduled to decrease in the future depending as a function of the amount of PV capacity installed.
+At the end of 2006, the Ontario Power Authority (OPA, Canada) began its Standard Offer Program, a precursor to the Green Energy Act, and the first in North America for distributed renewable projects of less than 10MW. The feed-in tariff guaranteed a fixed price of $0.42 CDN per kWh over a period of twenty years. Unlike net metering, all the electricity produced was sold to the OPA at the given rate.
+Environmental impacts[edit]
+Part of the Senftenberg Solarpark, a solar photovoltaic power plant located on former open-pit mining areas close to the city of Senftenberg, in Eastern Germany. The 78 MW Phase 1 of the plant was completed within three months.
+Unlike fossil fuel based technologies, solar power does not lead to any harmful emissions during operation, but the production of the panels leads to some amount of pollution.
+Greenhouse gases[edit]
+The Life-cycle greenhouse-gas emissions of solar power are in the range of 22 to 46gram (g) per kilowatt-hour (kWh) depending on if solar thermal or solar PV is being analyzed, respectively. With this potentially being decreased to 15g/kWh in the future.[70] For comparison (of weighted averages), a combined cycle gas-fired power plant emits some 400599g/kWh,[71] an oil-fired power plant 893g/kWh,[71] a coal-fired power plant 915994g/kWh[72] or with carbon capture and storage some 200g/kWh, and a geothermal high-temp. power plant 91122g/kWh.[71] The life cycle emission intensity of hydro, wind and nuclear power are lower than solar's as of 2011 as published by the IPCC, and discussed in the article Life-cycle greenhouse-gas emissions of energy sources. Similar to all energy sources were their total life cycle emissions primarily lay in the construction and transportation phase, the switch to low carbon power in the manufacturing and transportation of solar devices would further reduce carbon emissions. BP Solar owns two factories built by Solarex (one in Maryland, the other in Virginia) in which all of the energy used to manufacture solar panels is produced by solar panels. A 1-kilowatt system eliminates the burning of approximately 170 pounds of coal, 300 pounds of carbon dioxide from being released into the atmosphere, and saves up to 105 gallons of water consumption monthly.[73]
+The US National Renewable Energy Laboratory (NREL), in harmonizing the disparate estimates of life-cycle GHG emissions for solar PV, found that the most critical parameter was the solar insolation of the site: GHG emissions factors for PV solar are inversely proportional to insolation.[74] For a site with insolation of 1700 kWh/m2/year, typical of southern Europe, NREL researchers estimated GHG emissions of 45gCO2e/kWh. Using the same assumptions, at Phoenix, USA, with insolation of 2400kWh/m2/year, the GHG emissions factor would be reduced to 32g of CO2e/kWh.[75]
+The New Zealand Parliamentary Commissioner for the Environment found that the solar PV would have little impact on the country's greenhouse gas emissions. The country already generates 80 percent of its electricity from renewable resources (primarily hydroelectricity and geothermal) and national electricity usage peaks on winter evenings whereas solar generation peaks on summer afternoons, meaning a large uptake of solar PV would end up displacing other renewable generators before fossil-fueled power plants.[76]
+Energy payback[edit]
+The energy payback time (EPBT) of a power generating system is the time required to generate as much energy as is consumed during production and lifetime operation of the system. Due to improving production technologies the payback time has been decreasing constantly since the introduction of PV systems in the energy market.[77] In 2000 the energy payback time of PV systems was estimated as 8 to 11 years[78] and in 2006 this was estimated to be 1.5 to 3.5 years for crystalline silicon silicon PV systems[70] and 11.5 years for thin film technologies (S. Europe).[70] These figures fell to 0.753.5 years in 2013, with an average of about 2 years for crystalline silicon PV and CIS systems.[79]
+Another economic measure, closely related to the energy payback time, is the energy returned on energy invested (EROEI) or energy return on investment (EROI),[80] which is the ratio of electricity generated divided by the energy required to build and maintain the equipment. (This is not the same as the economic return on investment (ROI), which varies according to local energy prices, subsidies available and metering techniques.) With expected lifetimes of 30 years,[81] the EROEI of PV systems are in the range of 10 to 30, thus generating enough energy over their lifetimes to reproduce themselves many times (6-31 reproductions) depending on what type of material, balance of system (BOS), and the geographic location of the system.[82]
+Other issues[edit]
+One issue that has often raised concerns is the use of cadmium (Cd), a toxic heavy metal that has the tendency to accumulate in ecological food chains. It is used as semiconductor component in CdTe solar cells and as buffer layer for certain CIGS cells in the form of CdS.[83] The amount of cadmium used in thin-film PV modules is relatively small (510 g/m) and with proper recycling and emission control techniques in place the cadmium emissions from module production can be almost zero. Current PV technologies lead to cadmium emissions of 0.30.9 microgram/kWh over the whole life-cycle.[70] Most of these emissions actually arise through the use of coal power for the manufacturing of the modules, and coal and lignite combustion leads to much higher emissions of cadmium. Life-cycle cadmium emissions from coal is 3.1 microgram/kWh, lignite 6.2, and natural gas 0.2 microgram/kWh.
+In a life-cycle analysis it has been noted, that if electricity produced by photovoltaic panels were used to manufacture the modules instead of electricity from burning coal, cadmium emissions from coal power usage in the manufacturing process could be entirely eliminated.[84]
+In the case of crystalline silicon modules, the solder material, that joins together the copper strings of the cells, contains about 36 percent of lead (Pb). Moreover, the paste used for screen printing front and back contacts contains traces of Pb and sometimes Cd as well. It is estimated that about 1,000 metric tonnes of Pb have been used for 100 gigawatts of c-Si solar modules. However, there is no fundamental need for lead in the solder alloy.[83]
+Some media sources have reported that concentrated solar power plants have injured or killed large numbers of birds due to intense heat from the concentrated sunrays.[85][86] This adverse effect does not apply to PV solar power plants, and some of the claims may have been overstated or exaggerated.[87]
+A 2014-published life-cycle analysis of land use for various sources of electricity concluded that the large-scale implementation of solar and wind potentially reduces pollution-related environmental impacts. The study found that the land-use footprint, given in square meter-years per megawatt-hour (m2a/MWh), was lowest for wind, natural gas and rooftop PV, with 0.26, 0.49 and 0.59, respectively, and followed by utility-scale solar PV with 7.9. For CSP, the footprint was 9 and 14, using parabolic troughs and solar towers, respectively. The largest footprint had coal-fired power plants with 18m2a/MWh.[88]
+Emerging technologies[edit]
+Concentrator photovoltaics[edit]
+CPV modules on dual axis solar trackers in Golmud, China
+Concentrator photovoltaics (CPV) systems employ sunlight concentrated onto photovoltaic surfaces for the purpose of electrical power production. Contrary to conventional photovoltaic systems, it uses lenses and curved mirrors to focus sunlight onto small, but highly efficient, multi-junction solar cells. Solar concentrators of all varieties may be used, and these are often mounted on a solar tracker in order to keep the focal point upon the cell as the sun moves across the sky.[89] Luminescent solar concentrators (when combined with a PV-solar cell) can also be regarded as a CPV system. Concentrated photovoltaics are useful as they can improve efficiency of PV-solar panels drastically.[90]
+In addition, most solar panels on spacecraft are also made of high efficient multi-junction photovoltaic cells to derive electricity from sunlight when operating in the inner Solar System.
+Floatovoltaics[edit]
+Floatovoltaics are an emerging form of PV systems that float on the surface of irrigation canals, water reservoirs, quarry lakes, and tailing ponds. Several systems exist in France, India, Japan, Korea, the United Kingdom and the United States.[91][92][93][94] These systems reduce the need of valuable land area, save drinking water that would otherwise be lost through evaporation, and show a higher efficiency of solar energy conversion, as the panels are kept at a cooler temperature than they would be on land.[95]
+Grid integration[edit]
+Main articles: Energy storage and Grid energy storage
+Construction of the Salt Tanks which provide efficient thermal energy storage[96] so that output can be provided after the sun goes down, and output can be scheduled to meet demand requirements.[97] The 280 MW Solana Generating Station is designed to provide six hours of energy storage. This allows the plant to generate about 38 percent of its rated capacity over the course of a year.[98]
+Thermal energy storage. The Andasol CSP plant uses tanks of molten salt to store solar energy.
+Pumped-storage hydroelectricity (PSH). This facility in Geesthacht, Germany, also includes a solar array.
+Since solar energy is not available at night, storing its energy is an important issue in order to have continuous energy availability.[99] Both wind power and solar power are variable renewable energy, meaning that all available output must be taken when it is available, and either stored for when it can be used later, or transported over transmission lines to where it can be used now. Concentrated solar power plants may use thermal energy storage to store the solar energy, such as in high-temperature molten salts. These salts are an effective storage medium because they are low-cost, have a high specific heat capacity, and can deliver heat at temperatures compatible with conventional power systems. This method of energy storage is used, for example, by the Solar Two power station, allowing it to store 1.44TJ in its 68m storage tank, enough to provide full output for close to 39 hours, with an efficiency of about 99%.[100]
+Rechargeable batteries have been traditionally used to store excess electricity in stand alone PV systems. With grid-connected photovoltaic power system, excess electricity can be sent to the electrical grid. Net metering and feed-in tariff programs give these systems a credit for the electricity they produce. This credit offsets electricity provided from the grid when the system cannot meet demand, effectively trading with the grid instead of storing excess electricity. Credits are normally rolled over from month to month and any remaining surplus settled annually.[101] When wind and solar are a small fraction of the grid power, other generation techniques can adjust their output appropriately, but as these forms of variable power grow, additional balance on the grid is needed. As prices are rapidly declining, PV systems increasingly use rechargeable batteries to store a surplus to be later used at night. Batteries used for grid-storage stabilize the electrical grid by leveling out peak loads usually for several minutes, and in rare cases for hours. In the future, less expensive batteries could play an important role on the electrical grid, as they can charge during periods when generation exceeds demand and feed their stored energy into the grid when demand is higher than generation.
+Although not permitted under the US National Electric Code, it is technically possible to have a plug and play PV microinverter. A recent review article found that careful system design would enable such systems to meet all technical, though not all safety requirements. [102]
+Common battery technologies used in today's home PV systems include, the valve regulated lead-acid battery a modified version of the conventional leadacid battery, nickelcadmium and lithium-ion batteries. Lead-acid batteries are currently the predominant technology used in small-scale, residential PV systems, due to their high reliability, low self discharge and investment and maintenance costs, despite shorter lifetime and lower energy density. However, lithium-ion batteries have the potential to replace lead-acid batteries in the near future, as they are being intensively developed and lower prices are expected due to economies of scale provided by large production facilities such as the Gigafactory 1. In addition, the Li-ion batteries of plug-in electric cars may serve as a future storage devices in a vehicle-to-grid system. Since most vehicles are parked an average of 95 percent of the time, their batteries could be used to let electricity flow from the car to the power lines and back. Other rechargeable batteries used for distributed PV systems include, sodiumsulfur and vanadium redox batteries, two prominent types of a molten salt and a flow battery, respectively.[103][104][105]
+Conventional hydroelectricity works very well in conjunction with variable electricity sources such as solar and wind, the water can be held back and allowed to flow as required. Where a suitable river is not available, pumped-storage hydroelectricity stores energy in the form of water pumped when surplus electricity is available, from a lower elevation reservoir to a higher elevation one. The energy is recovered when demand is high by releasing the water through a hydroelectric power generator.[106] However, this cycle can lose 20% of the energy to round trip inefficiencies.
+The combination of wind and solar PV has the advantage that the two sources complement each other because the peak operating times for each system occur at different times of the day and year. The power generation of such solar hybrid power systems is therefore more constant and fluctuates less than each of the two component subsystems.[20] Solar power is seasonal, particularly in northern/southern climates, away from the equator, suggesting a need for long term seasonal storage in a medium such as hydrogen or pumped hydroelectric.[107] The Institute for Solar Energy Supply Technology of the University of Kassel pilot-tested a combined power plant linking solar, wind, biogas and hydrostorage to provide load-following power from renewable sources.[108]
+Research is also undertaken in this field of artificial photosynthesis. It involves the use of nanotechnology to store solar electromagnetic energy in chemical bonds, by splitting water to produce hydrogen fuel or then combining with carbon dioxide to make biopolymers such as methanol. Many large national and regional research projects on artificial photosynthesis are now trying to develop techniques integrating improved light capture, quantum coherence methods of electron transfer and cheap catalytic materials that operate under a variety of atmospheric conditions.[109] Senior researchers in the field have made the public policy case for a Global Project on Artificial Photosynthesis to address critical energy security and environmental sustainability issues.[110]
+Geographic solar insolation[edit]
+See also: Solar irradiance
+Different parts of the world experience different amounts of sunshine, depending on latitude and weather. Locations nearer the equator receive many more hours of sunshine than those further north or south, thus photovoltaic panels can be more economically desirable in some places more than others.
+North America
+South America
+Europe
+Africa and Middle East
+South and South-East Asia
+Australia
+See also[edit]
+Wikimedia Commons has media related to Solar power.
+Energy portal
+Sustainable development portal
+Environment portal
+Cost of electricity by source
+List of cities by sunshine duration
+List of energy storage projects
+List of renewable energy organizations
+List of solar energy topics
+List of solar thermal power stations
+Renewable energy
+Renewable energy commercialization
+Solar energy
+Solar lamp
+Solar vehicle
+Sustainable energy
+Thin-film cell
+Timeline of solar cells
+References[edit]
+^ "Energy Sources: Solar". Department of Energy. Retrieved 19 April 2011.
+^ a b c d International Energy Agency (2014). "Technology Roadmap: Solar Photovoltaic Energy" (PDF). IEA. Archived from the original on 7 October 2014. Retrieved 7 October 2014.
+^ a b c Solar Cells and their Applications Second Edition, Lewis Fraas, Larry Partain, Wiley, 2010, ISBN 978-0-470-44633-1 , Section10.2.
+^ Perlin (1999), p. 147
+^ Perlin (1999), pp. 1820
+^ Corporation, Bonnier (June 1931). "Magic Plates, Tap Sun For Power". Popular Science. Retrieved 19 April 2011.
+^ Perlin (1999), p. 29
+^ Perlin (1999), p. 2930, 38
+^ "Trends in Photovoltaic Applications Survey report of selected IEA countries between 1992 and 2009, IEA-PVPS". Retrieved 8 November 2011.
+^ Martin and Goswami (2005), p. 45
+^ Stephen Lacey. "Spanish CSP Plant with Storage Produces Electricity for 24 Hours Straight".
+^ "Concentrated Solar Thermal Power  Now" (PDF). Retrieved 19 August 2008.
+^ a b c "Concentrating Solar Power in 2001  An IEA/SolarPACES Summary of Present Status and Future Prospects" (PDF). International Energy Agency  SolarPACES. Retrieved 2 July 2008.
+^ "UNLV Solar Site". University of Las Vegas. Retrieved 2 July 2008.
+^ "Compact CLFR". Physics.usyd.edu.au. 12 June 2002. Retrieved 19 April 2011.
+^ "Ausra compact CLFR introducing cost-saving solar rotation features" (PDF). Retrieved 19 April 2011.
+^ "An Assessment of Solar Energy Conversion Technologies and Research Opportunities" (PDF). Stanford University  Global Climate Change & Energy Project. Retrieved 2 July 2008.
+^ Phys.org A novel solar CPV/CSP hybrid system proposed, 11 February 2015
+^ Amanda Cain (22 January 2014). "What Is a Photovoltaic Diesel Hybrid System?". RenewableEnergyWorld.com.
+^ a b "Hybrid Wind and Solar Electric Systems". United States Department of Energy. 2 July 2012.
+^ Kraemer, D; Hu, L; Muto, A; Chen, X; Chen, G; Chiesa, M (2008), "Photovoltaic-thermoelectric hybrid systems: A general optimization methodology", Applied Physics Letters, 92 (24): 243503, doi:10.1063/1.2947591
+^ Find data and sources in articles Growth of photovoltaics and Concentrated solar power#Deployment around the world
+^ "BP Statistical Review of World Energy June 2015, Renewables section" (PDF). BP. June 2015. Retrieved July 7, 2015.
+^ "BP Statistical Review of World Energy June 2015, Electricity section" (PDF). BP. June 2015. Retrieved July 7, 2015.
+^ "BP Statistical Review of World Energy 2016 - data workbook". BP. June 2016. Retrieved 2016-06-11.
+^ Butti and Perlin (1981), p. 63, 77, 101
+^ "The Solar Energy Book-Once More." Mother Earth News 31:1617, Jan. 1975
+^ Butti and Perlin (1981), p. 249
+^ Yergin (1991), pp. 634, 653673
+^ "Chronicle of Fraunhofer-Gesellschaft". Fraunhofer-Gesellschaft. Retrieved 4 November 2007.
+^ Solar: photovoltaic: Lighting Up The World retrieved 19 May 2009 Archived 13 August 2010 at the Wayback Machine.
+^ "Photovoltaics: Overview of installed PV in 2013". Renewables International. 2014-01-14. Retrieved 2014-06-23.
+^ REN21 (2014). "Renewables 2014: Global Status Report" (PDF). Archived from the original on 4 September 2014.
+^ "Solar photovoltaic roadmap" (PDF). International Energy Agency. 2010. Retrieved 2014-08-18.
+^ Worland, Justin (4 April 2016). "After years of torrid growth, residential solar power faces serious growing pains". Time. Vol.187 no.12. p.24. Retrieved 10 April 2016  via Issuu.
+^ "DOE Closes on Four Major Solar Projects". Renewable Energy World. 30 September 2011.
+^ "Adani Group launches world's largest solar power plant in Tamil Nadu - Times of India". Retrieved 2016-09-21.
+^ World's largest solar farm no longer in Riverside County, Sammy Roth, The Desert Sun, June 25, 2015
+^ "Abengoa:: Press Room:: News:: News Archive:: 2014:: May".
+^ 200 MW Gonghe PV Station of Huanghe Company Synchronized, China Power Investment Corporation, Dec 16,2013
+^ What is peak demand?, Energex.com.au website.
+^ Abengoa Solar begins construction on Extremaduras second solar concentrating solar power plant
+^ "Abengoa closes financing and begin operation of Solaben 1 & 6 CSP plants in Spain". CSP-World.
+^ "Solar Photovoltaics Competing in the Energy SectorOn the road to competitiveness" (PDF). European Photovoltaic Industry Association. September 2011. p.18.
+^ "Musk vs. Buffett: The Billionaire Battle to Own the Sun". Bloomberg.com.
+^ 4 solar-power stocks will leave fossil fuels in the dust
+^ US EIA, Levelized Cost and Levelized Avoided Cost of New Generation Resources in the Annual Energy Outlook 2014, 17 April 2014.
+^ Robert Glennon and Andrew M. Reeves, Solar Energy's Cloudy Future, 1 Ariz. J. Evtl. L. & Pol'y, 91, 106 (2010) available at http://ajelp.com/documents/GlennonFinal.pdf
+^ "3rd International Conference on Solar Photovoltaic Investments". Pvinvestmentconference.org. Retrieved 19 April 2011.
+^ "Solar Power Services: How PPAs are Changing the PV Value Chain". 11 February 2008. Retrieved 21 May 2009.
+^ Mark Clifford (8 February 2012). "China's visible solar power success". MarketWatch.
+^ a b "Photovoltaic System Pricing Trends  Historical, Recent, and Near-Term Projections, 2014 Edition" (PDF). NREL. 22 September 2014. p.4. Archived from the original on 29 March 2015.
+^ GreenTechMedia.com Solar PV Pricing Continues to Fall During a Record-Breaking 2014, 13 March 2015
+^ "Photovoltaik-Preisindex" [Solar PV price index]. PhotovoltaikGuide. Retrieved 30 March 2015. Turnkey net-prices for a solar PV system of up to 100 kWp amounted to Euro 1,240 per kWp.
+^ "Crossing the Chasm" (PDF). Deutsche Bank Markets Research. 27 February 2015. p.9. Archived from the original on 1 April 2015.
+^ Going for grid parity 2005 article
+^ a b The True Cost of Solar Power retrieved 22 October 2008 Archived 8 September 2008 at the Wayback Machine.
+^ Kelly-Detwiler, Peter. "Solar Grid Parity Comes to Spain". Forbes.
+^ "Gaining on the grid". BP.
+^ "The Path to Grid Parity". BP.
+^ Reuters Editorial (19 October 2007). "Solar power edges towards boom time". Reuters.
+^ "Money saved by producing electricity from PV and Years for payback".
+^ Solar Rebate Program
+^ Net Metering Archived 21 October 2012 at the Wayback Machine.
+^ "Net Metering and Interconnection - NJ OCE Web Site".
+^ China Racing Ahead of America in the Drive to Go Solar.
+^ "Power & Energy Technology - IHS Technology".
+^ Approved  Feed-in tariff in Israel.
+^ OJA-services.nl
+^ a b c d Alsema, E.A.; Wild - Scholten, M.J. de; Fthenakis, V.M. Environmental impacts of PV electricity generation - a critical comparison of energy supply options ECN, September 2006; 7p. Presented at the 21st European Photovoltaic Solar Energy Conference and Exhibition, Dresden, Germany, 48 September 2006.
+^ a b c Fridleifsson,, Ingvar B.; Bertani, Ruggero; Huenges, Ernst; Lund, John W.; Ragnarsson, Arni; Rybach, Ladislaus (11 February 2008). O. Hohmeyer and T. Trittin, ed. "The possible role and contribution of geothermal energy to the mitigation of climate change" (pdf). Luebeck, Germany: 5980. Retrieved 6 April 2009.
+^ Lund, John W. (June 2007). "Characteristics, Development and utilization of geothermal resources" (PDF). Geo-Heat Centre Quarterly Bulletin. 28 (2). Klamath Falls, Oregon: Oregon Institute of Technology. pp.19. ISSN0276-1084. Retrieved 16 April 2009.
+^ "Portable Solar Panels". Portable Solar Panels for Sale.
+^ NREL, Life Cycle Greenhouse Gas Emissions from Electricity Generation, NREL/FS-6A20-57187, Jan 2013.
+^ David D. Hsu and others, Life Cycle Greenhouse Gas Emissions of Crystalline Silicon Photovoltaic Electricity Generation: Systematic Review and Harmonization, 2011.
+^ "Electric cars not solar panels, says Environment Commissioner". Parliamentary Commissioner for the Environment. 22 March 2016. Retrieved 23 March 2016.
+^ "Photovoltaics Report" (PDF). Fraunhofer ISE. 28 July 2014. pp.2832. Archived from the original on 31 August 2014. Retrieved 31 August 2014.
+^ Andrew Blakers and Klaus Weber, "The Energy Intensity of Photovoltaic Systems", Centre for Sustainable Energy Systems, Australian National University, 2000.
+^ Jinqing Peng, Lin Lu, Hongxing Yang, Review on lifecycle assessment of energy payback and greenhouse gas emission of solar photovoltaic systems. In: Renewable and Sustainable Energy Reviews 19, (2013), 255274, Fig. 5, doi:10.1016/j.rser.2012.11.035.
+^ C. Reich-Weiser, D. Dornfeld, and S. Horne. Environmental assessment and metrics for solar: Case study of solfocus solar concentrator systems. UC Berkeley: Laboratory for Manufacturing and Sustainability, 8 May 2008.
+^ Service Lifetime Prediction for Encapsulated Photovoltaic Cells/Minimodules, A.W. Czanderna and G.J. Jorgensen, National Renewable Energy Laboratory, Golden, CO.
+^ Joshua Pearce and Andrew Lau, "Net Energy Analysis For Sustainable Energy Production From Silicon Based Solar Cells", Proceedings of American Society of Mechanical Engineers Solar 2002: Sunrise on the Reliable Energy Economy, editor R. Campbell-Howe, 2002.
+^ a b Werner, Jrgen H. (2 November 2011). "Toxic Substances In Photovoltaic Modules" (PDF). postfreemarket.net. Institute of Photovoltaics, University of Stuttgart, Germany - The 21st International Photovoltaic Science and Engineering Conference 2011 Fukuoka, Japan. p.2. Archived from the original on 23 September 2014. Retrieved 23 September 2014.
+^ CdTe PV: Real and Perceived EHS Risks
+^ "Solar plant's downside? Birds igniting in midair". CBS News. 18 August 2014.
+^ "California's new solar power plant is actually a death ray that's incinerating birds mid-flight". ExtremeTech.com. 20 August 2014.
+^ Jake Richardson (22 August 2014). "Bird Deaths From Solar Plant Exaggerated By Some Media Sources". Cleantechnica.com.
+^ Hertwich and others, "Integrated life-cycle assessment of electricity-supply scenarios confirms global environmental benefit of low-carbon technologies", Proceedings of the National Academy of Sciences, 19 May 2015, v.112 n.20.
+^ MSU-CSET Participation Archive with notation in the Murray Ledger & Times
+^ Layton, Julia (5 November 2008). "What is a luminescent solar concentrator?". Science.howstuffworks.com. Retrieved 19 April 2011.
+^ "Kyocera, partners announce construction of the world's largest floating solar PV Plant in Hyogo prefecture, Japan". SolarServer.com. 4 September 2014.
+^ "Running Out of Precious Land? Floating Solar PV Systems May Be a Solution". EnergyWorld.com. 7 November 2013.
+^ "Vikram Solar commissions India's first floating PV plant". SolarServer.com. 13 January 2015.
+^ "Sunflower Floating Solar Power Plant In Korea". CleanTechnica. 21 December 2014.
+^ "Napa Winery Pioneers Solar Floatovoltaics". Forbes. 18 April 2012. Retrieved 31 May 2013.
+^ Wright, matthew; Hearps, Patrick; et al. Australian Sustainable Energy: Zero Carbon Australia Stationary Energy Plan, Energy Research Institute, University of Melbourne, October 2010, p. 33. Retrieved from BeyondZeroEmissions.org website.
+^ Innovation in Concentrating Thermal Solar Power (CSP), RenewableEnergyFocus.com website.
+^ Ray Stern. "Solana: 10 Facts You Didn't Know About the Concentrated Solar Power Plant Near Gila Bend". Phoenix New Times.
+^ Carr (1976), p. 85
+^ "Advantages of Using Molten Salt". Sandia National Laboratory. Retrieved 29 September 2007.
+^ "PV Systems and Net Metering". Department of Energy. Archived from the original on 4 July 2008. Retrieved 31 July 2008.
+^ Aishwarya S. Mundada, , Yuenyong Nilsiam , Joshua M. Pearce. A review of technical requirements for plug-and-play solar photovoltaic microinverter systems in the United States. Solar Energy 135, (2016), pp. 455470. doi: 10.1016/j.solener.2016.06.002
+^ Joern Hoppmann; Jonas Volland; Tobias S. Schmidt; Volker H. Hoffmann (July 2014). "The Economic Viability of Battery Storage for Residential Solar Photovoltaic Systems - A Review and a Simulation Model". ETH Zrich, Harvard University.
+^ FORBES, Justin Gerdes, Solar Energy Storage About To Take Off In Germany and California, 18 July 2013
+^ "Tesla launches Powerwall home battery with aim to revolutionize energy consumption". Associated Press. May 1, 2015.
+^ "Pumped Hydro Storage". Electricity Storage Association. Retrieved 31 July 2008.
+^ Seasonal Energy Storage in a Renewable Energy System
+^ "The Combined Power Plant: the first stage in providing 100% power from renewable energy". SolarServer. January 2008. Retrieved 10 October 2008.
+^ Collings AF, Critchley C. Artificial Photosynthesis. From Basic Biology to Industrial Application. Wiley-VCH. Weinheim (2005) p. x ISBN 3-527-31090-8 doi:10.1002/3527606742.
+^ Faunce TA, Lubitz W, Rutherford AW, MacFarlane D, Moore, GF, Yang P, Nocera DG, Moore TA, Gregory DH, Fukuzumi S, Yoon KB, Armstrong FA, Wasielewski MR, Styring S. Energy and Environment Case for a Global Project on Artificial Photosynthesis. Energy and Environmental Science 2013, 6 (3), 695 - 698 DOI:10.1039/C3EE00063J http://pubs.rsc.org/en/content/articlelanding/2013/ee/c3ee00063j (accessed 14 March 2013)
+Sources[edit]
+Butti, Ken; Perlin, John (1981). A Golden Thread (2500 Years of Solar Architecture and Technology). Van Nostrand Reinhold. ISBN0-442-24005-8.
+Carr, Donald E. (1976). Energy & the Earth Machine. W. W. Norton & Company. ISBN0-393-06407-7.
+Halacy, Daniel (1973). The Coming Age of Solar Energy. Harper and Row. ISBN0-380-00233-7.
+Martin, Christopher L.; Goswami, D. Yogi (2005). Solar Energy Pocket Reference. International Solar Energy Society. ISBN0-9771282-0-2.
+Mills, David (2004). "Advances in solar thermal electricity technology". Solar Energy. 76 (13): 1931. Bibcode:2004SoEn...76...19M. doi:10.1016/S0038-092X(03)00102-6.
+Perlin, John (1999). From Space to Earth (The Story of Solar Electricity). Harvard University Press. ISBN0-674-01013-2.
+Tritt, T.; Bttner, H.; Chen, L. (2008). "Thermoelectrics: Direct Solar Thermal Energy Conversion". MRS Bulletin. 33 (4): 355372.
+Yergin, Daniel (1991). The Prize: The Epic Quest for Oil, Money, and Power. Simon & Schuster. p.885. ISBN978-0-671-79932-8.
+Further reading[edit]
+Media related to Solar power at Wikimedia Commons
+Smaller, cheaper, faster: Does Moores law apply to solar cells?, By Ramez Naam, March 16, 2011, Scientific American analysis
+Herders Strap Solar Panels To Donkeys To Harness Solar Power To Light Their Manyattas(February 2015) on YouTube, K24 TV (Kenya)
+v
+t
+e
+Solar energy
+Concepts
+The Sun
+Insolation
+Solar radiation
+Active and passive solar energy
+Solar power
+Thermal
+Passive solar building design
+Solar water heating
+Solar chimney
+Solar air conditioning
+Thermal mass
+Solar pond
+Photovoltaics
+& related topics
+Photovoltaic effect
+Solar cell
+Polymer solar cell
+Nanocrystal solar cell
+Photovoltaic module (solar panel)
+Photovoltaic array (and systems)
+Photovoltaic power station
+Concentrated
+Heliostat
+Solar tracker
+Parabolic trough
+Solar power tower
+Experimental
+& proposed
+Solar updraft tower
+Solar-pumped laser
+Thermoelectric generator
+Solar chemical and artificial photosynthesis
+Space-based solar power
+Solar sail
+Magnetic sail
+Solar thermal rocket
+By country
+Australia
+Austria
+Albania
+Belgium
+Brazil
+Canada
+China
+Czech
+Denmark
+Georgia
+Germany
+Greece
+India
+Israel
+Italy
+Japan
+Lithuania
+Mexico
+Morocco
+Myanmar
+Netherlands
+New Zealand
+Pakistan
+Portugal
+Romania
+Saudi Arabia
+Somalia
+South Africa
+Spain
+Thailand
+Turkey
+Ukraine
+United Kingdom
+United States
+Yemen
+Distribution
+& uses
+Storage
+Thermal mass
+Thermal energy storage
+Phase change material
+Grid energy storage
+Adoption
+Feed-in tariff
+Net metering
+Financial incentives for photovoltaics
+Costs
+Applications
+Solar water heating
+Solar vehicle
+Electric aircraft
+Electric boat
+Solar balloon
+Other applications
+Agriculture
+and horticulture
+Greenhouse
+Polytunnel
+Row cover
+Solar-powered pump
+Building
+Passive solar building design
+Building-integrated photovoltaics
+Urban heat island
+Lighting
+Hybrid solar lighting
+Solar lamp
+Solar Tuki
+Light tube
+Daylighting
+Process heat
+Solar pond
+Solar furnace
+Salt evaporation pond
+Cooking
+Solar cooker
+Disinfection
+Solar water disinfection
+Soil solarization
+Desalination
+Solar still
+Desalination
+Water heating
+Solar water heating
+Solar combisystem
+Zero carbon solar controller
+See also
+Photovoltaics topics
+Solar power by country
+Renewable energy sources
+v
+t
+e
+Solar power by country
+Overview
+Growth of photovoltaics
+List of photovoltaics companies
+List of countries by photovoltaics production
+Africa
+Algeria
+Morocco
+Somalia
+South Africa
+Asia
+China
+Georgia
+India
+Israel
+Japan
+Myanmar
+Pakistan
+Saudi Arabia
+South Korea
+Taiwan
+Thailand
+UAE
+Yemen
+Europe
+Albania
+Austria
+Belgium
+Bulgaria
+Cyprus
+Czech
+Denmark
+Finland
+France
+Germany
+Greece
+Italy
+Lithuania
+Netherlands
+Poland
+Portugal
+Romania
+Spain
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+North America
+Canada
+Jamaica
+Mexico
+United States
+Oceania
+Australia
+New Zealand
+South America
+Brazil
+Chile
+Portals: Energy
+Renewable energy
+Sustainable development
+v
+t
+e
+Photovoltaics
+Concepts
+Technology
+Photovoltaics
+Photoelectric effect
+Solar insolation
+Solar constant
+Solar cell efficiency
+Nominal power (Watt-peak)
+Thin film solar cell
+Multijunction photovoltaic cell
+Third generation photovoltaic cell
+Solar cell research
+Quantum efficiency of a solar cell
+Thermophotovoltaic
+Thermodynamic efficiency limit
+Sun-free photovoltaics
+Polarizing organic photovoltaics
+Materials
+List of semiconductor materials
+Crystalline silicon (c-Si)
+Polycrystalline silicon (multi-Si)
+Monocrystalline silicon (mono-Si)
+Cadmium telluride
+Copper indium gallium selenide
+Amorphous silicon (a-Si)
+History
+Growth of photovoltaics
+Timeline of solar cells
+Photovoltaic system
+Solar cells
+Polymer solar cell
+Nanocrystal solar cell
+Organic solar cell
+Quantum dot solar cell
+Hybrid solar cell
+Plasmonic solar cell
+Carbon nanotubes in photovoltaics
+Dye-sensitized solar cell
+Cadmium telluride photovoltaics
+Copper indium gallium selenide solar cells
+Printed solar panel
+Perovskite solar cell
+System components
+Solar panel
+Balance of system
+Solar charge controller
+Solar inverter
+Solar micro-inverter
+Solar cable
+Photovoltaic mounting system
+Maximum power point tracker
+Solar tracker
+Solar shingles
+Solar mirror
+System concepts
+Perturb and observe method
+Incremental conductance method
+Constant voltage method
+Fill factor
+Concentrated photovoltaics
+Photovoltaic thermal hybrid solar collector
+Space-based solar power
+Applications
+Appliances
+Solar-powered refrigerator
+Solar air conditioning
+Solar lamp
+Solar charger
+Solar backpack
+Solar tree
+Solar-powered pump
+Solar-powered watch
+Solar Tuki
+Photovoltaic keyboard
+Solar road stud
+Solar cell phone charger
+Solar notebook
+Solar-powered calculator
+Solar-powered fountain
+Solar-powered radio
+Solar-powered flashlight
+Solar-powered fan
+Solar street light
+Solar traffic light
+Land transport
+Solar vehicle
+Solar car
+Solar roadway
+Solar golf cart
+The Quiet Achiever
+Sunmobile
+Air transport
+Electric aircraft
+Mauro Solar Riser
+Solar panels on spacecraft
+Solar-Powered Aircraft Developments Solar One
+Gossamer Penguin
+Qinetiq Zephyr
+Solar Challenger
+Water transport
+Solar boat
+Solar vehicle racing
+Solar car racing
+List of solar car teams
+Solar challenges
+World Solar Challenge
+American Solar Challenge
+Formula Sun Grand Prix
+Solar Cup
+Frisian Solar Challenge
+Solar Splash
+South African Solar Challenge
+Tour de Sol
+Hunt-Winston School Solar Car Challenge
+Victorian Model Solar Vehicle Challenge
+Generation systems
+PV power station
+Grid-connected photovoltaic power system
+List of photovoltaic power stations
+Individual projects
+Alamosa photovoltaic power plant
+Beneixama photovoltaic power plant
+Blythe Photovoltaic Power Plant
+Copper Mountain Solar Facility
+Darro Solar Park
+Erlasee Solar Park
+Golmud Solar Park
+Gottelborn Solar Park
+Guadarranque solar power plant
+Kthen Solar Park
+Moura Photovoltaic Power Station
+Olmedilla Photovoltaic Park
+Pocking Solar Park
+Puertollano Photovoltaic Park
+Topaz Solar Farm
+Wyandot Solar Facility
+Building-mounted
+Rooftop photovoltaic power station
+Building-integrated photovoltaics
+Solar Ark
+Solar Umbrella house
+Strasskirchen Solar Park
+By country
+Australia
+Belgium
+Bulgaria
+Canada
+Chile
+China
+Czech Republic
+France
+Germany
+Greece
+India
+Italy
+Japan
+Netherlands
+Romania
+South Africa
+Spain
+Switzerland
+Thailand
+United Kingdom
+USA
+PV companies
+By country
+List of countries by photovoltaics production
+Individual producers
+First Solar
+Hanwha Solarone
+JA Solar
+Motech Solar
+REC
+Q-Cells
+Sharp
+Solar Frontier
+Solyndra
+Sungen Solar
+Sunpower
+Suntech
+Trina Solar
+Yingli Solar
+Category
+Commons
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+v
+t
+e
+Renewable energy by country
+Africa
+Ethiopia
+Kenya
+Morocco
+Seychelles
+Asia
+Afghanistan
+Bangladesh
+Bhutan
+China
+India
+Kazakhstan
+Nepal
+Pakistan
+Philippines
+Taiwan
+Thailand
+Europe
+European Union (Czech Republic, Denmark, Finland, Germany, Greece, Hungary, Ireland, Italy, Lithuania, Luxembourg, Netherlands, Portugal, Spain, Sweden, United Kingdom)
+Albania
+Iceland
+Norway
+Russia
+North America
+Canada
+Costa Rica
+Honduras
+Mexico
+United States
+Oceania
+Australia
+New Zealand
+Tuvalu
+South America
+Argentina
+Brazil
+Chile
+Colombia
+Category
+Portals:
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1261
+Cached time: 20161120190609
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.920 seconds
+Real time usage: 1.072 seconds
+Preprocessor visited node count: 7100/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 340046/2097152 bytes
+Template argument size: 14577/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.363/10.000 seconds
+Lua memory usage: 6.74 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+789.521
+1 - -total
+43.63%
+344.462
+1 - Template:Reflist
+25.59%
+202.051
+52 - Template:Cite_web
+12.33%
+97.351
+14 - Template:Navbox
+7.83%
+61.827
+4 - Template:Fix
+4.31%
+34.039
+1 - Template:Solar_energy
+4.06%
+32.022
+2 - Template:Failed_verification
+3.81%
+30.055
+7 - Template:Category_handler
+3.66%
+28.879
+7 - Template:Cite_news
+3.64%
+28.709
+3 - Template:Delink
+Saved in parser cache with key enwiki:pcache:idhash:13690575-0!*!0!!en!4!* and timestamp 20161120190607 and revision id 750298081
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Solar_power&oldid=750298081"
+Categories: Energy conversionAlternative energySolar powerSunRenewable energyHidden categories: Webarchive template wayback linksPages using ISBN magic linksWikipedia indefinitely move-protected pagesUse dmy dates from November 2012All articles with dead external linksArticles with dead external links from June 2015All articles with failed verificationArticles with failed verification from June 2015All articles with unsourced statementsArticles with unsourced statements from June 2015Commons category with local link different than on WikidataGood articles

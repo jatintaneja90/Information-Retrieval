@@ -1,0 +1,349 @@
+Energyreturnedonenergyinvested
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}In physics, energy economics, and ecological energetics, energy returned on energy invested (EROEI or ERoEI); or energy return on investment (EROI), is the ratio of the amount of usable energy delivered from a particular energy resource to the amount of energy used to obtain that energy resource.[1][2] It is a distinct measure from energy efficiency as it does not measure the primary energy inputs to the system, only usable energy.
+A fuel or energy must have an EROEI ratio of at least 3:1 to be considered viable as a prominent fuel or energy source.[3][4]
+E
+R
+O
+E
+I
+=
+Energy Delivered
+Energy Required to Deliver that Energy
+{\displaystyle EROEI={\frac {\hbox{Energy Delivered}}{\hbox{Energy Required to Deliver that Energy}}}}
+[5]
+When the EROEI of a resource is less than or equal to one, that energy source becomes a net "energy sink", and can no longer be used as a source of energy, but depending on the system might be useful for energy storage (for example a battery). A related measure Energy Store On Energy Invested (ESOEI) is used to analyse storage systems.[6][7]
+Contents
+1 Non-manmade energy inputs
+2 Relationship to net energy gain
+3 Low carbon power
+4 Economic influence of EROEI
+5 Oil sands
+6 Criticism of EROEI
+7 Additional EROEI Calculations
+8 ESOEI
+9 EROEI under rapid growth
+10 See also
+11 References
+12 Further reading
+13 External links
+Non-manmade energy inputs[edit]
+The natural or primary energy sources are not usually included in the calculation of energy invested, only the human-applied sources. For example, in the case of biofuels the solar insolation driving photosynthesis is not included, and the energy used in the stellar synthesis of fissile elements is not included for nuclear fission. The energy returned includes usable energy and not wastes such as heat, although depending on source and application, waste heat is used in district heating and water desalination, these cogeneration plants however are rare, globally, and thus usually excluded in EROEI analysis of energy sources.
+Relationship to net energy gain[edit]
+EROEI and Net energy (gain) measure the same quality of an energy source or sink in numerically different ways. Net energy describes the amounts, while EROEI measures the ratio or efficiency of the process. They are related simply by
+GrossEnergyYield
+ 
+EnergyExpended
+=
+E
+R
+O
+E
+I
+{\displaystyle {\hbox{GrossEnergyYield}}\div {\hbox{EnergyExpended}}=EROEI}
+or
+(
+NetEnergy
+ 
+EnergyExpended
+)
++
+1
+=
+E
+R
+O
+E
+I
+{\displaystyle ({\hbox{NetEnergy}}\div {\hbox{EnergyExpended}})+1=EROEI}
+For example, given a process with an EROEI of 5, expending 1 unit of energy yields a net energy gain of 4 units. The break-even point happens with an EROEI of 1 or a net energy gain of 0.
+Low carbon power[edit]
+A 2015 review in Renewable and Sustainable Energy Reviews assessed the energy payback time and EROI of solar photovoltaics. In this study, which uses an insolation of 1700/kWh/m/yr and a system lifetime of 30 years, mean harmonized EROIs between 8.7 and 34.2 were found. Mean harmonized energy payback time varied from 1.0 to 4.1 years.[8] A review Pickard reports EROEI estimates for monocrystalline silicon photovoltaics by four groups in the range of 2.2 to 8.8.[9] It should be noted that EROEI is a function of the solar irradiation level and the type of PV technology; it also depends on methodology and system boundary assumptions. Raugei, Fullana-i-Palmer and Fthenakis show EROEI in the range of 5.9 to 11.8 and 19 to 39 for the major commercial PV types in South European installations.[10] The low range assumes that primary energy and electricity are of the same quality, whereas the high range (19-39) is calculated by converting the electricity output of PV to primary energy as recommended by the IEA PVPS Task 12 LCA Methodology Guidelines.[11] Furthermore, Fthenakis determined the EROEI to be as high as 60 for the least energy consuming thin-film PV technology installations in the U.S. Southwest.[12]
+The EROI of wind turbines depends on invested energy in the turbine, produced energy and life span of a turbine. In the scientific literature EROIs normally vary between 20 and 50.[13]
+Economic influence of EROEI[edit]
+EROI  Ratio of Energy Returned on Energy Invested. Assuming, amongst other things, "Nuclear" depended upon diffusion enrichment which was still used in the US at the time of publication - Murphy & Hall 2010. In 2013 however, the last uranium diffusion plant in the world, at Paducah, closed down.[14] Only newer more efficient technology is now used.
+EROI
+(for US)
+Fuel
+1.3
+Biodiesel
+3.0
+Bitumen tar sands
+80.0
+Coal
+1.3
+Ethanol corn
+5.0
+Ethanol sugarcane
+100.0
+Hydro
+35.0
+Oil imports 1990
+18.0
+Oil imports 2005
+12.0
+Oil imports 2007
+8.0
+Oil discoveries
+20.0
+Oil production
+10.0
+Natural gas 2005
+75
+Nuclear (Centrifugal enrichment)[15]
+10.0
+Nuclear (with diffusion enrichment- Obsolete)
+[16][17][18]
+2000 (estimate)
+Dual Fluid Molten salt - Molten lead Nuclear
+[19] [20]
+30.0
+Oil and gas 1970
+14.5
+Oil and gas 2005
+6.8
+Photovoltaic
+5.0
+Shale oil
+1.6
+Solar collector
+1.9
+Solar flat plate
+18.0
+Wind
+9.5
+Geothermal (without hot water heating)[21]
+32.4
+Geothermal (with hot water heating)[21]
+High per-capita energy use has been considered desirable as it is associated with a high standard of living based on energy-intensive machines. A society will generally exploit the highest available EROEI energy sources first, as these provide the most energy for the least effort. This is an example of David Ricardo's best-first principle. Then progressively lower quality ores or energy resources are used as the higher-quality ones are either exhausted or in use, for example, wind turbines positioned in the windiest areas.
+In regard to fossil fuels, when oil was originally discovered, it took on average one barrel of oil to find, extract, and process about 100 barrels of oil. The ratio, for discovery of fossil fuels in the United States, has declined steadily over the last century from about 1000:1 in 1919 to only 5:1 in the 2010s.[22][23]
+Although many qualities of an energy source matter (for example oil is energy-dense and transportable, while wind is variable), when the EROEI of the main sources of energy for an economy fall that energy becomes more difficult to obtain and its relative price increases. Therefore, the EROEI gains importance when comparing energy alternatives. Since expenditure of energy to obtain energy requires productive effort, as the EROEI falls an increasing proportion of the economy has to be devoted to obtaining the same amount of net energy.
+Since the invention of agriculture, humans have increasingly used exogenous sources of energy to multiply human muscle-power. Some historians have attributed this largely to more easily exploited (i.e. higher EROEI) energy sources, which is related to the concept of energy slaves. Thomas Homer-Dixon [24] argues that a falling EROEI in the Later Roman Empire was one of the reasons for the collapse of the Western Empire in the fifth century CE. In "The Upside of Down" he suggests that EROEI analysis provides a basis for the analysis of the rise and fall of civilisations. Looking at the maximum extent of the Roman Empire, (60 million) and its technological base the agrarian base of Rome was about 1:12 per hectare for wheat and 1:27 for alfalfa (giving a 1:2.7 production for oxen). One can then use this to calculate the population of the Roman Empire required at its height, on the basis of about 2,5003,000 calories per day per person. It comes out roughly equal to the area of food production at its height. But ecological damage (deforestation, soil fertility loss particularly in southern Spain, southern Italy, Sicily and especially north Africa) saw a collapse in the system beginning in the 2nd century, as EROEI began to fall. It bottomed in 1084 when Rome's population, which had peaked under Trajan at 1.5 million, was only 15,000. Evidence also fits the cycle of Mayan and Cambodian collapse too. Joseph Tainter[25] suggests that diminishing returns of the EROEI is a chief cause of the collapse of complex societies, this has been suggested as caused by peak wood in early societies. Falling EROEI due to depletion of high quality fossil fuel resources also poses a difficult challenge for industrial economies, and could potentially lead to declining economic output and challenge the concept (which is very recent when considered from a historical perspective) of perpetual economic growth.[26]
+Tim Garrett links EROEI and inflation directly, based on a thermodynamic analysis of historical world energy consumption (Watts) and accumulated global wealth (US dollars). This economic growth model indicates that global EROEI is the inverse of global inflation over a given time interval. Because the model aggregates supply chains globally, local EROEI is outside its scope.[27]
+Oil sands[edit]
+Because much of the energy required for producing oil from oil sands (bitumen) comes from low value fractions separated out by the upgrading process, there are two ways to calculate EROEI, the higher value given by considering only the external energy inputs and the lower by considering all energy inputs, including self generated. See: Oil sands#Input energy[28] "utilized detailed energy production and consumption data reported by oil sands producers from 1970 to 2010 to examine trends in historical energy returns from oil sands extraction. " They argued that by 2010, NERs (net energy returns) from oil sands mining and in situ operations had become significantly more energy efficient since 1970 although the NER remained significantly less efficient than conventional oil production. NERs from the oil sands, grew from "1.0 GJ/GJ in 1970 (entirely from the Suncor mining operation) to 2.95 GJ/GJ in 1990 and then to 5.23 GJ/GJ in 2010." [29]
+Criticism of EROEI[edit]
+Measuring the EROEI of a single physical process is unambiguous, but there is no agreed-upon standard on which activities should be included in measuring the EROEI of an economic process. In addition, the form of energy of the input can be completely different from the output. For example, energy in the form of coal could be used in the production of ethanol. This might have an EROEI of less than one, but could still be desirable due to the benefits of liquid fuels (assuming the latters are not used in the processes of extraction and transformation).
+How deep should the probing in the supply chain of the tools being used to generate energy go? For example, if steel is being used to drill for oil or construct a nuclear power plant, should the energy input of the steel be taken into account, should the energy input into building the factory being used to construct the steel be taken into account and amortized? Should the energy input of the roads which are used to ferry the goods be taken into account? What about the energy used to cook the steelworker's breakfasts? These are complex questions evading simple answers.[30] A full accounting would require considerations of opportunity costs and comparing total energy expenditures in the presence and absence of this economic activity.
+However, when comparing two energy sources a standard practice for the supply chain energy input can be adopted. For example, consider the steel, but don't consider the energy invested in factories deeper than the first level in the supply chain.
+Energy return on energy invested does not take into account the factor of time. Energy invested in creating a solar panel may have consumed energy from a high power source like coal, but the return happens very slowly, i.e. over many years. If energy is increasing in relative value this should favour delayed returns. Some believe this means the EROEI measure should be refined further.
+Conventional economic analysis has no formal accounting rules for the consideration of waste products that are created in the production of the ultimate output. For example, differing economic and energy values placed on the waste products generated in the production of ethanol makes the calculation of this fuel's true EROEI extremely difficult.
+EROEI is only one consideration and may not be the most important one in energy policy. Energy independence (reducing international competition for limited natural resources), decrease of greenhouse gas emissions (including carbon dioxide and others), and affordability could be more important, particularly when considering secondary energy sources. While a nation's primary energy source is not sustainable unless it has a use rate less than or equal to its replacement rate, the same is not true for secondary energy supplies. Some of the energy surplus from the primary energy source can be used to create the fuel for secondary energy sources, such as for transportation.
+Richards and Watt propose an Energy Yield Ratio for photovoltaic systems as an alternative to EROEI (which they refer to as Energy Return Factor). The difference is that it uses the design lifetime of the system, which is known in advance, rather than the actual lifetime. This also means that it can be adapted to multi-component systems where the components have different lifetimes.[31]
+Another issue with EROI that many studies attempt to tackle is that the energy returned can be in different forms, and these forms can have different utility. For example, electricity can be converted more efficiently than thermal energy into motion, due to electricity's lower entropy.
+Additional EROEI Calculations[edit]
+There are three prominent expanded EROEI calculations, they are point of use, extended and societal. Point of Use EROEI expands the calculation to include the cost of refining and transporting the fuel during the refining process. Since this expands the bounds of the calculation to include more production process EROEI will decrease.[22] Extended EROEI includes point of use expansions as well as including the cost of creating the infrastructure needed for transportation of the energy or fuel once refined.[32] Societal EROI is a sum of all the EROEIs of all the fuels used in a society or nation. A societal EROI has never been calculated and researchers believe it may currently be impossible to know all variables necessary to complete the calculation, but attempted estimates have been made for some nations. Calculations done by summing all of the EROEIs for domestically produced and imported fuels and comparing the result to the Human Development Index (HDI), a tool often used to understand well-being in a society.[33] According to this calculation, the amount of energy a society has available to them increases the quality of life for the people living in that country and countries with less energy available also have a harder time satisfying citizens basic needs.[34] This is to say that societal EROI and overall quality of life are very closely linked.
+ESOEI[edit]
+ESOEI is used when EROEI is below 1.
+Storage Technology
+ESOEI[7]
+Lithium ion battery
+32
+NaS battery
+20
+Lead acid battery
+5
+Vanadium redox battery
+10
+Zinc bromide battery
+9
+CAES
+792
+Pumped hydroelectric storage
+704
+EROEI under rapid growth[edit]
+A related recent concern is energy cannibalism where energy technologies can have a limited growth rate if climate neutrality is demanded. Many energy technologies are capable of replacing significant volumes of fossil fuels and concomitant green house gas emissions. Unfortunately, neither the enormous scale of the current fossil fuel energy system nor the necessary growth rate of these technologies is well understood within the limits imposed by the net energy produced for a growing industry. This technical limitation is known as energy cannibalism and refers to an effect where rapid growth of an entire energy producing or energy efficiency industry creates a need for energy that uses (or cannibalizes) the energy of existing power plants or production plants.[35]
+The solar breeder overcomes some of these problems. A solar breeder is a photovoltaic panel manufacturing plant which can be made energy-independent by using energy derived from its own roof using its own panels. Such a plant becomes not only energy self-sufficient but a major supplier of new energy, hence the name solar breeder. Research on the concept was conducted by Centre for Photovoltaic Engineering, University of New South Wales, Australia.[36][37] The reported investigation establishes certain mathematical relationships for the solar breeder which clearly indicate that a vast amount of net energy is available from such a plant for the indefinite future.[38] The solar module processing plant at Frederick, Maryland[39] was originally planned as such a solar breeder. In 2009 the Sahara Solar Breeder Project was proposed by the Science Council of Japan as a cooperation between Japan and Algeria with the highly ambitious goal of creating hundreds of GW of capacity within 30 years.[40] Theoretically breeders of any kind can be developed. In practice, nuclear breeder reactors are the only large scale breeders that have been constructed as of 2014, with the 600 MWe BN-600 and 800 MWe BN-800 reactor, the two largest in operation.
+See also[edit]
+Energy portal
+Renewable energy portal
+Business and economics portal
+Ecology portal
+Environment portal
+Embodied energy
+Emergy
+Energy balance
+Energy cannibalism
+Jevons paradox  1880s observation of the efficiency effect multiplier
+Khazzoom-Brookes Postulate  1980s updating of Jevons paradox
+Cost of electricity by source  levelized cost of energy
+Social metabolism
+References[edit]
+^ Murphy, D.J.; Hall, C.A.S. (2010). "Year in review EROI or energy return on (energy) invested". Annals of the New York Academy of Sciences. 1185: 102118. doi:10.1111/j.1749-6632.2009.05282.x.
+^ Cutler, Cleveland (2011-08-30). "Energy return on investment (EROI)". The Encyclopedia of Earth. Retrieved 2011-09-02.
+^ Atlason, R; Unnthorsson, R (2014). "Ideal EROI (energy return on investment) deepens the understanding of energy systems". Energy: 24145.
+^ Hall, CA; Lambert, JG; Balogh, SB (2013). "EROI of different fuels and the implications for society". Energy Policy: 14152.
+^ Hall CA, Lambert JG, Balogh SB. 2013. EROI of different fuels and the implications for society. Energy Policy. 14152 & Atlason R, Unnthorsson R. 2014. Ideal EROI (energy return on investment) deepens the understanding of energy systems. Energy. 24145
+^ http://energystoragereport.info/eroi-energy-return-on-investment-energy-storage/
+^ a b http://pubs.rsc.org/en/content/articlepdf/2013/ee/c3ee41973h
+^ Bhandari et al, Energy payback time (EPBT) and energy return on energy invested (EROI) of solar photovoltaic systems: A systematic review and meta-analysis. In: Renewable and Sustainable Energy Reviews 47, (2015), 133141, doi:10.1016/j.rser.2015.02.057.
+^ "Energy return on energy invested (eroi): a quintessential but possibly inadequate metric for sustainability in a solar-powered world?. Proceedings of IEEE Volume 102, Issue 8, 18 July 2014, Pages 11181122".
+^ "Raugei M., Fullana-i-Palmer P., Fthenakis V., The energy return on energy investment (EROI) of photovoltaics: Methodology and comparisons with fossil fuel life cycles. Energy Policy 45, 576-587, 2012".
+^ "Fthenakis V. , R. Frischknecht, M. Raugei, H. C. Kim, E. Alsema, M. Held and M. de Wild-Scholten, 2011, Methodology Guidelines on Life Cycle Assessment of Photovoltaic Electricity, 2nd edition, International Energy Agency, Report IEA-PVPS T12-03:2011, November 2011".
+^ "Fthenakis V., PV Energy ROI Tracks Efficiency Gains, Solar Today, American Solar Energy Society, 26(4), 24-26, 2012" (PDF).
+^ Zimmermann, Parameterized tool for site specific LCAs of wind energy converters. In: The International Journal of Life Cycle Assessment 18, (2013), 49-60, doi:10.1007/s11367-012-0467-y.
+^ "Paducah enrichment plant to be closed. The 1950s facility is the last remaining gaseous diffusion uranium enrichment plant in the world.".
+^ Weissbach, D.; et al. (April 6, 2013). "Energy intensities, EROIs, and energy payback times of electricity generating power plants" (PDF). CS1 maint: Explicit use of et al. (link)
+^ "Paducah enrichment plant to be closed". www.world-nuclear-news.org. Retrieved 2015-12-04.
+^ Wald, Matthew L. (2013-05-24). "USEC to Shut Uranium-Enrichment Plant in Kentucky". The New York Times. ISSN0362-4331. Retrieved 2015-12-04.
+^ "Paducah Site | Department of Energy". energy.gov. Retrieved 2015-12-04.
+^ http://festkoerper-kernphysik.de/dfr_eco
+^ http://www.daretothink.org/dfr-the-dual-fluid-reactor/
+^ a b http://www.researchgate.net/publication/257176671_Hot_water_production_improves_the_energy_return_on_investment_of_geothermal_power_plants
+^ a b Hall CA, Lambert JG, Balogh SB. 2013. EROI of different fuels and the implications for society. Energy Policy. 14152
+^ Hall, Charles A.S. "EROI: definition, history and future implications" (PowerPoint). Retrieved 2009-07-08.
+^ Homer-Dixon, Thomas (2007). The Upside of Down; Catastrophe, Creativity and the Renewal of Civilisation. Island Press. ISBN978-1-59726-630-7.
+^ Tainter, Joseph (1990). The Collapse of Complex Societies. Cambridge University Press. ISBN052138673X.
+^ Morgan, Tim (2013). Life After Growth. Petersfield, UK: Harriman House. ISBN9780857193391.
+^ Garrett, T. J. (2012). "No way out? The double-bind in seeking global prosperity alongside mitigated climate change". Earth System Dynamics. 3: 1. doi:10.5194/esd-3-1-2012.
+^ Brandt 2013
+^ Brandt, A. R.; Englander, J.; Bharadwaj, S. (2013). "The energy efficiency of oil sands extraction: Energy return ratios from 1970 to 2010". Energy. 55: 693. doi:10.1016/j.energy.2013.03.080. "Current oil sands operations have mine mouth NERs (net energy returns) of about 6 GJ output per GJ of energy consumed and point of use energy returns of about 3 GJ/GJ."
+^ Richards, Michael; Hall, Charles (2014). "Does a Change in Price of Fuel Affect GDP Growth? An Examination of the US Data from 19502013". Energies. 7: 65586570. doi:10.3390/en7106558.
+^ Richards, B.S.; Watt, M.E. (2006). "Permanently dispelling a myth of photovoltaics via the adoption of a new net energy indicator" (PDF). Renewable and Sustainable Energy Reviews. doi:10.1016/j.rser.2004.09.015.
+^ Hall CA, Lambert JG, Balogh SB. 2013. EROEI of different fuels and the implications for society. Energy Policy. 14152
+^ Lambert JG, Hall CA, Balogh S, Gupta A, Arnold M. 2014. Energy, EROI and quality of life. Energy Policy.
+^ Lambert JG, Hall CA, Balogh S, Gupta A, Arnold M. 2014. Energy, EROI and quality of life. Energy Policy. 15367 & Arvesen A, Hertwich EG. 2014. More caution is needed when using life cycle assessment to determine energy return on investment (EROI). Energy Policy. 16
+^ Pearce, J.M. (2008). "Limitations of Greenhouse Gas Mitigation Technologies Set by Rapid Growth and Energy Cannibalism". Klima. Retrieved 2011-04-06.
+^ "The Azimuth Project: Solar Breeder". Retrieved 2011-04-06.
+^ Lindmayer, Joseph (1978). The solar breeder. Proceedings, Photovoltaic Solar Energy Conference, Luxembourg, September 2730, 1977. Dordrecht: D. Reidel Publishing. pp.825835. ISBN9027708894. OCLC222058767. Retrieved 2011-04-06.
+^ Lindmayer, Joseph (1977). The Solar Breeder. NASA.
+^ "The BP Solarex Facility Tour in Frederick, MD". Sustainable Cooperative for Organic Development. Retrieved 28 February 2013.
+^ Koinuma, H.; Kanazawa, I.; Karaki, H.; Kitazawa, K. (Mar 26, 2009), Sahara solar breeder plan directed toward global clean energy superhighway, Science Council of Japan
+Further reading[edit]
+Heinberg, Richard (2003). The Party's Over: Oil, War, and the Fate of Industrial Societies. Gabriola, BC: New Society Publishers. ISBN0-86571-482-7.
+Gupta, Ajay K; Hall, Charles A.S (2011). "A Review of the Past and Current State of EROI Data". Sustainability. 3 (10): 17961809. doi:10.3390/su3101796. Retrieved 25 March 2012.
+Lambert, JG; Hall, CA (2014). "Energy, EROI and quality of life". Energy Policy: 15367. doi:10.1016/j.enpol.2013.07.001. Retrieved 1 October 2015.
+Morgan, Tim (2013). Life After Growth. Petersfield, UK: Harriman House. ISBN9780857193391.
+External links[edit]
+World-Nuclear.org, World Nuclear Association study on EROEI with assumptions listed.
+Web.archive.org, Wayback Archive of OilAnalytics.org, "EROI as a Measure of Energy Availability"
+EOearth.org, Energy return on investment (EROI)
+EOearth.org, Net energy analysis
+H2-pv.us, Essay on H2-PV Breeder Synergies
+v
+t
+e
+Bioenergy
+Biofuels
+Alcohol
+Algae fuel
+Bagasse
+Babassu oil
+Biobutanol
+Biodiesel
+Biogas
+Biogasoline
+Corn stover
+Ethanol
+cellulosic
+mixtures
+Methanol
+Stover
+Corn stover
+Straw
+Cooking oil
+Vegetable oil
+Water hyacinth
+Wood gas
+Energy from
+foodstock
+Barley
+Cassava
+Grape
+Hemp
+Maize
+Oat
+Palm oil
+Potato
+Rapeseed
+Rice
+Sorghum bicolor
+Soybean
+Sugarcane
+Sugar beet
+Sunflower
+Wheat
+Yam
+Camelina sativa
+Non-food
+energy crops
+Arundo
+Big bluestem
+Camelina
+Chinese tallow
+Duckweed
+Jatropha curcas
+Millettia pinnata
+Miscanthus giganteus
+Switchgrass
+Wood fuel
+Technology
+BECCS
+Bioconversion
+Biomass heating systems
+Biorefinery
+FischerTropsch process
+Industrial biotechnology
+Pellets
+mill
+stove
+Thermal depolymerization
+Concepts
+Cellulosic ethanol commercialization
+Energy content of biofuel
+Energy crop
+Energy forestry
+EROEI
+Food vs. fuel
+Issues
+Sustainable biofuel
+NewPP limit report
+Parsed by mw1172
+Cached time: 20161119100212
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.268 seconds
+Real time usage: 0.349 seconds
+Preprocessor visited node count: 1532/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 67456/2097152 bytes
+Template argument size: 463/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 3.74 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+233.121
+1 - -total
+71.26%
+166.133
+1 - Template:Reflist
+24.61%
+57.365
+9 - Template:Cite_journal
+18.12%
+42.243
+13 - Template:Cite_web
+10.10%
+23.541
+6 - Template:Cite_book
+5.97%
+13.908
+1 - Template:Harvnb
+4.58%
+10.673
+1 - Template:Portal
+4.50%
+10.485
+1 - Template:Bioenergy
+3.77%
+8.795
+1 - Template:Navbox
+3.10%
+7.225
+2 - Template:DOI
+Saved in parser cache with key enwiki:pcache:idhash:1228320-0!*!0!!en!4!*!math=5 and timestamp 20161119100212 and revision id 745929722
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Energy_returned_on_energy_invested&oldid=745929722"
+Categories: Peak oilEnergy economicsEmergyHidden categories: CS1 maint: Explicit use of et al.

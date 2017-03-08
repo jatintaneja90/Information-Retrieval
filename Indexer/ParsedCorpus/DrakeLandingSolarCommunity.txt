@@ -1,0 +1,154 @@
+DrakeLandingSolarCommunity
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}The Drake Landing Solar Community (DLSC) is a planned community in Okotoks, Alberta, Canada, equipped with a central solar heating system and other energy efficient technology. This heating system is the first of its kind in North America, although much larger systems have been built in northern Europe. The 52 homes in the community are heated with a solar district heating system that is charged with heat originating from solar collectors on the garage roofs and is enabled for year-round heating by underground seasonal thermal energy storage (STES).[1]
+The system was designed to model a way of addressing global warming and the burning of fossil fuels. The solar energy is captured by 800 solar thermal collectors[2] located on the roofs of all 52 houses.[3] It is billed as the first solar powered subdivision in North America,[4] although its electricity and transportation needs are provided by conventional sources.
+In 2012 the installation achieved a world record solar fraction of 97%; that is, providing that amount of the community's heating requirements with solar energy over a one-year time span.[5][6]
+Contents
+1 How it works
+2 Energy centre
+3 Borehole thermal energy system
+4 Sponsors and partners
+5 Community members
+6 Local sustainability
+7 Costs and financing
+8 International effects
+9 Current status
+10 See also
+11 References
+12 External links
+How it works[edit]
+There are 52 homes in this subdivision that contain an array of 800 solar thermal collectors. These solar collectors are arranged on the roofs of garages located behind the homes. During a typical summer day these collectors can generate 1.5 mega-watts of thermal power. A glycol solution (an anti-freeze solution; a mixture of water and non-toxic glycol) is heated by the suns energy and travels through insulated piping underground through a trench system to the heat exchanger within the communitys Energy Centre. This is known as the Solar Collector Loop. The glycol solution then transfers its heat to water located in the short-term storage tanks. The District Heating Loop begins with water being heated in the heat exchanger to a temperature of 40-50C within the Energy Centre. This lower temperature is more energy efficient, as solar collecting is more compatible with lower temperatures. This increases the total amount of heat available to each home.
+In the warmer months the previously heated water is taken from the short-term storage tank to the Borehole Thermal Energy Storage (BTES). The Borehole Thermal Energy Storage unit is 144 holes located 37m (121ft) below the ground and stretches over an approximate area of 35m (115ft) in diameter. The water returns to the short-term storage tanks in the Energy Centre to be heated again in order to complete the circuit. During colder months the water from the BTES passes back to the short-term storage tank and is then directed to each home. Similar to a hot water tank, the heated water goes through a heat exchanger that blows air across the warm fan coil. Heat travels from the water to the air and is directed through the house via ductwork. When the temperature reaches that said on the thermostat, an automatic valve shuts off the heat transfer unit.[7]
+Energy centre[edit]
+The Energy Centre building is a 232 square metre (2,500 square feet) building located in the corner of the community. It is home to the short-term storage tanks and most mechanical equipment such as pumps, heat exchangers, and controls. The Solar Collector Loop, the District Heating Loop, and the Borehole Thermal Energy Storage Loop pass through the Energy Centre. Two horizontal water tanks occupy the majority of the space within the Energy Centre. These tanks are 12ft (3.7m) in diameter and 36ft (11m) in length. The remaining space within the Energy Centre houses pumps, valves, heat exchangers and other necessary equipment to operate and control the energy system. These tanks are known as Short-Term Thermal Storage (STTS).[7]
+Borehole thermal energy system[edit]
+The Borehole Thermal Energy System is located underground to store large quantities of heat collected in the summer to be used in the winter. It consists of 144 boreholes, which stretch to a depth of 37m (121ft). At the surface the pipes are joined together in groups of six to connect to the Energy Centre. The entire BTES is covered by a layer of insulation, on top of which a park is built. When the heated water is to be stored, it is pumped through the pipe series. The heat is then transferred to the surrounding soil as the water cools and returns to the Energy Centre. When the homes need heat, water flows to the centre of the BTES field and picks up the heat from the surrounding soil. The heated water then goes to the short-term energy tank in the Energy Centre and is pumped through the District Heating Loop to the homes.[7]
+Sponsors and partners[edit]
+This project was conceived by Natural Resources Canadas CanmetENERGY in partnership with governmental organizations and Canadian industries. Of the $7 million needed for this project this was the breakdown of funds:
+$2 million from federal government agencies.
+$2.9 million from the Federation of Canadian Municipalities and Green Municipal Investment Fund.
+$625,000 from the Alberta Government.[8]
+Community members[edit]
+Homeowners were willing to pay for these energy efficient homes because it ensured high quality construction. Until the solar heating system began working, ATCO Gas (an Alberta-based natural gas distribution company) fixed heating costs at $60 per month for the homeowners at the Drake Landing Solar Community. With rising fuel costs, this was a powerful incentive for homeowners to support the DLSC project. Even if the project had failed, ATCO Gas would have replaced the special hot-water furnaces with traditional natural gas ones. There was limited risk to the homeowners and this encouraged them to support the project.[9]
+Local sustainability[edit]
+The 52 homes in Drake Landing Solar Community are certified to Natural Resource Canadas R-2000 Standard as well as the Built Green Alberta Gold Standard.
+Costs and financing[edit]
+Each house sold for an average of $380,000.
+Homeowners are receiving an average of $60 per month solar utility bill for heating.
+$7 million for the initial start up of the Drake Landing Solar Community project.
+If this project were repeated it would cost $4 million, as approximately $3 million was for one-time research and development.
+Optimal community size would be 200-300 homes to realize the economies of scale. The number of systems would remain the same; only the number of boreholes would need to increase.[10]
+International effects[edit]
+A group of researchers from South Korea visited Drake Landing Solar Community in April 2012 to study the geothermal heating technology and how it can be applied to communities in South Korea, particularly ahead of the 2018 Winter Olympics in Pyeongchang. The main focus of this research trip was to learn about the economics and reliability of the technology.[11]
+Current status[edit]
+On October 5, 2012 the DLSC set a new world record by covering 97% of space heating needs with solar thermal energy.[12]
+See also[edit]
+List of energy storage projects
+References[edit]
+^ "Drake Landing Solar Community". Retrieved 2008-02-10.
+^ Climate Change Central. "Case Study: Drake Landing". Retrieved 2007-02-09.
+^ Natural Resources Canada. "Unique Community a Model for a Greener, Healthier Canada". Archived from the original on 2007-11-06. Retrieved 2008-02-09.
+^ "North America's First Solar Powered Subdivision - Drake Landing". Town of Okotoks. Archived from the original on 2008-01-03. Retrieved 2008-02-09.
+^ "Canadian Solar Community Sets New World Record for Energy Efficiency and Innovation". Natural Resources Canada. 5 October 2012.
+^ Wong, B.; Thornton, J. (2013). "Integrating Solar & Heat Pumps" (PDF). Presentation at Renewable Heat Workshop. Retrieved 31 January 2013.
+^ a b c "Drake Landing Solar Community". dlsc.ca.
+^ "CanmetENERGY" (PDF). nrcan.gc.ca.
+^ http://qspace.library.queensu.ca/bitstream/1974/1696/1/Wamboldt_Jason_M_200901_Master.pdf
+^ "CanmetENERGY" (PDF). nrcan.gc.ca.
+^ "Korean researchers learn from Drake Landing". Okotoks Western Wheel.
+^ "Canadian Drake Landing community sets world record for solar heating". solarserver.com.
+External links[edit]
+Drake Landing Solar Community Retrieved on September 30, 2009
+Drake Landing Solar Community: Workings Retrieved on September 30, 2009
+v
+t
+e
+Subdivisions of Alberta
+Subdivisions
+Regions
+Census divisions
+Census agglomerations
+Municipalities
+Municipal districts (counties)
+Specialized municipalities
+School authorities
+Communities
+Cities
+Towns
+Villages
+Summer villages
+Hamlets
+Indian reserves and settlements
+Metis settlements
+Ghost towns
+Designated places
+Cities and urban
+service areas
+Airdrie
+Brooks
+Calgary
+Camrose
+Chestermere
+Cold Lake
+Edmonton (capital)
+Fort McMurray
+Fort Saskatchewan
+Grande Prairie
+Lacombe
+Leduc
+Lethbridge
+Lloydminster
+Medicine Hat
+Red Deer
+Sherwood Park
+Spruce Grove
+St. Albert
+Wetaskiwin
+Category
+Portal
+WikiProject
+Coordinates: 504351N 1135701W / 50.73095N 113.95029W / 50.73095; -113.95029
+NewPP limit report
+Parsed by mw1176
+Cached time: 20161118181230
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.164 seconds
+Real time usage: 0.199 seconds
+Preprocessor visited node count: 827/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 38209/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.080/10.000 seconds
+Lua memory usage: 4.71 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+162.936
+1 - -total
+43.00%
+70.055
+1 - Template:Reflist
+33.50%
+54.586
+11 - Template:Cite_web
+22.58%
+36.792
+5 - Template:Convert
+19.41%
+31.633
+1 - Template:Subdivisions_of_Alberta
+15.54%
+25.316
+2 - Template:Navbox
+12.04%
+19.615
+1 - Template:Coord
+4.11%
+6.696
+3 - Template:Icon
+Saved in parser cache with key enwiki:pcache:idhash:12294713-0!*!0!!en!4!* and timestamp 20161118181230 and revision id 749259839
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Drake_Landing_Solar_Community&oldid=749259839"
+Categories: Scientific organizations based in CanadaOkotoksEnergy storageEnergy conservationSustainable buildingSustainable communitiesSustainable designResidential heatingSolar thermal energySolar designHidden categories: Coordinates on Wikidata

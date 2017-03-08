@@ -1,0 +1,368 @@
+Streetlight
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}For other uses, see Streetlight (disambiguation).
+A street light at dusk in South Africa
+A wind powered street light in Urmia, Iran
+Street light at Amerika Plads in Copenhagen
+A street light, light pole, lamppost, street lamp, light standard, or lamp standard is a raised source of light on the edge of a road or walkway. Modern lamps may also have light-sensitive photocells that activate automatically when light is or is not needed: dusk, dawn, or the onset of dark weather. This function in older lighting systems could have been performed with the aid of a solar dial. Many street light systems are being connected underground instead of wiring from one utility post to another.
+Contents
+1 History
+1.1 Preindustrial era
+1.2 Gas lamp lighting
+1.3 Farola fernandina
+1.4 Arc lamps and incandescent lighting
+2 Modern lights
+3 Measurement
+4 Advantages
+5 Disadvantages
+5.1 Dangers
+5.2 Light pollution
+5.3 Energy consumption
+6 Street light control systems
+6.1 Image-based street light control
+7 Purpose
+7.1 Beacon lights
+7.2 Roadway lights
+8 Maintenance
+9 Main manufacturers
+10 See also
+11 References
+12 Bibliography
+13 Further reading
+14 External links
+History[edit]
+Main articles: oil lamp and gas lighting
+Preindustrial era[edit]
+Early lamps were used by Greek and Roman civilizations,[citation needed] where light primarily served the purpose of security, both to protect the wanderer from tripping on the path over something or keeping the potential robbers at bay.[citation needed] At that time oil lamps were used predominantly as they provided a long-lasting and moderate flame. The Romans had a word 'lanternarius', which was a term for a slave responsible for lighting the oil lamps in front of their villas. This task remained the responsibility of a designated person up to the Middle Ages where the so-called 'link boys' escorted people from one place to another through the murky winding streets of medieval towns.
+Before incandescent lamps, candle lighting was employed in cities. The earliest lamps required that a lamplighter tour the town at dusk, lighting each of the lamps. According to some sources, illumination was ordered in London in 1417 by Sir Henry Barton, Mayor of London though there is no firm evidence of this.[1]
+In 1524, Paris house owners were required to have lanterns with candles lit in front of their houses at night, but the law was often ignored. Following the invention of lanterns with glass windows, which greatly improved the quantity of light, in 1594 the police of Paris took charge of installing lanterns in each city neighborhood. Still, in 1662, it was a common practice for travelers to hire a lantern-bearer if they had to move at night through the dark, winding streets. Lantern bearers were still common in Paris until 1789. In 1667, under King Louis XIV, the royal government began installing lanterns on all the streets. There were three thousand in place by 1669, and twice as many by 1729. Lanterns with glass windows were suspended from a cord over the middle of the street at a height of twenty feet and were placed twenty yards apart. A much-improved oil lantern, called a rverbre, was introduced between 1745 and 1749. These lamps were attached to the top of lampposts; by 1817, there were 4694 lamps on the Paris streets. During the French Revolution (1789-1799), the revolutionaries found that the lampposts were a convenient place to hang aristocrats and other opponents. [2]
+Gas lamp lighting[edit]
+Main article: Gas lighting
+The first widespread system of street lighting used piped coal gas as fuel. Stephen Hales was the first person who procured a flammable fluid from the actual distillation of coal in 1726 and John Clayton, in 1735, called gas the "spirit" of coal and discovered its flammability by accident.
+William Murdoch's house in Redruth, UK, the first domestic house lit by gas in the world
+William Murdoch (sometimes spelled "Murdock") was the first to use the flammability of gas for the practical application of lighting. In the early 1790s, while overseeing the use of his company's steam engines in tin mining in Cornwall, Murdoch began experimenting with various types of gas, finally settling on coal-gas as the most effective. He first lit his own house in Redruth, Cornwall in 1792.[3] In 1798, he used gas to light the main building of the Soho Foundry and in 1802 lit the outside in a public display of gas lighting, the lights astonishing the local population.
+In Paris, gas lighting was first demonstrated in November 1800 at a private residence on the rue Saint-Dominique, and was installed on a covered shopping street, the Passage des Panoramas, in 1817. The First gas lamps on the streets of Paris appeared in January 1829 on the place du Carrousel and the rue de Rivoli, then on rue de la Paix, place Vendme, rue de Castiglione; by 1857 the Grands Boulevards were all lit with gas. A Parisian writer enthused in August, 1857: "That which most enchants the Parisians is the new lighting by gas of the boulevards...From the church of the Madeleine all the way to rue Montmartre, these two rows of lamps, shining with a clarity white and pure, have a marvelous effect." The gaslights installed on the boulevards and city monuments in the 19th century gave the city the nickname "The City of Light." [4]
+The first public street lighting with gas was demonstrated in Pall Mall, London on January 28, 1807 by Frederick Albert Winsor.[citation needed] In 1812, Parliament granted a charter to the London and Westminster Gas Light and Coke Company, and the first gas company in the world came into being. Less than two years later, on December 31, 1813, the Westminster Bridge was lit by gas.[citation needed]
+Following this success, gas lighting spread to other countries. The use of gas lights in Rembrandt Peale's Museum in Baltimore in 1816 was a great success. Baltimore was the first American city with gas streetlights, provided by Peale's Gas Light Company of Baltimore.
+The first place outside London in England to have gas lighting, was Preston, Lancashire in 1825, this was due to the Preston Gaslight Company run by revolutionary Joseph Dunn, who found the most improved way of brighter gas lighting.
+Oil-gas appeared in the field as a rival of coal-gas guff. In 1815, John Taylor patented an apparatus for the decomposition of "oil" and other animal substances. Public attention was attracted to "oil-gas" by the display of the patent apparatus at Apothecary's Hall, by Taylor & Martineau.
+The first modern street lamps to use kerosene were introduced in Lviv in what was then the Austrian Empire in 1853. In Brest, street lighting with kerosene lamps reappeared in 2009 in the shopping street as a tourist attraction.
+Farola fernandina[edit]
+Farola fernandina is a traditional design of street light which remains popular in Spain. Essentially it is a neo-classical French gas lamp style dating from the late 18th century. It may be either a wall-bracket or standard lamp. The standard base is cast metal with an escutchion bearing two intertwined letters 'F', the Royal cypher of King Ferdinand VII of Spain[5] and commemorates the date of the birth of his daughter, the Infanta Luisa Fernanda, Duchess of Montpensier.[6]
+Typical base and escutcheon of a farola fernandina
+A farola fernandina in Aranjuez
+Street light in Ferdinand VII style near the Royal Palace of Aranjuez
+Arc lamps and incandescent lighting[edit]
+Demonstration of Yablochkov's arc lamp on the Avenue de l'Opera in Paris (1878), the first form of electric street lighting
+Heritage lamp post in the City Botanic Gardens, Brisbane
+The first electric street lighting employed arc lamps, initially the 'Electric candle', 'Jablotchkoff candle' or 'Yablochkov candle' developed by the Russian Pavel Yablochkov in 1875. This was a carbon arc lamp employing alternating current, which ensured that both electrodes were consumed at equal rates. In 1876, the common council of the City of Los Angeles ordered four arc lights installed in various places in the fledgling town for street lighting.[7]
+On May 30, 1878, the first electric street lights in Paris were installed on the avenue de l'Opera and the Place d'Etoile, around the Arc de Triomphe, to celebrate the opening of the Paris Universal Exposition. In 1881, to coincide with the Paris International Exposition of Electricity, street lights were installed on the major boulevards. [8]
+The first streets in London lit with the electrical arc lamp were by the Holborn Viaduct and the Thames Embankment in 1878. More than 4,000 were in use by 1881, though by then an improved differential arc lamp had been developed by Friedrich von Hefner-Alteneck of Siemens & Halske. The United States was quick in adopting arc lighting, and by 1890 over 130,000 were in operation in the US, commonly installed in exceptionally tall moonlight towers.
+Arc lights had two major disadvantages. First, they emit an intense and harsh light which, although useful at industrial sites like dockyards, was discomforting in ordinary city streets. Second, they are maintenance-intensive, as carbon electrodes burn away swiftly. With the development of cheap, reliable and bright incandescent light bulbs at the end of the 19th century, arc lights passed out of use for street lighting, but remained in industrial use longer.
+The first street to be lit by an incandescent lightbulb was Mosley Street, in Newcastle upon Tyne. The street was lit by Joseph Swan's incandescent lamp on 3 February 1879.[9] Consequently, Newcastle was the first city in the world to be fully lit up by lighting.[10] The first street to be lit with modern electricity as we know it was Electric Avenue in London's Brixton in 1880. The first city in the United States, and second overall after Newcastle (England), was the Public Square road system in Cleveland, Ohio, on April 29, 1879. Wabash, Indiana holds the title of being the third electrically lit city in the world, which took place on February 2, 1880. Four 3,000 candlepower Brush arc lamps suspended over the courthouse rendered the town square "as light as midday.Kimberley, South Africa, was the first city in the Southern Hemisphere and in Africa to have electric street lights - first lit on 1 September 1882 .[11] In Central America, San Jose, Costa Rica was the first city, the system was launched on August 9, 1884, with 25 lamps powered by a hydroelectric plant.[12]
+Old street light in Luckau, Brandenburg
+Timioara, in present-day Romania, was the first city in Continental Europe to have electric public lighting on 12 November 1884. 731 lamps were used. In 1886, the tiny, isolated mining town of Waratah in NW Tasmania was the first to have electrically powered street lighting in Australia. On 9 December 1882, Brisbane, Queensland, Australia was introduced to electricity by having a demonstration of using eight arc lights, erected along Queen Street Mall. The power to supply these arc lights was taken from a 10hp Crompton DC generator driven by a Robey steam engine in a small foundry in Adelaide Street and occupied by J. W. Sutton and Co. The lamps were erected on cast iron standards, 20ft in height. In 1888 Tamworth, New South Wales, Australia became the first location in New South Wales to have electric street lighting, for which that city erroneously maintains the title of "First City of Light".
+Incandescent lamps were primarily used for street lighting until the advent of high-intensity discharge lamps. They were often operated at high-voltage series circuits. Series circuits were popular since the higher voltage in these circuits produced more light per watt consumed. Furthermore, before the invention of photoelectric controls, a single switch or clock could control all the lights in an entire district.
+To avoid having the entire system go dark if a single lamp burned out, each street lamp was equipped with a device that ensured that the circuit would remain intact. Early series street lights were equipped with isolation transformers.[13] that would allow current to pass across the transformer whether the bulb worked or not. Later the film cutout was invented. The film cutout was a small disk of insulating film that separated two contacts connected to the two wires leading to the lamp. If the lamp failed (an open circuit), the current through the string became zero, causing the voltage of the circuit (thousands of volts) to be imposed across the insulating film, penetrating it (see Ohm's law). In this way, the failed lamp was bypassed and power restored to the rest of the district. The street light circuit contained an automatic current regulator, preventing the current from increasing as lamps burned out, preserving the life of the remaining lamps. When the failed lamp was replaced, a new piece of film was installed, once again separating the contacts in the cutout. This system was recognizable by the large porcelain insulator separating the lamp and reflector from the mounting arm. This was necessary because the two contacts in the lamp's base may have operated at several thousand volts above ground/earth.
+Modern lights[edit]
+The distinctive amber-yellow glow from an old style low pressure sodium vapor light in the UK
+A sodium vapor light.
+An unlit high pressure sodium lamp
+Low energy prismatic street lighting
+Today, street lighting commonly uses high-intensity discharge lamps, often HPS high pressure sodium lamps.[14] Such lamps provide the greatest amount of photopic illumination for the least consumption of electricity. However, white light sources have been shown to double driver peripheral vision and improve driver brake reaction time by at least 25%; to enable pedestrians to better detect pavement trip hazards[15] and to facilitate visual appraisals of other people associated with interpersonal judgements. Studies comparing metal halide and high-pressure sodium lamps have shown that at equal photopic light levels, a street scene illuminated at night by a metal halide lighting system was reliably seen as brighter and safer than the same scene illuminated by a high pressure sodium system.[16][17][18]
+Two national standards now allow for variation in illuminance when using lamps of different spectra. In Australia, HPS lamp performance needs to be reduced by a minimum value of 75%. In the UK, illuminances are reduced with higher values S/P ratio[19][20]
+New street lighting technologies, such as LED or induction lights, emit a white light that provides high levels of scotopic lumens allowing street lights with lower wattages and lower photopic lumens to replace existing street lights. However, there have been no formal specifications written around Photopic/Scotopic adjustments for different types of light sources, causing many municipalities and street departments to hold back on implementation of these new technologies until the standards are updated. Eastbourne in East Sussex UK is currently undergoing a project to see 6000 of its street lights converted to LED and will be closely followed by Hastings in early 2014.[21]
+Milan, Italy, is the first major city to have entirely switched to LED lighting.[22]
+In North America, the city of Mississauga (Canada) was one of the first and biggest LED conversion projects with over 46,000 lights converted to LED technology between 2012 and 2014. It is also one of the first cities in North America to use Smart City technology to control the lights. DimOnOff, a company based in Quebec City, was chosen as a Smart City partner for this project.[23][24]
+Photovoltaic-powered LED luminaires are gaining wider acceptance. Preliminary field tests show that some LED luminaires are energy-efficient and perform well in testing environments.[25]
+In 2007, the Civil Twilight Collective created a variant of the conventional LED streetlight, namely the Lunar-resonant streetlight.[26][27] These lights increase or decrease the intensity of the streetlight according to the lunar light. This streetlight design thus reduces energy consumption as well as light pollution.
+Measurement[edit]
+Old style street light with lamps near the hunting lodge Moenchbruch, Germany
+A street light during a snowfall
+Two very similar measurement systems were created to bridge the scotopic and photopic luminous efficiency functions,[28][29][30] creating a Unified System of Photometry.[31][32] This new measurement has been well-received because the reliance on V() alone for characterizing night-time light illuminations requires more electric energy. The cost-savings potential of using a new way to measure mesopic lighting scenarios is tremendous.[33]
+Outdoor Site-Lighting Performance (OSP) is a method for predicting and measuring three different aspects of light pollution: glow, trespass and glare.[34] Using this method, lighting specifiers can quantify the performance of existing and planned lighting designs and applications to minimize excessive or obtrusive light leaving the boundaries of a property.
+Advantages[edit]
+Major advantages of street lighting include prevention of accidents and increase in safety.[35] Studies have shown that darkness results in a large number of crashes and fatalities, especially those involving pedestrians; pedestrian fatalities are 3 to 6.75 times more likely in the dark than in daylight.[36] Street lighting has been found to reduce pedestrian crashes by approximately 50%.[37][38][39]
+Furthermore, lighted intersections and highway interchanges tend to have fewer crashes than unlighted intersections and interchanges.[40]
+Towns, cities, and villages use the unique locations provided by lampposts to hang decorative or commemorative banners.
+Many communities in the US use lampposts as a tool for fund raising via lamppost banner sponsorship programs first designed by a US based lamppost banner manufacturer.[41]
+Disadvantages[edit]
+The major criticisms of street lighting are that it can actually cause accidents if misused, and cause light pollution.
+Dangers[edit]
+There are two optical phenomena that need to be recognized in street light installations.
+The loss of night vision because of the accommodation reflex of drivers' eyes is the greatest danger. As drivers emerge from an unlighted area into a pool of light from a street light their pupils quickly constrict to adjust to the brighter light, but as they leave the pool of light the dilation of their pupils to adjust to the dimmer light is much slower, so they are driving with impaired vision. As a person gets older the eye's recovery speed gets slower, so driving time and distance under impaired vision increases.
+Oncoming headlights are more visible against a black background than a grey one. The contrast creates greater awareness of the oncoming vehicle.
+Stray voltage is also a concern in many cities. Stray voltage can accidentally electrify lampposts and has the potential to injure or kill anyone who comes into contact with the post.[42]
+"The American Medical Association (AMA) has just adopted an official policy statement about street lighting: cool it and dim it. The statement, adopted unanimously at the AMA's annual meeting ... comes in response to the rise of new LED street lighting sweeping the country."
+"Municipalities are replacing existing streetlights with efficient and long-lasting LEDs to save money on energy and maintenance. Although the streetlights are delivering these benefits, the AMA's stance reflects ... the close connection between light and human health.
+The new "white" LED street lighting ... has two problems. The first is discomfort and glare. Because LED light is so concentrated and has high blue content, it can cause severe glare ... and sufficient levels can damage the retina. This can cause problems seeing clearly for safe driving or walking at night.
+The other issue addressed by the AMA statement is the impact on human circadian rhythmicity. Lighting affects our normal circadian physiology. This could lead to some serious health consequences. White LED light ... is estimated to be five times more effective at suppressing melatonin at night than the high pressure sodium lamps (given the same light output) which have been the mainstay of street lighting for decades. Melatonin suppression is a marker of circadian disruption, which includes disrupted sleep.
+The AMA 'encourage[s] minimizing and controlling blue-rich environmental lighting by using the lowest emission of blue light possible to reduce glare.' All LED lighting should be properly shielded."[43]
+There are also physical dangers other than children climbing them for recreational purposes. Street light stanchions (lampposts) pose a collision risk to motorists and pedestrians, particularly those affected by poor eyesight or under the influence of alcohol. This can be reduced by designing them to break away when hit (frangible or collapsible supports), protecting them by guardrails, or marking the lower portions to increase their visibility. High winds or accumulated metal fatigue also occasionally topple street lights.
+Light pollution[edit]
+Ritz-Carlton Hotel in Downtown Los Angeles, California, framed by a street lamp
+In urban areas light pollution can hide the stars and interfere with astronomy and the migration of many bird species[citation needed]. In settings near astronomical telescopes and observatories, low pressure sodium lamps may be used. These lamps are advantageous over other lamps such as mercury and metal halide lamps because low pressure sodium lamps emit lower intensity, monochromatic light. Observatories can filter the sodium wavelength out of their observations and virtually eliminate the interference from nearby urban lighting. Full cutoff streetlights also reduce light pollution by reducing the amount of light that is directed at the sky which also improves the luminous efficiency of the light.
+Energy consumption[edit]
+Globally 70% of all electricity is generated by burning fossil fuels, a source of air pollution including greenhouse gases, and also globally there are approximately 300 million street lights using that electricity.[44] Cities are exploring more efficient energy use, reducing street light power consumption by dimming lights during off-peak hours and switching to high-efficiency LED lamps.[45] A British county council has turned off 5% of its street lights on a trial basis.[46]
+Street light control systems[edit]
+A number of street light control systems have been developed to control and reduce energy consumption of a town's public lighting system. These range from controlling a circuit of street lights and/or individual lights with specific ballasts and network operating protocols. These may include sending and receiving instructions via separate data networks,at high frequency over the top of the low voltage supply or wireless.[47]
+Image-based street light control[edit]
+A number of companies are now manufacturing Intelligent street lighting that adjust light output based on usage and occupancy, i.e. automating classification of pedestrian versus cyclist, versus automotive, sensing also velocity of movement and illuminating a certain number of streetlights ahead and fewer behind, depending on velocity of movement. Also the lights adjust depending on road conditions, for example, snow produces more reflectance therefore reduced light is required.
+Purpose[edit]
+There are three distinct main uses of street lights, each requiring different types of lights and placement. Misuse of the different types of lights can make the situation worse by compromising visibility or safety.
+Beacon lights[edit]
+Decorative but functional lamps in the Plaza at sunset, Samaipata, Bolivia
+A modest steady light at the intersection of two roads is an aid to navigation because it helps a driver see the location of a side road as they come closer to it and they can adjust their braking and know exactly where to turn if they intend to leave the main road or see vehicles or pedestrians. A beacon light's function is to say "here I am" and even a dim light provides enough contrast against the dark night to serve the purpose. To prevent the dangers caused by a car driving through a pool of light, a beacon light must never shine onto the main road, and not brightly onto the side road. In residential areas, this is usually the only appropriate lighting, and it has the bonus side effect of providing spill lighting onto any sidewalk there for the benefit of pedestrians. On Interstate highways this purpose is commonly served by placing reflectors at the sides of the road.
+Roadway lights[edit]
+High mast lighting along Highway 401 in Ontario, Canada.
+Conventional streetlights are used instead of high mast lighting near airport runway approaches due to the negative effects they cause.
+Because of the dangers discussed above, roadway lights are properly used sparingly and only when a particular situation justifies increasing the risk. This usually involves an intersection with several turning movements and much signage, situations where drivers must take in much information quickly that is not in the headlights' beam. In these situations (A freeway junction or exit ramp) the intersection may be lit so that drivers can quickly see all hazards, and a well designed plan will have gradually increasing lighting for approximately a quarter of a minute before the intersection and gradually decreasing lighting after it. The main stretches of highways remain unlighted to preserve the driver's night vision and increase the visibility of oncoming headlights. If there is a sharp curve where headlights will not illuminate the road, a light on the outside of the curve is often justified.
+If it is desired to light a roadway (perhaps due to heavy and fast multi-lane traffic), to avoid the dangers of casual placement of street lights it should not be lit intermittently, as this requires repeated eye readjustment which implies eyestrain and temporary blindness when entering and leaving light pools. In this case the system is designed to eliminate the need for headlights. This is usually achieved with bright lights placed on high poles at close regular intervals so that there is consistent light along the route. The lighting goes from curb to curb.
+For more information, see the lighting section of "Pedestrian Crossings" article.
+Maintenance[edit]
+New York City street light status indicator
+Street lighting systems require ongoing maintenance, which can be classified as either reactive or preventative. Reactive maintenance is a direct response to a lighting failure, such as replacing a discharge lamp after it has failed, or replacing an entire lighting unit after it has been hit by a vehicle. Preventative maintenance is scheduled replacement of lighting components, for example replacing all of the discharge lamps in an area of the city when they have reached 85% of their expected life. In the United Kingdom the Roads Liaison Group has issued a Code of Practice recommending specific reactive and preventative maintenance procedures.
+Some street lights in New York City have an orange or red light on top of the luminair (light fixture) or a red light attached to the lamppost. This indicates that near to this lighting pole or in the same intersection, there is a fire alarm pull box.[48] Other street lights have a small red light next to the street light bulb, when the small light flashes, it indicates an issue with the electrical current.[49]
+Main manufacturers[edit]
+A historical Slovak lamppost.
+German streetlight at night.
+Street light from the 1950s attached to a utility pole in New Jersey
+See also: Category: Lighting brands
+Australia
+GEC (General Electric)
+Osram Sylvania
+Philips
+Rexel
+Thorn Lighting
+Westinghouse
+North America
+American Electric Lighting (formerly ITT, later Thomas & Betts), US
+Cooper Lighting division of Cooper Industries, US
+General Electric, US
+Osram Sylvania, US
+Westinghouse Lighting Corporation (formerly Angelo Brothers) division of the new Westinghouse Electric, US
+Europe
+LUG Light Factory, Poland
+CU Phosco Lighting, United Kingdom
+Trilux, Germany
+Osram, Germany
+Philips, the Netherlands
+Siemens, Germany
+Svetlina AD, Bulgaria
+Tungsram, Hungary
+Thorn Lighting formerly Europhane, United Kingdom
+GEC, United Kingdom
+Philips, United Kingdom
+AEC Illuminazione, Italy
+Schrder, Belgium
+ARELSA, Spain
+Asia
+Matsushita Electric Industrial Co., Japan
+Sanyo, Japan
+Bajaj Electricals, India
+See also[edit]
+Charging station
+Gas lighting
+History of street lighting in the United States
+Lighting-up time
+Light pollution
+List of light sources
+Solar street light
+Street furniture
+Street light interference
+Intelligent street lighting
+References[edit]
+^ Roskell, J.S. and Clark, L. and Rawcliffe, C. (editors) BARTON, Henry (d.1435), of London. - History of Parliament Online, The History of Parliament: the House of Commons 1386-1421. ISBN 9780862999438. 1993.
+^ Fierro 1996, p.836.
+^ Janet Thomson; The Scot Who Lit The World, The Story Of William Murdoch Inventor Of Gas Lighting; 2003; ISBN 0-9530013-2-6
+^ Fierro 1996, p.838.
+^ "Las fernandinas" (in Spanish). Esa Sevilla blogspot. 22 May 2010. Retrieved 19 June 2014.
+^ ""Ya a la venta el libro "Las farolas fernandinas por los cuatro costados" book review". Amigos de las farolas ferdinandinas. 7 Sep 2009. Retrieved 9 June 2014.
+^ William H. Workman, The City That Grew (1929) Mirror-Press, Los Angeles, p.
+^ Fierro 1996, p.628.
+^ "Sir Joseph Wilson Swan". home.frognet.net. Retrieved 16 October 2010.
+^ "Electric lighting". ncl.ac.uk. Retrieved 2014-06-03.
+^ "Timeline of Firsts". Retrieved 2010-01-11.
+^ Rohrmoser, Guillermo. "Centenario de la electridicad en Costa Rica" (PDF).
+^ General Electric review. 23.
+^ Bullough, John; MS Rea & Y. Akashi (2009). "Several views of metal halide and high pressure sodium lighting for outdoor applications". Lighting Research and Technology. p.31: 297320.
+^ Fotios S, Cheal C. Using obstacle detection to identify appropriate illuminances for lighting in residential roads. Lighting Research & Technology, 2013; 45(3); 362-376
+^ Rea, M. S.; J. D. Bullough & Y. Akashi (2009). "Several views of metal halide and high pressure sodium lighting for outdoor applications". Lighting Research and Technology. p.41(4): 297320.
+^ Fotios SA & Cheal C, Predicting Lamp Spectrum Effects At Mesopic Levels. Part 1: Spatial Brightness, Lighting Research & Technology, 2011; 43(2); 143-157
+^ Fotios SA & Cheal C, Lighting for subsidiary streets: investigation of lamps of different SPD. Part 2  Brightness, Lighting Research & Technology, 2007; 39(3); 233-252
+^ Fotios S and Goodman T. Proposed UK Guidance for Lighting in Residential Roads. Lighting Research & Technology, 2012; 44(1); 69-83
+^ Institution of Lighting Professionals (ILP). Professional Lighting Guide PLG03:2012. Lighting for Subsidiary Roads: Using white light sources to balance energy efficiency and visual amenity. Rugby; ILP
+^ ESCC Highways/Colas Electrical
+^ http://ec.europa.eu/information_society/newsroom/cf/dae/document.cfm?doc_id=7828
+^ https://static1.squarespace.com/static/546bbd2ae4b077803c592197/t/5519578ae4b0ef9291b864a0/1427724170603/Mississauga+Case+Study+Final.pdf
+^ http://www.lapresse.ca/le-soleil/affaires/actualite-economique/201506/19/01-4879627-eclairage-a-la-del-dimonoff-realise-le-plus-gros-projet-de-conversion-en-amerique.php
+^ "Field Test" (PDF). lrc.rpi.edu. Retrieved 16 October 2010.
+^ "Lunar resonant streetlights as winner of Metropolis Next Generation Design Prize".
+^ "Civil Twilight Collective homepage".
+^ Rea M, Bullough J, Freyssinier-Nova J, Bierman A. A proposed unified system of photometry. Lighting Research & Technology 2004; 36(2):85.
+^ Goodman T, Forbes A, Walkey H, Eloholma M, Halonen L, Alferdinck J, Freiding A, Bodrogi P, Varady G, Szalmas A. Mesopic visual efficiency IV: a model with relevance to nighttime driving and other applications. Lighting Research & Technology 2007; 39(4):365.
+^ Peter Morante (January 31, 2008). "Mesopic street lighting demonstration and evaluation final report" (PDF). lrc.rpi.edu. Retrieved 16 October 2010.
+^ "Driver response to peripheral moving targets under mesopic light levels" (PDF). lrc.rpi.edu. Retrieved 16 October 2010.
+^ Akashi, Y., M. S. Rea and J. D. Bullough. 2007. Driver decision making in response to peripheral moving targets under mesopic light levels. Lighting Research and Technology 39(1): 53-67.
+^ Rea MS, Radetsky LC, Bullough JD. Toward a Model of Outdoor Lighting Scene Brightness. Lighting Research & Technology 2010; in press.
+^ Brons, J. A.; J. D. Bullough & M. S. Rea (2008). "Outdoor site-lighting performance: A comprehensive and quantitative framework for assessing light pollution". Lighting Research and Technology. p.40(3): 201224.
+^ Rea, M. S., J. D. Bullough, C. R. Fay, J. A. Brons, J. Van Derlofske and E. T. Donnell. 2009. Review of the Safety Benefits and Other Effects of Roadway Lighting [report to the National Cooperative Highway Research Program]. Washington, DC: Transportation Research Board.
+^ Sullivan, J.M., and Flannigan, M.J. (1999) Assessing the Potential Benefit of Adaptive Headlighting Using Crash Databases, Report No. UMTRI-99-21. University of Michigan Transportation Research Institute.
+^ Schwab, R.N., Walton, N.E., Mounce, J.M., and Rosenbaum, M.J. (1982) Synthesis of Safety Research Related to Traffic Control and Roadway Elements-Volume 2, Chapter 12: Highway Lighting. Report No. FHWA-TS-82-233. Federal Highway Administration.
+^ Elvik, R. (1995) "Meta-Analysis of Evaluations of Public Lighting as Accident Countermeasure." Transportation Research Record 1485, TRB, National Research Council, Washington, D.C., pp. 112-123.
+^ Commission Internationale de l'clairage. (1992) Road Lighting as an Accident Countermeasure. CIE No. 93. Vienna, Austria: Commission Internationale de l'clairage.
+^ Box, P.C. (1970) Relationship Between Illumination and Freeway Accidents. IERI Project 85-67 Illuminating Research Institute, New York April, pp. 1-83.
+^ "Lamppost Banner Sponsorship Programs"
+^ "Stray Voltage Still on the Loose". Scienceline. 2006-08-04. Retrieved 2008-07-19.
+^ Conversation, Richard G. "Bugs" Stevens, The. "Doctors issue warning about LED streetlights". CNN. Retrieved 2016-11-11.
+^ http://www.researchandmarkets.com/reports/2763639/global_led_and_smart_street_lighting_market
+^ http://www.edmonton.ca/transportation/on_your_streets/street-lighting.aspx
+^ http://www.dailymail.co.uk/news/article-1328243/Up-75-cent-councils-dimming-street-lights-save-money.html
+^ Domingo-Perez, Francisco (February 2013). "Low-rate wireless personal area networks applied to street lighting". Lighting Research & Technology. 45 (1): 90101. doi:10.1177/1477153511431129.
+^ http://forgotten-ny.com/2011/03/breaking-the-rules-odd-placements-of-fire-alarm-indicators/
+^ http://www.nyc.gov/html/dot/html/infrastructure/streetlights.shtml
+Bibliography[edit]
+Fierro, Alfred (1996). Histoire et dictionnaire de Paris. Robert Laffont. ISBN2-221-07862-4.
+Further reading[edit]
+van Bommel, Wout (2015). Road Lighting Fundamentals, Technology and Application. Springer. ISBN9783319114651.
+External links[edit]
+Wikimedia Commons has media related to Street lights.
+An enthusiast's guide to street lighting - including many close-up photographs of UK street lighting equipment, as well as information on installations through the ages. (UK)
+Example Installation of Integrated Renewable Power in Street Lighting, An example of a street lighting system with integrated solar and wind generator from Panasonic / Matsushita
+Australian Street Lights (an enthusiast site).
+New Streetlights - LED streetlight news in North America.
+Transportation Lighting at the Lighting Research Center
+Lighting Research at the University of Sheffield
+v
+t
+e
+Lamps
+Lighting
+Concepts
+Accent lighting
+Color temperature
+Efficiency
+Glare
+Lamp
+Light fixture
+Light pollution
+Lightbulb socket
+Task lighting
+Methods of generation
+Incandescent
+Regular
+Halogen
+Nernst
+Parabolic aluminized reflector (PAR)
+Luminescent
+Fluorescent
+Fluorescent lamp(compact)
+Fluorescent induction
+Photoluminescent
+laser lamp
+Solid-state
+LED bulb
+Cathodoluminescent
+Electron-stimulated
+Electroluminescent
+field-induced polymer
+Combustion
+Acetylene/Carbide
+Argand
+Candle
+Diya
+Flare
+Gas
+Kerosene
+Lantern
+Limelight
+Oil
+Rushlight
+Safety
+Tilley
+Torch
+Electric arc
+Carbon arc
+Klieg light
+Yablochkov candle
+Gas discharge
+Deuterium arc
+Neon
+Plasma
+Sulfur
+Xenon arc
+Xenon flash
+High-intensity
+discharge (HID)
+Hydrargyrum medium-arc iodide (HMI)
+Hydrargyrum quartz iodide (HQI)
+Mercury-vapor
+Metal-halide
+ceramic
+Sodium vapor
+Theatrical
+Cinematic
+Floodlight
+Footlight
+Gobo
+Scoop
+Spotlight
+profile/ ellipsoidal reflector
+Stage lighting instrument
+Stationary
+Aircraft warning
+Balanced-arm lamp
+Chandelier
+Emergency light
+Gas lighting
+Gooseneck lamp
+Intelligent street lighting
+Light tube
+Neon lighting
+Pendant light
+Recessed light
+Sconce
+Street light
+Torchre
+Track lighting
+Troffer
+Mobile
+Flashlight
+tactical
+Glow stick
+Headlamp(outdoor)
+Lantern
+Laser pointer
+Navigation light
+Searchlight
+Solar lamp
+Industrial
+Scientific
+Germicidal
+Grow light
+Infrared lamp
+Stroboscope
+Tanning
+Display
+Decorative
+Aroma lamp
+Black light
+Bubble light
+Christmas lights
+Crackle tube
+DJ lighting
+Lava lamp
+Marquee
+Plasma globe
+Strobe light
+Related topics
+Bioluminescence
+Chemiluminescence
+Electroluminescent wire
+Laser
+Photoluminescence
+Radioluminescence
+Saved in parser cache with key enwiki:pcache:idhash:698830-0!*!0!!en!4!* and timestamp 20161112081021 and revision id 749083232
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Street_light&oldid=749083232"
+Categories: Street lightingLight fixturesStreet furnitureLight pollutionUrban planningHidden categories: CS1 Spanish-language sources (es)Pages using ISBN magic linksUse dmy dates from July 2014All articles with unsourced statementsArticles with unsourced statements from April 2013Articles with unsourced statements from August 2012Articles with unsourced statements from March 2012Commons category with local link same as on Wikidata

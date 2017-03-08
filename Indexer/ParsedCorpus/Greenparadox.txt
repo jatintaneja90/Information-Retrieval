@@ -1,0 +1,165 @@
+Greenparadox
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Part of a series about
+Environmental economics
+Concepts
+Green accounting
+Green economy
+Green trading
+Eco commerce
+Green job
+Environmental enterprise
+Fiscal environmentalism
+Environmental finance
+Renewable energy
+Policies
+Sustainable tourism
+Ecotax
+Environmental tariff
+Net metering
+Environmental pricing reform
+Pigovian tax
+Dynamics
+Renewable energy commercialization
+Marginal abatement cost
+Green paradox
+Green politics
+Pollution haven hypothesis
+Carbon related
+Low-carbon economy
+Carbon neutral fuel
+Carbon neutrality
+Carbon pricing
+Emissions trading
+Carbon credit
+Carbon offset
+Carbon emission trading
+Personal carbon trading
+Carbon tax
+Carbon finance
+Feed-in tariff
+Carbon diet
+Food miles
+2000-watt society
+Carbon footprint
+v
+t
+e
+The green paradox, identified by German economist Hans-Werner Sinn, is the observation that an environmental policy that becomes greener with the passage of time acts like an announced expropriation for the owners of fossil fuel resources, inducing them to accelerate resource extraction and hence to accelerate global warming.
+Contents
+1 Main line of reasoning
+2 Practicable solutions
+3 Works on the subject
+4 See also
+5 Notes and references
+Main line of reasoning[edit]
+The green paradoxs line of reasoning starts by recognizing a fundamental, unavoidable fact: every carbon atom in the gas, coal or oil extracted from the ground to be used as fuel ends up in the atmosphere, in particular if high efficiency combustion processes ensure that no part of it ends up as soot. About a quarter of the emitted carbon will stay in the atmosphere practically forever, contributing to the greenhouse effect that causes global warming.[1][2][3]
+Apart from afforestation, only two things can mitigate the accumulation of carbon in the atmosphere: either less carbon is extracted from the ground, or it is injected back underground after harvesting its energy.
+Environmental policy efforts, however, in particular European ones, go in neither of these two directions, aiming instead at the promotion of alternative, CO2-free energy sources and a more efficient use of energy. In other words, they only address the demand side of the carbon market, neglecting the supply side. Despite considerable investment, the efforts to curtail demand have not entirely had the effect hoped for.
+The reason behind this, according to Sinn, is that green policies, by heralding a gradual tightening of policy over the coming decades, exert a stronger downward pressure on future prices than on current ones, decreasing thus the rate of capital appreciation of the fossil fuel deposits. The owners of these resources regard this development with concern and react by increasing extraction volumes, converting the proceeds into investments in the capital markets, which offer higher yields. That is the green paradox: environmental policy slated to become greener over time acts as an announced expropriation that provokes owners to react by accelerating the rate of extraction of their fossil fuel stocks,[4][5] thus accelerating climate change.
+Countries that do not partake of the efforts to curb demand have a double advantage. They burn the carbon set free by the green countries (leakage effect) and they also burn the additional carbon extracted as a reaction to the announced and expected price cuts resulting from the gradual greening of environmental policies (green paradox).[6][7]
+Sinn writes in his abstract that: "[Demand reduction strategies] simply depress the world price of carbon and induce the environmental sinners to consume what the Kyoto countries have economized on. Even worse, if suppliers feel threatened by a gradual greening of economic policies in the Kyoto countries that would damage their future prices, they will extract their stocks more rapidly, thus accelerating global warming."[8]
+Sinn emphasizes that a condition for the green paradox is that the resource be scarce in the sense that its price will always be higher than the unit extraction and exploration costs combined. He points out that this condition is likely to be satisfied as backstop technologies will at best offer a perfect substitute for electricity, but not for fossil fuels. The prices of coal and crude oil are currently many times higher than the corresponding exploration and extraction costs combined.
+Practicable solutions[edit]
+An effective climate policy must perforce focus on the hitherto neglected supply side of the carbon market in addition to the demand side. The ways proposed as practicable by Sinn include levying a withholding tax on the capital gains on the financial investments of fossil fuel resource owners, or the establishment of a seamless global emissions trading system that would effectively put a cap on worldwide fossil fuel consumption, thereby achieving the desired reduction in carbon extraction rates.
+A suggestion for a solution might also be to pay suppliers for the destruction of fossil fuels (or transform them into raw material (not fuel), thus making sure that on the demand side the independancy for fossil fuels still pays off, while there is reduction in carbon extraction.
+Works on the subject[edit]
+Hans-Werner Sinns ideas on the green paradox have been presented in detail in a number of scientific articles,[9][10] his 2007 Thnen Lecture[11] at the annual meeting of the Verein fr Socialpolitik, his 2007 presidential address to the International Institute of Public Finance in Warwick, two working papers,[12][13] and a German-language book, Das Grne Paradoxon (2008).[14] They build on his earlier studies on supply reactions of the owners of natural resources to announced price changes.[15][16]
+See also[edit]
+Jevons paradox
+Notes and references[edit]
+^ Archer, D. (2005). "Fate of Fossil Fuel CO2 in Geologic Time". Journal of Geophysical Research. 110: 511. doi:10.1029/2004jc002625.
+^ Archer, D.; Brovkin, V. (2006). "Millennial Atmospheric Lifetime of Anthropogenic CO2". Climate Change, mimeo.
+^ Hoos, G.; Voss, R.; Hasselmann, K.; Meier-Reimer, E.; Joos, F. (2001). "A Nonlinear Impulse Response Model of the Coupled Carbon Cycle-Climate System (NICCS)". Climate Dynamics. 18: 189202. doi:10.1007/s003820100170.
+^ Long, N. V. (1975). "Resource Extraction under the Uncertainty about Possible Nationalization". Journal of Economic Theory. 10 (1): 4253. doi:10.1016/0022-0531(75)90060-5.
+^ Konrad, K. A.; Olson, T. E.; Schb, R. (1994). "Resource Extraction and the Threat of Possible Expropriation: The Role of Swiss Bank Accounts". Journal of Environmental Economics and Management. 26: 149162. doi:10.1006/jeem.1994.1009.
+^ Felder, S.; Rutherford, T. F. (1993). "Unilateral CO2 Reductions and Carbon Leakage: The Consequences of International Trade in Oil and Basic Materials". Journal of Environmental Economics and Management. 25: 162176. doi:10.1006/jeem.1993.1040.
+^ Burniaux, J.-M.; Martins, J. Oliveira (2000). "Carbon Emission Leakages: A General Equilibrium View". OECD Working Paper No. 242. SSRN228535.
+^ Sinn, H. W. (2008). "Public policies against global warming" (PDF). International Tax and Public Finance. 15 (4): 360394. doi:10.1007/s10797-008-9082-z.
+^ Public Policies against Global Warming: A Supply Side Approach, International Tax and Public Finance 15, 2008, p. 360394.
+^ H.-W. Sinn, Das grne Paradoxon: Warum man das Angebot bei der Klimapolitik nicht vergessen darf, Perspektiven der Wirtschaftspolitik 9, 2008, p. 109142.
+^ "CESifo Group Munich".
+^ H.-W. Sinn, Public Policies against Global Warming, CESifo Working Paper No. 2087, August 2007
+^ H.-W. Sinn, Pareto Optimality in the Extraction of Fossil Fuels and the Greenhouse Effect: A Note, CESifo Working Paper No. 2083, August 2007
+^ Das grne Paradoxon - Pldoyer fr eine illusionsfreie Klimapolitik, Econ: Berlin, 2008, 480 pages.
+^ Sinn, H.-W. (1982). "Absatzsteuern, lfrderung und das Allmendeproblem" [Sales Taxes, Oil Extraction and the Common Pool Problem] (PDF). In Siebert, H. Reaktionen auf Energiepreisnderungen. Frankfurt and Bern: Lang. pp.83103.
+^ Long, N. V.; Sinn, H.-W. (1985). "Surprise Price Shifts, Tax Changes and the Supply Behaviour of Resource Extracting Firms" (PDF). Australian Economic Papers. 24: 278289. doi:10.1111/j.1467-8454.1985.tb00116.x.
+v
+t
+e
+Decision theory paradoxes
+Abilene
+Apportionment
+Arrow's
+Buridan's ass
+Chainstore
+Condorcet's
+Decision-making
+Downs
+Ellsberg
+Fenno's
+Fredkin's
+Green
+Hedgehog's
+Inventor's
+Kavka's toxin puzzle
+Morton's fork
+Navigation
+Newcomb's
+Parrondo's
+Prevention
+Prisoner's dilemma
+Tolerance
+Willpower
+List of paradoxes
+NewPP limit report
+Parsed by mw1208
+Cached time: 20161118073156
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.124 seconds
+Real time usage: 0.147 seconds
+Preprocessor visited node count: 653/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 32525/2097152 bytes
+Template argument size: 32/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.056/10.000 seconds
+Lua memory usage: 2.93 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+120.066
+1 - -total
+69.95%
+83.981
+1 - Template:Reflist
+40.66%
+48.818
+7 - Template:Cite_journal
+16.42%
+19.709
+1 - Template:Green_economics_sidebar
+15.16%
+18.205
+1 - Template:Sidebar
+6.55%
+7.862
+2 - Template:Cite_paper
+5.69%
+6.827
+1 - Template:Decision_theory_paradoxes
+4.51%
+5.419
+1 - Template:Navbox
+4.25%
+5.101
+1 - Template:Cite_book
+2.90%
+3.488
+1 - Template:Cite_web
+Saved in parser cache with key enwiki:pcache:idhash:23309349-0!*!0!!en!4!* and timestamp 20161118073156 and revision id 737122836
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Green_paradox&oldid=737122836"
+Categories: Economics and climate changeEconomics paradoxesEconomic policyGlobal warming

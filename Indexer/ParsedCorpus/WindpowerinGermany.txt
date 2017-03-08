@@ -1,0 +1,582 @@
+WindpowerinGermany
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Wind farm in Neuenkirchen
+Erection of an Enercon E70-4 in Germany
+Wind power in Germany describes wind power in Germany as part of energy in Germany and renewable energy in Germany. In 2015, the installed capacity of wind power in Germany was 44,470 megawatts (MW), with wind power producing about 13.3 percent of Germanys total electrical power.[1] According to EWEA in a normal wind year, installed wind capacity in Germany will meet 10.6% at end 2011 and 9.3% at end 2010 of the German electricity needs.[2][3] The persistent disparity between EWEA estimates for a "normal wind year" and the actual data tabulated below is due to the EWEA relying on an unrealistically high capacity factor for German wind production.[citation needed]
+More than 21,607 wind turbines are located in the German federal area and the country has plans to build more wind turbines.[4][5] As of 2011, Germany's federal government is working on a new plan for increasing renewable energy commercialization,[6] with a particular focus on offshore wind farms.[7] A major challenge will be the development of sufficient network capacities for transmitting the power generated in the North Sea to the large industrial consumers in southern Germany.[8] As of the end of 2015 Germany was the third largest producer of wind power in the world by installations, behind China and the Usa, and ahead of India, Spain and the United Kingdom. [9]
+Contents
+1 Overview
+2 Repowering
+3 Offshore wind power
+4 Energy transition
+5 Statistics
+5.1 States
+6 See also
+7 References
+8 External links
+Overview[edit]
+Wind power Germany 2015 fact sheet: electricity generation, development, investments, capacity, employment and the public opinion. [10]
+As of 2010, Wind power in Germany provides over 96,100 people with jobs and German wind energy systems are also exported.[4][11] The Fuhrlnder Wind Turbine Laasow, built in 2006 near the village of Laasow, Brandenburg, was the tallest wind turbine in the world for six years.
+In Germany, hundreds of thousands of people have invested in citizens' wind farms across the country and thousands of small and medium-sized enterprises are running successful businesses in a new sector that in 2008 employed 90,000 people and generated 8 percent of Germany's electricity.[12] Wind power has gained very high social acceptance in Germany.[13]
+In 2016, Germany decided to replace feed-in tariffs with auctions from 2017.[14]
+Repowering[edit]
+Repowering, the replacement of first-generation wind turbines with modern multi-megawatt machines, is occurring in Germany. Modern turbines make better use of available wind energy and so more wind power can come from the same area of land. Modern turbines also offer much better grid integration since they use a connection method similar to conventional power plants.[15][16]
+Offshore wind power[edit]
+Offshore wind farms in the German Bight
+See also: List of offshore wind farms in Germany, Alpha Ventus Offshore Wind Farm, Baltic 1 Offshore Wind Farm, BARD Offshore 1, and Borkum Riffgat
+Offshore wind energy also has great potential in Germany.[17] Wind speed at sea is 70 to 100% higher than onshore and much more constant. A new generation of 5MW or larger wind turbines which are capable of making full use of the potential of wind power at sea has already been developed and prototypes are available. This makes it possible to operate offshore wind farms in a cost-effective way once the usual initial difficulties of new technologies have been overcome.[18]
+On 15 July 2009, the first offshore German windturbine completed construction. This turbine is the first of a total of 12 wind turbines for the alpha ventus offshore wind farm in the North Sea.[19]
+Following the 2011 Japanese nuclear accidents, Germany's federal government is working on a new plan for increasing renewable energy commercialization, with a particular focus on offshore wind farms.[20] Under the plan, large wind turbines will be erected far away from the coastlines, where the wind blows more consistently than it does on land, and where the enormous turbines won't bother the inhabitants. The plan aims to decrease Germany's dependence on energy derived from coal and nuclear power plants.[7] The German government wants to see 7.6GW installed by 2020 and as much as 26GW by 2030.[21]
+A major challenge will be the lack of sufficient network capacities for transmitting the power generated in the North Sea to the large industrial consumers in southern Germany.[8]
+In 2014, all in all 410 turbines with 1747 megawatts were added to Germany's offshore windparks. Due to not yet finished grid-connections, only turbines with combined 528.9 megawatts were added to the grid feed at the end of 2014. Despite this, the gigawatt offshore windpower barrier has been breached by Germany at the end of 2014.[22]
+Energy transition[edit]
+Main article: Energy Transition in Germany
+The 2010 "Energiewende" policy has been embraced by the German federal government and has resulted in a huge expansion of renewables, particularly wind power. Germany's share of renewables has increased from around 5% in 1999 to 17% in 2010, reaching close to the OECD average of 18% usage of renewables.[23] Producers have been guaranteed a fixed feed-in tariff for 20 years, guaranteeing a fixed income. Energy co-operatives have been created, and efforts were made to decentralize control and profits. The large energy companies have a disproportionately small share of the renewables market. Nuclear power plants were closed, and the existing 9 plants will close earlier than necessary, in 2022.
+The reduction of reliance on nuclear plants has so far had the consequence of increased reliance on fossil fuels and on electricity imports from France. However, in good wind Germany exports to France; in January 2015 the average price was 29/MWh in Germany, and 39/MWh in France.[24] One factor that has inhibited efficient employment of new renewable energy has been the lack of an accompanying investment in power infrastructure (SdLink) to bring the power to market.[23][25] The transmission constraint sometimes causes Germany to pay Danish wind power to stop producing; in October/November 2015 this amounted to 96 GWh costing 1.8 million euros.[26]
+Different Lnder have varying attitudes to the construction of new power lines. Industry has had their rates frozen and so the increased costs of the Energiewende have been passed on to consumers, who have had rising electricity bills. Germans in 2013 had some of the highest electricity costs in Europe.[27]
+Statistics[edit]
+Annual Wind Power in Germany 1990-2015, shown in a semi-log plot with installed capacity (MW) in red and power generated (GWh) in blue; the close correlation is consistent with a capacity factor of about
+1
+5
+{\displaystyle {\tfrac {1}{5}}}
+, and rising.
+Installed wind power capacity and generation in recent years is shown in the table below:
+Total installed capacity and generation in Germany (land and sea based combined) 1990-2015[1]
+Year
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+Installed Capacity (MW)
+55
+106
+174
+326
+618
+1,121
+1,549
+2,089
+2,877
+4,435
+Generation (GWh)
+71
+100
+275
+600
+909
+1,500
+2,032
+2,966
+4,489
+5,528
+Year
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+Installed Capacity (MW)
+6,097
+8,738
+11,976
+14,381
+16,419
+18,248
+20,474
+22,116
+22,794
+25,732
+Generation (GWh)
+9,513
+10,509
+15,786
+18,713
+25,509
+27,229
+30,710
+39,713
+40,574
+38,648
+Year
+2010
+2011
+2012
+2013
+2014
+2015
+Installed Capacity (MW)
+26,903
+28,712
+30,979
+34,022
+38,557
+44,470
+Generation (GWh)
+37,795
+48,891
+50,681
+51,721
+57,379
+79,206
+Total installed capacity and generation (sea based only) [1]
+Year
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+Installed Capacity (MW)
+30
+80
+188
+268
+622
+994
+3,284
+Generation (GWh)
+38
+176
+577
+732
+918
+1,471
+8,284
+% of Wind Gen.
+0.1
+0.5
+1.2
+1.4
+1.8
+2.6
+10.5
+States[edit]
+Geographic distribution of wind farms in Germany
+In Saxony-Anhalt 48.11% of electricity was produced with wind power in 2011.[28]
+Share of the potential annual energy yield of the net electrical energy consumption in 2011:
+State
+No. Turbines
+Installed Capacity [MW]
+Share in the net electrical energy
+consumption [%]
+Saxony-Anhalt
+2,352
+3,642.31
+48.11
+Brandenburg
+3,053
+4,600.51
+47.65
+Schleswig-Holstein
+2,705
+3,271.19
+46.46
+Mecklenburg-Vorpommern
+1,385
+1,627.30
+46.09
+Lower Saxony
+5,501
+7,039.42
+24.95
+Thuringia
+601
+801.33
+12.0
+Rhineland-Palatinate
+1,177
+1,662.63
+9.4
+Saxony
+838
+975.82
+8.0
+Bremen
+73
+140.86
+4.7
+North Rhine-Westphalia
+2,881
+3,070.86
+3.9
+Hesse
+665
+687.11
+2.8
+Saarland
+89
+127.00
+2.5
+Bavaria
+486
+683.60
+1.3
+Baden-Wrttemberg
+378
+486.38
+0.9
+Hamburg
+60
+53.40
+0.7
+Berlin
+1
+2.00
+0.0
+offshore North Sea
+31
+155.00
+offshore Baltic Sea
+21
+48.30
+Germany Total
+22,297
+29,075.02
+9.9
+See also[edit]
+Germany portal
+Renewable energy portal
+Renewable energy in Germany
+Solar power in Germany
+Geothermal power in Germany
+Wind power in the European Union
+Renewable energy by country
+References[edit]
+^ a b c "Federal Ministry for Economic Affairs and Energy (Germarny),Zeitreihen zur Entwicklung der erneuerbaren Energien in Deutschland, Stand August 2016".
+^ Wind in power 2011 European statistics EWEA February 2012, pages 4 and 11
+^ Wind in power 2010 European statistics EWEA February 2011, page 11
+^ a b "Wind energy in Germany".
+^ "72,6 Gigawatts Worldwide" (PDF). Wind Energy Barometer. February 2007. Retrieved 4 July 2007.
+^ "100% renewable electricity supply by 2050". Federal Ministry for Environment, Nature Conservation and Nuclear Safety. 26 January 2011. Retrieved 4 June 2011.
+^ a b Schultz, Stefan (23 March 2011). "Will Nuke Phase-Out Make Offshore Farms Attractive?". Spiegel Online. Retrieved 26 March 2011.
+^ a b The Wall Street Journal Online, 24 April 2012
+^ "Global-Wind-2015-Report, GWEC p9, p10." (PDF).
+^ "GERMANY: WIND POWER FACTSHEET 2015". strom-report.de.
+^ "General Information - Wind Energy". Federal Ministry for Environment, Nature Conservation and Nuclear Safety. Retrieved 4 June 2011.
+^ "Community Power Empowers". Dsc.discovery.com. 26 May 2009. Retrieved 17 January 2012.
+^ Community Wind Farms at the Wayback Machine (archived July 20, 2008)
+^ http://cleantechnica.com/2016/07/12/germany-confirms-end-renewable-energy-feed-tariffs/
+^ Hochsttter, Matthias; Paulsen, Thorsten; Grotz, Claudia (May 2006). "A clean issue -- Wind energy in germany" (PDF). BWE-Bundesverband Windenergie. p.18.
+^ Fairley, Peter (19 January 2009). "Europe Replaces Old Wind Farms". IEEE Spectrum. Retrieved 24 January 2009.
+^ Rehfeldt, Dr. Knud (January 2007). "Offshore wind power deployment in Germany" (PDF). Federal Ministry for Environment, Nature Conservation and Nuclear Safety. Retrieved 4 June 2011.
+^ Kuhbier, Jrg (22 February 2007). "Offshore Wind Power in Germany" (PDF). Federal Ministry for Environment, Nature Conservation and Nuclear Safety. Retrieved 21 June 2007.
+^ Alpha Ventus
+^ Dohmen, Frank; Jung, Alexander (27 April 2011). "Why Germany's Offshore Wind Parks Have Stalled". Spiegel Online. Retrieved 1 January 2012.
+^ Dohmen, Frank; Jung, Alexander (30 December 2011). "Stress on the High Seas: Germany's Wind Power Revolution in the Doldrums". Spiegel Online. Retrieved 1 January 2012.
+^ "Offshore Wind Energy in Germany 2014". Bundesverband WindEnergie e.V. Retrieved 30 January 2015.
+^ a b "Germany's energy transformation Energiewende". The Economist. Jul 28, 2012. Retrieved 6 March 2013.
+^ Click Green (3 February 2015). "UK and German wind energy records drive down winter electricity bills". clickgreen.org.uk.
+^ Knight, Sara (29 May 2015). "Politics block German offshore wind link". windpowermonthly.com. Archived from the original on 6 September 2015.
+^ Jesper Starn, Weixin Zha (1 December 2015). "Germany Pays to Halt Danish Wind Power to Protect Own Output". Bloomberg News.
+^ "Germany's energy reform Troubled turn". The Economist. 9 Feb 2013. Retrieved 6 March 2013.
+^ "Status der Windenergienutzung in Deutschland 31.12.2011 DEWI" [Status of wind energy in Germany 31.12.2011 DEWI] (PDF) (in German). DEWI-Deutsches Windenergie-Institut. Retrieved 28 February 2012.
+External links[edit]
+Wikimedia Commons has media related to Wind power in Germany.
+Germany Inaugurates 5 MW Wind Turbine Prototype
+5-MW BARD Near-shore Wind Turbine Erected in Germany
+Deutsche Energie-Agentur (Dena), German Energy Agency
+Official site about wind power and renewable Energy in the Emscher-Lippe-Region
+Cost-optimal expansion of renewables would save Germany up to two billion euros a year
+v
+t
+e
+Wind power
+Wind power
+Environmental impact
+High-altitude
+History
+Land vehicles
+Offshore
+Turbines
+on public display
+Windmill
+Wind turbines
+Aerodynamics
+Airborne
+Crosswind kite
+Darrieus
+Design
+Floating
+Savonius
+Small
+Unconventional
+Vertical axis
+Wind power industry
+Consulting companies
+Farm management
+Manufacturers
+Software
+Windmade
+Wind farms
+Community-owned
+Farms by country
+Offshore farms
+by country
+Onshore farms
+Concepts
+Betz's law
+Capacity factor
+EROEI
+Forecasting
+Grid energy storage
+HVDC
+Intermittency
+Variability
+Laddermill
+Net energy gain
+Resource assessment
+Storage
+Subsidies
+Virtual power plant
+Wind hybrid power systems
+Wind profile power law
+v
+t
+e
+Wind power by country
+Overview
+Wind power industry
+Africa
+Kenya
+Morocco
+Asia
+China (Hong Kong)
+Georgia
+India
+Iran
+Japan
+Pakistan
+Philippines
+South Korea
+Taiwan
+Thailand
+Turkey
+Europe
+Austria
+Belgium
+Croatia
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Lithuania
+Malta
+Netherlands
+Poland
+Portugal
+Romania
+Russia
+Spain
+Sweden
+United Kingdom
+North America
+Canada
+Mexico
+United States
+Oceania
+Australia
+New Zealand
+South America
+Brazil
+Uruguay
+Portals: Energy
+Renewable energy
+Sustainable development
+v
+t
+e
+Renewable energy by country
+Africa
+Ethiopia
+Kenya
+Morocco
+Seychelles
+Asia
+Afghanistan
+Bangladesh
+Bhutan
+China
+India
+Kazakhstan
+Nepal
+Pakistan
+Philippines
+Taiwan
+Thailand
+Europe
+European Union (Czech Republic, Denmark, Finland, Germany, Greece, Hungary, Ireland, Italy, Lithuania, Luxembourg, Netherlands, Portugal, Spain, Sweden, United Kingdom)
+Albania
+Iceland
+Norway
+Russia
+North America
+Canada
+Costa Rica
+Honduras
+Mexico
+United States
+Oceania
+Australia
+New Zealand
+Tuvalu
+South America
+Argentina
+Brazil
+Chile
+Colombia
+Category
+Portals:
+Energy
+Renewable energy
+Sustainable development
+v
+t
+e
+Energy in Germany
+Nuclear
+issues
+Anti-nuclear movement in Germany
+Anti-nuclear protests
+Anti-WAAhnsinns Festival
+Brokdorf
+Bund fr Umwelt und Naturschutz Deutschland
+EnBW Energie Baden-Wuerttemberg AG
+E.ON Kernkraft GmbH
+Free Republic of Wendland
+Gorleben
+Kalkar
+List of nuclear reactors
+Nuclear power in Germany
+Nuclear power phase-out
+Nuclear reprocessing plant Wackersdorf
+RWE Power AG
+Vattenfall Europe Nuclear Energy GmbH
+Wyhl
+Renewable
+energy
+100% renewable energy
+Energiewende
+Energy transition
+Energy transition in Germany
+List of photovoltaic power stations
+Renewable energy commercialization
+Renewable energy in Germany
+Solar power in Germany
+Wind power in Germany
+Public policy
+Climate Action Plan 2050
+Energy Saving Ordinance
+National Action Plan on Energy Efficiency
+National Renewable Energy Action Plan
+Renewable Energy Sources Act
+People
+Hermann Behmel
+Hildegard Breiner
+Rolf Disch
+Hans-Peter Drr
+Hans-Josef Fell
+Erich Fromm
+Siegwart Horst Gnther
+Robert Jungk
+Claudia Kemfert
+Andr Larivire
+Irene Meichsner
+Rainer Moormann
+Claudia Roth
+Rdiger Sagel
+Hermann Scheer
+Jens Scheer
+Inge Schmitz-Feuerhake
+Michael Sladek
+Ursula Sladek
+Klaus Traube
+Roland Vogt
+Armin Weiss
+Media
+The Atom Besieged
+Energy Autonomy: The Economic, Social & Technological Case for Renewable Energy
+The Energy Imperative: 100 Percent Renewable Now
+The Fourth Revolution: Energy
+The Seventh Decade: The New Shape of Nuclear Danger
+What Will Work
+World Nuclear Industry Status Report
+Books about nuclear issues
+Films about nuclear issues
+Related
+topics
+Environmental movement
+The GreensEuropean Free Alliance
+History of the anti-nuclear movement
+List of power stations in Germany
+Lists of nuclear disasters and radioactive incidents
+Nuclear-Free Future Award
+Nuclear power debate
+Nuclear weapons debate
+NewPP limit report
+Parsed by mw1285
+Cached time: 20161120185523
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.356 seconds
+Real time usage: 0.509 seconds
+Preprocessor visited node count: 2803/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 124649/2097152 bytes
+Template argument size: 4819/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.133/10.000 seconds
+Lua memory usage: 5.07 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+316.165
+1 - -total
+43.10%
+136.275
+1 - Template:Reflist
+30.37%
+96.023
+19 - Template:Cite_web
+15.66%
+49.501
+1 - Template:Cn
+13.14%
+41.547
+5 - Template:Navbox
+10.25%
+32.414
+1 - Template:Fix
+7.87%
+24.890
+16 - Template:Flag
+7.46%
+23.573
+1 - Template:Commons_category
+6.63%
+20.974
+2 - Template:Category_handler
+4.38%
+13.833
+1 - Template:Wind_power_by_country
+Saved in parser cache with key enwiki:pcache:idhash:10252226-0!*!0!!en!4!*!math=5 and timestamp 20161120185527 and revision id 750595181
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wind_power_in_Germany&oldid=750595181"
+Categories: Wind power in GermanyHidden categories: Webarchive template wayback linksCS1 German-language sources (de)All articles with unsourced statementsArticles with unsourced statements from January 2016Commons category with local link same as on Wikidata

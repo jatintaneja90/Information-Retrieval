@@ -1,0 +1,225 @@
+Enhancedgeothermalsystem
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Enhanced geothermal system 1 Reservoir 2 Pumphouse 3 Heatexchanger 4 Turbinehall 5 Productionwell 6 Injectionwell 7 Hot water to district heating 8 Poroussediments 9 Observationwell 10 Crystallinebedrock
+An enhanced geothermal system (EGS) generates geothermal electricity without the need for natural convective hydrothermal resources. Until recently, geothermal power systems have exploited only resources where naturally occurring heat, water, and rock permeability are sufficient to allow energy extraction.[1] However, by far most of geothermal energy within reach of conventional techniques is in dry and impermeable rock.[2] EGS technologies enhance and/or create geothermal resources in this hot dry rock (HDR) through 'hydraulic stimulation'.
+When natural cracks and pores do not allow economic flow rates, the permeability can be enhanced by pumping high-pressure cold water down an injection well into the rock. The injection increases the fluid pressure in the naturally fractured rock, triggering shear events that enhance the system's permeability. As long as the injection pressure is maintained, a high matrix permeability is not required, nor are hydraulic fracturing proppants required to maintain the fractures in an open state. This process is termed hydro-shearing,[3] perhaps to differentiate it from hydraulic tensile fracturing, used in the oil and gas industry, which can create new fractures through the rock in addition to expanding the existing fractures.[4]
+Water travels through fractures in the rock, capturing the rock's heat until forced out of a second borehole as very hot water. The water's heat is converted into electricity using either a steam turbine or a binary power plant system.[5] All of the water, now cooled, is injected back into the ground to heat up again in a closed loop.
+EGS technologies can function as baseload resources that produce power 24 hours a day. Unlike hydrothermal, EGS may be feasible anywhere in the world, depending on the economic limits of drill depth. Good locations are over deep granite covered by a 35 kilometres (1.93.1mi) layer of insulating sediments that slow heat loss.[6] An EGS plant is expected to have an economical lifetime of 20-30 years using current technology.[7]
+EGS systems are currently being developed and tested in France, Australia, Japan, Germany, the U.S. and Switzerland. The largest EGS project in the world is a 25-megawatt demonstration plant currently being developed in Cooper Basin, Australia. Cooper Basin has the potential to generate 5,00010,000MW.
+Contents
+1 Research and development
+1.1 Australia
+1.2 European Union
+1.2.1 United Kingdom
+1.3 United States
+1.3.1 Early days  Fenton Hill
+1.3.2 Working at the edgesusing EGS technology to improve hydrothermal resources
+1.3.3 FORGE
+2 Induced seismicity
+3 CO2 EGS
+4 EGS potential in the United States
+5 See also
+6 References
+7 External links
+Research and development[edit]
+Australia[edit]
+The Australian government has provided research funding for the development of Hot Dry Rock technology.[8]
+On 30 May 2007, then Australian opposition environmental spokesperson and former Minister for the Environment, Heritage and the Arts Peter Garrett announced that if elected at the 2007 Australian Federal Election, the Australian Labor Party would use taxpayer money to subsidise putting the necessary drilling rigs in place. In an interview, he promised:
+"There are some technical difficulties and challenges there, but those people who are keen on getting Australia into geothermal say we've got this great access to resource and one of the things, interestingly, that's held them back is not having the capacity to put the drilling plants in place. And so what we intend this $50 million to go towards is to provide one-for-one dollars. Match $1 from us, $1 from the industry so that they can get these drilling rigs on to site and really get the best sites identified and get the industry going."[9]
+European Union[edit]
+The EU's EGS R&D project at Soultz-sous-Forts, France, has recently connected its 1.5MW demonstration plant to the grid. The Soultz project has explored the connection of multiple stimulated zones and the performance of triplet well configurations (1 injector/2 producers).[10]
+Induced seismicity in Basel led to the cancellation of the EGS project there.
+The Portuguese government awarded, in December 2008, an exclusive license to Geovita Ltd to prospect and explore geothermal energy in one of the best areas in continental Portugal. An area of about 500 square kilometers is being studied by Geovita together with the Earth Sciences department of the University of Coimbra's Science and Technology faculty, and the installation of an Enhanced Geothermal System (EGS) is foreseen.
+United Kingdom[edit]
+Cornwall is set to host a 3MW demonstration project, based at the Eden Project, that could pave the way for a series of 50-MW commercial-scale geothermal power stations in suitable areas across the country.[11][12]
+A commercial-scale project near Redruth is also planned. The plant, which has been granted planning permission,[13] would generate 10 MW of electricity and 55 MW of thermal energy and is scheduled to become operational in 20132014.[14][15]
+United States[edit]
+Early days  Fenton Hill[edit]
+Main article: Hot dry rock geothermal energy
+The first EGS effort  then termed Hot Dry Rock  took place at Fenton Hill, New Mexico with a project run by the federal Los Alamos Laboratory.[16] It was the first attempt to make a deep, full-scale EGS reservoir.
+The EGS reservoir at Fenton Hill was first completed in 1977 at a depth of about 2.6km, with rock temperatures of 185 C. In 1979 the reservoir was enlarged with additional hydraulic stimulation and was operated for about 1 year. The results demonstrated that heat could be extracted at reasonable rates from a hydraulically stimulated region of low-permeability hot crystalline rock. In 1986, a second reservoir was prepared for initial hydraulic circulation and heat extraction testing. In a 30-day flow test with a constant reinjection temperature of 20 C, the production temperature steadily increased to about 190 C, corresponding to a thermal power level of about 10 MW. Due to budget cuts, further study at Fenton Hill was discontinued.
+Working at the edgesusing EGS technology to improve hydrothermal resources[edit]
+EGS funding languished for the next few years, and by the next decade, US efforts focused on the less ambitious goal of improving the productivity of existing hydrothermal resources. According to the fiscal year 2004 Budget Request to Congress from DOE's Office of Energy Efficiency and Renewable Energy, [17]
+EGS are engineered reservoirs that have been created to extract heat from economically unproductive geothermal resources. EGS technology includes those methods and equipment that enhance the removal of energy from a resource by increasing the productivity of the reservoir. Better productivity may result from improving the reservoirs natural permeability and/or providing additional fluids to transport heat.[18]
+In fiscal year 2002, preliminary designs for five projects employing EGS technology were completed and the Coso Hot Springs geothermal field at the US Naval Weapons Air Station in China Lake, California was selected for full-scale development. Two additional projects were selected for preliminary analysis at Desert Peak in Nevada and Glass Mountain in California. Funding for this effort totaled $1.5 million. The effort was continued in 2003 with an additional $3.5 million. [19]
+In 2009, The US Department of Energy (USDOE) issued two Funding Opportunity Announcements (FOAs) related to enhanced geothermal systems. Together, the two FOAs offered up to $84 million over six years. [20]
+The DOE followed up with another FOA in 2009, of stimulus funding from the American Reinvestment and Recovery Act for $350 million, including $80 million aimed specifically at EGS projects,[21]
+FORGE[edit]
+In February 2014, the Department of Energy announced the intent to establish "a dedicated subsurface laboratory called the Frontier Observatory for Research in Geothermal Energy (FORGE)"[22] in order to investigate and develop enhanced geothermal technology. In April 2015, it was announced that the proposed sites had been narrowed to five, expected to be reduced to at most three the following year.[23] Eventually, the selected site will host the FORGE laboratory, which will provide annual solicitations for research to be performed there.
+Induced seismicity[edit]
+Main article: Induced seismicity
+Some induced seismicity is inevitable and expected in EGS, which involves pumping fluids at pressure to enhance or create permeability through the use of hydro-shearing and hydraulic fracturing techniques. Hydro-shear stimulation methods seek to expand and extend the connectivity of the rock's existing fractures to create a better fluid network for the transfer of heat from the rock to the fluid.[24][25] Seismicity events at the Geysers geothermal field in California have been strongly correlated with injection data.[26]
+The case of induced seismicity in Basel merits special mention; it led the city (which is a partner) to suspend the project and conduct a seismic hazard evaluation, which resulted in the cancellation of the project in December 2009.[27]
+According to the Australian government, risks associated with "hydrofracturing induced seismicity are low compared to that of natural earthquakes, and can be reduced by careful management and monitoring" and "should not be regarded as an impediment to further development of the Hot Rock geothermal energy resource".[28] However, the risks of induced seismicity vary from site to site and should be considered before large scale fluid injection is begun.
+CO2 EGS[edit]
+The Geothermal Energy Centre of Excellence at the University of Queensland has been awarded AUD 18.3 million for EGS research, a large portion of which will be used to develop CO2 EGS technologies.
+Research conducted at Los Alamos National Laboratories and Lawrence Berkeley National Laboratories examined the use of supercritical CO2, instead of water, as the geothermal working fluid, with favorable results. CO2 has numerous advantages for EGS:
+Greater power output
+Minimized parasitic losses from pumping and cooling
+Carbon sequestration
+Minimized water use
+CO2 has a much lower tendency to dissolve minerals and other substances than water, which greatly reduces scaling and corrosion of system components
+CO2 is, however, much more expensive and somewhat more difficult to work with than water.
+EGS potential in the United States[edit]
+Geothermal power technologies.
+A 2006 report by MIT,[7] and funded by the U.S. Department of Energy, conducted the most comprehensive analysis to date on the potential and technical status of EGS. The 18-member panel, chaired by Professor Jefferson Tester of MIT, reached several significant conclusions:
+Resource size: The report calculated the United States total EGS resources from 310km of depth to be over 13,000zettajoules, of which over 200ZJ would be extractable, with the potential to increase this to over 2,000ZJ with technology improvements  sufficient to provide all the world's current energy needs for several millennia.[7] The report found that total geothermal resources, including hydrothermal and geo-pressured resources, to equal 14,000 ZJ  or roughly 140,000 times the total U.S. annual primary energy use in 2005.
+Development potential: With an R&D investment of $1 billion over 15 years, the report estimated that 100GWe (gigawatts of electricity) or more could be installed by 2050 in the United States. The report further found that "recoverable" resources (accessible with today's technology) were between 1.212.2TW for the conservative and moderate recovery scenarios respectively.
+Cost: The report found that EGS could be capable of producing electricity for as low as 3.9 cents/kWh. EGS costs were found to be sensitive to four main factors:
+Temperature of the resource
+Fluid flow through the system measured in liters/second
+Drilling costs
+Power conversion efficiency
+See also[edit]
+Caprock
+Geothermal energy exploration in Central Australia
+Geothermal energy in the United States
+Geothermal exploration
+Iceland Deep Drilling Project
+Rosemanowes Quarry
+References[edit]
+^ Lund, John W. (June 2007), "Characteristics, Development and utilization of geothermal resources" (PDF), Geo-Heat Centre Quarterly Bulletin, Klamath Falls, Oregon: Oregon Institute of Technology, 28 (2), pp.19, ISSN0276-1084, retrieved 2009-04-16
+^ Duchane, Dave; Brown, Don (December 2002), "Hot Dry Rock (HDR) Geothermal Energy Research and Development at Fenton Hill, New Mexico" (PDF), Geo-Heat Centre Quarterly Bulletin, Klamath Falls, Oregon: Oregon Institute of Technology, 23 (4), pp.1319, ISSN0276-1084, retrieved 2009-05-05
+^ Pierce, Brenda (2010-02-16). "Geothermal Energy Resources" (PowerPoint). National Association of Regulatory Utility Commissioners (NARUC). Retrieved 2011-03-19.
+^ Cichon, Meg (2013-07-16). "Is Fracking for Enhanced Geothermal Systems the Same as Fracking for Natural Gas?". RenewableEnergyWorld.com. Retrieved 2014-05-07.
+^ http://www1.eere.energy.gov/geothermal/egs_animation.html
+^ 20 slide presentation inc geothermal maps of Australia
+^ a b c Tester, Jefferson W. (Massachusetts Institute of Technology); et al. (2006). The Future of Geothermal Energy  Impact of Enhanced Geothermal Systems (EGS) on the United States in the 21st Century (14MB PDF). Idaho Falls: Idaho National Laboratory. ISBN0-615-13438-6. Retrieved 2007-02-07.
+^ http://www.ret.gov.au/energy/energy%20programs/cei/acre/gdp/Pages/default.aspx
+^ "Garrett discusses Labor's stance on climate change", Lateline, 30 May 2007
+^ See French Wikipedia: Soultz-sous-Forts  Soultz is in the Alsace rgion of France.
+^ "Tories pledge support for deep geothermal energy projects". New Energy Focus. www.newenergyfocus.com. May 15, 2009. Retrieved 2009-06-11.
+^ Martin, Daniel (June 2, 2009). "Geothermal power plant that could run 5,000 British homes to be built in Cornwall". Daily Mail. London: Associated Newspapers Ltd. Retrieved 2009-06-11.
+^ "'Hot rocks' geothermal energy plant promises a UK first for Cornwall". Western Morning News. August 17, 2010. Retrieved August 21, 2015.
+^ "Energy firm plans to become first to power town with heat from deep underground". Daily Mail. London: www.dailymail.co.uk. October 14, 2009. Retrieved 2010-01-21.
+^ "Plans for geothermal plant at industrial estate are backed". This is Cornwall. www.thisiscornwall.co.uk. November 23, 2009. Retrieved 2010-01-21.
+^ Tester 2006, pp.47 to 413
+^ FY 2004 Congressional Budget Request  Energy Supply Energy Efficiency and Renewable Energy. U.S Department of Energy. 2003-02-03. p.244.
+^ FY2004DOE 2003, p.131
+^ FY2004DOE 2003, pp.131131
+^ "EERE News: DOE to Invest up to $84 Million in Enhanced Geothermal Systems". 2009-03-04. Retrieved 2009-07-04.
+^ "Department of Energy  President Obama Announces Over $467 Million in Recovery Act Funding for Geothermal and Solar Energy Projects". 2009-05-27. Retrieved 2009-07-04.
+^ Geothermal Technologies Office (February 21, 2014). "DOE Announces Notice of Intent for EGS Observatory". Department of Energy. Archived from the original on 2015-03-24.
+^ "Energy Department Announces Project Selections in First Phase of Cutting-Edge Enhanced Geothermal Systems Effort". Washington, DC: Department of Energy. April 27, 2015.
+^ Tester 2006, pp.45 to 46
+^ Tester 2006, pp.89 to 810
+^ http://escholarship.org/uc/item/0t19709v The Impact of Injection on Seismicity at The Geysers Geothermal Field
+^ Glanz, James (2009-12-10), "Quake Threat Leads Swiss to Close Geothermal Project", The New York Times
+^ Geoscience Australia. "Induced Seismicity and Geothermal Power Development in Australia" (PDF). Australian Government.
+External links[edit]
+EERE:
+Geothermal basics
+Hot Dry Rock (HDR)
+How an Enhanced Geothermal System Works
+NREL: Interactive Data Map - Geothermal Prospector Tool (see Geothermal - Deep Enhanced Geothermal Potential)
+Geothermal investment rocks says DLA Phillips Fox
+20 slide presentation inc geothermal maps of Australia
+MEGSorg
+EGS at Google.org
+v
+t
+e
+Geothermal energy
+Category:Geothermal energy
+Geothermal energy
+Geothermal power
+Geothermal heating
+Geothermal gradient
+By country
+Armenia
+Australia
+Canada
+Chile
+China
+Denmark
+El Salvador
+Energy in Ethiopia
+Germany
+Iceland
+Indonesia
+Italy
+Japan
+Kenya
+Lebanon
+Lithuania
+Mexico
+New Zealand
+Philippines
+Portugal
+Romania
+Russia
+Turkey
+Thailand
+United Kingdom
+United States
+Technologies
+Aquaculture
+Desalination
+Geothermal heat pump
+District heating
+Binary Cycle
+EGS
+Heat pump
+Hot dry rock
+Energy Concepts
+Baseload power
+Capacity factor
+Energy storage
+Energy subsidies
+EROEI
+Category
+Portals:
+Renewable energy
+Energy
+Sustainable development
+NewPP limit report
+Parsed by mw1269
+Cached time: 20161119063502
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.252 seconds
+Real time usage: 0.299 seconds
+Preprocessor visited node count: 1078/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 49136/2097152 bytes
+Template argument size: 477/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.117/10.000 seconds
+Lua memory usage: 5.07 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+249.342
+1 - -total
+57.27%
+142.803
+1 - Template:Reflist
+20.24%
+50.472
+3 - Template:Citation
+20.06%
+50.008
+1 - Template:Convert
+9.50%
+23.691
+7 - Template:Cite_web
+7.46%
+18.600
+1 - Template:Geothermal_power
+7.43%
+18.525
+5 - Template:Cite_news
+6.83%
+17.028
+1 - Template:Navbox
+5.83%
+14.527
+2 - Template:Main
+3.88%
+9.667
+5 - Template:Harvnb
+Saved in parser cache with key enwiki:pcache:idhash:12951705-0!*!0!!en!4!* and timestamp 20161119063502 and revision id 742528671
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Enhanced_geothermal_system&oldid=742528671"
+Categories: Power station technologyGeothermal energy

@@ -1,0 +1,198 @@
+Transmissionsystemoperator
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2009) (Learn how and when to remove this template message)
+Simplified diagram of AC electricity distribution from generation stations to consumers
+A transmission system operator (TSO) is an entity entrusted with transporting energy in the form of natural gas[1] or electrical power on a national or regional level, using fixed infrastructure. The term is defined by the European Commission. The certification procedure for Transmission System Operators is listed in Article 10 of the Electricity and Gas Directives of 2009.[2]
+Due to the cost of establishing a transmission infrastructure, such as main power lines or gas main lines and associated connection points, a TSO is usually a natural monopoly, and as such is often subjected to regulations.
+In electrical power business, a TSO is an operator that transmits electrical power from generation plants over the electrical grid to regional or local electricity distribution operators.
+In natural gas business, a TSO receives gas from producers, transports it via pipeline through an area and delivers to gas distribution companies.
+The United States has similar organizational categories: independent system operator (ISO) and regional transmission organization (RTO).
+Contents
+1 Role in electrical power transmission
+1.1 Electricity market operations
+2 Role in gas transmission
+3 See also
+4 References
+Role in electrical power transmission[edit]
+Safety and reliability are a critical issue for transmission system operators, since any failure on their grid or their electrical generation sources might propagate to a very large number of customers, causing personal and property damages. Natural hazards and generation/consumption imbalances are a major cause of concern. To minimize the probability of grid instability and failure, regional or national transmission system operators are interconnected to each other.
+Electricity market operations[edit]
+The role of the System Operator in a wholesale electricity market is to manage the security of the power system in real time and co-ordinate the supply of and demand for electricity, in a manner that avoids fluctuations in frequency or interruptions of supply. The System Operator service is normally specified in rules or codes established as part of the electricity market.
+The System Operator function may be owned by the transmission grid company, or may be fully independent.[3] They are often wholly or partly owned by state or national governments. In many cases they are independent of electricity generation companies (upstream) and electricity distribution companies (downstream). They are financed either by the states or countries or by charging a toll proportional to the energy they carry.
+The System Operator is required to maintain a continuous (second-by-second) balance between electricity supply from power stations and demand from consumers, and also ensure the provision of reserves that will allow for sudden contingencies. The System Operator achieves this by determining the optimal combination of generating stations and reserve providers for each market trading period, instructing generators when and how much electricity to generate, and managing any contingent events that cause the balance between supply and demand to be disrupted. System Operations staff undertake this work using sophisticated energy modelling and communications systems.
+In addition to its roles of real-time dispatch of generation and managing security, the System Operator also carries out investigations and planning to ensure that supply can meet demand and system security can be maintained during future trading periods. Examples of planning work may include co- ordinating generator and transmission outages, facilitating commissioning of new generating plant and procuring ancillary services to support power system operation.
+Role in gas transmission[edit]
+A gas TSO works for the functioning of the internal market and cross-border trade for gas and to ensure the optimal management, coordinated operation and sound technical evolution of the natural gas transmission network. Some gas TSOs also provide the marketplace for gas trading, either directly or through
+See also[edit]
+Electric power distribution
+European Network of Transmission System Operators for Electricity (ENTSO-E) and European Network of Transmission System Operators for Gas (ENTSO-G)
+Independent system operator (ISO) and regional transmission organization (RTO, US)
+Mains electricity and mains electricity by country
+High-voltage direct current (HVDC), Electric power transmission, Electrical grid
+Smart grid, Super grid
+Regional transmission organization (North America)
+References[edit]
+^ European Network of Transmission System Operators for Gas ENTSO-G. Retrieved: 2 October 2010.
+^ [1]
+^ irene-40-Road map towards a future electricity network
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1242
+Cached time: 20161118223703
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.068 seconds
+Real time usage: 0.097 seconds
+Preprocessor visited node count: 753/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 29313/2097152 bytes
+Template argument size: 864/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.019/10.000 seconds
+Lua memory usage: 1.23 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+71.713
+1 - -total
+45.30%
+32.487
+1 - Template:Refimprove
+30.20%
+21.657
+2 - Template:Navbox
+29.07%
+20.845
+1 - Template:Ambox
+28.42%
+20.384
+1 - Template:Electricity_generation
+13.00%
+9.324
+1 - Template:Navbox_subgroup
+12.75%
+9.146
+1 - Template:Use_dmy_dates
+10.31%
+7.397
+1 - Template:DMCA
+8.79%
+6.303
+1 - Template:Dated_maintenance_category
+5.94%
+4.259
+1 - Template:FULLROOTPAGENAME
+Saved in parser cache with key enwiki:pcache:idhash:3255917-0!*!0!!en!4!* and timestamp 20161118223703 and revision id 733396185
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Transmission_system_operator&oldid=733396185"
+Categories: Electric power transmission system operatorsNatural gas pipeline companiesHidden categories: Articles needing additional references from December 2009All articles needing additional referencesUse dmy dates from February 2011

@@ -1,0 +1,320 @@
+Pollutionhavenhypothesis
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Factory with smokestacks overlooking the Yangtze River
+Part of a series about
+Environmental economics
+Concepts
+Green accounting
+Green economy
+Green trading
+Eco commerce
+Green job
+Environmental enterprise
+Fiscal environmentalism
+Environmental finance
+Renewable energy
+Policies
+Sustainable tourism
+Ecotax
+Environmental tariff
+Net metering
+Environmental pricing reform
+Pigovian tax
+Dynamics
+Renewable energy commercialization
+Marginal abatement cost
+Green paradox
+Green politics
+Pollution haven hypothesis
+Carbon related
+Low-carbon economy
+Carbon neutral fuel
+Carbon neutrality
+Carbon pricing
+Emissions trading
+Carbon credit
+Carbon offset
+Carbon emission trading
+Personal carbon trading
+Carbon tax
+Carbon finance
+Feed-in tariff
+Carbon diet
+Food miles
+2000-watt society
+Carbon footprint
+v
+t
+e
+The pollution haven hypothesis posits that, when large industrialized nations seek to set up factories or offices abroad, they will often look for the cheapest option in terms of resources and labor that offers the land and material access they require.[1] However, this often comes at the cost of environmentally sound practices. Developing nations with cheap resources and labor tend to have less stringent environmental regulations, and conversely, nations with stricter environmental regulations become more expensive for companies as a result of the costs associated with meeting these standards. Thus, companies that choose to physically invest in foreign countries tend to (re)locate to the countries with the lowest environmental standards or weakest enforcement.
+Contents
+1 Three scales of the hypothesis
+2 Formula and variations
+3 Connection with the environmental Kuznets curve
+4 Real-world example
+5 Areas of controversy
+6 See also
+7 References
+Three scales of the hypothesis[edit]
+1. Pollution control costs have an impact at the margins, where they exert some effect on investment decisions and trade flows.
+2. Pollution control costs are important enough to measurably influence trade and investment.
+3. Countries set their environmental standards below socially-efficient levels in order to attract investment or to promote their exports.[2]
+Scales 1 and 2 have empirical support, but the significance of the hypothesis relative to other investment and trade factors is still controversial. One study found that environmental regulations have a strong negative effect on a country's FDI, particularly in pollution-intensive industries when measured by employment. However, that same study found that the environmental regulations present in a country's neighbors have an insignificant impact on that country's trade flows.[2]
+Formula and variations[edit]
+Yi = Ri + XiI + i
+In the above formula, Y is economic activity, R is regulatory stringency, X is an aggregate of other characteristics that affect Y and  is an error term.[1] Theoretically, by changing your value of R, analysts will be able to calculate the expected effect on economic activity. According to the Pollution Haven Hypothesis, this equation shows that environmental regulations and economic activity are negatively correlated, because regulations raise the cost of key inputs to goods with pollution-intensive productions and reduce jurisdictions' comparative advantage in these goods. This lack of comparative advantage causes firms to move to countries with lower environmental standards, decreasing Y.
+There is also an expanded formula, as shown below:
+Yit = vi + Rit + Tit + RitTit + Xit + it
+This expanded formula takes into account whether trade liberalization (i.e. the level of trade barriers that exist in a country, labeled as T) increases the negative correlation between economic activity (Y) and regulatory stringency (R). Some authors claim that trade barriers disproportionately effect the environment, and this equation attempts to quantify the interaction between trade barriers and regulatory stringency, and the corresponding effect with respect to output in an economy.[1]
+Connection with the environmental Kuznets curve[edit]
+A simple recreation of the Environmental Kuznets Curve, made using Microsoft Excel.
+See also: Kuznets curve
+The environmental Kuznets curve (EKC) is a conceptual model that suggests that a country's pollution concentrations rise with development and industrialization up to a turning point, after which they fall again as the country uses its increased affluence to reduce pollution concentrations, suggesting that the cleaner environment in developed countries comes at the expense of a dirtier environment in developing countries.[3] In this sense, the EKC is potentially a reflection of the Pollution Haven Hypothesis, because one of the factors that may drive the increase in environmental degradation seen in pre-industrial economies is an influx of waste from post-industrial economies. This same transfer of polluting firms through trade and foreign investment could lead to the decrease in environmental degradation seen in downward-sloping section of the EKC, which models post-industrial (service) economies.
+Real-world example[edit]
+Spent batteries that Americans turn in to be recycled are increasingly being sent to Mexico, where the lead inside them is extracted by crude methods that are illegal in the United States. This increased export flow is a result of strict new Environmental Protection Agency standards on lead pollution, which make domestic recycling more difficult and expensive in the United States, but do not prohibit companies from exporting the work and danger to countries where environmental standards are low and enforcement is lax. In this sense, Mexico is becoming a pollution haven for the United States battery industry because Mexican environmental officials acknowledge that they lack the money, manpower, and technical capacity to police the flow. According to the New York Times, 20% of spent American vehicle and industrial batteries are now exported to Mexico, up from 6% in 2007, meaning that approximately 20 million batteries will cross the border this year. A significant proportion of this flow is smuggled in after being mislabeled as metal scrap.[4]
+Map of GDP PPP per-capita with known e-waste dump sites added
+The world map shown here illustrates how e-waste dump sites (or sites where citizens or multinational corporations of industrialized nations dump their used electronic devices) along with the GDP PPP per-capita of those countries.[5]
+Shows an estimated amount of Used EEE and E-Waste imported into Kyoto Protocol Non-Annex 1 countries, with the E-Waste generated by each country's own domestic supplies.
+While GDP PPP per-capita is not a perfect indicator of economic development, and e-waste dump sites are only one small facet of what could be a greater pollution haven, this map does illustrate how e-waste dump sites are often located in poorer, relatively pre-industrial nations, which provides some rudimentary support for the Pollution Haven Hypothesis.
+Areas of controversy[edit]
+The first area of controversy with respect to the Pollution Haven Theory has to do with the formulas above. Finding an appropriate measure of regulatory stringency (R) is not simple, because we want to know how much more costly production is in a given jurisdiction relative to others due to that jurisdiction's environmental regulations. The compliance costs stemming from these regulations, however, could come in the form of environmental taxes, regulatory delays, the threat (or execution) of lawsuits, product redesign, or emissions limits.[1] This proliferation of cost styles makes R hard to quantify.
+Another major critique of the second formula is that it is difficult to measure regulatory stringency and trade barriers because the two effects are likely endogenous, so few studies have attempted to estimate the indirect effect of trade liberalization on pollution havens. Furthermore, governments at times engage in inefficient competition to actually attract polluting industries through weakening their environmental standards. However, as per conventional economic theory, welfare-maximizing governments should set standards so that the benefits justify the costs at the margin. This does not mean that environmental standards will be equal everywhere, as jurisdictions have different assimilative capacities, costs of abatement, and social attitudes regarding the environment, meaning heterogeneity in pollution standards is to be expected.[1] By extension, this means that industry migration to less stringent jurisdictions may not raise efficiency concerns in an economic sense.
+A final area of controversy is whether the Pollution Haven Hypothesis has empirical support. For example, studies have found statistically significant evidence that countries with poor air quality do have higher net factor exports of coal, but the magnitude of the impact is small relative to other variables.[6] Paul Krugman, a Nobel Prizewinning economist, is skeptical as to whether pollution havens have empirical support in economic theory, as he writes, "At this point it's hard to come up with major examples of industries in which the pollution haven phenomenon, to the extent that it occurs, leads to international negative externalities. This does not, however, say that such examples cannot arise in the future."[7]
+Scale 3 above has had empirical arguments made specifically against it, especially in the last 20 years. Some economists argue that once higher environmental standards are introduced in a country, larger multinational firms present in the country are likely to push for enforcement so as to reduce the cost advantage of smaller local firms. This effect would make countries with strict environmental standards a haven for the large companies often associated with higher levels of pollution, meaning the polluting agents may be smaller companies, rather than the larger MNCs as theorized by other proponents of the Pollution Haven Hypothesis.[8]
+See also[edit]
+Environmental dumping
+Global waste trade
+Pollution in China
+Race to the bottom
+Trading Up (book)
+Toxic colonialism
+References[edit]
+^ a b c d e Levinson, Arik; M. Scott Taylor (2008). "Unmasking the Pollution Haven Effect". International Economic Review. 49 (1): 22354. doi:10.1111/j.1468-2354.2008.00478.x.
+^ a b Millimet, Daniel. "Four New Empirical Tests of the Pollution Haven Hypothesis When Environmental Regulation is Endogenous" (PDF). Tulane University. Retrieved 15 April 2013.
+^ Ibara, Brian. "Exploring the Causality between the Pollution Haven Hypothesis and the Environmental Kuznets Curve". Honors projects. Retrieved 11 April 2013.
+^ Rosenthal, Elizabeth (8 December 2013). "Lead from Old US Batteries Sent to Mexico Raises Risks". New York Times. Retrieved 14 April 2013.
+^ "Where does e-waste end up?". Greenpeace. Retrieved 17 April 2013.
+^ Kellogg, Ryan (2006). The Pollution Haven Hypothesis: Significance and Insignificance. Department of Agricultural and Resource Economics, UC Berkeley.
+^ Krugman, Paul (2006). International Economics Theory and Policy. Addison Wesley. ISBN9780321451347.
+^ Birdsall, Nancy; Wheeler, David (January 1993). "Trade Policy and Industrial Pollution in Latin America: Where Are the Pollution Havens?" (PDF). The Journal of Environment & Development. 2 (1): 137149. doi:10.1177/107049659300200107. Retrieved 15 April 2013.
+v
+t
+e
+Environmental social science
+Fields
+Ecological anthropology
+Ecological economics
+Environmental anthropology
+Environmental economics
+Environmental communication
+Environmental history
+Environmental politics
+Environmental psychology
+Environmental sociology
+Human ecology
+Human geography
+Political ecology
+Regional science
+Related
+Agroecology
+Anthrozoology
+Behavioral geography
+Community studies
+Demography
+Design
+ecological
+environmental
+Ecological humanities
+Economics
+energy
+thermo
+Environmental
+education
+ethics
+law
+science
+studies
+Ethnobiology
+botany
+ecology
+zoology
+Forestry
+Industrial ecology
+Integrated geography
+Permaculture
+Rural sociology
+Science, technology and society
+science studies
+Sustainability
+science
+studies
+Systems ecology
+Urban
+ecology
+geography
+metabolism
+studies
+Applied
+Architecture
+landscape
+sustainable
+Ecopsychology
+Engineering
+ecological
+environmental
+Green criminology
+Health
+environmental
+epidemiology
+occupational
+public
+Management
+environmental
+fisheries
+forest
+natural resource
+waste
+Planning
+environmental
+land use
+regional
+spatial
+urban
+Policy
+energy
+environmental
+Environment portal
+Category
+Concepts
+Degrees
+Institutions
+Journals
+Research institutes
+Scholars
+v
+t
+e
+Globalization
+Books
+Journals
+Lists
+Organizations
+Outline
+Studies
+Terms
+Writers
+Aspects
+Alter-globalization
+Anti-globalization
+Counter-hegemonic globalization
+Cultural globalization
+Deglobalization
+Democratic globalization
+Economic globalization
+Environmental globalization
+Financial globalization
+Global citizenship
+education
+Global governance
+Global health
+History of globalization
+archaic
+early modern
+Military globalization
+Political globalization
+Trade globalization
+Workforce globalization
+Issues
+Global
+Disease
+Digital divide
+Labor arbitrage
+Population
+Warming
+Water crisis
+Other
+Brain drain
+reverse
+Climate change
+Climate justice
+Development aid
+Economic inequality
+Endangered languages
+Fair trade
+Forced migration
+Human rights
+Illicit financial flows
+Invasive species
+Investor-state disputes
+New international division of labour
+NorthSouth divide
+Offshoring
+Race to the bottom
+pollution havens
+Transnational crime
+McDonaldization
+Westernization
+American imperialism
+British Empire
+World war
+Theories
+Capital accumulation
+Dependency
+Development
+Earth system
+Fiscal localism
+Modernization
+ecological
+history of
+Primitive accumulation
+Social change
+World history
+World-systems
+Notable
+scholars
+Samir Amin
+Arjun Appadurai
+K. Anthony Appiah
+Daniele Archibugi
+Giovanni Arrighi
+Ravi Batra
+Jean Baudrillard
+Zygmunt Bauman
+Ulrich Beck
+Walden Bello
+Jagdish Bhagwati
+Robert Brenner
+Manuel Castells
+Noam Chomsky
+Alfred Crosby
+Christopher Chase-Dunn
+Andre G. Frank
+Thomas Friedman
+Anthony Giddens
+Peter Gowan
+Michael Hardt
+David Harvey
+David Held
+Paul Hirst
+Michael Hudson
+Paul James
+Ibn Khaldun
+Naomi Klein
+Antonio Negri
+Jeffrey Sachs
+Saskia Sassen
+John R. Saul
+Vandana Shiva
+Joseph Stiglitz
+John Urry
+Immanuel Wallerstein
+George Ritzer
+Portal
+Category
+Commons
+WikiProject
+Saved in parser cache with key enwiki:pcache:idhash:39076976-0!*!0!!en!4!* and timestamp 20161023101808 and revision id 741698248
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pollution_haven_hypothesis&oldid=741698248"
+Categories: Environmental economicsGlobalization terminologyDevelopment economicsHuman ecologyGlobal inequalityEnvironmental social science concepts

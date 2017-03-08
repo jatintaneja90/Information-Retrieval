@@ -1,0 +1,409 @@
+Oceanthermalenergy
+From Wikipedia, the free encyclopedia
+(Redirected from Ocean thermal energy)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Ocean Thermal Energy Conversion (OTEC) is a clean, zero-emission and renewable energy technology. OTEC takes the heat from tropical oceans and converts it to electricity. OTEC is capable of generating electricity day and night, throughout the year, providing a reliable source of electricity. Although still largely untapped, OTEC is one of the worlds largest renewable energy resources and is available to around 100 countries within their nautical economical zone.[1]
+Contents
+1 Potential
+2 Oceanic layered structure
+3 Cycle
+3.1 Working principle
+3.2 Working fluids
+3.3 Efficiency
+4 Cost and economics
+5 Evironmental impact
+6 OTEC around the world
+6.1 Locations
+6.2 OTEC plants in operation
+6.3 OTEC plants under development
+7 History
+8 Related technologies
+9 See also
+10 References
+Potential[edit]
+The ocean comprises an enormous energy source. Covering almost two-third of the surface of the earth, the ocean captures 70% of the solar energy that irradiates on earth. It is estimated that the solar energy that is absorbed by the ocean per year, exceeds the human energy consumption more than 4000 times.[2] Recent research concludes that there is between 7 and 30 terawatt of electric potential energy available without having an adverse impact on natural thermal currents and ocean temperatures,[3] this equals three to ten times the global electricity demand. This vast resource has been recognized worldwide in recent reports from the International Institute for Applied Systems Analysis (IIASA)[4] and the International Panel on Climate Change.[5]
+An advantage of OTEC compared to other renewable energy sources is the reliable and predictable energy production. Since tropical oceans hardly encounter fluctuations in their surface temperature (neither per day, nor per season), the temperature difference between the various oceanic layers remains nearly constant. This enables OTEC to provide a base-load electricity supply with a capacity factor of 80% - 100%.[1]
+Oceanic layered structure[edit]
+The oceans cover almost two-third of the surface of the earth and capture a majority of the solar energy that reaches the earth.[4] Especially in tropical regions, solar energy is absorbed by the ocean and stored as heat. The balance between the incoming solar radiation and the heat loss due to evaporation and convection accounts for a constant temperature of the oceanic surface water.[6]
+As depth increases, the ocean water becomes colder, due to the accumulation of ice-cold water that has melted from the polar regions.[7] Because of its higher density, this cold water flows along the bottom of the ocean from the poles towards the equator, displacing the lower-density water above. These two phenomena provide for a layered oceanic structure in deep, tropical oceans with a reservoir of warm water at the surface and a reservoir of cold water deeper in the ocean.[8] The temperature difference between these layers varies between 22C and 25C.[6] Until today this vast sustainable energy reservoir remains largely unused.
+Cycle[edit]
+Working principle[edit]
+The OTEC system is based on an organic Rankine cycle; a working fluid with a lower boiling point and a higher vapour pressure than water is used to power a turbine that generates electricity. First, warm water from the ocean surface is pumped through a heat exchanger. In the heat exchanger, the heat that is exchanged from the seawater to the working fluid causes the working fluid to vaporize. This vaporized working fluid is compressed in a turbine that is connected to a generator that generates electricity. Thereafter, cold seawater, pumped through a second heat exchanger, condenses the vapour into a liquid, so it can be reused. An electricity-generating cycle is therefore created.
+OTEC working principle
+Working fluids[edit]
+Effective electricity generation with OTEC requires a working fluid with a lower boiling point and a higher vapour pressure than water. A typical choice of working fluid is ammonia, which has superior transport properties and is easily available at low cost. Also, the extensive operational experience with ammonia in refrigeration systems and its proven safety record make it the preferred choice of various working fluids, such as propane and other refrigerants. The working fluid is contained in a closed system, at relative low operating pressures and temperatures. Much lower than in for instance fossil fuel or nuclear power plants. Nonetheless, sealing of the components that contain the working fluid needs to be taken care of, but reliable solutions are readily available.
+Efficiency[edit]
+In line with the Carnot efficiency, a heat engine gives greater efficiency when run with a large temperature difference. The temperature difference between the surface and deep water of the ocean is greatest in the tropics, although still a modest 20 to 25C.[9] It is therefore in the tropics that OTEC offers the greatest possibilities. The energy consumption of an OTEC cycle is dominated by the seawater pumps. These pumps and other auxiliary equipment consume roughly 20% of the total electricity produced. The remaining 80% is net power and can then be supplied to the grid.[6]
+Cost and economics[edit]
+Because OTEC systems have not been widely deployed yet, cost estimates are uncertain. The current Levelized Cost of Energy (LCOE) of OTEC is estimated at about $0.20 -$0.25 per kWh, with significant room for cost reductions to even lower than $0.07 per kWh once the systems become more mature.[5][10] The LCOE of OTEC is predominantly determined by the initial capital investment.[5] The pipes to transport the deep seawater and the heat exchangers form one of the largest capital investments of OTEC systems.[11] Annual operation and maintenance cost are about 1% of the capital investment.
+Evironmental impact[edit]
+The energy produced by OTEC is clean, zero-emission and renewable.[6] It will drastically reduce emissions and make energy available from an inexhaustible natural resource. A life cycle analysis of a OTEC plant, assuming currently available technology, resulted in a global warming potential of OTEC that is at most 3% of diesel generated electricity and its energy payback is within 1 to 2 years.[12] It is anticipated that this figure will be further improved by improving technology.
+OTEC requires seawater flow rates of several cubic meters per second per net megawatt of electricity produced. Though substantial, these flow rates are negligible compared to normal ocean currents with flow rates of many million cubic meters per second. By selecting the right location for the seawater intakes and the size of mesh for the intake filters, the possible entrainment of organisms is minimized.[13] Generally speaking, the problem can often be reduced by placing the seawater intake further from the shore while avoiding submarine canyons, coral reefs or areas with fast ocean currents.
+The seawater coming out of the OTEC plant is returned to a level in the ocean with approximately the same temperature and below the photic zone.[14] The latter ensures that the discharge plume with nutrient-rich deep seawater doesnt trigger biological growth.[15] The exact siting of the discharge pipe will vary according to currents and temperatures at the specific location. It is typically around several tens to two hundred meter deep.
+Most recently, NOAA held an OTEC Workshop in 2010 and 2012, seeking to assess the physical, chemical, and biological impacts and risks of OTEC, and to identify information gaps or needs[16] .[17] Todays available environmental modeling tools, sensors and monitoring techniques greatly help in analyzing and monitoring impact at specific locations. The Tethys database provides access to scientific literature and general information on the potential environmental effects of OTEC.[18]
+OTEC around the world[edit]
+Locations[edit]
+In order to be operational, OTEC requires a temperature difference of the seawater of 20C or more.[19] OTEC resource exists therefore in tropical waters, typically in the equitorial region between 20N and 20S.[20] Recent research identified 98 nations and territories with OTEC resources within their nautical economical zone.[1]
+Schematic of the OTEC potential around the world (in colour) and the OTEC plants that are built or planned (source: OTEC Foundation)
+OTEC plants in operation[edit]
+OTEC projects around the world. 1. top left: Hawaii, US (105 kW), 2. mid left: Delft, Netherlands (lab-scale), 3. bottom left: La Runion (15 kW), 4. top right: Kumejima, Japan (100 kW), 5. mid right: Saga, Japan (30 kW), 6. bottom right: Korea (20 kW). (source: OTEC Foundation)
+Saga, Japan - Xenesys & Saga University - 30kW - operational since 1980 with the purpose of research and development
+Gosung, Korea - KRISO - 20kW - operational since 2012 with the purpose of research and development
+Runion Island, France - DCNS - 15kW - operational since 2012 with the purpose of research and development
+Kumejima, Japan - Xenesys & Saga University - 100 KW - grid connected - operational since 2013 with the purpose of research and development and for electricity production[21]
+Hawaii, US - Makai Ocean Engineering - 105kW - grid connected - operational since 2015 with the purpose of electricity production[22][23]
+OTEC plants under development[edit]
+Andaman & Nicobar Islands, India - DCNS - 20 MW
+Bahamas, USA  Ocean Thermal Energy Corporation (OTE)  10 MW[24] [24][25]
+Cabangan, Philippines - Bell Pirie Power Corp - 10 MW
+Curaao, Kingdom of the Netherlands - Bluerise - 0.5 MW
+Hawaii, USA  Makai Ocean Engineering  1 MW[26][27][28]
+Kumejima, Japan - Xenesys & Saga University - 1 MW
+Maldives - Bardot Ocean - 2 MW [29]
+Martinique, France  Akuoa Energy & DCNS  10,7 MW [30][31][32]
+Sri Lanka - Bluerise - 10 MW
+Tarawa Island, Kiribati [KRISO]  1 MW [33]
+US Virgin Islands - Ocean Thermal Energy Corporation (OTE)  8 & 15 MW [34][35]
+History[edit]
+The concept of generating electricity by means of the temperature difference between the various layers in the ocean was first mentioned by Jules Verne in 1870. In his book Twenty thousand miles under the sea, he used the concept to power the submarine of Captain Nemo.[36] Attempts to develop and refine OTEC technology started in the 1880s. In 1881, Jacques Arsene d'Arsonval, a French physicist, proposed tapping the thermal energy of the ocean.[37] D'Arsonval's student, Georges Claude, built the first OTEC plant, in Matanzas, Cuba in 1930[38][39] . The system generated 22 kW of electricity with a low-pressure turbine.[40] The plant was later destroyed in a storm.[6] In 1935, Claude constructed a plant aboard a 10,000-ton cargo vessel moored off the coast of Brazil. Weather and waves destroyed it before it could generate net power.[40]
+In the 50s and 60 several proposals were made for the installation of OTEC plants.[6][40] Moreover, in 1962, J. Hilbert Anderson and James H. Anderson, Jr. focused on increasing component efficiency. They patented their new "closed cycle" design in 1967.[41] This design improved upon the original closed-cycle Rankine system, and included this in an outline for a plant that would produce power at lower cost than oil or coal. However, little attention was drawn to OTEC, since coal and nuclear were considered the future of energy.[6]
+The 1970s saw an uptick in OTEC research, due to the oil crisis. The U.S. federal government invested $260 million in OTEC research after President Carter signed a law that committed the US to a production goal of 10,000 MW of electricity from OTEC systems by 1999.[42] But a falling oil price smothered the interest in OTEC.
+In the meantime, an OTEC plant was constructed on the island of Nauru in Japan.[43] The installation became operational in 1981 en produced 120kW of electricity; 90kW to power the system and 30kW for the island grid.[40] 1981 also saw a major development in OTEC technology when Russian engineer, Dr. Alexander Kalina, instead of pure ammonia, used a mixture of ammonia and water as a working fluid to produce electricity. This new ammonia-water mixture greatly improved the efficiency of the power cycle.[44]
+With the start of the 21st century, interest in OTEC began to rise again. Currently, several OTEC systems up to 1 megawatt are operational and the first multi-megawatt installations are under development.
+Related technologies[edit]
+The implementation of OTEC offers the possibility of co-generating other sustainable products. First of all,the warm and cold seawater can be used for efficient production of clean drinking water. Through evaporation of the warm seawater, the salt is removed. Subsequent condensation of the desalinated warm seawater then provides fresh drinking water. System analysis indicates that a 2-megawatt OTEC plant could produce about 4,300 cubic metres (150,000cuft) of desalinated water each day.[45] Secondly, the cold seawater can be used in combination with Seawater District Cooling (SDC) for energy efficient air-conditioning of local buildings (also known as Sea Water Air Conditioning, or SWAC). SDC can provide around 90% savings of electricity when compared to traditional cooling systems.[46] These are considerable savings, taking into account that an estimate of 40% of the energy consumed in developed tropical regions is cooling related.[47] Furthermore, the cold seawater can be used in agriculture to cool soil or greenhouses and thereby enable the perfect climate for crops to grow faster and healthier. Moreover, the cold seawater from the deep ocean is rich in nutrients, such as phosphates and nitrates and is virtually free of pathogen. This makes it ideal for use in aquaculture. The cold water opens the possibilities of growing high value fishes that otherwise can not been grown locally. Similarly, technologies like algae, cosmetics and nutraceuticals production can benefit from the nutrients found in deep seawater.
+See also[edit]
+Energy portal
+Sustainable development portal
+Deep water source cooling
+Heat engine
+Ocean engineering
+Osmotic power
+Seawater air conditioning
+References[edit]
+^ a b c Kempener, Ruud; Neumann, Frank (June 2014). "Ocean Thermal Energy Conversion Technology Brief" (PDF). IRENA. p.16.
+^ Vega, L.A. (2003). "Ocean Thermal Energy Conversion Primer". 6. Marine Technology Society Journal: 2535.
+^ Rajagopalan, K.; Nihous, G.C. (2013). "Estimates of Global Ocean Thermal Energy Conversion (OTEC) Resources Using an Ocean General Circulation Model". 50. Renewable Energy. CS1 maint: Multiple names: authors list (link)
+^ a b Kleute, B.J.; Vroom, M. (March 2014). "Feasibility of 10 MW offshore Ocean thermal energy conversion". Delft: Bluerise B.V. CS1 maint: Multiple names: authors list (link)
+^ a b c "Special Report on Renewable Energy Sources and Climate Change Mitigation". Intergovernmental Panel on Climate Change. Archived from the original on 2011-05-09.
+^ a b c d e f g Avery, William H. and Chih Wu. Renewable Energy From the Ocean: A Guide to OTEC. New York: Oxford University Press. 1994.
+^ Vega, L.A. (1999). "Ocean Thermal Energy Conversion (OTEC)" (PDF).
+^ Takahashi, P. and Trenka, A. Ocean Thermal Energy Conversion.John Wiley Sons Ltc. 1996.
+^ DiChristina, M. (May 1995). "Sea Power". Popular Science: 7073.
+^ [1] Archived June 26, 2007, at the Wayback Machine.
+^ Vega, L.A. (1992). "Ocean Energy Recovery: The STate of the Art". Ocean Energy Recovery (ASCE): 152181.
+^ Aalbers, R.R.D. (2015). Life cycle assessment of ocean thermal energy conversion - The life cycle impact of electricity supply on small island regions (MSc.). Delft University of Technology.
+^ Vega, L.A. and Comfort, C. "Environmental Assessment of Ocean Thermal Energy Conversion in Hawaii" (PDF). Hawaii National Marine Renewable Energy Center. Retrieved 27 March 2013. CS1 maint: Multiple names: authors list (link)
+^ Grandelli, P. "Modeling the Physical and Biochemical Influence of Ocean Thermal Energy Conversion Plant Discharges into their Adjacent Waters" (PDF). US Department of Energy - Office of Scientific and Technical Information. Retrieved 27 March 2013.
+^ Rocheleau, G.; Grandelli, P. (22 September 2011). "Physical and biological modeling of a 100 megawatt Ocean Thermal Energy Conversion discharge plume". Institute of Electrical and Electronics Engineers: 3. Retrieved 27 March 2013.
+^ "Ocean Thermal Energy Conversion: Assessing Potential Physical, Chemical, and Biological Impacts and Risks" (PDF). National Oceanic and Atmospheric Administration, Office of Ocean and Coastal Resource Management. Retrieved 27 March 2013.
+^ "Ocean Thermal Energy Conversion: Information Needs Assessment" (PDF). National Oceanic and Atmospheric Administration (NOAA) Office of Response and Restoration (ORR) and the Environmental Research Group at the University of New Hampshire (UNH). Retrieved 27 March 2013.
+^ "Tethys".
+^ Mitsui, T.; Ito, F.; Seya, Y.; Nakamoto, Y. (1983). "Outline of the 100kW OTEC Pilot plant in the Republic of Nauru". 9. IEEE Transactions on Power Apparatus and Systems. CS1 maint: Multiple names: authors list (link)
+^ "NREL: Ocean Thermal Energy Conversion - Markets for OTEC". Nrel.gov. Retrieved 2012-06-12.
+^ http://otecokinawa.com/AloHaisai/the-foundation-of-go-sea/
+^ http://nelha.hawaii.gov/energy-portfolio/
+^ Celebrating Hawaii ocean thermal energy conversion power plant Physorg 25 August 2015
+^ a b http://otecorporation.com/technology/projects/
+^ http://otecorporation.com/2016/08/30/ocean-thermal-energy-corporation-reports-announcement-bahamian-government-remobilization-completion-opening-baha-mar-beach-resort/
+^ "Lockheed Martin awarded another $4.4M for OTEC work in Hawaii". November 22, 2010. Retrieved 14 November 2016.
+^ Coxworth, B. (November 26, 2010). "More funds for Hawaii's Ocean Thermal Energy Conversion plant". Retrieved 14 November 2016.
+^ Hawaii First to Harness Deep Ocean Temperatures for Power http://www.scientificamerican.com/article/hawaii-first-to-harness-deep-ocean-temperatures-for-power/
+^ http://www.otecnews.org/2016/10/first-commercial-otec-bardot-ocean/
+^ http://en.dcnsgroup.com/news/akuo-energy-and-dcns-awarded-european-ner-300-funding-a-crucial-step-for-the-marine-renewable-energy-sector/
+^ http://www.akuoenergy.com/en/what-we-do/ocean-thermal-energy-conversion.html
+^ http://www.otecnews.org/2014/07/offshore-otec-project-nemo-awarded-ner-300-funding-program/
+^ http://www.marinetechnologynews.com/news/energy-ocean-ocean-thermal-527332
+^ http://stthomassource.com/content/news/local-news/2014/03/06/senate-signs-mou-ocean-energy-feasibility-study
+^ http://en.dcnsgroup.com/news/feasibility-study-for-worlds-first-us-based-commercial-otec-plant-and-sea-water-air-conditioning-swac-systems-in-usvi/
+^ Verne, J. Vingt mille lieues sous les mers. Hetzel. 1870.
+^ dArsonval, A. (1881). "Utilisation des forces naturelles. Avenir de l'lectricit". 17. Rev. Sci.: 370372. CS1 maint: Uses authors parameter (link)
+^ Chiles, J. "The Other Renewable Energy". Invention and Technology. 23 (4): 2435.
+^ "Power from the Sea" Popular Mechanics, December 1930, pp 881-882 detail article and photos of Cuban power plant
+^ a b c d Takahashi, M.M.; Translated by: Kitazawa, K. and Snowden, P. (2000) [1991]. Deep Ocean Water as Our Next Natural Resource. Tokyo, Japan: Terra Scientific Publishing Company. ISBN4-88704-125-X. CS1 maint: Multiple names: authors list (link)
+^ US patent 3312054, J.H. Anderson, "Sea Water Power Plant", issued 1967-04-04
+^ Daly, J. (December 5, 2011). "Hawaii About to Crack Ocean Thermal Energy Conversion Roadblocks?". OilPrice.com. Retrieved 28 March 2013.
+^ Bruch, V. L. (April 1994). "An Assessment of Research and Development Leadership in Ocean Energy Technologies" (PDF). SAND93-3946. Sandia National Laboratories: Energy Policy and Planning Department.
+^ Finney, K.A.. "Ocean Thermal Energy Conversion". Guelph Engineering Journal. 2008.
+^ Block and Lalenzuela 1985
+^ "Deep Water Cooling". CRC Research. 2016. Retrieved 14 November 2016.
+^ Cox, S. (10 July 2012). "Cooling a Warming Planet: A Global Air Conditioning Surge". Environment360. Retrieved 14 November 2016.
+v
+t
+e
+Ocean energy
+Wave power
+Australia
+New Zealand
+Tidal power
+New Zealand
+Annapolis Royal Generating Station
+Other
+Marine current power
+Offshore construction
+Ocean thermal energy conversion
+Osmotic power
+Pelamis wave energy converter
+SDE Sea Waves Power Plant
+Wind power (offshore)
+Wave farm
+Ocean energy
+Portals: Energy
+Renewable energy
+Sustainable development
+v
+t
+e
+Physical oceanography
+Waves
+Airy wave theory
+Ballantine scale
+BenjaminFeir instability
+Boussinesq approximation
+Breaking wave
+Clapotis
+Cnoidal wave
+Cross sea
+Dispersion
+Edge wave
+Equatorial waves
+Fetch
+Gravity wave
+Green's law
+Infragravity wave
+Internal wave
+Kelvin wave
+Kinematic wave
+Longshore drift
+Luke's variational principle
+Mild-slope equation
+Radiation stress
+Rogue wave
+Rossby wave
+Rossby-gravity waves
+Sea state
+Seiche
+Significant wave height
+Sneaker wave
+Soliton
+Stokes boundary layer
+Stokes drift
+Stokes wave
+Swell
+Trochoidal wave
+Tsunami
+megatsunami
+Undertow
+Ursell number
+Wave action
+Wave base
+Wave height
+Wave power
+Wave radar
+Wave setup
+Wave shoaling
+Wave turbulence
+Wavecurrent interaction
+Waves and shallow water
+one-dimensional Saint-Venant equations
+shallow water equations
+Wind wave
+model
+Circulation
+Atmospheric circulation
+Baroclinity
+Boundary current
+Coriolis effect
+Downwelling
+Eddy
+Ekman layer
+Ekman spiral
+Ekman transport
+El Nio Southern Oscillation
+General Circulation Model
+Geostrophic current
+Global Ocean Data Analysis Project
+Gulf Stream
+Halothermal circulation
+Humboldt Current
+Hydrothermal circulation
+Langmuir circulation
+Longshore drift
+Loop Current
+Maelstrom
+Modular ocean model
+Ocean dynamics
+Ocean gyre
+Princeton ocean model
+Rip current
+Subsurface currents
+Sverdrup balance
+Thermohaline circulation
+shutdown
+Upwelling
+Whirlpool
+World Ocean Circulation Experiment
+Tides
+Amphidromic point
+Earth tide
+Head of tide
+Internal tide
+Lunitidal interval
+Perigean spring tide
+Rip tide
+Rule of twelfths
+Slack water
+Tidal bore
+Tidal force
+Tidal power
+Tidal race
+Tidal range
+Tidal resonance
+Tide gauge
+Tideline
+Landforms
+Abyssal fan
+Abyssal plain
+Atoll
+Bathymetric chart
+Coastal geography
+Cold seep
+Continental margin
+Continental rise
+Continental shelf
+Contourite
+Guyot
+Hydrography
+Oceanic basin
+Oceanic plateau
+Oceanic trench
+Passive margin
+Seabed
+Seamount
+Submarine canyon
+Submarine volcano
+Plate tectonics
+Convergent boundary
+Divergent boundary
+Fracture zone
+Hydrothermal vent
+Marine geology
+Mid-ocean ridge
+Mohorovii discontinuity
+VineMatthewsMorley hypothesis
+Oceanic crust
+Outer trench swell
+Ridge push
+Seafloor spreading
+Slab pull
+Slab suction
+Slab window
+Subduction
+Transform fault
+Volcanic arc
+Ocean zones
+Benthic
+Deep ocean water
+Deep sea
+Littoral
+Mesopelagic
+Oceanic
+Pelagic
+Photic
+Surf
+Sea level
+Deep-ocean Assessment and Reporting of Tsunamis
+Future sea level
+Global Sea Level Observing System
+North West Shelf Operational Oceanographic System
+Sea-level curve
+Sea level rise
+World Geodetic System
+Acoustics
+Deep scattering layer
+Hydroacoustics
+Ocean acoustic tomography
+Sofar bomb
+SOFAR channel
+Underwater acoustics
+Satellites
+Jason-1
+Jason-2 (Ocean Surface Topography Mission)
+Jason-3
+Related
+Argo
+Benthic lander
+Color of water
+DSV Alvin
+Marginal sea
+Marine energy
+Marine pollution
+Mooring
+National Oceanographic Data Center
+Ocean
+Ocean exploration
+Ocean observations
+Ocean reanalysis
+Ocean surface topography
+Ocean thermal energy conversion
+Oceanography
+Pelagic sediment
+Sea surface microlayer
+Sea surface temperature
+Seawater
+Science On a Sphere
+Thermocline
+Underwater glider
+Water column
+World Ocean Atlas
+Category
+Commons
+NewPP limit report
+Parsed by mw1172
+Cached time: 20161119131645
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.346 seconds
+Preprocessor visited node count: 1761/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 81274/2097152 bytes
+Template argument size: 543/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.125/10.000 seconds
+Lua memory usage: 6.34 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+241.838
+1 - -total
+69.56%
+168.224
+1 - Template:Reflist
+23.89%
+57.767
+10 - Template:Cite_web
+15.20%
+36.755
+11 - Template:Cite_journal
+15.08%
+36.467
+1 - Template:Convert
+9.83%
+23.777
+2 - Template:Navbox
+8.13%
+19.672
+1 - Template:Ocean_energy
+4.83%
+11.678
+1 - Template:Ref_patent
+4.23%
+10.229
+3 - Template:Cite_news
+3.49%
+8.435
+4 - Template:Icon
+Saved in parser cache with key enwiki:pcache:idhash:68498-0!*!0!!en!4!* and timestamp 20161119131645 and revision id 750186045
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Ocean_thermal_energy_conversion&oldid=750186045"
+Categories: Energy conversionRenewable energy technologyMarine energyPower station technologyOceanographical terminologyHidden categories: CS1 maint: Multiple names: authors listWebarchive template wayback linksCS1 maint: Uses authors parameter

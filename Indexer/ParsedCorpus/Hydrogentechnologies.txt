@@ -1,0 +1,385 @@
+Hydrogentechnologies
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}See also: Timeline of hydrogen technologies
+This article is incomplete. Please help to improve it, or discuss the issue on the talk page. (February 2009)
+Hydrogen technologies are technologies that relate to the production and use of hydrogen. Hydrogen technologies are applicable for many uses.
+Some hydrogen technologies are carbon neutral and could have a role in preventing climate change and a possible future hydrogen economy. Hydrogen is a widely used chemical used in various applications including ammonia production, oil refining and energy.[1] Hydrogen is not a primary energy source, because it is not naturally occurring as a fuel. It is, however widely regarded as an ideal energy storage medium, due to the ease with which electric power can convert water into its hydrogen and oxygen components through electrolysis and can be converted back to electrical power using a fuel cell. There are a wide number of different types of fuel and electrolysis cells.[2]
+The potential environmental impact depends primarily on the methods used to generate the hydrogen fuel.
+Contents
+1 Fuel cells
+2 Hydrogen infrastructure
+2.1 Hydrogen storage
+3 Hydrogen vehicles
+3.1 Historic hydrogen filled airships
+3.2 Hydrogen powered cars
+3.3 Hydrogen powered planes
+3.4 Hydrogen powered rockets
+4 Related technologies
+4.1 Environmental
+4.2 Nuclear
+4.3 Organic chemistry
+5 Miscellaneous
+6 See also
+7 References
+Fuel cells[edit]
+Main article: Fuel cell
+Further information: Glossary of fuel cell terms
+Alkaline fuel cell (AFC)
+Direct borohydride fuel cell (DBFC)
+Direct carbon fuel cell (DCFC)
+Direct-ethanol fuel cell (DEFC)
+Direct methanol fuel cell (DMFC)
+Electro-galvanic fuel cell (EGFC)
+Flow Battery (RFC)
+Formic acid fuel cell (FAFC)
+Metal Hydride fuel cell (MHFC)
+Microbial Fuel Cell (MFC)
+Molten-carbonate fuel cell (MCFC)
+Phosphoric-acid fuel cell (PAFC)
+Photoelectrochemical cell (PEC)
+Proton exchange membrane fuel cell (PEMFC)
+Protonic Ceramic Fuel Cell (PCFC)
+Regenerative fuel cell (RFC)
+Solid-oxide fuel cell (SOFC)
+v
+t
+e
+Fuel cells
+By electrolyte
+Alkaline fuel cell
+Molten carbonate fuel cell
+Phosphoric acid fuel cell
+Proton exchange membrane fuel cell
+Solid oxide fuel cell
+By fuel
+Direct-ethanol fuel cell
+Direct methanol fuel cell
+Formic acid fuel cell
+Reformed methanol fuel cell
+Zinc-air battery
+Biofuel cells
+Enzymatic biofuel cell
+Microbial fuel cell
+Others
+Blue energy
+Direct borohydride fuel cell
+Direct carbon fuel cell
+Electro-galvanic fuel cell
+Flow battery
+Membraneless Fuel Cells
+Metal hydride fuel cell
+Photoelectrochemical cell
+Protonic ceramic fuel cell
+Regenerative fuel cell
+Solid oxide electrolyser cell
+Unitized regenerative fuel cell
+Hydrogen
+Economy
+Storage
+Station
+Vehicle
+Glossary
+Hydrogen infrastructure[edit]
+Main article: Hydrogen infrastructure
+Hydrogen pipeline transport
+Hydrogen pressure letdown station
+Compressed hydrogen tube trailer
+Liquid hydrogen tank truck
+Hydrogen piping
+Hydrogen station
+HCNG
+Homefueler
+Home Energy Station
+Hydrogen highway
+Zero Regio
+Hydrogen compressor
+Electrochemical hydrogen compressor
+Guided rotor compressor
+Hydride compressor
+Ionic liquid piston compressor
+Linear compressor
+Hydrogen turboexpander-generator
+Hydrogen leak testing
+Hydrogen sensor
+Hydrogen purifier
+Hydrogen analyzer
+Hydrogen valve
+Hydrogen storage[edit]
+Main article: Hydrogen storage
+Compressed hydrogen
+Cryo-adsorption
+Liquid hydrogen
+Slush hydrogen
+Underground hydrogen storage
+Hydrogen tank
+Power to gas
+Hydrogen vehicles[edit]
+Main article: Hydrogen vehicles
+Further information: List of fuel cell vehicles
+Historic hydrogen filled airships[edit]
+Hindenburg (airship)
+Zeppelin
+Hydrogen powered cars[edit]
+Hydrogen fueling nozzle
+Audi:
+2004 - Audi A2H2-hybrid vehicle
+2009 - Audi Q5-FCEV[3]
+BMW:
+2002 - BMW 750hl
+2010 - BMW 1 Series Fuel-cell hybrid electric[4]
+Chrysler:
+2000 - Jeep Commander II-hybrid vehicle-Commercial
+2001 - Chrysler Natrium-hybrid vehicle
+2003 - Jeep Treo-Fuel cell
+Daimler:
+1994 - Mercedes-Benz NECAR 1
+1996 - Mercedes-Benz NECAR 2
+1997 - Mercedes-Benz NECAR 3
+1999 - Mercedes-Benz NECAR 4
+2000 - Mercedes-Benz NECAR 5
+2002 - Mercedes-Benz F-Cell based on the Mercedes-Benz A-Class
+2005 - Mercedes-Benz F600 Hygenius
+2009 - Mercedes-Benz F-CELL Roadster
+2009 - Mercedes-Benz F-Cell based on the Mercedes-Benz B-Class[5]
+Fiat:
+2001 - Fiat Seicento Elettra H2 Fuel Cell-hybrid vehicle
+2003 - Fiat Seicento Hydrogen-hybrid vehicle
+2005 - Fiat Panda Hydrogen-Fuel cell
+2008 - Fiat Phyllis-Fuel cell
+2008 - Fiat Panda-Fiat Panda HyTRAN[6]
+Ford:
+2000 - Ford Focus FCV-Fuel cell. Note however that Ford Motor Company has dropped its plans to develop hydrogen cars, stating that "The next major step in Fords plan is to increase over time the volume of electrified vehicles".[7]
+2006 - F-250 Super Chief a Tri-Flex engine concept pickup.
+General Motors:
+1966 - GM Electrovan-Fuel cell
+2001 - HydroGen3-Fuel cell
+2002 - GM HyWire-Fuel cell
+2005 - GM Sequel-hybrid vehicle
+2006 - Chevrolet Equinox Fuel Cell[8]
+2007 - HydroGen4
+Honda:
+2002 - Honda FCX - hybrid vehicle
+2007 - Honda FCX Clarity - Hydrogen Fuel cell - Production model
+Hyundai:
+2001 - Hyundai Santa Fe FCEV
+2010 - Hyundai ix35 FCEV[9]
+Lotus Engineering:
+2010 - Black Cab-Fuel cell[10]
+Kia:
+2009 - Kia Borrego FCEV-Fuel cell[11]
+Mazda:
+1991 - Mazda HR-X Hydrogen Wankel Rotary.
+1993 - Mazda HR-X2 Hydrogen Wankel Rotary.
+1993 - Mazda MX-5 Miata Hydrogen Wankel Rotary.
+1995 - Mazda Capella Cargo, first public street test of the hydrogen Wankel Rotary engine.
+1997 - Mazda Demio FC-EV Methanol-Reducing Fuel Cell
+2001 - Mazda Premacy FC-EV - First public street test of the Methanol-Reducing Fuel Cell vehicle in Japan
+2003 - Mazda RX-8 Hydrogen RE Hydrogen \ Gasoline hybrid Wankel Rotary.
+2007 - Premacy Hydrogen RE Hybrid
+2009 - Mazda 5 Hydrogen RE Hybrid[12]
+Mitsubishi:
+2004 - Mitsubishi FCV
+Morgan:
+2005 - Morgan LIFEcar-hybrid vehicle-concept car
+Nissan:
+2002 - Nissan X-Trail FCHV-hybrid vehicle. Note, however that in 2009, Nissan announced that it is cancelling its hydrogen car R&D efforts.[13]
+Peugeot:
+2004 - Peugeot Quark
+2006 - Peugeot 207 Epure
+2008 - H2Origin-Fuel cell
+Renault:
+Scenic ZEV H2 is a hydro-electric MPV co-developed by Nissan.
+Riversimple:
+2009 - Riversimple Urban Car
+Ronn Motor Company:
+2008 - Ronn Motor Scorpion
+Toyota:
+2002 - Toyota FCHV-hybrid vehicle
+2003 - Toyota Fine-S-concept car
+2003 - Toyota Fine-N-concept car
+2005 - Toyota Fine-T-concept car
+2005 - Toyota Fine-X-concept car
+2008 - Toyota FCHV-adv-preproduction vehicle (expected public release 2015) [14]
+Volkswagen:
+2000 - VW Bora Hy-motion-Fuel cell
+2002 - VW Bora Hy-power-Fuel cell
+2004 - VW Touran Hy-motion-Fuel cell
+2007 - VW space up! blue
+Hydrogen powered planes[edit]
+Hyfish
+Smartfish
+Tupolev Tu-155-hydrogen-powered version of Tu-154[15]
+Antares DLR-H2 -The first aircraft capable of performing a complete flight on fuel-cell power only
+Possible future aircraft using precooled jet engines include Reaction Engines Skylon and the Reaction Engines A2.
+Hydrogen powered rockets[edit]
+The following rockets were/are partially or completely propelled by hydrogen fuel:
+Saturn V (upper stage)
+Space Shuttle
+Ariane 5
+Delta IV
+Atlas V (Centaur upper stage)
+CE-20 (cryogenic rocket engine for upper stage of GSLV-III)
+Related technologies[edit]
+Environmental[edit]
+Anaerobic digestion
+Dark fermentation
+Photofermentation
+Syngas
+Nuclear[edit]
+Generation IV reactor
+Hydrogen bomb
+Organic chemistry[edit]
+Dehydrogenation
+Hydrogenation
+Hydrogenolysis
+Miscellaneous[edit]
+Hydrogen odorant
+Atomic hydrogen welding
+Hydrogen-cooled turbogenerator
+Oxyhydrogen flame
+Low hydrogen annealing
+Hydrogen decrepitation process (HD)
+Hydrogenation disproportionation desorption and recombination (HDDR)
+Standard hydrogen electrode
+Reversible hydrogen electrode
+Dynamic hydrogen electrode
+Palladium-Hydrogen electrode
+Cathodic protection
+Iron-hydrogen resistor
+Hydrogen pinch
+Hofmann voltameter
+Hydrox
+Hydreliox
+Joule-Thomson effect
+Hydrogen ion
+Bussard ramjet
+Dbereiner's lamp
+Nickel hydrogen battery
+Gas-absorption refrigerator
+Electroosmotic pump
+Sodium silicide
+Temperature-programmed reduction
+Hydrogen damage
+Hydrogen embrittlement
+See also[edit]
+Wikimedia Commons has media related to Hydrogen technologies.
+Sustainable development portal
+Energy portal
+Renewable energy portal
+National Center for Hydrogen Technology
+References[edit]
+^ Badwal, Sukhvinder P.S.; Giddey, Sarbjit; Munnings, Christopher. "Hydrogen production via solid electrolytic routes". Wiley Interdisciplinary Reviews: Energy and Environment. 2 (5): 473487. doi:10.1002/wene.50.
+^ Badwal, SPS (2014). "Emerging electrochemical energy conversion and storage technologies". Frontiers in Chemistry. 79. doi:10.3389/fchem.2014.00079.
+^ netinform: Hydrogen and Fuel Cells
+^ netinform: Hydrogen and Fuel Cells
+^ netinform: Hydrogen and Fuel Cells
+^ netinform: Hydrogen and Fuel Cells
+^ "Ford Motor Company Business Plan", December 2, 2008
+^ netinform: Hydrogen and Fuel Cells
+^ netinform: Hydrogen and Fuel Cells
+^ netinform: Hydrogen and Fuel Cells
+^ First Drive: hydrogen-powered Kia Borrego FCEV and Nissan X-Trail FCV
+^ netinform: Hydrogen and Fuel Cells
+^ Dennis, Lyle. "Nissan Swears Off Hydrogen and Will Only Build Electric Cars", All Cars Electric, February 26, 2009
+^ netinform: Hydrogen and Fuel Cells
+^ Hydrogen Powered Tupolev Tu-155 Development of Cryogenic Fuel Aircraft, Tupelov
+v
+t
+e
+Environmental technology
+Appropriate technology
+Clean technology
+Environmental design
+Environmental impact assessment
+Sustainable development
+Sustainable technology
+Pollution
+Air pollution (control
+dispersion modeling)
+Industrial ecology
+Solid waste treatment
+Waste management
+Water (agricultural wastewater treatment
+industrial wastewater treatment
+sewage treatment
+waste-water treatment technologies
+water purification)
+Renewable energy
+Alternative energy
+Efficient energy use
+Energy development
+Energy recovery
+Fuel (alternative fuel
+biofuel
+carbon negative fuel
+hydrogen technologies)
+List of energy storage projects
+Renewable energy (commercialization)
+Sustainable energy
+Transportation (electric vehicle
+hybrid vehicle)
+Conservation
+Birth control
+Building (green
+natural
+sustainable architecture
+New Urbanism
+New Classical)
+Conservation biology
+Conservation ethic
+Ecoforestry
+Environmental preservation
+Environmental remediation
+Green computing
+Permaculture
+Recycling
+NewPP limit report
+Parsed by mw1267
+Cached time: 20161119100843
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.172 seconds
+Real time usage: 0.231 seconds
+Preprocessor visited node count: 858/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 33746/2097152 bytes
+Template argument size: 719/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Lua time usage: 0.061/10.000 seconds
+Lua memory usage: 2.85 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+163.937
+1 - -total
+27.92%
+45.766
+1 - Template:Reflist
+20.58%
+33.745
+2 - Template:Cite_journal
+19.53%
+32.015
+1 - Template:Incomplete
+17.05%
+27.949
+1 - Template:Main_other
+16.07%
+26.343
+1 - Template:Ambox
+13.45%
+22.052
+1 - Template:See_also
+8.03%
+13.156
+1 - Template:Portal
+7.06%
+11.568
+2 - Template:Navbox
+5.96%
+9.772
+1 - Template:Fuel_cells
+Saved in parser cache with key enwiki:pcache:idhash:6199604-0!*!0!!en!4!* and timestamp 20161119100842 and revision id 730249560
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Hydrogen_technologies&oldid=730249560"
+Categories: Hydrogen technologiesHydrogen economyIndustrial gasesHydrogenationHidden categories: Articles to be expanded from February 2009

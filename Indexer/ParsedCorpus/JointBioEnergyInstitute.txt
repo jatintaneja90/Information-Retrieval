@@ -1,0 +1,71 @@
+JointBioEnergyInstitute
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (October 2011) (Learn how and when to remove this template message)
+The topic of this article may not meet Wikipedia's general notability guideline. Please help to establish notability by citing reliable secondary sources that are independent of the topic and provide significant coverage of it beyond its mere trivial mention. If notability cannot be established, the article is likely to be merged, redirected, or deleted.
+Find sources:"Joint BioEnergy Institute"news newspapers books scholar JSTOR free images (October 2011) (Learn how and when to remove this template message)
+The Joint BioEnergy Institute (JBEI) is a research institute funded by the United States Department of Energy. It is led by the Lawrence Berkeley National Laboratory, and includes participation from the Sandia National Laboratory, Lawrence Livermore National Laboratory, as well as UC Berkeley, UC Davis and the Carnegie Institute. It is located in Emeryville, California.
+The goal of the Institute is to develop biofuels, bio-synthesized from cellulosic materials (see Second generation biofuels) as an alternative to fossil fuels.
+External links[edit]
+Wikimedia Commons has media related to Joint BioEnergy Institute.
+"News Release announcing funding of JBEI by LBNL". Retrieved May 21, 2008.
+"Joint BioEnergy Institute Website". Retrieved May 21, 2008.
+Coordinates: 375026N 1221723W / 37.84056N 122.28972W / 37.84056; -122.28972
+This California-related article is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+This article about renewable energy is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+NewPP limit report
+Parsed by mw1305
+Cached time: 20161120121827
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.124 seconds
+Real time usage: 0.167 seconds
+Preprocessor visited node count: 409/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 24962/2097152 bytes
+Template argument size: 312/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 3.15 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+140.543
+1 - -total
+31.62%
+44.446
+2 - Template:Ambox
+25.49%
+35.830
+1 - Template:Primary_sources
+19.55%
+27.480
+1 - Template:Notability
+18.30%
+25.717
+2 - Template:Cite_web
+12.65%
+17.782
+1 - Template:Find_sources_mainspace
+12.46%
+17.516
+1 - Template:Coord
+11.32%
+15.916
+2 - Template:Asbox
+10.45%
+14.689
+1 - Template:California-stub
+10.21%
+14.350
+1 - Template:Commons_category
+Saved in parser cache with key enwiki:pcache:idhash:17173057-0!*!*!*!*!4!* and timestamp 20161120121827 and revision id 721932020
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Joint_BioEnergy_Institute&oldid=721932020"
+Categories: BioenergyEnergy research institutesResearch institutes in the United StatesLawrence Berkeley National LaboratoryEmeryville, CaliforniaResearch institutes in CaliforniaResearch institutes in the San Francisco Bay AreaCalifornia stubsRenewable energy stubsHidden categories: Articles lacking reliable references from October 2011All articles lacking reliable referencesArticles with topics of unclear notability from October 2011All articles with topics of unclear notabilityCommons category without a link on WikidataCoordinates on WikidataAll stub articles

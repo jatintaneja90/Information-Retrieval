@@ -1,0 +1,125 @@
+Fluegas
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Flue gas from London's Bankside Power Station, 1975
+Flue gas is the gas exiting to the atmosphere via a flue, which is a pipe or channel for conveying exhaust gases from a fireplace, oven, furnace, boiler or steam generator. Quite often, the flue gas refers to the combustion exhaust gas produced at power plants. Its composition depends on what is being burned, but it will usually consist of mostly nitrogen (typically more than two-thirds) derived from the combustion of air, carbon dioxide (CO2), and water vapor as well as excess oxygen (also derived from the combustion air). It further contains a small percentage of a number of pollutants, such as particulate matter (like soot), carbon monoxide, nitrogen oxides, and sulfur oxides.[1]
+Scrubbing[edit]
+At power plants, flue gas is often treated with a series of chemical processes and scrubbers, which remove pollutants. Electrostatic precipitators or fabric filters remove particulate matter and flue-gas desulfurization captures the sulfur dioxide produced by burning fossil fuels, particularly coal. Nitrogen oxides are treated either by modifications to the combustion process to prevent their formation, or by high temperature or catalytic reaction with ammonia or urea. In either case, the aim is to produce nitrogen gas, rather than nitrogen oxides. In the United States, there is a rapid deployment of technologies to remove mercury from flue gastypically by absorption on sorbents or by capture in inert solids as part of the flue-gas desulfurization product. Such scrubbing can lead to meaningful recovery of sulfur for further industrial use.[2]
+Technologies based on regenerative capture by amines for the removal of CO2 from flue gas have been deployed to provide high purity CO2 gas to the food industry, and for enhanced oil recovery. They are now under active research as a method for CO2 capture for long-term storage as a means of greenhouse gas remediation, and have begun to be implemented in a limited way commercially (e.g. the Sleipner West field in the North Sea, operating since 1996).[3]
+There are a number of proven technologies for removing pollutants emitted from power plants that are now available. There is also much ongoing research into technologies that will remove even more air pollutants.[4]
+See also[edit]
+Carbon capture and storage
+Emission standard
+Exhaust gas
+Flue-gas emissions from fossil-fuel combustion
+Flue gas stacks
+Integrated gasification combined cycle (often referred to as IGCC)
+Landfill gas
+References[edit]
+^ Fossil fuel combustion flue gases Milton R. Beychok, Encyclopedia of Earth, 2012.
+^ Sulfur C. Michael Hogan, Encyclopedia of Earth, 2011.
+^ Sleipner West
+^ Conventional coal-fired power plant Scroll down to the section entitled "Control of air pollutant emissions".
+v
+t
+e
+Biosolids, waste and waste management
+Major types
+Agricultural wastewater
+Biodegradable waste
+Brown waste
+Chemical waste
+Construction waste
+Demolition waste
+Electronic waste
+by country
+Food waste
+Green waste
+Hazardous waste
+Heat waste
+Industrial waste
+Litter
+Marine debris
+Biomedical waste
+Mining waste
+Municipal solid waste
+Open defecation
+Photodegradation
+Post-consumer waste
+Radioactive waste
+Sewage
+Toxic waste
+Wastewater
+Processes
+Anaerobic digestion
+Biodegradation
+Composting
+Garden waste dumping
+Illegal dumping
+Incineration
+Landfill
+Landfill mining
+Mechanical biological treatment
+Mechanical sorting
+Open dump
+Recycling
+Resource recovery
+Sewage treatment
+Waste collection
+Waste picking
+Waste sorting
+Waste trade
+Waste treatment
+Waste-to-energy
+Countries
+Armenia
+Bangladesh
+Brazil
+Hong Kong
+India
+New Zealand
+Russia
+Switzerland
+UK
+USA
+Agreements
+Bamako Convention
+Basel Convention
+EU directives
+batteries
+landfills
+RoHS
+framework
+incineration
+waste water
+WEEE
+London Convention
+Oslo Convention
+OSPAR Convention
+Other topics
+Blue Ribbon Commission on America's Nuclear Future
+Cleaner production
+Downcycling
+Eco-industrial park
+Extended producer responsibility
+High-level radioactive waste management
+History of waste management
+Landfill fire
+Sewage regulation and administration
+Upcycling
+Waste hierarchy
+Waste legislation
+Waste minimisation
+Zero waste
+Environment portal
+Category
+Commons
+Concepts
+Index
+Journals
+Lists
+Organizations
+Saved in parser cache with key enwiki:pcache:idhash:1976198-0!*!0!!*!4!* and timestamp 20161028151432 and revision id 746629196
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Flue_gas&oldid=746629196"
+Categories: Air pollutionCombustionEnvironmental engineeringIndustrial gases

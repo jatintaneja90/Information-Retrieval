@@ -1,0 +1,87 @@
+Intermediary
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article provides insufficient context for those unfamiliar with the subject. Please help improve the article with a good introductory style. (June 2016) (Learn how and when to remove this template message)
+The topic of this article may not meet Wikipedia's general notability guideline. Please help to establish notability by citing reliable secondary sources that are independent of the topic and provide significant coverage of it beyond its mere trivial mention. If notability cannot be established, the article is likely to be merged, redirected, or deleted.
+Find sources:"Intermediary"news newspapers books scholar JSTOR free images (June 2016) (Learn how and when to remove this template message)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2014) (Learn how and when to remove this template message)
+For the publishing house, see Intermediary (publisher).
+"Go-between" redirects here. For other uses, see Go-Between.
+An intermediary (or go-between) is a third party that offers intermediation services between two parties.
+Contents
+1 Diplomacy
+2 Law
+3 Trading
+4 Barter
+5 Types
+6 See also
+7 References
+Diplomacy[edit]
+In diplomacy and international relations, an intermediary may convey messages between principals in a dispute, allowing the avoidance of direct principal-to-principal contact.[1] Where the two parties are geographically distant, the process may be termed shuttle diplomacy.
+Law[edit]
+In law, intermediaries can facilitate communication between a vulnerable witness, defendant and court personnel to acquire valuable evidence and to ensure all parties have a fair trial.
+Trading[edit]
+The intermediary acts as a conduit for goods or services offered by a supplier to a consumer. Typically the intermediary offers some added value to the transaction that may not be possible by direct trading.
+Common usage includes the insurance, and financial services industry where e.g. mortgage brokers, insurance broker, and financial advisers offer intermediation services in the supply of financial products such as mortgage loans, insurance, and investment products.
+Barter[edit]
+In barter, the intermediary is a person or group who stores valuables in trade until they are needed, parties to the barter or others have space available to take delivery of them and store them, or until other conditions are met. In a larger sense, an intermediary can be a person or organization who or which facilitates a contract between two other parties.
+The Internet is creating a transparent awareness on the threats and opportunities available to automate intermediaries in many industries.
+Types[edit]
+Intermediaries can be classified as merchant intermediaries or as accountant intermediaries. Bailey and Bakos (1997) analyzed a number of case studies and identified four roles of electronic intermediaries including information aggregating, providing trust, facilitating and matching.[2][3]
+See also[edit]
+Disintermediation
+Innovation intermediary
+Internet intermediary
+Registered Intermediary
+Non-Registered Intermediary
+References[edit]
+^ 'intermediary' defined at dictionary.cambridge.org
+^ Bailey, J. P., & Bakos, J. Y. (1997). An Exploratory Study of the Emerging Role of Electronic Intermediariations and Policy, International Journal of Electronic Commerce, 1(3), pp.7-20.
+^ www.haas.berkeley.edu/Courses/Spring2000/BA269D/BaileyBakos99.pdf
+NewPP limit report
+Parsed by mw1246
+Cached time: 20161120032500
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.064 seconds
+Real time usage: 0.103 seconds
+Preprocessor visited node count: 363/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 17403/2097152 bytes
+Template argument size: 32/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 5/500
+Lua time usage: 0.032/10.000 seconds
+Lua memory usage: 1.75 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+86.641
+1 - -total
+59.89%
+51.889
+3 - Template:Ambox
+43.05%
+37.296
+1 - Template:Context
+30.29%
+26.246
+1 - Template:Notability
+23.17%
+20.072
+1 - Template:Find_sources_mainspace
+7.36%
+6.379
+1 - Template:Redirect
+7.18%
+6.219
+1 - Template:For
+5.93%
+5.134
+1 - Template:Refimprove
+3.57%
+3.093
+1 - Template:Reflist
+Saved in parser cache with key enwiki:pcache:idhash:633620-0!*!0!!en!4!* and timestamp 20161120032500 and revision id 743694359
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Intermediary&oldid=743694359"
+Categories: Supply chain managementHidden categories: Wikipedia articles needing context from June 2016All Wikipedia articles needing contextWikipedia introduction cleanup from June 2016All pages needing cleanupArticles with topics of unclear notability from June 2016All articles with topics of unclear notabilityArticles needing additional references from September 2014All articles needing additional references

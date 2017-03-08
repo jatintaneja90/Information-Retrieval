@@ -1,0 +1,725 @@
+Windfarm
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+The Gansu Wind Farm in China is the largest wind farm in the world, with a target capacity of 20,000MW by 2020.
+The Shepherds Flat Wind Farm is an 845MW wind farm in the U.S. state of Oregon.
+A wind farm is a group of wind turbines in the same location used to produce electricity. A large wind farm may consist of several hundred individual wind turbines and cover an extended area of hundreds of square miles, but the land between the turbines may be used for agricultural or other purposes. A wind farm can also be located offshore.
+Many of the largest operational onshore wind farms are located in Germany, China and the United States. For example, the largest wind farm in the world, Gansu Wind Farm in China has a capacity of over 6,000MW of power in 2012[1] with a goal of 20,000MW by 2020. The Alta Wind Energy Center in California, United States is the largest onshore wind farm outside of China, with a capacity of 1,020MW.[2] As of April 2013, the 630MW London Array in the UK is the largest offshore wind farm in the world, followed by the 504MW Greater Gabbard wind farm in the UK.
+There are many large wind farms under construction, including Fosen Vind (1000MW), Sinus Holding Wind Farm (700MW), Lincs Wind Farm (270MW), Lower Snake River Wind Project (343MW), Macarthur Wind Farm (420MW).
+Contents
+1 Design and location
+2 Onshore installations
+3 Offshore installations
+4 Experimental and proposed wind farms
+5 By region
+5.1 Australia
+5.2 Canada
+5.3 China
+5.4 European Union
+5.5 India
+5.6 Japan
+5.7 Jordan
+5.8 Morocco
+5.9 Pakistan
+5.10 The Philippines
+5.11 Sri Lanka
+5.12 South Africa
+5.13 United States
+6 Criticism
+6.1 Environmental impact
+6.2 Human health
+6.3 Effect on power grid
+6.4 Ground radar interference
+6.4.1 Effects
+6.4.2 Mitigation
+6.5 Radio reception interference
+6.6 Agriculture
+7 See also
+8 References
+9 Further reading
+10 External links
+Design and location[edit]
+Map of available wind power over the United States. Color codes indicate wind power density class
+As a general rule, economic wind generators require windspeed of 16km/h (10mph) or greater. An ideal location would have a near constant flow of non-turbulent wind throughout the year, with a minimum likelihood of sudden powerful bursts of wind. An important factor of turbine siting is also access to local demand or transmission capacity.
+Usually sites are screened on the basis of a wind atlas, and validated with wind measurements. Meteorological wind data alone is usually not sufficient for accurate siting of a large wind power project. Collection of site specific data for wind speed and direction is crucial to determining site potential[3][4] in order to finance the project.[5] Local winds are often monitored for a year or more, and detailed wind maps constructed before wind generators are installed.
+The wind blows faster at higher altitudes because of the reduced influence of drag. The increase in velocity with altitude is most dramatic near the surface and is affected by topography, surface roughness, and upwind obstacles such as trees or buildings. Typically, the increase of wind speeds with increasing height follows a wind profile power law, which predicts that wind speed rises proportionally to the seventh root of altitude. Doubling the altitude of a turbine, then, increases the expected wind speeds by 10%, and the expected power by 34%.
+In general, a distance of 7D (7  Rotor Diameter of the Wind Turbine) is set between each turbine in a fully developed wind farm,[6] but micrositing optimizes placement, particularly in hilly areas. Individual turbines are interconnected with a medium voltage (usually 34.5 kV) power collection system and communications network. At a substation, this medium-voltage electric current is increased in voltage with a transformer for connection to the high voltage transmission system. Construction of a land-based wind farm requires installation of the collector system and substation, and possibly access roads to each turbine site.
+First wind farm consisting of 7.5megawatt (MW) Enercon E-126 turbines (Estinnes, Belgium, 20 July 2010), two months before completion; note the 2-part blades.
+Onshore installations[edit]
+Part of the Biglow Canyon Wind Farm, Oregon, United States with a turbine under construction
+See also: List of onshore wind farms and Lists of wind farms by country
+The world's first wind farm was 0.6 MW, consisting of 20 wind turbines rated at 30 kilowatts each, installed on the shoulder of Crotched Mountain in southern New Hampshire in December 1980.[7][8]
+World's largest onshore wind farms
+Wind farm
+Current
+capacity
+(MW)
+Country
+Notes
+Gansu Wind Farm
+6,800
+China
+[1][9][10][11][12]
+Zhang Jiakou
+3,000
+China
+[9]
+Urat Zhongqi, Bayannur City
+2,100
+China
+[9]
+Hami Wind Farm
+2,000
+China
+[9]
+Damao Qi, Baotou City
+1,600
+China
+[9]
+Alta (Oak Creek-Mojave)
+1,320
+United States
+[2]
+Jaisalmer Wind Park
+1,064
+India
+[13]
+Hongshagang, Town, Minqin County
+1,000
+China
+[9]
+Kailu, Tongliao
+1,000
+China
+[9]
+Chengde
+1,000
+China
+[9]
+Buffalo Gap Wind Farm
+523.3
+United States
+[14][15]
+Capricorn Ridge Wind Farm
+662.5
+United States
+[14][15]
+Dabancheng Wind Farm
+500
+China
+[16]
+Fntnele-Cogealac Wind Farm
+600
+Romania
+[17]
+Fowler Ridge Wind Farm
+599.8
+United States
+[18]
+Horse Hollow Wind Energy Center
+735.5
+United States
+[14][15]
+Meadow Lake Wind Farm
+500
+United States
+[18]
+Panther Creek Wind Farm
+458
+United States
+[15]
+Roscoe Wind Farm
+781.5
+United States
+[19]
+Shepherds Flat Wind Farm
+845
+United States
+Sweetwater Wind Farm
+585.3
+United States
+[14]
+Whitelee Wind Farm
+539
+Scotland, U.K
+Onshore turbine installations in hilly or mountainous regions tend to be on ridgelines generally three kilometres or more inland from the nearest shoreline. This is done to exploit the topographic acceleration as the wind accelerates over a ridge. The additional wind speeds gained in this way can increase energy produced because more wind goes through the turbines. The exact position of each turbine matters, because a difference of 30m could potentially double output. This careful placement is referred to as 'micro-siting'.
+Offshore installations[edit]
+Offshore wind turbines near Copenhagen, Denmark.
+See also: Offshore wind power, List of offshore wind farms, and Lists of offshore wind farms by country
+Europe is the leader in offshore wind energy, with the first offshore wind farm (Vindeby) being installed in Denmark in 1991. As of 2010, there are 39 offshore wind farms in waters off Belgium, Denmark, Finland, Germany, Ireland, the Netherlands, Norway, Sweden and the United Kingdom, with a combined operating capacity of 2,396 MW. More than 100 GW (or 100,000 MW) of offshore projects are proposed or under development in Europe. The European Wind Energy Association has set a target of 40 GW installed by 2020 and 150 GW by 2030.[20]
+As of September 2013, The London Array in United Kingdom is the largest offshore wind farm in the world at 1,000 MW, followed by Greater Gabbard wind farm (504 MW) also in the UK.
+The world's 10 largest offshore wind farms
+Wind farm
+Capacity
+(MW)
+Country
+Turbines & model
+Commissioned
+Refs
+London Array
+630
+United Kingdom
+175  Siemens SWT-3.6
+2013
+[21]
+Greater Gabbard wind farm
+504
+United Kingdom
+140  Siemens SWT-3.6
+2012
+[22]
+Anholt
+400
+Denmark
+111  Siemens
+3.6-120
+2013
+[23][24][25][26]
+BARD Offshore 1
+400
+Germany
+80  BARD 5.0
+2013
+[27][28][29]
+Walney
+367
+United Kingdom
+102  Siemens SWT-3.6
+2012
+[30][31]
+Thorntonbank
+325
+Belgium
+6  5MW REpower
+and 48  6.15MW REpower
+2013
+[32][33]
+Sheringham Shoal
+315
+United Kingdom
+88  Siemens
+3.6-107
+2012
+[34][35][36][37]
+Thanet
+300
+United Kingdom
+100  Vestas V90-3MW
+2010
+[38][39]
+Lincs
+270
+United Kingdom
+75  3.6MW
+2013
+[40]
+Horns Rev II
+209
+Denmark
+91  Siemens 2.393
+2009
+[41]
+Offshore wind turbines are less obtrusive than turbines on land, as their apparent size and noise is mitigated by distance. Because water has less surface roughness than land (especially deeper water), the average wind speed is usually considerably higher over open water. Capacity factors (utilisation rates) are considerably higher than for onshore locations.[42]
+The province of Ontario in Canada is pursuing several proposed locations in the Great Lakes, including the suspended[43] Trillium Power Wind 1 approximately 20km from shore and over 400 MW in size.[44] Other Canadian projects include one on the Pacific west coast.[45]
+As of 2010, there are no offshore wind farms in the United States. However, projects are under development in wind-rich areas of the East Coast, Great Lakes, and Pacific coast;[20] the Block Island Wind Farm is scheduled for 2016.[46]
+Installation and service / maintenance of off-shore wind farms are a specific challenge for technology and economic operation of a wind farm. As of 2015[update], there are 20 jackup vessels for lifting components, but few can lift sizes above 5MW.[47] Service vessels have to be operated nearly 24/7 (availability higher than 80% of time) to get sufficient amortisation from the wind turbines.[citation needed] Therefore, special fast service vehicles for installation (like Wind Turbine Shuttle) as well as for maintenance (including heave compensation and heave compensated working platforms to allow the service staff to enter the wind turbine also at difficult weather conditions) are required. So-called inertial and optical based Ship Stabilization and Motion Control systems (iSSMC) are used for that.
+Experimental and proposed wind farms[edit]
+There exist also some wind farms which were mainly built for testing wind turbines. In such wind farms, there is usually from each type to be tested only a single wind turbine. Such farms have usually at least one meteorological tower. An example of an experimental wind farm is sterild Wind Turbine Test Field.
+For some time, airborne wind farms have been discussed.[48] An airborne wind farm is a group of airborne wind energy systems near to each other, connected to the grid in the same point.
+By region[edit]
+Australia[edit]
+The Australian Canunda Wind Farm, South Australia at sunrise
+Main article: List of wind farms in Australia
+Large operational wind farms in Australia: September 2012[49][50][51][52]
+Wind farm
+Installed
+capacity
+(MW)
+Developer
+State
+Collgar Wind Farm
+206
+UBS Investment Bank &
+Retail Employees Superannuation Trust
+Western Australia
+Capital Wind Farm
+140.7
+Infigen Energy
+New South Wales
+Hallett Group
+298
+AGL Energy
+South Australia
+Lake Bonney Wind Farm
+278
+Infigen Energy
+South Australia
+Portland Group
+132
+Victoria
+Waubra Wind Farm
+192
+Acciona Energy &
+ANZ Infrastructure Services
+Victoria
+Woolnorth Wind Farm
+140
+Roaring 40s & Hydro Tasmania
+Tasmania
+Canada[edit]
+Main article: List of wind farms in Canada
+The Pubnico Wind Farm taken from Beach Point, Lower East Pubnico, Nova Scotia
+Large wind farms in Canada[53]
+Name
+Capacity (MW)
+Location
+Province
+Anse--Valleau Wind Farm
+100
+Gasp
+Quebec
+Caribou Wind Park
+99
+70km west of Bathurst
+New Brunswick
+Bear Mountain Wind Park
+120
+Dawson Creek
+British Columbia
+Centennial Wind Power Facility
+150
+Swift Current
+Saskatchewan
+Enbridge Ontario Wind Farm
+181
+Kincardine
+Ontario
+Erie Shores Wind Farm
+99
+Port Burwell
+Ontario
+Jardin d'Eole Wind Farm
+127
+Saint-Ulric
+Quebec
+Kent Hills Wind Farm
+96
+Riverside-Albert
+New Brunswick
+Melancthon EcoPower Centre
+199
+Melancthon
+Ontario
+Port Alma Wind Farm
+101
+Chatham-Kent
+Ontario
+Chatham Wind Farm
+101
+Chatham-Kent
+Ontario
+Prince Township Wind Farm
+189
+Sault Ste. Marie
+Ontario
+St. Joseph Wind Farm
+138
+Montcalm
+Manitoba
+St. Leon Wind Farm
+99
+St. Leon
+Manitoba
+Wolfe Island Wind Project
+197
+Frontenac Islands
+Ontario
+China[edit]
+Wind farm in Xinjiang, China
+Main article: Wind power in China
+In just five years, China leapfrogged the rest of the world in wind energy production, going from 2,599 MW of capacity in 2006 to 62,733 MW at the end of 2011.[54][55][56] However, the rapid growth outpaced China's infrastructure and new construction slowed significantly in 2012.[57]
+At the end of 2009, wind power in China accounted for 25.1gigawatts (GW) of electricity generating capacity,[58] and China has identified wind power as a key growth component of the country's economy.[59] With its large land mass and long coastline, China has exceptional wind resources.[60] Researchers from Harvard and Tsinghua University have found that China could meet all of their electricity demands from wind power by 2030.[61]
+By the end of 2008, at least 15 Chinese companies were commercially producing wind turbines and several dozen more were producing components.[62] Turbine sizes of 1.5MW to 3MW became common. Leading wind power companies in China were Goldwind, Dongfang Electric, and Sinovel[63] along with most major foreign wind turbine manufacturers.[64] China also increased production of small-scale wind turbines to about 80,000 turbines (80MW) in 2008. Through all these developments, the Chinese wind industry appeared unaffected by the global financial crisis, according to industry observers.[63]
+According to the Global Wind Energy Council, the development of wind energy in China, in terms of scale and rhythm, is absolutely unparalleled in the world. The National People's Congress permanent committee passed a law that requires the Chinese energy companies to purchase all the electricity produced by the renewable energy sector.[65]
+European Union[edit]
+This article needs to be updated. Please update this article to reflect recent events or newly available information. (June 2012)
+A wind farm in a mountainous area in Galicia, Spain
+Wind farm in Lower Saxony, Germany
+Main article: Wind power in the European Union
+The European Union has a total installed wind capacity of 93,957 MW. Germany has the third largest capacity in the world (after China and the United States) with an installed capacity was 29,060 MW at the end of 2011, and Spain has 21,674 MW. Italy and France each had between 6,000 and 7,000 MW.[66][67] By January 2014, the UK installed capacity was 10,495 MW.[68] But energy production can be different from capacity  in 2010, Spain had the highest European wind power production with 43 TWh compared to Germany's 35 TWh.[69]
+Europe's largest windfarm is the 'London Array', an off-shore wind farm in the Thames Estuary in the United Kingdom, with a current capacity of 630 MW (and thus the world's largest off-shore wind farm). Other large wind farms in Europe include Fntnele-Cogealac Wind Farm near Constana, Romania with 600 MW capacity,[70][71] and Whitelee Wind Farm near Glasgow, Scotland which has a total capacity of 539 MW.
+An important limiting factor of wind power is variable power generated by wind farms. In most locations the wind blows only part of the time, which means that there has to be back-up capacity of conventional generating capacity to cover periods that the wind is not blowing. To address this issue it has been proposed to create a "supergrid" to connect national grids together[72] across western Europe, ranging from Denmark across the southern North Sea to England and the Celtic Sea to Ireland, and further south to France and Spain especially in Higueruela which was considered for some time the biggest wind farm in the world.[73] The idea is that by the time a low pressure area has moved away from Denmark to the Baltic Sea the next low appears off the coast of Ireland. Therefore, while it is true that the wind is not blowing everywhere all of the time, it will always be blowing somewhere.
+India[edit]
+Progress in India's installed wind power generating capacity since 2006
+Main article: Wind power in India
+India has the fifth largest installed wind power capacity in the world.[74] As of 31 March 2014, the installed capacity of wind power was 21136.3 MW mainly spread across Tamil Nadu state (7253 MW).[75][76] Wind power accounts nearly 8.5% of India's total installed power generation capacity, and it generates 1.6% of the country's power.
+Japan[edit]
+Main article: Wind power in Japan
+Jordan[edit]
+The Tafila Wind Farm in Jordan, is the first large scale wind farm in the region.
+The 117 MW Tafila Wind Farm in Jordan was inaugurated in December 2015, and is the first large scale wind farm project in the region.[77]
+Morocco[edit]
+Morocco has undertaken a vast wind energy program, to support the development of renewable energy and energy efficiency in the country. The Moroccan Integrated Wind Energy Project, spanning over a period of 10 years with a total investment estimated at $3.25 billion, will enable the country to bring the installed capacity, from wind energy, from 280 MW in 2010 to 2000 MW in 2020.[78][79]
+Pakistan[edit]
+Jhimpir Wind Farm
+Pakistan has wind corridors in Jhimpir, Gharo and Keti Bundar in Sindh province and is currently developing wind power plants in Jhimpir and Mirpur Sakro (District Thatta). The government of Pakistan decided to develop wind power energy sources due to problems supplying energy to the southern coastal regions of Sindh and Balochistan. The Zorlu Energy Putin Power Plant is the first wind power plant in Pakistan. The wind farm is being developed in Jhimpir, by Zorlu Energy Pakistan the local subsidiary of a Turkish company. The total cost of project is $136 million.[3] Completed in 2012, it has a total capacity of around 56MW. Fauji Fertilizer Company Energy Limited, has build a 49.5 MW wind Energy Farm at Jhimpir. Contract of supply of mechanical design was awarded to Nordex and Descon Engineering Limited. Nordex a German wind turbine manufacturer. In the end of 2011 49.6 MW will be completed.Pakistani Govt. also has issued LOI of 100 MW Wind power plant to FFCEL. Pakistani Govt. has plans to achieve electric power up to 2500 MW by the end of 2015 from wind energy to bring down energy shortage.
+Currently four wind farms are operational (Fauji Fertilizer 49.5 MW (subsidiary of Fauji Foundation), Three Gorges 49.5 MW, Zorlu Energy Pakistan 56 MW, Sapphire Wind Power Co Ltd 52.6 MW) and six are under construction phase ( Master Wind Energy Ltd 52.6 MW, Sachal Energy Development Ltd 49.5 MW, Yunus Energy Ltd 49.5 MW, Gul Energy 49.5 MW, Metro Energy 49.5 MW, Tapal Energy ) and expected to achieve COD in 2017.
+In Gharo wind corridor, two wind farms (Foundation Energy 1 & II each 49.5 MW) are operational while two wind farms Tenaga Generasi Ltd 49.5 MW and HydroChina Dawood Power Pvt Ltd 49.5 are under construction and expected to achieve COD in 2017.
+According to a USAID report, Pakistan has the potential of producing 150,000 megawatts of wind energy, of which only the Sindh corridor can produce 40,000 megawatts.
+The Philippines[edit]
+Philippines has the first windfarm in Southeast Asia. Located Northern part of the countries' biggest island Luzon, alongside the seashore of Municipality of Bangui, Province of Ilocos Norte.
+The wind farm uses 20 units of 70-metre (230ft) high Vestas V82 1.65 MW wind turbines, arranged on a single row stretching along a nine-kilometer shoreline off Bangui Bay, facing the West Philippine Sea.
+Phase I of the NorthWind power project in Bangui Bay consists of 15 wind turbines, each capable of producing electricity up to a maximum capacity of 1.65 MW, for a total of 24.75 MW. The 15 on-shore turbines are spaced 326 metres (1,070ft) apart, each 70 metres (230ft) high, with 41 metres (135ft) long blades, with a rotor diameter of 82 metres (269ft) and a wind swept area of 5,281 square metres (56,840 sq ft).
+Phase II, was completed on August 2008, and added 5 more wind turbines with the same capacity, and brought the total capacity to 33 MW. All 20 turbines describes a graceful arc reflecting the shoreline of Bangui Bay, facing the West Philippine Sea.
+Sri Lanka[edit]
+Sri Lanka has received funding from the Asian Development Bank amounting to $300 million to invest in renewable energies. From this funding as well as $80 million from the Sri Lankan Government and $60 million from Frances Agence Franaise de Dveloppement, Sri Lanka is building two 100MW wind farms from 2017 due to be completed by late 2020 in Northern Sri Lanka.[80]
+South Africa[edit]
+Turbines at the Gouda Wind Facility just outside the town of Gouda, South Africa.
+Main article: List of power stations in South Africa
+This article needs to be updated. Please update this article to reflect recent events or newly available information. (May 2014)
+As of September 2015 a number of sizable wind farms have been constructed in South Africa mostly in the Western Cape region. These include the 100 MW Sere Wind Farm and the 138 MW Gouda Wind Facility.
+Most future wind farms in South Africa are earmarked for locations along the Eastern Cape coastline.[81][82][83] Eskom has constructed one small scale prototype windfarm at Klipheuwel in the Western Cape and another demonstrator site is near Darling with phase 1 completed. The first commercial wind farm, Coega Wind Farm in Port Elisabeth, was developed by the Belgian company Electrawinds.
+Power plant
+Province
+Date
+commissioned
+Installed Capacity
+(Megawatt)
+Status
+Coordinates
+Notes
+Coega Wind Farm
+Eastern Cape
+2010
+1.8 (45)
+Operational
+334516S 254030E / 33.75444S 25.67500E / -33.75444; 25.67500 (Coega Wind Farm)
+[84][85]
+Darling Wind Farm
+Western Cape
+2008
+5.2 (13.2)
+Operational
+331955S 181438E / 33.33195S 18.24378E / -33.33195; 18.24378 (Darling Wind Farm)
+[86][87]
+Klipheuwel Wind Farm(af)
+Western Cape
+2002
+3.16
+Operational (Prototype/Research)
+334143S 184330E / 33.69539S 18.72512E / -33.69539; 18.72512 (Klipheuwel Wind Farm)
+[86][88][89]
+Sere Wind Farm
+Western Cape
+2014
+100
+Operational
+3132S 1817E / 31.53S 18.29E / -31.53; 18.29 (Koekenaap facility)
+[90]
+Gouda Wind Facility
+Western Cape
+2015
+138
+Operational
+3317S 1903E / 33.29S 19.05E / -33.29; 19.05 (Koekenaap facility)
+[91][92]
+United States[edit]
+Brazos Wind Farm in the plains of West Texas
+Main article: List of wind farms in the United States
+U.S. wind power installed capacity in 2012 exceeded 51,630 MW and supplies 3% of the nation's electricity.[93][94]
+New installations place the U.S. on a trajectory to generate 20% of the nations electricity by 2030 from wind energy.[95] Growth in 2008 channeled some $17billion into the economy, positioning wind power as one of the leading sources of new power generation in the country, along with natural gas. Wind projects completed in 2008 accounted for about 42% of the entire new power-producing capacity added in the U.S. during the year.[96]
+At the end of 2008, about 85,000 people were employed in the U.S. wind industry,[97] and GE Energy was the largest domestic wind turbine manufacturer.[98] Wind projects boosted local tax bases and revitalized the economy of rural communities by providing a steady income stream to farmers with wind turbines on their land.[98] Wind power in the U.S. provides enough electricity to power the equivalent of nearly 9 million homes, avoiding the emissions of 57 million tons of carbon each year and reducing expected carbon emissions from the electricity sector by 2.5%.[96]
+Texas, with 10,929MW of capacity, has the most installed wind power capacity of any U.S. state, followed by California with 4,570MW and Iowa with 4,536MW.[94] The Alta Wind Energy Center (1,020MW) in California is the nation's largest wind farm in terms of capacity.[2] Altamont Pass Wind Farm is the largest wind farm in the U.S. in terms of the number of individual turbines.[99]
+Criticism[edit]
+Public perception is that renewable energies such as wind, solar, biomass and geothermal are having a significant positive impact on global warming.[100] All of these sources combined only supplied 1.3% of global energy in 2013 as 8 billion tonnes of coal was burned annually.[101]
+One of the biggest factors inhibiting wind farm construction is human opposition. A study has shown[102] "turbine placement close to residents may heighten their uncertainty and concern of the wind turbines and overshadow any positive inclinations towards the development."
+Wind farm development is affected by the emphasis being primarily placed on the domain of landscape assessment and environmental impact when seeking farm sites. The viability and efficiency of the wind farm are barely touched upon, instead falling to the developer. For example, Sturge et al.[103] of the University of Sheffield wrote that in many countries where wind energy is becoming popular, engineering aspects, specifically energy yield are not being taken into consideration, either by the public or in the process of planning consent for wind farm development. As energy is the main purpose of wind farms, a lack of attention given to the subject could be detrimental to the general acceptance of wind farms.
+Environmental impact[edit]
+Main article: Environmental impact of wind power
+Livestock ignore wind turbines,[104] and continue to graze as they did before wind turbines were installed.
+Compared to the environmental impact of traditional energy sources, the environmental impact of wind power is relatively minor.[105] Wind power consumes no fuel, and emits no air pollution, unlike fossil fuel power sources. The energy consumed to manufacture and transport the materials used to build a wind power plant is equal to the new energy produced by the plant within a few months.[105] While a wind farm may cover a large area of land, many land uses such as agriculture are compatible, with only small areas of turbine foundations and infrastructure made unavailable for use.[106]
+There are reports of bird and bat mortality at wind turbines as there are around other artificial structures. The scale of the ecological impact may[107] or may not be significant,[108] depending on specific circumstances. The estimated number of bird deaths caused by wind turbines is between 140,000 and 328,000, whereas deaths caused by domestic cats are estimated to be between 1.3 and 4.0 billion birds each year and over 100 million birds are killed each year by impact with windows.[108] Prevention and mitigation of wildlife fatalities, and protection of peat bogs, affect the siting and operation of wind turbines.[109]
+Human health[edit]
+See also: Health effects from noise
+There have been multiple scientific, peer-reviewed studies into wind farm noise, which have concluded that infrasound from wind farms is not a hazard to human health and there is no verifiable evidence for 'Wind Turbine Syndrome', although some suggest further research might still be useful.[110]
+A 2007 report by the U.S. National Research Council noted that noise produced by wind turbines is generally not a major concern for humans beyond a half-mile or so. Low-frequency vibration and its effects on humans are not well understood and sensitivity to such vibration resulting from wind-turbine noise is highly variable among humans.[citation needed] There are opposing views on this subject, and more research needs to be done on the effects of low-frequency noise on humans.[111]
+In a 2009 report about "Rural Wind Farms", a Standing Committee of the Parliament of New South Wales, Australia, recommended a minimum setback of two kilometres between wind turbines and neighbouring houses (which can be waived by the affected neighbour) as a precautionary approach.[112]
+A 2014 paper suggests that the 'Wind Turbine Syndrome' is mainly caused by the nocebo effect and other psychological mechanisms.[108][113]
+Effect on power grid[edit]
+See also: Wind power Electricity generation
+Utility-scale wind farms must have access to transmission lines to transport energy. The wind farm developer may be obliged to install extra equipment or control systems in the wind farm to meet the technical standards set by the operator of a transmission line.[114] The company or person that develops the wind farm can then sell the power on the grid through the transmission lines and ultimately chooses whether to hold on to the rights or sell the farm or parts of it to big business like GE, for example.[citation needed]
+Ground radar interference[edit]
+Wind farm interference (in yellow circle) on radar map
+Wind farms can interfere with ground radar systems used for military, weather and air traffic control. The large, rapidly moving blades of the turbines can return signals to the radar that can be mistaken as an aircraft or weather pattern.[115] Actual aircraft and weather patterns around wind farms can be accurately detected, as there is no fundamental physical constraint preventing that. But aging radar infrastructure is significantly challenged with the task.[116][117] The US military is using wind turbines on some bases, including Barstow near the radar test facility.[118][119]
+Effects[edit]
+The level of interference is a function of the signal processors used within the radar, the speed of the aircraft and the relative orientation of wind turbines/aircraft with respect to the radar. An aircraft flying above the wind farm's turning blades could become impossible to detect because the blade tips can be moving at nearly aircraft velocity. Studies are currently being performed to determine the level of this interference and will be used in future site planning.[120] Issues include masking (shadowing), clutter (noise), and signal alteration.[121] Radar issues have stalled as much as 10,000 MW of projects in USA.[122]
+Some very long range radars are not affected by wind farms.[123]
+Mitigation[edit]
+Permanent problem solving include a non-initiation window to hide the turbines while still tracking aircraft over the wind farm, and a similar method mitigates the false returns.[124] England's Newcastle Airport is using a short-term mitigation; to "blank" the turbines on the radar map with a software patch.[125] Wind turbine blades using stealth technology are being developed to mitigate radar reflection problems for aviation.[126][127][128][129] As well as stealth windfarms, the future development of infill radar systems could filter out the turbine interference.
+In early 2011, the U.S. government awarded a program to build a radar/wind turbine analysis tool. This tool will allow developers to predict the impact of a wind farm on a radar system before construction, thus allowing rearrangement of the turbines or even the entire wind farm to avoid negative impacts on the radar system.[120][130]
+A mobile radar system, the Lockheed Martin TPS-77, has shown in recent tests that it can distinguish between aircraft and wind turbines, and more than 170 TPS-77 radars are in use around the world. In Britain, the Lockheed Martin TPS-77 system was to be installed at Trimingham in Norfolk to remove military objections to a series of offshore wind farms in the North Sea. A second TPS-77 was to be installed in the Scottish Borders, overcoming objections to a 48-turbine wind farm at Fallago.[131]
+Radio reception interference[edit]
+There are also reports of negative effects on radio and television reception in wind farm communities. Potential solutions include predictive interference modeling as a component of site selection.[132][133][134]
+Agriculture[edit]
+A 2010 study found that in the immediate vicinity of wind farms, the climate is cooler during the day and slightly warmer during the night than the surrounding areas due to the turbulence generated by the blades.[135]
+In another study an analysis carried out on corn and soybean crops in the central areas of the United States noted that the microclimate generated by wind turbines improves crops as it prevents the late spring and early autumn frosts, and also reduces the action of pathogenic fungi that grow on the leaves. Even at the height of summer heat, the lowering of 2.53 degrees above the crops due to turbulence caused by the blades, can make a difference for the cultivation of corn.[136]
+See also[edit]
+Renewable energy portal
+Sustainable development portal
+Renewable energy commercialisation
+Sea breeze
+Sustainable energy
+Wave farm
+References[edit]
+^ a b Watts, Jonathan & Huang, Cecily. Winds Of Change Blow Through China As Spending On Renewable Energy Soars, The Guardian, 19 March 2012, revised on 20 March 2012. Retrieved 4 January 2012.
+^ a b c Terra-Gen Press Release, 17 April 2012
+^ Wind energy-- the facts: a guide to the technology, economics and future of wind power page 32 EWEA 2009. Retrieved 13 March 2011.
+^ "WINData LLC - Wind energy engineering since 1991". WINData LLC. Retrieved 28 May 2015.
+^ IEC61400-1 site assessment
+^ Meyers, Johan; Meneveau, Charles (2012-03-01). "Optimal turbine spacing in fully developed wind farm boundary layers". Wind Energy. 15 (2): 305317. doi:10.1002/we.469. ISSN1099-1824.
+^ "Historic Wind Development in New England: The Age of PURPA Spawns the "Wind Farm"". U.S. Department of Energy. 9 October 2008. Retrieved 24 April 2010.
+^ "Wind Energy Center Alumni and the Early Wind Industry". University of Massachusetts Amherst. 2010. Retrieved 24 April 2010.
+^ a b c d e f g h "2014 China Wind Power Review and Outlook" (PDF). GWEC. Retrieved 2015-11-12.
+^ United Nations Framework Convention on Climate Change. "CDM: Gansu Guazhou 300 MW Wind Power Project". Retrieved 28 May 2015.
+^ "Jiuquan wind power base completes first stage". China Daily. Retrieved 2 March 2014.
+^ "Winds of change blow through China as spending on renewable energy soars". The Guardian. Guardian News and Media Limited. Retrieved 2 March 2014.
+^ BS Reporter (11 May 2012). "Suzlon creates country's largest wind park". Retrieved 28 May 2015.
+^ a b c d "Drilling Down: What Projects Made 2008 Such a Banner Year for Wind Power?". Retrieved 28 May 2015.
+^ a b c d AWEA: U.S. Wind Energy Projects  Texas
+^ "China  Dabancheng Wind Farm now has a combined generating capacity of 500 MW". Retrieved 28 May 2015.
+^ FG Forrest; a. s.; fg {zavin } fg {teka} cz - Content Management System - Edee CMS; SYMBIO Digital, s. r. o. - Webdesign. "CEZ Group - The Largest Wind Farm in Europe Goes Into Trial Operation". Retrieved 28 May 2015. CS1 maint: Multiple names: authors list (link)
+^ a b AWEA: U.S. Wind Energy Projects  Indiana
+^ "Renewable Energy News".
+^ a b Environmental and Energy Study Institute (October 2010). "Offshore Wind Energy" (PDF).
+^ "London Array comes online".
+^ "Greater Gabbard Offshore Wind Project, United Kingdom".
+^ "VIPs cut ribbon at 400MW Anholt" Recharge News, 4 September 2013. Accessed: 4 September 2013.
+^ Jan Bjerre Lauridsen & Sren Andersen. "Queen says Good Wind to giant turbines" Berlingske, 4 September 2013. Accessed: 4 September 2013.
+^ "All turbines at Anholt Offshore wind farm now operational" (Press release). DONG Energy. 20 June 2013. Retrieved 27 August 2013.
+^ Anholf Offshore wind farm in 4C Offshore Retrieved 2013-08-27
+^ "BARD 1 (4c)". Retrieved 28 May 2015.
+^ Rsler erffnet Offshore-Windpark Bard 1 Retrieved 2013-08-26
+^ German Federal Minister Inaugurates BARD Offshore 1 Retrieved 2013-08-26
+^ "Walney". 4COffshore. 9 February 2012. Retrieved 9 February 2012.
+^ "World's biggest offshore wind farm opens off Britain as new minister admits high cost". The Telegraph. 9 February 2012. Retrieved 9 February 2012.
+^ "C-Power". C-power. 9 July 2013. Retrieved 9 July 2013.
+^ "Last turbine in at Thornton Bank". Rechargenews. 4 July 2013. Retrieved 2013-07-09.
+^ "SWT-3.6-107 Wind Turbine". Siemens. Retrieved 2009-07-19.
+^ "Sheringham Shoal Offshore Wind Farm" (PDF). StatoilHydro. Retrieved 2009-07-19.
+^ Trickyweb. "Sheringham Shoal Operated by Statkraft". Retrieved 28 May 2015.
+^ "Norway's Crown Prince Opens Sheringham Shoal Offshore Wind Farm (UK)". Offshore Wind. Retrieved 28 May 2015.
+^ "Thanet". The Engineer Online. 25 July 2008. Retrieved 26 November 2008.
+^ "Thanet offshore wind farm starts electricity production". BBC News. 23 September 2010. Retrieved 2010-09-23.
+^ "Lincs Wind Farm Now Fully Operational". Retrieved 2013-08-27.
+^ Horns Rev II turbines
+^ Garvine, Richard; Kempton, Willett (2008). "Assessing the wind eld over the continental shelf as a resource for electric power" (PDF). Journal of Marine Research. 66 (6): 751773. doi:10.1357/002224008788064540. ISSN0022-2402. Retrieved 30 November 2009.
+^ Offshore wind development hits a snag in Ontario Alberta Oil Magazine, April 2011. Retrieved 29 September 2011.
+^ Hamilton, Tyler (15 January 2008). "Ontario to approve Great Lakes wind power". The Star. Toronto. Retrieved 2 May 2008.
+^ "Naikun Wind Development, Inc.". Retrieved 21 May 2008.
+^ "America Is Finally Getting Its First Offshore Wind Farm. Conservatives Are Trying to Make Sure It's the Last.". New Republic. 14 May 2015. Retrieved 15 May 2015.
+^ Jannicke Nilsen. "Slik utstyres de norske skipene for  takle nye gigant-vindmller". Tu.no.
+^ AWES Farm Density Airborne Wind Energy Labs, March 2014. Retrieved 20 March 2014.
+^ "Collgar Wind Farm". Collgar Wind Farm. Retrieved 28 May 2015.
+^ Australian Energy Market Operator Limited (2010). South Australian Supply Demand Outlook p. 35.
+^ Parliament of Australia (19 February 2010). Operating wind farms by Commonwealth Electoral Division Background note.
+^ New, Robert (November 2010). Electricity generation Major development projects  October 2010 listing Australian Bureau of Agricultural and Resource Economics, p. 8.
+^ Canadian Wind Energy Association (2010). "Map of Installations". Retrieved 17 September 2010
+^ "ABOUT - GWEC". Retrieved 28 May 2015.
+^ Release of global wind statistics: Wind Energy Powers Ahead Despite Economic Turmoil , Global Wind Energy Council
+^ GWEC Global Wind Statistics 2011
+^ Turbine makers take a breather, China Daily, 12 April 2012
+^ Lars Kroldrup. Gains in Global Wind Capacity Reported Green Inc., 15 February 2010.
+^ Gow, David (3 February 2009). "Wind power becomes Europe's fastest growing energy source". London: Guardian. Retrieved 31 January 2010.
+^ Oceans of Opportunity: Harnessing Europes largest domestic energy resource pp. 1819.
+^ "China Could Replace Coal with Wind". Ecogeek.org. Retrieved 31 January 2010.
+^ "Caprotti Federico (2009) China's Cleantech Landscape: The Renewable Energy Technology Paradox ''Sustainable Development Law & Policy '' Spring 2009: 610" (PDF). Retrieved 31 January 2010.
+^ a b REN21 (2009). Renewables Global Status Report: 2009 Update p.16.
+^ Adrian Lema and K. Ruby, "Towards a policy model for climate change mitigation: China's experience with wind power development and lessons for developing countries", Energy for Sustainable Development, Vol. 10, Issue 4.
+^ "CN: China ranks third in worldwide wind energy  Alternative energy news". Instalbiz.com. 4 January 2010. Retrieved 31 January 2010.
+^ "Wind in power 2011 European statistics" p4. European Wind Energy Association February 2012. Retrieved 17 June 2012.
+^ "GLOBAL WIND 2009 REPORT" (PDF). Global Wind energy council. March 2010. Retrieved 9 January 2011.
+^ Tim Yates. "RenewableUK - UK Wind Energy Database (UKWED)". Retrieved 28 May 2015.
+^ "Spain becomes the first European wind energy producer after overcoming Germany for the first time". Eolic Energy News. 31 December 2010. Retrieved 14 May 2011.
+^ "Fantanele-Cogealac Wind Park". October 2011. Retrieved 14 October 2011.
+^ "EZ says its wind farm in Romania is the biggest in Europe". Prague Daily Monitor. 12 October 2012. Retrieved 12 October 2012.
+^ "A Supergrid for Europe". MIT Technology Review. Retrieved 28 May 2015.
+^ Renewable energy (PDF), p. 11.
+^ "Wind atlas of India". Retrieved 2014-08-28.
+^ "Indian Wind Energy and Economy". Indianwindpower.com. Retrieved 2013-08-06.
+^ Ministry of New and Renewable Energy - Achievements. Mnre.gov.in (2013-10-31). Retrieved on 2013-12-06.
+^ "Jordan News Agency (Petra) |King inaugurates Tafila Wind Farm Project". petra.gov.jo. Retrieved 2016-11-14.
+^ "Invest in Morocco - Wind Energy". www.invest.gov.ma. Retrieved 2016-06-19.
+^ "Energie Eolienne". www.mem.gov.ma. Retrieved 2016-06-19.
+^ "ADB grants $ 300 m to boost renewable energy". Retrieved 28 May 2015.
+^ "Electrawinds". Coega Development Corporation. Retrieved 6 January 2010.
+^ Swanepoel, Esmarie (11 September 2009). "Belgium company plans R1,2bn Eastern Cape wind farm". engineeringnews.co.za. Retrieved 6 January 2010.
+^ "15-megawatt wind farm planned for Kouga". Cacadu District Municipality. Retrieved 6 January 2010.
+^ "Electrawinds launches 1st wind turbine at Coega". MSN. Retrieved 13 May 2010.
+^ "Development of a 57.5MW Wind Energy Project". Public Process Consultants. Retrieved 9 October 2010.
+^ a b "Wind energy". dme.gov.za. Retrieved 11 January 2010.
+^ "Minister switches on the Darling Wind Farm". CEF. 2008-05-23. Retrieved 21 April 2010.
+^ "KLIPHEUWEL WINDFARM". Eskom. Retrieved 11 January 2010.
+^ "Klipheuwel shows the way in renewable energy". engineeringnews.co.za. 23 April 2004. Retrieved 11 January 2010.
+^ "SA to get third wind farm". South Africa: The Good News. 2009-03-29. Retrieved 21 April 2010.
+^ Gosling, Melanie (9 September 2015). "Another wind farm joins the grid". Cape Times. Retrieved 12 September 2015.
+^ "Acciona leads commercial operation of Gouda wind farm". Cape Business News. 8 September 2015. Retrieved 12 September 2015.
+^ "Q3 Report: American Wind Energy Third Quarter Market Report" (PDF). AWEA. 17 October 2012.
+^ a b 2012 AWEA Third Quarter 2012 Market Report
+^ http://www.awea.org/publications/reports/4Q09.pdf
+^ a b U.S. Wind Energy Industry Installs over 1,600 MW in Third Quarter
+^ American Wind Energy Association (2009). Annual Wind Industry Report, Year Ending 2008 p.17.
+^ a b American Wind Energy Association (2009). Annual Wind Industry Report, Year Ending 2008 pp. 910.
+^ Encyclopedia of Earth Altamont Pass, California
+^ "Nine out of 10 people want more renewable energy". the Guardian.
+^ http://www.ren21.net/wp-content/uploads/2015/06/REN12-GSR2015_Onlinebook_low1.pdf page 27
+^ Groth, Theresa M., and Christine A. Vogt. "Rural wind farm development: Social, environmental and economic features important to local residents." Renewable Energy 63.2014 (2013): 1-8. ScienceDirect. Web. 9 February 2014.
+^ Sturge, D., A. While, and R. Howell. "Engineering and energy yield: The missing dimension of wind turbine assessment." Energy Policy 65.2014 (2013): 245-50. ScienceDirect. Web. 9 Feb. 2014.
+^ Buller, Erin (11 July 2008). "Capturing the wind". Uinta County Herald. Retrieved 4 December 2008."The animals dont care at all. We find cows and antelope napping in the shade of the turbines."  Mike Cadieux, site manager, Wyoming Wind Farm
+^ a b Begoa Guezuraga, Rudolf Zauner, Werner Plz, Life cycle assessment of two different 2 MW class wind turbines, Renewable Energy 37 (2012) 37-44, p 37. doi:10.1016/j.renene.2011.05.008
+^ Why Australia needs wind power
+^ Eilperin, Juliet; Steven Mufson (16 April 2009). "Renewable Energy's Environmental Paradox". The Washington Post. Retrieved 17 April 2009.
+^ a b c Novella, Steven (2016-03-07). "Wind Turbine Controversy". Neurologica Blog. Retrieved 2016-07-25.
+^ Cappiello, Dina. "US wind farms get pass on eagle deaths". Associated Press, 14 May 2013.
+^ 'Wind Energy - The Facts', p. 1.
+^ Committee on Environmental Impacts of Wind Energy Projects, National Research Council (2007). Environmental Impacts of Wind-Energy Projects, p. 158-9.
+^ General Purpose Standing Committee No. 5, Parliament of New South Wales (16 December 2009). "Final Report, Rural Wind Farms".
+^ Rubin, GJ; Burns, M; Wessely, S (2014-05-07). "Possible psychological mechanisms for "wind turbine syndrome". On the windmills of your mind.". Noise & Health. 16 (69): 116122. doi:10.4103/1463-1741.132099. PMID24804716.
+^ "BUFFALO GAP WIND FARM, L.L.C., BUFFALO GAP WIND FARM 2, L.L.C., AND BUFFALO GAP WIND FARM 3, L.L.C.'S APPEAL AND COMPLAINT OF ERCOT'S DECISION AND ACTION REGARDING PRR 830 AND MOTION FOR SUSPENSION OF ACTION" (PDF). ERCOT.com. ERCOT. Retrieved 3 October 2015.
+^ Wind farm interference showing up on Doppler radar National Weather Service. Retrieved 9 February 2011.
+^ Brenner, Michael et al. Wind Farms and Radar Federation of American Scientists, January 2008. Retrieved 9 February 2011.
+^ Greenemeier, Larry. Wind turbine or airplane? New radar could cut through the signal clutter Scientific American, 3 September 2010. Retrieved 9 February 2011.
+^ About the R-2508 Airspace United States Air Force. Retrieved 9 February 2011.
+^ Hayes, Keith. MCLB Barstow wind turbine a Marine Corps first United States Marine Corps, 27 March 2009. Retrieved 9 February 2011.
+^ a b Goodwin, Jacob (3 January 2011). "DHS asks Raytheon to study impact of wind turbines on radar systems". gsnmagazine.com. Retrieved 9 February 2011.
+^ Radars and radio signals Wind Energy Facts. Retrieved 9 February 2011.
+^ Levitan, David. Wind turbines cause radar cone of silence IEEE, 9 February 2010. Retrieved 9 February 2011.
+^ "Air Force: Cape Wind farm would have no impact on radar station]". capecodtoday.com. 17 November 2007. Retrieved 9 February 2011.
+^ P Jago, N Taylor. Wind turbines and aviation interests  European experience and practice pages 1013, Stasys, 2002. Retrieved 9 February 2011.
+^ Learmount, David. Newcastle airport radar develops fix for wind turbine interference Flight Global, 17 November 2010. Retrieved 9 February 2011.
+^ QinetiQ and Vestas test 'stealth technology' for wind turbines Renewable Energy Focus, 26 October 2009. Retrieved 22 September 2010.
+^ 'Stealth' wind turbine blade may end radar problem Reuters via Cnet, 27 January 2010. Retrieved 22 September 2010.
+^ Fairly, Peter. Stealth-Mode Wind Turbines Technology Review, 2 November 2009. Retrieved 22 September 2010.
+^ Appleton, Steve. Stealth blades  a progress report QinetiQ. Retrieved 22 September 2010.
+^ "Press Releases - Analytical Graphics, Inc. (AGI)". Retrieved 28 May 2015.
+^ Robert Mendick (27 August 2011). "Military radar deal paves way for more wind farms across Britain". The Telegraph. Outdated
+^ Glenn Cramer; Sheldon Town Councilman (30 October 2009). "Town Councilor regrets High Sheldon Wind Farm (Sheldon, NY)". Retrieved 4 September 2015.
+^ Broadcast Wind, LLC. "Solutions for the Broadcasting and Wind Energy Industries". Retrieved 4 September 2015.
+^ "IMPACT OF WIND FARMS ON RADIOCOMMUNICATION SERVICES". TSR (grupo Tratamiento de Seal y Radiocomunicaciones de la UPV/EHU). Retrieved 4 September 2015.
+^ Roy, Somnath Baidya. Impacts of wind farms on surface air temperatures Proceedings of the National Academy of Sciences, 4 October 2010. Retrieved 10 March 2011.
+^ Takle, Gene and Lundquist, Julie. Wind turbines on farmland may benefit crops Ames Laboratory, 16 December 2010. Retrieved 10 March 2011.
+Further reading[edit]
+Righter, Robert W. Windfall: Wind Energy in America Today (University of Oklahoma Press; 2011) 219 pages; looks at the land-use decisions involved in setting up a wind farm.
+External links[edit]
+Wikimedia Commons has media related to Wind farm.
+World Wind Energy Association
+Wind Power in the United States: Technology, Economic, and Policy Issues (53p), Congressional Research Service, June 2008
+Database of projects throughout the World
+Database of offshore wind projects in North America
+Wind Project Community Organizing
+World Wind Energy Association
+4C Offshore's Global Wind Farm Interactive Map and Database
+Development of Offshore Wind Recommended Practice for U.S. Waters National Renewable Energy Laboratory
+Biggest Wind Farms in the World by Power-Technology
+v
+t
+e
+Wind power
+Wind power
+Environmental impact
+High-altitude
+History
+Land vehicles
+Offshore
+Turbines
+on public display
+Windmill
+Wind turbines
+Aerodynamics
+Airborne
+Crosswind kite
+Darrieus
+Design
+Floating
+Savonius
+Small
+Unconventional
+Vertical axis
+Wind power industry
+Consulting companies
+Farm management
+Manufacturers
+Software
+Windmade
+Wind farms
+Community-owned
+Farms by country
+Offshore farms
+by country
+Onshore farms
+Concepts
+Betz's law
+Capacity factor
+EROEI
+Forecasting
+Grid energy storage
+HVDC
+Intermittency
+Variability
+Laddermill
+Net energy gain
+Resource assessment
+Storage
+Subsidies
+Virtual power plant
+Wind hybrid power systems
+Wind profile power law
+NewPP limit report
+Parsed by mw1172
+Cached time: 20161120043742
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.748 seconds
+Real time usage: 0.855 seconds
+Preprocessor visited node count: 5040/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 159373/2097152 bytes
+Template argument size: 4651/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 8/500
+Lua time usage: 0.332/10.000 seconds
+Lua memory usage: 5.87 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+689.653
+1 - -total
+58.43%
+402.942
+1 - Template:Reflist
+35.06%
+241.773
+67 - Template:Cite_web
+8.43%
+58.125
+3 - Template:Citation_needed
+7.90%
+54.505
+3 - Template:Fix
+4.20%
+28.964
+8 - Template:Cite_news
+3.82%
+26.347
+3 - Template:Delink
+3.82%
+26.322
+1 - Template:Use_British_English
+3.59%
+24.735
+6 - Template:Category_handler
+3.02%
+20.847
+2 - Template:Update
+Saved in parser cache with key enwiki:pcache:idhash:860924-0!*!0!!en!4!* and timestamp 20161120043741 and revision id 749295123
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wind_farm&oldid=749295123"
+Categories: Wind farmsSustainable technologiesHidden categories: CS1 maint: Multiple names: authors listArticles with inconsistent citation formatsUse British English from January 2013Use dmy dates from January 2013Articles containing potentially dated statements from 2015All articles containing potentially dated statementsAll articles with unsourced statementsArticles with unsourced statements from March 2012Wikipedia articles in need of updating from June 2012All Wikipedia articles in need of updatingWikipedia articles in need of updating from May 2014Interlanguage link template link numberArticles with unsourced statements from October 2015

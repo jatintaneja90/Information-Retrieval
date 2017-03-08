@@ -1,0 +1,290 @@
+Landfillgas
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Landfill gas is a complex mix of different gases created by the action of microorganisms within a landfill. Landfill gas is approximately forty to sixty percent methane, with the remainder being mostly carbon dioxide. Trace amounts of other volatile organic compounds comprise the remainder (<1%). These trace gases include a large array of species, mainly simple hydrocarbons.[1]
+Contents
+1 Production of landfill gases
+1.1 Variation with landfill content
+2 Monitoring
+3 Landfill gas use
+3.1 Opposition
+4 Environmental effects
+5 Microbial oxidation
+6 Safety
+7 See also
+8 References
+9 External links
+Production of landfill gases[edit]
+Landfill gases are the result of three processes:[1]
+evaporation of volatile organic compounds (e.g., solvents)
+chemical reactions between waste components
+microbial action, especially methanogenesis.
+The first two depend strongly on the nature of the waste. The dominant process in most landfills is the third process whereby anaerobic bacteria decompose organic waste to produce biogas, which consists of methane and carbon dioxide together with traces of other compounds.[2] Despite the heterogeneity of waste, the evolution of gases follows well defined kinetic pattern. Formation of methane and CO2 commences about six months after depositing the landfill material. The evolution of gas reaches a maximum at about 20 years, then declines over the course of decades.[1]
+Variation with landfill content[edit]
+The nature of the material in a landfill affects the landfill gas at the trace levels. For example, gases from municipal landfills contain traces of octamethylcyclotetrasiloxane, since such organosilicon compounds are used in personal care products.[3][4]
+Monitoring[edit]
+Main article: Landfill gas monitoring
+Because gases produced by landfills are both valuable and sometimes hazardous, monitoring techniques have been developed. Flame ionization detectors can be used to measure methane levels as well as total VOC levels. Surface monitoring and sub-surface monitoring as well as monitoring of the ambient air is carried out. In the U.S., under the Clean Air Act of 1996, it is required that many large landfills install gas collection and control systems, which means that at the very least the facilities must collect and flare the gas.
+U.S. Federal regulations under Subtitle D of RCRA formed in October 1979 regulate the siting, design, construction, operation, monitoring, and closure of MSW landfills. Subtitle D now requires controls on the migration of methane in landfill gas. Monitoring requirements must be met at landfills during their operation, and for an additional 30 years after. The landfills affected by Subtitle D of RCRA are required to control gas by establishing a way to check for methane emissions periodically and therefore prevent off-site migration. Landfill owners and operators must make sure the concentration of methane gas does not exceed 25% of the LEL for methane in the facilities' structures and the LEL for methane at the facility boundary.[5]
+Landfill gas use[edit]
+Main article: Landfill gas utilization
+Landfill gas collection system
+U.S. Environmental Protection Agency data shows that more than 950 municipal solid waste landfills are operating in the United States as of 2013. Decomposing waste in these landfills produce landfill gas, which is a mixture of about half methane and half carbon dioxide. These landfills are the third largest source of human-made methane emissions in the United States.
+The gases produced within a landfill can be collected and used in various ways. The landfill gas can be utilized directly on site by a boiler or any type of combustion system, providing heat. Electricity can also be generated on site through the use of microturbines, steam turbines, or fuel cells.[6] The landfill gas can also be sold off site and sent into natural gas pipelines. This approach requires the gas to be processed into pipeline quality, e.g., by removing various contaminants and components.[7] The efficiency of gas collection at landfills directly impacts the amount of energy that can be recovered - closed landfills (those no longer accepting waste) collect gas more efficiently than open landfills (those that are still accepting waste). A comparison of collection efficiency at closed and open landfills found about a 17 percentage point difference between the two.[8]
+Landfill gas can also be used to evaporate leachate, another byproduct of the landfill process. This application displaces another fuel that was previously used for the same thing.[9]
+Leachate evaporation system
+In the U.S., the number of landfill gas projects increased from 399 in 2005, to 594 in 2012[10] according to the Environmental Protection Agency. These projects are popular because they control energy costs and reduce greenhouse gas emissions. These projects collect the methane gas and treat it, so it can be used for electricity or upgraded to pipeline-grade gas. (Methane gas has twenty-one times the global warming potential of carbon dioxide).[11]
+The U.S. Environmental Protection Agency, which estimates that hundreds of landfills could support gas to energy projects, has also established the Landfill Methane Outreach Program. This program was developed to reduce methane emissions from landfills in a cost-effective manner by encouraging the development of environmentally and economically beneficial landfill gas-to-energy projects.[12]
+In the U.S., Waste Management uses landfill gas as an energy source. Their landfill gas-to-energy projects create sufficient energy to power four hundred thousand homes every day. This energy production offsets almost two million tons of coal per year. These projects also reduce greenhouse gas emissions into the atmosphere. Waste Management currently has 110 landfill gas-to-energy facilities. This gas is equivalent to natural gas.[13]
+Opposition[edit]
+Capture and use of landfill gas can be expensive. Some environmental groups claim that the projects do not produce "renewable power" because trash (their source) is not renewable. The Sierra Club opposes government subsidies for such projects.[11] The Natural Resources Defense Council (NRDC) argues that government incentives should be directed more towards solar, wind, and energy-efficiency efforts.
+Environmental effects[edit]
+Landfill gases have an influence on climate change. The major components are CO2 and methane, both of which are greenhouse gas. In terms of global warming potential, methane is over 25 times more detrimental to the atmosphere than carbon dioxide. Landfills are the third largest source of methane in the US.[14]
+Microbial oxidation[edit]
+When landfill gas permeates through a soil cover, a fraction of the methane in the gas is oxidized microbially to CO2.[15]
+Safety[edit]
+Landfill gas emissions can lead to environmental, hygiene and security problems in the landfill.[16][17] Several accidents have occurred, for example at Loscoe, England in 1986,[18] where migrating landfill gas accumulated and partially destroyed a property. An accident causing two deaths occurred from an explosion in a house adjacent to Skellingsted landfill in Denmark in 1991.[19] Due to the risk presented by landfill gas, there is a clear need to monitor gas produced by landfills. In addition to the risk of fire and explosion, gas migration in the subsurface can result in contact of landfill gas with groundwater. This, in turn, can result in contamination of groundwater by organic compounds present in nearly all landfill gas.[20]
+Although usually evolved only in trace amounts, landfills do release some aromatics and chlorocarbons.
+Landfill gas migration, due to pressure differentials and diffusion, can occur. This can create an explosion hazard if the gas reaches sufficiently high concentrations in adjacent buildings.
+See also[edit]
+Biotechnology portal
+Environment portal
+Renewable energy portal
+Anaerobic digestion
+Biogas
+Biodegradability
+Flue gas
+Relative cost of electricity generated by different sources
+Underground coal gasification
+Landfill gas utilization
+References[edit]
+^ a b c Hans-Jrgen Ehrig, Hans-Joachim Schneider and Volkmar Gossow "Waste, 7. Deposition" in Ullmann's Encyclopedia of Industrial Chemistry, 2011, Wiley-VCH, Weinheim. doi:10.1002/14356007.o28_o07
+^ "Landfill Gas and Biogas". U.S. Energy Information Administration. Retrieved 2015-11-22.
+^ Rasi, S.; Veijanen, A.; Rintala, J. "Trace compounds of biogas from different biogas production plants" Energy 2007, volume 32, 1375-1380. doi:10.1016/j.energy.2006.10.018
+^ Feldmann, J.; Hirner, A. V. "Occurrence of volatile metal and metalloid species in landfill and sewage gases" International Journal of Environmental Analytical Chemistry 1995, vol. 60, pp. 339-59. doi:10.1080/03067319508042888
+^ "Landfill Gas Control Measures". Agency for Toxic Substances & Disease Registry. Retrieved 2010-04-26.
+^ Sullivan, Patrick. "The Importance of Landfill Gas Capture and Utilization in the U.S" (PDF). SUR. Retrieved 27 September 2013.
+^ "Landfill Gas Power Plants". California Energy Commission. Retrieved 27 September 2013.
+^ Powell, Jon T.; Townsend, Timothy G.; Zimmerman, Julie B. (2015-09-21). "Estimates of solid waste disposal rates and reduction targets for landfill gas emissions". Nature Climate Change. advance online publication. doi:10.1038/nclimate2804. ISSN1758-6798.
+^ "Landfill Methane Outreach program". EPA. Retrieved 27 September 2013.
+^ "Landfill Gas to Energy". EPA. Retrieved 2012-07-29.
+^ a b Koch, Wendy (2010-02-25). "Landfill Projects on the rise". USA Today. Retrieved 2010-04-25.
+^ "Landfill Gas". Gas Separation Technology LLC. Retrieved 2010-04-26.
+^ "Landfill Gas to Energy". Waste Management. Retrieved 2010-04-26.
+^ "Methane Emissions". Environmental Protection Agency. Retrieved 13 June 2016.
+^ Scheutz, C., Kjeldsen, P., Bogner, J.E., De Visscher, A., Gebert, J., Hilger, H.A. & Spokas, K. (2009) Microbial methane oxidation processes and technologies for mitigation of landfill gas emissions. Waste Manage. Res. 27:409-455.
+^ Brosseau, J. (1994) Trace gas compound emissions from municipal landfill sanitary sites; Atmospheric-Environment 28 (2), 285-293
+^ Christensen, T. H., Cossu, R. & Stegmann, R. (1999) Landfilling of waste: Biogas
+^ Williams and Aitkenhead (1991) Lessons from Loscoe: The uncontrolled migration of landfill gas; The Quarterly Journal of Engineering Geology 24 (2), 191-207
+^ Danish EPA
+^ Kerfoot, H.B., Chapter 3.5 In Christensen, T. H., Cossu, R. & Stegmann, R. (1999)Landfilling of waste: Biogas
+External links[edit]
+GA Mansoori, N Enayati, LB Agyarko (2016), Energy: Sources, Utilization, Legislation, Sustainability, Illinois as Model State, World Sci. Pub. Co., ISBN 978-981-4704-00-7
+"Primer on Landfill Gas as "Green Energy"". Energy Justice Network. Retrieved 2010-04-25.
+Koch, Wendy (2010-02-25). "Landfill Projects on the rise". USA Today. Retrieved 2010-04-25.
+"Landfill Gas to Energy". Waste Management. Retrieved 2010-04-26.
+"Landfill Gas". Gas Separation Technology LLC. Retrieved 2010-04-26.
+"Landfill Gas Control Measures". Agency for Toxic Substances & Disease Registry. Retrieved 2010-04-26.
+v
+t
+e
+Biosolids, waste and waste management
+Major types
+Agricultural wastewater
+Biodegradable waste
+Brown waste
+Chemical waste
+Construction waste
+Demolition waste
+Electronic waste
+by country
+Food waste
+Green waste
+Hazardous waste
+Heat waste
+Industrial waste
+Litter
+Marine debris
+Biomedical waste
+Mining waste
+Municipal solid waste
+Open defecation
+Photodegradation
+Post-consumer waste
+Radioactive waste
+Sewage
+Toxic waste
+Wastewater
+Processes
+Anaerobic digestion
+Biodegradation
+Composting
+Garden waste dumping
+Illegal dumping
+Incineration
+Landfill
+Landfill mining
+Mechanical biological treatment
+Mechanical sorting
+Open dump
+Recycling
+Resource recovery
+Sewage treatment
+Waste collection
+Waste picking
+Waste sorting
+Waste trade
+Waste treatment
+Waste-to-energy
+Countries
+Armenia
+Bangladesh
+Brazil
+Hong Kong
+India
+New Zealand
+Russia
+Switzerland
+UK
+USA
+Agreements
+Bamako Convention
+Basel Convention
+EU directives
+batteries
+landfills
+RoHS
+framework
+incineration
+waste water
+WEEE
+London Convention
+Oslo Convention
+OSPAR Convention
+Other topics
+Blue Ribbon Commission on America's Nuclear Future
+Cleaner production
+Downcycling
+Eco-industrial park
+Extended producer responsibility
+High-level radioactive waste management
+History of waste management
+Landfill fire
+Sewage regulation and administration
+Upcycling
+Waste hierarchy
+Waste legislation
+Waste minimisation
+Zero waste
+Environment portal
+Category
+Commons
+Concepts
+Index
+Journals
+Lists
+Organizations
+v
+t
+e
+Fuel gas
+Types
+Manufactured fuel gas
+(History)
+Coal gas
+Coal gasification
+Underground coal gasification
+Biogas
+Blast furnace gas
+Blau gas
+Gasification
+Landfill gas
+Mond gas
+Pintsch gas
+Producer gas
+Regasification
+Syngas
+Water gas
+Wood gas
+Natural gas
+APG
+CBM
+CNG
+HCNG
+LNG
+NGC
+SNG
+Bio-SNG
+LPG
+Autogas
+Butane
+Propane
+Infrastructure
+Compressor station
+Gas carrier
+Gas holder
+Gas meter
+Gasworks
+Natural-gas processing
+Natural gas storage
+Odorizer
+Pipeline transport
+Uses
+Bunsen burner
+Gas burner
+Gas engine
+Gas heater
+Gas lighting
+Gas mantle
+Gas stove
+Gas turbine
+Pilot light
+NewPP limit report
+Parsed by mw1192
+Cached time: 20161119141804
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.256 seconds
+Real time usage: 0.322 seconds
+Preprocessor visited node count: 1369/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 60635/2097152 bytes
+Template argument size: 1443/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.101/10.000 seconds
+Lua memory usage: 3.43 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+221.164
+1 - -total
+47.48%
+105.019
+1 - Template:Reflist
+34.78%
+76.926
+13 - Template:Cite_web
+21.85%
+48.317
+3 - Template:Navbox
+11.80%
+26.101
+1 - Template:Waste
+9.21%
+20.371
+2 - Template:Main_article
+9.17%
+20.280
+1 - Template:Fuel_gas
+6.65%
+14.697
+1 - Template:Portal
+6.37%
+14.098
+1 - Template:Navbox_subgroup
+4.92%
+10.877
+3 - Template:Icon
+Saved in parser cache with key enwiki:pcache:idhash:1958790-0!*!0!!en!4!* and timestamp 20161119141804 and revision id 744690847
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Landfill_gas&oldid=744690847"
+Categories: LandfillAnaerobic digestionIndustrial gasesHidden categories: Pages using ISBN magic links

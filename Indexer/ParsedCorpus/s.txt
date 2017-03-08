@@ -1,0 +1,42 @@
+s
+From Wikipedia, the free encyclopedia
+(Redirected from M/s)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"m/s" redirects here. For the BDSM arrangement, see Master/slave (BDSM). For the maritime prefix designation, see Motor ship.
+Metre per second (American English: meter per second) is an SI derived unit of both speed (scalar) and velocity (vector quantity which specifies both magnitude and a specific direction), defined by distance in metres divided by time in seconds.
+The SI unit symbols are ms1, m s1, m/s, or m/s,[1] sometimes (unofficially) abbreviated as "mps". Where metres per second are several orders of magnitude too slow to be convenient, such as in astronomical measurements, velocities may be given in kilometres per second, where 1km/s is 1000 metres per second, sometimes unofficially abbreviated as "kps".
+Contents
+1 Conversions
+2 Relation to other measures
+3 See also
+4 References
+5 External links
+Conversions[edit]
+1m/s is equivalent to:
+= 3.6 km/h (exactly)
+ 3.2808 feet per second (approximately)
+ 2.2369 miles per hour (approximately)
+ 1.9438 knots (approximately)
+1 foot per second = 0.3048m/s (exactly)
+1 mile per hour = 0.44704m/s (exactly)
+1km/h = 0.27m/s (exactly)
+1 kilometre per second is equivalent to:
+ 0.6213 miles per second (approximately)
+ 2237 miles per hour (approximately)
+Relation to other measures[edit]
+The benz, named in honour of Karl Benz, has been proposed as a name for one metre per second.[2] Although it has seen some support as a practical unit,[3] primarily from German sources,[2] it was rejected as the SI unit of velocity[4] and has not seen widespread use or acceptance.[5]
+See also[edit]
+Orders of magnitude (speed)
+Metre
+References[edit]
+^ SI brochure, Section 5.1
+^ a b Klein HA. (2011). The Science of Measurement: A Historical Survey. Dover Publications. p.695. ISBN978-0486258393.
+^ Heijungs R. (2005). "On the Use of Units in LCA". The International Journal of Life Cycle Assessment. 10 (3): 174. doi:10.1065/lca2005.02.199.
+^ Cardarelli F. (2004). Encyclopaedia of Scientific Units, Weights and Measures: Their SI Equivalences and Origins. Transl. by MJ Shields. (3rd revised ed.). Springer. p.217. ISBN978-1852336820.
+^ Dresner S. (1974). Units of Measurement: An Encyclopaedic Dictionary of Units Both Scientific and Popular and the Quantities They Measure. Harvey Miller and Medcalf. p.13. ISBN978-0-85602-036-0.
+External links[edit]
+Official BIPM definition of the metre
+Official BIPM definition of the second
+Saved in parser cache with key enwiki:pcache:idhash:67231-0!*!0!!en!*!* and timestamp 20161116000517 and revision id 749749514
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Metre_per_second&oldid=749749514"
+Categories: Units of velocity

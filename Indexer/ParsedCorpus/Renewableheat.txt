@@ -1,0 +1,365 @@
+Renewableheat
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Renewable heat is an application of renewable energy and it refers to the renewable generation of heat, rather than electrical power (e.g. replacing a fossil fuel boiler using concentrating solar thermal to feed radiators). Renewable heat technologies include renewable biofuels, solar heating, geothermal heating, heat pumps and heat exchangers to recover lost heat. Significant attention is also applied to insulation.
+Many colder countries consume more energy for heating than electrical power. For example, in 2005 the United Kingdom consumed 354TWh[1] of electric power, but had a heat requirement of 907TWh, the majority of which (81%) was met using gas. The residential sector alone consumed a massive 550TWh of energy for heating, mainly in the form of gas. Almost half of the final energy consumed in the UK (49%) was in the form of heat, of which 70% was used by households and in commercial and public buildings. Households used heat for mainly for space heating (69%) and heating water.[2]
+The relative competitiveness of renewable electricity and renewable heat depends on a nation's approach to energy and environment policy. Few renewable technologies (whether for heat, electricity or transport) are competitive with fossil fuels without some form of carbon valuation or subsidy. In those countries, such as Sweden, Denmark and Finland, where government intervention has been closest to a technology-neutral form of carbon valuation (i.e. carbon and energy taxes), renewable heat has played the leading role in a very substantial renewable contribution to final energy consumption. In those countries, such as Germany, Spain, the USA, and the UK, where government intervention has been set at different levels for different technologies, uses and scales, the contributions of renewable heat and renewable electricity technologies have depended on the relative levels of support, and have resulted generally in a lower renewable contribution to final energy consumption.
+Contents
+1 Leading renewable heat technologies
+1.1 Solar heating
+1.2 Geothermal heating
+1.3 Heat pumps
+1.3.1 Interseasonal heat transfer
+1.3.2 CoP and lift
+1.4 Resistive electrical heating
+1.5 Wood-pellet heating
+1.6 Wood-stove heating
+1.7 Renewable natural gas
+2 Energy efficiency
+2.1 Insulation
+2.2 Underfloor heating
+2.3 Waste-water heat recovery
+3 See also
+4 References
+5 External links
+Leading renewable heat technologies[edit]
+Solar heating[edit]
+Solar heating is a style of building construction which uses the energy of summer or winter sunshine to provide an economic supply of primary or supplementary heat to a structure. The heat can be used for both space heating (see solar air heat) and water heating (see solar hot water). Solar heating design is divided into two groups:
+Passive solar heating relies on the design and structure of the house to collect heat. Passive solar building design must also consider the storage and distribution of heat, which may be accomplished passively, or use air ducting to draw heat actively to the foundation of the building for storage. One such design was measured lifting the temperature of a house to 24C (75F) on a partially sunny winter day (-7C or 19F), and it is claimed that the system provides passively for the bulk of the building's heating.[3] The 4,000-square-foot (370m2) home cost $125 per square foot (or 370m2 at $1,351/m2), similar to the cost of a traditional new home.
+Active solar heating uses pumps to move air or a liquid from the solar collector into the building or storage area. Applications such as solar air heating and solar water heating typically capture solar heat in panels which can then be used for applications such as space heating and supplementation of residential water heaters. In contrast to photovoltaic panels, which are used to generate electricity, solar heating panels are less expensive and capture a much higher proportion of the sun's energy.
+Solar heating systems usually require a small supplementary backup heating system, either conventional or renewable.
+Geothermal heating[edit]
+Hot Springs located in Nevada.
+Geothermal energy is accessed by drilling water or steam wells in a process similar to drilling for oil. Geothermal energy is an enormous, underused heat and power resource that is clean (emits little or no greenhouse gases), reliable (average system availability of 95%), and homegrown (making populations less dependent on oil).[4]
+The earth absorbs the sun's energy and stores it as heat in the oceans and underground. The ground temperature remains constant at a point of 42 to 100F (6 to 38C) all year round depending on where you live on earth. A geothermal heating system takes advantage of the consistent temperature found below the Earth's surface and uses it to heat and cool buildings. The system is made up of a series of pipes installed underground, connected to pipes in a building. A pump circulates liquid through the circuit. In the winter the fluid in the pipe absorbs the heat of the earth and uses it to heat the building. In the summer the fluid absorbs heat from the building and disposes of it in the earth.[5]
+Heat pumps[edit]
+Heat pumps use work to move heat from one place to another, and can be used for both heating and air conditioning. Though capital intensive, heat pumps are economical to run and can be powered by renewable electricity. Two common types of heat pump are air-source heat pumps (ASHP) and ground-source heat pumps (GSHP), depending on whether heat is transferred from the air or from the ground. Air source heat pumps are not effective when the outside air temperature is lower than about -15C, while ground-source heat pumps are not affected. The efficiency of a heat pump is measured by the coefficient of performance (CoP): For every unit of electricity used to pump the heat, an air source heat pump generates 2.5 to 3 units of heat (i.e. it has a CoP of 2.5 to 3), whereas a GSHP generates 3 to 3.5 units of heat. Based on current fuel prices for the United Kingdom, assuming a CoP of 3-4, a GSHP is sometimes a cheaper form of space heating than electric, oil, and solid fuel heating.[6] Heat pumps can be linked to an interseasonal thermal energy storage (hot or cold), doubling the CoP from 4 to 8 by extracting heat from warmer ground.[7]
+Interseasonal heat transfer[edit]
+Main article: Seasonal thermal energy storage
+A heat pump with Interseasonal Heat Transfer combines active solar collection to store surplus summer heat in thermal banks[8] with ground-source heat pumps to extract it for space heating in winter. This reduces the "Lift" needed and doubles the CoP of the heat pump because the pump starts with warmth from the thermal bank in place of cold from the ground.
+CoP and lift[edit]
+A heat pump CoP increases as the temperature difference, or "Lift", decreases between heat source and destination. The CoP can be maximized at design time by choosing a heating system requiring only a low final water temperature (e.g., underfloor heating), and by choosing a heat source with a high average temperature (e.g., the ground). Domestic hot water (DHW) and conventional radiators require high water temperatures, affecting the choice of heat pump technology. Low temperature radiators provide an alternative to conventional radiators.
+Pump type and source
+Typical use case
+Heat Pump CoP variation with Output Temperature
+35C
+(e.g. heated screed floor)
+45C
+(e.g. low temp. radiator or heated screed floor)
+55C
+(e.g. low temp. radiator or heated timber floor)
+65C
+(e.g. std. radiator or DHW)
+75C
+(e.g. std. radiator & DHW)
+85C
+(e.g. std. radiator & DHW)
+High Efficiency ASHP air at -20C[9]
+2.2
+2.0
+-
+-
+-
+-
+Two Stage ASHP air at -20C[10]
+Low source temp.
+2.4
+2.2
+1.9
+-
+-
+-
+High Efficiency ASHP air at 0C[9]
+Low output temp.
+3.8
+2.8
+2.2
+2.0
+-
+-
+Prototype Transcritical CO
+2 (R744) Heat Pump with Tripartite Gas Cooler, source at 0C[11]
+High output temp.
+3.3
+-
+-
+4.2
+-
+3.0
+GSHP water at 0C[9]
+5.0
+3.7
+2.9
+2.4
+-
+-
+GSHP ground at 10C[9]
+Low output temp.
+7.2
+5.0
+3.7
+2.9
+2.4
+-
+Theoretical Carnot cycle limit, source -20C
+5.6
+4.9
+4.4
+4.0
+3.7
+3.4
+Theoretical Carnot cycle limit, source 0C
+8.8
+7.1
+6.0
+5.2
+4.6
+4.2
+Theoretical Lorentz Cycle limit (CO
+2 pump), return fluid 25C, source 0C[11]
+10.1
+8.8
+7.9
+7.1
+6.5
+6.1
+Theoretical Carnot cycle limit, source 10C
+12.3
+9.1
+7.3
+6.1
+5.4
+4.8
+Resistive electrical heating[edit]
+Renewable electricity can be generated by hydropower, solar, wind, geothermal and by burning biomass. In a few countries where renewable electricity is inexpensive, resistance heating is common. In countries like Denmark where electricity is expensive, it is not permitted to install electric heating as the main heat source.[12] Wind turbines have more output at night when there is a small demand for electricity, storage heaters consume this lower cost electricity at night and give off heat during the day.
+Wood-pellet heating[edit]
+Wood Stove.
+Wood Pellets.
+Wood-pellet heating and other types of wood heating systems have achieved their greatest success in heating premises that are off the gas grid, typically being previously heated using heating oil or coal. Solid wood fuel requires a large amount of dedicated storage space, and the specialized heating systems can be expensive (though grant schemes are available in many European countries to offset this capital cost.) Low fuel costs mean that wood fuelled heating in Europe is frequently able to achieve a payback period of less than 3 to 5 years. Because of the large fuel storage requirement wood fuel can be less attractive in urban residential scenarios, or for premises connected to the gas grid (though rising gas prices and uncertainty of supply mean that wood fuel is becoming more competitive.) There is also growing concern over the air pollution from wood heating versus oil or gas heat, especially the fine particulates.
+Wood-stove heating[edit]
+Burning wood fuel in an open fire is both extremely inefficient (0-20%) and polluting due to low temperature partial combustion. In the same way that a drafty building loses heat through loss of warm air through poor sealing, an open fire is responsible for large heat losses by drawing very large volumes of warm air out of the building.
+Modern wood stove designs allow for more efficient combustion and then heat extraction. In the United States, new wood stoves are certified by the U.S. Environmental Protection Agency (EPA) and burn cleaner and more efficiently (the overall efficiency is 60-80%)[13] and draw smaller volumes of warm air from the building.
+"Cleaner" should not, however, be confused with clean. An Australian study of real-life emissions from woodheaters satisfying the current Australian standard,[14] found that particle emissions averaged 9.4g/kg wood burned (range 2.6 to 21.7). A heater with average wood consumption of 4 tonnes per year therefore emits 37.6kg of PM2.5, i.e. particles less than 2.5 micrometers. This can be compared with a passenger car satisfying the current Euro 5 standards (introduced September 2009) of 0.005g/km. So one new wood heater emits as much PM2.5 per year as 367 passenger cars each driving 20,000km a year. A recent European study[15] identified PM2.5 as the most health-hazardous air pollutant, causing an estimated 492,000 premature deaths. The next worst pollutant, ozone, is responsible for 21,000 premature deaths.
+Because of the problems with pollution, the Australian Lung Foundation recommends using alternative means for climate control.[16] The American Lung Association "strongly recommends using cleaner, less toxic sources of heat. Converting a wood-burning fireplace or stove to use either natural gas or propane will eliminate exposure to the dangerous toxins wood burning generates including dioxin, arsenic and formaldehyde.[17]
+"Renewable" should not be confused with "greenhouse neutral". A recent peer-reviewed paper found that, even if burning firewood from a sustainable supply, methane emissions from a typical Australian wood heater satisfying the current standard cause more global warming than heating the same house with gas. However, because a large proportion of firewood sold in the Australia is not from sustainable supplies, Australian households that use wood heating often cause more global warming than heating 3 similar homes with gas.[18]
+High efficiency stoves should meet the following design criteria:
+Well sealed and precisely calibrated to draw a low yet sufficient volume of air. Air-flow restriction is critical; a lower inflow of cold air cools the furnace less (a higher temperature is thus achieved). It also allows greater time for extraction of heat from the exhaust gas, and draws less heat from the building.
+The furnace must be well insulated to increase combustion temperature, and thus completeness.
+A well insulated furnace radiates little heat. Thus heat must be extracted instead from the exhaust gas duct. Heat absorption efficiencies are higher when the heat-exchange duct is longer, and when the flow of exhaust gas is slower.
+In many designs, the heat-exchange duct is built of a very large mass of heat-absorbing brick or stone. This design causes the absorbed heat to be emitted over a longer period - typically a day.
+Renewable natural gas[edit]
+Renewable natural gas is defined as gas obtained from biomass which is upgraded to a quality similar to natural gas.[citation needed] By upgrading the quality to that of natural gas, it becomes possible to distribute the gas to customers via the existing gas grid.[19] According to the Energy research Centre of the Netherlands, renewable natural gas is 'cheaper than alternatives where biomass is used in a combined heat and power plant or local combustion plant'.[20] Energy unit costs are lowered through 'favourable scale and operating hours', and end-user capital costs eliminated through distribution via the existing gas grid.
+Energy efficiency[edit]
+Renewable heat goes hand in hand with energy efficiency. Indeed, renewable heating projects depend heavily for their success on energy efficiency; in the case of solar heating to cut reliance on the requirement supplementary heating, in the case of wood fuel heating to cut the cost of wood purchased and volume stored, and in the case of heat pumps to reduce the size and investment in heat pump, heat sink and electricity costs.
+Two main types of improvement can be made to a building's energy efficiency:
+Insulation[edit]
+Improvements to insulation can cut energy consumption greatly, making a space cheaper to heat and to cool. However existing housing can often be difficult or expensive to improve. Newer buildings can benefit from many of the techniques of superinsulation. Older buildings can benefit from several kinds of improvement:
+Solid wall insulation: A building with solid walls can benefit from internal or external insulation. External wall insulation involves adding decorative weather-proof insulating panels or other treatment to the outside of the wall. Alternatively, internal wall insulation can be applied using ready-made insulation/plaster board laminates, or other methods. Thicknesses of internal or external insulation typically range between 50 and 100mm.
+Cavity wall insulation: A building with cavity walls can benefit from insulation pumped into the cavity. This form of insulation is very cost effective[clarification needed][citation needed].
+Programmable thermostats allow heating and cooling of a room to be switched off depending the time, day of the week, and temperature. A bedroom, for example, does not need to be heated during the day, but a living room does not need to be heated during the night.
+Roof insulation
+Insulated windows and doors
+Draught proofing
+Underfloor heating[edit]
+Underfloor heating may sometimes be more energy efficient than traditional methods of heating:
+Water circulates within the system at low temperatures (35C - 50C) making gas boilers, wood fired boilers, and heat pumps significantly more efficient.
+Rooms with underfloor heating are cooler near the ceiling, where heat is not required, but warmer underfoot, where comfort is most required.
+Traditional radiators are frequently positioned underneath poorly insulated windows, heating them unnecessarily.
+Waste-water heat recovery[edit]
+Recycling heat.
+It is possible to recover significant amounts of heat from waste hot water via hot water heat recycling. Major consumption of hot water is sinks, showers, baths, dishwashers, and clothes washers. On average 30% of a property's domestic hot water is used for showering.[21] Incoming fresh water is typically of a far lower temperature than the waste water from a shower. An inexpensive heat exchanger recovers up on average 40% of the heat that would normally be wasted, by warming incoming cold fresh water with heat from outgoing waste water.
+See also[edit]
+Air source heat pumps
+Autonomous building
+Architectural engineering
+Biogas
+Energy conservation
+Ground source heat pump
+Green architecture
+Green building
+Hot water heat recycling
+Superinsulation
+Sustainability
+Sustainable design
+Mitigation of global warming
+Natural building
+Passive house
+Passive solar
+Renewable energy
+Renewable energy development
+Solar Air Heat
+Solar combisystem
+Solar hot water
+Solar power
+European Biomass Association
+Thermal insulation
+Underfloor heating
+Wood briquettes
+Zero energy building
+References[edit]
+^ Department of Trade and Industry report UK Energy in Brief July 2007, Page 25 (URL accessed May, 2008)
+^ UK Government Call for Evidence on Heat, Office of Climate Change, Jan 2008 'Heat Call for Evidence', Paragraphs 11 and 12 (URL accessed May, 2008)
+^ "Solar House, Solar Home, Solar Homes, Solar Houses". Solarhouseproject.com. Retrieved 2013-10-02.
+^ "Geothermal Basics Overview". Office of Energy Efficiency and Renewable Energy. Retrieved 2009-06-25.
+^ "What is Geothermal? - Geothermal Resources Council". Geothermal.org. 2013-01-22. Retrieved 2013-10-02.
+^ [1][dead link]
+^ "GSHP | Ground Source Heat Pumps | GSHPs | Ground Source Heating | Coefficient of Performance CoP | Ground source heat pump efficiency | Thermal Energy Storage". Icax.co.uk. Retrieved 2013-10-02.
+^ "Thermal Banks store heat between seasons | Seasonal Heat Storage | ThermalBanks from ICAX save carbon emissions | Thermal Energy Storage using Inter seasonal Heat Stores | Underground Thermal Energy Storage UTES | Reusable Heat". Icax.co.uk. Retrieved 2013-10-02.
+^ a b c d The Canadian Renewable Energy Network 'Commercial Earth Energy Systems', Figure 29. . Retrieved July 29, 2009.
+^ Technical Institute of Physics and Chemistry, Chinese Academy of Sciences 'State of the Art of Air-source Heat Pump for Cold Region', Figure 5. . Retrieved April 19, 2008.
+^ a b SINTEF Energy Research 'Integrated CO2 Heat Pump Systems for Space Heating and DHW in low-energy and passive houses', J. Steen, Table 3.1, Table 3.3. . Retrieved April 19, 2008.
+^ http://www.seas.columbia.edu/earth/wtert/sofos/DEA_Heat_supply_in_denmark.pdf
+^ "Burn clean: Hot tips for a better fire" (PDF). Environmental Protection Agency.
+^ "Measurement of real-world PM10 emission factors and emission profiles from woodheaters by in situ source monitoring and atmospheric verification methods". Environment.gov.au. 2009-09-16. Retrieved 2013-10-02.
+^ "Assessment of the health impacts of exposure to PM2.5 at a European levelETC/ACC Technical Paper 2009/1". Air-climate.eionet.europa.eu. 2009-06-29. Retrieved 2013-10-02.
+^ [2]{date=2014-06-01}
+^ "American Lung Association Cautions Against Wood-burning and Urges Cleaner Alternatives for Winter Heat - American Lung Association". Lungusa.org. 2008-09-29. Retrieved 2013-10-02.
+^ "Australian wood heaters currently increase global warming and health costs", Dorothy L. Robinson, Atmospheric Poolution Research, Article in Press, doi:10.5094/APR.2011.033
+^ "'Sustainable Gas Enters the European Gas Distribution System'" (PDF). Dgc.dk. Retrieved 2013-10-02.
+^ Energy research Centre of the Netherlands 'Heat from Biomass via Synthetic Natural Gas' . Retrieved March 22, 2006.
+^ http://www.nrel.gov/docs/fy10osti/47685.pdf pg5
+External links[edit]
+Heat pumps based on R744 (CO2) FAQ
+Heat pumps Long Awaited Way out of the Global Warming - Information from Heat Pump & Thermal Storage Technology Center of Japan
+Department of Trade and Industry, 2005 study on Renewable Heat
+Renewable Heat combining asphalt solar collectors, thermal banks and ground source heat pumps.
+Energy Saving Trust information on Home Insulation
+The Gill report on biomass in the UK - download
+Solid wall insulation
+Cavity wall insulation
+v
+t
+e
+Sustainability
+Principles
+Ecological modernization
+Environmentalism
+Human impact on the environment
+Planetary boundaries
+Social sustainability
+Stewardship
+Sustainable development
+Consumption
+Anthropization
+Anti-consumerism
+Ecological footprint
+Ethical
+Over-consumption
+Simple living
+Sustainability advertising
+Sustainability brand
+Sustainability marketing myopia
+Sustainable
+Systemic change resistance
+Tragedy of the commons
+Population
+Birth control
+Family planning
+Control
+Overpopulation
+Zero growth
+Technology
+Appropriate
+Environmental
+Sustainable
+Biodiversity
+Biosecurity
+Biosphere
+Conservation biology
+Deep ecology
+Endangered species
+Holocene extinction
+Invasive species
+Energy
+Carbon footprint
+Climate change mitigation
+Conservation
+Descent
+Efficiency
+Emissions trading
+Fossil-fuel phase-out
+Peak oil
+Renewable
+Energy poverty
+Food
+Forest gardening
+Local
+Permaculture
+Security
+Sustainable agriculture
+Sustainable fishery
+Urban horticulture
+Water
+Conservation
+Crisis
+Efficiency
+Footprint
+Accountability
+Sustainability accounting
+Sustainability measurement
+Sustainability metrics and indices
+Sustainability reporting
+Standards and certification
+Sustainable yield
+Applications
+Advertising
+Architecture
+Art
+Business
+City
+College programs
+Community
+Design
+Ecovillage
+Education for Sustainable Development
+Fashion
+Gardening
+Geopark
+Green marketing
+Industries
+Landscape architecture
+Living
+Low-impact development
+Sustainable market
+Organizations
+Packaging
+Practices
+Procurement
+Tourism
+Transport
+Urban drainage systems
+Urban infrastructure
+Urbanism
+Management
+Environmental
+Fisheries
+Forest
+Materials
+Natural resource
+Planetary
+Waste
+Agreements
+UN Conference on the Human Environment (Stockholm 1972)
+Brundtlandt Commission Report (1983)
+Our Common Future (1987)
+Earth Summit (1992)
+Rio Declaration on Environment and Development
+Agenda 21 (1992)
+Convention on Biological Diversity (1992)
+ICPD Programme of Action (1994)
+Earth Charter
+Lisbon Principles
+UN Millennium Declaration (2000)
+Earth Summit 2002 (Rio+10, Johannesburg)
+United Nations Conference on Sustainable Development (Rio+20, 2012)
+Sustainable Development Goals
+Category
+Lists
+Outline
+Portal
+Science
+Studies
+Degrees
+Saved in parser cache with key enwiki:pcache:idhash:4432542-0!*!0!!en!4!* and timestamp 20161113132526 and revision id 729462369
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Renewable_heat&oldid=729462369"
+Categories: Energy economicsEnergy conservationHeatingLow-energy buildingResidential heatingRenewable energy technologySustainable technologiesSustainable buildingSustainable architectureHidden categories: All articles with dead external linksArticles with dead external links from October 2013All articles with unsourced statementsArticles with unsourced statements from January 2016Wikipedia articles needing clarification from February 2009Articles with unsourced statements from July 2008

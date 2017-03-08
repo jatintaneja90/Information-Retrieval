@@ -1,0 +1,141 @@
+HandleSystem
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}The Handle System is a technology specification for assigning, managing, and resolving persistent identifiers for digital objects and other resources on the Internet. The protocols specified enable a distributed computer system to store identifiers (names, or handles) of digital resources and resolve those handles into the information necessary to locate, access, and otherwise make use of the resources. That information can be changed as needed to reflect the current state and/or location of the identified resource without changing the handle.
+The Handle System was developed by Bob Kahn, co-inventor of the TCP/IP protocols that underlie the operation of the Internet, with support from the Defense Advanced Research Projects Agency DARPA at the Corporation for National Research Initiatives (CNRI), which continues to develop and manage it. The Handle System is currently in use in several applications.[1]
+The Handle System enables management of objects as first class entities, rather than as packets of bits with dependency on other attributes such as locations. It emerged as part of a wider Framework for Distributed Digital Object Services[2] but has been used in independent applications. The system is designed to be scalable[3] to very large numbers of entities without performance degradation, to allow distributed administration, and to enable resolution to multiple pieces of current data (each of which may be separately managed). It also has further optional features such as public key infrastructure capability to enable trust applications.
+Resolution is the process in which an identifier is the input request to a network service to receive in return a specific output of one or more pieces of current information (state data) related to the identified entity: e.g., a location (URL). The Domain Name System resolves domain names meaningful to humans into numerical IP addresses (locations of file servers). The Handle System is compatible with DNS but does not necessarily require it, unlike persistent identifiers such as PURLs or ARKs which utilise domain names and are therefore ultimately constrained by them. Other significant differences include the administrative granularity possible with the Handle System (administrators can be different for each handle, and there can also be more than one per handle) and the option for extensible multiple data types to be assigned.[4]
+DNS has well-recognised problems of security and updating which suggest that it will not be sufficient to assume that existing DNS technology can simply be adapted to deal with new requirements. By explicitly separating names from all associated data, including location, the Handle System addresses a key requirement of future internet architecture. A joint research project by the MIT Laboratory for Computer Science and Air Force Research Laboratory argued that "it is possible to separate the ideas of location and identity, both of which are represented by the IP address in today's Internet, ... the resulting architecture facilitates mobility as well as solving other problems with today's network".[5]
+Contents
+1 Specifications
+2 Implementation
+3 Design principles
+4 Applications
+5 Licences and use policy
+6 Examples
+7 Related technologies
+8 References
+9 External links
+Specifications[edit]
+The Handle System is defined in informational RFCs 3650,[6] 3651[7] and 3652[8] of the Internet Engineering Task Force (IETF); it includes an open set of protocols, a namespace, and a reference implementation of the protocols. Handles resolve to typed data. Documentation, software, and related information is provided by CNRI on a dedicated website[9] Each handle may have its own administrator(s) and administration of these handles can be done in a distributed environment. The name-to-value bindings may also be secured, both via signatures to verify the data and via challenge response to verify the transmission of the data, allowing handles to be used in trust management applications. The syntax of the handle encompasses any Unicode character and leaves the string construction to the assigner (thereby allowing inclusion of existing identifier strings if desired).
+Implementation of the Handle System consists of Local Handle Services, each of which is made up of one or more sites that provide the servers that store specific handles. The Global Handle Registry is a unique Local Handle Service which stores information on the prefixes (also known as naming authorities) within the Handle System and can be queried to find out where specific handles are stored on other Local Handle Services within this distributed system.
+Handles can be used natively, or expressed as Uniform Resource Names (URNs) or Uniform Resource Identifiers (URIs). Although the Handle System is not currently a registered stand-alone implementation of URI or URN, it is a part of the info URI[10] specification, RFC 4452.[11] Handles may also be expressed as Uniform Resource Locators (URLs), by the use of a http proxy server.[12]
+Implementation[edit]
+The Handle System website provides a series of implementation tools, notably the HANDLE.NET Software[13] and HANDLE.NET Client Libraries.[14] Handle clients can be embedded in end user software (e.g., a web browser) or in server software (e.g., a web server) and extensions are already available for Adobe Acrobat[15] and Firefox.[16]
+Handle client software libraries are available in both C and Java. Some applications have developed specific add-on tools, e.g., for the DOI System.[17]
+The interoperable network of distributed handle resolver servers (also known as the Proxy Server System) are linked through a Global Resolver (which is one logical entity though physically decentralised and mirrored). Users of Handle System technology obtain a handle prefix created in the Global Handle Registry.[18] The Global Handle Registry maintains and resolves the prefixes of locally maintained handle services. Any local handle service can, therefore, resolve any handle through the Global Resolver.
+Handles (identifiers) are passed by a client, as a query of the naming authority/prefix, to the Handle System's Global Handle Registry (GHR). The GHR responds by sending the client the location information for the relevant Local Handle Service (which may consist of multiple servers in multiple sites); a query is then sent to the relevant server within the Local Handle Service. The Local Handle Service returns the information needed to acquire the resource, e.g., a URL which can then be turned into an HTTP re-direct. (Note: if the client already has information on the appropriate LHS to query, the initial query to GHR is omitted)
+Though the original model from which the Handle System derives dealt with management of digital objects, the Handle System does not mandate any particular model of relationships between the identified entities, nor is it limited to identifying only digital objects: non-digital entities may be represented as a corresponding digital object for the purposes of digital object management. Some care is needed in the definition of such objects and how they relate to non-digital entities; there are established models that can aid in such definitions (e.g., Functional Requirements for Bibliographic Records (FRBR), CIDOC CRM, and indecs content model. Some applications have found it helpful to marry such a framework to the handle application: for example, the Advanced Distributed Learning (ADL) Initiative[19] brings together Handle System application with existing standards for distributed learning content, using a Shareable Content Object Reference Model (SCORM),[20] and the Digital Object Identifier (DOI) system implementation of the Handle System has adopted it together with the indecs framework to deal with semantic interoperability.
+The Handle System also makes explicit the importance of organizational commitment to a persistent identifier scheme, but does not mandate one model for ensuring such commitment. Individual applications may choose to establish their own sets of rules and social infrastructure to ensure persistence (e.g., when used in the DSpace application, and the DOI application).[21]
+Design principles[edit]
+The Handle system is designed to meet the following requirements to contribute to persistence[22][23]
+The identifier string:
+is not based on any changeable attributes of the entity (location, ownership, or any other attribute that may change without changing the referents identity);
+is opaque (preferably a dumb number: a well known pattern invites assumptions that may be misleading, and meaningful semantics may not translate across languages and may cause trademark conflicts);
+is unique within the system (to avoid collisions and referential uncertainty);
+has optional, but nice to have, features that should be supported (human-readable,cut-and-paste-able, embeddable; fits common systems, e.g., URI specification).
+The identifier resolution mechanism:
+is reliable (using redundancy, no single points of failure, and fast enough to not appear broken);
+is scalable (higher loads simply managed with more computers);
+is flexible (can adapt to changing computing environments; useful to new applications):
+is trusted (both resolution and administration have technical trust methods; an operating organization is committed to the long term);
+builds on open architecture (encouraging the leverage efforts of a community in building applications on the infrastructure);
+is transparent (users need not know the infrastructure details).
+Applications[edit]
+Among the objects that are currently identified by handles are journal articles, technical reports, books, theses and dissertations, government documents, metadata, distributed learning content, and data sets. Handles are being used in digital watermarking applications, GRID applications, repositories, and more. Although individual users may download and use the HANDLE.NET software independently, many users have found it beneficial to collaborate in developing applications in a federation, using common policy or additional technology to provide shared services. As one of the first persistent identifier schemes, the Handle System has been widely adopted by public and private institutions and proven over several years. (See Paradigm, Persistent identifiers.)[24]
+Handle System applications may use handles as simple persistent identifiers (as most commonly used, to resolve to the current URL of an object), or may choose to take advantage of other features. Its support for the simultaneous return as output of multiple pieces of current information related to the object, in defined data structures, enables priorities to be established for the order in which the multiple resolutions will be used. Handles can, therefore, resolve to different digital versions of the same content, to mirror sites, or to different business models (pay vs. free, secure vs. open, public vs. private). They can also resolve to different digital versions of differing content, such as a mix of objects required for a distance-learning course.
+There are thousands of handle services running today, located in 71 countries, on 6 continents; over 1000 of them run at universities and libraries. Handle services are being run by user federations, national laboratories, universities, computing centers, libraries (national and local), government agencies, contractors, corporations, and research groups. Major publishers use the Handle System for persistent identification of commercially traded and Open Access content through its implementation with the Digital Object Identifier (DOI) system.
+The number of prefixes, which allow users to assign handles, is growing and stands at over 12,000 as of early 2014. There are six top-level Global Handle Registry servers that receive (on average) 68 million resolution requests per month. Proxy servers known to CNRI, passing requests to the system on the Web, receive (on average) 200 million resolution requests per month. (Statistics from Handle Quick Facts.)[25]
+CNRI and ITU (International Telecommunication Union) recently entered into an agreement to collaborate on use of the Handle System (and the Digital Object Architecture more generally) and are working on the specific details of that collaboration; in April 2009 ITU listed the Handle System as an "emerging trend".[26]
+Licences and use policy[edit]
+Handle System, HANDLE.NET and Global Handle Registry are trademarks of the Corporation for National Research Initiatives (CNRI), a non-profit research and development corporation in the USA. The Handle System is the subject of patents by CNRI, which licenses its Handle System technology through a public license,[27] similar to an open source license, in order to enable broader use of the technology. Handle System infrastructure is supported by prefix registration and service fees, with the majority coming from single prefix holders. The largest current single contributor is the International DOI Foundation. The Public License allows commercial and non-commercial use at low cost of both its patented technology and the reference implementation of the software, and allows the software to be freely embedded in other systems and products. A Service Agreement[28] is also available for users who intend to provide identifier and/or resolution services using the Handle System technology under the Handle System public license.
+Examples[edit]
+This section is empty. You can help by adding to it. (August 2016)
+Related technologies[edit]
+This section needs to be updated. Please update this article to reflect recent events or newly available information. (August 2016)
+The Handle System is the first piece of a long-term digital object architecture. In January 2010 CNRI released its general-purpose Digital Object Repository software,[29] which is the second major component of this architecture. More information[30] about the release, including protocol specification, source code and ready-to-use system, clients and utilities, is available.[31] The third and final piece, the Digital Object Registry, will be released shortly.[when?]
+The continued use and evolution of the Handle System is in no way dependent on these other components, but those already using Handles may find them useful in small or large ways and both are, or soon will be, freely available under an open source style license.
+References[edit]
+^ "Current Applications of the Handle System". Handle.net. Retrieved 2013-03-13.
+^ "Kahn/Wilensky Architecture". Cnri.reston.va.us. 1995-05-13. Retrieved 2013-03-13.
+^ "Automatic redirect from discontinued page". Handle.net. Retrieved 2013-03-13.
+^ "Automatic redirect to Handle System Fundamentals". Handle.net. Retrieved 2013-03-13.
+^ David Clark, Karen Sollins, John Wroclawski, Dina Katabi, Joanna Kulik, Xiaowei Yang, Robert Braden, Ted Faber, Aaron Falk, Venkata Pingali (31 Dec 2003). "New Arch: Future Generation Internet Architecture" (PDF). Rome, New York: Air Force Research Laboratory. Retrieved 2013-03-13. CS1 maint: Uses authors parameter (link)
+^ http://www.rfc-editor.org/rfc/rfc3650.txt
+^ http://www.rfc-editor.org/rfc/rfc3651.txt
+^ http://www.rfc-editor.org/rfc/rfc3652.txt
+^ "handle.net". handle.net. Retrieved 2013-03-13.
+^ "About "info" URIs - Frequently Asked Questions". Info-uri.info. Retrieved 2013-03-13.
+^ http://www.rfc-editor.org/rfc/rfc4452.txt
+^ "HDL.NET Services: Proxy Server System". Handle.net. Retrieved 2013-03-13.
+^ "HS Software Download". Handle.net. Retrieved 2013-03-13.
+^ "Software Client Libraries". Handle.net. Retrieved 2013-03-13.
+^ "HDL Plug-in for Adobe Acrobat and Acrobat Reader". Handle.net. Retrieved 2013-03-13.
+^ [1] Archived September 5, 2015, at the Wayback Machine.
+^ "DOI System Tools". Doi.org. 2012-07-12. Retrieved 2013-03-13.
+^ "Services: Global Handle Registry". Handle.net. Retrieved 2013-03-13.
+^ "adlnet.gov". adlnet.gov. Retrieved 2013-03-13.
+^ "SCORM". adlnet.gov. Archived from the original on 2008-06-06.
+^ "doi.org". doi.org. 2013-01-08. Retrieved 2013-03-13.
+^ "Handle System Fundamentals, www.handle.net". Handle.net. Retrieved 2013-03-13.
+^ "Identifier Systems in Network Architecture, Laurence Lannom, CNRI. Video of presentation (or presentation PDF only) from the Digital Motion Picture Metadata Symposium, Science & Technology Council, Academy of Motion Picture Arts & Sciences, 11 June 2009". Oscars.org. 2012-08-24. Archived from the original on 2013-03-30. Retrieved 2013-03-13.
+^ "workbook on digital private papers | administrative and preservation metadata | persistent identifiers". paradigm. 2008-01-02. Retrieved 2013-03-13.
+^ "About the Handle System". Handle.net. Retrieved 7 January 2014.
+^ "Handle System". Itu.int. 2010-04-16. Retrieved 2013-03-13.
+^ http://www.handle.net/HSj/hdlnet-2-LICENSE.pdf
+^ http://www.handle.net/service_agreement.html
+^ "dorepository.org". dorepository.org. 2013-01-08. Retrieved 2013-03-13.
+^ "Digital Object Repository Server: A Component of the Digital Object Architecture". Dlib.org. 2010-02-04. Retrieved 2013-03-13.
+^ "DO Repository". DO Repository. doi:10.1045/january2010-reilly. Retrieved 2013-03-13.
+External links[edit]
+Official website
+Persistent identifiers project at Paradigm
+NewPP limit report
+Parsed by mw1222
+Cached time: 20161118034815
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.204 seconds
+Real time usage: 0.244 seconds
+Preprocessor visited node count: 1234/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 40413/2097152 bytes
+Template argument size: 1030/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 4/500
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 4.09 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+204.585
+1 - -total
+59.61%
+121.946
+1 - Template:Reflist
+43.54%
+89.066
+24 - Template:Cite_web
+17.33%
+35.464
+1 - Template:Empty-section
+13.06%
+26.719
+2 - Template:Ambox
+9.04%
+18.486
+1 - Template:When
+8.11%
+16.582
+1 - Template:Fix
+7.43%
+15.207
+1 - Template:Official_website
+5.65%
+11.559
+1 - Template:Update-section
+4.96%
+10.140
+1 - Template:Delink
+Saved in parser cache with key enwiki:pcache:idhash:22048289-0!*!0!!en!4!* and timestamp 20161118034815 and revision id 750164070
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Handle_System&oldid=750164070"
+Categories: Internet protocolsIdentifiersHidden categories: CS1 maint: Uses authors parameterWebarchive template wayback linksArticles to be expanded from August 2016All articles to be expandedArticles with empty sections from August 2016All articles with empty sectionsArticles using small message boxesWikipedia articles in need of updating from August 2016All Wikipedia articles in need of updatingVague or ambiguous time from August 2016Pages using RFC magic links

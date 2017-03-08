@@ -1,0 +1,90 @@
+NewYorkCitysteamsystem
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Steam vapor being vented through a typical Con Edison orange and white stack on Seventh Avenue at West 20th Street. Steam vapor such as this can be caused by a leak in Con Ed's steam system  which heats, cools and provides power for buildings in Manhattan up to East 89th and West 96th Street  or by cooler water contacting the outside of a steam pipe.[1]
+The New York City steam system is a district heating system which takes steam produced by steam generating stations and carries it under the streets of Manhattan to heat, cool, or supply power to high rise buildings and businesses. Some New York businesses and facilities also use the steam for cleaning and disinfection.
+The New York Steam Company began providing service in lower Manhattan on March 3, 1882.[2] Today, Consolidated Edison operates the largest commercial steam system in the world.[3] The organization within Con Edison that is responsible for the system's operation is known as Steam Operations, providing steam service to over 1,700 customers and serving commercial and residential establishments in Manhattan from Battery Park to 96th Street uptown on the West side and 89th Street on the East side of Manhattan.[4] Roughly 24billion pounds (11,000,000t) of steam flow through the system every year.[1]
+Contents
+1 Effects on the environment
+2 Plants
+3 See also
+4 References
+5 External links
+Effects on the environment[edit]
+Cogeneration and Heat Recovery Steam Generation (HRSG) significantly increase the efficiency of fuel usage and thereby reduces the emission of pollutants, such as NOx, sulfur dioxide, carbon dioxide, and particulate matter, and reduce the city's carbon footprint. Approximately 30% of the ConEd steam systems installed capacity and 50% of the annual steam generated comes from cogeneration.[5] Con Edison is promoting the use of steam for cooling in the summer months, something that can be accomplished with the installation of absorption chillers.[6] Such trigeneration systems result in additional energy and pollution savings, while reducing peak electrical loads.
+Clouds of condensation can sometimes be seen rising from manholes in Manhattan through orange and white "chimneys". This can be caused by external water being boiled by contact with the steam pipes or by leaks in the steam system itself.[1]
+At least 12 steam pipe explosions have occurred in New York City since 1987.[7] The most recent incident was the 2007 New York City steam explosion. Another major incident occurred on June 28, 1996, at the plant on East 75th Street.[8]
+Plants[edit]
+Map all coordinates using OSM
+Map all coordinates using Google
+Map up to 200 coordinates using Bing
+Export all coordinates as KML
+Export all coordinates as GeoRSS
+Export all coordinates as GPX
+Map all microformatted coordinates
+Place data as RDF
+East 74th Street plant
+West 59th Street plant
+East 74th Street Station (at FDR Drive) 404601N 735703W / 40.7668749N 73.9508952W / 40.7668749; -73.9508952
+60th Street Station (at York Ave.) 404535N 735732W / 40.7598303N 73.9589127W / 40.7598303; -73.9589127
+59th Street Station (at 11th Ave.) (IRT Powerhouse) 404608N 735930W / 40.7689531N 73.991624W / 40.7689531; -73.991624
+East River Station (14th St. and FDR) (cogeneration) 404340N 735824W / 40.7277782N 73.9732059W / 40.7277782; -73.9732059
+BNYCP Plant (Brooklyn Navy Yard Cogeneration Partners) (cogeneration) 404158N 735834W / 40.699314N 73.976086W / 40.699314; -73.976086
+Ravenswood "A" House Steam Station (Queens) 404522N 735701W / 40.7561804N 73.9503086W / 40.7561804; -73.9503086
+See also[edit]
+Cogeneration
+District heating
+Holly Steam Combination Company
+2007 New York City steam explosion
+References[edit]
+Notes
+^ a b c "Steam operations FAQ" on the Con Edison website
+^ "A Brief History of Con Edison". Con Edison. Retrieved 2014-05-04.
+^ http://www.nytimes.com/2014/10/10/nyregion/miles-of-steam-pipes-snake-beneath-new-york.html?_r=0
+^ [1]
+^ "Con Edison Steam Long Range Plan 2010-2030", p. 69
+^ Benefits and Case Studies of Hybrid Cooling Using Steam, Consolidated Edison
+^ Belson, Ken and DePalma, Anthony. "Asbestos and Aging Pipes Remain Buried Hazards", The New York Times (July 19, 2007).
+^ Raffa, Frank. "Con-Ed Blows Off Some Steam". FDNewYork.com. Retrieved February 20, 2014.
+External links[edit]
+Con Edison Steam Operations
+Con Ed History
+Gotham Gazette Article on Steam
+NewPP limit report
+Parsed by mw1264
+Cached time: 20161118185817
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.132 seconds
+Real time usage: 0.161 seconds
+Preprocessor visited node count: 478/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 13293/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Lua time usage: 0.059/10.000 seconds
+Lua memory usage: 2.85 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+130.109
+1 - -total
+42.56%
+55.370
+1 - Template:Convert
+33.47%
+43.546
+1 - Template:Reflist
+26.99%
+35.115
+2 - Template:Cite_web
+15.14%
+19.703
+6 - Template:Coord
+5.06%
+6.581
+1 - Template:Kml
+Saved in parser cache with key enwiki:pcache:idhash:12323291-0!*!0!!en!4!* and timestamp 20161118185817 and revision id 743490792
+Retrieved from "https://en.wikipedia.org/w/index.php?title=New_York_City_steam_system&oldid=743490792"
+Categories: District heating in the United StatesNew York City infrastructureSteam powerConsolidated EdisonHidden categories: Lists of coordinatesGeographic coordinate listsArticles with Geo

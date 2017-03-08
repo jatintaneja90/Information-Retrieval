@@ -1,0 +1,135 @@
+WaldpolenzSolarPark
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Waldpolenz Solar Park
+First Solar 40-MW CdTe PV Array installed by JUWI Group in Waldpolenz, Germany
+Location of Waldpolenz Solar Park in Germany
+Country
+Germany
+Coordinates
+511942N 123922E / 51.32833N 12.65611E / 51.32833; 12.65611Coordinates: 511942N 123922E / 51.32833N 12.65611E / 51.32833; 12.65611
+Constructioncost
+130 million
+Operator(s)
+Juwi
+Solarfield
+Type
+Flat-panel PV
+Sitearea
+220ha (544 acres) footprint
+Powergeneration
+Unitsoperational
+550,000
+Makeandmodel
+First Solar
+Nameplatecapacity
+52 MW
+Averagegeneration
+52 GWh
+Website
+Juwi
+The Waldpolenz Solar Park is a 52-megawatt (MW) photovoltaic power station built by German developer and operator Juwi at a former military air base near Leipzig, Eastern Germany. When completed by the end of 2008, it was the world's largest thin-film solar park using CdTe-modules.[1]
+Initially, the solar power plant's nameplate capacity was 40 MW, consisting of 500,000 state-of-the-art solar panels provided by U.S. manufacturer First Solar, and generated 40,000MWh of electricity per year.[2] The solar park was then extended with another 153,650 panels, also provided by First Solar, to a final capacity of 52MWP in 2011[3]
+The installation is located in the Muldentalkreis district in the state of Saxony in eastern Germany, built on half of the locations 220 hectares (543.6 acres)[4] in the townships of Brandis and Bennewitz.[5] The investment costs for the Waldpolenz solar park have amounted to some 130 million euro.[2]
+See also[edit]
+Energy portal
+Energy policy of the European Union
+List of photovoltaic power stations
+Photovoltaics
+Pocking Solar Park in Germany
+Renewable energy commercialization
+Renewable energy in the European Union
+Solar power
+References[edit]
+^ Worlds largest solar power plant being built in eastern Germany
+^ a b Building Approval Granted for 40 MW Photovoltaic Project
+^ "juwi Solar Presents New Large-Scale Projects and Innovations". Juwi press release. 31 Aug 2011. Retrieved Aug 2012. Check date values in: |access-date= (help)
+^ "Map of site footprint of Waldpolenz Energy Park". Wiki-solar. Retrieved 5 March 2015.
+^ eXenewable Project Profile Page - Waldpolenz, PV, Germany
+v
+t
+e
+Solar parks in Germany
+Alt Daber
+Bavaria
+Briest
+Cottbus-Drewitz
+Eiche
+Eggebek
+Erlasee
+Ernsthof
+Finow Tower
+Finsterwalde
+Frstenwalde
+Geiseltalsee
+Gottelborn
+Gstrow
+Heideblick
+Kthen
+Krughtte
+Lauingen
+Lieberose
+Meuro
+Perleberg
+Pocking
+Reckahn
+Rote Jahne
+Rothenburg
+Senftenberg
+Strasskirchen
+Walddrehna
+Waldpolenz
+This article about a Germany power station is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+NewPP limit report
+Parsed by mw1214
+Cached time: 20161120084448
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.160 seconds
+Real time usage: 0.212 seconds
+Preprocessor visited node count: 1127/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 33746/2097152 bytes
+Template argument size: 1275/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 3.72 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+177.588
+1 - -total
+63.01%
+111.906
+1 - Template:Infobox_power_station
+57.67%
+102.422
+1 - Template:Infobox
+16.93%
+30.057
+2 - Template:Convert
+16.13%
+28.642
+1 - Template:Cite_news
+10.64%
+18.894
+1 - Template:Geobox_coor
+7.39%
+13.121
+1 - Template:Location_map
+4.92%
+8.744
+1 - Template:Germany-powerstation-stub
+4.26%
+7.565
+1 - Template:Asbox
+3.84%
+6.825
+1 - Template:Solar_parks_in_Germany
+Saved in parser cache with key enwiki:pcache:idhash:10471452-0!*!0!!*!4!* and timestamp 20161120084447 and revision id 729843173
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Waldpolenz_Solar_Park&oldid=729843173"
+Categories: Photovoltaic power stations in GermanyGerman power station stubsHidden categories: CS1 errors: datesCoordinates on WikidataAll stub articles

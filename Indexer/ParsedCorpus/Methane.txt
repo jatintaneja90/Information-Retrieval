@@ -1,0 +1,1217 @@
+Methane
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"CH4" redirects here. For other uses, see CH4 (disambiguation).
+For the emergency service protocol, see ETHANE.
+Methane
+Names
+Preferred IUPAC name
+Methane[1]
+Systematic IUPAC name
+Carbane (never recommended[1])
+Other names
+Marsh Gas
+Natural Gas
+Carbon tetrahydride
+Hydrogen carbide
+Identifiers
+CAS Number
+74-82-8Y
+3D model (Jmol)
+Interactive image
+3DMet
+B01450
+Beilstein Reference
+1718732
+ChEBI
+CHEBI:16183Y
+ChEMBL
+ChEMBL17564Y
+ChemSpider
+291Y
+ECHA InfoCard
+100.000.739
+EC Number
+200-812-7
+Gmelin Reference
+59
+KEGG
+C01438N
+MeSH
+Methane
+PubChem
+297
+RTECS number
+PA1490000
+UN number
+1971
+InChI
+InChI=1S/CH4/h1H4Y
+Key:VNWKTOKETHGBQD-UHFFFAOYSA-NY
+SMILES
+C
+Properties
+Chemical formula
+CH4
+Molar mass
+16.04gmol1
+Appearance
+Colorless gas
+Odor
+Odorless
+Density
+0.656 g/L (gas, 25 C, 1 atm)
+0.716 g/L (gas, 0 C, 1 atm)
+0.42262 g cm3
+(liquid, 162 C)[2]
+Melting point
+182.5C; 296.4F; 90.7K
+Boiling point
+161.49C; 258.68F; 111.66K
+Solubility in water
+22.7 mg L1
+Solubility
+soluble in ethanol, diethyl ether, benzene, toluene, methanol, acetone
+log P
+1.09
+Henry's law
+constant(kH)
+14 nmol Pa1 kg1
+Structure
+Point group
+Td
+Molecular shape
+Tetrahedron
+Dipole moment
+0 D
+Thermochemistry
+Specific
+heat capacity (C)
+35.69 J K1 mol1
+Std molar
+entropy (So298)
+186.25 J K1 mol1
+Std enthalpy of
+formation (fHo298)
+74.87 kJ mol1
+Std enthalpy of
+combustion (cHo298)
+891.1 to 890.3 kJ mol1
+Hazards[3]
+Safety data sheet
+See: data page
+GHS pictograms
+GHS signal word
+DANGER
+GHS hazard statements
+H220
+GHS precautionary statements
+P210
+EUclassification (DSD)
+F+
+R-phrases
+R12
+S-phrases
+(S2), S16, S33
+NFPA 704
+4
+2
+0
+Flash point
+188C (306.4F; 85.1K)
+Autoignition
+temperature
+537C (999F; 810K)
+Explosive limits
+4.417%
+Related compounds
+Related alkanes
+Methyl iodide
+Difluoromethane
+Iodoform
+Carbon tetrachloride
+Supplementary data page
+Structure and
+properties
+Refractive index (n),
+Dielectric constant (r), etc.
+Thermodynamic
+data
+Phase behaviour
+solidliquidgas
+Spectral data
+UV, IR, NMR, MS
+Except where otherwise noted, data are given for materials in their standard state (at 25C [77F], 100kPa).
+Nverify(what isYN?)
+Infoboxreferences
+Methane (US /men/ or UK /mien/) is a chemical compound with the chemical formula CH4 (one atom of carbon and four atoms of hydrogen). It is a group 14 hydride and the simplest alkane, and is the main component of natural gas. The relative abundance of methane on Earth makes it an attractive fuel, though capturing and storing it poses challenges due to its gaseous state under normal conditions for temperature and pressure.
+In its natural state, methane is found both below ground and under the sea floor. When it finds its way to the surface and the atmosphere, it is known as atmospheric methane.[5] The Earth's atmospheric methane concentration has increased by about 150% since 1750, and it accounts for 20% of the total radiative forcing from all of the long-lived and globally mixed greenhouse gases (these gases don't include water vapor which is by far the largest component of the greenhouse effect).[6] Methane breaks down in the atmosphere and creates CH3 with water vapor.
+Contents
+1 History
+2 Properties and bonding
+3 Chemical reactions
+3.1 Acid-base reactions
+3.2 Combustion
+3.3 Reactions with halogens
+4 Uses
+4.1 Fuel
+4.1.1 Natural gas
+4.1.2 Liquefied natural gas
+4.1.3 Liquid methane rocket fuel
+4.2 Chemical feedstock
+5 Production
+5.1 Biological routes
+5.2 Power to gas
+5.3 Industrial routes
+5.4 Laboratory synthesis
+5.5 On Mars
+6 Occurrence
+6.1 Alternative sources
+6.2 Atmospheric methane
+6.3 Clathrates
+7 Anaerobic oxidation of methane
+8 Safety
+9 Extraterrestrial methane
+10 See also
+11 Notes
+12 References
+13 External links
+History[edit]
+This section needs expansion. You can help by adding to it. (November 2013)
+In November 1776, methane was first scientifically identified by Italian physicist Alessandro Volta in the marshes of Lake Maggiore straddling Italy and Switzerland. Volta was inspired to search for the substance after reading a paper written by Benjamin Franklin about "flammable air".[7] Volta captured the gas rising from the marsh, and by 1778 had isolated the pure gas.[8] He also demonstrated means to ignite the gas with an electric spark.[8]
+The name "methane" was coined in 1866 by the German chemist August Wilhelm von Hofmann.[9] The name was deriven from methanol.
+Properties and bonding[edit]
+Methane is a tetrahedral molecule with four equivalent CH bonds. Its electronic structure is described by four bonding molecular orbitals (MOs) resulting from the overlap of the valence orbitals on C and H. The lowest energy MO is the result of the overlap of the 2s orbital on carbon with the in-phase combination of the 1s orbitals on the four hydrogen atoms. Above this energy level is a triply degenerate set of MOs that involve overlap of the 2p orbitals on carbon with various linear combinations of the 1s orbitals on hydrogen. The resulting "three-over-one" bonding scheme is consistent with photoelectron spectroscopic measurements.
+At room temperature and standard pressure, methane is a colorless, odorless gas.[10] The familiar smell of natural gas as used in homes is achieved by the addition of an odorant, usually blends containing tert-butylthiol, as a safety measure. Methane has a boiling point of 161 C (257.8 F) at a pressure of one atmosphere.[11] As a gas it is flammable over a range of concentrations (5.417%) in air at standard pressure.
+Solid methane exists in several modifications. Presently nine are known.[12] Cooling methane at normal pressure results in the formation of methane I. This substance crystallizes in the cubic system (space group Fm3m). The positions of the hydrogen atoms are not fixed in methane I, i.e. methane molecules may rotate freely. Therefore, it is a plastic crystal.[13]
+Chemical reactions[edit]
+The primary chemical reactions of methane are combustion, steam reforming to syngas, and halogenation. In general, methane reactions are difficult to control. Partial oxidation to methanol, for example, is challenging because the reaction typically progresses all the way to carbon dioxide and water even with an insufficient supply of oxygen. The enzyme methane monooxygenase produces methanol from methane, but cannot be used for industrial-scale reactions.[14]
+Acid-base reactions[edit]
+Like other hydrocarbons, methane is a very weak acid. Its pKa in DMSO is estimated to be 56.[15] It cannot be deprotonated in solution, but the conjugate base with methyllithium is known.
+A variety of positive ions derived from methane have been observed, mostly as unstable species in low-pressure gas mixtures. These include methenium or methyl cation CH+
+3, methane cation CH+
+4, and methanium or protonated methane CH+
+5. Some of these have been detected in outer space. Methanium can also be produced as diluted solutions from methane with superacids. Cations with higher charge, such as CH2+
+6 and CH3+
+7, have been studied theoretically and conjectured to be stable.[16]
+Despite the strength of its CH bonds, there is intense interest in catalysts that facilitate CH bond activation in methane (and other lower numbered alkanes).[17]
+Combustion[edit]
+Methane's heat of combustion is 55.5 MJ/kg.[18] Combustion of methane is a multiple step reaction. The following equations are part of the process, with the net result being:
+CH4 + 2 O2  CO2 + 2 H2O (H = 891 k J/mol (at standard conditions))
+CH4+ M*  CH3 + H + M
+CH4 + O2  CH3 + HO2
+CH4 + HO2  CH3 + 2 OH
+CH4 + OH  CH3 + H2O
+O2 + H  O + OH
+CH4 + O  CH3 + OH
+CH3 + O2  CH2O + OH
+CH2O + O  CHO + OH
+CH2O + OH  CHO + H2O
+CH2O + H  CHO + H2
+CHO + O  CO + OH
+CHO + OH  CO + H2O
+CHO + H  CO + H2
+H2 + O  H + OH
+H2 + OH  H + H2O
+CO + OH  CO2 + H
+H + OH + M  H2O + M*
+H + H + M  H2 + M*
+H + O2 + M  HO2 + M*
+The species M* signifies an energetic third body, from which energy is transferred during a molecular collision. Formaldehyde (HCHO or H
+2CO) is an early intermediate (reaction 7). Oxidation of formaldehyde gives the formyl radical (HCO; reactions 810), which then give carbon monoxide (CO) (reactions 11, 12 & 13). Any resulting H2 oxidizes to H2O or other intermediates (reaction 14, 15). Finally, the CO oxidizes, forming CO2 (reaction 16). In the final stages (reactions 1719), energy is transferred back to other third bodies. The overall speed of reaction is a function of the concentration of the various entities during the combustion process. The higher the temperature, the greater the concentration of radical species and the more rapid the combustion process.[19]
+Reactions with halogens[edit]
+Given appropriate conditions, methane reacts with halogens as follows:
+X2 + UV  2 X
+X + CH4  HX + CH3
+CH3 + X2  CH3X + X
+where X is a halogen: fluorine (F), chlorine (Cl), bromine (Br), or iodine (I). This mechanism for this process is called free radical halogenation. It is initiated with UV light or some other radical initiator. A chlorine atom is generated from elemental chlorine, which abstracts a hydrogen atom from methane, resulting in the formation of hydrogen chloride. The resulting methyl radical, CH3, can combine with another chlorine molecule to give methyl chloride (CH3Cl) and a chlorine atom. This chlorine atom can then react with another methane (or methyl chloride) molecule, repeating the chlorination cycle.[20] Similar reactions can produce dichloromethane (CH2Cl2), chloroform (CHCl3), and, ultimately, carbon tetrachloride (CCl4), depending upon reaction conditions and the chlorine to methane ratio.
+Uses[edit]
+Methane is used in industrial chemical processes and may be transported as a refrigerated liquid (liquefied natural gas, or LNG). While leaks from a refrigerated liquid container are initially heavier than air due to the increased density of the cold gas, the gas at ambient temperature is lighter than air. Gas pipelines distribute large amounts of natural gas, of which methane is the principal component.
+Fuel[edit]
+Methane is used as a fuel for ovens, homes, water heaters, kilns, automobiles,[21][22] turbines, and other things. It combusts with oxygen to create fire.
+Natural gas[edit]
+Main article: natural gas
+Methane is important for electrical generation by burning it as a fuel in a gas turbine or steam generator. Compared to other hydrocarbon fuels, methane produces less carbon dioxide for each unit of heat released. At about 891 kJ/mol, methane's heat of combustion is lower than any other hydrocarbon but the ratio of the heat of combustion (891 kJ/mol) to the molecular mass (16.0 g/mol, of which 12.0 g/mol is carbon) shows that methane, being the simplest hydrocarbon, produces more heat per mass unit (55.7 kJ/g) than other complex hydrocarbons. In many cities, methane is piped into homes for domestic heating and cooking. In this context it is usually known as natural gas, which is considered to have an energy content of 39 megajoules per cubic meter, or 1,000 BTU per standard cubic foot.
+Methane in the form of compressed natural gas is used as a vehicle fuel and is claimed to be more environmentally friendly than other fossil fuels such as gasoline/petrol and diesel.[22] Research into adsorption methods of methane storage for use as an automotive fuel has been conducted.[23]
+Liquefied natural gas[edit]
+Main article: Liquefied natural gas
+Liquefied natural gas (LNG) is natural gas (predominantly methane, CH4) that has been converted to liquid form for ease of storage or transport.
+Liquefied natural gas takes up about 1/600th the volume of natural gas in the gaseous state. It is odorless, colorless, non-toxic and non-corrosive. Hazards include flammability after vaporization into a gaseous state, freezing, and asphyxia.
+The liquefaction process involves removal of certain components, such as dust, acid gases, helium, water, and heavy hydrocarbons, which could cause difficulty downstream. The natural gas is then condensed into a liquid at close to atmospheric pressure (maximum transport pressure set at around 25kPa or 3.6psi) by cooling it to approximately 162C (260F).[citation needed]
+LNG achieves a higher reduction in volume than compressed natural gas (CNG) so that the energy density of LNG is 2.4times greater than that of CNG or 60% that of diesel fuel.[24] This makes LNG cost efficient to transport over long distances where pipelines do not exist. Specially designed cryogenic sea vessels (LNG carriers) or cryogenic road tankers are used for its transport.
+LNG, when it is not highly refined for special uses, is principally used for transporting natural gas to markets, where it is regasified and distributed as pipeline natural gas. It is also beginning to be used in LNG-fueled road vehicles. For example, trucks in commercial operation have been achieving payback periods of approximately four years on the higher initial investment required in LNG equipment on the trucks and LNG infrastructure to support fueling.[25] However, it remains more common to design vehicles to use compressed natural gas. As of 2002[update], the relatively higher cost of LNG production and the need to store LNG in more expensive cryogenic tanks had slowed widespread commercial use.[26]
+Liquid methane rocket fuel[edit]
+In a highly refined form, liquid methane is used as a rocket fuel.[27]
+Though methane has been investigated for decades, no production methane engines have yet been used on orbital spaceflights.[28] This promises to change as liquid methane has recently been selected for the active development of a variety of bipropellant rocket engines.
+Since the 1990s, a number of Russian rockets using liquid methane have been proposed.[29][30] One 1990s Russian engine proposal was the RD-192, a methane/LOX variant of the RD-191.[30]
+In 2005, US companies, Orbitech and XCOR Aerospace, developed a demonstration liquid oxygen/liquid methane rocket engine and a larger 7,500 pounds-force (33kN)-thrust engine in 2007 for potential use as the CEV lunar return engine, before the CEV program was later cancelled.[31][32][33]
+More recently the American private space company SpaceX announced in 2012 an initiative to develop liquid methane rocket engines,[34] including initially, the very large Raptor rocket engine.[35] Raptor is being designed to produce 4.4 meganewtons (1,000,000lbf) of thrust with a vacuum specific impulse (Isp) of 363 seconds and a sea-level Isp of 321 seconds,[36] and began component-level testing in 2014.[37] In February 2014, the Raptor engine design was shown to be of the highly efficient and theoretically more reliable full-flow staged combustion cycle type, where both propellant streamsoxidizer and fuelare completely in the gas phase before they enter the combustion chamber. Prior to 2014, only two full-flow rocket engines had ever progressed sufficiently to be tested on test stands, but neither engine completed development or flew on a flight vehicle.[36] In 2016, a development Raptor engine was tested.[38]
+In October 2013, the China Aerospace Science and Technology Corporation, a state-owned contractor for the Chinese space program, announced that it had completed a first ignition test on a new LOX methane rocket engine. No engine size was provided.[39]
+In September 2014, another American private space companyBlue Origin publicly announced that they were into their third year of development work on a large methane rocket engine. The new engine, the Blue Engine 4, or BE-4, has been designed to produce 2,400 kilonewtons (550,000lbf) of thrust. While initially planned to be used exclusively on a Blue Origin proprietary launch vehicle, it will now be used on a new United Launch Alliance (ULA) engine on an new launch vehicle that is a successor to the Atlas V. ULA indicated in 2014 that they will make the maiden flight of the new launch vehicle no earlier than 2019.[40]
+One advantage of methane is that it is abundant in many parts of the solar system and it could potentially be harvested on the surface of another solar-system body (in particular, using methane production from local materials found on Mars[41] or Titan), providing fuel for a return journey.[27][42]
+By 2013, NASA's Project Morpheus had developed a small restartable LOX methane rocket engine with 5,000 pounds-force (22kN) thrust and a specific impulse of 321 seconds suitable for inspace applications including landers. Small LOX methane thrusters 515 pounds-force (2267N) were also developed suitable for use in a Reaction Control System (RCS).[43][44]
+SpaceNews is reporting in early 2015 that the French space agency CNES is working with Germany and a few other governments and will propose a LOX/methane engine on a reusable launch vehicle by mid-2015,[needs update] with flight testing unlikely before approximately 2026.[45]
+Chemical feedstock[edit]
+Although there is great interest in converting methane into useful or more easily liquefied compounds, the only practical processes are relatively unselective. In the chemical industry, methane is converted to synthesis gas, a mixture of carbon monoxide and hydrogen, by steam reforming. This endergonic process (requiring energy) utilizes nickel catalysts and requires high temperatures, around 7001100C:
+CH4 + H2O  CO + 3 H2
+Related chemistries are exploited in the Haber-Bosch Synthesis of ammonia from air, which is reduced with natural gas to a mixture of carbon dioxide, water, and ammonia.
+Methane is also subjected to free-radical chlorination in the production of chloromethanes, although methanol is a more typical precursor.[46]
+In recent years, there have been reports of further commercially viable processes leveraging methane as a chemical feedstock, e.g., based on the Oxidative coupling of methane, the Catalytic Oxidation of Methane into Methanol[47] and the direct reaction of Methane with Sulfur trioxide.[48][49] Despite significant research efforts (incl. Venture capital financing), efforts continue to focus on pilot and demo plant-level; as of 2016, only the startup of an industrial scale production plant for Methanesulfonic acid via direct reaction of Methane with Sulfur trioxide has been communicated for 2019.[49]
+Production[edit]
+Biological routes[edit]
+Main article: methanogenesis
+Naturally occurring methane is mainly produced by the process of methanogenesis. This multistep process is used by microorganisms as an energy source. The net reaction is:
+CO2 + 8 H+ + 8 e  CH4 + 2 H2O
+The final step in the process is catalyzed by the enzyme Coenzyme-B sulfoethylthiotransferase. Methanogenesis is a form of anaerobic respiration used by organisms that occupy landfill, ruminants (e.g., cattle), and the guts of termites.
+It is uncertain if plants are a source of methane emissions.[50][51][52]
+Power to gas[edit]
+Main article: Power to gas
+Power to gas is a technology which converts electrical power to a gas fuel. The method is used to convert carbon dioxide and water to methane, (see natural gas) using electrolysis and the Sabatier reaction.[clarification needed] Excess and off-peak power generated by wind generators and solar arrays could theoretically be used for load balancing in the energy grid.[citation needed]
+Industrial routes[edit]
+Methane can be produced by hydrogenating carbon dioxide through the Sabatier process. Methane is also a side product of the hydrogenation of carbon monoxide in the Fischer-Tropsch process. This technology is practiced on a large scale to produce longer chain molecules than methane.
+Natural gas is so abundant that the intentional production of methane is relatively rare. The only large scale facility of this kind is the Great Plains Synfuels plant, started in 1984 in Beulah, North Dakota as a way to develop abundant local resources of low grade lignite, a resource which is otherwise very hard to transport for its weight, ash content, low calorific value and propensity to spontaneous combustion during storage and transport.
+Laboratory synthesis[edit]
+Methane can also be produced by the destructive distillation of acetic acid in the presence of soda lime or similar. Acetic acid is decarboxylated in this process. Methane can also be prepared by reaction of aluminium carbide with water or strong acids. It is also made by reducing a solution of methanol and concentrated hydrochloric acid with iron powder, giving water and ferrous chloride as a byproduct.
+On Mars[edit]
+Methane has been proposed as a possible rocket propellant on future Mars missions due in part to the possibility of synthesizing it on the planet via in situ resource utilization.[53]
+An adaptation of the Sabatier methanation reaction may be used via a mixed catalyst bed and a reverse water gas shift in a single reactor to produce methane from the raw materials available on Mars, utilizing water from the Martian subsoil and carbon dioxide in the Martian atmosphere.[41]
+Methane could also be produced by a non-biological process called serpentinization[a] involving water, carbon dioxide, and the mineral olivine, which is known to be common on Mars.[54]
+Occurrence[edit]
+Methane was discovered and isolated by Alessandro Volta between 1776 and 1778 when studying marsh gas from Lake Maggiore. It is the major component of natural gas, about 87% by volume. The major source of methane is extraction from geological deposits known as natural gas fields, with coal seam gas extraction becoming a major source (see Coal bed methane extraction, a method for extracting methane from a coal deposit, while enhanced coal bed methane recovery is a method of recovering methane from non-mineable coal seams). It is associated with other hydrocarbon fuels, and sometimes accompanied by helium and nitrogen. Methane is produced at shallow levels (low pressure) by anaerobic decay of organic matter and reworked methane from deep under the Earth's surface. In general, the sediments that generate natural gas are buried deeper and at higher temperatures than those that contain oil.
+Methane is generally transported in bulk by pipeline in its natural gas form, or LNG carriers in its liquefied form; few countries transport it by truck.
+Alternative sources[edit]
+Testing Australian sheep for exhaled methane production (2001), CSIRO
+Apart from gas fields, an alternative method of obtaining methane is via biogas generated by the fermentation of organic matter including manure, wastewater sludge, municipal solid waste (including landfills), or any other biodegradable feedstock, under anaerobic conditions. Rice fields also generate large amounts of methane during plant growth. Methane hydrates/clathrates (ice-like combinations of methane and water on the sea floor, found in vast quantities) are a potential future source of methane. Cattle belch methane accounts for 16% of the world's annual methane emissions to the atmosphere.[55] One study reported that the livestock sector in general (primarily cattle, chickens, and pigs) produces 37% of all human-induced methane.[56] Early research has found a number of medical treatments and dietary adjustments that help slightly limit the production of methane in ruminants.[57][58] A 2009 study found that at a conservative estimate, at least 51% of global greenhouse gas emissions were attributable to the life cycle and supply chain of livestock products, meaning all meat, dairy, and by-products, and their transportation.[59] More recently, a 2013 study estimated that livestock accounted for 44 percent of human-induced methane and 14.5 percent of human-induced greenhouse gas emissions.[60] Many efforts are underway to reduce livestock methane production and trap the gas to use as energy.[61]
+Paleoclimatology research published in Current Biology suggests that flatulence from dinosaurs may have warmed the Earth.[62]
+Atmospheric methane[edit]
+Main article: Atmospheric methane
+Methane concentrations up to December 2015 (Mauna Loa)
+Methane is created near the Earth's surface, primarily by microorganisms by the process of methanogenesis. It is carried into the stratosphere by rising air in the tropics. Uncontrolled build-up of methane in the atmosphere is naturally checked although human influence can upset this natural regulation by methane's reaction with hydroxyl radicals formed from singlet oxygen atoms and with water vapor. It has a net lifetime of about 10 years,[63] and is primarily removed by conversion to carbon dioxide and water.
+In addition, there is a large (but unknown) amount of methane in methane clathrates in the ocean floors as well as the Earth's crust.
+In 2010, methane levels in the Arctic were measured at 1850 nmol/mol, a level over twice as high as at any time in the 400,000 years prior to the industrial revolution. Historically, methane concentrations in the world's atmosphere have ranged between 300 and 400 nmol/mol during glacial periods commonly known as ice ages, and between 600 and 700 nmol/mol during the warm interglacial periods. Recent research suggests that the Earth's oceans are a potentially important new source of Arctic methane.[64]
+Methane is an important greenhouse gas with a global warming potential of 34 compared to CO2 over a 100-year period, and 72 over a 20-year period.[65][66][67]
+The Earth's atmospheric methane concentration has increased by about 150% since 1750, and it accounts for 20% of the total radiative forcing from all of the long-lived and globally mixed greenhouse gases (these gases don't include water vapor which is by far the largest component of the greenhouse effect).[6]
+Clathrates[edit]
+Methane is essentially insoluble in water, but it can be trapped in ice forming a similar solid. Significant deposits of methane clathrate have been found under sediments on the ocean floors of Earth at large depths.
+Arctic methane release from permafrost and methane clathrates is an expected consequence and further cause of global warming.[68][69][70]
+Anaerobic oxidation of methane[edit]
+There is a group of bacteria that drive methane oxidation with nitrite as the oxidant, the anaerobic oxidation of methane.[71]
+Safety[edit]
+Methane is nontoxic, yet it is extremely flammable and may form explosive mixtures with air. Methane is violently reactive with oxidizers, halogen, and some halogen-containing compounds. Methane is also an asphyxiant and may displace oxygen in an enclosed space. Asphyxia may result if the oxygen concentration is reduced to below about 16% by displacement, as most people can tolerate a reduction from 21% to 16% without ill effects. The concentration of methane at which asphyxiation risk becomes significant is much higher than the 515% concentration in a flammable or explosive mixture. Methane off-gas can penetrate the interiors of buildings near landfills and expose occupants to significant levels of methane. Some buildings have specially engineered recovery systems below their basements to actively capture this gas and vent it away from the building.
+Methane gas explosions are responsible for many deadly mining disasters.[72] A methane gas explosion was the cause of the Upper Big Branch coal mine disaster in West Virginia on April 5, 2010, killing 25.[73]
+Extraterrestrial methane[edit]
+Methane has been detected or is believed to exist on all planets of the solar system and most of the larger moons. With the possible exceptions of Mars and Titan, it is believed to have come from abiotic processes.
+Mercury  the tenuous atmosphere contains trace amounts of methane.[74]
+Venus  the atmosphere contains a large amount of methane from 60km (37mi) to the surface according to data collected by the Pioneer Venus Large Probe Neutral Mass Spectrometer[75]
+Moon  traces are outgassed from the surface[76]
+Methane (CH4) on Mars  potential sources and sinks.
+Mars  the Martian atmosphere contains 10 nmol/mol methane.[77] The source of methane on Mars has not been determined. Recent research suggests that methane may come from volcanoes, fault lines, or methanogens,[78] that it may be a byproduct of electrical discharges from dust devils and dust storms,[79] or that it may be the result of UV radiation.[80] In January 2009, NASA scientists announced that they had discovered that the planet often vents methane into the atmosphere in specific areas, leading some to speculate this may be a sign of biological activity below the surface.[81] Studies of a Weather Research and Forecasting model for Mars (MarsWRF) and related Mars general circulation model (MGCM) suggests that methane plume sources may be located within tens of kilometers, which is within the roving capabilities of future Mars rovers.[82] The Curiosity rover, which landed on Mars in August 2012, can distinguish between different isotopologues of methane;[83] but even if the mission determines that microscopic Martian life is the source of the methane, it probably resides far below the surface, beyond the rover's reach.[84] Curiosity's Sample Analysis at Mars (SAM) instrument is capable of tracking the presence of methane over time to determine if it is constant, variable, seasonal, or random, providing further clues about its source.[85] The first measurements with the Tunable Laser Spectrometer (TLS) indicated that there is less than 5 ppb of methane at the landing site.[86][87][88][89]
+Methane measurements in the atmosphere of Mars by the Curiosity rover.
+The Mars Trace Gas Mission orbiter planned for launch in 2016 would further study Mars' methane[90][91] and its decomposition products such as formaldehyde and methanol. Alternatively, these compounds may instead be replenished by volcanic or other geological means, such as serpentinization.[54] On July 19, 2013, NASA scientists reported finding "not much methane" (i.e., "an upper limit of 2.7 parts per billion of methane") around the Gale Crater where the Curiosity rover landed in August 2012.[92][93][94] On September 19, 2013, from further measurements by Curiosity, NASA scientists reported no detection of atmospheric methane with a value of 69991800000000000000.180.67 ppbv corresponding to an upper limit of only 1.3 ppbv (95% confidence limit), and as a result, concluded that the probability of current methanogenic microbial activity on Mars is reduced.[95][96][97] On 16 December 2014, NASA reported the Curiosity rover detected a "tenfold spike", likely localized, in the amount of methane in the Martian atmosphere. Sample measurements taken "a dozen times over 20 months" showed increases in late 2013 and early 2014, averaging "7 parts of methane per billion in the atmosphere." Before and after that, readings averaged around one-tenth that level.[98][99]
+Saturn  the atmosphere contains 4500  2000 ppm methane[100]
+Enceladus  the atmosphere contains 1.7% methane[101]
+Iapetus[citation needed]
+Titan  the atmosphere contains 1.6% methane and thousands of methane lakes have been detected on the surface.[102] In the upper atmosphere, methane is converted into more complex molecules including acetylene, a process that also produces molecular hydrogen. There is evidence that acetylene and hydrogen are recycled into methane near the surface. This suggests the presence either of an exotic catalyst, possibly an unknown form of methanogenic life.[103] Methane showers, probably prompted by changing seasons, have also been observed.[104] On October 24, 2014, methane was found in polar clouds on Titan.[105][106]
+Polar clouds, made of methane, on Titan (left) compared with polar clouds on Earth (right).
+Uranus  the atmosphere contains 2.3% methane[107]
+Ariel  methane is believed to be a constituent of Ariel's surface ice
+Miranda[citation needed]
+Oberon  about 20% of Oberon's surface ice is composed of methane-related carbon/nitrogen compounds
+Titania  about 20% of Titania's surface ice is composed of methane-related organic compounds[citation needed]
+Umbriel  methane is a constituent of Umbriel's surface ice
+Neptune  the atmosphere contains 1.5  0.5% methane[108]
+Triton  Triton has a tenuous nitrogen atmosphere with small amounts of methane near the surface.[109][110]
+Pluto  spectroscopic analysis of Pluto's surface reveals it to contain traces of methane[111][112]
+Charon  methane is believed present on Charon, but it is not completely confirmed[113]
+Eris  infrared light from the object revealed the presence of methane ice[114]
+Halley's Comet
+Comet Hyakutake  terrestrial observations found ethane and methane in the comet[115]
+Extrasolar planets  methane was detected on extrasolar planet HD 189733b; this is the first detection of an organic compound on a planet outside the solar system. Its origin is unknown, since the planet's high temperature (700C) would normally favor the formation of carbon monoxide instead.[116] Research indicates that meteoroids slamming against exoplanet atmospheres could add hydrocarbon gases such as methane, making the exoplanets look as though they are inhabited by life, even if they are not.[117]
+Interstellar clouds[118]
+The atmospheres of M-type stars.[119]
+See also[edit]
+Sustainable development portal
+2007 Zasyadko mine disaster
+Abiogenic petroleum origin
+Aerobic methane production
+Anaerobic digestion
+Anaerobic respiration
+Arctic methane emissions
+Biogas
+Coal Oil Point seep field
+Energy density
+Gas
+Global Methane Initiative
+Greenhouse gas
+Halomethane, halogenated methane derivatives.
+Industrial gas
+Lake Kivu (more general: limnic eruption)
+List of straight-chain alkanes
+Methanation
+Methane clathrate, ice that contains methane.
+Methane (data page)
+Methane on Mars: atmosphere
+Methane on Mars: climate
+Methanogen, archaea that produce methane.
+Methanogenesis, microbes that produce methane.
+Methanotroph, bacteria that grow with methane.
+Methyl group, a functional group related to methane.
+Thomas Gold
+Notes[edit]
+^ There are many serpentinization reactions. Olivine is a solid solution between forsterite and fayalite whose general formula is (Fe,Mg)2SiO4. The reaction producing methane from olivine can be written as: Forsterite + Fayalite + Water + Carbonic acid  Serpentine + Magnetite + Methane , or (in balanced form): 18 Mg2SiO4 + 6 Fe2SiO4 + 26 H2O + CO2  12 Mg3Si2O5(OH)4 + 4 Fe3O4 + CH4
+References[edit]
+^ a b Nomenclature of Organic Chemistry: IUPAC Recommendations and Preferred Names 2013 (Blue Book). Cambridge: The Royal Society of Chemistry. 2014. pp.34. doi:10.1039/9781849733069-FP001. ISBN978-0-85404-182-4. Methane is a retained name (see P-12.3) that is preferred to the systematic name carbane, a name never recommended to replace methane, but used to derive the names carbene and carbyne for the radicals H2C2 and HC3, respectively.
+^ "Gas Encyclopedia". Retrieved November 7, 2013.
+^ "Safety Datasheet, Material Name: Methane" (PDF). USA: Metheson Tri-Gas Incorporated. December 4, 2009. Retrieved December 4, 2011.
+^ NOAA Office of Response and Restoration, US GOV. "METHANE". noaa.gov.
+^ Khalil, M. A. K. (1999). "Non-Co2 Greenhouse Gases in the Atmosphere". Annual Review of Energy and the Environment. 24: 645661. doi:10.1146/annurev.energy.24.1.645.
+^ a b "Technical summary". Climate Change 2001. United Nations Environment Programme.
+^ Volta, Alessandro (1777) Lettere del Signor Don Alessandro Volta ... Sull' Aria Inflammabile Nativa delle Paludi [Letters of Signor Don Alessandro Volta ... on the flammable native air of the marshes], Milan, Italy: Giuseppe Marelli.
+^ a b "Methane". BookRags. Retrieved January 26, 2012.
+^ See:
+A. W. Hofmann (1866) "On the action of trichloride of phosphorus on the salts of the aromatic monamines," Proceedings of the Royal Society of London, 15: 55-62; see footnote on pp. 57-58.
+James Michael McBride (1999) "Development of systematic names for the simple alkanes". Available on-line at: Chemistry Department, Yale University (New Haven, Connecticut).
+^ Hensher, David A. & Button, Kenneth J. (2003). Handbook of transport and the environment. Emerald Group Publishing. p.168. ISBN0-08-044103-3.
+^ Methane Phase change data. NIST Chemistry Webbook.
+^ Bini, R.; Pratesi, G. (1997). "High-pressure infrared study of solid methane: Phase diagram up to 30 GPa". Physical Review B. 55 (22): 1480014809. doi:10.1103/physrevb.55.14800.
+^ Wendelin Himmelheber. "Crystal structures". Retrieved 2016-06-13.
+^ Baik, Mu-Hyun; Newcomb, Martin; Friesner, Richard A.; Lippard, Stephen J. (2003). "Mechanistic Studies on the Hydroxylation of Methane by Methane Monooxygenase". Chemical Reviews. 103 (6): 2385419. doi:10.1021/cr950244f. PMID12797835.
+^ Bordwell, Frederick G. (1988). "Equilibrium acidities in dimethyl sulfoxide solution". Accounts of Chemical Research. 21 (12): 456463. doi:10.1021/ar00156a004.
+^ Rasul, G.; Surya Prakash, G. K.; Olah, G. A. (2011). "Comparative study of the hypercoordinate carbonium ions and their boron analogs: A challenge for spectroscopists". Chemical Physics Letters. 517: 18. Bibcode:2011CPL...517....1R. doi:10.1016/j.cplett.2011.10.020.
+^ Bernskoetter, W.H.; Schauer, C.K.; Goldberg, K.I.; Brookhart, M. (2009). "Characterization of a Rhodium(I) -Methane Complex in Solution". Science. 326 (5952): 553556. Bibcode:2009Sci...326..553B. doi:10.1126/science.1177485. PMID19900892.
+^ Energy Content of some Combustibles (in MJ/kg). People.hofstra.edu. Retrieved on March 30, 2014.
+^ Drysdale, Dougal (2008). "Physics and Chemistry of Fire". In Cote, Arthur E. Fire Protection Handbook. 1 (20th ed.). Quincy, MA: National Fire Protection Association. pp.218. ISBN978-0-87765-758-3.
+^ March, Jerry (1968). Advance Organic Chemistry: Reactions, Mechanisms and Structure. New York: McGraw-Hill Book Company. pp.533534.
+^ "Lumber Company Locates Kilns at Landfill to Use Methane - Energy Manager Today". Energy Manager Today. Retrieved 2016-03-11.
+^ a b Cornell, Clayton B. (April 29, 2008). "Natural Gas Cars: CNG Fuel Almost Free in Some Parts of the Country". Compressed natural gas is touted as the 'cleanest burning' alternative fuel available, since the simplicity of the methane molecule reduces tailpipe emissions of different pollutants by 35 to 97%. Not quite as dramatic is the reduction in net greenhouse-gas emissions, which is about the same as corn-grain ethanol at about a 20% reduction over gasoline
+^ Dren, Tina; Sarkisov, Lev; Yaghi, Omar M.; Snurr, Randall Q. (2004). "Design of New Materials for Methane Storage". Langmuir. 20 (7): 26832639. doi:10.1021/la0355500. PMID15835137.
+^ "Liquefied Petroleum Gas (LPG), Liquefied Natural Gas (LNG) and Compressed Natural Gas (CNG)". Envocare Ltd. March 21, 2007. Retrieved September 3, 2008.
+^ "Ride to lower costs for LNG-run trucks rockier than expected". Reuters. 2014-04-09. Retrieved 2014-09-24.
+^ Fuels of the Future for Cars and Trucks, Dr. James J. Eberhardt, U.S. Department of Energy, 2002 Diesel Engine Emissions Reduction (DEER) Workshop, August 2529, 2002
+^ a b Thunnissen, Daniel P.; Guernsey, C.S.; Baker, R.S.; Miyake, R.N. (2004). "Advanced Space Storable Propellants for Outer Planet Exploration". American Institute of Aeronautics and Astronautics (40799): 28. |access-date= requires |url= (help)
+^ Huzel, Dieter K. (1992). Modern engineering for design of liquid-propellant rocket engines. Washington, DC: American Institute of Aeronautics and Astronautics.
+^ "Lox/LCH4". Encyclopedia Astronautica. Retrieved December 4, 2012.
+^ a b "RD-192". Encyclopedia Astronautica. Retrieved December 21, 2013.
+^ "XCOR Aerospace Completes Successful Development of Methane Rocket Engine" (Press release). XCOR Aerospace. August 30, 2005. Archived from the original on February 4, 2012. Retrieved December 3, 2012.
+^ "XCOR Aerospace Begins Test Firing of Methane Rocket Engine" (Press release). XCOR Aerospace. January 16, 2007. Archived from the original on February 4, 2012. Retrieved December 3, 2012.
+^ Morring, Frank, Jr. (July 13, 2009). "Lunar Engines". Aviation Week & Space Technology. 171 (2). p.16.
+^ Todd, David (November 20, 2012). "Musk goes for methane-burning reusable rockets as step to colonise Mars". FlightGlobal Hyperbola. Retrieved November 22, 2012. "We are going to do methane." Musk announced as he described his future plans for reusable launch vehicles including those designed to take astronauts to Mars within 15 years, "The energy cost of methane is the lowest and it has a slight Isp (Specific Impulse) advantage over Kerosene" said Musk adding, "And it does not have the pain in the ass factor that hydrogen has".
+^ Todd, David (November 20, 2012). "Musk goes for methane-burning reusable rockets as step to colonise Mars". FlightGlobal Hyperbola. Retrieved November 22, 2012. "SpaceX's initial plan will be to build a lox/methane rocket for a future upper stage codenamed Raptor....The new Raptor upper stage engine is likely to be only the first engine in a series of lox/methane engines...".
+^ a b Belluscio, Alejandro G. (March 7, 2014). "SpaceX advances drive for Mars rocket via Raptor power". NASAspaceflight.com. Retrieved March 13, 2014.
+^ Leone, Dan (October 25, 2013). "SpaceX Could Begin Testing Methane-fueled Engine at Stennis Next Year". Space News. Retrieved October 26, 2013.
+^ "Elon Musk reveals first photos of SpaceX's powerful new Raptor engine". ars technica. 26 September 2016. Retrieved 7 November 2016.
+^ Messier, Doug (October 24, 2013). "Guess Who Else is Developing a LOX Methane Engine". Parabolic Arc. Retrieved October 25, 2013.
+^ Ferster, Warren (2014-09-17). "ULA To Invest in Blue Origin Engine as RD-180 Replacement". Space News. Retrieved 2014-09-19.
+^ a b Zubrin, R. M.; Muscatello, A. C.; Berggren, M. (2013). "Integrated Mars in Situ Propellant Production System". Journal of Aerospace Engineering. 26: 4356. doi:10.1061/(ASCE)AS.1943-5525.0000201.
+^ "Methane Blast". NASA. May 4, 2007. Retrieved July 7, 2012.
+^ "And So We Begin Again". NASA. Retrieved October 28, 2013.
+^ Eric Hurlbert; John Patrick Mcmaname; Josh Sooknanen; Joseph W. Studak. "Advanced Development of a Compact 5  15 lbf Lox/Methane Thruster for an Integrated Reaction Control and Main Engine Propulsion System" (PDF). NASA. Retrieved October 28, 2013.
+^ de Selding, Peter B. (5 January 2015). "With Eye on SpaceX, CNES Begins Work on Reusable Rocket Stage". SpaceNews. Retrieved 6 January 2015.
+^ Rossberg, M. et al. (2006) "Chlorinated Hydrocarbons" in Ullmann's Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim. doi:10.1002/14356007.a06_233.pub2
+^ Marks, Tobin (3 July 2016). "Methane to Methanol. What's Known and Questions/Challenges" (PDF). http://dels.nas.edu. National Academy of Sciences. External link in |website= (help)
+^ "Methanesulfonic acid - American Chemical Society". American Chemical Society. Retrieved 2016-11-07.
+^ a b McCoy, Michael. "German firm claims new route to methanesulfonic acid | June 27, 2016 Issue - Vol. 94 Issue 26 | Chemical & Engineering News". cen.acs.org. Retrieved 2016-11-07.
+^ Hamilton JT, McRoberts WC, Keppler F, Kalin RM, Harper DB; McRoberts; Keppler; Kalin; Harper (2003). "Chloride methylation by plant pectin: an efficient environmentally significant process". Science. 301 (5630): 2069. Bibcode:2003Sci...301..206H. doi:10.1126/science.1085036. PMID12855805. CS1 maint: Multiple names: authors list (link)
+^ Thomas, Claire (January 14, 2009) "Methane Emissions? Don't Blame Plants", Science Magazine
+^ "Plants do emit methane after all". New Scientist. December 2, 2007.
+^ Richardson, Derek (2016-09-27). "Elon Musk Shows Off Interplanetary Transport System". Spaceflight Insider. Retrieved 2016-10-03.
+^ a b Oze, C.; Sharma, M. (2005). "Have olivine, will gas: Serpentinization and the abiogenic production of methane on Mars". Geophysical Research Letters. 32 (10): L10203. Bibcode:2005GeoRL..3210203O. doi:10.1029/2005GL022691.
+^ Miller, G. Tyler (2007). Sustaining the Earth: An Integrated Approach. U.S.A.: Thomson Advantage Books, ISBN 0534496725, p. 160.
+^ FAO (2006). Livestock's Long ShadowEnvironmental Issues and Options. Rome, Italy: Food and Agriculture Organization of the United Nations (FAO). Retrieved October 27, 2009.
+^ Roach, John (May 13, 2002). "New Zealand Tries to Cap Gaseous Sheep Burps". National Geographic. Retrieved March 2, 2011.
+^ Research on use of bacteria from the stomach lining of kangaroos (who don't emit methane) to reduce methane in cattle. Alternet.org (January 3, 2008). Retrieved on May 24, 2012.
+^ Goodland, Robert & Anhang, Jeff (NovemberDecember 2009). "Livestock and Climate Change" (PDF). Washington, D.C.: World Watch.
+^ Gerber, P.J.; Steinfeld, H.; Henderson, B.; Mottet, A.; Opio, C.; Dijkman, J.; Falcucci, A. & Tempio, G. (2013). "Tackling Climate Change Through Livestock". Rome: Food and Agriculture Organization of the United Nations (FAO).
+^ Silverman, Jacob (July 16, 2007). "Do cows pollute as much as cars?". HowStuffWorks.com.
+^ Dinosaurs passing wind may have caused climate change. Telegraph (May 7, 2012). Retrieved on May 24, 2012.
+^ Boucher, Olivier; Friedlingstein, Pierre; Collins, Bill; Shine, Keith P (2009). "The indirect global warming potential and global temperature change potential due to methane oxidation". Environmental Research Letters. 4 (4): 044007. Bibcode:2009ERL.....4d4007B. doi:10.1088/1748-9326/4/4/044007.
+^ "Study Finds Surprising Arctic Methane Emission Source". NASA. April 22, 2012.
+^ IPCC Fifth Assessment Report, Table 8.7, Chap.8, p.858 (PDF; 8,0MB)
+^ Shindell, D. T.; Faluvegi, G.; Koch, D. M.; Schmidt, G. A.; Unger, N.; Bauer, S. E. (2009). "Improved Attribution of Climate Forcing to Emissions". Science. 326 (5953): 7168. Bibcode:2009Sci...326..716S. doi:10.1126/science.1174760. PMID19900930.
+^ Shindell, D. T.; Faluvegi, G.; Koch, D. M.; Schmidt, G. A.; Unger, N.; Bauer, S. E. (2009). "Improved Attribution of Climate Forcing to Emissions". Science. 326 (5953): 7168. doi:10.1126/science.1174760. PMID19900930.
+^ "Methane Releases From Arctic Shelf May Be Much Larger and Faster Than Anticipated". Press Release. National Science Foundation. March 10, 2010.
+^ Connor, Steve (December 13, 2011). "Vast methane 'plumes' seen in Arctic ocean as sea ice retreats". The Independent.
+^ "19 September 2012 Press Release: Arctic sea ice reaches lowest extent for the year and the satellite record". The National Snow and Ice Data Center (NSIDC) is part of the Cooperative Institute for Research in Environmental Sciences at the University of Colorado Boulder. NSIDC scientists provide Arctic Sea Ice News & Analysis content, with partial support from NASA. September 19, 2012.
+^ Reimann, Joachim; Jetten, Mike S.M.; Keltjens, Jan T. (2015). "Chapter 7 Metal Enzymes in "Impossible" Microorganisms Catalyzing the Anaerobic Oxidation of Ammonium and Methane". In Peter M.H. Kroneck and Martha E. Sosa Torres. Sustaining Life on Planet Earth: Metalloenzymes Mastering Dioxygen and Other Chewy Gases. Metal Ions in Life Sciences. 15. Springer. pp.257313. doi:10.1007/978-3-319-12415-5_7.
+^ Dozolme, Philippe. "Common Mining Accidents". About.com.
+^ Moseman, Andrew (April 6, 2010). "Methane gas explosion blamed for West Virginia coal mining accident". Discover Magazine.
+^ Cain, Fraser (March 12, 2013). "Atmosphere of Mercury". Universe Today. Archived from the original on April 19, 2012. Retrieved April 7, 2013.
+^ Donahue, T.M.; Hodges, R.R. (1993). "Venus methane and water". Geophysical Research Letters. 20 (7): 591594. Bibcode:1993GeoRL..20..591D. doi:10.1029/93GL00513.
+^ Stern, S.A. (1999). "The Lunar atmosphere: History, status, current problems, and context". Rev. Geophys. 37 (4): 453491. Bibcode:1999RvGeo..37..453S. doi:10.1029/1999RG900005.
+^ "Mars Express confirms methane in the Martian atmosphere". European Space Agency. Archived from the original on February 24, 2006. Retrieved March 17, 2006.
+^ Schirber, Michael (January 15, 2009). "Methane-spewing Martians?". NASA's Astrobiology Magazine.
+^ Atkinson, Nancy (September 11, 2012). "Methane on Mars may be result of electrification of dust devils". Universe Today.
+^ "Methane on Mars is not an indication of life: UV radiation releases methane from organic materials from meteorites". Max-Planck-Gesellschaft. May 31, 2012.
+^ Mars Vents Methane in What Could Be Sign of Life, Washington Post, January 16, 2009
+^ "Atmospheric Modeling of Martian Methane Plumes: The Debate Continues". NASA Solar System Exploration. April 3, 2012.
+^ Tenenbaum, David (June 9, 2008). "Making Sense of Mars Methane". Astrobiology Magazine. Archived from the original on September 23, 2008. Retrieved October 8, 2008.
+^ Steigerwald, Bill (January 15, 2009). "Martian Methane Reveals the Red Planet is not a Dead Planet". NASA's Goddard Space Flight Center. NASA. Archived from the original on January 17, 2009.
+^ David, Leonard (October 23, 2012). "Mars methane mystery: Curiosity rover may find new clues". Space.com.
+^ "Mars Curiosity Rover News Telecon -November 2, 2012".
+^ Kerr, Richard A. (November 2, 2012). "Curiosity Finds Methane on Mars, or Not". Science (journal). Retrieved November 3, 2012.
+^ Wall, Mike (November 2, 2012). "Curiosity Rover Finds No Methane on Mars  Yet". Space.com. Retrieved November 3, 2012.
+^ Chang, Kenneth (November 2, 2012). "Hope of Methane on Mars Fades". New York Times. Retrieved November 3, 2012.
+^ Rincon, Paul (July 9, 2009). "Agencies outline Mars initiative". BBC News.
+^ "NASA orbiter to hunt for source of Martian methane in 2016". Thaindian News. March 6, 2009.
+^ Mann, Adam (July 18, 2013). "Mars Rover Finds Good News for Past Life, Bad News for Current Life on Mars". Wired (magazine). Retrieved July 19, 2013.
+^ Webster, C. R.; Mahaffy, P. R.; Flesch, G. J.; Niles, P. B.; Jones, J. H.; Leshin, L. A.; Atreya, S. K.; Stern, J. C.; Christensen, L. E.; Owen, T.; Franz, H.; Pepin, R. O.; Steele, A. (2013). "Isotope Ratios of H, C, and O in CO2 and H2O of the Martian Atmosphere". Science. 341 (6143): 2603. doi:10.1126/science.1237961. PMID23869013.
+^ Mahaffy, P. R.; Webster, C. R.; Atreya, S. K.; Franz, H.; Wong, M.; Conrad, P. G.; Harpold, D.; Jones, J. J.; Leshin, L. A.; Manning, H.; Owen, T.; Pepin, R. O.; Squyres, S.; Trainer, M.; Kemppinen, O.; Bridges, N.; Johnson, J. R.; Minitti, M.; Cremers, D.; Bell, J. F.; Edgar, L.; Farmer, J.; Godber, A.; Wadhwa, M.; Wellington, D.; McEwan, I.; Newman, C.; Richardson, M.; Charpentier, A.; et al. (2013). "Abundance and Isotopic Composition of Gases in the Martian Atmosphere from the Curiosity Rover" (PDF). Science. 341 (6143): 2636. doi:10.1126/science.1237966. PMID23869014.
+^ Webster, Christopher R.; Mahaffy, Paul R.; Atreya, Sushil K.; Flesch, Gregory J.; Farley, Kenneth A.; Kemppinen, O.; Bridges, N.; Johnson, J. R.; Minitti, M.; Cremers, D.; Bell, J. F.; Edgar, L.; Farmer, J.; Godber, A.; Wadhwa, M.; Wellington, D.; McEwan, I.; Newman, C.; Richardson, M.; Charpentier, A.; Peret, L.; King, P.; Blank, J.; Weigle, G.; Schmidt, M.; Li, S.; Milliken, R.; Robertson, K.; Sun, V.; et al. (2013). "Low Upper Limit to Methane Abundance on Mars". Science. 342 (6156): 355357. Bibcode:2013Sci...342..355W. doi:10.1126/science.1242902.
+^ Cho, Adrian (September 19, 2013). "Not a Whiff of Life on Mars". Science.
+^ Chang, Kenneth (September 19, 2013). "Mars Rover Comes Up Empty in Search for Methane". New York Times. Retrieved September 19, 2013.
+^ Webster, Guy; Neal-Jones, Nancy; Brown, Dwayne (16 December 2014). "NASA Rover Finds Active and Ancient Organic Chemistry on Mars". NASA. Retrieved 16 December 2014.
+^ Chang, Kenneth (16 December 2014). "'A Great Moment': Rover Finds Clue That Mars May Harbor Life". New York Times. Retrieved 16 December 2014.
+^ "Saturn Fact Sheet". NASA.
+^ Waite, J. H.; Combi, MR; Ip, WH; Cravens, TE; McNutt Jr, RL; Kasprzak, W; Yelle, R; Luhmann, J; et al. (March 2006). "Cassini ion and neutral mass spectrometer: Enceladus plume composition and structure". Science. 311 (5766): 141922. Bibcode:2006Sci...311.1419W. doi:10.1126/science.1121290. PMID16527970.
+^ Niemann, HB; Atreya, SK; Bauer, SJ; Carignan, GR; Demick, JE; Frost, RL; Gautier, D; Haberman, JA; et al. (2005). "The abundances of constituents of Titan's atmosphere from the GCMS instrument on the Huygens probe". Nature. 438 (7069): 779784. Bibcode:2005Natur.438..779N. doi:10.1038/nature04122. PMID16319830.
+^ Mckay, Chris (2010). "Have We Discovered Evidence For Life On Titan". SpaceDaily. Retrieved June 10, 2010. Space.com. March 23, 2010.
+^ Grossman, Lisa (March 17, 2011). "Seasonal methane rain discovered on Titan". Wired Science.
+^ Dyches, Preston; Zubritsky, Elizabeth (October 24, 2014). "NASA Finds Methane Ice Cloud in Titan's Stratosphere". NASA. Retrieved October 31, 2014.
+^ Zubritsky, Elizabeth; Dyches, Preston (October 24, 2014). "NASA Identifies Ice Cloud Above Cruising Altitude on Titan". NASA. Retrieved October 31, 2014.
+^ "Uranus Fact Sheet". NASA.
+^ "Neptune Fact Sheet". NASA.
+^ Shemansky, DF; Yelle, RV; Linick, J. L.; Lunine, J. E.; Dessler, A. J.; Donahue, T. M.; Forrester, W. T.; Hall, D. T.; et al. (December 15, 1989). "Ultraviolet Spectrometer Observations of Neptune and Triton". Science. 246 (4936): 14591466. Bibcode:1989Sci...246.1459B. doi:10.1126/science.246.4936.1459. PMID17756000.
+^ Miller, Ron; Hartmann, William K. (2005). The Grand Tour: A Traveler's Guide to the Solar System (3rd ed.). Thailand: Workman Publishing. pp.17273. ISBN0-7611-3547-2.
+^ Owen, T. C.; Roush, T. L.; Cruikshank, D. P.; Elliot, J. L.; Young, L. A.; De Bergh, C.; Schmitt, B.; Geballe, T. R.; Brown, R. H.; Bartholomew, M. J. (1993). "Surface Ices and the Atmospheric Composition of Pluto". Science. 261 (5122): 7458. doi:10.1126/science.261.5122.745. PMID17757212.
+^ "Pluto". SolStation. 2006. Retrieved March 28, 2007.
+^ Sicardy, B; Bellucci, A; Gendron, E; Lacombe, F; Lacour, S; Lecacheux, J; Lellouch, E; Renner, S; et al. (2006). "Charon's size and an upper limit on its atmosphere from a stellar occultation". Nature. 439 (7072): 524. Bibcode:2006Natur.439...52S. doi:10.1038/nature04351. PMID16397493.
+^ "Gemini Observatory Shows That "10th Planet" Has a Pluto-Like Surface". Gemini Observatory. 2005. Retrieved May 3, 2007.
+^ Mumma, M.J.; Disanti, M.A., dello Russo, N., Fomenkova, M., Magee-Sauer, K., Kaminski, C.D. and Xie, D.X.; Dello Russo, Neil; Fomenkova, Marina; Magee-Sauer, Karen; Kaminski, Charles D.; Xie, David X. (1996). "Detection of Abundant Ethane and Methane, Along with Carbon Monoxide and Water, in Comet C/1996 B2 Hyakutake: Evidence for Interstellar Origin". Science. 272 (5266): 13104. Bibcode:1996Sci...272.1310M. doi:10.1126/science.272.5266.1310. PMID8650540. CS1 maint: Multiple names: authors list (link)
+^ Battersby, Stephen (February 11, 2008). "Organic molecules found on alien world for first time".
+^ Choi, Charles M. (September 17, 2012). "Meteors might add methane to exoplanet atmospheres". NASA's Astrobiology Magazine.
+^ Lacy, J. H.; Carr, J. S.; Evans, N. J. , I.; Baas, F.; Achtermann, J. M.; Arens, J. F. (1991). "Discovery of interstellar methane  Observations of gaseous and solid CH4 absorption toward young stars in molecular clouds". The Astrophysical Journal. 376: 556. Bibcode:1991ApJ...376..556L. doi:10.1086/170304.
+^ Jrgensen, Uffe G. (1997), "Cool Star Models", in van Dishoeck, Ewine F., Molecules in Astrophysics: Probes and Processes, International Astronomical Union Symposia. Molecules in Astrophysics: Probes and Processes, 178, Springer Science & Business Media, p.446, ISBN079234538X.
+External links[edit]
+Wikimedia Commons has media related to Methane.
+Look up methane in Wiktionary, the free dictionary.
+Methane at The Periodic Table of Videos (University of Nottingham)
+Methane thermodynamics
+International Chemical Safety Card 0291
+Methane Hydrates
+Catalytic conversion of methane to more useful chemicals and fuels
+CDC  Handbook for Methane Control in Mining
+v
+t
+e
+Alkanes
+Methane (CH
+4)
+Ethane (C
+2H
+6)
+Propane (C
+3H
+8)
+Butane (C
+4H
+10)
+Pentane (C
+5H
+12)
+Hexane (C
+6H
+14)
+Heptane (C
+7H
+16)
+Octane (C
+8H
+18)
+Nonane (C
+9H
+20)
+Decane (C
+10H
+22)
+Undecane (C
+11H
+24)
+Dodecane (C
+12H
+26)
+Tridecane (C
+13H
+28)
+Tetradecane (C
+14H
+30)
+Pentadecane (C
+15H
+32)
+Hexadecane / Cetane (C
+16H
+34)
+Heptadecane (C
+17H
+36)
+Octadecane (C
+18H
+38)
+Nonadecane (C
+19H
+40)
+Icosane (C
+20H
+42)
+Higher alkanes
+List of alkanes
+v
+t
+e
+Fuel gas
+Types
+Manufactured fuel gas
+(History)
+Coal gas
+Coal gasification
+Underground coal gasification
+Biogas
+Blast furnace gas
+Blau gas
+Gasification
+Landfill gas
+Mond gas
+Pintsch gas
+Producer gas
+Regasification
+Syngas
+Water gas
+Wood gas
+Natural gas
+APG
+CBM
+CNG
+HCNG
+LNG
+NGC
+SNG
+Bio-SNG
+LPG
+Autogas
+Butane
+Propane
+Infrastructure
+Compressor station
+Gas carrier
+Gas holder
+Gas meter
+Gasworks
+Natural-gas processing
+Natural gas storage
+Odorizer
+Pipeline transport
+Uses
+Bunsen burner
+Gas burner
+Gas engine
+Gas heater
+Gas lighting
+Gas mantle
+Gas stove
+Gas turbine
+Pilot light
+v
+t
+e
+Molecules detected in outer space
+Molecules
+Diatomic
+Aluminium monochloride
+Aluminium monofluoride
+Aluminium monoxide
+Argonium
+Carbon monophosphide
+Carbon monosulfide
+Carbon monoxide
+Carborundum
+Cyanogen radical
+Diatomic carbon
+Fluoromethylidynium
+Hydrogen chloride
+Hydrogen fluoride
+Hydrogen (molecular)
+Hydroxyl radical
+Iron(II) oxide
+Magnesium monohydride cation
+Methylidyne radical
+Nitric oxide
+Nitrogen (molecular)
+Nitrogen monohydride
+Nitrogen sulfide
+Oxygen (molecular)
+Phosphorus monoxide
+Phosphorus mononitride
+Potassium chloride
+Silicon carbide
+Silicon mononitride
+Silicon monoxide
+Silicon monosulfide
+Sodium chloride
+Sodium iodide
+Sulfur monohydride
+Sulfur monoxide
+Titanium oxide
+Triatomic
+Aluminium hydroxide
+Aluminium isocyanide
+Amino radical
+Carbon dioxide
+Carbonyl sulfide
+CCP radical
+Chloronium
+Diazenylium
+Dicarbon monoxide
+Disilicon carbide
+Ethynyl radical
+Formyl radical
+Hydrogen cyanide (HCN)
+Hydrogen isocyanide (HNC)
+Hydrogen sulfide
+Hydroperoxyl
+Iron cyanide
+Isoformyl
+Magnesium cyanide
+Magnesium isocyanide
+Methylene radical
+N2H+
+Nitrous oxide
+Nitroxyl
+Ozone
+Phosphaethyne
+Potassium cyanide
+Protonated molecular hydrogen
+Sodium cyanide
+Sodium hydroxide
+Silicon carbonitride
+c-Silicon dicarbide
+Silicon naphthalocyanine
+Sulfur dioxide
+Thioformyl
+Thioxoethenylidene
+Titanium dioxide
+Tricarbon
+Water
+Four
+atoms
+Acetylene
+Ammonia
+Cyanic acid
+Cyanoethynyl
+Cyclopropynylidyne
+Formaldehyde
+Fulminic acid
+HCCN
+Hydrogen peroxide
+Hydromagnesium isocyanide
+Isocyanic acid
+Isothiocyanic acid
+Ketenyl
+Methylene amidogen
+Methyl radical
+Propynylidyne
+Protonated carbon dioxide
+Protonated hydrogen cyanide
+Silicon tricarbide
+Thioformaldehyde
+Tricarbon monoxide
+Tricarbon sulfide
+Thiocyanic acid
+Five
+atoms
+Ammonium ion
+Butadiynyl
+Carbodiimide
+Cyanamide
+Cyanoacetylene
+Cyanoformaldehyde
+Cyanomethyl
+Cyclopropenylidene
+Formic acid
+Isocyanoacetylene
+Ketene
+Methane
+Methoxy radical
+Methylenimine
+Propadienylidene
+Protonated formaldehyde
+Protonated formaldehyde
+Silane
+Silicon-carbide cluster
+Six
+atoms
+Acetonitrile
+Cyanobutadiynyl radical
+E-Cyanomethanimine
+Cyclopropenone
+Diacetylene
+Ethylene
+Formamide
+HC4N
+Ketenimine
+Methanethiol
+Methanol
+Methyl isocyanide
+Pentynylidyne
+Propynal
+Protonated cyanoacetylene
+Seven
+atoms
+Acetaldehyde
+Acrylonitrile
+Cyanodiacetylene
+Ethylene oxide
+Hexatriynyl radical
+Methylacetylene
+Methylamine
+Methyl isocyanate
+Vinyl alcohol
+Eight
+atoms
+Acetic acid
+Aminoacetonitrile
+Cyanoallene
+Ethanimine
+Glycolaldehyde
+Heptatrienyl radical
+Hexapentaenylidene
+Methylcyanoacetylene
+Methyl formate
+Propenal
+Nine
+atoms
+Acetamide
+Cyanohexatriyne
+Cyanotriacetylene
+Dimethyl ether
+Ethanol
+Methyldiacetylene
+Octatetraynyl radical
+Propene
+Propionitrile
+Ten
+atoms
+or more
+Acetone
+Benzene
+Buckminsterfullerene (C60 fullerene, buckyball)
+C70 fullerene
+Cyanodecapentayne
+Cyanopentaacetylene
+Cyanotetra-acetylene
+Ethylene glycol
+Ethyl formate
+Methyl acetate
+Methyl-cyano-diacetylene
+Methyltriacetylene
+Propanal
+n-Propyl cyanide
+Pyrimidine
+Deuterated
+molecules
+Ammonia
+Ammonium ion
+Formaldehyde
+Formyl radical
+Heavy water
+Hydrogen cyanide
+Hydrogen deuteride
+Hydrogen isocyanide
+Methylacetylene
+N2D+
+Trihydrogen cation
+Unconfirmed
+Anthracene
+Dihydroxyacetone
+Ethyl methyl ether
+Glycine
+Graphene
+H2NCO+
+Linear C5
+Naphthalene cation
+Phosphine
+Pyrene
+Silylidine
+Related
+Abiogenesis
+Astrobiology
+Astrochemistry
+Atomic and molecular astrophysics
+Chemical formula
+Circumstellar envelope
+Cosmic dust
+Cosmic ray
+Cosmochemistry
+Diffuse interstellar band
+Extraterrestrial life
+Extraterrestrial liquid water
+Forbidden mechanism
+Helium hydride ion
+Homochirality
+Intergalactic dust
+Interplanetary medium
+Interstellar medium
+Ironsulfur world theory
+Kerogen
+Life
+Life timeline
+Molecules in stars
+Nature timeline
+Nexus for Exoplanet System Science
+Organic compound
+Outer space
+PAH world hypothesis
+Panspermia
+Polycyclic aromatic hydrocarbon (PAH)
+RNA world hypothesis
+Spectroscopy
+Tholin
+Book:Chemistry
+Category:Astrochemistry
+Category:Molecules
+Portal:Astrobiology
+Portal:Chemistry
+v
+t
+e
+Binary compounds of hydrogen
+Alkali metal hydrides
+LiH
+NaH
+KH
+RbH
+CsH
+Lithium hydride, LiH
+ionic metal hydride
+Beryllium hydride
+Left (gas phase): BeH2
+covalent metal hydride
+Right: (BeH2)n (solid phase)
+polymeric metal hydride
+Borane and diborane
+Left: BH3 (special conditions), covalent metalloid hydride
+Right: B2H6 (standard conditions), dimeric metalloid hydride
+Methane, CH4
+covalent nonmetal hydride
+Ammonia, NH3
+covalent nonmetal hydride
+Water, H2O
+covalent nonmetal hydride
+Hydrogen fluoride, HF
+covalent nonmetal hydride
+Alkaline earth hydrides
+Monohydrides
+HeH
+BeH
+MgH
+CaH
+SrH
+BaH
+BeH2
+MgH2
+CaH2
+SrH2
+BaH2
+Group 13 hydrides
+Boranes
+BH3
+B2H6
+B2H4
+B2H2
+Alanes
+AlH3
+Al2H6
+Gallanes
+GaH3
+Ga2H6
+Indiganes
+InH3
+In2H6
+Thallanes
+TlH3
+Tl2H6
+B2H2
+B2H4
+B4H10
+B5H9
+B5H11
+B6H10
+B6H12
+B10H14
+B18H22
+Group 14 hydrides
+Linear alkanes
+CH4
+C2H6
+C3H8
+C4H10
+C5H12
+C6H14
+C7H16
+C8H18
+C9H20
+C10H22
+more...
+Linear alkenes
+C2H4
+C3H6
+C4H8
+C5H10
+C6H12
+C7H14
+C8H16
+C9H18
+C10H20
+more...
+Linear alkynes
+C2H2
+C3H4
+C4H6
+C5H8
+C6H10
+C7H12
+C8H14
+C9H16
+C10H18
+more...
+Silanes
+SiH4
+Si2H6
+Si3H8
+Si4H10
+Si5H12
+Si6H14
+Si7H16
+Si8H18
+Si9H20
+Si10H22
+more...
+Silenes
+Si2H4
+Silynes
+Si2H2
+Germanes
+GeH4
+Ge2H6
+Ge3H8
+Ge4H10
+Ge5H12
+Stannanes
+SnH4
+Sn2H6
+Plumbanes
+PbH4
+CH
+CH2
+CH3
+C2H
+Cycloalkanes
+Cycloalkenes
+Annulenes
+Many more
+Pnictogen hydrides
+Azanes
+NH3
+N2H4
+N3H5
+N4H6
+N5H7
+N6H8
+N7H9
+N8H10
+N9H11
+N10H12
+more...
+Azenes
+N2H2
+N3H3
+N4H4
+Phosphanes
+PH3
+P2H4
+P3H5
+P4H6
+P5H7
+P6H8
+P7H9
+P8H10
+P9H11
+P10H12
+more...
+Phosphenes
+P2H2
+P3H3
+P4H4
+Arsanes
+AsH3
+As2H4
+Stibanes
+SbH3
+Bismuthanes
+BiH3
+HN3
+NH
+radical
+Hydrogen chalcogenides
+Polyoxidanes
+H2O
+H2O2
+H2O3
+H2O4
+H2O5
+H2O6
+H2O7
+H2O8
+H2O9
+H2O10
+more...
+Polysulfanes
+H2S
+H2S2
+H2S3
+H2S4
+H2S5
+H2S6
+H2S7
+H2S8
+H2S9
+H2S10
+more...
+Selanes
+H2Se
+H2Se2
+Tellanes
+H2Te
+H2Te2
+Polanes
+PoH2
+HO
+HO2
+HO3
+H2O+O
+H2S=S
+(HS)2S+S
+HS
+HDO
+D2O
+T2O
+Hydrogen halides
+HF
+HCl
+HBr
+HI
+HAt
+Transition metal hydrides
+ScH2
+YH2
+YH3
+TiH2
+ZrH2
+HfH2
+VH
+VH2
+NbH
+NbH2
+TaH
+CrH
+CrH2
+CrHx
+NiH
+PdHx (x < 1)
+FeH
+FeH2
+CuH
+ZnH2
+CdH2
+HgH2
+Lanthanide hydrides
+LaH2
+LaH3
+CeH2
+CeH3
+PrH2
+PrH3
+NdH2
+NdH3
+SmH2
+SmH3
+EuH2
+GdH2
+GdH3
+TbH2
+TbH3
+DyH2
+DyH3
+HoH2
+HoH3
+ErH2
+ErH3
+TmH2
+TmH3
+YbH2
+YbH2.5
+LuH2
+LuH3
+Actinide hydrides
+AcH2
+ThH2
+Th4H15
+PaH3
+UH3
+NpH2
+NpH3
+PuH2
+PuH3
+AmH2
+AmH3
+CmH2
+Authority control
+GND: 4169678-5
+NDL: 00576602
+NewPP limit report
+Parsed by mw1177
+Cached time: 20161120042241
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 1.660 seconds
+Real time usage: 1.919 seconds
+Preprocessor visited node count: 31666/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 642557/2097152 bytes
+Template argument size: 52816/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 12/500
+Lua time usage: 0.707/10.000 seconds
+Lua memory usage: 11.95 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1608.087
+1 - -total
+34.19%
+549.865
+2 - Template:Reflist
+29.45%
+473.607
+1 - Template:Chembox
+21.38%
+343.769
+33 - Template:Navbox
+11.31%
+181.905
+1 - Template:Chembox_Identifiers
+10.39%
+167.055
+49 - Template:Cite_web
+7.54%
+121.300
+27 - Template:Cite_journal
+7.31%
+117.531
+28 - Template:Navbox_subgroup
+7.26%
+116.779
+1 - Template:Hydrides_by_group
+7.15%
+115.004
+1 - Template:Chembox_Properties
+Saved in parser cache with key enwiki:pcache:idhash:18582230-0!*!0!!en!4!* and timestamp 20161120042240 and revision id 749820545
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Methane&oldid=749820545"
+Categories: Anaerobic digestionFuel gasFuelsGreenhouse gasesIndustrial gasesMethaneGaseous signaling moleculesHidden categories: Pages using citations with accessdate and no URLCS1 errors: external linksCS1 maint: Multiple names: authors listPages using ISBN magic linksWikipedia indefinitely move-protected pagesUse mdy dates from March 2014Articles without UNII sourceArticles with changed KEGG identifierChemical articles having a data pageChemboxes which contain changes to verified fieldsChemboxes which contain changes to watched fieldsArticles to be expanded from November 2013All articles to be expandedArticles using small message boxesAll articles with unsourced statementsArticles with unsourced statements from March 2016Articles containing potentially dated statements from 2002All articles containing potentially dated statementsWikipedia articles in need of updating from January 2016Wikipedia articles needing clarification from January 2014Articles with unsourced statements from January 2014Articles with unsourced statements from October 2014Articles with unsourced statements from July 2013Wikipedia articles with GND identifiers

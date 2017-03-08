@@ -1,0 +1,171 @@
+Hotdryrockgeothermalenergy
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Hot dry rock (HDR) is by far the most abundant source of geothermal energy available to mankind. A vast store of thermal energy is contained in the hotbut essentially dryimpervious crystalline basement rocks found almost everywhere deep beneath the earths surface.[1] A concept for the extraction of useful amounts of geothermal energy from HDR originated at the Los Alamos National Laboratory in 1970, and was so groundbreaking that Laboratory researchers were awarded a U.S. patent covering it.[2]
+Part of a series on
+Renewable energy
+Biofuel
+Biomass
+Geothermal
+Hydropower
+Solar energy
+Tidal power
+Wave power
+Wind power
+Topics by country
+100% renewable energy
+Marketing and policy trends
+v
+t
+e
+Contents
+1 Overview
+2 Planning and control
+3 Drilling and pressurization
+4 Production wells
+5 Operation
+6 Productivity
+7 Feasibility studies
+8 Unconfirmed systems
+9 Enhanced geothermal systems
+10 Fenton Hill tests
+10.1 Phase I
+10.2 Phase II
+10.3 Test results
+11 HWR versus HDR
+12 Possible confusion
+13 Further reading
+14 Glossary
+15 References
+Overview[edit]
+Although often confused with the relatively limited hydrothermal resource already commercialized to a large extent, HDR geothermal energy is very different.[3] Whereas hydrothermal energy production can only exploit hot fluids already in place in the earths crust, an HDR system (consisting of the pressurized HDR reservoir, the boreholes drilled from the surface, and the surface injection pumps and associated plumbing) recovers the earths heat from hot but dry regions via the closed-loop circulation of pressurized fluid. This fluid, injected from the surface under high pressure, opens pre-existing joints in the basement rock, thus creating a man-made reservoir that may be as much as a cubic kilometer in size. The fluid injected into the reservoir absorbs thermal energy from the high-temperature rock surfaces and then serves as the vehicle for transporting that heat to the surface for practical use.
+Planning and control[edit]
+As the reservoir is formed by the pressure-dilation of the joints, the elastic response of the surrounding rock mass results in a region of tightly compressed, sealed rock at the peripherymaking the HDR reservoir totally confined and contained. Such a reservoir is therefore fully engineered, in that the physical characteristics (size, depth at which it is created) as well as the operating parameters (injection and production pressures, production temperature, etc.) can be pre-planned and closely controlled.
+Drilling and pressurization[edit]
+As described by Brown,[4] an HDR geothermal energy system is developed, first, by using conventional drilling to access a region of deep, hot basement rock. Once it has been determined that the selected region contains no open faults or joints (by far the most common situation), an isolated section of this first borehole is pressurized at a level high enough to open several sets of previously sealed joints in the rock mass. By continuous pumping (hydraulic stimulation), a very large region of stimulated rock is created (the HDR reservoir) that consists of an interconnected array of joint flow paths within the rock mass. The opening of these flow paths causes movement along the pressure-activated joints, generating seismic signals (microearthquakes). Analysis of these signals yields information about the location and dimensions of the reservoir being developed.
+Production wells[edit]
+Typically, an HDR reservoir forms in the shape of an ellipsoid, with its longest axis orthogonal to the least principal earth stress. This pressure-stimulated region is then accessed by two production wells, drilled to intersect the HDR reservoir near the elongated ends of the stimulated region. In most cases, the initial borehole becomes the injection well for the three-well, pressurized water-circulating system.
+Operation[edit]
+In operation, fluid is injected at pressures high enough to hold open the interconnected network of joints against the earth stresses, and to effectively circulate fluid through the HDR reservoir at a high rate. During routine energy production, the injection pressure is maintained at just below the level that would cause further pressure-stimulation of the surrounding rock mass, in order to maximize energy production while limiting further reservoir growth.
+Productivity[edit]
+The volume of the newly created array of opened joints within the HDR reservoir is much less than 1% of the volume of the pressure-stimulated rock mass. As these joints continue to pressure-dilate, the overall flow impedance across the reservoir becomes very low, leading to a high thermal productivity.
+Feasibility studies[edit]
+The feasibility of mining heat from the deep earth was proven in two separate HDR reservoir flow demonstrationseach involving about one year of circulationconducted by the Los Alamos National Laboratory between 1978 and 1995. These groundbreaking tests took place at the Laboratorys Fenton Hill HDR test site in the Jemez Mountains of north-central New Mexico, at depths of over 8000ft and rock temperatures in excess of 180C.[5] The results of these tests demonstrated conclusively the viability of the revolutionary new HDR geothermal energy concept. The two separate reservoirs created at Fenton Hill are still the only truly confined HDR geothermal energy reservoirs flow-tested anywhere in the world.
+Unconfirmed systems[edit]
+There have been numerous reports of the testing of unconfined geothermal systems pressure-stimulated in crystalline basement rock: for instance at the Rosemanowes quarry in Cornwall, England;[6] at the Hijiori[7] and Ogachi[8] calderas in Japan; at the faulted Soultz-sous-Forts HDR system in France;[9] and in the Cooper Basin, Australia.[10] However, all these engineered geothermal systems, while developed under programs directed toward the investigation of HDR technologies, have proven to be openas evidenced by the high water losses observed during pressurized circulation.[11] In essence, they are all EGS or hydrothermal systems, not true HDR reservoirs.
+Enhanced geothermal systems[edit]
+Main article: Enhanced geothermal system
+The EGS concept was first described by Los Alamos researchers in 1990, at a geothermal symposium sponsored by the United States Department of Energy (DOE)[12]many years before the DOE coined the term EGS in an attempt to emphasize the geothermal aspect of heat mining rather than the unique characteristics of HDR.
+Fenton Hill tests[edit]
+Phase I[edit]
+The first HDR reservoir tested at Fenton Hill, the Phase I reservoir, was created in June 1977 and then flow-tested for 75 days, from January to April 1978, at a thermal power level of 4 MW.[13] The final water loss rate, at a surface injection pressure of 900 psi, was 2 gpm (2% of the injection rate). This initial reservoir was shown to essentially consist ofa single pressure-dilated, near-vertical joint, with a vanishingly small flow impedance of 0.5 psi/gpm.
+The initial Phase I reservoir was enlarged in 1979 and further flow-tested for almost a year in 1980.[14] Of greatest importance, this flow test confirmed that the enlarged reservoir was also confined, and exhibited a low water loss rate of 6 gpm. This reservoir consisted of the single near-vertical joint of the initial reservoir (which, as noted above, had been flow-tested for 75 days in early 1978)augmented by a set of newly pressure-stimulated near-vertical joints that were somewhat oblique to the strike of the original joint.
+Phase II[edit]
+A deeper and hotter HDR reservoir (Phase II) was created during a massive hydraulic fracturing (MHF) operation in late 1983.[14] It was first flow-tested in the spring of 1985, by an initial closed-loop flow test (ICFT) that lasted a little over a month.[15] Information garnered from the ICFT provided the basis for a subsequent long-term flow test (LTFT), carried out from 1992 to 1995.
+The LTFT comprised several individual steady-state flow runs, interspersed with numerous additional experiments.[16] In 19921993, two steady-state circulation periods were implemented, the first for 112 days and the second for 55 days. During both tests, water was routinely produced at a temperature of over 180C and a rate of 90100 gpm, resulting in continuous thermal energy production of approximately 4 MW. Over this time span, the reservoir pressure was maintained (even during shut-in periods) at a level of about 15 MPa.
+Beginning in mid-1993, the reservoir was shut in for a period of nearly two years and the applied pressure was allowed to drop to essentially zero. In the spring of 1995, the system was re-pressurized and a third continuous circulation run of 66 days was conducted.[17] Remarkably, the production parameters observed in the two earlier tests were rapidly re-established, and steady-state energy production resumed at the same level as before. Observations during both the shut-in and operational phases of all these flow-testing periods provided clear evidence that the rock at the boundary of this man-made reservoir had been compressed by the pressurization and resultant expansion of the reservoir region.
+As a result of the LTFT, water loss was eliminated as a major concern in HDR operations.[18] Over the period of the LTFT, water consumption fell to just 7% of the quantity of water injected; and data indicated it would have continued to decline under steady-state circulation conditions. Dissolved solids and gases in the produced fluid rapidly reached equilibrium values at low concentrations (about one-tenth the salinity of sea water), and the fluid remained geochemically benign throughout the test period.[19] Routine operation of the automated surface plant showed that HDR energy systems could be run using the same economical staffing schedules that a number of unmanned commercial hydrothermal plants already employ.
+Test results[edit]
+The Fenton Hill tests clearly demonstrated the advantages of a fully engineered HDR reservoir over naturally occurring hydrothermal resources, including EGS. With all the essential physical characteristics of the reservoirincluding rock volume, fluid capacity, temperature, etc.established during the engineered creation of the reservoir zone, and the entire reservoir volume enclosed by a hyperstressed periphery of sealed rock, any variations in operating conditions are totally determined by intentional changes made at the surface. In contrast, a natural hydrothermal reservoirwhich is essentially open and therefore unconfined(having boundaries that are highly variable)is inherently subject to changes in natural conditions.
+Another advantage of an HDR reservoir is that its confined nature makes it highly suitable for load-following operations, whereby the rate of energy production is varied to meet the varying demand for electric powera process that can greatly increase the economic competitiveness of the technology.[20] This concept was evaluated near the end of the Phase II testing period, when energy production was increased by 60% for 4 hours each day, by a programmed vent-down of the high-pressure reservoir regions surrounding the production borehole. Within two days it became possible to computerize the process, such that production was automatically increased and decreased according to the desired schedule for the rest of the test period. The transitions between the two production levels took less than 5 minutes, and at each level steady-state production was consistently maintained. Such load-following operations could not be implemented in a natural hydrothermal system or even in an EGS system because of the unconfined volume and boundary conditions.
+The experiments at Fenton Hill have clearly demonstrated that HDR technology is unique, not only with respect to how the pressurized reservoir is created and then circulated, but also because of the management flexibility it offers. It has in common with hydrothermal technology only that both are geothermal.
+HWR versus HDR[edit]
+Hot Wet Rock (HWR) hydrothermal technology makes use of hot fluids found naturally in basement rock; but such HWR conditions are rare.[21] By far the bulk of the worlds geothermal resource base (over 98%) is in the form of basement rock that is hot but drywith no naturally available water. This means that HDR technology is applicable almost everywhere on earth (hence the claim that HDR geothermal energy is ubiquitous).
+Typically, the temperature in those vast regions of the accessible crystalline basement rock increases with depth. This geothermal gradient, which is the principal HDR resource variable, ranges from less than 20C/km to over 60C/km, depending upon location. The concomitant HDR economic variable is the cost of drilling to depths at which rock temperatures are sufficiently high to permit the development of a suitable reservoir.[22] with the advent of PDC (polycrystalline diamond compact) insert bits for hard rock drilling (e.g., Novatek of Provo, Utah), the cost of deep basement drilling is set to come down drasticallyawaiting only a significant demand, such as the commercial development of HDR.
+Possible confusion[edit]
+As noted above, in the late 1990s the DOE began referring to all attempts to extract geothermal energy from basement rock as EGS, which has led to both biographical and technical confusion. Biographically, a large number of publications exist that discuss work to extract energy from HDR without any mention of the term EGS. Thus, an internet search using the term EGS would not identify these publications.
+But the technical distinction between HDR and EGS, as clarified in this article, may be even more important. Some sources describe the permeability of the earths basement rock as a continuum ranging from totally impermeable HDR to slightly permeable HWR to highly permeable conventional hydrothermal.[23] However, this continuum concept is not technically correct. A more appropriate view would be to consider impermeable HDR rock as a separate state from that of the continuum of permeable rockjust as one would consider a completely closed faucet as distinct from one that is open to any degree, whether the flow be a trickle or a flood. In the same way, HDR technology should be regarded as totally distinct from EGS.
+Further reading[edit]
+A definitive book on HDR development, including a full account of the experiments at Fenton Hill, was published by Springer-Verlag in April 2012.[5]
+Glossary[edit]
+DOE, Department of Energy (United States)
+EGS, Enhanced geothermal system
+HDR, Hot dry rock
+HWR, Hot wet rock
+ICFT, Initial closed-loop flow test
+LTFT, Long-term flow test
+MHF, Massive hydraulic fracturing
+PDC, Polycrystalline diamond compact (drill bit)
+References[edit]
+^ Armstead, H. C. H., and Tester, J. W., 1987. Heat Mining, E. & F. N. Spon, London and New York, pp.3458
+^ Potter, R. M., Smith, M. C., and Robinson, E. S., 1974. Method of extracting heat from dry geothermal reservoirs, U. S. patent No. 3,786,858
+^ Brown, D. W., 2009. "Hot dry rock geothermal energy: Important lessons from Fenton Hill," in Proceedings, 34th workshop on geothermal reservoir engineering (February 911, 2009: Stanford, CA). SGP-TR-187, pp.139142
+^ Brown, D. W., 1990. Hot dry rock reservoir engineering, Geotherrm. Resour. Counc. Bull. 19(3): 8993
+^ a b Brown, D. W., Duchane, D. V., Heiken, G., and Hriscu, V. T., 2012. Mining the Earths Heat: Hot Dry Rock Geothermal Energy, Springer-Verlag, Berlin and Heidelberg, 655 pp
+^ Parker, R. H., 1989. Hot Dry Rock Geothermal Energy, Phase 2B Final Report of the Camborne School of Mines Project, Vol. 12, Pergamon Press, Oxford, U.K.
+^ Matsunaga, I., Niitsuma, H., and Oikaya, Y., 2005. "Review of the HDR development at Hijiori Site, Japan, in Proceedings, World Geothermal Congress (April 2429, 2005: Antala, Turkey), pp.38613865
+^ Ito, H., and Kaieda, H., 2002. "Review of 15 years experience of the Ogachi Hot Dry Rock Project with emphasis on geological features," in Proceedings, 24th New Zealand geothermal workshop (November 1315, 2002: University of Auckland, Auckland, New Zealand), pp. 5560
+^ Baria, R., Baumgrtner, J., Grard, A., Jung, R., and Garnish, J., 2002. European HDR research programme at Soultz-sous-Forts (France); 19871998, in Geologisches Jahrbuch special edition (Baria, R., Baumgrtner, J., Grard, A., and Jung, R., eds.), international conference4th HDR Forum (September 2830, 1998: Strasbourg, France). Hannover, Germany, pp. 6170
+^ Chopra, P., and Wyborn, D., 2003. "Australia's first hot dry rock geothermal energy extraction project is up and running in granite beneath the Cooper Basin, NE South Australia," in Proceedings, The Ishihara Symposium: Granites and Associated Metallogenesis (July 2224, 2003: Macquarie University, Sydney, Australia), pp. 4345
+^ Brown, D., DuTeaux, R., Kruger, P., Swenson, D., and Yamaguchi, T., 1999. Table 1: Fluid circulation and heat extraction from engineered geothermal reservoirs, Geothermics 28(4/5) special issue: Hot Dry Rock/Hot Wet Rock Academic Review (Ab, H., Niitsuma, H., and Baria, R., eds.), pp. 553572
+^ Brown, D. W., and Robinson, B. A., 1990. Hot dry rock technology, in Proceedings, Geothermal Program Review VIII (April 1820, 1990: San Francisco, CA). CONF 9004131, pp. 109112
+^ Dash, Z. V., Murphy, H. D., and Cremer, G. M. (eds.), 1981. Hot dry rock geothermal reservoir testing: 19781980, Los Alamos National Laboratory Report LA-9080-SR, 62 pp
+^ Brown, D. W., and Duchane, D. V., 1999. "Scientific progress on the Fenton Hill HDR project since 1983, Geothermics 28(4/5) special issue: Hot Dry Rock/Hot Wet Rock Academic Review (Abe, H., Niitsuma, H., and Baria, R., eds.), pp. 591601
+^ Dash, Z. V., et al., 1989. "ICFT: an initial closed-loop flow test of the Fenton Hill Phase II HDR reservoir, Los Alamos National Laboratory report LA-11498-HDR, Los Alamos NM, 128 pp
+^ Brown, D. W., 1993. Recent flow testing of the HDR reservoir at Fenton Hill, New Mexico, Geothermal Program Review XI, April, 1993. U.S. Department of Energy, Conservation and Renewable Energy, Geothermal Division, pp. 149154
+^ Brown, D. W., 1995. 1995 verification flow testing of the HDR reservoir at Fenton Hill, New Mexico, Geothermal Resources Council annual meeting (October 811, 1995: Reno, NV) Trans. Geotherm. Resour. Counc. 19:253256
+^ Brown, D., 1995. "The US hot dry rock program20 years of experience in reservoir testing," in Proceedings of the World Geothermal Congress (May 1831, 1995: Florence, Italy), International Geothermal Association, Inc., Auckland, New Zealand, vol. 4, pp. 26072611
+^ Brown, D. W., Duchane, D. V., Heiken, G., and Hriscu, V. T., 2012. Mining the Earths Heat: Hot Dry Rock Geothermal Energy, Springer-Verlag, Berlin and Heidelberg, Chapter 9, pp. 541549
+^ Brown, D. W., and DuTeau, R. J., 1995. "Using a hot dry rock geothermal reservoir for load following," in Proceedings, 20th annual workshop on geothermal reservoir engineering (January 2729, 1995: Stanford, CA). SGP-TR-150, pp. 207211
+^ Armstead, H. C. H., and Tester, J. W., 1987. Heat Mining, E. & F. N. Spon, London and New York, pp. 5558
+^ Tester, J. W., Herzog, H. J., Chen, Z., Potter, R. M., and Frank, M. G., 1994. Prospects for universal geothermal energy from heat mining, Science and Global Security Vol. 5, pp. 99121
+^ Sass, J. H., and Robertson-Tait, A., 2002. Potential for enhanced geothermal systems in the western United States, in Geologisches Jahrbuch special edition (Baria, R., Baumgrtner, J., Grard, A., and Jung, R., eds.), international conference4th HDR Forum (September 2830, 1998: Strasbourg, France). Hannover, Germany, pp. 3542
+v
+t
+e
+Geothermal energy
+Category:Geothermal energy
+Geothermal energy
+Geothermal power
+Geothermal heating
+Geothermal gradient
+By country
+Armenia
+Australia
+Canada
+Chile
+China
+Denmark
+El Salvador
+Energy in Ethiopia
+Germany
+Iceland
+Indonesia
+Italy
+Japan
+Kenya
+Lebanon
+Lithuania
+Mexico
+New Zealand
+Philippines
+Portugal
+Romania
+Russia
+Turkey
+Thailand
+United Kingdom
+United States
+Technologies
+Aquaculture
+Desalination
+Geothermal heat pump
+District heating
+Binary Cycle
+EGS
+Heat pump
+Hot dry rock
+Energy Concepts
+Baseload power
+Capacity factor
+Energy storage
+Energy subsidies
+EROEI
+Category
+Portals:
+Renewable energy
+Energy
+Sustainable development
+Saved in parser cache with key enwiki:pcache:idhash:47375881-0!*!0!!en!4!* and timestamp 20161025143749 and revision id 746144737
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Hot_dry_rock_geothermal_energy&oldid=746144737"
+Categories: Geothermal energy

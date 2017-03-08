@@ -1,0 +1,229 @@
+Virtualpowerplant
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}A virtual power plant (VPP) is a system that integrates several types of power sources, (such as microCHP, wind-turbines, small hydro, photovoltaics, back-up gensets, and batteries) so as to give a reliable overall power supply.[1] The sources are often a cluster of distributed generation systems, and are often orchestrated by a central authority.
+In the competitive electricity markets, a virtual power plant acts as an arbitrageur by exercising arbitrage between diverse energy trading oors.[2][3][4]
+Contents
+1 Overview
+2 United States
+3 Demonstrations
+4 Europe
+5 See also
+6 References
+7 External links
+Overview[edit]
+The concerted operational mode delivers extra benefits such as the ability to deliver peak load electricity or load-aware power generation at short notice. Such a VPP can replace a conventional power plant while providing higher efficiency and more flexibility. Note that more flexibility allows the system to react better to uctuations. However, a VPP is also a complex system requiring a complicated optimization, control, and secure communication methodology.[5]
+According to a 2014 report by Pike Research,[6] the VPP market will continue its steady growth over the next several years, increasing from $5.2 billion in worldwide revenue in 2010 to nearly $7.4 billion by 2015, under a base case scenario. In a more aggressive forecast scenario, the clean tech market intelligence firm forecasts that global VPP revenues could reach as high as $12.7 billion during the same period.
+"Virtual power plants represent an Internet of Energy," says senior analyst Peter Asmus of Pike Research. "These systems tap existing grid networks to tailor electricity supply and demand services for a customer. VPPs maximize value for both the end user and the distribution utility using a sophisticated set of software-based systems. They are dynamic, deliver value in real time, and can react quickly to changing customer load conditions."
+The concerted operational mode delivers extra benefits such as to the ability to deliver peak load electricity or load-following power at short notice.
+United States[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2016) (Learn how and when to remove this template message)
+An often-reported energy crisis in America has opened up the door for government subsidized companies to enter an arena that has only been available for utilities/multinational billion dollar companies until now. With the deregulation of markets around the United States, the wholesale market pricing used to be the exclusive domain of large retail suppliers; however local and federal legislation along with large end-users are beginning to recognize the advantages of wholesale activities.
+Energy markets are those commodities markets that deal specifically with the trade and supply of energy. In California there are two markets: Private Retail Electrical Market & Wholesale Electrical Market. California is the leader in green technology with governmental bodies subsidizing and pushing an agenda that is not shared by much of the rest of the United States. Senate Bill 2X passed California Legislature March 30, 2011, mandates 33% renewable by 2020 without any particular method to get there.
+In the United States, Virtual Power Plants not only deal with the supply side, but also help manage demand and ensure reliability of grid functions through demand response (DR) and other load shifting approaches, in real time.
+Demonstrations[edit]
+The Institute for Solar Energy Supply Technology of the University of Kassel in Germany pilot-tested a combined power plant linking solar, wind, biogas and hydrostorage to provide load-following power around the clock, totally from renewable sources.[7]
+Virtual Power Station operators are also commonly referred to as aggregators. The largest provider in the UK is Flexitricity.[8]
+To test the effects of micro combined heat and power on a smart grid, 45 natural gas SOFC units (each 1.5kW) from Republiq Power (Ceramic Fuel Cells) will be placed in 2013 on Ameland to function as a virtual power plant.[9]
+Europe[edit]
+In August 2016 AGL Energy announced a 5MW virtual power plant scheme for Adelaide, Australia. The company will supply battery and photovoltaic systems to 1000 households and businesses. The systems will cost consumers AUD $3500 and are expected to pay back in 7years under current distribution network tariffs. The scheme itself is worth AUD $20million and is being billed as the largest in the world.[10]
+An example of a real-world virtual power plant can be found on the Scottish Inner Hebrides island of Eigg.[11]
+See also[edit]
+Energy portal
+Renewable energy portal
+Automatic meter reading
+Distributed generation
+Electricity meter
+Energy demand management
+Engine power plant
+Feed-in tariff
+Grid energy storage
+Micro-CHP
+Net metering
+Peaking power plant
+Power system automation
+Power-to-X
+Smart meter
+Smart grid
+Utility submeter
+Vehicle-to-grid
+References[edit]
+^ Feasibility, beneficiality, and institutional compatibility of a micro-CHP virtual power plant in the Netherlands
+^ Decision Making Tool for Virtual Power Plants Considering Midterm Bilateral Contracts
+^ The Design of a Risk-hedging Tool for Virtual Power Plants via Robust Optimization Approach
+^ A Medium-Term Coalition-Forming Model of Heterogeneous DERs for a Commercial Virtual Power Plant
+^ Smart Grid - The New and Improved Power Grid: A Survey; IEEE Communications Surveys and Tutorials 2011; X. Fang, S. Misra, G. Xue, and D. Yang; doi:10.1109/SURV.2011.101911.00087.
+^ [1]
+^ "The Combined Power Plant: the first stage in providing 100% power from renewable energy". SolarServer. January 2008. Retrieved 2008-10-10.
+^ http://www.flexitricity.com
+^ Methaanbrandstoffen op Ameland (in Dutch)
+^ Slezak, Michael (5 August 2016). "Adelaide charges ahead with world's largest 'virtual power plant'". The Guardian. Retrieved 2016-08-05.
+^ BBC Radio 4. Costing the Earth- Electric Island
+External links[edit]
+The Combined Power Plant on YouTube
+Fenix Project
+Germany's largest "power plant"
+Interactive simulation of a virtual power plant in Belgium
+STEAG's virtual power plant sells balancing power to German TSOs.
+A virtual power plant with fuel cells
+VPP - Intelligent Energy
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1267
+Cached time: 20161119100009
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.239 seconds
+Preprocessor visited node count: 1077/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 37991/2097152 bytes
+Template argument size: 1186/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Lua time usage: 0.058/10.000 seconds
+Lua memory usage: 2.41 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+186.265
+1 - -total
+33.77%
+62.899
+1 - Template:Reflist
+26.61%
+49.568
+1 - Template:Refimprove_section
+22.34%
+41.608
+1 - Template:Electricity_generation
+21.50%
+40.052
+1 - Template:Cite_web
+18.01%
+33.542
+2 - Template:Navbox
+17.26%
+32.148
+1 - Template:Refimprove
+15.95%
+29.713
+1 - Template:Ambox
+7.59%
+14.134
+1 - Template:Navbox_subgroup
+4.49%
+8.368
+1 - Template:Portal
+Saved in parser cache with key enwiki:pcache:idhash:5031967-0!*!0!!en!4!* and timestamp 20161119100009 and revision id 748532885
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Virtual_power_plant&oldid=748532885"
+Categories: Distributed generationHidden categories: Articles needing additional references from April 2016All articles needing additional references

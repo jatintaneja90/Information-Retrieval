@@ -1,0 +1,49 @@
+LowCarbonCommunities
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2009) (Learn how and when to remove this template message)
+Low Carbon Communities (LCC) is one part of Marches Energy Agency; a leading climate change and sustainable energy social enterprise and a registered charity, based in the West Midlands, England.
+LCC works with interested communities to find sustainable energy solutions for their community. This involves working with households, businesses, schools and community groups to raise awareness about climate change and help implement sustainable energy measures. This includes energy efficiency measures- both technical and behavioural- and renewable energy installations. Ultimately, LCC aims to help communities obtain the skills and knowledge required to achieve community ownership and enable informed decision-making on energy saving opportunities.
+A pilot Low Carbon Communities project from 2006-9 in three communities in Shropshire has now ended. The project, based in Ellesmere, Cleobury Mortimer and the Floodplain Community (a collection of small villages and farmsteads near Oswestry), aimed to reduce carbon dioxide emissions by 5.88% or 3868 tonnes within these communities. This acted as a pilot for similar ventures around the country and LCC is now working with a number of communities in the West Midlands and East Midlands.
+Awards[edit]
+In 2009 MEA won an Ashden Award for the Low Carbon Communities project.[1]
+External links[edit]
+Low Carbon Communities
+Marches Energy Agency
+References[edit]
+^ Ashden Awards. "Ashden Awards: UK winners 2009". Retrieved 2009-06-29.
+NewPP limit report
+Parsed by mw1287
+Cached time: 20161119141801
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.060 seconds
+Real time usage: 0.087 seconds
+Preprocessor visited node count: 145/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 5159/2097152 bytes
+Template argument size: 8/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/500
+Lua time usage: 0.031/10.000 seconds
+Lua memory usage: 1.7 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+77.992
+1 - -total
+50.91%
+39.704
+1 - Template:Refimprove
+46.34%
+36.141
+1 - Template:Reflist
+40.77%
+31.798
+1 - Template:Cite_web
+34.08%
+26.576
+1 - Template:Ambox
+Saved in parser cache with key enwiki:pcache:idhash:13416379-0!*!0!!*!4!* and timestamp 20161119141801 and revision id 612341514
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Low_Carbon_Communities&oldid=612341514"
+Categories: Organisations based in ShropshireLow-carbon economyHidden categories: Articles needing additional references from May 2009All articles needing additional references

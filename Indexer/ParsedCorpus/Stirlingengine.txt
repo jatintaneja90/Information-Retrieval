@@ -1,0 +1,453 @@
+Stirlingengine
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}For the adiabatic Stirling cycle, see Stirling cycle.
+Alpha-type Stirling engine. There are two cylinders. The expansion cylinder (red) is maintained at a high temperature while the compression cylinder (blue) is cooled. The passage between the two cylinders contains the regenerator.
+Beta-type Stirling engine. There is only one cylinder, hot at one end and cold at the other. A loose-fitting displacer shunts the air between the hot and cold ends of the cylinder. A power piston at the end of the cylinder drives the flywheel.
+A Stirling engine is a heat engine that operates by cyclic compression and expansion of air or other gas (the working fluid) at different temperatures, such that there is a net conversion of heat energy to mechanical work.[1][2] More specifically, the Stirling engine is a closed-cycle regenerative heat engine with a permanently gaseous working fluid. Closed-cycle, in this context, means a thermodynamic system in which the working fluid is permanently contained within the system, and regenerative describes the use of a specific type of internal heat exchanger and thermal store, known as the regenerator. The inclusion of a regenerator differentiates the Stirling engine from other closed cycle hot air engines.
+Originally conceived in 1816 as an industrial prime mover to rival the steam engine, its practical use was largely confined to low-power domestic applications for over a century.[3]
+Stirling engines have a high efficiency compared to steam engines,[4] being able to reach 50% efficiency. They are also capable of quiet operation and can use almost any heat source. The heat energy source is generated external to the Stirling engine rather than by internal combustion as with the Otto cycle or Diesel cycle engines. Because the Stirling engine is compatible with alternative and renewable energy sources it could become increasingly significant as the price of conventional fuels rises, and also in light of concerns such as depletion of oil supplies and climate change. This type of engine is currently generating interest as the core component of micro combined heat and power (CHP) units, in which it is more efficient and safer than a comparable steam engine.[5][6] However, it has a low power-to-weight ratio [4] rendering it more suitable for use in static installations where space and weight are not at a premium.
+Contents
+1 Name and classification
+2 History
+2.1 Invention and early development
+2.2 Later nineteenth century
+2.3 Twentieth century revival
+3 Functional description
+3.1 Key components
+3.1.1 Heat source
+3.1.2 Heater / hot side heat exchanger
+3.1.3 Regenerator
+3.1.4 Cooler / cold side heat exchanger
+3.1.5 Heat sink
+3.1.6 Displacer
+3.2 Configurations
+3.2.1 Alpha configuration operation
+3.2.2 Beta configuration operation
+3.2.3 Gamma configuration operation
+3.2.4 Other types
+3.2.5 Free piston Stirling engines
+3.2.5.1 Flat Stirling engine
+3.2.5.2 Thermoacoustic cycle
+3.3 Other developments
+4 Theory
+4.1 Operation
+4.2 Pressurization
+4.3 Lubricants and friction
+5 Analysis
+5.1 Comparison with internal combustion engines
+5.1.1 Advantages
+5.1.2 Disadvantages
+5.1.2.1 Size and cost issues
+5.1.2.2 Power and torque issues
+5.1.2.3 Gas choice issues
+6 Applications
+7 Alternatives
+8 See also
+9 References
+10 Bibliography
+11 Further reading
+12 External links
+Name and classification[edit]
+Stirling engine running.
+Robert Stirling was a Scottish minister who invented the first practical example of a closed cycle air engine in 1816, and it was suggested by Fleeming Jenkin as early as 1884 that all such engines should therefore generically be called Stirling engines. This naming proposal found little favour, and the various types on the market continued to be known by the name of their individual designers or manufacturers, e.g., Rider's, Robinson's, or Heinrici's (hot) air engine. In the 1940s, the Philips company was seeking a suitable name for its own version of the 'air engine', which by that time had been tested with working fluids other than air, and decided upon 'Stirling engine' in April 1945.[7] However, nearly thirty years later, Graham Walker still had cause to bemoan the fact such terms as 'hot air engine' remained interchangeable with 'Stirling engine', which itself was applied widely and indiscriminately;[8] a situation that continues.[9]
+Like the steam engine, the Stirling engine is traditionally classified as an external combustion engine, as all heat transfers to and from the working fluid take place through a solid boundary (heat exchanger) thus isolating the combustion process and any contaminants it may produce from the working parts of the engine. This contrasts with an internal combustion engine where heat input is by combustion of a fuel within the body of the working fluid. Most of the many possible implementations of the Stirling engine fall into the category of reciprocating piston engine.
+History[edit]
+Invention and early development[edit]
+Illustration from Robert Stirling's 1816 patent application of the air engine design which later came to be known as the Stirling Engine
+The Stirling engine (or Stirling's air engine as it was known at the time) was invented and patented by Robert Stirling in 1816.[10] It followed earlier attempts at making an air engine but was probably the first put to practical use when, in 1818, an engine built by Stirling was employed pumping water in a quarry.[11] The main subject of Stirling's original patent was a heat exchanger, which he called an "economiser" for its enhancement of fuel economy in a variety of applications. The patent also described in detail the employment of one form of the economiser in his unique closed-cycle air engine design[12] in which application it is now generally known as a "regenerator". Subsequent development by Robert Stirling and his brother James, an engineer, resulted in patents for various improved configurations of the original engine including pressurization, which by 1843, had sufficiently increased power output to drive all the machinery at a Dundee iron foundry.[13]
+Though it has been disputed,[14] it is widely supposed that as well as saving fuel, the inventors were motivated to create a safer alternative to the steam engines of the time,[15] whose boilers frequently exploded, causing many injuries and fatalities.[16][17]
+The need for Stirling engines to run at very high temperatures to maximize power and efficiency exposed limitations in the materials of the day, and the few engines that were built in those early years suffered unacceptably frequent failures (albeit with far less disastrous consequences than a boiler explosion[18])  for example, the Dundee foundry engine was replaced by a steam engine after three hot cylinder failures in four years.[19]
+Later nineteenth century[edit]
+A typical late nineteenth/early twentieth century water pumping engine by the Rider-Ericsson Engine Company
+Subsequent to the failure of the Dundee foundry engine there is no record of the Stirling brothers having any further involvement with air engine development and the Stirling engine never again competed with steam as an industrial scale power source (steam boilers were becoming safer[20] and steam engines more efficient, thus presenting less of a target to rival prime movers). However, from about 1860, smaller engines of the Stirling/hot air type were produced in substantial numbers finding applications wherever a reliable source of low to medium power was required, such as raising water or providing air for church organs.[21] These generally operated at lower temperatures so as not to tax available materials, so were relatively inefficient. Their selling point was that, unlike a steam engine, they could be operated safely by anybody capable of managing a fire.[22] Several types remained in production beyond the end of the century, but apart from a few minor mechanical improvements the design of the Stirling engine in general stagnated during this period.[23]
+Twentieth century revival[edit]
+During the early part of the twentieth century the role of the Stirling engine as a "domestic motor"[24] was gradually taken over by electric motors and small internal combustion engines. By the late 1930s, it was largely forgotten, only produced for toys and a few small ventilating fans.[25]
+Around that time, Philips was seeking to expand sales of its radios into parts of the world where grid electricity and batteries were not consistently available. Philips' management decided that offering a low-power portable generator would facilitate such sales and asked a group of engineers at the company's research lab in Eindhoven to evaluate alternative ways of achieving this aim. After a systematic comparison of various prime movers, the team decided to go forward with the Stirling engine, citing its quiet operation (both audibly and in terms of radio interference) and ability to run on a variety of heat sources (common lamp oil "cheap and available everywhere" was favored).[26] They were also aware that, unlike steam and internal combustion engines, virtually no serious development work had been carried out on the Stirling engine for many years and asserted that modern materials and know-how should enable great improvements.[27]
+Philips MP1002CA Stirling generator of 1951
+By 1951, the 180/200 W generator set designated MP1002CA (known as the "Bungalow set") was ready for production and an initial batch of 250 was planned, but soon it became clear that they could not be made at a competitive price. Additionally, the advent of transistor radios and their much lower power requirements meant that the original rationale for the set was disappearing. Approximately 150 of these sets were eventually produced.[28] Some found their way into university and college engineering departments around the world[29] giving generations of students a valuable introduction to the Stirling engine.
+In parallel with the Bungalow set, Philips developed experimental Stirling engines for a wide variety of applications and continued to work in the field until the late 1970s, but only achieved commercial success with the "reversed Stirling engine" cryocooler. However, they filed a large number of patents and amassed a wealth of information, which they licensed to other companies and which formed the basis of much of the development work in the modern era.[30]
+In 1996, the Swedish navy commissioned three Gotland-class submarines. On the surface, these boats are propelled by marine diesel engines. However, when submerged, they use a Stirling-driven generator developed by Swedish shipbuilder Kockums to recharge batteries and provide electrical power for propulsion.[31] A supply of liquid oxygen is carried to support burning of diesel fuel to power the engine. Stirling engines are also fitted to the Swedish Sdermanland-class submarines, the Archer-class submarines in service in Singapore and, license-built by Kawasaki Heavy Industries for the Japanese Sry-class submarines. In a submarine application, the Stirling engine offers the advantage of being exceptionally quiet when running.
+Stirling engines are frequently used in the dish version of Concentrated Solar Power systems. A mirrored dish similar to a very large satellite dish directs and concentrates sunlight onto a thermal receiver, which absorbs and collects the heat and using a fluid transfers it into the Stirling engine. The resulting mechanical power is then used to run a generator or alternator to produce electricity.[32]
+Stirling engines are forming the core component of micro combined heat and power (CHP) units, as they are more efficient and safer than a comparable steam engine. CHP units are being installed in people's homes.[33]
+Functional description[edit]
+The engine is designed so that the working gas is generally compressed in the colder portion of the engine and expanded in the hotter portion resulting in a net conversion of heat into work.[2] An internal regenerative heat exchanger increases the Stirling engine's thermal efficiency compared to simpler hot air engines lacking this feature.
+Key components[edit]
+Cut-away diagram of a rhombic drive beta configuration Stirling engine design:
+Pink Hot cylinder wall
+Dark grey Cold cylinder wall
+Yellow Coolant inlet and outlet pipes
+Dark green Thermal insulation separating the two cylinder ends
+Light green Displacer piston
+Dark blue Power piston
+Light blue Linkage crank and flywheels
+Not shown: Heat source and heat sinks. In this design the displacer piston is constructed without a purpose-built regenerator.
+As a consequence of closed cycle operation, the heat driving a Stirling engine must be transmitted from a heat source to the working fluid by heat exchangers and finally to a heat sink. A Stirling engine system has at least one heat source, one heat sink and up to five[clarification needed] heat exchangers. Some types may combine or dispense with some of these.
+Heat source[edit]
+Point focus parabolic mirror with Stirling engine at its centre and its solar tracker at Plataforma Solar de Almera (PSA) in Spain
+Dish Stirling from SES
+The heat source may be provided by the combustion of a fuel and, since the combustion products do not mix with the working fluid and hence do not come into contact with the internal parts of the engine, a Stirling engine can run on fuels that would damage other engines type's internals, such as landfill gas, which may contain siloxane which can deposit abrasive silicon dioxide in conventional engines.[34]
+Other suitable heat sources include concentrated solar energy, geothermal energy, nuclear energy, waste heat and bioenergy. If solar power is used as a heat source, regular solar mirrors and solar dishes may be utilised. The use of Fresnel lenses and mirrors has also been advocated, for example in planetary surface exploration.[35] Solar powered Stirling engines are increasingly popular as they offer an environmentally sound option for producing power while some designs are economically attractive in development projects.[36]
+Heater / hot side heat exchanger[edit]
+In small, low power engines this may simply consist of the walls of the hot space(s) but where larger powers are required a greater surface area is needed to transfer sufficient heat. Typical implementations are internal and external fins or multiple small bore tubes.
+Designing Stirling engine heat exchangers is a balance between high heat transfer with low viscous pumping losses and low dead space (unswept internal volume). Engines that operate at high powers and pressures require that heat exchangers on the hot side be made of alloys that retain considerable strength at temperature and that don't corrode or creep.
+Regenerator[edit]
+Main article: Regenerative heat exchanger
+In a Stirling engine, the regenerator is an internal heat exchanger and temporary heat store placed between the hot and cold spaces such that the working fluid passes through it first in one direction then the other, taking heat from the fluid in one direction, and returning it in the other. It can be as simple as metal mesh or foam, and benefits from high surface area, high heat capacity, low conductivity and low flow friction.[37] Its function is to retain within the system that heat that would otherwise be exchanged with the environment at temperatures intermediate to the maximum and minimum cycle temperatures,[38] thus enabling the thermal efficiency of the cycle (though not of any practical engine[39]) to approach the limiting Carnot efficiency.
+The primary effect of regeneration in a Stirling engine is to increase the thermal efficiency by 'recycling' internal heat that would otherwise pass through the engine irreversibly. As a secondary effect, increased thermal efficiency yields a higher power output from a given set of hot and cold end heat exchangers. These usually limit the engine's heat throughput. In practice this additional power may not be fully realized as the additional "dead space" (unswept volume) and pumping loss inherent in practical regenerators reduces the potential efficiency gains from regeneration.
+The design challenge for a Stirling engine regenerator is to provide sufficient heat transfer capacity without introducing too much additional internal volume ('dead space') or flow resistance. These inherent design conflicts are one of many factors that limit the efficiency of practical Stirling engines. A typical design is a stack of fine metal wire meshes, with low porosity to reduce dead space, and with the wire axes perpendicular to the gas flow to reduce conduction in that direction and to maximize convective heat transfer.[40]
+The regenerator is the key component invented by Robert Stirling and its presence distinguishes a true Stirling engine from any other closed cycle hot air engine. Many small 'toy' Stirling engines, particularly low-temperature difference (LTD) types, do not have a distinct regenerator component and might be considered hot air engines; however a small amount of regeneration is provided by the surface of the displacer itself and the nearby cylinder wall, or similarly the passage connecting the hot and cold cylinders of an alpha configuration engine.
+Cooler / cold side heat exchanger[edit]
+In small, low power engines this may simply consist of the walls of the cold space(s), but where larger powers are required a cooler using a liquid like water is needed to transfer sufficient heat.
+Heat sink[edit]
+The larger the difference between the hot and cold sections of a Stirling the more the efficiency rises. The heat sink is typically the environment the engine operates in, the ambient temperature. In the case of medium to high power engines, a radiator is required to transfer the heat from the engine to the ambient air. Marine engines have the advantage of using the cool ambient sea, lake or river water which is typically cooler than ambient air. In the case of combined heat and power systems, the engine's cooling water is used directly or indirectly for heating purposes raising efficiency.
+Alternatively, heat may be supplied at ambient temperature and the heat sink maintained at a lower temperature by such means as cryogenic fluid (see Liquid nitrogen economy) or iced water.
+Displacer[edit]
+The displacer is a special-purpose piston, used in Beta and Gamma type Stirling engines, to move the working gas back and forth between the hot and cold heat exchangers. Depending on the type of engine design, the displacer may or may not be sealed to the cylinder, i.e. it may be a loose fit within the cylinder, allowing the working gas to pass around it as it moves to occupy the part of the cylinder beyond.
+Configurations[edit]
+There are three major types of Stirling engines, that are distinguished by the way they move the air between the hot and cold areas:
+The alpha configuration has two power pistons, one in a hot cylinder, one in a cold cylinder, and the gas is driven between the two by the pistons; it is typically in a V-formation with the pistons joined at the same point on a crankshaft.
+The beta configuration has a single cylinder with a hot end and a cold end, containing a power piston and a 'displacer' that drives the gas between the hot and cold ends. It is typically used with a rhombic drive to achieve the phase difference between the displacer and power pistons, but they can be joined 90 degrees out of phase on a crankshaft.
+The gamma configuration has two cylinders: one containing a displacer, with a hot and a cold end, and one for the power piston; they are joined to form a single space with the same pressure in both cylinders; the pistons are typically in parallel and joined 90 degrees out of phase on a crankshaft.
+Alpha configuration operation[edit]
+An alpha Stirling contains two power pistons in separate cylinders, one hot and one cold. The hot cylinder is situated inside the high temperature heat exchanger and the cold cylinder is situated inside the low temperature heat exchanger. This type of engine has a high power-to-volume ratio but has technical problems because of the usually high temperature of the hot piston and the durability of its seals.[41] In practice, this piston usually carries a large insulating head to move the seals away from the hot zone at the expense of some additional dead space. The crank angle has a major effect on efficiency and the best angle frequently has to be found experimentally. An angle of 90 frequently locks.
+The following diagrams do not show internal heat exchangers in the compression and expansion spaces, which are needed to produce power. A regenerator would be placed in the pipe connecting the two cylinders.
+1. Most of the working gas is in the hot cylinder and has more contact with the hot cylinder's walls. This results in overall heating of the gas. Its pressure increases and the gas expands. Because the hot cylinder is at its maximum volume and the cold cylinder is at the top of its stroke (minimum volume), the volume of the system is increased by expansion into the cold cylinder.
+2. The system is at its maximum volume and the gas has more contact with the cold cylinder. This cools the gas, lowering its pressure. Because of flywheel momentum or other piston pairs on the same shaft, the hot cylinder begins an upstroke reducing the volume of the system.
+3. Almost all the gas is now in the cold cylinder and cooling continues. This continues to reduce the pressure of the gas and cause contraction. Because the hot cylinder is at minimum volume and the cold cylinder is at its maximum volume, the volume of the system is further reduced by compression of the cold cylinder inwards.
+4. The system is at its minimum volume and the gas has greater contact with the hot cylinder. The volume of the system increases by expansion of the hot cylinder.
+The complete alpha type Stirling cycle. Note that if the application of heat and cold is reversed, the engine runs in the opposite direction without any other changes.
+Beta configuration operation[edit]
+A beta Stirling has a single power piston arranged within the same cylinder on the same shaft as a displacer piston. The displacer piston is a loose fit and does not extract any power from the expanding gas but only serves to shuttle the working gas between the hot and cold heat exchangers. When the working gas is pushed to the hot end of the cylinder it expands and pushes the power piston. When it is pushed to the cold end of the cylinder it contracts and the momentum of the machine, usually enhanced by a flywheel, pushes the power piston the other way to compress the gas. Unlike the alpha type, the beta type avoids the technical problems of hot moving seals.[42]
+Again, the following diagrams do not show any internal heat exchangers or a regenerator, which would be placed in the gas path around the displacer. If a regenerator is used in a beta engine, it is usually in the position of the displacer and moving, often as a volume of wire mesh.
+1. Power piston (dark grey) has compressed the gas, the displacer piston (light grey) has moved so that most of the gas is adjacent to the hot heat exchanger.
+2. The heated gas increases in pressure and pushes the power piston to the farthest limit of the power stroke.
+3. The displacer piston now moves, shunting the gas to the cold end of the cylinder.
+4. The cooled gas is now compressed by the flywheel momentum. This takes less energy, since its pressure drops when it is cooled.
+The complete beta type Stirling cycle
+Gamma configuration operation[edit]
+A gamma Stirling is simply a beta Stirling in which the power piston is mounted in a separate cylinder alongside the displacer piston cylinder, but is still connected to the same flywheel. The gas in the two cylinders can flow freely between them and remains a single body. This configuration produces a lower compression ratio because of the volume of the connection between the two but is mechanically simpler and often used in multi-cylinder Stirling engines.
+Other types[edit]
+Other Stirling configurations continue to interest engineers and inventors.
+The rotary Stirling engine seeks to convert power from the Stirling cycle directly into torque, similar to the rotary combustion engine. No practical engine has yet been built but a number of concepts, models and patents have been produced for example the Quasiturbine engine.[43]
+The hybrid between piston and rotary configuration is a double acting engine. This design rotates the displacers on either side of the power piston. In addition to giving great design variability in the heat transfer area, this layout eliminates all but one external seal on the output shaft and one internal seal on the piston. Also both sides can be highly pressurized as they balance against each other.
+Top view of two rotating displacer powering the horizontal piston. Regenerators and radiator removed for clarity
+Another alternative is the Fluidyne engine (Fluidyne heat pump), which uses hydraulic pistons to implement the Stirling cycle. The work produced by a Fluidyne engine goes into pumping the liquid. In its simplest form, the engine contains a working gas, a liquid and two non-return valves.
+The Ringbom engine concept published in 1907 has no rotary mechanism or linkage for the displacer. This is instead driven by a small auxiliary piston, usually a thick displacer rod, with the movement limited by stops.[44][45]
+The two-cylinder Stirling with Ross yoke is a two-cylinder stirling engine (not positioned at 90, but at 0) connected with a special yoke. The engine configuration/yoke setup was invented by Andy Ross (engineer).[46]
+The Franchot engine is a double acting engine invented by Franchot in the nineteenth century. A double acting engine is one where both sides of the piston are acted upon by the pressure of the working fluid. One of the simplest forms of a double acting machine, the Franchot engine consists of two pistons and two cylinders and acts like two separate alpha machines. In the Franchot engine, each piston acts in two gas phases, which makes more efficient use of the mechanical components than a single acting alpha machine. However, a disadvantage of this machine is that one connecting rod must have a sliding seal at the hot side of the engine, which is a difficult task when dealing with high pressures and high temperatures[citation needed].
+Free piston Stirling engines[edit]
+Various free-piston Stirling configurations... F."free cylinder", G. Fluidyne, H. "double-acting" Stirling (typically 4 cylinders)
+"Free piston" Stirling engines include those with liquid pistons and those with diaphragms as pistons. In a "free piston" device, energy may be added or removed by an electrical linear alternator, pump or other coaxial device. This avoids the need for a linkage, and reduces the number of moving parts. In some designs, friction and wear are nearly eliminated by the use of non-contact gas bearings or very precise suspension through planar springs.
+Four basic steps in the cycle of a free piston Stirling engine are:
+The power piston is pushed outwards by the expanding gas thus doing work. Gravity plays no role in the cycle.
+The gas volume in the engine increases and therefore the pressure reduces, which causes a pressure difference across the displacer rod to force the displacer towards the hot end. When the displacer moves, the piston is almost stationary and therefore the gas volume is almost constant. This step results in the constant volume cooling process, which reduces the pressure of the gas.
+The reduced pressure now arrests the outward motion of the piston and it begins to accelerate towards the hot end again and by its own inertia, compresses the now cold gas, which is mainly in the cold space.
+As the pressure increases, a point is reached where the pressure differential across the displacer rod becomes large enough to begin to push the displacer rod (and therefore also the displacer) towards the piston and thereby collapsing the cold space and transferring the cold, compressed gas towards the hot side in an almost constant volume process. As the gas arrives in the hot side the pressure increases and begins to move the piston outwards to initiate the expansion step as explained in (1).
+In the early 1960s, W.T. Beale invented a free piston version of the Stirling engine to overcome the difficulty of lubricating the crank mechanism.[47] While the invention of the basic free piston Stirling engine is generally attributed to Beale, independent inventions of similar types of engines were made by E.H. Cooke-Yarborough and C. West at the Harwell Laboratories of the UKAERE.[48] G.M. Benson also made important early contributions and patented many novel free-piston configurations.[49]
+The first known mention of a Stirling cycle machine using freely moving components is a British patent disclosure in 1876.[50] This machine was envisaged as a refrigerator (i.e., the reversed Stirling cycle). The first consumer product to utilize a free piston Stirling device was a portable refrigerator manufactured by Twinbird Corporation of Japan and offered in the US by Coleman in 2004.
+Flat Stirling engine[edit]
+Cutaway of the flat Stirling engine: 10.Hot cylinder 11.A volume of hot cylinder 12.B volume of hot cylinder 17.Warm piston diaphragm 18.Heating medium 19.Piston rod 20.Cold cylinder 21.A Volume of cold cylinder 22.B Volume of cold cylinder 27.Cold piston diaphragm 28.Coolant medium 30.Working cylinder 31.A volume of working cylinder 32.B volume of working cylinder 37.Working piston diaphragm 41.Regenerator mass of A volume 42.Regenerator mass of B volume 48.Heat accumulator 50.Thermal insulation 60.Generator 63.Magnetic circuit 64.Electrical winding 70.Channel connecting warm and working cylinders
+Design of the flat double-acting Stirling engine solves the drive of a displacer with the help of the fact that areas of the hot and cold pistons of the displacer are different. The drive does so without any mechanical transmission . Using diaphragms eliminates friction and need for lubricants. When the displacer is in motion, the generator holds the working piston in the limit position, which brings the engine working cycle close to an ideal Stirling cycle. The ratio of the area of the heat exchangers to the volume of the machine increases by the implementation of a flat design. Flat design of the working cylinder approximates thermal process of the expansion and compression closer to the isothermal one. The disadvantage is a large area of the thermal insulation between the hot and cold space. [51]
+Thermoacoustic cycle[edit]
+Thermoacoustic devices are very different from Stirling devices, although the individual path travelled by each working gas molecule does follow a real Stirling cycle. These devices include the thermoacoustic engine and thermoacoustic refrigerator. High-amplitude acoustic standing waves cause compression and expansion analogous to a Stirling power piston, while out-of-phase acoustic travelling waves cause displacement along a temperature gradient, analogous to a Stirling displacer piston. Thus a thermoacoustic device typically does not have a displacer, as found in a beta or gamma Stirling.
+Other developments[edit]
+Starting in 1986, Infinia Corporation began developing both highly reliable pulsed free-piston Stirling engines, and thermoacoustic coolers using related technology. The published design uses flexural bearings and hermetically sealed Helium gas cycles, to achieve tested reliabilities exceeding 20 years. As of 2010, the corporation had amassed more than 30 patents, and developed a number of commercial products for both combined heat and power, and solar power.[52] More recently, NASA has considered nuclear-decay heated Stirling Engines for extended missions to the outer solar system.[53] At the 2012 Cable-Tec Expo put on by the Society of Cable Telecommunications Engineers, Dean Kamen took the stage with Time Warner Cable Chief Technology Officer Mike LaJoie to announce a new initiative between his company Deka Research and the SCTE. Kamen refers to it as a Stirling engine.[54][55]
+Theory[edit]
+Main article: Stirling cycle
+A pressure/volume graph of the idealized Stirling cycle
+The idealised Stirling cycle consists of four thermodynamic processes acting on the working fluid:
+Isothermal expansion. The expansion-space and associated heat exchanger are maintained at a constant high temperature, and the gas undergoes near-isothermal expansion absorbing heat from the hot source.
+Constant-volume (known as isovolumetric or isochoric) heat-removal. The gas is passed through the regenerator, where it cools, transferring heat to the regenerator for use in the next cycle.
+Isothermal compression. The compression space and associated heat exchanger are maintained at a constant low temperature so the gas undergoes near-isothermal compression rejecting heat to the cold sink
+Constant-volume (known as isovolumetric or isochoric) heat-addition. The gas passes back through the regenerator where it recovers much of the heat transferred in 2, heating up on its way to the expansion space.
+Theoretical thermal efficiency equals that of the hypothetical Carnot cycle  i.e. the highest efficiency attainable by any heat engine. However, though it is useful for illustrating general principles, the ideal cycle deviates substantially from practical Stirling engines. It has been argued that its indiscriminate use in many standard books on engineering thermodynamics has done a disservice to the study of Stirling engines in general.[56][57]
+Other real-world issues reduce the efficiency of actual engines, because of limits of convective heat transfer, and viscous flow (friction). There are also practical mechanical considerations, for instance a simple kinematic linkage may be favoured over a more complex mechanism needed to replicate the idealized cycle, and limitations imposed by available materials such as non-ideal properties of the working gas, thermal conductivity, tensile strength, creep, rupture strength, and melting point. A question that often arises is whether the ideal cycle with isothermal expansion and compression is in fact the correct ideal cycle to apply to the Stirling engine. Professor C. J. Rallis has pointed out that it is very difficult to imagine any condition where the expansion and compression spaces may approach isothermal behavior and it is far more realistic to imagine these spaces as adiabatic.[58] An ideal analysis where the expansion and compression spaces are taken to be adiabatic with isothermal heat exchangers and perfect regeneration was analyzed by Rallis and presented as a better ideal yardstick for Stirling machinery. He called this cycle the 'pseudo-Stirling cycle' or 'ideal adiabatic Stirling cycle'. An important consequence of this ideal cycle is that it does not predict Carnot efficiency. A further conclusion of this ideal cycle is that maximum efficiencies are found at lower compression ratios, a characteristic observed in real machines. In an independent work, T. Finkelstein also assumed adiabatic expansion and compression spaces in his analysis of Stirling machinery [59]
+Operation[edit]
+Since the Stirling engine is a closed cycle, it contains a fixed mass of gas called the "working fluid", most commonly air, hydrogen or helium. In normal operation, the engine is sealed and no gas enters or leaves the engine. No valves are required, unlike other types of piston engines. The Stirling engine, like most heat engines, cycles through four main processes: cooling, compression, heating and expansion. This is accomplished by moving the gas back and forth between hot and cold heat exchangers, often with a regenerator between the heater and cooler. The hot heat exchanger is in thermal contact with an external heat source, such as a fuel burner, and the cold heat exchanger being in thermal contact with an external heat sink, such as air fins. A change in gas temperature causes a corresponding change in gas pressure, while the motion of the piston causes the gas to be alternately expanded and compressed.
+The gas follows the behaviour described by the gas laws that describe how a gas' pressure, temperature and volume are related. When the gas is heated, because it is in a sealed chamber, the pressure rises and this then acts on the power piston to produce a power stroke. When the gas is cooled the pressure drops and this means that less work needs to be done by the piston to compress the gas on the return stroke, thus yielding a net power output.
+The ideal Stirling cycle is unattainable in the real world, as with any heat engine; efficiencies of 50% have been reached,[4] similar to the maximum figure for Diesel cycle engines.[60] The efficiency of Stirling machines is also linked to the environmental temperature; a higher efficiency is obtained when the weather is cooler, thus making this type of engine less interesting in places with warmer climates. As with other external combustion engines, Stirling engines can use heat sources other than from combustion of fuels.
+When one side of the piston is open to the atmosphere, the operation is slightly different. As the sealed volume of working gas comes in contact with the hot side, it expands, doing work on both the piston and on the atmosphere. When the working gas contacts the cold side, its pressure drops below atmospheric pressure and the atmosphere pushes on the piston and does work on the gas.
+To summarize, the Stirling engine uses the temperature difference between its hot end and cold end to establish a cycle of a fixed mass of gas, heated and expanded, and cooled and compressed, thus converting thermal energy into mechanical energy. The greater the temperature difference between the hot and cold sources, the greater the thermal efficiency. The maximum theoretical efficiency is equivalent to the Carnot cycle, however the efficiency of real engines is less than this value because of friction and other losses.
+Play media
+Video showing the compressor and displacer of a very small Stirling Engine in action
+Very low-power engines have been built that run on a temperature difference of as little as 0.5 K.[61] In a displacer type stirling engine you have one piston and one displacer. A temperature difference is required between the top and bottom of the large cylinder to run the engine. In the case of the low-temperature difference (LTD) stirling engine, temperature difference between your hand and the surrounding air can be enough to run the engine. The power piston in the displacer type stirling engine, is tightly sealed and is controlled to move up and down as the gas inside expands. The displacer on the other hand is very loosely fitted so that air can move freely between the hot and cold sections of the engine as the piston moves up and down. The displacer moves up and down to control the heating and cooling of the gas in the engine.
+There are two positions:
+When the displacer is near the top of the large cylinder; inside the engine most of the gas has been heated by the heat source and it expands. This increases the pressure, which forces the piston up.
+When the displacer is near the bottom of the large cylinder; most of the gas in the engine has now cooled and contracts causing the pressure to decrease, which in turn allows the piston to move down and compress the gas.
+Pressurization[edit]
+In most high power Stirling engines, both the minimum pressure and mean pressure of the working fluid are above atmospheric pressure. This initial engine pressurization can be realized by a pump, or by filling the engine from a compressed gas tank, or even just by sealing the engine when the mean temperature is lower than the mean operating temperature. All of these methods increase the mass of working fluid in the thermodynamic cycle. All of the heat exchangers must be sized appropriately to supply the necessary heat transfer rates. If the heat exchangers are well designed and can supply the heat flux needed for convective heat transfer, then the engine, in a first approximation, produces power in proportion to the mean pressure, as predicted by the West number, and Beale number. In practice, the maximum pressure is also limited to the safe pressure of the pressure vessel. Like most aspects of Stirling engine design, optimization is multivariate, and often has conflicting requirements.[62] A difficulty of pressurization is that while it improves the power, the heat required increases proportionately to the increased power. This heat transfer is made increasingly difficult with pressurization since increased pressure also demands increased thicknesses of the walls of the engine, which, in turn, increase the resistance to heat transfer.
+Lubricants and friction[edit]
+A modern Stirling engine and generator set with 55 kW electrical output, for combined heat and power applications
+At high temperatures and pressures, the oxygen in air-pressurized crankcases, or in the working gas of hot air engines, can combine with the engine's lubricating oil and explode. At least one person has died in such an explosion.[63]
+Lubricants can also clog heat exchangers, especially the regenerator. For these reasons, designers prefer non-lubricated, low-coefficient of friction materials (such as rulon or graphite), with low normal forces on the moving parts, especially for sliding seals. Some designs avoid sliding surfaces altogether by using diaphragms for sealed pistons. These are some of the factors that allow Stirling engines to have lower maintenance requirements and longer life than internal-combustion engines.
+Analysis[edit]
+Comparison with internal combustion engines[edit]
+In contrast to internal combustion engines, Stirling engines have the potential to use renewable heat sources more easily, to be quieter, and to be more reliable with lower maintenance. They are preferred for applications that value these unique advantages, particularly if the cost per unit energy generated is more important than the capital cost per unit power. On this basis, Stirling engines are cost competitive up to about 100kW.[64]
+Compared to an internal combustion engine of the same power rating, Stirling engines currently have a higher capital cost and are usually larger and heavier. However, they are more efficient than most internal combustion engines.[65] Their lower maintenance requirements make the overall energy cost comparable. The thermal efficiency is also comparable (for small engines), ranging from 15% to 30%.[64] For applications such as micro-CHP, a Stirling engine is often preferable to an internal combustion engine. Other applications include water pumping, astronautics, and electrical generation from plentiful energy sources that are incompatible with the internal combustion engine, such as solar energy, and biomass such as agricultural waste and other waste such as domestic refuse. However, Stirling engines are generally not price-competitive as an automobile engine, because of high cost per unit power, low power density, and high material costs.
+Basic analysis is based on the closed-form Schmidt analysis.[66][67]
+Advantages[edit]
+Stirling engines can run directly on any available heat source, not just one produced by combustion, so they can run on heat from solar, geothermal, biological, nuclear sources or waste heat from industrial processes.
+A continuous combustion process can be used to supply heat, so those emissions associated with the intermittent combustion processes of a reciprocating internal combustion engine can be reduced.
+Some types of Stirling engines have the bearings and seals on the cool side of the engine, where they require less lubricant and last longer than equivalents on other reciprocating engine types.
+The engine mechanisms are in some ways simpler than other reciprocating engine types. No valves are needed, and the burner system can be relatively simple. Crude Stirling engines can be made using common household materials.[68]
+A Stirling engine uses a single-phase working fluid that maintains an internal pressure close to the design pressure, and thus for a properly designed system the risk of explosion is low. In comparison, a steam engine uses a two-phase gas/liquid working fluid, so a faulty overpressure relief valve can cause an explosion.
+In some cases, low operating pressure allows the use of lightweight cylinders.
+They can be built to run quietly and without an air supply, for air-independent propulsion use in submarines.
+They start easily (albeit slowly, after warmup) and run more efficiently in cold weather, in contrast to the internal combustion, which starts quickly in warm weather, but not in cold weather.
+A Stirling engine used for pumping water can be configured so that the water cools the compression space. This increases efficiency when pumping cold water.
+They are extremely flexible. They can be used as CHP (combined heat and power) in the winter and as coolers in summer.
+Waste heat is easily harvested (compared to waste heat from an internal combustion engine), making Stirling engines useful for dual-output heat and power systems.
+In 1986 NASA built a Stirling automotive engine and installed it in a Chevrolet Celebrity. Fuel economy was improved 45% and emissions were greatly reduced. Acceleration (power response) was equivalent to the standard internal combustion engine. This engine, designated the Mod 11, also nullifies arguments that Stirling engines are heavy, expensive, unreliable, and demonstrate poor performance.[69] A catalytic converter, muffler and frequent oil changes are not required.[69]
+Disadvantages[edit]
+Size and cost issues[edit]
+Stirling engine designs require heat exchangers for heat input and for heat output, and these must contain the pressure of the working fluid, where the pressure is proportional to the engine power output. In addition, the expansion-side heat exchanger is often at very high temperature, so the materials must resist the corrosive effects of the heat source, and have low creep. Typically these material requirements substantially increase the cost of the engine. The materials and assembly costs for a high temperature heat exchanger typically accounts for 40% of the total engine cost.[63]
+All thermodynamic cycles require large temperature differentials for efficient operation. In an external combustion engine, the heater temperature always equals or exceeds the expansion temperature. This means that the metallurgical requirements for the heater material are very demanding. This is similar to a Gas turbine, but is in contrast to an Otto engine or Diesel engine, where the expansion temperature can far exceed the metallurgical limit of the engine materials, because the input heat source is not conducted through the engine, so engine materials operate closer to the average temperature of the working gas. The Stirling cycle is not actually achievable, the real cycle in Stirling machines is less efficient than the theoretical Stirling cycle, also the efficiency of the Stirling cycle is lower where the ambient temperatures are mild, while it would give its best results in a cool environment, such as northern countries' winters.
+Dissipation of waste heat is especially complicated because the coolant temperature is kept as low as possible to maximize thermal efficiency. This increases the size of the radiators, which can make packaging difficult. Along with materials cost, this has been one of the factors limiting the adoption of Stirling engines as automotive prime movers. For other applications such as ship propulsion and stationary microgeneration systems using combined heat and power (CHP) high power density is not required.[33]
+Power and torque issues[edit]
+Stirling engines, especially those that run on small temperature differentials, are quite large for the amount of power that they produce (i.e., they have low specific power). This is primarily due to the heat transfer coefficient of gaseous convection, which limits the heat flux that can be attained in a typical cold heat exchanger to about 500W/(m2K), and in a hot heat exchanger to about 5005000W/(m2K).[62] Compared with internal combustion engines, this makes it more challenging for the engine designer to transfer heat into and out of the working gas. Because of the thermal efficiency the required heat transfer grows with lower temperature difference, and the heat exchanger surface (and cost) for 1kW output grows with second power of 1/deltaT. Therefore, the specific cost of very low temperature difference engines is very high. Increasing the temperature differential and/or pressure allows Stirling engines to produce more power, assuming the heat exchangers are designed for the increased heat load, and can deliver the convected heat flux necessary.
+A Stirling engine cannot start instantly; it literally needs to "warm up". This is true of all external combustion engines, but the warm up time may be longer for Stirlings than for others of this type such as steam engines. Stirling engines are best used as constant speed engines.
+Power output of a Stirling tends to be constant and to adjust it can sometimes require careful design and additional mechanisms. Typically, changes in output are achieved by varying the displacement of the engine (often through use of a swashplate crankshaft arrangement), or by changing the quantity of working fluid, or by altering the piston/displacer phase angle, or in some cases simply by altering the engine load. This property is less of a drawback in hybrid electric propulsion or "base load" utility generation where constant power output is actually desirable.
+Gas choice issues[edit]
+The gas used should have a low heat capacity, so that a given amount of transferred heat leads to a large increase in pressure. Considering this issue, helium would be the best gas because of its very low heat capacity. Air is a viable working fluid,[70] but the oxygen in a highly pressurized air engine can cause fatal accidents caused by lubricating oil explosions.[63] Following one such accident Philips pioneered the use of other gases to avoid such risk of explosions.
+Hydrogen's low viscosity and high thermal conductivity make it the most powerful working gas, primarily because the engine can run faster than with other gases. However, because of hydrogen absorption, and given the high diffusion rate associated with this low molecular weight gas, particularly at high temperatures, H2 leaks through the solid metal of the heater. Diffusion through carbon steel is too high to be practical, but may be acceptably low for metals such as aluminum, or even stainless steel. Certain ceramics also greatly reduce diffusion. Hermetic pressure vessel seals are necessary to maintain pressure inside the engine without replacement of lost gas. For high temperature differential (HTD) engines, auxiliary systems may need to be added to maintain high pressure working fluid. These systems can be a gas storage bottle or a gas generator. Hydrogen can be generated by electrolysis of water, the action of steam on red hot carbon-based fuel, by gasification of hydrocarbon fuel, or by the reaction of acid on metal. Hydrogen can also cause the embrittlement of metals. Hydrogen is a flammable gas, which is a safety concern if released from the engine.
+Most technically advanced Stirling engines, like those developed for United States government labs, use helium as the working gas, because it functions close to the efficiency and power density of hydrogen with fewer of the material containment issues. Helium is inert, and hence not flammable. Helium is relatively expensive, and must be supplied as bottled gas. One test showed hydrogen to be 5% (absolute) more efficient than helium (24% relatively) in the GPU-3 Stirling engine.[71] The researcher Allan Organ demonstrated that a well-designed air engine is theoretically just as efficient as a helium or hydrogen engine, but helium and hydrogen engines are several times more powerful per unit volume.
+Some engines use air or nitrogen as the working fluid. These gases have much lower power density (which increases engine costs), but they are more convenient to use and they minimize the problems of gas containment and supply (which decreases costs). The use of compressed air in contact with flammable materials or substances such as lubricating oil introduces an explosion hazard, because compressed air contains a high partial pressure of oxygen. However, oxygen can be removed from air through an oxidation reaction or bottled nitrogen can be used, which is nearly inert and very safe.
+Other possible lighter-than-air gases include: methane, and ammonia.
+Applications[edit]
+Main article: Applications of the Stirling engine
+Applications of the Stirling engine range from heating and cooling to underwater power systems. A Stirling engine can function in reverse as a heat pump for heating or cooling. Other uses include combined heat and power, solar power generation, Stirling cryocoolers, heat pump, marine engines, low power aviation engines,[72] and low temperature difference engines.
+Alternatives[edit]
+Alternative thermal energy harvesting devices include the thermogenerator. Thermogenerators allow less efficient conversion (5-10%) but may be useful in situations where the end product must be electricity, and where a small conversion device is a critical factor.
+See also[edit]
+Beale number
+Bore
+Cogeneration
+Distributed generation
+Fluidyne engine
+Quasiturbine
+Relative cost of electricity generated by different sources
+Schmidt number
+Stirling radioisotope generator
+Stroke
+Thermomechanical generator
+West Number
+References[edit]
+^ "Stirling Engines", G. Walker (1980), Clarenden Press, Oxford, page 1: "A Stirling engine is a mechanical device which operates on a *closed* regenerative thermodynamic cycle, with cyclic compression and expansion of the working fluid at different temperature levels."
+^ a b W.R. Martini (1983), p.6
+^ T. Finkelstein; A.J. Organ (2001), Chapters 2&3
+^ a b c "The Stirling Engine". mpoweruk.com.
+^ Sleeve notes from A.J. Organ (2007)
+^ F. Starr (2001)
+^ C.M. Hargreaves (1991), Chapter 2.5
+^ Graham Walker (1971) Lecture notes for Stirling engine symposium at Bath University. Page 1.1 "Nomenclature"
+^ "Previous Survey Results  StirlingBuilder.com". stirlingbuilder.com.
+^ R. Sier (1999)
+^ T. Finkelsteinl; A.J. Organ (2001), Chapter 2.2
+^ English patent 4081 of 1816 Improvements for diminishing the consumption of fuel and in particular an engine capable of being applied to the moving (of) machinery on a principle entirely new. as reproduced in part in C.M. Hargreaves (1991), Appendix B, with full transcription of text in R. Sier (1995), p.??
+^ R. Sier (1995), p. 93
+^ A.J. Organ (2008a)
+^ Excerpt from a paper presented by James Stirling in June 1845 to the Institute of Civil Engineers. As reproduced in R. Sier (1995), p.92.
+^ A. Nesmith (1985)
+^ R. Chuse; B. Carson (1992), Chapter 1
+^ R. Sier (1995), p.94
+^ T. Finkelstein; A.J. Organ (2001), p.30
+^ Hartford Steam Boiler (a)
+^ T. Finkelstein; A.J. Organ (2001), Chapter 2.4
+^ The 1906 Rider-Ericsson Engine Co. catalog claimed that "any gardener or ordinary domestic can operate these engines and no licensed or experienced engineer is required".
+^ T. Finkelstein; A.J. Organ (2001), p.64
+^ T. Finkelstein; A. J. Organ (2001), p. 34
+^ T. Finkelstein; A. J. Organ (2001), p. 55
+^ C. M. Hargreaves (1991), p. 2830
+^ Philips Technical Review (1947), Vol. 9, No. 4, p. 97.
+^ C. M. Hargreaves (1991), p. 61
+^ Letter dated March 1961 from Research and Control Instruments Ltd. London WC1 to North Devon Technical College, offering "remaining stocks... to institutions such as yourselves... at a special price of 75 nett"
+^ C. M. Hargreaves (1991), p. 77
+^ Kockums (a)
+^ "Learning about renewable energy". NREL  National Renewable Energy Laboratory. Retrieved April 25, 2016.
+^ a b BBC News (2003), "The boiler is based on the Stirling engine, dreamed up by the Scottish inventor Robert Stirling in 1816. [] The technical name given to this particular use is Micro Combined Heat and Power or Micro CHP."
+^ Dudek, Jerzy; Klimek, Piotr; Koodziejak, Grzegorz; Niemczewska, Joanna; Zaleska-Bartosz, Joanna (2010). "Landfill Gas Energy Technologies" (PDF). Global Methane Initiative. Instytut Nafty i Gazu / US Environmental Protection Agency. Retrieved 2015-07-24.
+^ W.H. Brandhorst; J.A. Rodiek (2005)
+^ B. Kongtragool; S. Wongwises (2003)
+^ http://e-futures.group.shef.ac.uk/publications/pdf/140_4%20Erardo%20Elizondo.pdf
+^ A.J. Organ (1992), p.58
+^ Stirling Cycle Engines, A J Organ (2014), p.4
+^ K. Hirata (1998)
+^ M.Keveney (2000a)
+^ M. Keveney (2000b)
+^ Quasiturbine Agence (a)
+^ "Ringbom Stirling Engines", James R. Senft, 1993, Oxford University Press
+^ Ossian Ringbom (of Borg, Finland) "Hot-air engine" U.S. Patent no. 856,102 (filed: 17 July 1905; issued: 4 June 1907).
+^ "Animated Engines". animatedengines.com.
+^ "Free-Piston Stirling Engines", G. Walker et al.,Springer 1985, reprinted by Stirling Machine World, West Richland WA
+^ "The Thermo-mechanical Generator...", E.H. Cooke-Yarborough, (1967) Harwell Memorandum No. 1881 and (1974) Proc. I.E.E., Vol. 7, pp. 749-751
+^ G.M. Benson (1973 and 1977)
+^ D. Postle (1873)
+^ "DOUBLE ACTING DISPLACER WITH SEPARATE HOT AND COLD SPACE AND THE HEAT ENGINE WITH A DOUBLE ACTING DISPLACE" WO/2012/062231 PCT/CZ2011/000108
+^ Infinia web site, accessed 2010-12-29
+^ Schimdt, George. Radio Isotope Power Systems for the New Frontier. Presentation to New Frontiers Program Pre-proposal Conference. 13 November 2003. (Accessed 2012-Feb-3)
+^ Mari Silbey. "New alliance could make cable a catalyst for cleaner power". ZDNet.
+^ http://www.dekaresearch.com/stirling.shtml
+^ T. Finkelstein; A.J. Organ (2001), Page 66 & 229
+^ A.J. Organ (1992), Chapter 3.1  3.2
+^ Rallis C. J., Urieli I. and Berchowitz D.M. A New Ported Constant Volume External Heat Supply Regenerative Cycle, 12th IECEC, Washington DC, 1977, pp 15341537.
+^ Finkelstein, T. Generalized Thermodynamic Analysis of Stirling Engines. Paper 118B, Society of Automotive Engineers, 1960.
+^ http://www.mpoweruk.com/piston_engines.htm Section heading "Energy Conversion Efficiency"
+^ "An Introduction to Low Temperature Differential Stirling Engines", James R. Senft, 1996, Moriya Press
+^ a b A.J. Organ (1997), p.??
+^ a b c C.M. Hargreaves (1991), p.??
+^ a b WADE (a)
+^ Krupp and Horn. Earth: The Sequel. p. 57
+^ Z. Herzog (2008)
+^ K. Hirata (1997)
+^ MAKE: Magazine (2006)
+^ a b Nightingale, Noel P. (October 1986). "Automotive Stirling Engine: Mod II Design Report" (PDF). NASA.
+^ A.J. Organ (2008b)
+^ L.G. Thieme (1981)
+^ Mcconaghy, Robert (1986). "Design of a Stirling Engine for Model Aircraft". IECEC: 490493.
+Bibliography[edit]
+S. Backhaus; G. Swift (2003). "Acoustic Stirling Heat Engine: More Efficient than Other No-Moving-Parts Heat Engines". Los Alamos National Laboratory. Archived from the original on 2008-08-01. Retrieved 2009-01-19.
+BBC News (2003-10-31). "Power from the people". Retrieved 2009-01-19.
+W.T. Beale (1971). "Stirling Cycle Type Thermal Device", US patent 3552120. Granted to Research Corp, 5 January 1971.
+G.M. Benson (1977). "Thermal Oscillators", US patent 4044558. Granted to New Process Ind, 30 August 1977 .
+G.M. Benson (1973). "Thermal Oscillators". Proceedings of the 8th IECEC. Philadelphia: American Society of Mechanical Engineers. pp.182189.
+H.W. Brandhorst; J.A. Rodiek (2005). "A 25 kW Solar Stirling Concept for Lunar Surface Exploration" (PDF). In International Astronautics Federation. Proceedings of the 56th International Astronautical Congress. IAC-05-C3.P.05. Retrieved 2012-03-18.
+Carbon Trust (2007). "Micro-CHP Accelerator Interim Report Executive summary". Retrieved March 19, 2012.
+E.H. Cooke-Yarborough; E. Franklin; J. Geisow; R. Howlett; C.D. West (1974). "Harwell Thermo-Mechanical Generator". Proceedings of the 9th IECEC. San Francisco: American Society of Mechanical Engineers. pp.11321136. Bibcode:1974iece.conf.1132C.
+E.H. Cooke-Yarborough (1970). "Heat Engines", US patent 3548589. Granted to Atomic Energy Authority UK, 22 December 1970.
+E.H. Cooke-Yarborough (1967). "A Proposal for a Heat-Powered Nonrotating Electrical Alternator", Harwell Memorandum AERE-M881.
+R. Chuse; B. Carson (1992). Pressure Vessels, The ASME Code Simplified. McGrawHill. ISBN0-07-010939-7.
+T. Finkelstein; A.J. Organ (2001). Air Engines. Professional Engineering Publishing. ISBN1-86058-338-5.
+C.M. Hargreaves (1991). The Philips Stirling Engine. Elsevier Science. ISBN0-444-88463-7.
+J. Harrison (2008). "What is micro generation?". Claverton Energy Research Group. Retrieved 2009-01-19.
+Hartford Steam Boiler. "Hartford Steam Boiler: Steam Power and the Industrial Revolution". Retrieved 2009-01-18.
+J. Hasci (2008). "Modified Stirling Engine With Greater Power Density". Create the Future Design Contest. NASA & SolidWorks. Retrieved 2009-01-19.
+Z. Herzog (2008). "Schmidt Analysis". Retrieved 2009-01-18.
+K. Hirata (1998). "Design and manufacturing of a prototype engine". National Maritime Research Institute. Retrieved 2009-01-18.
+K. Hirata (1997). "Schmidt Theory For Stirling Engines". Retrieved 2009-01-18.
+K. Hirata. "Palm Top Stirling Engine". Retrieved 2009-01-18.
+M. Keveney (2000a). "Two Cylinder Stirling Engine". animatedengines.com. Retrieved 2009-01-18.
+M. Keveney (2000b). "Single Cylinder Stirling Engine". animatedengines.com. Retrieved 2009-01-18.
+Kockums. "The Stirling Engine: An Engine for the Future". Retrieved 2009-01-18.
+B. Kongtragool; S. Wongwises (2003). "A review of solar-powered Stirling engines and low temperature differential Stirling engines". Renewable and Sustainable Energy Reviews. 7 (2): 131154. doi:10.1016/S1364-0321(02)00053-9.
+D. Liao. "The Working Principles". Retrieved 2009-01-18.
+W.R. Martini (1983). "Stirling Engine Design Manual (2nd ed)" (17.9MB PDF). NASA. Retrieved 2009-01-19.
+Micro-Star International (2008). "World's First Powerless Air Cooler on a Mainboard!". Archived from the original on 13 September 2008. Retrieved 2009-01-19.
+A. Nesmith (1985). "A Long, Arduous March Toward Standardization". Smithsonian Magazine. Retrieved 2009-01-18.
+A.J. Organ (2008a). "1818 and All That". Communicable Insight. Retrieved 2009-01-18.
+A.J. Organ (2008b). "Why Air?". Communicable Insight. Retrieved 2009-01-18.
+A.J. Organ (2007). The Air Engine: Stirling Cycle Power for a Sustainable Future. Woodhead Publishing. ISBN1-84569-231-4.
+A.J. Organ (1997). The Regenerator and the Stirling Engine. Wiley. ISBN1-86058-010-6.
+A.J. Organ (1992). Thermodynamics and Gas Dynamics of the Stirling Cycle Machine. Cambridge University Press. ISBN0-521-41363-X.
+PASCO Scientific (1995). "Instruction Manual and Experiment Guide for the PASCO scientific Model SE-8575" (PDF). Retrieved 2009-01-18.
+D. Postle (1873). "Producing Cold for Preserving Animal Food", British Patent 709, granted 26 February 1873.
+Precer Group. "Solid Biofuel-Powered Vehicle Technology" (PDF). Retrieved 2009-01-19.
+Quasiturbine Agence. "Quasiturbine Stirling Hot Air Engine". Retrieved 2009-01-18.
+R. Sier (1999). Hot Air Caloric and Stirling Engines: A History. 1 (1st (Revised) ed.). L.A. Mair. ISBN0-9526417-0-4.
+R. Sier (1995). Reverend Robert Stirling D.D: A Biography of the Inventor of the Heat Economiser and Stirling Cycle Engine. L.A Mair. ISBN0-9526417-0-4.
+F. Starr (2001). "Power for the People: Stirling Engines for Domestic CHP" (PDF). Ingenia (8): 2732. Retrieved 2009-01-18.
+WADE. "Stirling Engines". Retrieved 2009-01-18.
+L.G. Thieme (1981). "High-power baseline and motoring test results for the GPU-3 Stirling engine" (14.35MB PDF). NASA. OSTI6321358. Retrieved 2009-01-19.
+Y. Timoumi; I. Tlili; S.B. Nasrallah (2008). "Performance Optimization of Stirling Engines". Renewable Energy. 33 (9): 21342144. doi:10.1016/j.renene.2007.12.012.
+G. Walker (1971). "Lecture notes for Stirling engine seminar", University of Bath. Reprinted in 1978.
+C.D. West (1970). "Hydraulic Heat Engines", Harwell Momorandum AERE-R6522.
+S.K. Wickham (2008). "Kamen's Revolt". Union Leader. Archived from the original on 22 May 2011. Retrieved 2009-01-19.
+MAKE: Magazine (2006). "Two Can Stirling Engine" (PDF). Retrieved 2012-03-18.
+Further reading[edit]
+R.C. Belaire (1977). "Device for decreasing the start-up time for stirling engines", US patent 4057962. Granted to Ford Motor Company, 15 November 1977.
+P.H. Ceperley (1979). "A pistonless Stirling engineThe traveling wave heat engine". Journal of the Acoustical Society of America. 66 (5): 15081513. Bibcode:1979ASAJ...66.1508C. doi:10.1121/1.383505.
+P. Fette. "About the Efficiency of the Regenerator in the Stirling Engine and the Function of the Volume Ratio Vmax/Vmin". Retrieved 2009-01-19.
+P. Fette. "A Twice Double Acting -Type Stirling Engine Able to Work with Compound Fluids Using Heat Energy of Low to Medium Temperatures". Retrieved 2009-01-19.
+D. Haywood. "An Introduction to Stirling-Cycle Machine" (PDF). Retrieved 2013-12-20.
+Z. Herzog (2006). "Stirling Engines". Mont Alto: Pennsylvania State University. Retrieved 2009-01-19.
+F. Kyei-Manu; A. Obodoako (2005). "Solar Stirling-Engine Water Pump Proposal Draft" (PDF). Retrieved 2009-01-19.
+Lund University, Department of Energy Science: Division of Combustion Engines. "Stirling Engine Research". Archived from the original on 19 April 2008. Retrieved 2009-01-19.
+D. Phillips (1994). "Why Aviation Needs the Stirling Engine". Retrieved 2009-01-19.
+External links[edit]
+Wikimedia Commons has media related to Stirling engines.
+Look up Stirling engine in Wiktionary, the free dictionary.
+NASA Stirling Engine Based Nuclear Power Plant For Lunar Use on YouTube
+Stirling engine at DMOZ
+I. Urieli (2008). Stirling Cycle Machine Analysis 2008 Winter Syllabus
+Simple Performance Prediction Method for Stirling Engine
+Shockwave3D models: Beta Stirling and LTD
+v
+t
+e
+Thermodynamic cycles
+External combustion
+Without phase change
+(hot air engines)
+Bell Coleman
+Brayton / Joule
+Carnot
+Ericsson
+Stirling
+Stirling (pseudo / adiabatic)
+Stoddard
+With phase change
+Kalina
+Hygroscopic
+Rankine (Organic Rankine)
+Regenerative
+Internal combustion
+Atkinson
+Brayton / Joule
+Diesel
+Expander
+Gas-generator
+Homogeneous charge compression ignition
+Lenoir
+Miller
+Otto
+Scuderi
+Staged combustion
+Mixed
+Combined
+HEHC
+Mixed / Dual
+Refrigeration
+HampsonLinde
+Kleemenko
+Pulse tube
+Regenerative cooling
+Transcritical
+Vapor absorption
+Vapor-compression
+Siemens
+Vuilleumier
+Uncategorized
+Barton
+Humphrey
+v
+t
+e
+Heat engines
+Carnot engine
+Fluidyne
+Gas turbine
+Hot air
+Jet
+Minto wheel
+Photo-Carnot engine
+Piston
+Pistonless (Rotary)
+Rijke tube
+Rocket
+Split-single
+Steam (reciprocating)
+Steam turbine
+Stirling
+Thermoacoustic
+Beale number
+West number
+Timeline of heat engine technology
+Thermodynamic cycle
+Authority control
+LCCN: sh85128168
+GND: 4128005-2
+BNF: cb12378418h (data)
+NDL: 01170814
+Saved in parser cache with key enwiki:pcache:idhash:186919-0!*!0!!en!4!* and timestamp 20161101193840 and revision id 746510849
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Stirling_engine&oldid=746510849"
+Categories: Cooling technologyHeat pumpsStirling enginesHot air enginesPiston enginesScottish inventionsExternal combustion enginesHidden categories: Wikipedia articles needing clarification from April 2012All articles with unsourced statementsArticles with unsourced statements from November 2010Commons category with local link same as on WikidataArticles with DMOZ linksUse dmy dates from June 2011Wikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersArticles containing video clips

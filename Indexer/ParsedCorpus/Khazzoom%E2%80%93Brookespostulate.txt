@@ -1,0 +1,80 @@
+Khazzoom%E2%80%93Brookespostulate
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}In the 1980s, the economists Daniel Khazzoom and Leonard Brookes independently put forward ideas about energy consumption and behavior that argue that increased energy efficiency paradoxically tends to lead to increased energy consumption. In 1992, the US economist Harry Saunders dubbed this hypothesis the KhazzoomBrookes postulate, and showed that it was true under neo-classical growth theory over a wide range of assumptions.[1]
+Contents
+1 Explanation
+2 Publications
+3 See also
+4 References
+5 External links
+Explanation[edit]
+In short, the postulate states that "energy efficiency improvements that, on the broadest considerations, are economically justified at the microlevel, lead to higher levels of energy consumption at the macrolevel." [2] This idea is a more modern analysis of a phenomenon known as the Jevons Paradox. In 1865, William Stanley Jevons observed that England's consumption of coal increased considerably after James Watt introduced his improvements to the steam engine. Jevons argued that increased efficiency in the use of coal would tend to increase the demand for coal, and would not reduce the rate at which England's deposits of coal were running out.
+Like Jevons Paradox, the Khazzoom-Brookes Postulate is a deduction that is largely counter-intuitive as an efficiency paradox. When individuals change behavior and begin to use methods and devices that are more energy efficient, there are cases where, on a macro-economic level, energy usage actually increases." The effect of higher energy prices, either through taxes or producer-induced shortages, initially reduces demand but in the longer term encourages greater energy efficiency. This efficiency response amounts to a partial accommodation of the price rise and thus the reduction in demand is blunted. The end result is a new balance between supply and demand at a higher level of supply and consumption than if there had been no efficiency response."[2]
+Increased energy efficiency can increase energy consumption by three means. Firstly, increased energy efficiency makes the use of energy relatively cheaper, thus encouraging increased use. Secondly, increased energy efficiency leads to increased economic growth, which pulls up energy use in the whole economy. Thirdly, increased efficiency in any one bottleneck resource multiplies the use of all the companion technologies, products and services that were being restrained by it. One simple example is that suburban development limited by water use can be doubled if the houses adopt water efficiency measures that cut their water demand in half. That way a small efficiency can have large opposite multiplier effect. Similarly cars that use less fuel are likely to cause matching increases in the number of cars and trips and companion travel activities rather than a decrease in energy demand. It appears that these latent multipliers of opposite effects may be generally greater than the linear result of the original effect. As of late 2008 this appears[citation needed] to not have been factored into the general discussion of sustainability and global warming mitigation strategies.
+The work done by Khazzoom and Brookes began after the OPEC oil crises of 1973 and 1979, when demand for more fuel-efficient automobiles began to rise. Although greater fuel efficiency was achieved for each automobile on average, overall consumption has continued to increase. "The OPEC oil shocks spawned huge improvements in energy efficiency, particularly insofar as oil was concerned. But three decades later, we find that the net effect of all of those efficiency initiatives has been to increase the worlds appetite for crude. While oil per unit of GDP has fallen impressively in large energy-consuming economies like the United States, total oil consumption, and indeed, total energy consumption, continue to grow by leaps and bounds. The increase in energy usage has dwarfed the gains in economic efficiency. Hence, instead of capping energy demand, what we observe is that improvements in energy efficiency lead to ever and ever-greater levels of energy usage",[3] or, rather, that improvements in energy efficiency were associated with increased energy usage. Many of the increases that can be seen from empirical data might as well have taken place without efficiency gains, possibly leading to even larger increases.
+Further important considerations are the potentials and limits of the efficiency multiplier effect, considering efficiency as a kind of complex system learning process. At the beginning of the learning curve efficiency and productivity improvements get physically easier to achieve and then later improvement slows as the difficulty of learning increases and the practically achievable level of efficiencies is reached. In market systems the investor choices may be driven by physical benefits or financial ones independently, so they may conflict. Promoting efficiencies that accelerate the depletion of resource necessities may raise their monetary value by increasing scarcity, and successively decreasing physical returns on investment EROEI. Accelerating toward terminal limits of resource utility is a form of tragedy of the commons following the equivalent of a maximum rate of depletion rather than a maximum longevity or utility principle.
+The rebound effect will usually be larger if energy costs make up a large share of the total costs of a given product or its consumption, and will also depend on demand elasticities. For example, fuel efficiency of cars will lead to increased mileage to a larger extent than visits to restaurants would be increased by a better energy efficiency at restaurants (e.g. for cooking, fridges, heating): Energy costs make up a smaller amount of total costs for restaurants and will therefore influence their prices to a smaller extent, and thus also not the amount of visits to restaurants.
+Publications[edit]
+Khazzoom, J. Daniel (1980). "Economic Implications of Mandated Efficiency Standards for Household Appliances". The Energy Journal. 1 (4): 2140. doi:10.5547/issn0195-6574-ej-vol1-no4-2. ISSN0195-6574.
+ (1987). "Energy Saving Resulting from the Adoption of More Efficient Appliances". The Energy Journal. 8 (4): 8589. doi:10.5547/issn0195-6574-ej-vol8-no4-8.
+ (1989). "Energy Savings from More Efficient Appliances: A Rejoinder". The Energy Journal. 10 (1): 157166. doi:10.5547/issn0195-6574-ej-vol10-no1-14.
+Grubb, M.J. (October 1990). "Communication Energy efficiency and economic fallacies". Energy Policy. 18 (8): 7835. doi:10.1016/0301-4215(90)90031-X.
+See also[edit]
+Energy conservation
+Rebound effect (conservation)
+References[edit]
+^ Saunders, Harry D. (1992). "The Khazzoom-Brookes postulate and neoclassical growth". The Energy Journal. 13 (4): 131148. ISSN0195-6574.
+^ a b Herring, Horace (April 1998). "Does Energy Efficiency Save Energy: The Implications of accepting the Khazzoom-Brookes Postulate" (PDF). EERU, the Open University.
+^ Rubin, Jeff (27 November 2007). "The Efficiency Paradox" (PDF). Strategecon. CIBC World Markets.
+External links[edit]
+"Ch. 3: The Economics of Energy Efficiency". Second Report (Session 20052006) of the Committee on Science and Technology of the UK House of Lords.
+NewPP limit report
+Parsed by mw1262
+Cached time: 20161119055951
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.112 seconds
+Real time usage: 0.145 seconds
+Preprocessor visited node count: 445/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 16144/2097152 bytes
+Template argument size: 494/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 3.13 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+128.896
+1 - -total
+42.77%
+55.132
+1 - Template:Citation_needed
+40.85%
+52.654
+5 - Template:Cite_journal
+32.33%
+41.677
+1 - Template:Fix
+19.65%
+25.332
+2 - Template:Category_handler
+9.66%
+12.446
+1 - Template:Delink
+5.40%
+6.964
+2 - Template:Cite_web
+3.93%
+5.069
+1 - Template:Cite_book
+1.89%
+2.442
+1 - Template:Fix/category
+1.36%
+1.747
+1 - Template:Refbegin
+Saved in parser cache with key enwiki:pcache:idhash:16344330-0!*!0!!en!*!* and timestamp 20161119055951 and revision id 717648304
+Retrieved from "https://en.wikipedia.org/w/index.php?title=KhazzoomBrookes_postulate&oldid=717648304"
+Categories: Economic theoriesEnergy conservationEconomics paradoxesHidden categories: All articles with unsourced statementsArticles with unsourced statements from February 2009

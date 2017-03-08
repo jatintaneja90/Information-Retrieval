@@ -1,0 +1,753 @@
+Tragedyofthecommons
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Cows on Selsley Common. The "tragedy of the commons" is one way of accounting for overexploitation.
+The tragedy of the commons is an economic theory of a situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting that resource through their collective action.
+The concept and name originate in an essay written in 1833 by the Victorian economist William Forster Lloyd, who used a hypothetical example of the effects of unregulated grazing on common land (then colloquially called "the commons") in the British Isles.[1] The concept became widely known over a century later due to an article written by the ecologist Garrett Hardin in 1968.[2] In this context, commons is taken to mean any shared and unregulated resource such as atmosphere, oceans, rivers, fish stocks, or even an office refrigerator.
+It has been argued that the very term 'tragedy of the commons' is a misnomer per se, since 'the commons' originally referred to a resource owned by a community, and no individual outside the community had any access to the resource. However, the term is presently used when describing a problem where all individuals have equal and open access to a resource. Hence, 'tragedy of open access regimes' or simply 'the open access problem' are more apt terms.[3]:171
+The tragedy of the commons is often cited in connection with sustainable development, meshing economic growth and environmental protection, as well as in the debate over global warming. It has also been used in analyzing behavior in the fields of economics, evolutionary psychology, anthropology, game theory, politics, taxation and sociology.
+Although commons have been known to collapse due to overuse (such as in over-fishing), many examples exist where communities use common resources prudently without collapse. According to the political economist Elinor Ostrom, although it is often claimed that only private ownership or government regulation can prevent the "tragedy of the commons", it is in the interests of the users of a commons to manage it prudently, and complex social schemes are often devised by them for maintaining common resources efficiently.[4][5]
+Contents
+1 Expositions
+1.1 Lloyd's pamphlet
+1.2 Garrett Hardin's article
+1.3 The "Commons" as a modern resource concept
+2 Application
+2.1 Metaphoric meaning
+2.2 Modern commons
+3 Examples
+3.1 Application to evolutionary biology
+4 Commons dilemma
+4.1 Psychological factors
+4.2 Strategic factors
+4.3 Structural factors
+5 Solutions
+5.1 Non-governmental solution
+5.2 Governmental solutions
+5.3 Privatization
+5.4 Regulation
+5.5 Internalizing the Externalities
+5.6 Comedy of the Commons
+6 Criticism
+7 See also
+8 References
+8.1 Notes
+8.2 Bibliography
+9 External links
+Expositions[edit]
+Lloyd's pamphlet[edit]
+In 1833, the English economist William Forster Lloyd published a pamphlet which included a hypothetical example of over-use of a common resource. This was the situation of cattle herders sharing a common parcel of land on which they are each entitled to let their cows graze, as was the custom in English villages. He postulated that if a herder put more than his allotted number of cattle on the common, overgrazing could result. For each additional animal, a herder could receive additional benefits, but the whole group shared damage to the commons. If all herders made this individually rational economic decision, the common could be depleted or even destroyed, to the detriment of all.[6]
+Garrett Hardin's article[edit]
+The Tragedy of the Commons
+Presented
+13 December 1968
+Location
+Science
+Author(s)
+Garrett Hardin
+Media type
+Article
+In 1968, ecologist Garrett Hardin explored this social dilemma in his article "The Tragedy of the Commons", published in the journal Science.[2][7] The essay derived its title from the pamphlet by Lloyd, which he cites, on the over-grazing of common land.
+Hardin discussed problems that cannot be solved by technical means, as distinct from those with solutions that require "a change only in the techniques of the natural sciences, demanding little or nothing in the way of change in human values or ideas of morality". Hardin focused on human population growth, the use of the Earth's natural resources, and the welfare state.[8] Hardin argued that if individuals relied on themselves alone, and not on the relationship of society and man, then the number of children had by each family would not be of public concern. Parents breeding excessively would leave fewer descendants because they would be unable to provide for each child adequately. Such negative feedback is found in the animal kingdom.[8] Hardin said that if the children of improvident parents starved to death, if overbreeding was its own punishment, then there would be no public interest in controlling the breeding of families.[8] Hardin blamed the welfare state for allowing the tragedy of the commons; where the state provides for children and supports overbreeding as a fundamental human right, Malthusian catastrophe is inevitable. Consequently, in his article, Hardin lamented the following proposal from the United Nations:
+The Universal Declaration of Human Rights describes the family as the natural and fundamental unit of society. [Article 16[9]] It follows that any choice and decision with regard to the size of the family must irrevocably rest with the family itself, and cannot be made by anyone else.
+U Thant, Statement on Population by the Secretary-General of the United Nations[10]
+In addition, Hardin also pointed out the problem of individuals acting in rational self-interest by claiming that if all members in a group used common resources for their own gain and with no regard for others, all resources would still eventually be depleted. Overall, Hardin argued against relying on conscience as a means of policing commons, suggesting that this favors selfish individuals often known as free riders over those who are more altruistic.
+In the context of avoiding over-exploitation of common resources, Hardin concluded by restating Hegel's maxim (which was quoted by Engels), "freedom is the recognition of necessity". He suggested that "freedom" completes the tragedy of the commons. By recognizing resources as commons in the first place, and by recognizing that, as such, they require management, Hardin believed that humans "can preserve and nurture other and more precious freedoms".
+The "Commons" as a modern resource concept[edit]
+Hardin's article was the start of the modern use of "Commons" as a term connoting a shared resource. As Frank van Laerhoven & Elinor Ostrom have stated: "Prior to the publication of Hardins article on the tragedy of the commons (1968), titles containing the words 'the commons', 'common pool resources,' or 'common property' were very rare in the academic literature." They go on to say: "In 2002, Barrett and Mabry conducted a major survey of biologists to determine which publications in the twentieth century had become classic books or benchmark publications in biology. They report that Hardins 1968 article was the one having the greatest career impact on biologists and is the most frequently cited".[11]
+Application[edit]
+Metaphoric meaning[edit]
+Like Lloyd and Thomas Malthus before him, Hardin was primarily interested in the problem of human population growth. But in his essay, he also focused on the use of larger (though finite) resources such as the Earth's atmosphere and oceans, as well as pointing out the "negative commons" of pollution (i.e., instead of dealing with the deliberate privatization of a positive resource, a "negative commons" deals with the deliberate commonization of a negative cost, pollution).
+As a metaphor, the tragedy of the commons should not be taken too literally. The "tragedy" is not in the word's conventional or theatric sense, nor a condemnation of the processes that lead to it. Similarly, Hardin's use of "commons" has frequently been misunderstood, leading him to later remark that he should have titled his work "The Tragedy of the Unregulated Commons".[12][13]
+The metaphor illustrates the argument that free access and unrestricted demand for a finite resource ultimately reduces the resource through over-exploitation, temporarily or permanently. This occurs because the benefits of exploitation accrue to individuals or groups, each of whom is motivated to maximize use of the resource to the point in which they become reliant on it, while the costs of the exploitation are borne by all those to whom the resource is available (which may be a wider class of individuals than those who are exploiting it). This, in turn, causes demand for the resource to increase, which causes the problem to snowball until the resource collapses (even if it retains a capacity to recover). The rate at which depletion of the resource is realized depends primarily on three factors: the number of users wanting to consume the common in question, the consumptiveness of their uses, and the relative robustness of the common.[14]
+The same concept is sometimes called the "tragedy of the fishers", because fishing too many fish before or during breeding could cause stocks to plummet.[15]
+Modern commons[edit]
+The tragedy of the commons can be considered in relation to environmental issues such as sustainability. The commons dilemma stands as a model for a great variety of resource problems in society today, such as water, forests,[16] fish, and non-renewable energy sources such as oil and coal.
+Situations exemplifying the "tragedy of the commons" include the overfishing and destruction of the Grand Banks, the destruction of salmon runs on rivers that have been dammed  most prominently in modern times on the Columbia River in the Northwest United States, and historically in North Atlantic rivers  the devastation of the sturgeon fishery  in modern Russia, but historically in the United States as well  and, in terms of water supply, the limited water available in arid regions (e.g., the area of the Aral Sea) and the Los Angeles water system supply, especially at Mono Lake and Owens Lake.
+In economics, an externality is a cost or benefit that affects a party who did not choose to incur that cost or benefit. Negative externalities are a well-known feature of the "tragedy of the commons". For example, driving cars has many negative externalities; these include pollution, carbon emissions, and traffic accidents. Every time 'Person A' gets in a car, it becomes more likely that 'Person Z'
+and millions of others
+will suffer in each of those areas.[17] Economists often urge the government to adopt policies that "internalize" an externality.[18]
+Examples[edit]
+More general examples (some alluded to by Hardin) of potential and actual tragedies include:
+Clearing rainforest for agriculture in southern Mexico.
+Planet Earth ecology
+Uncontrolled human population growth leading to overpopulation.[2]
+A preference for sons made people abort baby girls. This results in an imbalanced gender ratio.
+Air, whether ambient air polluted by industrial emissions and cars among other sources of air pollution, or indoor air
+Water
+Water pollution, water crisis of over-extraction of groundwater and wasting water due to overirrigation[19]
+Forests
+Frontier logging of old growth forest and slash and burn[20]
+Energy resources and climate
+Environmental residue of mining and drilling, Burning of fossil fuels and consequential global warming
+Animals
+Habitat destruction and poaching leading to the Holocene mass extinction[21]
+Oceans
+Overfishing[22][23]
+Antibiotics Antibiotic Resistance Mis-use of antibiotics anywhere in the world will eventually result in antibiotic resistance developing at an accelerated rate. The resulting antibiotic resistance has spread (and will likely continue to do so in the future) to other bacteria and other regions, hurting or destroying the Antibiotic Commons that is shared on a worldwide basis[24]
+Publicly shared resources
+Spam email degrades the usefulness of the email system and increases the cost for all users of the Internet while providing a benefit to only a tiny number of individuals.
+Vandalism and littering in public spaces such as parks, recreation areas, and public restrooms.
+Knowledge commons encompass immaterial and collectively owned goods in the information age.
+Including, for example, source code and software documentation in software projects that can get "polluted" with messy code or inaccurate information.[25]
+Application to evolutionary biology[edit]
+A parallel was drawn recently between the tragedy of the commons and the competing behaviour of parasites that through acting selfishly eventually diminish or destroy their common host.[26]
+The idea has also been applied to areas such as the evolution of virulence or sexual conflict, where males may fatally harm females when competing for matings.[27] It is also raised as a question in studies of social insects, where scientists wish to understand why insect workers do not undermine the "common good" by laying eggs of their own and causing a breakdown of the society.
+The idea of evolutionary suicide, where adaptation at the level of the individual causes the whole species or population to be driven extinct, can be seen as an extreme form of an evolutionary tragedy of the commons.[28][29]
+From an evolutionary point of view, the creation of the tragedy of the commons in pathogenic microbes may provide us with advanced therapeutic methods.[30]
+Commons dilemma[edit]
+The commons dilemma is a specific class of social dilemma in which people's short-term selfish interests are at odds with long-term group interests and the common good.[31] In academia, a range of related terminology has also been used as shorthand for the theory or aspects of it, including resource dilemma, take-some dilemma, and common pool resource.
+Commons dilemma researchers have studied conditions under which groups and communities are likely to under- or over-harvest common resources in both the laboratory and field. Research programs have concentrated on a number of motivational, strategic, and structural factors that might be conducive to management of commons.
+In game theory, which constructs mathematical models for individuals' behavior in strategic situations, the corresponding "game", developed by Hardin, is known as the Commonize Costs Privatize Profits Game (CCPP game).
+Psychological factors[edit]
+Kopelman, Weber, & Messick (2002), in a review of the experimental research on cooperation in commons dilemmas, identify nine classes of independent variables that influence cooperation in commons dilemmas: social motives, gender, payoff structure, uncertainty, power and status, group size, communication, causes, and frames. They organize these classes and distinguish between psychological individual differences (stable personality traits) and situational factors (the environment). Situational factors include both the task (social and decision structure) and the perception of the task.[32]
+Empirical findings support the theoretical argument that the cultural group is a critical factor that needs to be studied in the context of situational variables.[33] Rather than behaving in line with economic incentives, people are likely to approach the decision to cooperate with an appropriateness framework.[34] An expanded, four factor model of the Logic of Appropriateness,[35][36] suggests that the cooperation is better explained by the question: "What does a person like me (identity) do (rules) in a situation like this (recognition) given this culture (group)?"
+Strategic factors[edit]
+Strategic factors also matter in commons dilemmas. One often-studied strategic factor is the order in which people take harvests from the resource. In simultaneous play, all people harvest at the same time, whereas in sequential play people harvest from the pool according to a predetermined sequence first, second, third, etc. There is a clear order effect in the latter games: the harvests of those who come first the leaders are higher than the harvest of those coming later the followers. The interpretation of this effect is that the first players feel entitled to take more. With sequential play, individuals adopt a first come-first served rule, whereas with simultaneous play people may adopt an equality rule. Another strategic factor is the ability to build up reputations. Research[by whom?] found that people take less from the common pool in public situations than in anonymous private situations. Moreover, those who harvest less gain greater prestige and influence within their group.
+Structural factors[edit]
+Much research has focused on when and why people would like to structurally rearrange the commons to prevent a tragedy. Hardin stated in his analysis of the tragedy of the commons that "Freedom in a commons brings ruin to all."[37] One of the proposed solutions is to appoint a leader to regulate access to the common. Groups are more likely to endorse a leader when a common resource is being depleted and when managing a common resource is perceived as a difficult task. Groups prefer leaders who are elected, democratic, and prototypical of the group, and these leader types are more successful in enforcing cooperation. A general aversion to autocratic leadership exists, although it may be an effective solution, possibly because of the fear of power abuse and corruption.
+The provision of rewards and punishments may also be effective in preserving common resources. Selective punishments for overuse can be effective in promoting domestic water and energy conservation for example, through installing water and electricity meters in houses. Selective rewards work, provided that they are open to everyone. An experimental carpool lane in the Netherlands failed because car commuters did not feel they were able to organize a carpool.[citation needed] The rewards do not have to be tangible. In Canada, utilities considered putting "smiley faces" on electricity bills of customers below the average consumption of that customer`s neighborhood.[38]
+Solutions[edit]
+See also: Externality Possible solutions
+Articulating solutions to the tragedy of the commons is one of the main problems of political philosophy. In many situations, locals implement (often complex) social schemes that work well. The best governmental solution may be to do nothing. When these fail, there are many possible governmental solutions such as privatization, internalizing the externalities, and regulation.
+Non-governmental solution[edit]
+Sometimes the best governmental solution may be to do nothing. Robert Axelrod contends that even self-interested individuals will often find ways to cooperate, because collective restraint serves both the collective and individual interests.[39] Anthropologist G. N. Appell criticized those who cited Hardin to "impos[e] their own economic and environmental rationality on other social systems of which they have incomplete understanding and knowledge."[40]
+Political scientist Elinor Ostrom, who was awarded 2009's Nobel Memorial Prize in Economic Sciences for her work on the issue, and others revisited Hardin's work in 1999.[41] They found the tragedy of the commons not as prevalent or as difficult to solve as Hardin maintained, since locals have often come up with solutions to the commons problem themselves.[42] For example, it was found that a commons in the Swiss Alps has been run by a collective of farmers there to their mutual and individual benefit since 1517, in spite of the farmers also having access to their own farmland. In general, it is in the users of a commons interests to keep the common running and complex social schemes are often invented by the users for maintaining them at optimum efficiency.[4][5]
+Similarly, Geographer Douglas L. Johnson remarks that many nomadic pastoralist societies of Africa and the Middle East in fact "balanced local stocking ratios against seasonal rangeland conditions in ways that were ecologically sound", reflecting a desire for lower risk rather than higher profit; in spite of this, it was often the case that "the nomad was blamed for problems that were not of his own making and were a product of alien forces."[43] Independently finding precedent in the opinions of previous scholars such as Ibn Khaldun as well as common currency in antagonistic cultural attitudes towards non-sedentary peoples,[43] governments and international organizations have made use of Hardin's work to help justify restrictions on land access and the eventual sedentarization of pastoral nomads despite its weak empirical basis. Examining relations between historically nomadic Bedouin Arabs and the Syrian state in the 20th century, Dawn Chatty notes that "Hardin's argument [...] was curiously accepted as the fundamental explanation for the degradation of the steppe land" in development schemes for the arid interior of the country, downplaying the larger role of agricultural overexploitation in desertification as it melded with prevailing nationalist ideology which viewed nomads as socially backward and economically harmful.[44]
+Elinor Ostrom, and her colleagues looked at how real-world communities manage communal resources, such as fisheries, land irrigation systems, and farmlands, and they identified a number of factors conducive to successful resource management. One factor is the resource itself; resources with definable boundaries (e.g., land) can be preserved much more easily. A second factor is resource dependence; there must be a perceptible threat of resource depletion, and it must be difficult to find substitutes. The third is the presence of a community; small and stable populations with a thick social network and social norms promoting conservation do better.[4] A final condition is that there be appropriate community-based rules and procedures in place with built-in incentives for responsible use and punishments for overuse. When the commons is taken over by non-locals, those solutions can no longer be used.[42]
+Governmental solutions[edit]
+Governmental solutions may be necessary when the above conditions are not met (such as a community being too big or too unstable to provide a thick social network). Examples of government regulation include privatization, internalizing the externalities, and regulation.
+Privatization[edit]
+One solution for some resources is to convert common good into private property, giving the new owner an incentive to enforce its sustainability. Libertarians and classical liberals cite the tragedy of the commons as an example of what happens when Lockean property rights to homestead resources are prohibited by a government.[45] They argue that the solution to the tragedy of the commons is to allow individuals to take over the property rights of a resource, that is, to privatize it.[46]
+Regulation[edit]
+In a typical example, governmental regulations can limit the amount of a common good that is available for use by any individual. Permit systems for extractive economic activities including mining, fishing, hunting, livestock raising and timber extraction are examples of this approach. Similarly, limits to pollution are examples of governmental intervention on behalf of the commons. This idea is used by the United Nations Moon Treaty, Outer Space Treaty and Law of the Sea Treaty as well as the UNESCO World Heritage Convention which involves the international law principle that designates some areas or resources the Common Heritage of Mankind.[47]
+In Hardin's essay, he proposed that the solution to the problem of overpopulation must be based on "mutual coercion, mutually agreed upon" and result in "relinquishing the freedom to breed". Hardin discussed this topic further in a 1979 book, Managing the Commons, co-written with John A. Baden.[48] He framed this prescription in terms of needing to restrict the "reproductive right", to safeguard all other rights. Several countries have a variety of population control laws in place.
+German historian Joachim Radkau thought Hardin advocates strict management of common goods via increased government involvement or international regulation bodies.[49] An asserted impending "tragedy of the commons" is frequently warned of as a consequence of the adoption of policies which restrict private property and espouse expansion of public property.[50][51]
+Internalizing the Externalities[edit]
+Privatization works when the person who owns the property (or rights of access to that property) pays the full price of its exploitation. As discussed above negative externalities (negative results, such as air or water pollution, that do not proportionately affect the user of the resource) is often a feature driving the tragedy of the commons. Internalizing the externalities, in other words ensuring that the users of resource pay for all of the consequences of its use, can provide an alternate solution between privatization and regulation. One example is gasoline taxes which include both the cost of road maintenance and of air pollution. This solution can provide the flexibility of privatization while minimizing the amount of government oversight and overhead that is needed.
+Comedy of the Commons[edit]
+In certain cases, exploiting a resource more may be a good thing. Carol M. Rose, in an 1986 article, discussed the concept of the "comedy of the commons", where the public property in question exhibits "increasing returns to scale" in usage ("the more the merrier", hence the term), in that the more people use the resource, the higher the benefit to each one. Rose cites as examples commerce and group recreational activities. According to Rose, public resources with the "comedic" characteristic may suffer from under-investment rather than over usage.[52]
+Criticism[edit]
+The environmentalist Derrick Jensen claims the tragedy of the commons is used as propaganda for private ownership.[53] He says it has been used by the political right wing to hasten the final enclosure of the "common resources" of third world and indigenous people worldwide, as a part of the Washington Consensus. He argues that in true situations, those who abuse the commons would have been warned to desist and if they failed would have punitive sanctions against them. He says that rather than being called "The Tragedy of the Commons", it should be called "the Tragedy of the Failure of the Commons".
+Hardin's work was also criticised[54] as historically inaccurate in failing to account for the demographic transition, and for failing to distinguish between common property and open access resources.[55] In a similar vein, Carl Dahlman argues that commons were effectively managed to prevent overgrazing.[56] Likewise, Susan Jane Buck Cox argues that the common land example used to argue this economic concept is on very weak historical ground, and misrepresents what she terms was actually the "triumph of the commons": the successful common usage of land for many centuries. She argues that social changes and agricultural innovation, and not the behaviour of the commoners, led to the demise of the commons.[57]
+Some authors, like Yochai Benkler, say that with the rise of the Internet and digitalisation, an economics system based on commons becomes possible again. He wrote in his book The Wealth of Networks in 2006 that cheap computing power plus networks enable people to produce valuable products through non-commercial processes of interaction: "as human beings and as social beings, rather than as market actors through the price system". He uses the term 'networked information economy' to describe a "system of production, distribution, and consumption of information goods characterized by decentralized individual action carried out through widely distributed, nonmarket means that do not depend on market strategies."[58] He also coined the term 'commons-based peer production' to describe collaborative efforts based on sharing information.[59] Examples of commons-based peer production are free and open source software and open-source hardware.
+See also[edit]
+Credentialism and educational inflation
+International Association for the Study of the Commons
+Nash equilibrium
+Social trap
+Somebody else's problem
+Tragedy of the anticommons
+Tyranny of small decisions
+Unscrupulous diner's dilemma
+References[edit]
+Notes[edit]
+^ Lloyd, William Forster (1833). Two lectures on the checks to population. England: Oxford University. Retrieved 2016-03-13.
+^ a b c Hardin, G (1968). "The Tragedy of the Commons". Science. 162 (3859): 12431248. doi:10.1126/science.162.3859.1243. PMID5699198.
+^ Daly, Herman E.; Farley, Joshua (2011). Ecological Economics. Principles and Applications. (PDF contains full textbook) (2nd ed.). Washington: Island Press. ISBN9781597266819.
+^ a b c Elinor Ostrom: Beyond the tragedy of commons. Stockholm whiteboard seminars. (Video, 8:26 min.)
+^ a b Governing The Commons
+^ Lloyd, William Forster (1833). Two Lectures on Population. JSTOR1972412.
+^ Abstract: "The population problem has no technical solution; it requires a fundamental extension in morality".
+^ a b c Hardin, G. (1968-12-13). "The Tragedy of the Commons" (PDF). Science. AAAS. 162 (3859): 12431248. doi:10.1126/science.162.3859.1243. PMID5699198. Retrieved 22 October 2013. it is the role of education to reveal to all the necessity of abandoning the freedom to breed. Only so, can we put an end to this aspect of the tragedy of the commons.
+^ "The Universal Declaration of Human Rights". 10 December 1948. Retrieved 4 September 2011.
+^ United Nations. Dept. of Economic and Social Affairs. Population Division (2004). Levels and trends of contraceptive use as assessed in 2002. United Nations Publications. p.126. ISBN92-1-151399-5. some have argued that it may be inferred from the rights to privacy, conscience, health and well-being set forth in various United Nation's conventions [...] Parents have a basic human right to determine freely and responsibly the number and spacing of their children (United Nations, 1968)
+^ Traditions and Trends in the Study of the Commons Frank van Laerhoven & Elinor Ostrom International Journal of the Commons Vol 1, no 1 October 2007, pp. 3-28
+^ "Will commons sense dawn again in time? | The Japan Times Online". Search.japantimes.co.jp. 2006-07-26. Retrieved 22 October 2013.
+^ Hardin, Garrett (May 1, 1998). "Extensions of "The Tragedy of the Commons"". Science. 280 (5364): 682683. doi:10.1126/science.280.5364.682.
+^ "Brigham Daniels, Emerging Commons Tragic Institutions". Environmental Law. 37: 515571 at 536. 2007. Retrieved 22 October 2013.
+^ Samuel Bowles: Microeconomics: Behavior, Institutions, and Evolution, Princeton University Press, pp. 2729 (2004) ISBN 0-691-09163-3
+^ Kelly Andersson "Tragedy of the Common Forest" Oregon Daily Emerald
+^ Stephen J. Dunber and Steven D. Levitt "Not-So-Free-Ride" The New York Times
+^ Jaeger, William. Environmental Economics for Tree Huggers and Other Skeptics, p. 80 (Island Press 2012): "Economists often say that externalities need to be 'internalized,' meaning that some action needs to be taken to correct this kind of market failure."
+^ I.A. Shiklomanov, Appraisal and Assessment of World Water Resources, Water International 25(1): 11-32 (2000)
+^ * Wilson, E.O., 2002, The Future of Life, Vintage ISBN 0-679-76811-4
+^ Leakey, Richard and Roger Lewin, 1996, The Sixth Extinction: Patterns of Life and the Future of Humankind, Anchor, ISBN 0-385-46809-1
+^ C.Michael Hogan. 2010. Overfishing. Encyclopedia of Earth. National Council for Science and the Environment. eds. Sidney Draggan and C.Cleveland. Washington DC.
+^ ch 1112. Mark Kurlansky, 1997. Cod: A Biography of the Fish That Changed the World, New York: Walker, ISBN 0-8027-1326-2.
+^ Glenn Black, Small Flock Poultry Farmers of Canada, 2016
+^ Prause, Christian (September 5, 2011). "Reputation-based self-management of software process artifact quality in consortium research projects". ACM. Retrieved 22 October 2013.
+^ The tragedy of the commons, the public goods dilemma, and the meaning of rivalry and excludability in evolutionary biology Francisco Dionisio and Isabel Gordo Evolutionary Ecology Research 2006
+^ Sex, death and tragedy Daniel J. Rankin and Hanna Kokko Laboratory of Ecological and Evolutionary Dynamics May 2006
+^ Can adaptation lead to extinction? Rankin, D.J. & Lpez-Sepulcre, A. (2005) Oikos 111: 616619
+^ The tragedy of the commons in evolutionary biology Rankin, D.J., Bargum, K. & Kokko, H. (2007) Trends in Ecology and Evolution 22: 64365
+^ [1] Ibrahim, Ahmed (2015): The tragedy of the commons and prisoner's dilemma may improve our realization of the theory of life and provide us with advanced therapeutic ways. figshare.
+^ Druzin, Bryan. "A Plan to strengthen the Paris Agreement". Fordham Law Review. 84: 1920.
+^ Kopelman, Weber, & Messick, 2002.
+^ Gelfand & Dyer, 2000
+^ Weber et al., 2004.
+^ Kopelman, 2009.
+^ Myers & Kopelman, 2012.
+^ Hardin, 1244
+^ "A Smiley Face Emoticon For Your Electric Bill | Unambiguously Ambidextrous". Unambig.com. Archived from the original on 2011-08-31. Retrieved 22 October 2013.
+^ Axelrod, Robert (1984). The Evolution of Cooperation. New York: Basic Books. ISBN0-465-02121-2.
+^ Appell, G. N. (1993). Hardin's Myth of the Commons: The Tragedy of Conceptual Confusions. Working Paper 8. Phillips, ME: Social Transformation and Adaptation Research Institute.
+^ Ostrom, Elinor; Burger, Joanna; Field, Christopher B.; Norgaard, Richard B.; Policansky, David (1999). "Revisiting the Commons: Local Lessons, Global Challenges". Science. 284: 278282. doi:10.1126/science.284.5412.278. PMID10195886.
+^ a b "Ostrom 'revisits the commons' in 'Science'". Archived from the original on 2012-03-05.
+^ a b Johnson, Douglas L. (1993). "Nomadism and Desertification in Africa and the Middle East" (PDF). GeoJournal. 31 (1): 5166. doi:10.1007/bf00815903.[dead link]
+^ Chatty, Dawn (2010). "The Bedouin in Contemporary Syria: The Persistence of Tribal Authority and Control". Middle East Journal. 64 (1): 2969. doi:10.3751/64.1.12.
+^ Smith, Robert J. (Fall 1981), Resolving the Tragedy of the Commons by Creating Private Property Rights in Wildlife (PDF), Cato Journal, 1 (2), Cato Institute, pp.439468
+^ John Locke, "Sect. 27" and following sections in Second Treatise of Government (1690). Also available here.
+^ Jennifer Frakes, The Common Heritage of Mankind Principle and the Deep Seabed, Outer Space, and Antarctica: Will Developed and Developing Nations Reach a Compromise? Wisconsin International Law Journal. 2003; 21:409
+^ "Managing the Commons by Garrett Hardin and John Baden". Ecobooks.com. Retrieved 22 October 2013.
+^ Radkau, Joachim. Nature and Power. A Global History of the Environment. Cambridge University Press. 2008.
+^ Mirovitskaya, N.; Soroos, M. S. (January 1995). "Socialism and the Tragedy of the Commons: Reflections on Environmental Practice in the Soviet Union and Russia". The Journal of Environment Development. 4 (1): 77110. doi:10.1177/107049659500400105.
+^ Perry, Mark (June 1995). "Why Socialism Failed". The Freeman. 45 (6).
+^ Rose, Carol M. (1986). "The Comedy of the Commons: Commerce, Custom, and Inherently Public Property". Faculty Scholarship Series, Yale Law School. Paper 1828.
+^ Jensen, Derrick (2007), "Endame Vol 1: The Problem of Civilisation" and "Endame Vol II: Resistance" (Seven Stories Press)
+^ Dasgupta, Partha. "Human Well-Being and the Natural Environment". Retrieved 2016-03-13.
+^ Ciriacy-Wantrup S.V., Bishop R.C., 1975. "Common Property" as a Concept in Natural Resources Policy. Nat. Res. J. 15, 713727
+^ "SpringerLink  Journal Article".
+^ Susan Jane Buck Cox - "No tragedy on the Commons" Journal of Environmental Ethics, Vol 7, Spring 1985 [2]
+^ Benkler, Yochai (2006). The Wealth of Networks: How Social Production Transforms Markets and Freedom. New Haven, Conn: Yale University Press. p.3. ISBN0-300-11056-1.
+^ Steven Johnson (September 21, 2012). "The Internet? We Built That". New York Times. Retrieved 2012-09-24. The Harvard legal scholar Yochai Benkler has called this phenomenon 'commons-based peer production'.
+Bibliography[edit]
+Angus, I. (2008). "The myth of the tragedy of the commons", Socialist Voice (August 24).
+Chatty, Dawn (2010). "The Bedouin in Contemporary Syria: The Persistence of Tribal Authority and Control". Middle East Journal. 64 (1): 2969. doi:10.3751/64.1.12.
+Susan Jane Buck Cox - "No tragedy on the Commons" a discussion paper on the historical accuracy of the basis for the Herdin essay. Journal of Environmental Ethics, Vol 7, Spring 1985 [3]
+Gonner, E. C. K (1912). Common Land and Inclosure. London: Macmillan & Co. [4]
+Foddy, M., Smithson, M., Schneider, S., and Hogg, M. (1999). Resolving social dilemmas. Philadelphia, PA: Psychology Press.
+Messick, D. M.; Wilke, H. A. M.; Brewer, M. B.; Kramer, R. M.; Zemke, P. E.; Lui, L. (1983). "Individual adaptations and structural change as solutions to social dilemmas". Journal of Personality and Social Psychology. 44 (294): 309. doi:10.1037/0022-3514.44.2.294.
+Johnson, Douglas L. (1993). "Nomadism and Desertification in Africa and the Middle East" (PDF). GeoJournal. 31 (1): 5166. doi:10.1007/bf00815903.[dead link]
+Kopelman, S., Weber, M, and Messick, D. (2002). "Factors Influencing Cooperation in Commons Dilemmas: A Review of Experimental Psychological Research". In E. Ostrom et al., (Eds.) The Drama of the Commons. Washington DC: National Academy Press. Ch. 4., 113156.
+Kopelman, S (2009). "The effect of culture and power on cooperation in commons dilemmas: Implications for global resource management". Organization Behavior and Human Decision Processes. 108 (1): 153163. doi:10.1016/j.obhdp.2008.06.004.
+Locher, Fabien (2013). "Cold War Pastures: Garrett Hardin andthe'Tragedy of the Commons'" (PDF). Revue d'Histoire Moderne et Contemporaine. 60 (1): 736.
+Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge: Cambridge University Press.
+Bryan Jones, B. J., and Howard Rachlin, H. R. (2006). "Social discounting". Psychological Science 17(4), 283286. Retrieved from http://evolution.binghamton.edu/evos/wp-content/uploads/2009/08/Rachlin1.pdf.
+Rachlin, H (1974). "Self-control". Behaviorism. 2: 94107.
+Rachlin, H.; Green, L. (1972). "Commitment, choice, and self-control". Journal of the Experimental Analysis of Behavior. 17: 1522. doi:10.1901/jeab.1972.17-15.
+Van Vugt, M. (2001). "Community identification moderating the impact of financial incentives in a natural social dilemma". Personality and Social Psychology Bulletin. 27 (11): 14401449. doi:10.1177/01461672012711005.
+Van Vugt, M. (2009). "Triumph of the commons: Helping the world to share". New Scientist (2722): 4043.
+Van Vugt, M.; Van Lange, P. A. M.; Meertens, R. M.; Joireman, J. A. (1996). "Why structural solutions to social dilemmas might fail: A field experiment on the first carpool priority lane in Europe". Social Psychology Quarterly. 59 (4): 364374. doi:10.2307/2787077.
+Weber, M.; Kopelman, S.; Messick, D. (2004). "A conceptual review of decision making in social dilemmas: applying the logic of appropriateness". Personality and Social Psychology Review. 8 (3): 281307. doi:10.1207/s15327957pspr0803_4.
+Hardin, G. (1994). "The Tragedy of the Unmanaged Commons". Trends in Ecology & Evolution. 9 (5): 199. doi:10.1016/0169-5347(94)90097-3.
+Hardin, Garrett (2008). "Tragedy of the Commons". In David R. Henderson. Concise Encyclopedia of Economics (2nd ed.). Indianapolis: Library of Economics and Liberty. ISBN978-0865976658. OCLC237794267. Retrieved 2016-03-13.
+Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life by Avinash Dixit and Barry Nalebuff
+Kopelman, S., Weber, M, & Messick, D. (2002). Factors Influencing Cooperation in Commons Dilemmas: A Review of Experimental Psychological Research. In E. Ostrom et al., (Eds.) The Drama of the Commons. Washington DC: National Academy Press. Ch. 4., 113156
+External links[edit]
+Look up tragedy of the commons in Wiktionary, the free dictionary.
+Original article by Garrett Hardin from Science (journal)
+The Digital Library of the Commons
+The Myth of the Tragedy of the Commons by Ian Angus
+Global Tragedy of the Commons by John Hickman and Sarah Bartlett
+Tragedy of the Commons Explained with Smurfs by Ryan Somma
+Public vs. Private Goods & Tragedy of the Commons
+v
+t
+e
+Topics in game theory
+Definitions
+Normal-form game
+Extensive-form game
+Escalation of commitment
+Graphical game
+Cooperative game
+Succinct game
+Information set
+Hierarchy of beliefs
+Preference
+Equilibrium concepts
+Nash equilibrium
+Subgame perfection
+Mertens-stable equilibrium
+Bayesian Nash equilibrium
+Perfect Bayesian equilibrium
+Trembling hand
+Proper equilibrium
+Epsilon-equilibrium
+Correlated equilibrium
+Sequential equilibrium
+Quasi-perfect equilibrium
+Evolutionarily stable strategy
+Risk dominance
+Core
+Shapley value
+Pareto efficiency
+Gibbs equilibrium
+Quantal response equilibrium
+Self-confirming equilibrium
+Strong Nash equilibrium
+Markov perfect equilibrium
+Strategies
+Dominant strategies
+Pure strategy
+Mixed strategy
+Tit for tat
+Grim trigger
+Collusion
+Backward induction
+Forward induction
+Markov strategy
+Classes of games
+Symmetric game
+Perfect information
+Simultaneous game
+Sequential game
+Repeated game
+Signaling game
+Screening game
+Cheap talk
+Zero-sum game
+Mechanism design
+Bargaining problem
+Stochastic game
+n-player game
+Large Poisson game
+Nontransitive game
+Global games
+Strictly determined game
+Potential game
+Games
+Prisoner's dilemma
+Traveler's dilemma
+Coordination game
+Chicken
+Centipede game
+Volunteer's dilemma
+Dollar auction
+Battle of the sexes
+Stag hunt
+Matching pennies
+Ultimatum game
+Rock-paper-scissors
+Pirate game
+Dictator game
+Public goods game
+Blotto games
+War of attrition
+El Farol Bar problem
+Fair division
+Fair cake-cutting
+Cournot game
+Deadlock
+Diner's dilemma
+Guess 2/3 of the average
+Kuhn poker
+Nash bargaining game
+Prisoners and hats puzzle
+Trust game
+Princess and monster game
+Monty Hall problem
+Rendezvous problem
+Theorems
+Minimax theorem
+Nash's theorem
+Purification theorem
+Folk theorem
+Revelation principle
+Arrow's impossibility theorem
+Key figures
+Albert W. Tucker
+Amos Tversky
+Ariel Rubinstein
+Daniel Kahneman
+David K. Levine
+David M. Kreps
+Donald B. Gillies
+Drew Fudenberg
+Eric Maskin
+Harold W. Kuhn
+Herbert Simon
+Herv Moulin
+Jean Tirole
+Jean-Franois Mertens
+John Harsanyi
+John Maynard Smith
+John Nash
+John von Neumann
+Kenneth Arrow
+Kenneth Binmore
+Leonid Hurwicz
+Lloyd Shapley
+Melvin Dresher
+Merrill M. Flood
+Oskar Morgenstern
+Paul Milgrom
+Peyton Young
+Reinhard Selten
+Robert Aumann
+Robert B. Wilson
+Roger Myerson
+Samuel Bowles
+Thomas Schelling
+William Vickrey
+See also
+All-pay auction
+Alphabeta pruning
+Bertrand paradox
+Bounded rationality
+Combinatorial game theory
+Confrontation analysis
+Coopetition
+List of game theorists
+List of games in game theory
+No-win situation
+Topological game
+Tragedy of the commons
+Tyranny of small decisions
+v
+t
+e
+Property
+By owner
+Common
+Common land
+Communal land
+Community
+Cooperative
+Private
+Public
+State
+Crown property
+Crown land
+By nature
+Croft
+Intangible
+Intellectual
+indigenous
+Personal
+Tangible
+immovable
+real
+Common resources
+Common-pool resource
+Digital
+Global
+Information
+Knowledge
+Theory
+Bundle of rights
+Commodity
+fictitious commodities
+Common good (economics)
+Excludability
+First possession
+appropriation
+homestead principle
+Free rider problem
+Game theory
+Georgism
+Gift economy
+Labor theory of property
+Law of rent
+rent-seeking
+Legal plunder
+Natural rights
+Ownership
+common
+customary
+self
+state
+Property rights
+primogeniture
+usufruct
+women's
+Right to property
+Rivalry
+Tragedy of the commons
+anticommons
+Applications
+Acequia (watercourse)
+Ejido (agrarian land)
+Forest types
+Inheritance
+Land tenure
+Property law
+alienation
+easement
+restraint on alienation
+real estate
+title
+Rights
+Air
+Fishing
+Forest-dwelling (India)
+Freedom to roam
+Grazing
+pannage
+Hunting
+Land
+aboriginal
+indigenous
+squatting
+Littoral
+Mineral
+Bergregal
+Right of way
+Water
+prior-appropriation
+riparian
+Disposession/
+redistribution
+Bioprospecting
+Collectivization
+Eminent domain
+Enclosure
+Eviction
+Expropriation
+Farhud
+Forced migration
+population transfer
+Illegal fishing
+Illegal logging
+Land reform
+Legal plunder
+Piracy
+Poaching
+Primitive accumulation
+Privatization
+Regulatory taking
+Slavery
+bride-buying
+human trafficking
+wage
+wife selling
+Tax
+inheritance
+poll
+progressive
+property
+Theft
+Scholars
+(key work)
+Frdric Bastiat
+Ronald Coase
+Henry George
+Garrett Hardin
+David Harvey
+John Locke
+Two Treatises of Government
+Karl Marx
+Marcel Mauss
+The Gift
+John Stuart Mill
+Elinor Ostrom
+Karl Polanyi
+The Great Transformation
+Pierre-Joseph Proudhon
+What Is Property?
+David Ricardo
+Murray N. Rothbard
+The Ethics of Liberty
+Jean-Jacques Rousseau
+The Social Contract
+Adam Smith
+The Wealth of Nations
+Categories: Property
+Property law
+by country
+v
+t
+e
+Sustainability
+Principles
+Ecological modernization
+Environmentalism
+Human impact on the environment
+Planetary boundaries
+Social sustainability
+Stewardship
+Sustainable development
+Consumption
+Anthropization
+Anti-consumerism
+Ecological footprint
+Ethical
+Over-consumption
+Simple living
+Sustainability advertising
+Sustainability brand
+Sustainability marketing myopia
+Sustainable
+Systemic change resistance
+Tragedy of the commons
+Population
+Birth control
+Family planning
+Control
+Overpopulation
+Zero growth
+Technology
+Appropriate
+Environmental
+Sustainable
+Biodiversity
+Biosecurity
+Biosphere
+Conservation biology
+Deep ecology
+Endangered species
+Holocene extinction
+Invasive species
+Energy
+Carbon footprint
+Climate change mitigation
+Conservation
+Descent
+Efficiency
+Emissions trading
+Fossil-fuel phase-out
+Peak oil
+Renewable
+Energy poverty
+Food
+Forest gardening
+Local
+Permaculture
+Security
+Sustainable agriculture
+Sustainable fishery
+Urban horticulture
+Water
+Conservation
+Crisis
+Efficiency
+Footprint
+Accountability
+Sustainability accounting
+Sustainability measurement
+Sustainability metrics and indices
+Sustainability reporting
+Standards and certification
+Sustainable yield
+Applications
+Advertising
+Architecture
+Art
+Business
+City
+College programs
+Community
+Design
+Ecovillage
+Education for Sustainable Development
+Fashion
+Gardening
+Geopark
+Green marketing
+Industries
+Landscape architecture
+Living
+Low-impact development
+Sustainable market
+Organizations
+Packaging
+Practices
+Procurement
+Tourism
+Transport
+Urban drainage systems
+Urban infrastructure
+Urbanism
+Management
+Environmental
+Fisheries
+Forest
+Materials
+Natural resource
+Planetary
+Waste
+Agreements
+UN Conference on the Human Environment (Stockholm 1972)
+Brundtlandt Commission Report (1983)
+Our Common Future (1987)
+Earth Summit (1992)
+Rio Declaration on Environment and Development
+Agenda 21 (1992)
+Convention on Biological Diversity (1992)
+ICPD Programme of Action (1994)
+Earth Charter
+Lisbon Principles
+UN Millennium Declaration (2000)
+Earth Summit 2002 (Rio+10, Johannesburg)
+United Nations Conference on Sustainable Development (Rio+20, 2012)
+Sustainable Development Goals
+Category
+Lists
+Outline
+Portal
+Science
+Studies
+Degrees
+v
+t
+e
+Unintended consequences
+Abilene paradox
+Adverse effect
+Butterfly effect
+Campbell's law
+Cobra effect
+Counterintuitive
+CSI effect
+Externality
+Failure mode and effects analysis
+Hawthorne effect
+Hutber's law
+Inverse consequences
+Jevons paradox
+Murphy's law
+Nocebo
+Osborne effect
+Parable of the broken window
+Perverse incentive
+Risk compensation
+Self-defeating prophecy
+Self-refuting idea
+Serendipity
+Social trap
+Streisand effect
+Tragedy of the commons
+Tyranny of small decisions
+Business and economics portal
+Environment portal
+NewPP limit report
+Parsed by mw1269
+Cached time: 20161119041836
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.528 seconds
+Real time usage: 0.617 seconds
+Preprocessor visited node count: 3413/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 163668/2097152 bytes
+Template argument size: 3049/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.235/10.000 seconds
+Lua memory usage: 4.99 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+476.623
+1 - -total
+38.51%
+183.550
+1 - Template:Reflist
+17.91%
+85.358
+23 - Template:Cite_journal
+12.52%
+59.655
+4 - Template:Fix
+11.92%
+56.804
+7 - Template:Cite_book
+9.14%
+43.549
+1 - Template:By_whom
+7.20%
+34.331
+1 - Template:Infobox_document
+6.87%
+32.743
+7 - Template:Category_handler
+6.70%
+31.957
+1 - Template:Infobox
+6.44%
+30.696
+5 - Template:Navbox
+Saved in parser cache with key enwiki:pcache:idhash:30802-0!*!0!!en!4!* and timestamp 20161119041836 and revision id 749421181
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Tragedy_of_the_commons&oldid=749421181"
+Categories: Tragedy of the commons1968 introductionsEconomic inequalityEnvironmental economicsEnvironmental social science conceptsGame theoryLand useMarket failureMetaphorsPublic commonsHidden categories: All articles with dead external linksArticles with dead external links from March 2016Pages using ISBN magic linksArticles with specifically marked weasel-worded phrases from December 2011All articles with unsourced statementsArticles with unsourced statements from August 2008

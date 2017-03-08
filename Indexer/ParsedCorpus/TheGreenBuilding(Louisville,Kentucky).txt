@@ -1,0 +1,99 @@
+TheGreenBuilding(Louisville,Kentucky)
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2013) (Learn how and when to remove this template message)
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (October 2013) (Learn how and when to remove this template message)
+(Learn how and when to remove this template message)
+The Green Building is a building located in the East Market District (NuLu) of Louisville, Kentucky. It is Louisville's first commercial Platinum LEED certified building, and Kentucky's first Platinum LEED adaptive reuse structure. The building, designed by Los Angeles architecture firm (fer) studio,[1] was awarded Platinum certification in 2010. Design principals,[2] Doug Pierson and Chris Mercier, are both former senior project architects with Frank Gehry's Los Angeles office, Gehry Partners LLP.
+The building is home to a contemporary art space (The Green Building Gallery), multiple event rooms, offices, the headquarters for sonaBLAST! Records and Holland Brown Books,[3] and La Coop, a street-facing caf. It has hosted many influential Kentucky organizations, individuals and events since first opening its doors in the fall of 2008, breathing life back into the city's East Market District (a federally classified distressed area).
+Contents
+1 History
+2 Key features
+3 References
+4 External links
+History[edit]
+In 1774 the area that is now NuLu, and home of The Green Building, was part of a 1,000-acre (4.0km2) Royal land grant to Col. William Preston of Virginia for his service in the French and Indian War. Preston's son, Maj. William Preston inherited the property and moved from Virginia to Louisville in 1815. In 1827, the city of Louisville annexed the property, known at the time as 'Uptown', that now includes NuLu as well as the Phoenix Hill and Butchertown neighborhoods.
+The neighborhood since 1885 has been home to a variety of establishments, including bakeries, magistrates' and constables' offices, saloons, an apothecary, grocers, tailors, a jewelry store, the Great Western Tea & Coffee Co., and others. The building's first commercial use, between 1890 and 1893, was as a dry goods store operating under the name Sternau's Dry Goods. It would remain so for more than half a century. After Sternau's closed, the building housed a mill supply between 1950 and 1955 and a Goodwill between 1956 and 1977. In the 1970s the area saw a stark increase in vacancies, including 732 E. Market which was either used for storage or simply sat idle. The area would remain downtrodden until its recent renaissance.
+Rehabilitation of the 114-year-old building began in 2007, after Gill Holland and Augusta Brown Holland purchased it with the intent of rescuing it from decades of misuse. The project included resuscitating the structural masonry shell and infusing it with a modern core, including a 40-foot (12m)-high lobby, expansive natural lighting, eco-friendly materials, and renewable energy systems.
+Key features[edit]
+This section contains embedded lists that may be better presented using prose. You can help by converting the list or lists to prose, if appropriate. Editing help is available. (October 2013) (Learn how and when to remove this template message)
+The atrium's floor is made of wood salvaged from a barn in Georgia.
+The majority of exposed wood is original to the structure.
+During the rehabilitation process, the wood was removed, corn-blasted (more environmentally friendly than sandblasting), and retrofitted to become flooring or support beams. The exposed brick and mortar walls were also corn-blasted.
+Most of the new wood that was brought into the building is Sustainable Forestry Initiative-certified  collected only from sustainable forests.
+The cinder blocks throughout the building's structure are 'mineshaft' cinder blocks: solid masonry blocks made of slag and fly-ash, byproducts of coal production and steel making.
+The entire building is insulated using recycled denim.
+The building is powered by 81 solar panels: a photovoltaic 15-kilowatt solar power system.
+12 vertical geothermal wells located under the parking lot make up a closed-loop geothermal system.
+Its green roof, planted with native sedum, mitigates water run off, insulates and reduces the 'heat-island' effect.
+The building houses a 1,100 gallon 'ice chest' with 3,000 plastic liquid-filled balls that freeze nightly during the lowest usage time on the energy grid. Throughout the day, cool air from the chest is circulated throughout the building.
+Over the course of a year, The Green Building is 73% self sustainable in terms of energy production.
+References[edit]
+^ http://www.ferstudio.com/
+^ http://ferstudio.com/index.php?id=50
+^ http://www.hollandbrownbooks.com/Holland_Brown_Books.html
+External links[edit]
+Official Site
+Facebook Group
+(fer) studio LLP
+Case Study: The Green Building, Green Source Magazine, September 2010
+Re-Use Architecture, Chris van Uffelen, Braun Publishing 2011, pp.272275
+Louisville Neighborhood Becomes Arts Area, The New York Times, September 2008
+The Green Building in Kentucky Pursues LEED Platinum Certification, Jetson Green Blog, March 2009
+Louisville Renovation Takes the LEED, Lexington Herald-Leader, April 2009
+http://louisvillegreenguide.org/directory/services.html
+[1][dead link]
+http://www.bbc.co.uk/blogs/worldhaveyoursay/
+http://www.bestpracticesconstructionlaw.com/tags/gill-holland/
+Coordinates: 381511N 854419W / 38.253N 85.7385W / 38.253; -85.7385
+NewPP limit report
+Parsed by mw1249
+Cached time: 20161118042932
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.108 seconds
+Real time usage: 0.141 seconds
+Preprocessor visited node count: 502/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 28525/2097152 bytes
+Template argument size: 6509/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 5/500
+Lua time usage: 0.054/10.000 seconds
+Lua memory usage: 2.71 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+121.195
+1 - -total
+57.00%
+69.084
+4 - Template:Ambox
+43.61%
+52.855
+1 - Template:Multiple_issues
+22.91%
+27.764
+2 - Template:Convert
+14.57%
+17.657
+1 - Template:Refimprove
+13.71%
+16.616
+1 - Template:Coord
+9.54%
+11.563
+1 - Template:Dead_link
+7.59%
+9.198
+1 - Template:Fix
+5.69%
+6.900
+2 - Template:Category_handler
+5.03%
+6.094
+1 - Template:Prose
+Saved in parser cache with key enwiki:pcache:idhash:22530311-0!*!0!!en!4!* and timestamp 20161118042931 and revision id 739016524
+Retrieved from "https://en.wikipedia.org/w/index.php?title=The_Green_Building_(Louisville,_Kentucky)&oldid=739016524"
+Categories: 19th-century buildings and structures in Louisville, KentuckyCommercial buildings completed in the 19th centurySustainable buildings in the United StatesHidden categories: Articles needing additional references from September 2013All articles needing additional referencesArticles lacking in-text citations from October 2013All articles lacking in-text citationsArticles needing cleanup from October 2013All pages needing cleanupArticles with sections that need to be turned into prose from October 2013All articles with dead external linksArticles with dead external links from October 2013Coordinates on Wikidata

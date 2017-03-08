@@ -1,0 +1,66 @@
+Oxyhydrogen
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"Knallgas" redirects here. For bacteria which oxidize hydrogen, see Knallgas-bacteria.
+Nineteenth-century electrolytic cell for producing oxyhydrogen.
+Oxyhydrogen is a mixture of hydrogen (H2) and oxygen (O2) gases. This gaseous mixture is used for torches to process refractory materials and was the first[1] gaseous mixture used for welding. Theoretically, a ratio of 2:1 hydrogen:oxygen is enough to achieve maximum efficiency; in practice a ratio 4:1 or 5:1 is needed to avoid an oxidizing flame.[2]
+This mixture may also be referred to as Knallgas (Scandinavian and German Knallgas: "bang-gas"), although some authors define knallgas to be a generic term for the mixture of fuel with the precise amount of oxygen required for complete combustion, thus 2:1 oxyhydrogen would be called "hydrogen-knallgas".[3]
+Brown's gas[4] and HHO are fringe science terms for a 2:1 mixture of oxyhydrogen obtained under certain special conditions; its proponents claim that it has special properties.
+Contents
+1 Properties
+2 Production
+3 Applications
+3.1 Lighting
+3.2 Oxyhydrogen blowpipe
+3.3 Oxyhydrogen torch
+4 Brown's Gas
+5 References
+Properties[edit]
+Oxyhydrogen will combust when brought to its autoignition temperature. For the stoichiometric mixture, 2:1 hydrogen:oxygen, at normal atmospheric pressure, autoignition occurs at about 570C (1065F).[5][dead link] The minimum energy required to ignite such a mixture with a spark is about 20 microjoules.[5][dead link] At standard temperature and pressure, oxyhydrogen can burn when it is between about 4% and 95% hydrogen by volume.[5][dead link]
+When ignited, the gas mixture converts to water vapor and releases energy, which sustains the reaction: 241.8 kJ of energy (LHV) for every mole of H2 burned. The amount of heat energy released is independent of the mode of combustion, but the temperature of the flame varies.[6] The maximum temperature of about 2,800C (5,100F) is achieved with an exact stoichiometric mixture, about 700C (1,300F) hotter than a hydrogen flame in air.[7][8][9] When either of the gases are mixed in excess of this ratio, or when mixed with an inert gas like nitrogen, the heat must spread throughout a greater quantity of matter and the temperature will be lower.[6]
+Production[edit]
+A pure stoichiometric mixture may be obtained by water electrolysis, which uses an electric current to dissociate the water molecules:
+electrolysis: 2 H2O  2 H2 + O2
+combustion: 2 H2 + O2  2 H2O
+William Nicholson was the first to decompose water in this manner in 1800. In theory, the input energy of a closed system will always equal the output energy, as the first law of thermodynamics states. However, in practice no systems are perfectly closed, and the energy required to generate the oxyhydrogen will always exceed the energy released by combusting it, even at maximum practical efficiency, as the second law of thermodynamics implies. (See Electrolysis of water#Efficiency).
+Applications[edit]
+Limelights used an oxyhydrogen flame as a high-temperature heat source
+Lighting[edit]
+Many forms of oxyhydrogen lamps have been described, such as the limelight, which used an oxyhydrogen flame to heat a piece of lime to white hot incandescence.[10] Because of the explosiveness of the oxyhydrogen, limelights have been replaced by electric lighting.
+Oxyhydrogen blowpipe[edit]
+Nineteenth-century bellows-operated oxy-hydrogen blowpipe, including two different types of flashback arrestor
+The oxy-hydrogen blowpipe was developed by English mineralogist Edward Daniel Clarke and American chemist Robert Hare in the early nineteenth century. It produced a flame hot enough to melt such refractory materials as platinum, porcelain, fire brick, and corundum, and was a valuable tool in several fields of science.[11] It is used in the Verneuil process to produce synthetic corundum.[citation needed]
+Oxyhydrogen torch[edit]
+An oxyhydrogen torch is an oxy-gas torch, which burns hydrogen (the fuel) with oxygen (the oxidizer). It is used for cutting and welding,[12] metals, glass, and thermoplastics.[10]
+Due to competition from the acetylene-fueled cutting torch and from arc welding, the oxyhydrogen torch is seldom used today, but it remains the preferred cutting tool in some niche applicationssee oxy-fuel welding and cutting.
+Oxyhydrogen was once used in working platinum because at the time such a torch was the only device that could attain the temperature required to melt the metal 1,768.3C (3,214.9F).[6] These techniques have been superseded by the electric arc furnace.
+Brown's Gas
+[edit]
+"Brown's Gas" is oxyhydrogen with a 2:1 molar ratio of H2 and O2 gases, the same proportion as in water. It is named after Yull Brown, who claimed that it could be used as a fuel for the internal combustion engine.[4][13] It's also called "HHO gas" after the claims of fringe physicist[14] Ruggero Santilli, who claims that his HHO gas, produced by a special apparatus, is "a new form of water", with new properties, based on his fringe theory of "magnecules".[13]
+Many other pseudoscientific claims have been made about Brown's Gas's pretended ability to neutralize radioactive waste, help plants to germinate, etc.[13]
+Oxyhydrogen is often mentioned in conjunction with vehicles that claim to use water as a fuel. The most common and decisive counter-argument against producing this gas on board to use as a fuel or fuel additive is that more energy is needed to split water molecules than is recouped by burning the resulting gas.[4][15] Additionally, the volume of gas that can be produced for on-demand consumption through electrolysis is very small in comparison to the volume consumed by an internal combustion engine.[16]
+An article in Popular Mechanics reported that Brown's Gas does not increase the fuel economy in automobiles.[17]
+"Water-fueled" cars should not be confused with hydrogen-fueled cars, where the hydrogen is produced elsewhere and used as fuel or where it is used as fuel enhancement.
+References[edit]
+^ Howard Monroe Raymond (1916), "Oxy-Hydrogen Welding", Modern Shop Practice volume 1, American Technical Society
+^ Viall, Ethan (1921). Gas Torch and Thermite Welding. McGraw-Hill. p.10.
+^ W. Dittmar, "Exercises in quantitative chemical analysis", 1887, p. 189
+^ a b c Ball, Philip (September 14, 2007). "Burning water and other myths". Nature News. doi:10.1038/news070910-13. Retrieved 2008-12-08. (...) Brown's gas  a modern chemical unicorn to rival phlogiston  in which hydrogen and oxygen are combined in a non-aqueous state called 'oxyhydrogen', in the same proportions in which they are found in water (2:1).
+^ a b c O'Connor, Ken. "Hydrogen" (PDF). NASA Glenn Research Center Glenn Safety Manual.
+^ a b c 1911 Encyclopedia. "Oxyhydrogen Flame." (Dead link Accessed 2008-01-19.)
+^ Calvert, James B. (2008-04-21). "Hydrogen". University of Denver. Retrieved 2009-04-23. An air-hydrogen torch flame reaches 2045C, while an oxyhydrogen flame reaches 2660C.
+^ "Adiabatic Flame Temperature". The Engineering Toolbox. Retrieved 2009-04-23. "Oxygen as Oxidizer: 3473K, Air as Oxidizer: 2483K"
+^ "Temperature of a Blue Flame". Retrieved 2008-04-05. "Hydrogen in air: 2,400K, Hydrogen in Oxygen: 3,080 K"
+^ a b Tilden, William Augustus (1926). Chemical Discovery and Invention in the Twentieth Century. Adamant Media Corporation. p.80. ISBN0-543-91646-4.
+^ Griffin, John Joseph (1827). A Practical Treatise on the Use of the Blowpipe in Chemical and Mineral Analysis. Glasgow: R. Griffin & co.
+^ P. N. Rao (2001), "24.4 Oxyhydrogen welding", Manufacturing technology: foundry, forming and welding (2 ed.), Tata McGraw-Hill Education, pp.373374, ISBN978-0-07-463180-5
+^ a b c Ball, Philip (2006). "Nuclear waste gets star attention". news@nature. doi:10.1038/news060731-13. ISSN1744-7933.
+^ Weimar, Carrie (May 7, 2007). "Snubbed By Mainstream, Scientist Sues". St. Petersburg Times. Retrieved 3 February 2011.
+^ Schadewald, Robert J. (2008). Worlds of Their Own - A Brief History of Misguided Ideas: Creationism, Flat-Earthism, Energy Scams, and the Velikovsky Affair. Xlibris. ISBN978-1-4363-0435-1.
+^ Simpson, Bruce (May 2008). "The proof that HHO is a scam". Aardvark Daily. Retrieved 12 Feb 2012.
+^ Water-Powered Cars: Hydrogen Electrolyzer Mod Can't Up MPGs, Mike Allen, August 7, 2008, Popularmechanics.com
+Authority control
+GND: 7731691-5
+Saved in parser cache with key enwiki:pcache:idhash:3132996-0!*!0!!en!4!* and timestamp 20161112070734 and revision id 743999392
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Oxyhydrogen&oldid=743999392"
+Categories: FireChemical mixturesElectrolysisOxygenHydrogen technologiesHydrogen productionFuelsWater fuelIndustrial gasesHidden categories: Articles containing German-language textAll articles with dead external linksArticles with dead external links from October 2016All articles with unsourced statementsArticles with unsourced statements from June 2012Wikipedia articles with GND identifiers

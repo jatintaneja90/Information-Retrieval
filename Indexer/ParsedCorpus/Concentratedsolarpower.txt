@@ -1,0 +1,1140 @@
+Concentratedsolarpower
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Not to be confused with concentrator photovoltaics.
+2014 December - Crescent Dunes completed site.
+The three towers of the Ivanpah Solar Power Facility.
+Part of the 354MW SEGS solar complex in northern San Bernardino County, California.
+Concentrated solar power (also called concentrating solar power, concentrated solar thermal, and CSP) systems generate solar power by using mirrors or lenses to concentrate a large area of sunlight, or solar thermal energy, onto a small area. Electricity is generated when the concentrated light is converted to heat, which drives a heat engine (usually a steam turbine) connected to an electrical power generator [1][2][3] or powers a thermochemical reaction (experimental as of 2013[update]).[4][5][6]
+CSP is being widely commercialized and the CSP market saw about 740 megawatt (MW) of generating capacity added between 2007 and the end of 2010. More than half of this (about 478MW) was installed during 2010, bringing the global total to 1095MW. Spain added 400MW in 2010, taking the global lead with a total of 632MW, while the US ended the year with 509MW after adding 78MW, including two fossilCSP hybrid plants.[7] The Middle East is also ramping up their plans to install CSP based projects and as a part of that Plan, Shams-I which was the largest CSP Project in the world has been installed in Abu Dhabi, by Masdar.[8] The largest CSP project in the world until January 2016 is Noor in Morocco[9] and global operational power stands at 4,705MW.
+There is considerable academic and commercial interest internationally in a new form of CSP, called STEM, for off-grid applications to produce 24-hour industrial scale power for mining sites and remote communities in Italy, other parts of Europe, Australia, Asia, North Africa and Latin America. STEM uses fluidized silica sand as a thermal storage and heat transfer medium for CSP systems. It has been developed by Salerno-based Magaldi Industries. The first commercial application of STEM was scheduled to take place in Sicily from 2015.[10]
+CSP growth is expected to continue at a fast pace. As of January 2014, Spain had a total capacity of 2,300MW making this country the world leader in CSP. United States follows with 1,740MW. Interest is also notable in North Africa and the Middle East, as well as India and China. In Italy, a handful of companies are trying to get authorization for 14 plants, totalling 392MW, despite a strong local and political opposition.[11] The global market has been dominated by parabolic-trough plants, which account for 90% of CSP plants.[7]
+CSP is not to be confused with concentrator photovoltaics (CPV). In CPV, the concentrated sunlight is converted directly to electricity via the photovoltaic effect.
+Crescent Dunes Solar Energy Project near Tonopah, Nevada is a 110megawatt CSP plant with 1.1 gigawatt-hours of energy storage,[12] allowing it to produce up to 10 hours of full-load power during nighttime, purely from solar energy.[13]
+An earlier CSP plant, Ivanpah in California, initially failed to meet its power output commitments, but significantly improved its performance in its second year of operation and now expects to ramp up to full production as originally planned, according to Joe Desmond, a BrightSource senior vice president.[14] [15] A drawback of Ivanpah is that it lacks thermal energy storage, one of the big advantages that CSP has over PV and most other renewables, which require either large scale energy storage systems like pumped hydro or fast acting natural gas power plants to be there as backup for those times when they are not producing much energy.
+CSP technologies currently cannot compete on price with photovoltaics (solar panels), which have experienced huge growth in recent years due to falling prices of the panels.[16]
+Contents
+1 History
+2 Current technology
+2.1 Parabolic trough
+2.1.1 Enclosed trough
+2.2 Solar power tower
+2.3 Fresnel reflectors
+2.4 Dish Stirling
+3 Solar thermal enhanced oil recovery
+4 Deployment around the world
+5 Efficiency
+6 Costs
+7 Incentives
+7.1 Spain
+7.2 Australia
+8 Future
+9 Very large scale solar power plants
+10 Effect on wildlife
+11 See also
+12 References
+13 External links
+History[edit]
+A legend has it that Archimedes used a "burning glass" to concentrate sunlight on the invading Roman fleet and repel them from Syracuse. In 1973 a Greek scientist, Dr. Ioannis Sakkas, curious about whether Archimedes could really have destroyed the Roman fleet in 212 BC, lined up nearly 60 Greek sailors, each holding an oblong mirror tipped to catch the sun's rays and direct them at a tar-covered plywood silhouette 160 feet away. The ship caught fire after a few minutes; however, historians continue to doubt the Archimedes story.[17]
+In 1866, Auguste Mouchout used a parabolic trough to produc steam for the first solar steam engine. The first patent for a solar collector was obtained by the Italian Alessandro Battaglia in Genoa, Italy, in 1886. Over the following years, invntors such as John Ericsson and Frank Shuman developed concentrating solar-powered dvices for irrigation, refrigration, and locomtion. In 1913 Shuman finished a 55HP parabolic solar thermal energy station in Maadi, Egypt for irrigation.[18][19][20][21] The first solar-power system using a mirror dish was built by Dr. R.H. Goddard, who was already well known for his research on liquid-fueled rockets and wrote an article in 1929 in which he asserted that all the previous obstacles had been addressed.[22]
+Professor Giovanni Francia (19111980) designed and built the first concentrated-solar plant, which entered into operation in Sant'Ilario, near Genoa, Italy in 1968. This plant had the architecture of today's concentrated-solar plants with a solar receiver in the center of a field of solar collectors. The plant was able to produce 1MW with superheated steam at 100 bar and 500C.[23] The 10MW Solar One power tower was developed in Southern California in 1981, but the parabolic-trough technology of the nearby Solar Energy Generating Systems (SEGS), begun in 1984, was more workable. The 354MW SEGS is still the largest solar power plant in the world, and will remain so until the 390MW Ivanpah power tower project reaches full power.
+Current technology[edit]
+CSP is used to produce electricity (sometimes called solar thermoelectricity, usually generated through steam). Concentrated-solar technology systems use mirrors or lenses with tracking systems to focus a large area of sunlight onto a small area. The concentrated light is then used as heat or as a heat source for a conventional power plant (solar thermoelectricity). The solar concentrators used in CSP systems can often also be used to provide industrial process heating or cooling, such as in solar air conditioning.
+Concentrating technologies exist in five common forms, namely parabolic trough, enclosed trough, dish Stirlings, concentrating linear Fresnel reflector, and solar power tower.[24] Although simple, these solar concentrators are quite far from the theoretical maximum concentration.[25][26] For example, the parabolic-trough concentration gives about  of the theoretical maximum for the design acceptance angle, that is, for the same overall tolerances for the system. Approaching the theoretical maximum may be achieved by using more elaborate concentrators based on nonimaging optics.[25][26][27]
+Different types of concentrators produce different peak temperatures and correspondingly varying thermodynamic efficiencies, due to differences in the way that they track the sun and focus light. New innovations in CSP technology are leading systems to become more and more cost-effective.[28]
+Parabolic trough[edit]
+Parabolic trough at a plant near Harper Lake, California
+Main article: Parabolic trough
+A parabolic trough consists of a linear parabolic reflector that concentrates light onto a receiver positioned along the reflector's focal line. The receiver is a tube positioned directly above the middle of the parabolic mirror and filled with a working fluid. The reflector follows the sun during the daylight hours by tracking along a single axis. A working fluid (e.g. molten salt[29]) is heated to 150350C (300660F) as it flows through the receiver and is then used as a heat source for a power generation system.[30] Trough systems are the most developed CSP technology. The Solar Energy Generating Systems (SEGS) plants in California, the world's first commercial parabolic trough plants, Acciona's Nevada Solar One near Boulder City, Nevada, and Andasol, Europe's first commercial parabolic trough plant are representative, along with Plataforma Solar de Almera's SSPS-DCS test facilities in Spain.[31]
+Enclosed trough[edit]
+The design encapsulates the solar thermal system within a greenhouse-like glasshouse. The glasshouse creates a protected environment to withstand the elements that can negatively impact reliability and efficiency of the solar thermal system.[32] Lightweight curved solar-reflecting mirrors are suspended from the ceiling of the glasshouse by wires. A single-axis tracking system positions the mirrors to retrieve the optimal amount of sunlight. The mirrors concentrate the sunlight and focus it on a network of stationary steel pipes, also suspended from the glasshouse structure.[33] Water is carried throughout the length of the pipe, which is boiled to generate steam when intense solar radiation is applied. Sheltering the mirrors from the wind allows them to achieve higher temperature rates and prevents dust from building up on the mirrors.[32]
+Inside an enclosed trough system
+GlassPoint Solar, the company that created the Enclosed Trough design, states its technology can produce heat for Enhanced Oil Recovery (EOR) for about $5 per million British thermal units in sunny regions, compared to between $10 and $12 for other conventional solar thermal technologies.[34]
+Solar power tower[edit]
+Main article: Solar power tower
+The PS10 solar power plant in Andaluca, Spain, concentrates sunlight from a field of heliostats onto a central solar power tower.
+A solar power tower consists of an array of dual-axis tracking reflectors (heliostats) that concentrate sunlight on a central receiver atop a tower; the receiver contains a fluid deposit, which can consist of sea water. The working fluid in the receiver is heated to 5001000C (7731,273K (9321,832F)) and then used as a heat source for a power generation or energy storage system.[30] An advantage of the solar tower is the reflectors can be adjusted instead of the whole tower. Power-tower development is less advanced than trough systems, but they offer higher efficiency and better energy storage capability. The Solar Two in Daggett, California and the CESA-1 in Plataforma Solar de Almeria Almeria, Spain, are the most representative demonstration plants. The Planta Solar 10 (PS10) in Sanlucar la Mayor, Spain, is the first commercial utility-scale solar power tower in the world. The 377MW Ivanpah Solar Power Facility, located in the Mojave Desert, is the largest CSP facility in the world, and uses three power towers.[35] The National Solar Thermal Test Facility, NSTTF located in Albuquerque, New Mexico, is an experimental solar thermal test facility with a heliostat field capable of producing 6MW.
+Fresnel reflectors[edit]
+Main article: Compact Linear Fresnel Reflector
+Fresnel reflectors are made of many thin, flat mirror strips to concentrate sunlight onto tubes through which working fluid is pumped. Flat mirrors allow more reflective surface in the same amount of space as a parabolic reflector, thus capturing more of the available sunlight, and they are much cheaper than parabolic reflectors. Fresnel reflectors can be used in various size CSPs.[36][37]
+Dish Stirling[edit]
+A dish Stirling
+Main article: Dish Stirling
+A dish Stirling or dish engine system consists of a stand-alone parabolic reflector that concentrates light onto a receiver positioned at the reflector's focal point. The reflector tracks the Sun along two axes. The working fluid in the receiver is heated to 250700C (4801,300F) and then used by a Stirling engine to generate power.[30] Parabolic-dish systems provide high solar-to-electric efficiency (between 31% and 32%), and their modular nature provides scalability. The Stirling Energy Systems (SES), United Sun Systems (USS) and Science Applications International Corporation (SAIC) dishes at UNLV, and Australian National University's Big Dish in Canberra, Australia are representative of this technology. A world record for solar to electric efficiency was set at 31.25% by SES dishes at the National Solar Thermal Test Facility (NSTTF) in New Mexico on January 31, 2008, a cold, bright day.[38] According to its developer, Ripasso Energy, a Swedish firm, in 2015 its Dish Sterling system being tested in the Kalahari Desert in South Africa showed 34% efficiency.[39] The SES installation in Maricopa, Phoenix was the largest Stirling Dish power installation in the world until it was sold to United Sun Systems. Subsequently, larger parts of the installation have been moved to China as part of the huge energy demand.
+Solar thermal enhanced oil recovery[edit]
+Main article: Solar thermal enhanced oil recovery
+Heat from the sun can be used to provide steam used to make heavy oil less viscous and easier to pump. Solar power tower and parabolic troughs can be used to provide the steam which is used directly so no generators are required and no electricity is produced. Solar thermal enhanced oil recovery can extend the life of oilfields with very thick oil which would not otherwise be economical to pump.
+Deployment around the world[edit]
+Main articles: List of solar thermal power stations and Solar power by country
+1,000
+2,000
+3,000
+4,000
+5,000
+1984
+1990
+1995
+2000
+2005
+2010
+Worldwide CSP capacity since 1984 in MWp
+National CSP capacities in 2014 (MWp)
+Country
+Total
+Added
+Spain
+2,300
+0
+United States
+1,634
++752
+India
+225
++175
+United Arab Emirates
+100
+0
+Algeria
+25
+0
+Egypt
+20
+0
+Morocco
+20
+0
+Australia
+12
+0
+China
+10
+0
+Thailand
+5
+0
+Source: REN21 Global Status Report, September 2015[40]:133
+The commercial deployment of CSP plants started by 1984 in the US with the SEGS plants. The last SEGS plant was completed in 1990. From 1991 to 2005 no CSP plants were built anywhere in the world. Global installed CSP-capacity has increased nearly tenfold since 2004 and grew at an average of 50 percent per year during the last five years.[41]:51 In 2013, worldwide installed capacity increased by 36 percent or nearly 0.9 gigawatt (GW) to more than 3.4GW. Spain and the United States remained the global leaders, while the number of countries with installed CSP were growing. There is a notable trend towards developing countries and regions with high solar radiation.
+CSP is also increasingly competing with the cheaper photovoltaic solar power and with concentrator photovoltaics (CPV), a fast-growing technology that just like CSP is suited best for regions of high solar insolation.[42][43] In addition, a novel solar CPV/CSP hybrid system has been proposed recently.[44]
+Worldwide Concentrated Solar Power (MWp)
+Year
+1984
+1985
+1989
+1990
+...
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+Installed
+14
+60
+200
+80
+0
+1
+74
+55
+179
+307
+629
+803
+872
+925
+Cumulative
+14
+74
+274
+354
+354
+355
+429
+484
+663
+969
+1,598
+2,553
+3,425
+4,400
+Sources: REN21[40]:133 [41]:51 CSP-world.com[45] IRENA[46]
+Efficiency[edit]
+The conversion efficiency
+ 
+{\displaystyle \eta }
+of the incident solar radiation into mechanical work  without considering the ultimate conversion step into electricity by a power generator  depends on the thermal radiation properties of the solar receiver and on the heat engine (e.g. steam turbine). Solar irradiation is first converted into heat by the solar receiver with the efficiency
+ 
+R
+e
+c
+e
+i
+v
+e
+r
+{\displaystyle \eta _{Receiver}}
+and subsequently the heat is converted into work by the heat engine with the efficiency
+ 
+C
+a
+r
+n
+o
+t
+{\displaystyle \eta _{Carnot}}
+, using Carnot's principle.[47][48] For a solar receiver providing a heat source at temperature TH and a heat sink at room temperature T, the overall conversion efficiency can be calculated as follows:
+ 
+=
+ 
+R
+e
+c
+e
+i
+v
+e
+r
+ 
+ 
+C
+a
+r
+n
+o
+t
+{\displaystyle \eta =\eta _{\mathrm {Receiver} }\cdot \eta _{\mathrm {Carnot} }}
+with
+ 
+C
+a
+r
+n
+o
+t
+=
+1
+ 
+T
+0
+T
+H
+{\displaystyle \eta _{\mathrm {Carnot} }=1-{\frac {T^{0}}{T_{H}}}}
+and
+ 
+R
+e
+c
+e
+i
+v
+e
+r
+=
+Q
+a
+b
+s
+o
+r
+b
+e
+d
+ 
+Q
+l
+o
+s
+t
+Q
+s
+o
+l
+a
+r
+{\displaystyle \eta _{\mathrm {Receiver} }={\frac {Q_{\mathrm {absorbed} }-Q_{\mathrm {lost} }}{Q_{\mathrm {solar} }}}}
+where
+Q
+s
+o
+l
+a
+r
+{\displaystyle Q_{\mathrm {solar} }}
+,
+Q
+a
+b
+s
+o
+r
+b
+e
+d
+{\displaystyle Q_{\mathrm {absorbed} }}
+,
+Q
+l
+o
+s
+t
+{\displaystyle Q_{\mathrm {lost} }}
+are respectively the incoming solar flux and the fluxes absorbed and lost by the system solar receiver.
+For a solar flux I (e.g. I = 1000 W/m2) concentrated C times with an efficiency
+ 
+O
+p
+t
+i
+c
+s
+{\displaystyle \eta _{Optics}}
+on the system solar receiver with a collecting area A and an absorptivity
+ 
+{\displaystyle \alpha }
+:
+Q
+s
+o
+l
+a
+r
+=
+ 
+O
+p
+t
+i
+c
+s
+I
+C
+A
+{\displaystyle Q_{\mathrm {solar} }=\eta _{\mathrm {Optics} }ICA}
+,
+Q
+a
+b
+s
+o
+r
+b
+e
+d
+=
+ 
+Q
+s
+o
+l
+a
+r
+{\displaystyle Q_{\mathrm {absorbed} }=\alpha Q_{\mathrm {solar} }}
+,
+For simplicity's sake, one can assume that the losses are only radiative ones (a fair assumption for high temperatures), thus for a reradiating area A and an emissivity
+ 
+{\displaystyle \epsilon }
+applying the Stefan-Boltzmann law yields:
+Q
+l
+o
+s
+t
+=
+A
+ 
+ 
+T
+H
+4
+{\displaystyle Q_{\mathrm {lost} }=A\epsilon \sigma T_{H}^{4}}
+Simplifying these equations by considering perfect optics (
+ 
+O
+p
+t
+i
+c
+s
+{\displaystyle \eta _{\mathrm {Optics} }}
+= 1), collecting and reradiating areas equal and maximum absorptivity and emissivity (
+ 
+{\displaystyle \alpha }
+= 1,
+ 
+{\displaystyle \epsilon }
+= 1) then substituting in the first equation gives
+ 
+=
+(
+1
+ 
+ 
+T
+H
+4
+I
+C
+)
+ 
+(
+1
+ 
+T
+0
+T
+H
+)
+{\displaystyle \eta =\left(1-{\frac {\sigma T_{H}^{4}}{IC}}\right)\cdot \left(1-{\frac {T^{0}}{T_{H}}}\right)}
+The graph shows that the overall efficiency does not increase steadily with the receiver's temperature. Although the heat engine's efficiency (Carnot) increases with higher temperature, the receiver's efficiency does not. On the contrary, the receiver's efficiency is decreasing, as the amount of energy it cannot absorb (Qlost) grows by the fourth power as a function of temperature. Hence, there is a maximum reachable temperature. When the receiver efficiency is null (blue curve on the figure below), Tmax is:
+T
+m
+a
+x
+=
+(
+I
+C
+ 
+)
+0.25
+{\displaystyle T_{\mathrm {max} }=\left({\frac {IC}{\sigma }}\right)^{0.25}}
+There is a temperature Topt for which the efficiency is maximum, i.e. when the efficiency derivative relative to the receiver temperature is null:
+d
+ 
+d
+T
+H
+(
+T
+o
+p
+t
+)
+=
+0
+{\displaystyle {\frac {d\eta }{dT_{H}}}(T_{\mathrm {opt} })=0}
+Consequently, this leads us to the following equation:
+T
+o
+p
+t
+5
+ 
+(
+0.75
+T
+0
+)
+T
+o
+p
+t
+4
+ 
+T
+0
+I
+C
+4
+ 
+=
+0
+{\displaystyle T_{opt}^{5}-(0.75T^{0})T_{\mathrm {opt} }^{4}-{\frac {T^{0}IC}{4\sigma }}=0}
+Solving this equation numerically allows us to obtain the optimum process temperature according to the solar concentration ratio C (red curve on the figure below)
+C
+500
+1000
+5000
+10000
+45000 (max. for Earth)
+Tmax
+1720
+2050
+3060
+3640
+5300
+Topt
+970
+1100
+1500
+1720
+2310
+Theoretical efficiencies aside, real-world experience of CSP reveals a 25-60 percent shortfall in projected production. A pilot 5 megawatt CSP power tower, Solar One, was converted to a 10 megawatt CSP power tower, Solar Two, decommissioned in 1999. Due to the success of Solar Two, a commercial power plant, called Solar Tres Power Tower, was built in Spain, renamed Gemasolar Thermosolar Plant. Gemasolar's results have paved the way for the Crescent Dunes project. Ivanpah difficulties arise also from not having considered the lessons about the benefits of thermal storage. Solana in Arizona is at 25 percent below projected numbers, Ivanpah in California, is at 40 percent below projected numbers. A slightly bigger photovoltaic power station, like the 290MW Agua Caliente Solar Project peaked at most to 741GWh in 2014, comparing with the 280MW Solana growing 719GWh. Lower insolation related to a solar minimum is part of the problem, but there is clearly a technical issue with rating these systems or simply a commercial overstatement. Indeed, another operator, that of the 280MW Genesis Solar, projected only 580GWh production and instead made 621GWh in 2015.
+CSP was once thought to be economically superior to photovoltaics, up to 2015 it has proven not to be the case. Recent PV commercial power is selling for  recent CSP contracts.[49][50]
+Costs[edit]
+As of 9 September 2009[update], the cost of building a CSP station was typically about US$2.50 to $4 per watt,[51] while the fuel (the sun's radiation) is free. Thus a 250MW CSP station would have cost $6001000 million to build. That works out to $0.12 to 0.18 USD/kWh.[51] New CSP stations may be economically competitive with fossil fuels. Nathaniel Bullard, a solar analyst at Bloomberg New Energy Finance, has calculated that the cost of electricity at the Ivanpah Solar Power Facility, a project under construction in Southern California, will be lower than that from photovoltaic power and about the same as that from natural gas.[52] However, in November 2011, Google announced that they would not invest further in CSP projects due to the rapid price decline of photovoltaics. Google invested US$168 million on BrightSource.[53][54] IRENA has published on June 2012 a series of studies titled: "Renewable Energy Cost Analysis". The CSP study shows the cost of both building and operation of CSP plants. Costs are expected to decrease, but there are insufficient installations to clearly establish the learning curve. As of March 2012, there were 1.9GW of CSP installed, with 1.8GW of that being parabolic trough.[55]
+Incentives[edit]
+Spain[edit]
+Solar-thermal electricity generation is eligible for feed-in tariff payments (art. 2 RD 661/2007), if the system capacity does not exceed the following limits: Systems registered in the register of systems prior to 29 September 2008: 500MW for solar-thermal systems. Systems registered after 29 September 2008 (PV only). The capacity limits for the different system types are re-defined during the review of the application conditions every quarter (art. 5 RD 1578/2008, Annex III RD 1578/2008). Prior to the end of an application period, the market caps specified for each system type are published on the website of the Ministry of Industry, Tourism and Trade (art. 5 RD 1578/2008).[56]
+Since 27 January 2012, Spain has halted acceptance of new projects for the feed-in-tariff.[57][58] Projects currently accepted are not affected, except that a 6% tax on feed-in-tariffs has been adopted, effectively reducing the feed-in-tariff.[59]
+Australia[edit]
+See also: Energy policy of Australia
+At the federal level, under the Large-scale Renewable Energy Target (LRET), in operation under the Renewable Energy Electricity Act 2000, large scale solar thermal electricity generation from accredited RET power stations may be entitled to create large-scale generation certificates (LGCs). These certificates can then be sold and transferred to liable entities (usually electricity retailers) to meet their obligations under this tradeable certificates scheme. However, as this legislation is technology neutral in its operation, it tends to favour more established RE technologies with a lower levelised cost of generation, such as large scale onshore wind, rather than solar thermal and CSP.[60] At State level, renewable energy feed-in laws typically are capped by maximum generation capacity in kWp, and are open only to micro or medium scale generation and in a number of instances are only open to solar PV (photovoltaic) generation. This means that larger scale CSP projects would not be eligible for payment for feed-in incentives in many of the State and Territory jurisdictions.
+Future[edit]
+A study done by Greenpeace International, the European Solar Thermal Electricity Association, and the International Energy Agency's SolarPACES group investigated the potential and future of concentrated solar power. The study found that concentrated solar power could account for up to 25% of the world's energy needs by 2050. The increase in investment would be from 2 billion euros worldwide to 92.5 billion euros in that time period.[61] Spain is the leader in concentrated solar power technology, with more than 50 government-approved projects in the works. Also, it exports its technology, further increasing the technology's stake in energy worldwide. Because the technology works best with areas of high insolation (solar radiation), experts predict the biggest growth in places like Africa, Mexico, and the southwest United States. It indicates that the thermal storage systems based in nitrates (calcium, potassium, sodium,...) will make the CSP plants more and more profitable. The study examined three different outcomes for this technology: no increases in CSP technology, investment continuing as it has been in Spain and the US, and finally the true potential of CSP without any barriers on its growth. The findings of the third part are shown in the table below:
+Year
+Annual
+Investment
+Cumulative
+Capacity
+2015
+21 billion euros
+420 megawatts
+2050
+174 billion euros
+1,500,000 megawatts
+Finally, the study acknowledged how technology for CSP was improving and how this would result in a drastic price decrease by 2050. It predicted a drop from the current range of 0.230.15/kwh to 0.140.10/kwh.[61] Recently the EU has begun to look into developing a 400 billion ($774 billion) network of solar power plants based in the Sahara region using CSP technology known as Desertec, to create "a new carbon-free network linking Europe, the Middle East and North Africa". The plan is backed mainly by German industrialists and predicts production of 15% of Europe's power by 2050. Morocco is a major partner in Desertec and as it has barely 1% of the electricity consumption of the EU, it will produce more than enough energy for the entire country with a large energy surplus to deliver to Europe.[62]
+Algeria has the biggest area of desert, and private Algerian firm Cevital has signed up for Desertec.[62] With its wide desert (the highest CSP potential in the Mediterranean and Middle East regions ~ about 170 TWh/year) and its strategic geographical location near Europe Algeria is one of the key countries to ensure the success of Desertec project. Moreover, with the abundant natural-gas reserve in the Algerian desert, this will strengthen the technical potential of Algeria in acquiring Solar-Gas Hybrid Power Plants for 24-hour electricity generation.
+Other organizations expect CSP to cost $0.06(US)/kWh by 2015 due to efficiency improvements and mass production of equipment.[63] That would make CSP as cheap as conventional power. Investors such as venture capitalist Vinod Khosla expect CSP to continuously reduce costs and actually be cheaper than coal power after 2015.
+On 9September 2009; 7 years ago(2009-09-09), Bill Weihl, Google.org's green-energy spokesperson said that the firm was conducting research on the heliostat mirrors and gas turbine technology, which he expects will drop the cost of solar thermal electric power to less than $0.05/kWh in 2 or 3 years.[51]
+In 2009, scientists at the National Renewable Energy Laboratory (NREL) and SkyFuel teamed to develop large curved sheets of metal that have the potential to be 30% less expensive than today's best collectors of concentrated solar power by replacing glass-based models with a silver polymer sheet that has the same performance as the heavy glass mirrors, but at much lower cost and weight. It also is much easier to deploy and install. The glossy film uses several layers of polymers, with an inner layer of pure silver.
+Telescope designer Roger Angel (Univ. of Arizona) has turned his attention to CPV, and is a partner in a company called Rehnu. Angel utilizes a spherical concentrating lens with large-telescope technologies, but much cheaper materials and mechanisms, to create efficient systems.[64]
+Recent experience with CSP technology in 2014 - 2015 at Solana in Arizona, and Ivanpah in Nevada indicate large production shortfalls in electricity generation between 25 and 40 percent. Producers blame clouds and stormy weather, but critics seem to think there are technological issues. These problems are causing utilities to pay inflated prices for wholesale electricity, and threaten the long-term viability of the technology. As photovoltaic costs continue to plummet, many think CSP has a limited future in utility-scale electricity production.[65] On the other side, part of photovoltaic costs drop is the result of the fossil fuel cost reductions, which still powers most of PV production. Instead CSP would be unaffected when fossil prices return to higher quotes.
+Very large scale solar power plants[edit]
+There are several proposals for gigawatt size, very large scale solar power plants. They include the Euro-Mediterranean Desertec proposal, Project Helios in Greece (10 gigawatt), and Ordos (2 gigawatt) in China. A 2003 study concluded that the world could generate 2,357,840 TWh each year from very large scale solar power plants using 1% of each of the world's deserts. Total consumption worldwide was 15,223 TWh/year[66] (in 2003). The gigawatt size projects are arrays of single plants. The largest single plant in operation is the 370MW Ivanpah Solar. In 2012, the BLM made available 97,921,069 acres (39,627,251 hectares) of land in the southwestern United States for solar projects, enough for between 10,000 and 20,000 gigawatts (GW).[67]
+Effect on wildlife[edit]
+Dead warbler burned in mid-air by solar thermal power plant
+It has been noted that insects can be attracted to the bright light caused by concentrated solar technology, and as a result birds that hunt them can be killed (burned) if the birds fly near the point where light is being focused. This can also affect raptors who hunt the birds.[68][69][70][71] Federal wildlife officials have begun calling these power towers "mega traps" for wildlife.[72][73][74]
+However, the story about the Ivanpah Solar Power Facility was exaggerated, numbering the deaths in many tens of thousands, spreading alarm about concentrated solar power (CSP) plants, which was not grounded in facts, but on one opponent's speculation. According to rigorous reporting, in over six months, actually only 133 singed birds were counted.[75] By focusing no more than four mirrors on any one place in the air during standby, at Crescent Dunes Solar Energy Project, in three months, the death rate dropped to zero.[76]
+See also[edit]
+Renewable energy portal
+Energy portal
+Clean Technology Fund
+Concentrated photovoltaics (CPV)
+Copper in concentrating solar thermal power facilities
+Desertec
+List of solar thermal power stations
+Luminescent solar concentrator
+Photovoltaic thermal hybrid solar collector#PV/T concentrator (CPVT) (CPVT)
+Salt evaporation pond
+Sandia National Laboratory
+Solar air conditioning
+Solar hot water
+Solar lighting
+Solar thermal collector
+SolarPACES
+Thermochemical cycle
+Thermoelectricity
+Total Spectrum Solar Concentrator
+References[edit]
+^ Boerema, Nicholas; Morrison, Graham; Taylor, Robert; Rosengarten, Gary (2013-11-01). "High temperature solar thermal central-receiver billboard design". Solar Energy. 97: 356368. doi:10.1016/j.solener.2013.09.008.
+^ Law, Edward W.; Prasad, Abhnil A.; Kay, Merlinde; Taylor, Robert A. (2014-10-01). "Direct normal irradiance forecasting and its application to concentrated solar thermal output forecasting  A review". Solar Energy. 108: 287307. doi:10.1016/j.solener.2014.07.008.
+^ Law, Edward W.; Kay, Merlinde; Taylor, Robert A. (2016-02-01). "Calculating the financial value of a concentrated solar thermal plant operated using direct normal irradiance forecasts". Solar Energy. 125: 267281. doi:10.1016/j.solener.2015.12.031.
+^ "Sunshine to Petrol" (PDF). Sandia National Laboratories. Retrieved 11 April 2013.
+^ "Integrated Solar Thermochemical Reaction System". U.S. Department of Energy. Retrieved 11 April 2013.
+^ Matthew L. Wald (10 April 2013). "New Solar Process Gets More Out of Natural Gas". The New York Times. Retrieved 11 April 2013.
+^ a b Janet L. Sawin & Eric Martinot (29 September 2011). "Renewables Bounced Back in 2010, Finds REN21 Global Report". Renewable Energy World. Archived from the original on 2 November 2011.
+^ Largest CSP Project in the World Inaugurated in Abu Dhabi  Renew India Campaign  solar photovoltaic, Indian Solar News, Indian Wind News, Indian Wind Market. Renewindians.com (18 March 2013). Retrieved on 22 April 2013.
+^ "World's Largest CSP in Morocco Attracts South-South Learning | Climate Investment Funds". climateinvestmentfunds.org. Retrieved 2016-01-12.
+^ CSP Today, April 11, 2014 "Italian project shows strong potential for sand based CSP"
+^ "Solare Termodinamico, una ricchezza per il paese, p.21" (PDF). Associazione Nazionale Energia Solare Termodinamica (in Italian). Retrieved 2016-02-07.
+^ "Crescent Dunes 24-Hour Solar Tower Is Online". CleanTechnica. 22 February 2016. Retrieved 13 November 2016.
+^ "Crescent Dunes". Retrieved 13 November 2016.
+^ "How Ivanpah Raised Its Performance In Its Second Year". CleanTechnica. 27 April 2016. Retrieved 13 November 2016.
+^ "PUC gives Ivanpah plant operators more time to increase output". pe.com. 17 March 2016. Retrieved 13 November 2016.
+^ Chris Clarke. "Are Solar Power Towers Doomed in California?". KCET.
+^ Thomas W. Africa (1975). "Archimedes through the Looking Glass". The Classical World. 68 (5): 305308. doi:10.2307/4348211. JSTOR4348211.
+^ Ken Butti, John Perlin (1980) A Golden Thread: 2500 Years of Solar Architecture and Technology, Cheshire Books, pp. 66100, ISBN 0442240058.
+^ CM Meyer. From troughs to triumph: SEGS and gas. Eepublishers.co.za. Retrieved on 22 April 2013.
+^ Cutler J. Cleveland (23 August 2008). Shuman, Frank. Encyclopedia of Earth.
+^ Paul Collins (Spring 2002) The Beautiful Possibility. Cabinet Magazine, Issue 6.
+^ "A New Invention To Harness The Sun" Popular Science, November 1929
+^ Ken Butti, John Perlin (1980) A Golden Thread: 2500 Years of Solar Architecture and Technology, Cheshire Books, p. 68, ISBN 0442240058.
+^ Types of solar thermal CSP plants. Tomkonrad.wordpress.com. Retrieved on 22 April 2013.
+^ a b Chaves, Julio (2015). Introduction to Nonimaging Optics, Second Edition. CRC Press. ISBN978-1482206739.
+^ a b Roland Winston, Juan C. Miano, Pablo G. Benitez (2004) Nonimaging Optics, Academic Press, ISBN 978-0127597515.
+^ Norton, Brian (2013). Harnessing Solar Heat. Springer. ISBN978-94-007-7275-5.
+^ New innovations in solar thermal. Popularmechanics.com (1 November 2008). Retrieved on 22 April 2013.
+^ Molten salt as CSP plant working fluid. (PDF) . Retrieved on 22 April 2013.
+^ a b c Christopher L. Martin; D. Yogi Goswami (2005). Solar energy pocket reference. Earthscan. p.45. ISBN978-1-84407-306-1.
+^ "Linear-focusing Concentrator Facilities: DCS, DISS, EUROTROUGH and LS3". Plataforma Solar de Almera. Archived from the original on 28 September 2007. Retrieved 29 September 2007.
+^ a b Deloitte Touche Tohmatsu Ltd, "Energy & Resources Predictions 2012", 2 November 2011
+^ Helman, Christopher, "Oil from the sun", "Forbes", 25 April 2011
+^ Goossens, Ehren, "Chevron Uses Solar-Thermal Steam to Extract Oil in California", "Bloomberg", October 3, 2011
+^ Ivanpah
+^ Compact CLFR. Physics.usyd.edu.au (12 June 2002). Retrieved on 22 April 2013.
+^ Ausra's Compact Linear Fresnel Reflector (CLFR) and Lower Temperature Approach. ese.iitb.ac.in
+^ Sandia, Stirling Energy Systems set new world record for solar-to-grid conversion efficiency. Share.sandia.gov (12 February 2008). Retrieved on 22 April 2013.
+^ Jeffrey Barbee (May 13, 2015). "Could this be the world's most efficient solar electricity system? Using military technology and a zero-emission engine invented by a 19th-century Scot, Swedish firm seeks to revolutionise solar energy production". The Guardian. Retrieved May 13, 2015. 34% of the suns energy hitting the mirrors is converted directly to grid-available electric power
+^ a b REN21 (2015). "Renewables 2015: Global Status Report" (PDF). ISBN978-3-9815934-6-4.
+^ a b REN21 (2014). "Renewables 2014: Global Status Report" (PDF). ISBN978-3-9815934-2-6. Archived from the original on 4 September 2014.
+^ PV-insider.com How CPV trumps CSP in high DNI locations, 14 February 2012
+^ Margaret Schleifer. "CPV - an oasis in the CSP desert?".
+^ Phys.org A novel solar CPV/CSP hybrid system proposed, 11 February 2015
+^ "CSP Facts & Figures". csp-world.com. June 2012. Retrieved 22 April 2013.
+^ "Concentrating Solar Power" (PDF). International Renewable Energy Agency. June 2012. p.11.
+^ E. A. Fletcher (2001). "Solar thermal processing: A review". Journal of Solar Energy Engineering. 123 (2): 63. doi:10.1115/1.1349552.
+^ Aldo Steinfeld & Robert Palumbo (2001). "Solar Thermochemical Process Technology" (PDF). Encyclopedia of Physical Science & Technology, R.A. Meyers Ed. Academic Press. 15: 237256.
+^ "Ivanpah Solar Project Faces Risk of Default on PG&E Contracts". KQED News.
+^ "eSolar Sierra SunTower: a History of Concentrating Solar Power Underperformance".
+^ a b c Poornima Gupta & Laura Isensee (11 September 2009). Carol Bishopric, ed. Google Plans New Mirror For Cheaper Solar Power. Global Climate and Alternative Energy Summit. San Francisco: Reuters & businessworld.in.
+^ Robert Glennon & Andrew M. Reeves (2010). "Solar Energy's Cloudy Future" (PDF). Arizona Journal of Environmental Law & Policy. 91: 106. Archived from the original (PDF) on 11 August 2011.
+^ Google cans concentrated solar power project, Reve, 24 November 2011.
+^ Google Renewable Energy Cheaper than Coal (RE<C). Google.org. Retrieved on 22 April 2013.
+^ Renewable Energy Cost Analysis  Concentrating Solar Power. irena.org
+^ Feed-in tariff (Rgimen Especial). res-legal.de (12 December 2011).
+^ Spanish government halts PV, CSP feed-in tariffs. Solarserver.com (30 January 2012). Retrieved on 22 April 2013.
+^ Spain Halts Feed-in-Tariffs for Renewable Energy. Instituteforenergyresearch.org (9 April 2012). Retrieved on 22 April 2013.
+^ Spain introduces 6% energy tax. Evwind.es (14 September 2012). Retrieved on 22 April 2013.
+^ A Dangerous Obsession with Least Cost? Climate Change, Renewable Energy Law and Emissions Trading Prest, J. (2009) in Climate Change Law: Comparative, Contractual and Regulatory Considerations, W. Gumley & T. Daya-Winterbottom (eds.) Lawbook Company, ISBN 0455226342
+^ a b Concentrated solar power could generate 'quarter of world's energy' Guardian
+^ a b Tom Pfeiffer (23 August 2009) Europe's Saharan power plan: miracle or mirage? Reuters
+^ CSP and photovoltaic solar power, Reuters (23 August 2009).
+^ "Video: Concentrating photovoltaics inspired by telescope design". SPIE Newsroom. 2011. doi:10.1117/2.3201107.02.
+^ Cassandra Sweet (13 June 2015). "High-Tech Solar Projects Fail to Deliver". WSJ.
+^ A Study of Very Large Solar Desert Systems with the Requirements and Benefits to those Nations Having High Solar Irradiation Potential. geni.org.
+^ Solar Resource Data and Maps. Solareis.anl.gov. Retrieved on 22 April 2013.[dubious  discuss]
+^ John Roach. "Burned Birds Become New Environmental Victims of the Energy Quest". NBC News.
+^ Michael Howard (20 August 2014). "Solar Thermal Plants Have a PR Problem, And That PR Problem Is Dead Birds Catching on Fire". Esquire.
+^ "Emerging solar plants scorch birds in mid-air". Fox News.
+^ http://bigstory.ap.org/article/emerging-solar-plants-scorch-birds-mid-air
+^ "How a Solar Farm Set Hundreds of Birds Ablaze". Nature World News.
+^ "Ivanpah Solar Power Tower Is Burning Birds".
+^ http://www.kcet.org/news/redefine/rewire/Avian-mortality%20Report%20FINALclean.pdf
+^ "For the Birds: How Speculation Trumped Fact at Ivanpah". RenewableEnergyWorld.com. Retrieved 4 May 2015.
+^ "One Weird Trick Prevents Bird Deaths At Solar Towers". CleanTechnica.com. Retrieved 4 May 2015.
+External links[edit]
+Concentrating Solar Power Utility
+United Sun Systems
+NREL Concentrating Solar Power Program
+Plataforma Solar de Almeria, CSP research center
+ISFOC (Institute of Concentrating Photovoltaic Systems)
+Understanding Solar Concentrators  Technical Paper by George M. Kaplan
+Mirrors and Optics for Solar Energy  Technical article on mirrors and optics for concentrating solar by Drs. Robert Molenaar in Solar Novus Today.
+v
+t
+e
+Solar energy
+Concepts
+The Sun
+Insolation
+Solar radiation
+Active and passive solar energy
+Solar power
+Thermal
+Passive solar building design
+Solar water heating
+Solar chimney
+Solar air conditioning
+Thermal mass
+Solar pond
+Photovoltaics
+& related topics
+Photovoltaic effect
+Solar cell
+Polymer solar cell
+Nanocrystal solar cell
+Photovoltaic module (solar panel)
+Photovoltaic array (and systems)
+Photovoltaic power station
+Concentrated
+Heliostat
+Solar tracker
+Parabolic trough
+Solar power tower
+Experimental
+& proposed
+Solar updraft tower
+Solar-pumped laser
+Thermoelectric generator
+Solar chemical and artificial photosynthesis
+Space-based solar power
+Solar sail
+Magnetic sail
+Solar thermal rocket
+By country
+Australia
+Austria
+Albania
+Belgium
+Brazil
+Canada
+China
+Czech
+Denmark
+Georgia
+Germany
+Greece
+India
+Israel
+Italy
+Japan
+Lithuania
+Mexico
+Morocco
+Myanmar
+Netherlands
+New Zealand
+Pakistan
+Portugal
+Romania
+Saudi Arabia
+Somalia
+South Africa
+Spain
+Thailand
+Turkey
+Ukraine
+United Kingdom
+United States
+Yemen
+Distribution
+& uses
+Storage
+Thermal mass
+Thermal energy storage
+Phase change material
+Grid energy storage
+Adoption
+Feed-in tariff
+Net metering
+Financial incentives for photovoltaics
+Costs
+Applications
+Solar water heating
+Solar vehicle
+Electric aircraft
+Electric boat
+Solar balloon
+Other applications
+Agriculture
+and horticulture
+Greenhouse
+Polytunnel
+Row cover
+Solar-powered pump
+Building
+Passive solar building design
+Building-integrated photovoltaics
+Urban heat island
+Lighting
+Hybrid solar lighting
+Solar lamp
+Solar Tuki
+Light tube
+Daylighting
+Process heat
+Solar pond
+Solar furnace
+Salt evaporation pond
+Cooking
+Solar cooker
+Disinfection
+Solar water disinfection
+Soil solarization
+Desalination
+Solar still
+Desalination
+Water heating
+Solar water heating
+Solar combisystem
+Zero carbon solar controller
+See also
+Photovoltaics topics
+Solar power by country
+Renewable energy sources
+v
+t
+e
+Emerging technologies
+Technology
+Fields
+Agriculture
+Agricultural robot
+Closed ecological systems
+Cultured meat
+Genetically modified food
+Precision agriculture
+Vertical farming
+Architecture
+Arcology
+Building printing
+Contour crafting
+D-Shape
+Domed city
+Biomedical
+Artificial uterus
+Ampakine
+Brain transplant
+Cryonics
+Cryoprotectant
+Cryopreservation
+Vitrification
+Suspended animation
+De-extinction
+Genetic engineering
+Gene therapy
+Head transplant
+Isolated brain
+Life extension
+Strategies for Engineered Negligible Senescence
+Nanomedicine
+Nanosensors
+Personalized medicine
+Regenerative medicine
+Stem-cell therapy
+Tissue engineering
+Robot-assisted surgery
+Synthetic biology
+Synthetic genomics
+Virotherapy
+Oncolytic virus
+Tricorder
+Whole genome sequencing
+Displays
+Next generation
+FED
+FLCD
+iMoD
+Laser
+LPD
+OLED
+OLET
+QD-LED
+SED
+TPD
+TDEL
+TMOS
+Screenless
+Bionic contact lens
+Head-mounted display
+Head-up display
+Optical head-mounted display
+Virtual retinal display
+Other
+Autostereoscopy
+Flexible display
+Holographic display
+Computer-generated holography
+Multi-primary color display
+Ultra HD
+Volumetric display
+Electronics
+Electronic nose
+E-textiles
+Flexible electronics
+Molecular electronics
+Nanoelectromechanical systems
+Memristor
+Spintronics
+Thermal copper pillar bump
+Energy
+Production
+Airborne wind turbine
+Artificial photosynthesis
+Biofuels
+Carbon-neutral fuel
+Concentrated solar power
+Fusion power
+Home fuel cell
+Hydrogen economy
+Methanol economy
+Molten salt reactor
+Nantenna
+Photovoltaic pavement
+Space-based solar power
+Vortex engine
+Storage
+Beltway battery
+Compressed air energy storage
+Flywheel energy storage
+Grid energy storage
+Lithiumair battery
+Molten salt battery
+Nanowire battery
+Research in lithium-ion batteries
+Siliconair battery
+Thermal energy storage
+Ultracapacitor
+Other
+Smart grid
+Wireless power
+IT and
+communications
+Ambient intelligence
+Internet of Things
+Artificial intelligence
+Applications of artificial intelligence
+Progress in artificial intelligence
+Machine translation
+Machine vision
+Semantic Web
+Speech recognition
+Atomtronics
+Carbon nanotube field-effect transistor
+Cybermethodology
+Fourth-generation optical discs
+3D optical data storage
+Holographic data storage
+GPGPU
+Memory
+CBRAM
+FRAM
+Millipede
+MRAM
+NRAM
+PRAM
+Racetrack memory
+RRAM
+SONOS
+Optical computing
+Quantum computing
+Quantum cryptography
+RFID
+Chipless RFID
+Software-defined radio
+Three-dimensional integrated circuit
+Manufacturing
+3D printing
+Claytronics
+Molecular assembler
+Utility fog
+Materials science
+Aerogel
+Amorphous metal
+Artificial muscle
+Conductive polymer
+Femtotechnology
+Fullerene
+Graphene
+High-temperature superconductivity
+High-temperature superfluidity
+Linear acetylenic carbon
+Metamaterials
+Metamaterial cloaking
+Metal foam
+Multi-function structures
+Nanotechnology
+Carbon nanotubes
+Molecular nanotechnology
+Nanomaterials
+Picotechnology
+Programmable matter
+Quantum dots
+Silicene
+Superalloy
+Synthetic diamond
+Military
+Antimatter weapon
+Caseless ammunition
+Directed-energy weapon
+Laser
+Maser
+Particle-beam weapon
+Sonic weapon
+Coilgun
+Railgun
+Plasma weapon
+Pure fusion weapon
+Stealth technology
+Vortex ring gun
+Neuroscience
+Artificial brain
+Blue Brain Project
+Braincomputer interface
+Electroencephalography
+Mind uploading
+Brain-reading
+Neuroinformatics
+Neuroprosthetics
+Bionic eye
+Brain implant
+Exocortex
+Retinal implant
+Robotics
+Domotics
+Nanorobotics
+Powered exoskeleton
+Self-reconfiguring modular robot
+Swarm robotics
+Uncrewed vehicle
+Space science
+Launch
+Fusion rocket
+Non-rocket spacelaunch
+Mass driver
+Orbital ring
+Space elevator
+Space fountain
+Space tether
+Reusable launch system
+Propulsion
+Beam-powered propulsion
+Ion thruster
+Laser propulsion
+Plasma propulsion engine
+Helicon thruster
+VASIMR
+Project Orion
+Nuclear pulse propulsion
+Solar sail
+Other
+Interstellar travel
+Propellant depot
+Transport
+Aerial
+Adaptive compliant wing
+Aeroscraft
+Backpack helicopter
+Delivery drone
+Flying car
+High-altitude platform
+Jet pack
+Pulse detonation engine
+Scramjet
+Spaceplane
+Skylon
+Supersonic transport
+Land
+Airless tire
+Tweel
+Alternative fuel vehicle
+Hydrogen vehicle
+Driverless car
+Ground effect train
+Maglev train
+Personal rapid transit
+Vactrain
+ET3 Global Alliance
+Hyperloop
+Vehicular communication systems
+Pipeline
+Pneumatic transport
+Automated vacuum collection
+Foodtubes
+Other
+Anti-gravity
+Cloak of invisibility
+Digital scent technology
+Force field
+Plasma window
+Immersive virtual reality
+VirtuSphere
+Magnetic refrigeration
+Phased-array optics
+Quantum technology
+Quantum teleportation
+Topics
+Collingridge dilemma
+Differential technological development
+Ephemeralization
+Exploratory engineering
+Fictional technology
+Proactionary principle
+Technological change
+Technological unemployment
+Technological convergence
+Technological evolution
+Technological paradigm
+Technology forecasting
+Accelerating change
+Moore's law
+Technological singularity
+Technology scouting
+Technology readiness level
+Technology roadmap
+Transhumanism
+Category
+List
+v
+t
+e
+Renewable energy by country
+Africa
+Ethiopia
+Kenya
+Morocco
+Seychelles
+Asia
+Afghanistan
+Bangladesh
+Bhutan
+China
+India
+Kazakhstan
+Nepal
+Pakistan
+Philippines
+Taiwan
+Thailand
+Europe
+European Union (Czech Republic, Denmark, Finland, Germany, Greece, Hungary, Ireland, Italy, Lithuania, Luxembourg, Netherlands, Portugal, Spain, Sweden, United Kingdom)
+Albania
+Iceland
+Norway
+Russia
+North America
+Canada
+Costa Rica
+Honduras
+Mexico
+United States
+Oceania
+Australia
+New Zealand
+Tuvalu
+South America
+Argentina
+Brazil
+Chile
+Colombia
+Category
+Portals:
+Energy
+Renewable energy
+Sustainable development
+Authority control
+GND: 4055583-5
+NewPP limit report
+Parsed by mw1173
+Cached time: 20161120111652
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.676 seconds
+Real time usage: 0.864 seconds
+Preprocessor visited node count: 5823/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 287192/2097152 bytes
+Template argument size: 15351/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 4/500
+Lua time usage: 0.261/10.000 seconds
+Lua memory usage: 7.55 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+567.729
+1 - -total
+48.38%
+274.658
+1 - Template:Reflist
+17.89%
+101.561
+11 - Template:Navbox
+16.67%
+94.651
+26 - Template:Cite_web
+9.75%
+55.341
+8 - Template:Cite_journal
+6.62%
+37.591
+1 - Template:Dubious
+5.74%
+32.605
+1 - Template:Fix
+5.68%
+32.229
+1 - Template:Solar_energy
+5.24%
+29.740
+4 - Template:Convert
+5.06%
+28.752
+1 - Template:Emerging_technologies
+Saved in parser cache with key enwiki:pcache:idhash:17805223-0!*!0!!en!4!*!math=5 and timestamp 20161120111651 and revision id 749638127
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Concentrated_solar_power&oldid=749638127"
+Categories: Solar powerSolar thermal energySolar architectureSolar power stationsHidden categories: CS1 Italian-language sources (it)All accuracy disputesArticles with disputed statements from February 2015Pages using ISBN magic linksArticles containing potentially dated statements from 2013All articles containing potentially dated statementsArticles containing potentially dated statements from September 2009Use dmy dates from April 2013Wikipedia articles with GND identifiers

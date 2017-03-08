@@ -1,0 +1,3957 @@
+Ethanol
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"Drinking alcohol" redirects here. For information related to the consumption of alcohol, see Alcoholic beverage.
+For other uses, see Ethanol (disambiguation).
+Ethanol
+Names
+Systematic IUPAC name
+ethanol[1]
+Other names
+Absolute alcohol, alcohol, cologne spirit, drinking alcohol, ethylic alcohol, EtOH, ethyl alcohol, ethyl hydrate, ethyl hydroxide, ethylol, grain alcohol, hydroxyethane, methylcarbinol
+Identifiers
+CAS Number
+64-17-5Y
+3D model (Jmol)
+Interactive image
+Beilstein Reference
+1718733
+ChEBI
+CHEBI:16236Y
+ChEMBL
+ChEMBL545Y
+ChemSpider
+682Y
+DrugBank
+DB00898Y
+ECHA InfoCard
+100.000.526
+Gmelin Reference
+787
+IUPHAR/BPS
+2299
+PubChem
+702
+UNII
+3K9958V90MY
+InChI
+InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3Y
+Key:LFQSCWFLJHTTHZ-UHFFFAOYSA-NY
+InChI=1/C2H6O/c1-2-3/h3H,2H2,1H3
+Key:LFQSCWFLJHTTHZ-UHFFFAOYAB
+SMILES
+CCO
+Properties
+Chemical formula
+C2H6O
+Molar mass
+46.068 g/mol[2]
+Appearance
+Colorless liquid
+Density
+0.7893 g/cm3 (at 20 C)[2]
+Melting point
+114.140.03[2]C (173.450.05F; 159.010.03K)
+Boiling point
+78.240.09[2]C (172.830.16F; 351.390.09K)
+Solubility in water
+miscible
+log P
+0.18
+Vapor pressure
+5.95 kPa (at 20C)
+Acidity (pKa)
+15.9 (H2O), 29.8 (DMSO)[3][4]
+Basicity (pKb)
+1.9
+Refractive index (nD)
+1.3611[2]
+Viscosity
+1.2 mPas (at 20C), 1.074 mPas (at 25C)[5]
+Dipole moment
+1.69 D[6]
+Pharmacology
+ATC code
+D08AX08 (WHO) V03AB16 (WHO), V03AZ01 (WHO)
+Legal status
+AU: Unscheduled
+CA: Unscheduled
+DE: Unscheduled
+NZ: Unscheduled
+UK: Unscheduled
+US: Unscheduled [11]
+UN: Unscheduled
+EU: Unscheduled
+Pregnancy
+category
+US: C (Risk not ruled out) [12]
+Dependence liability
+Moderate[14]
+Addiction liability
+Moderate (1015%)[13]
+Routes of
+administration
+Common: oral
+Uncommon: suppository, inhalation, ocular, insufflation,[7] injection[8]
+Pharmacokinetics:
+Bioavailability
+Variable[9]
+Metabolism
+Hepatic enzyme alcohol dehydrogenase
+Metabolites
+Acetaldehyde, acetic acid, acetyl-CoA, carbon dioxide, water
+Biological half-life
+None, constant rate elimination[10]
+Excretion
+Urine, breath, perspiration, tears, milk, saliva, bile[10]
+Related compounds
+Related compounds
+Ethane
+Methanol
+Supplementary data page
+Structure and
+properties
+Refractive index (n),
+Dielectric constant (r), etc.
+Thermodynamic
+data
+Phase behaviour
+solidliquidgas
+Spectral data
+UV, IR, NMR, MS
+Except where otherwise noted, data are given for materials in their standard state (at 25C [77F], 100kPa).
+Nverify(what isYN?)
+Infoboxreferences
+Ethanol (/nl/; EtOH), also commonly called alcohol, ethyl alcohol, and drinking alcohol, is the principal type of alcohol found in alcoholic beverages, produced by the fermentation of sugars by yeasts. It is a neurotoxic,[15][16] psychoactive drug, and one of the oldest recreational drugs. It can cause alcohol intoxication when consumed in sufficient quantity.
+Ethanol is a volatile, flammable, colorless liquid with a slight chemical odor. It is used as an antiseptic, a solvent, a fuel, and due to its low freezing point, the active fluid in many alcohol thermometers. The molecule is a simple one, being an ethyl group linked to a hydroxyl group. Its structural formula, CH
+3CH
+2OH, is often abbreviated as C
+2H
+5OH, C
+2H
+6O or EtOH.
+The stem word "eth-" used in many related compounds originates with the then-German word for ethanol (thyl),[17] coined in the 19th century.
+Contents
+1 Etymology
+2 Uses
+2.1 Medical
+2.1.1 Antiseptic
+2.1.2 Antitussive
+2.1.3 Antidote
+2.1.4 Medicinal solvent
+2.2 Recreational
+2.3 Fuel
+2.3.1 Engine fuel
+2.3.2 Rocket Fuel
+2.3.3 Fuel Cells
+2.3.4 Household heating
+2.4 Feedstock
+2.5 Solvent
+3 Adverse effects
+3.1 Loss of balance
+3.2 Gastrointestinal diseases
+3.3 Short-term toxic allergy-like responses
+3.4 Long-term
+3.4.1 Birth defects
+3.4.2 Cancer
+3.4.3 Other effects
+3.5 Reinforcement disorders
+3.5.1 Addiction
+3.5.2 Dependence and withdrawal
+3.6 Overdose
+4 Interactions
+4.1 Alcohol and metronidazole
+5 Pharmacology
+5.1 Pharmacodynamics
+5.2 Pharmacokinetics
+5.2.1 Metabolism
+5.2.2 Alcohol and digestion
+5.2.2.1 Breathalyzers
+5.2.3 Magnitude of effects
+6 Chemistry
+6.1 Chemical formula
+6.2 Physical properties
+6.3 Solvent properties
+6.4 Flammability
+7 Natural occurrence
+8 Production
+8.1 Ethylene hydration
+8.2 Fermentation
+8.2.1 Cellulose
+8.3 Testing
+9 Purification
+9.1 Distillation
+9.2 Molecular sieves and desiccants
+9.3 Membranes and reverse osmosis
+9.4 Other techniques
+9.5 Grades of ethanol
+9.5.1 Denatured alcohol
+9.5.2 Absolute alcohol
+9.5.3 Rectified spirits
+10 Reactions
+10.1 Ester formation
+10.2 Dehydration
+10.3 Combustion
+10.4 Acid-base chemistry
+10.5 Halogenation
+10.6 Oxidation
+11 History
+12 Society and culture
+13 See also
+14 References
+15 Further reading
+16 External links
+Etymology[edit]
+Ethanol is the systematic name defined by the International Union of Pure and Applied Chemistry (IUPAC) for a molecule with two carbon atoms (prefix "eth-"), having a single bond between them (suffix "-ane"), and an attached functional group-OH group (suffix "-ol").[1]
+The prefix ethyl was coined in 1834 by the German chemist Justus Liebig.[18] Ethyl is a contraction of the Ancient Greek  (aithr, upper air) and the Greek word  (hyle, substance).[19]
+The name ethanol was coined as a result of a resolution that was adopted at the International Conference on Chemical Nomenclature that was held in April 1892 in Geneva, Switzerland.[20]
+The term "alcohol" now refers to a wider class of substances in chemistry nomenclature, but in common parlance it remains the name of ethanol. Ultimately a medieval loan from Arabic al-kul,[21] use of alcohol in this sense is modern, introduced in the mid 18th century. Before that time, Middle Latin alcohol referred to "powdered ore of antimony; powdered cosmetic", by the later 17th century "any sublimated substance; distilled spirit" use for "the spirit of wine" (shortened from a full expression alcohol of wine) recorded 1753. The systematic use in chemistry dates to 1850.
+Uses[edit]
+Medical[edit]
+Antiseptic[edit]
+Ethanol is used in medical wipes and most common antibacterial hand sanitizer gels as an antiseptic. Ethanol kills organisms by denaturing their proteins and dissolving their lipids and is effective against most bacteria and fungi, and many viruses. However, ethanol is ineffective against bacterial spores.[22]
+Antitussive[edit]
+Ethanol is widely used, clinically and over the counter, as an antitussive agent.[23]
+Antidote[edit]
+Ethanol may be administered as an antidote to methanol[24] and ethylene glycol poisoning.
+Medicinal solvent[edit]
+Ethanol, often in high concentrations, is used to dissolve many water-insoluble medications and related compounds. Proprietary liquid preparations of cough and cold remedies, analgesics, and mouth washes may be dissolved in 1 to 25% concentrations of ethanol and may need to be avoided in individuals with adverse reactions to ethanol such as alcohol-induced respiratory reactions.[25]
+Recreational[edit]
+Ethanol is a central nervous system depressant and has significant psychoactive effects in sublethal doses. Based on its abilities to alter human consciousness, ethanol is considered a psychoactive drug.[26]
+The amount of ethanol in the body is typically quantified by blood alcohol content (BAC), which is here taken as weight of ethanol per unit volume of blood. Small doses of ethanol, in general, produce euphoria and relaxation; people experiencing these symptoms tend to become talkative and less inhibited, and may exhibit poor judgment. At higher dosages (BAC > 1g/L), ethanol acts as a central nervous system depressant, producing at progressively higher dosages, impaired sensory and motor function, slowed cognition, stupefaction, unconsciousness, and possible death. Ethanol is commonly consumed as a recreational drug, especially while socializing, due to its psychoactive effects.
+Fuel[edit]
+Engine fuel[edit]
+Energy content of some fuels compared with ethanol:[27]
+Fuel type
+MJ/L
+MJ/kg
+Research
+octane
+number
+Dry wood (20% moisture)
+~19.5
+Methanol
+17.9
+19.9
+108.7[28]
+Ethanol
+21.2[29]
+26.8[29]
+108.6[28]
+E85
+(85% ethanol, 15% gasoline)
+25.2
+33.2
+105
+Liquefied natural gas
+25.3
+~55
+Autogas (LPG)
+(60% propane + 40% butane)
+26.8
+50.
+Aviation gasoline
+(high-octane gasoline, not jet fuel)
+33.5
+46.8
+100/130 (lean/rich)
+Gasohol
+(90% gasoline + 10% ethanol)
+33.7
+47.1
+93/94
+Regular gasoline/petrol
+34.8
+44.4[30]
+min. 91
+Premium gasoline/petrol
+max. 104
+Diesel
+38.6
+45.4
+25
+Charcoal, extruded
+50
+23
+Main article: Ethanol fuel
+The largest single use of ethanol is as an engine fuel and fuel additive. Brazil in particular relies heavily upon the use of ethanol as an engine fuel, due in part to its role as the globe's leading producer of ethanol.[31] Gasoline sold in Brazil contains at least 25% anhydrous ethanol. Hydrous ethanol (about 95% ethanol and 5% water) can be used as fuel in more than 90% of new gasoline fueled cars sold in the country. Brazilian ethanol is produced from sugar cane and noted for high carbon sequestration.[32] The US and many other countries primarily use E10 (10% ethanol, sometimes known as gasohol) and E85 (85% ethanol) ethanol/gasoline mixtures.
+USP grade ethanol for laboratory use.
+Ethanol has been used as rocket fuel and is currently in lightweight rocket-powered racing aircraft.[33]
+Australian law limits the use of pure ethanol from sugarcane waste to 10% in automobiles. Older cars (and vintage cars designed to use a slower burning fuel) should have the engine valves upgraded or replaced.[34]
+According to an industry advocacy group, ethanol as a fuel reduces harmful tailpipe emissions of carbon monoxide, particulate matter, oxides of nitrogen, and other ozone-forming pollutants.[35] Argonne National Laboratory analyzed greenhouse gas emissions of many different engine and fuel combinations, and found that biodiesel/petrodiesel blend (B20) showed a reduction of 8%, conventional E85 ethanol blend a reduction of 17% and cellulosic ethanol 64%, compared with pure gasoline.[36]
+Ethanol combustion in an internal combustion engine yields many of the products of incomplete combustion produced by gasoline and significantly larger amounts of formaldehyde and related species such as acetaldehyde.[37] This leads to a significantly larger photochemical reactivity and more ground level ozone.[38] These data have been assembled into The Clean Fuels Report comparison of fuel emissions[39] and show that ethanol exhaust generates 2.14times as much ozone as gasoline exhaust.[citation needed] When this is added into the custom Localised Pollution Index (LPI) of The Clean Fuels Report, the local pollution of ethanol (pollution that contributes to smog) is rated 1.7, where gasoline is 1.0 and higher numbers signify greater pollution.[citation needed] The California Air Resources Board formalized this issue in 2008 by recognizing control standards for formaldehydes as an emissions control group, much like the conventional NOx and Reactive Organic Gases (ROGs).[40]
+World production of ethanol in 2006 was 51 gigalitres (1.31010USgal), with 69% of the world supply coming from Brazil and the United States.[41] More than 20% of Brazilian cars are able to use 100% ethanol as fuel, which includes ethanol-only engines and flex-fuel engines.[42] Flex-fuel engines in Brazil are able to work with all ethanol, all gasoline or any mixture of both. In the US flex-fuel vehicles can run on 0% to 85% ethanol (15% gasoline) since higher ethanol blends are not yet allowed or efficient. Brazil supports this population of ethanol-burning automobiles with large national infrastructure that produces ethanol from domestically grown sugar cane. Sugar cane not only has a greater concentration of sucrose than corn (by about 30%), but is also much easier to extract. The bagasse generated by the process is not wasted, but is used in power plants to produce electricity.[citation needed]
+In the United States, the ethanol fuel industry is based largely on corn. According to the Renewable Fuels Association, as of 30 October 2007, 131 grain ethanol bio-refineries in the United States have the capacity to produce 7.0billion US gallons (26,000,000m3) of ethanol per year. An additional 72 construction projects underway (in the U.S.) can add 6.4billion US gallons (24,000,000m3) of new capacity in the next 18 months. Over time, it is believed that a material portion of the 150-billion-US-gallon (570,000,000m3) per year market for gasoline will begin to be replaced with fuel ethanol.[43]
+Sweet sorghum is another potential source of ethanol, and is suitable for growing in dryland conditions. The International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) is investigating the possibility of growing sorgham as a source of fuel, food, and animal feed in arid parts of Asia and Africa.[44] Sweet sorghum has one-third the water requirement of sugarcane over the same time period. It also requires about 22% less water than corn (also known as maize). The worlds first sweet sorghum ethanol distillery began commercial production in 2007 in Andhra Pradesh, India.[45]
+Ethanol's high miscibility with water makes it unsuitable for shipping through modern pipelines like liquid hydrocarbons.[46] Mechanics have seen increased cases of damage to small engines (in particular, the carburetor) and attribute the damage to the increased water retention by ethanol in fuel.[47]
+Ethanol pump station in So Paulo, Brazil
+A Ford Taurus fueled by ethanol in New York City
+USPS truck running on E85 in Minnesota
+Rocket Fuel[edit]
+Ethanol was commonly used as fuel in early bipropellant rocket (liquid propelled) vehicles, in conjunction with an oxidizer such as liquid oxygen. The German V-2 rocket of World War II, credited with beginning the space age, used ethanol, mixed with 25% of water to reduce the combustion chamber temperature.[48][49] The V-2's design team helped develop U.S. rockets following World War II, including the ethanol-fueled Redstone rocket which launched the first U.S. satellite.[50] Alcohols fell into general disuse as more efficient rocket fuels were developed.[49]
+Fuel Cells[edit]
+Commercial fuel cells operate on reformed natural gas, hydrogen or methanol. Ethanol is an attractive alternative due to its wide availability, low cost, high purity and low toxicity. There are a wide range of fuel cell concepts that have been trialled including direct-ethanol fuel cells, auto-thermal reforming systems and thermally integrated systems. The majority of work is being conducted at a research level although there are a number of organizations at the beginning of commercialization of ethanol fuel cells.[51]
+Household heating[edit]
+Ethanol fireplaces can be used for home heating or for decoration.[52]
+Feedstock[edit]
+Further information: Reactions
+Ethanol is an important industrial ingredient. It has widespread use as a precursor for other organic compounds such as ethyl halides, ethyl esters, diethyl ether, acetic acid, and ethyl amines.
+Solvent[edit]
+Ethanol is miscible with water and is a good general purpose solvent. It is found in paints, tinctures, markers, and personal care products such as mouthwashes, perfumes and deodorants. However, polysaccharides precipitate from aqueous solution in the presence of alcohol, and ethanol precipitation is used for this reason in the purification of DNA and RNA.
+Adverse effects[edit]
+Main articles: Alcohol and health and Short-term effects of alcohol
+Addiction experts in psychiatry, chemistry, pharmacology, forensic science, epidemiology, and the police and legal services engaged in delphic analysis regarding 20 popular recreational drugs. Alcohol was ranked 6th in dependence, 11th in physical harm, and 2nd in social harm.[53]
+Loss of balance[edit]
+When alcohol reaches the brain, it has the ability to delay signals that are sent between nerve cells that control balance, thinking and movement.[54]
+Gastrointestinal diseases[edit]
+Diagram of mucosal layer
+Alcohol stimulates gastric juice production, even when food is not present, and as a result, its consumption will stimulate acidic secretions normally intended to digest protein molecules. Consequently, the excess acidity may harm the inner lining of the stomach. The stomach lining is normally protected by a mucosal layer which prevents the stomach from essentially digesting itself. However, in patients who have a peptic ulcer disease (PUD), this mucosal layer is broken down. PUD is commonly associated with the bacteria H. pylori. H. pylori secrete a toxin that weakens the mucosal wall, which as a result lead to acid and protein enzymes penetrating the weakened barrier. Because alcohol stimulates a person's stomach to secrete acid, a person with PUD should avoid drinking alcohol on an empty stomach. Drinking alcohol would cause more acid release which would further damage the already-weakened stomach wall.[55] Complications of this disease could include a burning pain in the abdomen, bloating and in severe cases, the presence of dark black stools indicate internal bleeding.[56] A person who drinks alcohol regularly is strongly advised to reduce their intake to prevent PUD aggravation.[56]
+Ingestion of alcohol can initiate systemic pro-inflammatory changes through two intestinal routes: (1) altering intestinal microbiota composition (dysbiosis), which increases lipopolysaccharide (LPS) release, and (2) degrading intestinal barrier integrity - thus allowing this (LPS) to enter the circulatory system. The major portion of the blood supply to the liver is provided the portal vein. Therefore, while the liver is continuously fed nutrients from the intestine, it is also exposed to any bacteria and/or bacterial derivatives that breach the intestinal mucosal barrier. Consequently, LPS levels increase in the portal vein, liver and systemic circulation after alcohol intake. Immune cells in the liver respond to LPS with the production of reactive oxygen species (ROS), leukotrienes, chemokines and cytokines. These factors promote tissue inflammation and contribute to organ pathology.[57]
+Short-term toxic allergy-like responses[edit]
+Main articles: Alcohol-induced respiratory reactions and Alcohol flush reaction
+Ethanol-containing beverages can cause urticarial skin eruptions, systemic dermatitis, alcohol flush reactions, exacerbations of rhinitis and, more seriously and commonly, bronchoconstriction in patients with a history of asthma. These reactions occur within 160 minutes of ethanol ingestion and are due to: 1) genetic abnormalities in the metabolism of ethanol which cause the ethanol metabolite, acetaldehyde, to accumulate in tissues and trigger the release of histamine, the evoker of these symptoms; 2) true allergy reactions to allergens occurring naturally in, or contaminating, alcoholic beverages, particularly wines and beers, and 3) unknown causes.[25]
+Long-term[edit]
+Main article: Long-term effects of alcohol
+Birth defects[edit]
+See also: fetal alcohol syndrome and fetal alcohol spectrum disorder
+Ethanol is classified as a teratogen.[medical citation needed] According to the CDC, alcohol consumption by women of child-bearing age who are not using birth control increases the risk of fetal alcohol syndrome. The CDC currently recommends complete abstinence from alcoholic beverages.[58]
+Cancer[edit]
+IARC list ethanol in alcoholic beverages as Group 1 carcinogens and arguments "There is sufficient evidence for the carcinogenicity of acetaldehyde (the major metabolite of ethanol) in experimental animals.".[59]
+Other effects[edit]
+Frequent drinking of alcoholic beverages has been shown to be a major contributing factor in cases of elevated blood levels of triglycerides.[60]
+Reinforcement disorders[edit]
+Addiction[edit]
+See also: Alcoholism
+The reinforcing effects of alcohol consumption are mediated by acetaldehyde generated by catalase and other oxidizing enzymes such as cytochrome P-4502E1 in the brain.[61] Although acetaldehyde has been associated with some of the adverse and toxic effects of ethanol, it appears to play a central role in the activation of the mesolimbic dopamine system.[62]
+Ethanol's rewarding and reinforcing (i.e., addictive) properties are mediated through its effects on dopamine neurons in the mesolimbic reward pathway, which connects the ventral tegmental area to the nucleus accumbens (NAcc).[63][64] One of ethanol's primary effects is the allosteric inhibition of NMDA receptors and facilitation of GABAA receptors (e.g., enhanced GABAA receptor-mediated chloride flux through allosteric regulation of the receptor).[65] At high doses, ethanol inhibits most ligand gated ion channels and voltage gated ion channels in neurons as well.[65]
+With acute alcohol consumption, dopamine is released in the synapses of the mesolimbic pathway, in turn heightening activation of postsynaptic D1 receptors.[63][64] The activation of these receptors triggers postsynaptic internal signaling events through protein kinase A which ultimately phosphorylate cAMP response element binding protein (CREB), inducing CREB-mediated changes in gene expression.[63][64]
+With chronic alcohol intake, consumption of ethanol similarly induces CREB phosphorylation through the D1 receptor pathway, but it also alters NMDA receptor function through phosphorylation mechanisms;[63][64] an adaptive downregulation of the D1 receptor pathway and CREB function occurs as well.[63][64] Chronic consumption is also associated with an effect on CREB phosphorylation and function via postsynaptic NMDA receptor signaling cascades through a MAPK/ERK pathway and CAMK-mediated pathway.[64] These modifications to CREB function in the mesolimbic pathway induce expression (i.e., increase gene expression) of FosB in the NAcc,[64] where FosB is the "master control protein" that, when overexpressed in the NAcc, is necessary and sufficient for the development and maintenance of an addictive state (i.e., its overexpression in the nucleus accumbens produces and then directly modulates compulsive alcohol consumption).[64][66][67][68]
+Dependence and withdrawal[edit]
+See also: Alcohol withdrawal syndrome
+Discontinuing consumption of alcohol after several years of heavy drinking can also be fatal. Alcohol withdrawal can cause anxiety, autonomic dysfunction, seizures, and hallucinations. Delirium tremens is a condition that requires people with a long history of heavy drinking to undertake an alcohol detoxification regimen.
+Overdose[edit]
+See also: Alcohol consumption and health
+BAC (g/L)
+BAC
+(% v/v)
+Symptoms[69]
+0.5
+0.05%
+Euphoria, talkativeness, relaxation
+1
+0.1%
+Central nervous system depression, nausea, possible vomiting, impaired motor and sensory function, impaired cognition
+>1.4
+>0.14%
+Decreased blood flow to brain
+3
+0.3%
+Stupefaction, possible unconsciousness
+4
+0.4%
+Possible death
+>5.5
+>0.55%
+Death
+Death from ethanol consumption is possible when blood alcohol levels reach 0.4%. A blood level of 0.5% or more is commonly fatal. Levels of even less than 0.1% can cause intoxication, with unconsciousness often occurring at 0.30.4%.[70]
+Prolonged heavy consumption of alcohol can cause significant permanent damage to the brain and other organs.
+Interactions[edit]
+Ethanol can intensify the sedation caused by other central nervous system depressant drugs such as barbiturates, benzodiazepines, opioids, non-benzodiazepines (such as Zolpidem and Zopiclone), antipsychotics, sedative antihistamines, and antidepressants.[70] It interacts with cocaine in vivo to produce cocaethylene, another psychoactive substance.[71] Ethanol enhances the bioavailability of methylphenidate (elevated plasma d-MPH).[72] In combination with cannabis, ethanol increases plasma THC levels, which suggests that ethanol may increase the absorption of THC.[73]
+Alcohol and metronidazole[edit]
+One of the most important drug/food interactions that should be noted is between alcohol and metronidazole.
+Metronidazole is an antibacterial agent that kills bacteria by damaging cellular DNA and hence cellular function.[74] Metronidazole is usually given to people who have diarrhea caused by Clostridium difficile bacteria. C. difficile is one of the most common microorganisms that cause diarrhea and can lead to complications such as colon inflammation and even more severely, death.
+Patients who are taking metronidazole are strongly advised to avoid alcohol, even after 1hour after the last dose. The reason is that alcohol and metronidazole can lead to side effects such as flushing, headache, nausea, vomiting, abdominal cramps, and sweating.[75][76][76] These symptoms are often called the disulfiram-like reaction. The proposed mechanism of action for this interaction is that metronidazole can bind to an enzyme that normally metabolizes alcohol. Binding to this enzyme may impair the liver's ability to process alcohol for proper excretion.[77]
+Pharmacology[edit]
+Pharmacodynamics[edit]
+See also: Alcohol intoxication Ethanol and GABAA Receptors, and Calcium channel blocker Ethanol
+Ethanol acts in the central nervous system primarily by binding to the GABAA receptor, increasing the effects of the inhibitory neurotransmitter GABA (i.e., it is a positive allosteric modulator).[78]
+Ethanol is known to possess the following direct pharmacodynamic actions (most important actions are bolded):[79]
+GABAA receptor positive allosteric modulator[65] (primarily of  subunit-containing receptors)
+NMDA receptor negative allosteric modulator[65][80]
+Mesolimbic dopamine release, secondary to GABAA/NMDA receptor modulation[65][62]
+Endogenous opioid release in the mesolimbic dopamine pathway, secondary to an unidentified mechanism in the NAcc or VTA[65]
+AMPA receptor negative allosteric modulator[80]
+Kainate receptor negative allosteric modulator[80]
+nACh receptor agonist
+5-HT3 receptor agonist
+Glycine reuptake inhibitor[81]
+Adenosine reuptake inhibitor[82]
+L-type calcium channel blocker
+GIRK channel opener
+Some of its actions on ligand-gated ion channels, specifically the nACh receptors and the glycine receptor, are dose-dependent, with potentiation or inhibition occurring dependent on ethanol concentration. This is because ethanol's effects on these channels are a summation of positive and negative allosteric modulatory actions.[79]
+Pharmacokinetics[edit]
+The removal of ethanol from the human body, through oxidation by alcohol dehydrogenase in the liver, is limited. Hence, the removal of a large concentration of alcohol from blood may follow zero-order kinetics. This means that alcohol leaves the body at a constant rate, rather than having an elimination half-life.[10]
+The rate-limiting steps for one substance may be in common with other substances. As a result, the blood alcohol concentration can be used to modify the rate of metabolism of methanol and ethylene glycol. Methanol itself is not highly toxic, but its metabolites formaldehyde and formic acid are; therefore, to reduce the rate of production and concentration of these harmful metabolites, ethanol can be ingested.[83] Ethylene glycol poisoning can be treated in the same way.
+Pure ethanol will irritate the skin and eyes.[84] Nausea, vomiting and intoxication are symptoms of ingestion. Long-term use by ingestion can result in serious liver damage.[85] Atmospheric concentrations above one in a thousand are above the European Union Occupational exposure limits.[85]
+Metabolism[edit]
+Main articles: Ethanol metabolism and Alcohol dehydrogenase
+Ethanol within the human body is converted into acetaldehyde by alcohol dehydrogenase and then into the acetyl in acetyl CoA by acetaldehyde dehydrogenase. Acetyl CoA is the final product of both carbohydrate and fat metabolism, where the acetyl can be further used to produce energy or for biosynthesis. As such, ethanol can be compared to an energy-bearing macronutrient, yielding approximately 7 kcal per gram consumed.[86] However, the product of the first step of this breakdown, acetaldehyde,[87] is more toxic than ethanol. Acetaldehyde is linked to most of the clinical effects of alcohol. It has been shown to increase the risk of developing cirrhosis of the liver[88] and multiple forms of cancer.
+During the metabolism of alcohol via the respective dehydrogenases, NAD (Nicotinamide adenine dinucleotide) is converted into reduced NAD. Normally, NAD is used to metabolise fats in the liver, and as such alcohol competes with these fats for the use of NAD. Prolonged exposure to alcohol means that fats accumulate in the liver, leading to the term 'fatty liver'. Continued consumption (such as in alcoholism) then leads to cell death in the hepatocytes as the fat stores reduce the function of the cell to the point of death. These cells are then replaced with scar tissue, leading to the condition called cirrhosis.
+Alcohol and digestion[edit]
+A part of ethyl alcohol is hydrophobic. This hydrophobic or lipophilic end can diffuse across cells that line the stomach wall. In fact, alcohol is one of the rare substances that can be absorbed in the stomach. Most food substances are absorbed in the small intestine. However, even though alcohol can be absorbed in the stomach, it is mostly absorbed in the small intestine because the small intestine has a large surface area that promotes absorption. Once alcohol is absorbed in the small intestine, it delays the release of stomach contents from emptying into the small intestine. Thus, alcohol can delay the rate of absorption of nutrients.[89] After absorption, alcohol reaches the liver where it is metabolized.
+Breathalyzers[edit]
+Alcohol that is not processed by the liver goes to the heart. The liver can process only a certain amount of alcohol per unit time. Thus, when a person drinks too much alcohol, more alcohol can reach the heart. In the heart, alcohol reduces the force of heart contractions. Consequently, the heart will pump less blood, lowering overall body blood pressure.[54] Also, blood that reaches the heart goes to the lungs to replenish blood's oxygen concentration. It is at this stage that a person can breathe out traces of alcohol.[54] This is the underlying principle of the alcohol breath testing (or breathalyzers) to determine if a driver has been drinking and driving.[90]
+From the lungs, blood returns to the heart and will be distributed throughout the body. Interestingly, alcohol increases levels of high-density lipoproteins(HDLs), which carry cholesterol.[54] Alcohol is known to make blood less likely to clot, reducing risk of heart attack and stroke. This could be the reason that alcohol seems to produce health benefits when consumed in moderate amounts.[91] Also, alcohol dilates blood vessels. Consequently, a person will feel warmer, and his/her skin flush and appear pink.[54]
+Magnitude of effects[edit]
+Some individuals have less effective forms of one or both of the metabolizing enzymes, and can experience more severe symptoms from ethanol consumption than others. However, those having acquired alcohol tolerance have a greater quantity of these enzymes, and metabolize ethanol more rapidly.[92]
+Chemistry[edit]
+Further information: Ethanol (data page)
+Chemical formula[edit]
+Ethanol is a 2-carbon alcohol. Its molecular formula is CH3CH2OH. An alternative notation is CH3CH2OH, which indicates that the carbon of a methyl group (CH3) is attached to the carbon of a methylene group (CH2), which is attached to the oxygen of a hydroxyl group (OH). It is a constitutional isomer of dimethyl ether. Ethanol is sometimes abbreviated as EtOH, using the common organic chemistry notation of representing the ethyl group (C2H5-) with Et.
+Physical properties[edit]
+Ethanol burning with its spectrum depicted
+Ethanol is a volatile, colorless liquid that has a slight odor. It burns with a smokeless blue flame that is not always visible in normal light.
+The physical properties of ethanol stem primarily from the presence of its hydroxyl group and the shortness of its carbon chain. Ethanol's hydroxyl group is able to participate in hydrogen bonding, rendering it more viscous and less volatile than less polar organic compounds of similar molecular weight, such as propane.
+Ethanol is slightly more refractive than water, having a refractive index of 1.36242 (at =589.3nm and 18.35C or 65.03F).[93]
+The triple point for ethanol is 150 K at a pressure of 4.3  104 Pa.[94]
+Solvent properties[edit]
+Ethanol is a versatile solvent, miscible with water and with many organic solvents, including acetic acid, acetone, benzene, carbon tetrachloride, chloroform, diethyl ether, ethylene glycol, glycerol, nitromethane, pyridine, and toluene.[93][95] It is also miscible with light aliphatic hydrocarbons, such as pentane and hexane, and with aliphatic chlorides such as trichloroethane and tetrachloroethylene.[95]
+Ethanol's miscibility with water contrasts with the immiscibility of longer-chain alcohols (five or more carbon atoms), whose water miscibility decreases sharply as the number of carbons increases.[96] The miscibility of ethanol with alkanes is limited to alkanes up to undecane: mixtures with dodecane and higher alkanes show a miscibility gap below a certain temperature (about 13C for dodecane[97]). The miscibility gap tends to get wider with higher alkanes and the temperature for complete miscibility increases.
+Ethanol-water mixtures have less volume than the sum of their individual components at the given fractions. Mixing equal volumes of ethanol and water results in only 1.92 volumes of mixture.[93][98] Mixing ethanol and water is exothermic, with up to 777J/mol[99] being released at 298K.
+Mixtures of ethanol and water form an azeotrope at about 89 mole-% ethanol and 11 mole-% water[100] or a mixture of 95.6 percent ethanol by mass (or about 97% alcohol by volume) at normal pressure, which boils at 351K (78C). This azeotropic composition is strongly temperature- and pressure-dependent and vanishes at temperatures below 303K.[101]
+Hydrogen bonding in solid ethanol at 186C
+Hydrogen bonding causes pure ethanol to be hygroscopic to the extent that it readily absorbs water from the air. The polar nature of the hydroxyl group causes ethanol to dissolve many ionic compounds, notably sodium and potassium hydroxides, magnesium chloride, calcium chloride, ammonium chloride, ammonium bromide, and sodium bromide.[95] Sodium and potassium chlorides are slightly soluble in ethanol.[95] Because the ethanol molecule also has a nonpolar end, it will also dissolve nonpolar substances, including most essential oils[102] and numerous flavoring, coloring, and medicinal agents.
+The addition of even a few percent of ethanol to water sharply reduces the surface tension of water. This property partially explains the "tears of wine" phenomenon. When wine is swirled in a glass, ethanol evaporates quickly from the thin film of wine on the wall of the glass. As the wine's ethanol content decreases, its surface tension increases and the thin film "beads up" and runs down the glass in channels rather than as a smooth sheet.
+Flammability[edit]
+An ethanol-water solution that contains 40% alcohol by weight will catch fire if heated to about 26C (79F) and if an ignition source is applied to it. This is called its flash point.[103] The flash point of pure ethanol is 16.60C (61.88F), less than average room temperature.
+The flash points of ethanol wt% concentrations[104]
+wt%
+Temperature
+10%
+49C (120F)
+20%
+36C (97F)
+30%
+29C (84F)
+40%
+26C (79F)
+50%
+24C (75F)
+60%
+22C (72F)
+70%
+21C (70F)
+80%
+20C (68F)
+90%
+17C (63F)
+96%
+17C (63F)
+Dishes using burning alcohol for culinary effects are called Flamb.
+Natural occurrence[edit]
+Ethanol is a byproduct of the metabolic process of yeast. As such, ethanol will be present in any yeast habitat. Ethanol can commonly be found in overripe fruit.[105] Ethanol produced by symbiotic yeast can be found in bertam palm blossoms. Although some animal species such as the pentailed treeshrew exhibit ethanol-seeking behaviors, most show no interest or avoidance of food sources containing ethanol.[106] Ethanol is also produced during the germination of many plants as a result of natural anerobiosis.[107] Ethanol has been detected in outer space, forming an icy coating around dust grains in interstellar clouds.[108] Minute quantity amounts (average 196 ppb) of endogenous ethanol and acetaldehyde were found in the exhaled breath of healthy volunteers.[109] Auto-brewery syndrome, also known as gut fermentation syndrome, is a rare medical condition in which intoxicating quantities of ethanol are produced through endogenous fermentation within the digestive system.[110]
+Production[edit]
+94% denatured ethanol sold in a bottle for household use
+Ethanol is produced both as a petrochemical, through the hydration of ethylene and, via biological processes, by fermenting sugars with yeast.[111] Which process is more economical depends on prevailing prices of petroleum and grain feed stocks.
+Ethylene hydration[edit]
+Ethanol for use as an industrial feedstock or solvent (sometimes referred to as synthetic ethanol) is made from petrochemical feed stocks, primarily by the acid-catalyzed hydration of ethylene:
+C
+2H
+4 + H
+2O  CH
+3CH
+2OH
+The catalyst is most commonly phosphoric acid,[112][113] adsorbed onto a porous support such as silica gel or diatomaceous earth. This catalyst was first used for large-scale ethanol production by the Shell Oil Company in 1947.[114] The reaction is carried out in the presence of high pressure steam at 300C (572F) where a 1.0:0.6 ethylene to steam ratio is maintained.[115][116] In the U.S., this process was used on an industrial scale by Union Carbide Corporation and others, but now only LyondellBasell uses it commercially.
+In an older process, first practiced on the industrial scale in 1930 by Union Carbide,[117] but now almost entirely obsolete, ethylene was hydrated indirectly by reacting it with concentrated sulfuric acid to produce ethyl sulfate, which was hydrolyzed to yield ethanol and regenerate the sulfuric acid:[118]
+C
+2H
+4 + H
+2SO
+4  CH
+3CH
+2SO
+4H
+CH
+3CH
+2SO
+4H + H
+2O  CH
+3CH
+2OH + H
+2SO
+4
+Fermentation[edit]
+Main article: Ethanol fermentation
+See also: Yeast in winemaking
+Ethanol in alcoholic beverages and fuel is produced by fermentation. Certain species of yeast (e.g., Saccharomyces cerevisiae) metabolize sugar, producing ethanol and carbon dioxide. The chemical equations below summarize the conversion:
+C
+6H
+12O
+6  2 CH
+3CH
+2OH + 2 CO2
+C
+12H
+22O
+11 + H
+2O  4 CH
+3CH
+2OH + 4 CO2
+Fermentation is the process of culturing yeast under favorable thermal conditions to produce alcohol. This process is carried out at around 3540C (95104F). Toxicity of ethanol to yeast limits the ethanol concentration obtainable by brewing; higher concentrations, therefore, are obtained by fortification or distillation. The most ethanol-tolerant yeast strains can survive up to approximately 18% ethanol by volume.
+To produce ethanol from starchy materials such as cereal grains, the starch must first be converted into sugars. In brewing beer, this has traditionally been accomplished by allowing the grain to germinate, or malt, which produces the enzyme amylase. When the malted grain is mashed, the amylase converts the remaining starches into sugars.
+Cellulose[edit]
+Main article: Cellulosic ethanol
+Sugars for ethanol fermentation can be obtained from cellulose. Deployment of this technology could turn a number of cellulose-containing agricultural by-products, such as corncobs, straw, and sawdust, into renewable energy resources. Other agricultural residues such as sugar cane bagasse and energy crops such as switchgrass may also be a sources of fermentable sugars.[119]
+Testing[edit]
+Infrared reflection spectra of liquid ethanol, showing the -OH band centered at ~3300cm1 and C-H bands at ~2950cm1.
+Near infrared spectrum of liquid ethanol.
+Breweries and biofuel plants employ two methods for measuring ethanol concentration. Infrared ethanol sensors measure the vibrational frequency of dissolved ethanol using the CH band at 2900cm1. This method uses a relatively inexpensive solid state sensor that compares the CH band with a reference band to calculate the ethanol content. The calculation makes use of the Beer-Lambert law. Alternatively, by measuring the density of the starting material and the density of the product, using a hydrometer, the change in specific gravity during fermentation indicates the alcohol content. This inexpensive and indirect method has a long history in the beer brewing industry.
+Purification[edit]
+Distillation[edit]
+Ethylene hydration or brewing produces an ethanolwater mixture. For most industrial and fuel uses, the ethanol must be purified. Fractional distillation at atmospheric pressure can concentrate ethanol to 95.6% by volume (89.5 mole%). This mixture is an azeotrope with a boiling point of 78.1C (172.6F), and cannot be further purified by distillation. Addition of an entraining agent, such as benzene, cyclohexane, or heptane, allows a new ternary azeotrope comprising the ethanol, water, and the entraining agent to be formed. This lower-boiling ternary azeotrope is removed preferentially, leading to water-free ethanol.[113]
+At pressures less than atmospheric pressure, the composition of the ethanol-water azeotrope shifts to more ethanol-rich mixtures, and at pressures less than 70torr (9.333kPa), there is no azeotrope, and it is possible to distill absolute ethanol from an ethanol-water mixture. While vacuum distillation of ethanol is not presently economical, pressure-swing distillation is a topic of current research. In this technique, a reduced-pressure distillation first yields an ethanol-water mixture of more than 95.6% ethanol. Then, fractional distillation of this mixture at atmospheric pressure distills off the 95.6% azeotrope, leaving anhydrous ethanol at the bottom.[citation needed]
+Molecular sieves and desiccants[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2015) (Learn how and when to remove this template message)
+Apart from distillation, ethanol may be dried by addition of a desiccant, such as molecular sieves, cellulose, and cornmeal. The desiccants can be dried and reused.[113]
+Molecular sieves can be used to selectively absorb the water from the 95.6% ethanol solution. Synthetic zeolite in pellet form can be used, as well as a variety of plant-derived absorbents, including cornmeal, straw, and sawdust. The zeolite bed can be regenerated essentially an unlimited number of times by drying it with a blast of hot carbon dioxide. Cornmeal and other plant-derived absorbents cannot readily be regenerated, but where ethanol is made from grain, they are often available at low cost. Absolute ethanol produced this way has no residual benzene, and can be used to fortify port and sherry in traditional winery operations.
+Membranes and reverse osmosis[edit]
+Membranes can also be used to separate ethanol and water. Membrane-based separations are not subject to the limitations of the water-ethanol azeotrope because the separations are not based on vapor-liquid equilibria. Membranes are often used in the so-called hybrid membrane distillation process. This process uses a pre-concentration distillation column as first separating step. The further separation is then accomplished with a membrane operated either in vapor permeation or pervaporation mode. Vapor permeation uses a vapor membrane feed and pervaporation uses a liquid membrane feed.
+Other techniques[edit]
+A variety of other techniques have been discussed, including the following:[113]
+Direct electrochemical reduction of carbon dioxide to ethanol under ambient conditions using copper nanoparticles on a carbon nanospike film as the catalyst;[120]
+Extraction of ethanol from grain mash by supercritical carbon dioxide;
+Pervaporation;
+Fractional freezing is also used to concentrate fermented alcoholic solutions, such as traditionally made Applejack (beverage);
+Pressure swing adsorption.[121]
+Grades of ethanol[edit]
+Denatured alcohol[edit]
+Main article: Denatured alcohol
+Pure ethanol and alcoholic beverages are heavily taxed as psychoactive drugs, but ethanol has many uses that do not involve its consumption. To relieve the tax burden on these uses, most jurisdictions waive the tax when an agent has been added to the ethanol to render it unfit to drink. These include bittering agents such as denatonium benzoate and toxins such as methanol, naphtha, and pyridine. Products of this kind are called denatured alcohol.[122][123]
+Absolute alcohol[edit]
+Absolute or anhydrous alcohol refers to ethanol with a low water content. There are various grades with maximum water contents ranging from 1% to a few parts per million (ppm) levels. If azeotropic distillation is used to remove water, it will contain trace amounts of the material separation agent (e.g. benzene).[124] Absolute alcohol is not intended for human consumption. Absolute ethanol is used as a solvent for laboratory and industrial applications, where water will react with other chemicals, and as fuel alcohol. Spectroscopic ethanol is an absolute ethanol with a low absorbance in ultraviolet and visible light, fit for use as a solvent in ultraviolet-visible spectroscopy.[125]
+Pure ethanol is classed as 200 proof in the U.S., equivalent to 175 degrees proof in the UK system.[126]
+Rectified spirits[edit]
+Rectified spirit, an azeotropic composition of 96% ethanol containing 4% water, is used instead of anhydrous ethanol for various purposes. Wine spirits are about 94% ethanol (188 proof). The impurities are different from those in 95% (190 proof) laboratory ethanol.[127]
+Reactions[edit]
+For more details on this topic, see Alcohol.
+Ethanol is classified as a primary alcohol, meaning that the carbon its hydroxyl group attaches to has at least two hydrogen atoms attached to it as well. Many ethanol reactions occur at its hydroxyl group.
+Ester formation[edit]
+In the presence of acid catalysts, ethanol reacts with carboxylic acids to produce ethyl esters and water:
+RCOOH + HOCH2CH3  RCOOCH2CH3 + H2O
+This reaction, which is conducted on large scale industrially, requires the removal of the water from the reaction mixture as it is formed. Esters react in the presence of an acid or base to give back the alcohol and a salt. This reaction is known as saponification because it is used in the preparation of soap. Ethanol can also form esters with inorganic acids. Diethyl sulfate and triethyl phosphate are prepared by treating ethanol with sulfur trioxide and phosphorus pentoxide respectively. Diethyl sulfate is a useful ethylating agent in organic synthesis. Ethyl nitrite, prepared from the reaction of ethanol with sodium nitrite and sulfuric acid, was formerly used as a diuretic.
+Dehydration[edit]
+Strong acid desiccants cause the partial dehydration of ethanol to form diethyl ether and other byproducts. If the dehydration temperature exceeds around 160C (320F), full dehydration will occur and ethylene will be the main product.
+2 CH3CH2OH  CH3CH2OCH2CH3 + H2O (ca. 120 C)
+CH3CH2OH  H2C=CH2 + H2O (above 160 C)
+Combustion[edit]
+Complete combustion of ethanol forms carbon dioxide and water:
+C2H5OH (l) + 3 O2 (g)  2 CO2 (g) + 3 H2O (l); Hc = 1371kJ/mol[128] = 29.8kJ/g = 327kcal/mol = 7.1kcal/g
+C2H5OH (l) + 3 O2 (g)  2 CO2 (g) + 3 H2O (g); Hc = 1236kJ/mol = 26.8kJ/g = 295.4kcal/mol = 6.41 kcal/g[129]
+Specific heat = 2.44 kJ/(kgK)
+Acid-base chemistry[edit]
+Ethanol is a neutral molecule and the pH of a solution of ethanol in water is nearly 7.00. Ethanol can be quantitatively converted to its conjugate base, the ethoxide ion (CH3CH2O), by reaction with an alkali metal such as sodium:[96]
+2 CH3CH2OH + 2 Na  2 CH3CH2ONa + H2
+or a very strong base such as sodium hydride:
+CH3CH2OH + NaH  CH3CH2ONa + H2
+The acidity of water and ethanol are nearly the same, as indicated by their pKa of 15.7 and 16 respectively. Thus, sodium ethoxide and sodium hydroxide exist in an equilibrium that is closely balanced:
+CH3CH2OH + NaOH  CH3CH2ONa + H2O
+Halogenation[edit]
+Ethanol is not used industrially as a precursor to ethyl halides, but the reactions are illustrative. Ethanol reacts with hydrogen halides to produce ethyl halides such as ethyl chloride and ethyl bromide via an SN2 reaction:
+CH3CH2OH + HCl  CH3CH2Cl + H2O
+These reactions require a catalyst such as zinc chloride.[118] HBr requires refluxing with a sulfuric acid catalyst.[118] Ethyl halides can, in principle, also be produced by treating ethanol with more specialized halogenating agents, such as thionyl chloride or phosphorus tribromide.[96][118]
+CH3CH2OH + SOCl2  CH3CH2Cl + SO2 + HCl
+Upon treatment with halogens in the presence of base, ethanol gives the corresponding haloform (CHX3, where X = Cl, Br, I). This conversion is called the haloform reaction.[130] " An intermediate in the reaction with chlorine is the aldehyde called chloral, which forms chloral hydrate upon reaction with water:[131]
+4 Cl2 + CH3CH2OH  CCl3CHO + 5 HCl
+CCl3CHO + H2O  CCl3C(OH)2H
+Oxidation[edit]
+Ethanol can be oxidized to acetaldehyde and further oxidized to acetic acid, depending on the reagents and conditions.[118] This oxidation is of no importance industrially, but in the human body, these oxidation reactions are catalyzed by the enzyme liver alcohol dehydrogenase. The oxidation product of ethanol, acetic acid, is a nutrient for humans, being a precursor to acetyl CoA, where the acetyl group can be spent as energy or used for biosynthesis.
+History[edit]
+For more details on this topic, see Distilled beverage.
+The fermentation of sugar into ethanol is one of the earliest biotechnologies employed by humans. The intoxicating effects of ethanol consumption have been known since ancient times. Ethanol has been used by humans since prehistory as the intoxicating ingredient of alcoholic beverages. Dried residue on 9,000-year-old pottery found in China suggests that Neolithic people consumed alcoholic beverages.[132]
+Although distillation was well known by the early Greeks and Arabs, the first recorded production of alcohol from distilled wine was by the School of Salerno alchemists in the 12th century.[133] The first to mention absolute alcohol, in contrast with alcohol-water mixtures, was Raymond Lull.[133]
+In 1796, German-Russian chemist Johann Tobias Lowitz(de) obtained pure ethanol by mixing partially purified ethanol (the alcohol-water azeotrope) with an excess of anhydrous alkali and then distilling the mixture over low heat.[134] French chemist Antoine Lavoisier described ethanol as a compound of carbon, hydrogen, and oxygen, and in 1807 Nicolas-Thodore de Saussure determined ethanol's chemical formula.[135][136] Fifty years later, Archibald Scott Couper published the structural formula of ethanol. It was one of the first structural formulas determined.[137]
+Ethanol was first prepared synthetically in 1825 by Michael Faraday. He found that sulfuric acid could absorb large volumes of coal gas.[138] He gave the resulting solution to Henry Hennell, a British chemist, who found in 1826 that it contained "sulphovinic acid" (ethyl hydrogen sulfate).[139] In 1828, Hennell and the French chemist Georges-Simon Serullas independently discovered that sulphovinic acid could be decomposed into ethanol.[140][141] Thus, in 1825 Faraday had unwittingly discovered that ethanol could be produced from ethylene (a component of coal gas) by acid-catalyzed hydration, a process similar to current industrial ethanol synthesis.[142]
+Ethanol was used as lamp fuel in the United States as early as 1840, but a tax levied on industrial alcohol during the Civil War made this use uneconomical. The tax was repealed in 1906.[143] Use as an automotive fuel dates back to 1908, with the Ford Model T able to run on petrol (gasoline) or ethanol.[144] It fuels some spirit lamps.
+Ethanol intended for industrial use is often produced from ethylene.[145] Ethanol has widespread use as a solvent of substances intended for human contact or consumption, including scents, flavorings, colorings, and medicines. In chemistry, it is both a solvent and a feedstock for the synthesis of other products. It has a long history as a fuel for heat and light, and more recently as a fuel for internal combustion engines.
+Society and culture[edit]
+For more details on this topic, see Drinking culture.
+A 2002 study found 41% of people fatally injured in traffic accidents were in alcohol related crashes.[146] The risk of a fatal car accident increases exponentially with the level of alcohol in the driver's blood.[147] Most drunk driving laws in the US governing the acceptable levels in the blood while driving or operating heavy machinery set typical upper limits of legal blood alcohol content (BAC) at 0.08%.[148]
+See also[edit]
+Pharmacy and Pharmacology portal
+1-Propanol
+2,2,2-Trichloroethanol
+Breathalyzer
+Butanol fuel
+Ethanol (data page)
+Cellulosic ethanol commercialization
+Ethenol
+Ethynol
+Isopropyl alcohol
+Rubbing alcohol
+Timeline of alcohol fuel
+Ethanol induced non-lamellar phases in phospholipids
+References[edit]
+^ a b "Ethanol  Compound Summary". The PubChem Project. USA: National Center for Biotechnology Information.
+^ a b c d e Haynes, William M., ed. (2011). CRC Handbook of Chemistry and Physics (92nd ed.). Boca Raton, FL: CRC Press. p.3.246. ISBN1439855110.
+^ Ballinger, P.; Long, F.A. (1960). "Acid Ionization Constants of Alcohols. II. Acidities of Some Substituted Methanols and Related Compounds1,2". Journal of the American Chemical Society. 82 (4): 795798. doi:10.1021/ja01489a008.
+^ Arnett, E.M.; Venkatasubramaniam, K.G. (1983). "Thermochemical acidities in three superbase systems". J. Org. Chem. 48 (10): 15691578. doi:10.1021/jo00158a001.
+^ Lide, David R., ed. (2012). CRC Handbook of Chemistry and Physics (92 ed.). Boca Raton, FL.: CRC Press/Taylor and Francis. pp.6232.
+^ Lide, David R., ed. (2008). CRC Handbook of Chemistry and Physics (89 ed.). Boca Raton: CRC Press. pp.955.
+^ Stogner, John M.; Eassey, John M.; Baldwin, Julie Marie; Miller, Bryan Lee (September 2014). "Innovative alcohol use: Assessing the prevalence of alcohol without liquid and other non-oral routes of alcohol administration". Drug and Alcohol Dependence. 142: 7478. doi:10.1016/j.drugalcdep.2014.05.026. PMID25012895.
+^ Gilman, Jodi M; Ramchandani, Vijay A; Crouss, Tess; Hommer, Daniel W (28 September 2011). "Subjective and Neural Responses to Intravenous Alcohol in Young Adults with Light and Heavy Drinking Patterns". Neuropsychopharmacology. 37 (2): 467477. doi:10.1038/npp.2011.206. PMID21956438.
+^ Swift, Robert (December 2003). "Direct measurement of alcohol and its metabolites". Addiction. 98: 7380. doi:10.1046/j.1359-6357.2003.00605.x. PMID14984244.
+^ a b c Becker, CE (12 August 2013). "The Clinical Pharmacology of Alcohol". California Medicine. 113 (3): 3745. PMC1501558. PMID5457514.
+^ Schmidt, Alexander (1974), Memorandum of Understanding Between The Bureau of Alcohol, Tobacco and Firearms and The Food and Drug Administration regarding the Promulgation and Enforcement of the Labeling Regulations Promulgated under the Federal Alcohol Administration Act, Washington, D.C.: Food and Drug Administration, retrieved 24 June 2015
+^ "Alcohol". Drugs.com. Retrieved 7 July 2015.
+^ Vengeliene, V; Bilbao, A; Molander, A; Spanagel, R (May 2008). "Neuropharmacology of alcohol addiction". British Journal of Pharmacology. 154 (2): 299315. doi:10.1038/bjp.2008.30. PMC2442440. PMID18311194. (Compulsive alcohol use) occurs only in a limited proportion of about 1015% of alcohol users....
+^ WHO Expert Committee on Problems Related to Alcohol Consumption: second report. (PDF). Geneva, Switzerland: World Health Organization. 2007. p.23. ISBN9789241209441. Retrieved 3 March 2015. ...alcohol dependence (is) a substantial risk of regular heavy drinking...
+^ "10th Special Report to the U.S. Congress on Alcohol and Health: Highlights from Current Research" (PDF). National Institute of Health. National Institute on Alcohol Abuse and Alcoholism. June 2000. p.134. Retrieved 21 October 2014. The brain is a major target for the actions of alcohol, and heavy alcohol consumption has long been associated with brain damage. Studies clearly indicate that alcohol is neurotoxic, with direct effects on nerve cells. Chronic alcohol abusers are at additional risk for brain injury from related causes, such as poor nutrition, liver disease, and head trauma.
+^ Brust, J. C. M. (2010). "Ethanol and Cognition: Indirect Effects, Neurotoxicity and Neuroprotection: A Review". International Journal of Environmental Research and Public Health. 7 (4): 154057. doi:10.3390/ijerph7041540. PMC2872345. PMID20617045.
+^ "the definition of ethyl". Dictionary.com. Retrieved 2016-03-12.
+^ Liebig, Justus (1834) "Ueber die Constitution des Aethers und seiner Verbindungen" (On the constitution of ether and its compounds), Annalen der Pharmacie, 9: 139. From page 18: "Bezeichnen wir die Kohlenwasserstoffverbindung 4C + 10H als das Radikal des Aethers mit E2 und nennen es Ethyl, ..." (Let us designate the hydrocarbon compound 4C + 10H as the radical of ether with E2 and name it ethyl ...).
+^ Harper, Douglas. "ethyl". Online Etymology Dictionary.
+^ For a report on the 1892 International Conference on Chemical Nomenclature, see:
+Armstrong, Henry (1892). "The International Conference on Chemical Nomenclature". Nature. 46 (1177): 5659. Bibcode:1892Natur..46...56A. doi:10.1038/046056c0.
+Armstrong's report is reprinted with the resolutions in English in: Armstrong, Henry (1892). "The International Conference on Chemical Nomenclature". The Journal of Analytical and Applied Chemistry. 6: 390400 (398). The alcohols and the phenols will be called after the name of the hydrocarbon from which they are derived, terminated with the suffix ol (ex. pentanol, pentenol, etc.)
+^ OED; etymonline.com
+^ McDonnell G, Russell AD; Russell (1999). "Antiseptics and disinfectants: activity, action, and resistance". Clin. Microbiol. Rev. 12 (1): 14779. PMC88911. PMID9880479.
+^ Calesnick, B.; Vernick, H. (1971). "Antitussive activity of ethanol". Q J Stud Alcohol. 32 (2): 434441. PMID4932255.
+^ "Methanol poisoning". MedlinePlus. National Institute of Health. 30 January 2013. Retrieved 6 April 2015.
+^ a b Adams, K. E.; Rans, T. S. (Dec 2013). "Adverse reactions to alcohol and alcoholic beverages". Ann Allergy Asthma Immunol. 111 (6): 43945. doi:10.1016/j.anai.2013.09.016. PMID24267355.
+^ Alcohol use and safe drinking. US National Institutes of Health .
+^ "Appendix B - Transportation Energy Data Book". Center for Transportation Analysis of the Oak Ridge National Laboratory.
+^ a b Eyidogan, Muharrem; Ozsezen, Ahmet Necati; Canakci, Mustafa; Turkcan, Ali (2010). "Impact of alcoholgasoline fuel blends on the performance and combustion characteristics of an SI engine". Fuel. 89 (10): 27132720. doi:10.1016/j.fuel.2010.01.032.
+^ a b Thomas, George: "Overview of Storage Development DOE Hydrogen Program" (PDF).(99.6KB). Livermore, CA. Sandia National Laboratories. 2000.
+^ Thomas, George (2000). "Overview of Storage Development DOE Hydrogen Program" (PDF). Sandia National Laboratories. Retrieved 1 August 2009.
+^ "Availability of Sources of E85". Clean Air Trust. Retrieved 2015-07-27.
+^ Reel, M. (19 August 2006) "Brazil's Road to Energy Independence", The Washington Post.
+^ Rocket Racing League Unveils New Flying Hot Rod, by Denise Chow, Space.com, 26 April 2010. Retrieved 2010-04-27.
+^ Green, Ray. "Model T Ford Club Australia (Inc.)". Retrieved 24 June 2011.
+^ Ethanol 101. American Coalition for Ethanol.
+^ The Biofuels FAQs, The Biofuels Source Book, Energy Future Coalition, United Nations Foundation.
+^ California Air Resources Board, Definition of a Low Emission Motor Vehicle in Compliance with the Mandates of Health and Safety Code Section 39037.05, second release, October 1989
+^ Lowi, A. and Carter, W.P.L. (March 1990) "A Method for Evaluating the Atmospheric Ozone Impact of Actual Vehicle emissions", S.A.E. Technical Paper, Warrendale, PA.
+^ Jones, T.T.M. (2008) The Clean Fuels Report: A Quantitative Comparison Of Motor (engine) Fuels, Related Pollution and Technologies. researchandmarkets.com
+^ "Adoption of the Airborne Toxic Control Measure to Reduce Formaldehyde Emissions from Composite Wood Products". USA: Window and Door Manufacturers Association. 30 July 2008. Archived from the original on 9 March 2010.
+^ "2008 World Fuel Ethanol Production". U.S.: Renewable Fuels Association.
+^ "Tecnologia flex atrai estrangeiros". Agncia Estado.
+^ "First Commercial U.S. Cellulosic Ethanol Biorefinery Announced". Renewable Fuels Association. 20 November 2006. Retrieved 31 May 2011.
+^ Sweet sorghum for food, feed and fuel New Agriculturalist, January 2008.
+^ Developing a sweet sorghum ethanol value chain ICRISAT, 2013
+^ Horn, Miriam; Krupp, Fred (16 March 2009). Earth: The Sequel: The Race to Reinvent Energy and Stop Global Warming. W. W. Norton. p.85. ISBN978-0-393-06810-8.
+^ Mechanics see ethanol damaging small engines, Msnbc.com, 8 January 2008
+^ Darling, David. "The Internet Encyclopedia of Science: V-2".
+^ a b Braeunig, Robert A. "Rocket Propellants." (Website). Rocket & Space Technology, 2006. Retrieved 23 August 2007.
+^ "A Brief History of Rocketry." NASA Historical Archive, via science.ksc.nasa.gov.
+^ Badwal, S.P.S.; Giddey, S.; Kulkarni, A.; Goel, J.; Basu, S. (May 2015). "Direct ethanol fuel cells for transport and stationary applications  A comprehensive review". Applied Energy. 145: 80103. doi:10.1016/j.apenergy.2015.02.002.
+^ "Can Ethanol Fireplaces Be Cozy?". Wall Street Journal. Retrieved 2 March 2016.
+^ Nutt, D; King, LA; Saulsbury, W; Blakemore, C (24 March 2007). "Development of a rational scale to assess the harm of drugs of potential misuse.". Lancet (London, England). 369 (9566): 104753. doi:10.1016/s0140-6736(07)60464-4. PMID17382831.
+^ a b c d e How Your Body Processes Alcohol. Dummies.com. Retrieved 27 April 2013.[unreliable source?]
+^ Overview of Peptic Ulcer Disease: Etiology and Pathophysiology. Medscape.com. Retrieved 27 April 2013.
+^ a b Peptic Ulcer Disease (Stomach Ulcers) Cause, Symptoms, Treatments. Webmd.com. Retrieved 27 April 2013.
+^ Patel, Sheena; Behara, Rama; Swanson, Garth R.; Forsyth, Christopher B.; Voigt, Robin M.; Keshavarzian, Ali (December 2015). "Alcohol and the Intestine". Biomolecules. 5 (4): 25732588. doi:10.3390/biom5042573. PMC4693248. PMID26501334.
+^ "More than 3 million US women at risk for alcohol-exposed pregnancy". Centers for Disease Control and Prevention. Retrieved 3 March 2016.
+^ Agents Classified by the IARC Monographs, Volumes 1111. monographs.iarc.fr
+^ "Triglycerides". American Heart Association. Archived from the original on 27 August 2007. Retrieved 4 September 2007.
+^ Karahanian, E.; Quintanilla, M. A. E.; Tampier, L.; Rivera-Meza, M.; Bustamante, D.; Gonzalez-Lira, V. C.; Morales, P.; Herrera-Marschitz, M.; Israel, Y. (2011). "Ethanol as a Prodrug: Brain Metabolism of Ethanol Mediates its Reinforcing Effects". Alcoholism: Clinical and Experimental Research. 35 (4): 606612. doi:10.1111/j.1530-0277.2011.01439.x. PMC3142559. PMID21332529.
+^ a b Melis, M.; Enrico, P.; Peana, A. T.; Diana, M. (2007). "Acetaldehyde mediates alcohol activation of the mesolimbic dopamine system". European Journal of Neuroscience. 26 (10): 28242833. doi:10.1111/j.1460-9568.2007.05887.x. PMID18001279.
+^ a b c d e "Alcoholism  Homo sapiens (human) Database entry". KEGG Pathway. 29 October 2014. Retrieved 9 February 2015. As one of the primary mediators of the rewarding effects of alcohol, dopaminergic ventral tegmental area (VTA) projections to the nucleus accumbens (NAc) have been identified. Acute exposure to alcohol stimulates dopamine release into the NAc, which activates D1 receptors, stimulating PKA signaling and subsequent CREB-mediated gene expression, whereas chronic alcohol exposure leads to an adaptive downregulation of this pathway, in particular of CREB function. The decreased CREB function in the NAc may promote the intake of drugs of abuse to achieve an increase in reward and thus may be involved in the regulation of positive affective states of addiction. PKA signaling also affects NMDA receptor activity and may play an important role in neuroadaptation in response to chronic alcohol exposure.
+^ a b c d e f g h Kanehisa Laboratories (29 October 2014). "Alcoholism  Homo sapiens (human)". KEGG Pathway. Retrieved 31 October 2014.
+^ a b c d e f Malenka RC, Nestler EJ, Hyman SE (2009). "Chapter 15: Reinforcement and Addictive Disorders". In Sydor A, Brown RY. Molecular Neuropharmacology: A Foundation for Clinical Neuroscience (2nd ed.). New York: McGraw-Hill Medical. p.372. ISBN9780071481274. Despite the high concentrations required for its psychoactive effects, ethanol exerts specific actions on the brain. The initial effects of ethanol result primarily from facilitation of GABAA receptors and inhibition of NMDA glutamate receptors. At higher doses, ethanol also inhibits the functioning of most ligand- and voltage-gated ion channels. It is not known whether ethanol selectively affects these channels via direct low affinity binding or via nonspecific disruption of plasma membranes which then selectively influences these highly complex, multimeric, transmembrane proteins. Ethanol allosterically regulates the GABAA receptor to enhance GABA-activated Cl flux. The anxiolytic and sedative effects of ethanol, as well as those of barbiturates and benzodiazepines, result from enhancement of GABAergic function. Facilitation of GABAA receptor function is also believed to contribute to the reinforcing effects of these drugs. Not all GABAA receptors are ethanol sensitive.... Ethanol also acts as an NMDA antagonist by allosterically inhibiting the passage of glutamate-activated Na+ and Ca2+ currents through the NMDA receptor.... The reinforcing effects of ethanol are partly explained by its ability to activate mesolimbic dopamine circuitry, although it is not known whether this effect is mediated at the level of the VTA or NAc. It also is not known whether this activation of dopamine systems is caused primarily by facilitation of GABAA receptors or inhibition of NMDA receptors, or both. Ethanol reinforcement also is mediated in part by ethanol-induced release of endogenous opioid peptides within the mesolimbic dopamine system, although whether the VTA or NAc is the predominant site of such action is not yet known. Accordingly, the opioid receptor antagonist naltrexone reduces ethanol self-administration in animals and is used with modest effect to treat alcoholism in humans.
+^ Ruffle JK (November 2014). "Molecular neurobiology of addiction: what's all the ()FosB about?". Am J Drug Alcohol Abuse. 40 (6): 428437. doi:10.3109/00952990.2014.933840. PMID25083822.
+FosB as a therapeutic biomarker
+The strong correlation between chronic drug exposure and FosB provides novel opportunities for targeted therapies in addiction (118), and suggests methods to analyze their efficacy (119). Over the past two decades, research has progressed from identifying FosB induction to investigating its subsequent action (38). It is likely that FosB research will now progress into a new era  the use of FosB as a biomarker. If FosB detection is indicative of chronic drug exposure (and is at least partly responsible for dependence of the substance), then its monitoring for therapeutic efficacy in interventional studies is a suitable biomarker (Figure 2). Examples of therapeutic avenues are discussed herein....
+Conclusions
+FosB is an essential transcription factor implicated in the molecular and behavioral pathways of addiction following repeated drug exposure. The formation of FosB in multiple brain regions, and the molecular pathway leading to the formation of AP-1 complexes is well understood. The establishment of a functional purpose for FosB has allowed further determination as to some of the key aspects of its molecular cascades, involving effectors such as GluR2 (87,88), Cdk5 (93) and NFkB (100). Moreover, many of these molecular changes identified are now directly linked to the structural, physiological and behavioral changes observed following chronic drug exposure (60,95,97,102). New frontiers of research investigating the molecular roles of FosB have been opened by epigenetic studies, and recent advances have illustrated the role of FosB acting on DNA and histones, truly as a molecular switch (34). As a consequence of our improved understanding of FosB in addiction, it is possible to evaluate the addictive potential of current medications (119), as well as use it as a biomarker for assessing the efficacy of therapeutic interventions (121,122,124). Some of these proposed interventions have limitations (125) or are in their infancy (75). However, it is hoped that some of these preliminary findings may lead to innovative treatments, which are much needed in addiction.
+^ Nestler EJ (December 2013). "Cellular basis of memory for addiction". Dialogues Clin Neurosci. 15 (4): 431443. PMC3898681. PMID24459410. Despite the Importance of Numerous Psychosocial Factors, at its Core, Drug Addiction Involves a Biological Process: the ability of repeated exposure to a drug of abuse to induce changes in a vulnerable brain that drive the compulsive seeking and taking of drugs, and loss of control over drug use, that define a state of addiction.... A large body of literature has demonstrated that such FosB induction in D1-type NAc neurons increases an animal's sensitivity to drug as well as natural rewards and promotes drug self-administration, presumably through a process of positive reinforcement
+^ Robison AJ, Nestler EJ (November 2011). "Transcriptional and epigenetic mechanisms of addiction". Nat. Rev. Neurosci. 12 (11): 623637. doi:10.1038/nrn3111. PMC3272277. PMID21989194. FosB has been linked directly to several addiction-related behaviors... Importantly, genetic or viral overexpression of JunD, a dominant negative mutant of JunD which antagonizes FosB- and other AP-1-mediated transcriptional activity, in the NAc or OFC blocks these key effects of drug exposure14,2224. This indicates that FosB is both necessary and sufficient for many of the changes wrought in the brain by chronic drug exposure. FosB is also induced in D1-type NAc MSNs by chronic consumption of several natural rewards, including sucrose, high fat food, sex, wheel running, where it promotes that consumption14,2630. This implicates FosB in the regulation of natural rewards under normal conditions and perhaps during pathological addictive-like states.... FosB serves as one of the master control proteins governing this structural plasticity.
+^ Pohorecky LA, Brick J (1988). "Pharmacology of ethanol". Pharmacol. Ther. 36 (23): 335427. doi:10.1016/0163-7258(88)90109-X. PMID3279433.
+^ a b Yost, David A. (2002). "Acute care for alcohol intoxication" (PDF). 112 (6). Postgraduate Medicine Online. Archived from the original (PDF) on 14 December 2010. Retrieved 29 September 2007.
+^ Laizure, S. C.; Mandrell, T.; Gades, N. M.; Parker, R. B. (2003). "Cocaethylene metabolism and interaction with cocaine and ethanol: Role of carboxylesterases". Drug metabolism and disposition: the biological fate of chemicals. 31 (1): 1620. doi:10.1124/dmd.31.1.16. PMID12485948.
+^ Sakalo, V. S.; Romanenko, A. M.; Klimenko, I. A.; Persidski, IuV (1988). "Effects of chemotherapy on regional metastases of non-seminomatous tumors of the testis". Voprosy onkologii. 34 (10): 121924. PMID3188424.
+^ Lukas, Scott E.; Orozco, Sara (2001). "Ethanol increases plasma 9-tetrahydrocannabinol (THC) levels and subjective effects after marihuana smoking in human volunteers". Drug and Alcohol Dependence. 64 (2): 1439. doi:10.1016/S0376-8716(01)00118-1. PMID11543984.
+^ Repchinsky C (ed.) (2012). Compendium of pharmaceuticals and specialties, Ottawa: Canadian Pharmacists Association.[full citation needed]
+^ Aronson, I. K.; Rumsfield, J. A.; West, D. P.; Alexander, J.; Fischer, J. H.; Paloucek, F. P. (1987). "Evaluation of topical metronidazole gel in acne rosacea". Drug intelligence & clinical pharmacy. 21 (4): 346351. PMID2952478.
+^ a b SCS Pharmaceuticals. Flagyl IV and Flagyl I.V. RTU (metronidazole hydrochloride) prescribing information (dated 16 April 1997). In: Physicians desk reference. 48th ed. Montvale, NJ: Medical Economics Company Inc; 1998:2563-5.
+^ "Ethanol/metronidazole", p. 335 in Tatro DS, Olin BR, eds. Drug interaction facts. St. Louis: JB Lippincott Co, 1988, ISBN 0932686478.
+^ Santhakumar V, Wallner M, Otis TS (2007). "Ethanol acts directly on extrasynaptic subtypes of GABAA receptors to increase tonic inhibition". Alcohol. 41 (3): 21121. doi:10.1016/j.alcohol.2007.04.011. PMC2040048. PMID17591544.
+^ a b Spanagel R (April 2009). "Alcoholism: a systems approach from molecular physiology to addictive behavior". Physiol. Rev. 89 (2): 649705. doi:10.1152/physrev.00013.2008. PMID19342616.
+^ a b c Mykkynen T, Korpi ER (July 2012). "Acute effects of ethanol on glutamate receptors". Basic & Clinical Pharmacology & Toxicology. 111 (1): 413. doi:10.1111/j.1742-7843.2012.00879.x. PMID22429661.
+^ Sitte, Harald; Freissmuth, Michael (2 August 2006). Neurotransmitter Transporters. Springer Science & Business Media. pp.472. ISBN978-3-540-29784-0.
+^ Allen-Gipson DS, Jarrell JC, Bailey KL, Robinson JE, Kharbanda KK, Sisson JH, Wyatt TA (2009). "Ethanol Blocks Adenosine Uptake via Inhibiting the Nucleoside Transport System in Bronchial Epithelial Cells.". Alcohol Clin Exp Res. 33 (5): 7918. doi:10.1111/j.1530-0277.2009.00897.x. PMC2940831. PMID19298329.
+^ McCoy, HG; Cipolle, RJ; Ehlers, SM; Sawchuk, RJ; Zaske, DE (November 1979). "Severe methanol poisoning. Application of a pharmacokinetic model for ethanol therapy and hemodialysis.". Am J Med. 67 (5): 804807. doi:10.1016/0002-9343(79)90766-6. PMID507092.
+^ Minutes of Meeting. Technical Committee on Classification and Properties of Hazardous Chemical Data ( 1213 January 2010).
+^ a b "Safety data for ethyl alcohol". University of Oxford. 9 May 2008. Retrieved 3 January 2011.
+^ Nutrition Coordinating Center, University of Minnesota. "Primary Energy Sources". Regents of the University of Minnesota. Retrieved 15 July 2014.
+^ Boggan, Bill. "Metabolism of Ethyl Alcohol in the Body". Chemases.com. Retrieved 29 September 2007.
+^ Boggan, Bill. "Effects of Ethyl Alcohol on Organ Function". Chemases.com. Retrieved 29 September 2007.
+^ Sherwood, Lauralee; Kell, Robert; Ward, Christopher (2010). Human Physiology: From Cells to Systems. Cengage Learning. ISBN978-0-495-39184-5.[pageneeded]
+^ How Breathalyzers work. Electronics.howstuffworks.com
+^ "Alcohol effects on the digestive system". Alcoholrehab.com
+^ Agarwal DP, Goedde HW (1992). "Pharmacogenetics of alcohol metabolism and alcoholism". Pharmacogenetics. 2 (2): 4862. doi:10.1097/00008571-199204000-00002. PMID1302043.
+^ a b c Lide, D. R., ed. (2000). CRC Handbook of Chemistry and Physics 81st edition. CRC press. ISBN0-8493-0481-4.
+^ "What is the triple point of alcohol?". Webanswers.com. 31 December 2010.[scientific citation needed]
+^ a b c d Windholz, Martha (1976). The Merck index: an encyclopedia of chemicals and drugs (9th ed.). Rahway, N.J., U.S.A: Merck. ISBN0-911910-26-3.[pageneeded]
+^ a b c Morrison, Robert Thornton; Boyd, Robert Neilson (1972). Organic Chemistry (2nd ed.). Allyn and Bacon, inc. ISBN0-205-08452-4.[pageneeded]
+^ Dahlmann U, Schneider GM (1989). "(Liquid + liquid) phase equilibria and critical curves of (ethanol + dodecane or tetradecane or hexadecane or 2,2,4,4,6,8,8-heptamethylnonane) from 0.1 MPa to 120.0 MPa". J Chem Thermodyn. 21 (9): 9971004. doi:10.1016/0021-9614(89)90160-2.
+^ "Ethanol". Encyclopedia of chemical technology. 9. 1991. p.813.
+^ Costigan MJ, Hodges LJ, Marsh KN, Stokes RH, Tuxford CW (1980). "The Isothermal Displacement Calorimeter: Design Modifications for Measuring Exothermic Enthalpies of Mixing". Aust. J. Chem. 33 (10): 2103. doi:10.1071/CH9802103.
+^ Lei Z, Wang H, Zhou R, Duan Z (2002). "Influence of salt added to solvent on extractive distillation". Chem Eng J. 87 (2): 149156. doi:10.1016/S1385-8947(01)00211-X.
+^ Pemberton RC, Mash CJ (1978). "Thermodynamic properties of aqueous non-electrolyte mixtures II. Vapour pressures and excess Gibbs energies for water + ethanol at 303.15 to 363.15 K determined by an accurate static method". J Chem Thermodyn. 10 (9): 867888. doi:10.1016/0021-9614(78)90160-X.
+^ Merck Index of Chemicals and Drugs, 9th ed.; monographs 6575 through 6669
+^ "Flash Point and Fire Point". Nttworldwide.com.
+^ "Flash points of ethanol-based water solutions". Engineeringtoolbox.com. Retrieved 23 June 2011.
+^ Dudley, Robert (2004). "Ethanol, Fruit Ripening, and the Historical Origins of Human Alcoholism in Primate Frugivory". Integrative Comparative Biology. 44 (4): 315323. doi:10.1093/icb/44.4.315. PMID21676715.
+^ Graber, Cynthia (2008). "Fact or Fiction?: Animals Like to Get Drunk". Scientific American. Retrieved 23 July 2010.
+^ Leblov, Sylva; Sineck, Eva; Vankov, Vra (1974). "Pyruvate metabolism in germinating seeds during natural anaerobiosis". Biologia Plantarum. 16 (6): 406411. doi:10.1007/BF02922229.
+^ Schriver, A.; Schriver-Mazzuoli, L.; Ehrenfreund, P.; dHendecourt, L. (2007). "One possible origin of ethanol in interstellar medium: Photochemistry of mixed CO2C2H6 films at 11 K. A FTIR study". Chemical Physics. 334 (13): 128137. Bibcode:2007CP....334..128S. doi:10.1016/j.chemphys.2007.02.018.
+^ Turner, C; Spanel, P; Smith, D (2006). "A longitudinal study of ethanol and acetaldehyde in the exhaled breath of healthy volunteers using selected-ion flow-tube mass spectrometry". Rapid Communications in Mass Spectrometry. 20 (1): 618. doi:10.1002/rcm.2275. PMID16312013.
+^ Michaeleen Doucleff (17 September 2013). "Auto-Brewery Syndrome: Apparently, You Can Make Beer In Your Gut". NPR.
+^ Mills GA, Ecklund EE (1987). "Alcohols as Components of Transportation Fuels". Annual Review of Energy. 12: 4780. doi:10.1146/annurev.eg.12.110187.000403.
+^ Roberts, John D.; Caserio, Marjorie C. (1977). Basic Principles of Organic Chemistry. W. A. Benjamin, Inc. ISBN0-8053-8329-8.[pageneeded]
+^ a b c d Naim Kosaric, Zdravko Duvnjak, Adalbert Farkas, Hermann Sahm, Stephanie Bringer-Meyer, Otto Goebel and Dieter Mayer in "Ethanol" Ullmann's Encyclopedia of Industrial Chemistry, 2011, Wiley-VCH, Weinheim. doi:10.1002/14356007.a09_587.pub2(subscription required)
+^ "Ethanol". Encyclopedia of chemical technology. 9. 1991. p.82.
+^ Ethanol. essentialchemicalindustry.org
+^ Harrison, Tim (May 2014) Catalysis Web Pages for Pre-University Students V1_0. Bristol ChemLabS, School of Chemistry, University of Bristol
+^ Lodgsdon, J.E (1991). "Ethanol". In Howe-Grant, Mary; Kirk, Raymond E.; Othmer, Donald F.; Kroschwitz, Jacqueline I. Encyclopedia of chemical technology. 9 (4th ed.). New York: Wiley. p.817. ISBN0-471-52669-X.
+^ a b c d e Streitweiser, Andrew Jr.; Heathcock, Clayton H. (1976). Introduction to Organic Chemistry. MacMillan. ISBN0-02-418010-6.
+^ Clines, Tom (July 2006). "Brew Better Ethanol". Popular Science Online. Archived from the original on 3 November 2007.
+^ Song, Yang; Peng, Rui; Hensley, Dale K.; Bonnesen, Peter V.; Liang, Liangbo; Wu, Zili; Meyer, III, Harry M.; Chi, Miaofang; Ma, Cheng; Sumpter, Bobby G.; Rondinone, Adam J. (2016). "High-Selectivity Electrochemical Conversion of CO2 to Ethanol using a Copper Nanoparticle/N-Doped Graphene Electrode". ChemistrySelect (Preprint). doi:10.1002/slct.201601169.
+^ Jeong, Jun-Seong; Jeon, Hyungjin; Ko, Kyung-mo; Chung, Bongwoo; Choi, Gi-Wook (2012). "Production of anhydrous ethanol using various PSA (Pressure Swing Adsorption) processes in pilot plant". Renewable Energy. 42: 4145. doi:10.1016/j.renene.2011.09.027.
+^ "U-M Program to Reduce the Consumption of Tax-free Alcohol; Denatured Alcohol a Safer, Less Expensive Alternative" (PDF). University of Michigan. Retrieved 29 September 2007.
+^ Great Britain (2005). The Denatured Alcohol Regulations 2005. Statutory Instrument 2005 No. 1524.
+^ Bansal, Raj K.; Bernthsen, August (2003). A Textbook of Organic Chemistry. New Age International Limited. pp.402. ISBN978-81-224-1459-2.
+^ Christian, Gary D. (2003) Analytical chemistry, Vol. 1, Wiley, ISBN 0-471-21472-8[pageneeded]
+^ Andrews, Sudhir (1 August 2007). Textbook Of Food & Bevrge Mgmt. Tata McGraw-Hill Education. pp.268. ISBN978-0-07-065573-7.
+^ Kunkee, Ralph E.; Amerine, Maynard A. (1968). "Sugar and Alcohol Stabilization of Yeast in Sweet Wine". Appl Microbiol. 16 (7): 106775. PMC547590. PMID5664123.
+^ Rossini, Frederick D. (1937). "Heats of Formation of Simple Organic Molecules". Ind. Eng. Chem. 29 (12): 14241430. doi:10.1021/ie50336a024.
+^ Calculated from heats of formation from CRC Handbook of Chemistry and Physics, 49th Edition, 19681969.
+^ Chakrabartty, in Trahanovsky, Oxidation in Organic Chemistry, pp 343370, Academic Press, New York, 1978
+^ Reinhard Jira, Erwin Kopp, Blaine C. McKusick, Gerhard Rderer, Axel Bosch and Gerald Fleischmann "Chloroacetaldehydes" in Ullmann's Encyclopedia of Industrial Chemistry, 2007, Wiley-VCH, Weinheim. doi:10.1002/14356007.a06_527.pub2
+^ Roach, J. (18 July 2005). "9,000-Year-Old Beer Re-Created From Chinese Recipe". National Geographic News. Retrieved 3 September 2007.
+^ a b Forbes, Robert James (1948) A short history of the art of distillation, Brill, p. 89, ISBN 9004006176.
+^ Lowitz, T. (1796). "Anzeige eines, zur volkommen Entwasserung des Weingeistes nothwendig zu beobachtenden, Handgriffs"] (Report of a task that must be done for the complete dehydration of wine spirits [i.e., alcohol-water azeotrope])". Chemische Annalen fr die Freunde der Naturlehre, Aerznengelartheit, Haushaltungskunde und Manufakturen. Lorenz Von Crell. 1: 195204. See pp. 197198: Lowitz dehydrated the azeotrope by mixing it with a 2:1 excess of anhydrous alkali and then distilling the mixture over low heat.
+^ "Alcohol". 1911 Encyclopdia Britannica. LoveToKnow. Archived from the original on 21 August 2006.
+^ de Saussure, Thodore (1807). "Mmoire sur la composition de l'alcohol et de l'ther sulfurique". Journal de physique, de chimie, d'histoire naturelle et des arts. Fuchs. 64: 316354. In his 1807 paper, Saussure determined ethanol's composition only roughly; a more accurate analysis of ethanol appears on page 300 of his 1814 paper: de Saussure, Thodore (1814). "Nouvelles observations sur la composition de l'alcool et de l'ther sulfurique". Annales de chimie et de physique. Masson. 89: 273305.
+^ Couper AS (1858). "On a new chemical theory" (online reprint). Philosophical magazine. 16 (10416). Retrieved 3 September 2007.
+^ Faraday, M. (1825) "On new compounds of carbon and hydrogen, and on certain other products obtained during the decomposition of oil by heat," Philosophical Transactions of the Royal Society of London 115: 440466. In a footnote on page 448, Faraday notes the action of sulfuric acid on coal gas and coal-gas distillate; specifically, "The [sulfuric] acid combines directly with carbon and hydrogen; and I find when [the resulting compound is] united with bases [it] forms a peculiar class of salts, somewhat resembling the sulphovinates [i.e., ethyl sulfates], but still different from them."
+^ Hennell, H. (1826). "On the mutual action of sulphuric acid and alcohol, with observations on the composition and properties of the resulting compound". Philosophical Transactions of the Royal Society of London: Giving Some Accounts of the Present Undertakings, Studies, and Labours, of the Ingenious, in Many Considerable Parts of the World. Royal Society (London). 116: 240249. On page 248, Hennell mentions that Faraday gave him some sulfuric acid in which coal gas had dissolved and that he (Hennell) found that it contained "sulphovinic acid" (ethyl hydrogen sulfate).
+^ Hennell, H. (1828). "On the mutual action of sulfuric acid and alcohol, and on the nature of the process by which ether is formed". Philosophical Transactions of the Royal Society of London. 118: 365371. doi:10.1098/rstl.1828.0021. On page 368, Hennell produces ethanol from "sulfovinic acid" (ethyl hydrogen sulfate).
+^ Srullas, Georges-Simon (1828). Guyton de Morveau, Louis-Bernard; Gay-Lussac, Joseph Louis; Arago, Franois; Michel Eugne Chevreul; Marcellin Berthelot; leuthre lie Nicolas Mascart; Albin Haller, eds. "De l'action de l'acide sulfurique sur l'alcool, et des produits qui en rsultent". Annales de chimie et de physique. Masson. 39: 152186. On page 158, Srullas mentions the production of alcohol from "sulfate acid d'hydrogne carbon" (hydrocarbon acid sulfate).
+^ In 1855, the French chemist Marcellin Berthelot confirmed Faraday's discovery by preparing ethanol from pure ethylene. Berthelot, Marcellin (1855). Arago, Franois; Gay-Lussac, Joseph Louis, eds. "Sur la formation de l'alcool au moyen du bicarbure d'hydrogne (On the formation of alcohol by means of ethylene)". Annales de chimie et de physique. Chez Crochard. 43: 385405. (Note: The chemical formulas in Berthelot's paper are wrong because chemists at that time used the wrong atomic masses for the elements; e.g., carbon (6 instead of 12), oxygen (8 instead of 16), etc.)
+^ Siegel, Robert (15 February 2007). "Ethanol, Once Bypassed, Now Surging Ahead". NPR. Retrieved 22 September 2007.
+^ DiPardo, Joseph. "Outlook for Biomass Ethanol Production and Demand" (PDF). United States Department of Energy. Retrieved 22 September 2007.
+^ Myers, Richard L.; Myers, Rusty L. (2007). The 100 most important chemical compounds: a reference guide. Westport, Conn.: Greenwood Press. p.122. ISBN0-313-33758-6.
+^ Hingson R, Winter M; Winter (2003). "Epidemiology and consequences of drinking and driving". Alcohol Research & Health. 27 (1): 6378. PMID15301401.
+^ Naranjo CA, Bremner KE; Bremner (1993). "Behavioural correlates of alcohol intoxication". Addiction. 88 (1): 2535. doi:10.1111/j.1360-0443.1993.tb02761.x. PMID8448514.
+^ "Blood Alcohol Level Chart | Are You Legally Drunk? | BAC Level | DrivingLaws.org". drivinglaws.org. Retrieved 2016-01-28.
+Further reading[edit]
+The National Institute on Alcohol Abuse and Alcoholism maintains a database of alcohol-related health effects. ETOH Archival Database (19722003) Alcohol and Alcohol Problems Science Database.
+Boyce, John M., and Pittet Didier. (2003). "Hand Hygiene in Healthcare Settings". Centers for Disease Control, Atlanta, Georgia, United States.
+Onuki, Shinnosuke; Koziel, Jacek A.; van Leeuwen, Johannes; Jenks, William S.; Grewell, David; Cai, Lingshuang (June 2008). Ethanol production, purification, and analysis techniques: a review. 2008 ASABE Annual International Meeting. Providence, RI. Retrieved 16 February 2013.
+Sci-toys website explanation of US denatured alcohol designations
+Smith, M.G., and M. Snyder. (2005). "Ethanol-induced virulence of Acinetobacter baumannii". American Society for Microbiology meeting. Volume 1 5  9 June. Atlanta.
+External links[edit]
+Look up alcoholor ethanol in Wiktionary, the free dictionary.
+Wikimedia Commons has media related to Ethanol.
+Alcohol (Ethanol) at The Periodic Table of Videos (University of Nottingham)
+International Labour Organization ethanol safety information
+National Pollutant Inventory  Ethanol Fact Sheet
+CDC  NIOSH Pocket Guide to Chemical Hazards  Ethyl Alcohol
+National Institute of Standards and Technology chemical data on ethanol
+ChEBI  biology related
+Chicago Board of Trade news and market data on ethanol futures
+Calculation of vapor pressure, liquid density, dynamic liquid viscosity, surface tension of ethanol
+Ethanol History A look into the history of ethanol
+ChemSub Online: Ethyl alcohol
+Industrial ethanol production process flow diagram using ethylene and sulphuric acid
+Kyoto Encyclopedia of Genes and Genomes signal transduction pathway: KEGG  human alcohol addiction
+Pharmacology of ethanol
+v
+t
+e
+Cholinergics
+Receptor ligands
+mACh
+Agonists: 77-LH-28-1
+AC-42
+AC-260,584
+Aceclidine
+Acetylcholine
+AF30
+AF150(S)
+AF267B
+AFDX-384
+Alvameline
+AQRA-741
+Arecoline
+Bethanechol
+Butyrylcholine
+Carbachol
+CDD-0034
+CDD-0078
+CDD-0097
+CDD-0098
+CDD-0102
+Cevimeline
+Choline
+cis-Dioxolane
+Ethoxysebacylcholine
+Itameline
+LY-593,039
+L-689,660
+LY-2,033,298
+McNA343
+Methacholine
+Milameline
+Muscarine
+NGX-267
+Ocvimeline
+Oxotremorine
+PD-151,832
+Pilocarpine
+RS86
+Sabcomeline
+SDZ 210-086
+Sebacylcholine
+Suberyldicholine
+Talsaclidine
+Tazomeline
+Thiopilocarpine
+Vedaclidine
+VU-0029767
+VU-0090157
+VU-0152099
+VU-0152100
+VU-0238429
+WAY-132,983
+Xanomeline
+YM-796
+Antagonists: 3-Quinuclidinyl benzilate
+4-DAMP
+Aclidinium bromide
+Anisodamine
+Anisodine
+Antihistamines (first-generation) (e.g., brompheniramine, chlorphenamine, cyproheptadine, dimenhydrinate, diphenhydramine, doxylamine, mepyramine (pyrilamine), phenindamine, pheniramine, promethazine, tripelennamine, triprolidine)
+Atropine
+Atropine methonitrate
+Atypical antipsychotics (e.g., clozapine, olanzapine, quetiapine, zotepine)
+Benactyzine
+Benzatropine (benztropine)
+Benzilylcholine mustard
+Benzydamine
+BIBN 99
+Biperiden
+Bornaprine
+CAR-226,086
+CAR-301,060
+CAR-302,196
+CAR-302,282
+CAR-302,368
+CAR-302,537
+CAR-302,668
+Caramiphen
+Cloperastine
+CS-27349
+Cyclobenzaprine
+Cyclopentolate
+Darifenacin
+DAU-5884
+Dimethindene
+Dexetimide
+DIBD
+Dicyclomine (dicycloverine)
+Ditran
+EA-3167
+EA-3443
+EA-3580
+EA-3834
+Etanautine
+Etybenzatropine (ethybenztropine)
+Flavoxate
+Himbacine
+HL-031,120
+Ipratropium bromide
+J-104,129
+Hyoscyamine
+Mamba toxin 3
+Mamba toxin 7
+Mazaticol
+Mebeverine
+Methoctramine
+Metixene
+N-Ethyl-3-piperidyl benzilate
+N-Methyl-3-piperidyl benzilate
+Orphenadrine
+Otenzepad
+Oxybutynin
+PBID
+PD-102,807
+PD-0298029
+Phenglutarimide
+Phenyltoloxamine
+Pipenzolate bromide
+Pirenzepine
+Piroheptine
+Procyclidine
+Profenamine
+Revefenacin
+RU-47,213
+SCH-57,790
+SCH-72,788
+SCH-217,443
+Scopolamine (hyoscine)
+Sofpironium bromide
+Solifenacin
+Telenzepine
+Tetracyclic antidepressants (e.g., amoxapine, maprotiline, mianserin, mirtazapine)
+Timepidium bromide
+Tiotropium bromide
+Tolterodine
+Tricyclic antidepressants (e.g., amitriptyline, butriptyline, clomipramine, desipramine, dosulepin (dothiepin), doxepin, imipramine, lofepramine, nortriptyline, protriptyline, trimipramine)
+Trihexyphenidyl
+Tripitamine
+Tropacine
+Tropatepine
+Tropicamide
+Typical antipsychotics (e.g., chlorpromazine, loxapine, thioridazine)
+WIN-2299
+Xanomeline
+Zamifenacin
+nACh
+Agonists: 5-HIAA
+A-84,543
+A-366,833
+A-582,941
+A-867,744
+ABT-202
+ABT-418
+ABT-560
+ABT-894
+Acetylcholine
+Altinicline
+Anabasine
+Anatoxin-a
+AR-R17779
+Butinoline
+Butyrylcholine
+Carbachol
+Choline
+Cotinine
+Cytisine
+Decamethonium
+Desformylflustrabromine
+Dianicline
+Dimethylphenylpiperazinium
+Epibatidine
+Epiboxidine
+Ethanol
+Ethoxysebacylcholine
+EVP-4473
+EVP-6124
+Galantamine
+GTS-21
+Ispronicline
+Ivermectin
+Levamisole
+Lobeline
+MEM-63,908 (RG-3487)
+Morantel
+Nicotine (tobacco)
+NS-1738
+PHA-543,613
+PHA-709,829
+PNU-120,596
+PNU-282,987
+Pozanicline
+Rivanicline
+RJR-2429
+Sazetidine A
+SB-206553
+Sebacylcholine
+SIB-1508Y
+SIB-1553A
+SSR-180,711
+Suberyldicholine
+Suxamethonium (succinylcholine)
+TC-1698
+TC-1734
+TC-1827
+TC-2216
+TC-5214
+TC-5619
+TC-6683
+Tebanicline
+Tropisetron
+UB-165
+Varenicline
+WAY-317,538
+XY-4083
+Antagonists: 18-MAC
+18-MC
+-Neurotoxins (e.g., -bungarotoxin, -cobratoxin, -conotoxin, many others)
+ABT-126
+Alcuronium
+Allopregnanolone
+Amantadine
+Anatruxonium
+AQW051
+Atracurium
+Barbiturates (e.g., pentobarbital, sodium thiopental)
+Bungarotoxins (e.g., -bungarotoxin, -bungarotoxin)
+Bupropion
+Chandonium
+Chlorisondamine
+Cisatracurium
+Coclaurine
+Coronaridine
+Cyclopropane
+Dacuronium
+Decamethonium
+Dehydronorketamine
+Desflurane
+Dextromethorphan
+Dextropropoxyphene
+Dextrorphan
+Diadonium
+DHE
+Dihydrochandonium
+Dimethyltubocurarine (metocurine)
+Dipyrandium
+Dizocilpine (MK-801)
+Doxacurium
+Encenicline
+Enflurane
+Esketamine
+Fazadinium
+Gallamine
+Halothane
+Hexafluronium
+Hexamethonium (benzohexonium)
+Hydroxybupropion
+Hydroxynorketamine
+Ibogaine
+Isoflurane
+Ketamine
+Kynurenic acid
+Laudexium (laudolissin)
+Levacetylmethadol
+Levomethadone
+Malouetine
+ME-18-MC
+Mecamylamine
+Memantine
+Methadone
+Methorphan (racemethorphan)
+Methyllycaconitine
+Metocurine
+Mivacurium
+Morphanol (racemorphan)
+Neramexane
+Nitrous oxide
+Norketamine
+Pancuronium bromide
+Pempidine
+Pentamine
+Pentolinium
+Phencyclidine
+Pipecuronium
+Progesterone
+Promegestone
+Radafaxine
+Rapacuronium
+Reboxetine
+Rocuronium
+Sevoflurane
+Surugatoxin
+Thiocolchicoside
+Toxiferine
+Tramadol
+Trimetaphan camsilate (trimethaphan camsylate)
+Tropeinium
+Tubocurarine
+Vanoxerine
+Vecuronium
+Xenon
+Transporter ligands
+CHT
+Inhibitors: Hemicholinium-3 (hemicholine)
+Triethylcholine
+Enhancers: Coluracetam
+VAChT
+Inhibitors: Vesamicol
+Enzyme modulators
+ChAT
+Inhibitors: 1-(-Benzoylethyl)pyridinium
+2-(-Naphthoyl)ethyltrimethylammonium
+3-Chloro-4-stillbazole
+4-(1-Naphthylvinyl)pyridine
+Acetylseco hemicholinium-3
+Acryloylcholine
+AF64A
+B115
+BETA
+CM-54,903
+N,N-Dimethylaminoethylacrylate
+N,N-Dimethylaminoethylchloroacetate
+AChE
+Inhibitors: Reversible: Carbamates: Aldicarb
+Bendiocarb
+Bufencarb
+Caffeine
+Carbaryl
+Carbendazim
+Carbetamide
+Carbofuran
+Chlorbufam
+Chloropropham
+Ethienocarb
+Ethiofencarb
+Fenobucarb
+Fenoxycarb
+Formetanate
+Furadan
+Itopride
+Ladostigil
+Methiocarb
+Methomyl
+Miotine
+Oxamyl
+Phenmedipham
+Pinmicarb
+Pirimicarb
+Propamocarb
+Propham
+Propoxur; Stigmines: Distigmine bromide
+Eptastigmine
+Ganstigmine
+Neostigmine
+Phenserine
+Physostigmine
+Pyridostigmine bromide
+Quilostigmine
+Rivastigmine
+Terestigmine; Others: Acotiamide
+Ambenonium
+Donepezil
+Caffeine
+Edrophonium
+Galantamine
+Huperzine A
+Ipidacrine
+Minaprine
+Tacrine
+Zanapezil
+Irreversible: Organophosphates: Acephate
+Azinphos-methyl
+Bensulide
+Cadusafos
+Chlorethoxyfos
+Chlorfenvinphos
+Chlorpyrifos
+Chlorpyrifos-methyl
+Coumaphos
+Cyclosarin
+Demeton
+Demeton-S-methyl
+Diazinon
+Dichlorvos
+Dicrotophos
+Diisopropyl fluorophosphate
+Diisopropylphosphate
+Dimethoate
+Dioxathion
+Disulfoton
+EA-3148
+Echothiophate
+Ethion
+Ethoprop
+Fenamiphos
+Fenitrothion
+Fenthion
+Fosthiazate
+GV
+Isofluorophate
+Isoxathion
+Malaoxon
+Malathion
+Methamidophos
+Methidathion
+Metrifonate
+Mevinphos
+Monocrotophos
+Naled
+Novichok agent
+Omethoate
+Oxydemeton-methyl
+Paraoxon
+Parathion
+Parathion-methyl
+Phorate
+Phosalone
+Phosmet
+Phoxim
+Pirimiphos-methyl
+Sarin
+Soman
+Tabun
+Tebupirimfos
+Temefos
+Terbufos
+Tetrachlorvinphos
+Tribufos
+Trichlorfon
+VE
+VG
+VM
+VR
+VX; Others: Demecarium
+Fasciculins (green mamba toxins) (1, 2, 3, 4)
+Onchidal (Onchidella binneyi)
+Reactivators: Asoxime
+Obidoxime
+Pralidoxime
+BChE
+Inhibitors: Cymserine
+Many of the AChE inhibitors listed above
+Release modulators
+Inhibitors
+SNAP-25 inactivators: Botulinum toxin (A, C, E)
+VAMP inactivators: Botulinum toxin (B, D, F, G)
+Others: Bungarotoxins (-bungarotoxin, -bungarotoxin)
+Enhancers
+LPHN agonists: -Latrotoxin
+Others: Atracotoxin (e.g., robustoxin, versutoxin)
+Crotoxin
+Others
+Precursors /
+prodrugs
+Adafenoxate
+Choline (lecithin)
+Citicoline
+Cyprodenate
+Dimethylethanolamine
+Glycerophosphocholine
+Meclofenoxate (centrophenoxine)
+Phosphatidylcholine
+Phosphatidylethanolamine
+Phosphorylcholine
+Pirisudanol
+Cofactors
+Acetic acid
+Acetylcarnitine
+Acetyl-coA
+Vitamin B5
+v
+t
+e
+GABAA receptor positive allosteric modulators
+Alcohols
+Brometone
+Butanol
+Chloralodol
+Chlorobutanol (cloretone)
+Ethanol (drinking alcohol)
+Ethchlorvynol
+Isobutanol
+Isopropanol
+Menthol
+Methanol
+Methylpentynol
+Pentanol
+Petrichloral
+Propanol
+tert-Butanol (2M2P)
+tert-Pentanol (2M2B)
+Tribromoethanol
+Trichloroethanol
+Triclofos
+Trifluoroethanol
+Barbiturates
+(-)-DMBB
+Allobarbital
+Alphenal
+Amobarbital
+Aprobarbital
+Barbexaclone
+Barbital
+Benzobarbital
+Benzylbutylbarbiturate
+Brallobarbital
+Brophebarbital
+Butabarbital/Secbutabarbital
+Butalbital
+Buthalital
+Butobarbital
+Butallylonal
+Carbubarb
+CP-1414S
+Crotylbarbital
+Cyclobarbital
+Cyclopentobarbital
+Difebarbamate
+Enallylpropymal
+Ethallobarbital
+Eterobarb
+Febarbamate
+Heptabarb
+Heptobarbital
+Hexethal
+Hexobarbital
+Metharbital
+Methitural
+Methohexital
+Methylphenobarbital
+Narcobarbital
+Nealbarbital
+Pentobarbital
+Phenallymal
+Phenobarbital
+Phetharbital
+Primidone
+Probarbital
+Propallylonal
+Propylbarbital
+Proxibarbital
+Reposal
+Secobarbital
+Sigmodal
+Spirobarbital
+Talbutal
+Tetrabamate
+Tetrabarbital
+Thialbarbital
+Thiamylal
+Thiobarbital
+Thiobutabarbital
+Thiopental
+Thiotetrabarbital
+Valofane
+Vinbarbital
+Vinylbital
+Benzodiazepines
+2-Oxoquazepam
+3-Hydroxyphenazepam
+Adinazolam
+Alprazolam
+Arfendazam
+Avizafone
+Bentazepam
+Bretazenil
+Bromazepam
+Brotizolam
+Camazepam
+Carburazepam
+Chlordiazepoxide
+Ciclotizolam
+Cinazepam
+Cinolazepam
+Clazolam
+Climazolam
+Clobazam
+Clonazepam
+Clonazolam
+Clorazepate
+Clotiazepam
+Cloxazolam
+Cyprazepam
+Delorazepam
+Demoxepam
+Diazepam
+Diclazepam
+Doxefazepam
+Elfazepam
+Estazolam
+Ethyl carfluzepate
+Ethyl dirazepate
+Ethyl loflazepate
+Etizolam
+EVT-201
+FG-8205
+Fletazepam
+Flubromazepam
+Flubromazolam
+Fludiazepam
+Flunitrazepam
+Flurazepam
+Flutazolam
+Flutemazepam
+Flutoprazepam
+Fosazepam
+Gidazepam
+Halazepam
+Haloxazolam
+Iclazepam
+Imidazenil
+Irazepine
+Ketazolam
+Lofendazam
+Lopirazepam
+Loprazolam
+Lorazepam
+Lormetazepam
+Meclonazepam
+Medazepam
+Menitrazepam
+Metaclazepam
+Mexazolam
+Midazolam
+Motrazepam
+N-Desalkylflurazepam
+Nifoxipam
+Nimetazepam
+Nitrazepam
+Nitrazepate
+Nitrazolam
+Nordazepam
+Nortetrazepam
+Oxazepam
+Oxazolam
+Phenazepam
+Pinazepam
+Pivoxazepam
+Prazepam
+Premazepam
+Proflazepam
+Pyrazolam
+QH-II-66
+Quazepam
+Reclazepam
+Remimazolam
+Rilmazafone
+Ripazepam
+Ro48-6791
+Ro48-8684
+SH-053-R-CH3-2F
+Sulazepam
+Temazepam
+Tetrazepam
+Tolufazepam
+Triazolam
+Triflubazam
+Triflunordazepam (Ro5-2904)
+Tuclazepam
+Uldazepam
+Zapizolam
+Zolazepam
+Zomebazam
+Carbamates
+Carisbamate
+Carisoprodol
+Clocental
+Cyclarbamate
+Difebarbamate
+Emylcamate
+Ethinamate
+Febarbamate
+Felbamate
+Hexapropymate
+Lorbamate
+Mebutamate
+Meprobamate
+Nisobamate
+Pentabamate
+Phenprobamate
+Procymate
+Styramate
+Tetrabamate
+Tybamate
+Flavonoids
+6-Methylapigenin
+Ampelopsin (dihydromyricetin)
+Apigenin
+Baicalein
+Baicalin
+Catechin
+EGC
+EGCG
+Hispidulin
+Linarin
+Luteolin
+Rc-OMe
+Skullcap constituents (e.g., baicalin)
+Wogonin
+Imidazoles
+Etomidate
+Metomidate
+Propoxate
+Kava constituents
+10-Methoxyyangonin
+11-Methoxyyangonin
+11-Hydroxyyangonin
+Desmethoxyyangonin
+11-Methoxy-12-hydroxydehydrokavain
+7,8-Dihydroyangonin
+Kavain
+5-Hydroxykavain
+5,6-Dihydroyangonin
+7,8-Dihydrokavain
+5,6,7,8-Tetrahydroyangonin
+5,6-Dehydromethysticin
+Methysticin
+7,8-Dihydromethysticin
+Yangonin
+Monoureides
+Acecarbromal
+Apronal (apronalide)
+Bromisoval
+Carbromal
+Capuride
+Ectylurea
+Neuroactive steroids
+Acebrochol
+Allopregnanolone (SAGE-547)
+Alfadolone
+Alfaxalone
+Anabolic steroids
+3-Androstanediol
+Androstenol
+Androsterone
+Cholesterol
+DHDOC
+3-DHP
+5-DHP
+5-DHP
+DHT
+Etiocholanolone
+Ganaxolone
+Hydroxydione
+Minaxolone
+Org 20599
+Org 21465
+Pregnanolone (eltanolone)
+Progesterone
+Renanolone
+SAGE-105
+SAGE-217
+SAGE-324
+SAGE-516
+SAGE-689
+SAGE-872
+Testosterone
+THDOC
+Nonbenzodiazepines
+-Carbolines: Abecarnil
+Gedocarnil
+Harmane
+SL-651,498
+ZK-93423; Cyclopyrrolones: Eszopiclone
+Pagoclone
+Pazinaclone
+Suproclone
+Suriclone
+Zopiclone; Imidazopyridines: Alpidem
+DS-1
+Necopidem
+Saripidem
+Zolpidem; Pyrazolopyrimidines: Divaplon
+Fasiplon
+Indiplon
+Lorediplon
+Ocinaplon
+Panadiplon
+Taniplon
+Zaleplon; Others: Adipiplon
+CGS-8216
+CGS-9896
+CGS-13767
+CGS-20625
+CL-218,872
+CP-615,003
+CTP-354
+ELB-139
+GBLD-345
+JM-1232
+L-838,417
+Lirequinil (Ro41-3696)
+NS-2664
+NS-2710
+NS-11394
+Pipequaline
+ROD-188
+RWJ-51204
+SB-205,384
+SX-3228
+TGSC01AA
+TP-003
+TPA-023
+TP-13
+U-89843A
+U-90042
+Viqualine
+Y-23684
+Phenols
+Fospropofol
+Propofol
+Thymol
+Piperidinediones
+Glutethimide
+Methyprylon
+Piperidione
+Pyrithyldione
+Pyrazolopyridines
+Cartazolate
+Etazolate
+ICI-190,622
+Tracazolate
+Quinazolinones
+Afloqualone
+Cloroqualone
+Diproqualone
+Etaqualone
+Mebroqualone
+Mecloqualone
+Methaqualone
+Methylmethaqualone
+Nitromethaqualone
+SL-164
+Volatiles/gases
+Acetone
+Acetophenone
+Acetylglycinamide chloral hydrate
+Aliflurane
+Benzene
+Butane
+Butylene
+Centalun
+Chloral
+Chloral betaine
+Chloral hydrate
+Chloroform
+Cryofluorane
+Desflurane
+Dichloralphenazone
+Dichloromethane
+Diethyl ether
+Enflurane
+Ethyl chloride
+Ethylene
+Fluroxene
+Gasoline
+Halopropane
+Halothane
+Isoflurane
+Kerosine
+Methoxyflurane
+Methoxypropane
+Nitric oxide
+Nitrogen
+Nitrous oxide
+Norflurane
+Paraldehyde
+Propane
+Propylene
+Roflurane
+Sevoflurane
+Synthane
+Teflurane
+Toluene
+Trichloroethane (methyl chloroform)
+Trichloroethylene
+Vinyl ether
+Others/unsorted
+3-Hydroxybutanal
+-EMTBL
+AA-29504
+Avermectins (e.g., ivermectin)
+Bromide compounds (e.g., lithium bromide, potassium bromide, sodium bromide)
+Carbamazepine
+Chloralose
+Chlormezanone
+Clomethiazole
+DEABL
+Dihydroergolines (e.g., dihydroergocryptine, dihydroergosine, dihydroergotamine, ergoloid (dihydroergotoxine))
+DS2
+Efavirenz
+Etazepine
+Etifoxine
+Fenamates (e.g., flufenamic acid, mefenamic acid, niflumic acid, tolfenamic acid)
+Fluoxetine
+Flupirtine
+Hopantenic acid
+Lanthanum
+Lavender oil
+Lignans (e.g., 4-O-methylhonokiol, honokiol, magnolol, obovatol)
+Loreclezole
+Menthyl isovalerate (validolum)
+Monastrol
+Niacin
+Nicotinamide (niacinamide)
+Org 25,435
+Phenytoin
+Propanidid
+Retigabine (ezogabine)
+Safranal
+Seproxetine
+Stiripentol
+Sulfonylalkanes (e.g., sulfonmethane (sulfonal), tetronal, trional)
+Terpenoids (e.g., borneol)
+Topiramate
+Valerian constituents (e.g., isovaleric acid, isovaleramide, valerenic acid, valerenol)
+Unsorted benzodiazepine site PAMs: MRK-409 (MK-0343)
+TCS-1105
+TCS-1205
+See also: GABAergics
+v
+t
+e
+Glutamatergics
+Receptor
+(ligands)
+AMPA
+Agonists: Glutamate/active site agonists: 5-Fluorowillardiine
+Acromelic acid (acromelate)
+AMPA
+BOAA
+Domoic acid
+Glutamate
+Ibotenic acid
+Proline
+Quisqualic acid
+Willardiine; Positive allosteric modulators: Aniracetam
+Cyclothiazide
+CX-516
+CX-546
+CX-614
+Farampator (CX-691, Org 24448)
+CX-717
+CX-1739
+CX-1942
+Diazoxide
+Hydrochlorothiazide (HCTZ)
+IDRA-21
+LY-392,098
+LY-404,187
+LY-451,646
+LY-503,430
+Mibampator (LY-451,395)
+Org 26576
+Oxiracetam
+PEPA
+PF-04958242
+Piracetam
+Pramiracetam
+S-18986
+Sunifiram
+Unifiram
+Antagonists: ACEA-1011
+ATPO
+Becampanel
+Caroverine
+CNQX
+Dasolampanel
+DNQX
+Fanapanel (MPQX)
+GAMS
+GYKI-52466
+Kynurenic acid
+Kynurenine
+Licostinel (ACEA-1021)
+NBQX
+PNQX
+Selurampanel
+Tezampanel
+Theanine
+Topiramate
+YM90K
+Zonampanel; Negative allosteric modulators: Barbiturates (e.g., pentobarbital, sodium thiopental)
+Cyclopropane
+Enflurane
+Ethanol
+Evans blue
+GYKI-53,655
+Halothane
+Irampanel
+Isoflurane
+Perampanel
+Pregnenolone sulfate
+Talampanel
+NMDA
+Agonists: Glutamate/active site agonists: AMAA
+Aspartate
+Glutamate
+Homocysteic acid (L-HCA)
+Homoquinolinic acid
+Ibotenic acid
+NMDA
+Proline
+Quinolinic acid
+Tetrazolylglycine
+Theanine; Glycine site agonists: -Fluoro-D-alanine
+ACBD
+ACC (ACPC)
+ACPD
+AK-51
+Apimostinel (NRX-1074)
+B6B21
+CCG
+D-Alanine
+D-Cycloserine
+D-Serine
+DHPG
+Dimethylglycine
+Glycine
+HA-966
+L-687,414
+L-Alanine
+L-Serine
+Milacemide
+Neboglamine (nebostinel)
+Rapastinel (GLYX-13)
+Sarcosine; Polyamine site agonists: Spermidine
+Spermine; Other positive allosteric modulators: 24S-Hydroxycholesterol
+DHEA
+DHEA sulfate
+Pregnenolone sulfate
+SAGE-718
+Antagonists: Competitive antagonists: AP5 (APV)
+AP7
+CGP-37849
+CGP-39551
+CGP-39653
+CGP-40116
+CGS-19755
+CPP
+LY-233,053
+LY-235,959
+LY-274,614
+MDL-100,453
+Midafotel (d-CPPene)
+NPC-12,626
+NPC-17,742
+PBPD
+PEAQX
+Perzinfotel
+PPDA
+SDZ-220581
+Selfotel; Noncompetitive antagonists: ARR-15,896
+Caroverine
+Dexanabinol
+FPL-12495
+FR-115,427
+Hodgkinsine
+Magnesium
+MDL-27,266
+NPS-1506
+Psychotridine
+Zinc; Uncompetitive pore blockers: 2-MDP
+3-HO-PCP
+3-MeO-PCE
+3-MeO-PCMo
+3-MeO-PCP
+4-MeO-PCP
+8A-PDHQ
+18-MC
+-Endopsychosin
+Alaproclate
+Amantadine
+Aptiganel
+Arketamine
+ARL-12,495
+ARL-15,896-AR
+ARL-16,247
+Budipine
+Conaridine
+Delucemine
+Dexoxadrol
+Dextrallorphan
+Dieticyclidine
+Diphenidine
+Dizocilpine
+Ephenidine
+Esketamine
+Etoxadrol
+Eticyclidine
+Fluorolintane
+Gacyclidine
+Ibogaine
+Ibogamine
+Indantadol
+Ketamine
+Ketobemidone
+Lanicemine
+Loperamide
+Memantine
+Methadone (Levomethadone)
+Methorphan (Dextromethorphan
+Levomethorphan)
+Methoxetamine
+Methoxphenidine
+Milnacipran
+Morphanol (Dextrorphan
+Levorphanol)
+NEFA
+Neramexane
+Nitromemantine
+Nitrous oxide
+Noribogaine
+Norketamine
+Orphenadrine
+PCPr
+Pethidine (meperidine)
+Phencyclamine
+Phencyclidine
+Propoxyphene
+Remacemide
+Rhynchophylline
+Rimantadine
+Rolicyclidine
+Sabeluzole
+Tabernanthine
+Tenocyclidine
+Tiletamine
+Tramadol
+Xenon; Glycine site antagonists: 4-Cl-KYN (AV-101)
+5,7-DCKA
+7-CKA
+ACC
+ACEA-1011
+ACEA-1328
+AV-101
+Carisoprodol
+CGP-39653
+CNQX
+DNQX
+Felbamate
+Gavestinel
+GV-196,771
+Kynurenic acid
+Kynurenine
+L-689,560
+L-701,324
+Licostinel (ACEA-1021)
+LU-73,068
+MDL-105,519
+Meprobamate
+MRZ 2/576
+PNQX
+ZD-9379; NR2B subunit antagonists: Besonprodil
+CERC-301 (MK-0657)
+CO-101,244 (PD-174,494)
+Eliprodil
+Haloperidol
+Ifenprodil
+Isoxsuprine
+Nylidrin
+Ro8-4304
+Ro25-6981
+Traxoprodil; Polyamine site antagonists: Arcaine
+Co 101676
+Diaminopropane
+Diethylenetriamine
+Huperzine A
+Putrescine
+Ro 25-6981; Unclassified/unsorted antagonists: Bumetanide
+Chloroform
+Cyclopropane
+D-AA
+Diethyl ether
+Enflurane
+Ethanol
+Flufenamic acid
+Flupirtine
+Furosemide
+Halothane
+Isoflurane
+Metaphit
+Methoxyflurane
+Niflumic acid
+Pentamidine isethionate
+Piretanide
+Toluene
+Transcrocetin (saffron)
+Trichloroethane
+Trichloroethanol
+Trichloroethylene
+Xylene
+Kainate
+Agonists: Glutamate/active site agonists: 5-Bromowillardiine
+5-Iodowillardiine
+Acromelic acid (acromelate)
+AMPA
+ATPA
+Domoic acid
+Glutamate
+Ibotenic acid
+Kainic acid
+LY-339,434
+Proline
+Quisqualic acid
+SYM-2081; Positive allosteric modulators: Cyclothiazide
+Diazoxide
+Enflurane
+Halothane
+Isoflurane
+Antagonists: ACEA-1011
+CNQX
+Dasolampanel
+DNQX
+GAMS
+Kynurenic acid
+Licostinel (ACEA-1021)
+LY-382,884
+NBQX
+NS102
+Selurampanel
+Tezampanel
+Theanine
+Topiramate
+UBP-302; Negative allosteric modulators: Barbiturates (e.g., pentobarbital, sodium thiopental)
+Enflurane
+Ethanol
+Evans blue
+NS-3763
+Pregnenolone sulfate
+mGlu1
+Agonists: ACPD
+DHPG
+Glutamate
+Ibotenic acid
+Quisqualic acid
+Ro01-6128
+Ro67-4853
+Ro67-7476
+VU-71
+Antagonists: BAY 36-7620
+CPCCOEt
+Cyclothiazide
+LY-367,385
+LY-456,236
+MCPG
+NPS-2390
+mGlu2
+Agonists: BINA
+CBiPES
+DCG-IV
+Eglumegad
+Glutamate
+Ibotenic acid
+LY-379,268
+LY-404,039 (pomaglumetad)
+LY-487,379
+LY-566,332
+MGS-0028
+Pomaglumetad methionil (LY-2140023)
+Talaglumetad; Positive allosteric modulators: JNJ-40411813 (ADX-71149)
+Antagonists: APICA
+CECXG
+EGLU
+HYDIA
+LY-307,452
+LY-341,495
+MCPG
+MGS-0039
+PCCG-4; Negative allosteric modulators: Decoglurant
+RO4491533
+mGlu3
+Agonists: CBiPES
+DCG-IV
+Eglumegad
+Glutamate
+Ibotenic acid
+LY-379,268
+LY-404,039 (pomaglumetad)
+LY-487,379
+MGS-0028
+Pomaglumetad methionil (LY-2140023)
+Talaglumetad
+Antagonists: APICA
+CECXG
+EGLU
+HYDIA
+LY-307,452
+LY-341,495
+MCPG
+MGS-0039; Negative allosteric modulators: Decoglurant
+RO4491533
+mGlu4
+Agonists: Glutamate
+L-AP4
+PHCCC
+VU-001,171
+VU-0155,041; Positive allosteric modulators: MPEP
+Antagonists: CPPG
+MAP4
+MPPG
+MSOP
+MTPG
+UBP-1112
+mGlu5
+Agonists: ACPD
+ADX-47273
+CDPPB
+CHPG
+DFB
+DHPG
+Glutamate
+Ibotenic acid
+Quisqualic acid
+VU-1545
+Antagonists: CTEP
+DMeOB
+LY-344,545
+Mavoglurant
+MCPG
+NPS-2390
+Remeglurant
+SIB-1757
+SIB-1893; Negative allosteric modulators: Basimglurant
+Dipraglurant
+Fenobam
+GRN-529
+MPEP
+MTEP
+Raseglurant
+mGlu6
+Agonists: Glutamate
+L-AP4
+Antagonists: CPPG
+MAP4
+MPPG
+MSOP
+MTPG
+UBP-1112
+mGlu7
+Agonists: AMN082
+Glutamate
+L-AP4
+Antagonists: CPPG
+MAP4
+MMPIP
+MPPG
+MSOP
+MTPG
+UBP-1112
+mGlu8
+Agonists: DCPG
+Glutamate
+L-AP4
+Antagonists: CPPG
+MAP4
+MPPG
+MSOP
+MTPG
+UBP-1112
+Transporter
+(blockers)
+EAATs
+Amphetamine
+Aspartic acid (aspartate)
+cis-ACBD
+DHKA
+Glutamic acid (glutamate)
+HIP-A
+HIP-B
+Kainic acid
+L-(-)-threo-3-Hydroxyaspartic acid
+L-AA
+L-CCG-III ((2S,3S,4R)-CCG)
+L-Serine-O-sulphate (SOS)
+L-trans-2,4-PDC
+MPDC
+SYM-2081
+TBOA
+TFB-TBOA
+Theanine
+threo-3-Methylglutamic acid
+UCPH-101
+WAY-213,613
+vGluTs
+4-Methylene-L-glutamate
+6-(4'-Phenylstyryl)-QDC
+6-Biphenyl-4-yl-QDC
+7-CKA
+Acid red 114
+Amido black 10B (naphthol blue black)
+Bafilomycin A1
+Benzopurpurin 4B
+Bumetamide
+Chicago sky blue 6B
+Aspartic acid (aspartate)
+DIDS
+Direct blue 71
+Erythro-4-methyl-L-glutamic acid
+Evans blue
+Furosemide
+Glutamic acid (glutamate)
+Kynurenic acid
+Nigericin
+NPPB (N144)
+Ponceau SS
+Reactive blue 2
+Rose bengal
+SITS
+trans-ACDP
+Trypan blue
+Valinomycin
+Xanthurenic acid
+Enzyme
+(inhibitors)
+GAH
+BPTES
+CB-839
+DON
+AST
+2-Amino-3-butenoic acid
+AAOA
+AMB
+-DL-Methylene-aspartate
+Hydrazinosuccinate
+ALT
+-Chloro-L-alanine
+L-Cycloserine
+Propargylglycine
+GDH
+AAOA
+Bithionol
+Chloroquine
+EGCG
+GTP
+GW5074
+Hexachlorophene
+Hydroxylamine
+Palmitoyl-CoA
+Pyridoxal phosphate
+GS
+2-Aminoadipic acid
+JFD01307SC
+Methionine sulfoximine
+Phosphinothricin (glufosinate)
+GAD
+3-Mercaptopropionic acid
+AAOA
+L-Allylglycine
+Semicarbazide
+Others
+Precursors: GHB
+L-Glutamine
+Cofactors: -Ketoglutaric acid
+Iron
+Sulfur
+Vitamin B2
+Vitamin B3
+Prodrugs: Aceglutamide (to L-glutamine)
+Others: Acamprosate
+Cysteine
+Cytidine
+Cytisine
+Glutathione
+Glutathione disulfide
+Minocycline
+N-Acetylcysteine
+Riluzole
+S-Nitrosoglutathione
+Tianeptine
+See also: GABAergics  GHBergics  Glycinergics
+v
+t
+e
+Serotonin receptor modulators
+5-HT1 receptors
+5-HT1A
+Agonists: 8-OH-DPAT
+Adatanserin
+Amphetamine
+Antidepressants (e.g., etoperidone, nefazodone, trazodone, vilazodone, vortioxetine)
+Atypical antipsychotics (e.g., aripiprazole, asenapine, clozapine, lurasidone, quetiapine, ziprasidone)
+Azapirones (e.g., buspirone, eptapirone, gepirone, perospirone, tandospirone)
+Bay R 1531
+Befiradol
+BMY-14802
+Cannabidiol
+Dimemebfe
+Dopamine
+Ebalzotan
+Eltoprazine
+Ergolines (e.g., bromocriptine, cabergoline, dihydroergotamine, ergotamine, lisuride, LSD, methylergometrine (methylergonovine), methysergide, pergolide)
+F-11461
+F-12826
+F-13714
+F-14679
+F-15063
+F-15599
+Flesinoxan
+Flibanserin
+Flumexadol
+Lesopitron
+LY-293284
+LY-301317
+mCPP
+MKC-242
+Naluzotan
+NBUMP
+Osemozotan
+Oxaflozane
+Pardoprunox
+Piclozotan
+Rauwolscine
+Repinotan
+Roxindole
+RU-24969
+S-14506
+S-14671
+S-15535
+Sarizotan
+Serotonin (5-HT)
+SSR-181507
+Sunepitron
+Tryptamines (e.g., 5-CT, 5-MeO-DMT, 5-MT, bufotenin, DMT, indorenate, N-Me-5-HT, psilocin, psilocybin)
+TGBA01AD
+U-92016A
+Urapidil
+Vilazodone
+Xaliproden
+Yohimbine
+Antagonists: Atypical antipsychotics (e.g., iloperidone, risperidone, sertindole)
+AV965
+Beta blockers (e.g., alprenolol, cyanopindolol, iodocyanopindolol, oxprenolol, pindobind, pindolol, propranolol, tertatolol)
+BMY-7378
+CSP-2503
+Dotarizine
+Ergolines (e.g., metergoline)
+Flopropione
+GR-46611
+Isamoltane
+Lecozotan
+Mefway
+Metitepine (methiothepin)
+MIN-117 (WF-516)
+MPPF
+NAN-190
+Robalzotan
+S-15535
+SB-649915
+SDZ 216-525
+Spiperone
+Spiramide
+Spiroxatrine
+UH-301
+WAY-100135
+WAY-100635
+Xylamidine
+Unknown/unsorted: Ergolines (e.g., ergometrine (ergonovine))
+5-HT1B
+Agonists: CGS-12066A
+CP-93129
+CP-94253
+CP-122,288
+CP-135807
+Eltoprazine
+Ergolines (e.g., bromocriptine, dihydroergotamine, ergotamine, methylergometrine (methylergonovine), methysergide, pergolide)
+mCPP
+RU-24969
+Serotonin (5-HT)
+Triptans (e.g., avitriptan, donitriptan, eletriptan, sumatriptan, zolmitriptan)
+TFMPP
+Tryptamines (e.g., 5-BT, 5-CT, 5-MT, DMT)
+Vortioxetine
+Antagonists: AR-A000002
+Elzasonan
+Ergolines (e.g., metergoline)
+GR-127935
+Isamoltane
+LY-393558
+Metitepine (methiothepin)
+SB-216641
+SB-224289
+SB-236057
+Yohimbine
+Unknown/unsorted: Ergolines (e.g., cabergoline, ergometrine (ergonovine), lisuride)
+5-HT1D
+Agonists: CP-122,288
+CP-135807
+CP-286601
+Ergolines (e.g., bromocriptine, cabergoline, dihydroergotamine, ergotamine, LSD, methysergide)
+GR-46611
+L-694247
+L-772405
+mCPP
+PNU-109291
+PNU-142633
+Serotonin (5-HT)
+TGBA01AD
+Triptans (e.g., almotriptan, avitriptan, donitriptan, eletriptan, frovatriptan, naratriptan, rizatriptan, sumatriptan, zolmitriptan)
+Tryptamines (e.g., 5-BT, 5-CT, 5-Et-DMT, 5-MT, 5-(nonyloxy)tryptamine, DMT)
+Antagonists: Alniditan
+BRL-15572
+Elzasonan
+Ergolines (e.g., metergoline)
+GR-127935
+Ketanserin
+LY-310762
+LY-367642
+LY-393558
+LY-456219
+LY-456220
+Metitepine (methiothepin)
+Mianserin
+Ritanserin
+Yohimbine
+Ziprasidone
+Unknown/unsorted: Ergolines (e.g., lisuride, lysergol, pergolide)
+5-HT1E
+Agonists: BRL-54443
+Ergolines (e.g., methysergide)
+Serotonin (5-HT)
+Triptans (e.g., eletriptan)
+Tryptamines (e.g., tryptamine)
+Antagonists: Metitepine (methiothepin)
+Unknown/unsorted: Ergolines (e.g., ergometrine (ergonovine), lysergol, methylergometrine (methylergonovine)
+5-HT1F
+Agonists: BRL-54443
+CP-122,288
+Ergolines (e.g., bromocriptine, lysergol, methylergometrine (methylergonovine) methysergide)
+Lasmiditan
+LY-334370
+Serotonin (5-HT)
+Triptans (e.g., eletriptan, naratriptan, sumatriptan)
+Tryptamines (e.g., 5-MT)
+Antagonists: Mianserin
+Metitepine (methiothepin)
+5-HT2 receptors
+5-HT2A
+Agonists: 25H/NB series (e.g., 25I-NBF, 25I-NBMD, 25I-NBOH, 25I-NBOMe, 25B-NBOMe, 25C-NBOMe, 25TFM-NBOMe, 2CBCB-NBOMe, 25CN-NBOH, 2CBFly-NBOMe)
+2Cs (e.g., 2C-B, 2C-E, 2C-I, 2C-T-2, 2C-T-7, 2C-T-21)
+2C-B-FLY
+2CB-Ind
+5-Methoxytryptamines (5-MeO-DET, 5-MeO-DiPT, 5-MeO-DMT, 5-MeO-DPT, 5-MT)
+-Alkyltryptamines (e.g., 5-Cl-MT, 5-Fl-MT, 5-MeO-ET, 5-MeO-MT, -Me-5-HT, ET, MT)
+AL-34662
+AL-37350A
+Bromo-DragonFLY
+Dimemebfe
+DMBMPP
+DOx (e.g., DOB, DOC, DOI, DOM)
+Efavirenz
+Ergolines (e.g., 1P-LSD, ALD-52, bromocriptine, cabergoline, ergine (LSA), ergotamine, lisuride, LA-SS-Az, LSB, LSD, LSD-Pip, LSH, LSP, methylergometrine (methylergonovine), pergolide)
+Flumexadol
+Jimscaline
+Lorcaserin
+MDxx (e.g., MDA, MDMA, MDOH, MMDA)
+O-4310
+Oxaflozane
+PHA-57378
+PNU-22394
+PNU-181731
+RH-34
+Phenethylamines (e.g., lophophine, mescaline)
+Piperazines (e.g., BZP, mCPP, quipazine, TFMPP)
+Serotonin (5-HT)
+TCB-2
+TFMFly
+Tryptamines (e.g., 5-BT, 5-CT, bufotenin, DET, DiPT, DMT, DPT, psilocin, psilocybin, tryptamine)
+Antagonists: 5-I-R91150
+5-MeO-NBpBrT
+AC-90179
+Adatanserin
+Altanserin
+AMDA
+APD-215
+Atypical antipsychotics (e.g., amperozide, aripiprazole, asenapine, blonanserin, carpipramine, clocapramine, clorotepine, clozapine, fluperlapine, gevotroline, iloperidone, melperone, mosapramine, ocaperidone, olanzapine, paliperidone, quetiapine, risperidone, sertindole, zicronapine, ziprasidone, zotepine)
+Cinanserin
+CSP-2503
+Cyproheptadine
+Deramciclane
+Dotarizine
+Eplivanserin
+Ergolines (e.g., amesergide, LY-53857, LY-215840, mesulergine, metergoline, methysergide, sergolexole)
+Etoperidone
+Fananserin
+Flibanserin
+Glemanserin
+Irindalone
+Ketanserin
+KML-010
+Lubazodone
+LY-393558
+Medifoxamine
+Mepiprazole
+Metitepine (methiothepin)
+MIN-101
+Naftidrofuryl
+Nantenine
+Nefazodone
+Pelanserin
+Phenoxybenzamine
+Pimavanserin
+Pirenperone
+Pizotifen
+Pruvanserin
+Rauwolscine
+Ritanserin
+S-14671
+Sarpogrelate
+Setoperone
+Spiperone
+Spiramide
+SR-46349B
+TGBA01AD
+Teniloxazine
+Temanogrel
+Tetracyclic antidepressants (e.g., amoxapine, aptazapine, esmirtazapine, maprotiline, mianserin, mirtazapine)
+Trazodone
+Tricyclic antidepressants (e.g., amitriptyline)
+Typical antipsychotics (e.g., chlorpromazine, fluphenazine, haloperidol, loxapine, perphenazine, pimozide, pipamperone, prochlorperazine, thioridazine, thiothixene, trifluoperazine)
+Volinanserin
+Xylamidine
+Yohimbine
+Unknown/unsorted: Ergolines (e.g., dihydroergotamine, ergometrine (ergonovine), nicergoline)
+MIN-117 (WF-516)
+5-HT2B
+Agonists: 4-Methylaminorex
+Aminorex
+Amphetamines (eg., chlorphentermine, cloforex, dexfenfluramine, fenfluramine, levofenfluramine, norfenfluramine)
+BW-723C86
+DOx (e.g., DOB, DOC, DOI, DOM)
+Ergolines (e.g., cabergoline, dihydroergocryptine, dihydroergotamine, ergotamine, methylergometrine (methylergonovine), methysergide, pergolide)
+MDxx (e.g., MDA, MDMA, MDOH, MMDA)
+Piperazines (e.g., mCPP)
+PNU-22394
+Ro60-0175
+Serotonin (5-HT)
+Tryptamines (e.g., 5-BT, 5-CT, 5-MT, -Me-5-HT, bufotenin, DET, DiPT, DMT, DPT, psilocin, psilocybin, tryptamine)
+Antagonists: Agomelatine
+Asenapine
+Cyproheptadine
+EGIS-7625
+Ergolines (e.g., amesergide, bromocriptine, lisuride, LY-53857, LY-272015, mesulergine)
+Ketanserin
+LY-393558
+Metadoxine
+Metitepine (methiothepin)
+Pirenperone
+Propranolol
+PRX-08066
+Rauwolscine
+Ritanserin
+RS-127445
+Sarpogrelate
+SB-200646
+SB-204741
+SB-206553
+SB-215505
+SB-221284
+SB-228357
+SDZ SER-082
+Tegaserod
+Tetracyclic antidepressants (e.g., amoxapine, mianserin)
+TIK-301
+Yohimbine
+Unknown/unsorted: Ergolines (e.g., ergometrine (ergonovine))
+5-HT2C
+Agonists: 2Cs (e.g., 2C-B, 2C-E, 2C-I, 2C-T-2, 2C-T-7, 2C-T-21)
+5-Methoxytryptamines (5-MeO-DET, 5-MeO-DiPT, 5-MeO-DMT, 5-MeO-DPT, 5-MT)
+-Alkyltryptamines (e.g., 5-Cl-MT, 5-Fl-MT, 5-MeO-ET, 5-MeO-MT, -Me-5-HT, ET, MT)
+A-372159
+AL-38022A
+Alstonine
+CP-809101
+Dimemebfe
+DOx (e.g., DOB, DOC, DOI, DOM)
+Ergolines (e.g., ALD-52, cabergoline, dihydroergotamine, ergine (LSA), ergotamine, lisuride, LA-SS-Az, LSB, LSD, LSD-Pip, LSH, LSP, pergolide)
+Flumexadol
+Lorcaserin
+MDxx (e.g., MDA, MDMA, MDOH, MMDA)
+MK-212
+Org 12962
+Org 37684
+Oxaflozane
+PHA-57378
+Phenethylamines (e.g., lophophine, mescaline)
+Piperazines (e.g., aripiprazole, BZP, mCPP, quipazine, TFMPP)
+PNU-22394
+PNU-181731
+Ro60-0175
+Ro60-0213
+Serotonin (5-HT)
+Tryptamines (e.g., 5-BT, 5-CT, bufotenin, DET, DiPT, DMT, DPT, psilocin, psilocybin, tryptamine)
+Vabicaserin
+WAY-629
+WAY-161503
+YM-348
+Antagonists: Adatanserin
+Agomelatine
+Atypical antipsychotics (e.g., asenapine, clorotepine, clozapine, fluperlapine, iloperidone, melperone, olanzapine, paliperidone, quetiapine, risperidone, sertindole, ziprasidone, zotepine)
+Captodiame
+CEPC
+Cinanserin
+Cyproheptadine
+Deramciclane
+Dotarizine
+Eltoprazine
+Ergolines (e.g., amesergide, bromocriptine, LY-53857, LY-215840, mesulergine, metergoline, methysergide, sergolexole)
+Etoperidone
+Fluoxetine
+FR-260010
+Irindalone
+Ketanserin
+Ketotifen
+Latrepirdine (dimebolin)
+Medifoxamine
+Metitepine (methiothepin)
+Nefazodone
+Pirenperone
+Pizotifen
+Propranolol
+Ritanserin
+RS-102221
+S-14671
+SB-200646
+SB-206553
+SB-221284
+SB-228357
+SB-242084
+SB-243213
+SDZ SER-082
+Tedatioxetine
+Tetracyclic antidepressants (e.g., amoxapine, aptazapine, esmirtazapine, maprotiline, mianserin, mirtazapine)
+TIK-301
+Trazodone
+Tricyclic antidepressants (e.g., amitriptyline, nortriptyline)
+Typical antipsychotics (e.g., chlorpromazine, loxapine, pimozide, pipamperone, thioridazine)
+Xylamidine
+Unknown/unsorted: Efavirenz
+Ergolines (e.g., ergometrine (ergonovine), methylergometrine (methylergonovine))
+5-HT3  5-HT7 receptors
+5-HT3
+Agonists: Alcohols (e.g., butanol, ethanol, trichloroethanol)
+m-CPBG
+Phenylbiguanide
+Piperazines (e.g., BZP, mCPP, quipazine)
+RS-56812
+Serotonin (5-HT)
+SR-57227
+SR-57227A
+Tryptamines (e.g., 2-Me-5-HT, 5-CT, bufotenidine (5-HTQ))
+Volatiles/gases (e.g., halothane, isoflurane, toluene, trichloroethane)
+YM-31636
+Antagonists: Alosetron
+AS-8112
+Atypical antipsychotics (e.g., clozapine, olanzapine, quetiapine)
+Azasetron
+Batanopride
+Bemesetron (MDL-72222)
+Cilansetron
+CSP-2503
+Dazopride
+Dolasetron
+Galanolactone
+Granisetron
+ICS-205930
+Lerisetron
+Memantine
+Ondansetron
+Palonosetron
+Ramosetron
+Renzapride
+Ricasetron
+Tedatioxetine
+Tetracyclic antidepressants (e.g., amoxapine, mianserin, mirtazapine)
+Thujone
+Tropanserin
+Tropisetron
+Typical antipsychotics (e.g., loxapine)
+Volatiles/gases (e.g., nitrous oxide, sevoflurane, xenon)
+Vortioxetine
+Zacopride
+Zatosetron
+Unknown/unsorted: LY-53857
+Piperazines (e.g., naphthylpiperazine)
+5-HT4
+Agonists: 5-MT
+BIMU8
+Capeserod
+Cinitapride
+Cisapride
+CJ-033466
+Dazopride
+Metoclopramide
+Mosapride
+Prucalopride
+PRX-03140
+Renzapride
+RS-67333
+RS-67506
+Serotonin (5-HT)
+Tegaserod
+Velusetrag
+Zacopride
+Antagonists: GR-113808
+GR-125487
+L-Lysine
+Piboserod
+RS-39604
+RS-67532
+SB-203186
+SB-204070
+5-HT5A
+Agonists: Ergolines (e.g., 2-Br-LSD (BOL-148), ergotamine, LSD)
+Serotonin (5-HT)
+Tryptamines (e.g., 5-CT)
+Valerenic Acid
+Antagonists: Asenapine
+Latrepirdine (dimebolin)
+Metitepine (methiothepin)
+Ritanserin
+SB-699551
+Unknown/unsorted: Ergolines (e.g., metergoline, methysergide)
+Piperazines (e.g., naphthylpiperazine)
+5-HT6
+Agonists: Ergolines (e.g., dihydroergocryptine, dihydroergotamine, ergotamine, lisuride, LSD, mesulergine, metergoline, methysergide)
+Serotonin (5-HT)
+Tryptamines (e.g., 2-Me-5-HT, 5-BT, 5-CT, 5-MT, Bufotenin, E-6801, E-6837, EMD-386088, EMDT, LY-586713, N-Me-5-HT, tryptamine)
+WAY-181187
+WAY-208466
+Antagonists: ABT-354
+Atypical antipsychotics (e.g., aripiprazole, asenapine, clorotepine, clozapine, fluperlapine, iloperidone, olanzapine, tiospirone)
+AVN-101
+AVN-211
+AVN-322
+AVN-397
+BGC20-760
+BVT-5182
+BVT-74316
+Cerlapirdine
+EGIS-12233
+GW-742457
+Idalopirdine
+Ketanserin
+Latrepirdine (dimebolin)
+Metitepine (methiothepin)
+MS-245
+PRX-07034
+Ritanserin
+Ro04-6790
+Ro 63-0563
+SB-258585
+SB-271046
+SB-357134
+SB-399885
+SB-742457
+Tetracyclic antidepressants (e.g., amoxapine, mianserin)
+Tricyclic antidepressants (e.g., amitriptyline, clomipramine, doxepin, nortriptyline)
+Typical antipsychotics (e.g., chlorpromazine, loxapine)
+Unknown/unsorted: Ergolines (e.g., 2-Br-LSD (BOL-148), bromocriptine, lergotrile, pergolide)
+Piperazines (e.g., naphthylpiperazine)
+5-HT7
+Agonists: 8-OH-DPAT
+AS-19
+Bifeprunox
+E-55888
+Ergolines (e.g., LSD)
+LP-12
+LP-44
+RU-24969
+Sarizotan
+Serotonin (5-HT)
+Triptans (e.g., frovatriptan)
+Tryptamines (e.g., 5-CT, 5-MT, bufotenin, N-Me-5-HT)
+Antagonists: Atypical antipsychotics (e.g., amisulpride, aripiprazole, asenapine, clorotepine, clozapine, fluperlapine, olanzapine, risperidone, sertindole, tiospirone, ziprasidone, zotepine)
+Butaclamol
+DR-4485
+EGIS-12233
+Ergolines (e.g., 2-Br-LSD (BOL-148), amesergide, bromocriptine, cabergoline, dihydroergotamine, ergotamine, LY-53857, LY-215840, mesulergine, metergoline, methysergide, sergolexole)
+JNJ-18038683
+Ketanserin
+LY-215840
+Metitepine (methiothepin)
+Ritanserin
+SB-258719
+SB-258741
+SB-269970
+SB-656104
+SB-656104A
+SB-691673
+SLV-313
+SLV-314
+Spiperone
+SSR-181507
+Tetracyclic antidepressants (e.g., amoxapine, maprotiline, mianserin, mirtazapine)
+Tricyclic antidepressants (e.g., amitriptyline, clomipramine, imipramine)
+Typical antipsychotics (e.g., acetophenazine, chlorpromazine, chlorprothixene, fluphenazine, loxapine, pimozide)
+Vortioxetine
+Unknown/unsorted: Ergolines (e.g., lisuride, pergolide)
+Piperazines (e.g., naphthylpiperazine)
+See also: Adrenergics
+Dopaminergics
+Melatonergics
+Monoamine reuptake and release modulators
+Monoamine metabolism modulators
+Monoamine neurotoxins
+v
+t
+e
+Alcohols
+Straight-chain
+primary
+alcohols (1)
+Methanol (C
+1)
+Ethanol (C
+2)
+1-Propanol (C
+3)
+n-Butanol (C
+4)
+1-Pentanol (C
+5)
+1-Hexanol (C
+6)
+1-Heptanol (C
+7)
+1-Octanol (C
+8)
+1-Nonanol (C
+9)
+1-Decanol (C
+10)
+Undecanol (C
+11)
+Dodecanol (C
+12)
+Tridecan-1-ol (C
+13)
+1-Tetradecanol (C
+14)
+Pentadecan-1-ol (C
+15)
+Cetyl alcohol (C
+16)
+Heptadecan-1-ol (C
+17)
+Stearyl alcohol (C
+18)
+Nonadecan-1-ol (C
+19)
+Arachidyl alcohol (C
+20)
+Heneicosan-1-ol (C
+21)
+Docosanol (C
+22)
+Tricosan-1-ol (C
+23)
+1-Tetracosanol (C
+24)
+Pentacosan-1-ol (C
+25)
+1-Hexacosanol (C
+26)
+1-Heptacosanol (C
+27)
+1-Octacosanol (C
+28)
+1-Nonacosanol (C
+29)
+Triacontanol (C
+30)
+Other primary
+alcohols
+Isobutanol (C
+4)
+Isoamyl alcohol (C
+5)
+2-Methyl-1-butanol (C
+5)
+Phenethyl alcohol (C
+8)
+Tryptophol (C
+10)
+Secondary
+alcohols (2)
+Isopropanol (C
+3)
+2-Butanol (C
+4)
+2-Pentanol (C
+5)
+2-Hexanol (C
+6)
+2-Heptanol (C
+7)
+Cyclohexanol (C
+6)
+Tertiary
+alcohols (3)
+tert-Butyl alcohol (C
+4)
+tert-Amyl alcohol (C
+5)
+2-Methyl-2-pentanol (C
+6)
+2-Methylhexan-2-ol (C
+7)
+2-Methylheptan-2-ol (C
+8)
+3-Methyl-3-pentanol (C
+6)
+3-Methyloctan-3-ol (C
+9)
+v
+t
+e
+Motor fuels
+Fuel types
+Gasoline/petrol
+Diesel
+Biodiesel
+Lead Replacement Petrol
+Kerosene
+Compressed natural gas
+Hydrogen
+Ethanol
+Butanol fuel
+Racing fuel (Tetraethyllead)
+Fuel additives
+Butyl rubber
+Butylated hydroxytoluene
+1,2-Dibromoethane
+1,2-Dichloroethane
+Dimethyl methylphosphonate
+2,4-Dimethyl-6-tert-butylphenol
+Dinonylnaphthylsulfonic acid
+2,6-Di-tert-butylphenol
+Ecalene
+Ethylenediamine
+Metal deactivator
+Methyl tert-butyl ether
+Nitromethane
+Tetraethyllead
+Tetranitromethane
+Fluids
+Motor oil
+Antifreeze
+Automatic transmission fluid
+Brake fluid
+Gear oil
+Windshield washer fluid
+Retail
+Fuel card
+Full service
+MTBE controversy
+Pay at the pump
+v
+t
+e
+Molecules detected in outer space
+Molecules
+Diatomic
+Aluminium monochloride
+Aluminium monofluoride
+Aluminium monoxide
+Argonium
+Carbon monophosphide
+Carbon monosulfide
+Carbon monoxide
+Carborundum
+Cyanogen radical
+Diatomic carbon
+Fluoromethylidynium
+Hydrogen chloride
+Hydrogen fluoride
+Hydrogen (molecular)
+Hydroxyl radical
+Iron(II) oxide
+Magnesium monohydride cation
+Methylidyne radical
+Nitric oxide
+Nitrogen (molecular)
+Nitrogen monohydride
+Nitrogen sulfide
+Oxygen (molecular)
+Phosphorus monoxide
+Phosphorus mononitride
+Potassium chloride
+Silicon carbide
+Silicon mononitride
+Silicon monoxide
+Silicon monosulfide
+Sodium chloride
+Sodium iodide
+Sulfur monohydride
+Sulfur monoxide
+Titanium oxide
+Triatomic
+Aluminium hydroxide
+Aluminium isocyanide
+Amino radical
+Carbon dioxide
+Carbonyl sulfide
+CCP radical
+Chloronium
+Diazenylium
+Dicarbon monoxide
+Disilicon carbide
+Ethynyl radical
+Formyl radical
+Hydrogen cyanide (HCN)
+Hydrogen isocyanide (HNC)
+Hydrogen sulfide
+Hydroperoxyl
+Iron cyanide
+Isoformyl
+Magnesium cyanide
+Magnesium isocyanide
+Methylene radical
+N2H+
+Nitrous oxide
+Nitroxyl
+Ozone
+Phosphaethyne
+Potassium cyanide
+Protonated molecular hydrogen
+Sodium cyanide
+Sodium hydroxide
+Silicon carbonitride
+c-Silicon dicarbide
+Silicon naphthalocyanine
+Sulfur dioxide
+Thioformyl
+Thioxoethenylidene
+Titanium dioxide
+Tricarbon
+Water
+Four
+atoms
+Acetylene
+Ammonia
+Cyanic acid
+Cyanoethynyl
+Cyclopropynylidyne
+Formaldehyde
+Fulminic acid
+HCCN
+Hydrogen peroxide
+Hydromagnesium isocyanide
+Isocyanic acid
+Isothiocyanic acid
+Ketenyl
+Methylene amidogen
+Methyl radical
+Propynylidyne
+Protonated carbon dioxide
+Protonated hydrogen cyanide
+Silicon tricarbide
+Thioformaldehyde
+Tricarbon monoxide
+Tricarbon sulfide
+Thiocyanic acid
+Five
+atoms
+Ammonium ion
+Butadiynyl
+Carbodiimide
+Cyanamide
+Cyanoacetylene
+Cyanoformaldehyde
+Cyanomethyl
+Cyclopropenylidene
+Formic acid
+Isocyanoacetylene
+Ketene
+Methane
+Methoxy radical
+Methylenimine
+Propadienylidene
+Protonated formaldehyde
+Protonated formaldehyde
+Silane
+Silicon-carbide cluster
+Six
+atoms
+Acetonitrile
+Cyanobutadiynyl radical
+E-Cyanomethanimine
+Cyclopropenone
+Diacetylene
+Ethylene
+Formamide
+HC4N
+Ketenimine
+Methanethiol
+Methanol
+Methyl isocyanide
+Pentynylidyne
+Propynal
+Protonated cyanoacetylene
+Seven
+atoms
+Acetaldehyde
+Acrylonitrile
+Cyanodiacetylene
+Ethylene oxide
+Hexatriynyl radical
+Methylacetylene
+Methylamine
+Methyl isocyanate
+Vinyl alcohol
+Eight
+atoms
+Acetic acid
+Aminoacetonitrile
+Cyanoallene
+Ethanimine
+Glycolaldehyde
+Heptatrienyl radical
+Hexapentaenylidene
+Methylcyanoacetylene
+Methyl formate
+Propenal
+Nine
+atoms
+Acetamide
+Cyanohexatriyne
+Cyanotriacetylene
+Dimethyl ether
+Ethanol
+Methyldiacetylene
+Octatetraynyl radical
+Propene
+Propionitrile
+Ten
+atoms
+or more
+Acetone
+Benzene
+Buckminsterfullerene (C60 fullerene, buckyball)
+C70 fullerene
+Cyanodecapentayne
+Cyanopentaacetylene
+Cyanotetra-acetylene
+Ethylene glycol
+Ethyl formate
+Methyl acetate
+Methyl-cyano-diacetylene
+Methyltriacetylene
+Propanal
+n-Propyl cyanide
+Pyrimidine
+Deuterated
+molecules
+Ammonia
+Ammonium ion
+Formaldehyde
+Formyl radical
+Heavy water
+Hydrogen cyanide
+Hydrogen deuteride
+Hydrogen isocyanide
+Methylacetylene
+N2D+
+Trihydrogen cation
+Unconfirmed
+Anthracene
+Dihydroxyacetone
+Ethyl methyl ether
+Glycine
+Graphene
+H2NCO+
+Linear C5
+Naphthalene cation
+Phosphine
+Pyrene
+Silylidine
+Related
+Abiogenesis
+Astrobiology
+Astrochemistry
+Atomic and molecular astrophysics
+Chemical formula
+Circumstellar envelope
+Cosmic dust
+Cosmic ray
+Cosmochemistry
+Diffuse interstellar band
+Extraterrestrial life
+Extraterrestrial liquid water
+Forbidden mechanism
+Helium hydride ion
+Homochirality
+Intergalactic dust
+Interplanetary medium
+Interstellar medium
+Ironsulfur world theory
+Kerogen
+Life
+Life timeline
+Molecules in stars
+Nature timeline
+Nexus for Exoplanet System Science
+Organic compound
+Outer space
+PAH world hypothesis
+Panspermia
+Polycyclic aromatic hydrocarbon (PAH)
+RNA world hypothesis
+Spectroscopy
+Tholin
+Book:Chemistry
+Category:Astrochemistry
+Category:Molecules
+Portal:Astrobiology
+Portal:Chemistry
+v
+t
+e
+Antiseptics and disinfectants (D08)
+Acridine derivatives
+Ethacridine lactate
+9-Aminoacridine
+Euflavine
+Biguanides and amidines
+Dibrompropamidine
+Chlorhexidine#
+Propamidine
+Hexamidine
+Polihexanide
+Phenol and derivatives
+Hexachlorophene
+Policresulen
+Phenol
+Triclosan
+Triclocarban
+Chloroxylenol#
+Biphenylol
+Fenticlor
+Nitrofuran derivatives
+Nitrofurazone
+Iodine products
+Iodine/octylphenoxypolyglycolether
+Povidone-iodine#
+Diiodohydroxypropane
+Quinoline derivatives
+Dequalinium
+Chlorquinaldol
+Oxyquinoline
+Clioquinol
+Quaternary ammonium compounds
+Benzalkonium
+Benzethonium chloride
+Cetrimonium (bromide/chloride)
+Cetylpyridinium
+Cetrimide
+Benzoxonium chloride
+Didecyldimethylammonium chloride
+Mercurial products
+Mercuric amidochloride
+Phenylmercuric borate
+Mercuric chloride
+Merbromin
+Thiomersal
+Mercuric iodide
+Silver compounds
+Silver nitrate
+Alcohols
+Propanol (propyl alcohol)
+Isopropanol (isopropyl alcohol)
+Ethanol (ethyl alcohol)#
+Other
+Potassium permanganate
+Sodium hypochlorite
+Hydrogen peroxide
+Eosin
+Tosylchloramide
+Octenidine dihydrochloride
+#WHO-EM
+Withdrawn from market
+Clinical trials:
+Phase III
+Never to phase III
+v
+t
+e
+Psychoactive substance-related disorder (F10F19, 291292; 303305)
+General
+SID
+Substance intoxication / Drug overdose
+Withdrawal
+Substance-induced psychosis
+SUD
+Substance abuse
+Physical dependence / Substance dependence
+Alcohol
+SID
+Diseases
+Neurological
+disorders
+Alcoholic hallucinosis
+Alcohol withdrawal
+Fetal alcohol spectrum disorder (FASD)
+Fetal alcohol syndrome (FAS)
+Korsakoff's syndrome
+WernickeKorsakoff syndrome
+Wernicke's encephalopathy
+Digestive
+system
+Alcoholic hepatitis
+Alcoholic liver disease
+Auto-brewery syndrome
+Nervous
+system
+Alcohol-related dementia
+Alcoholic hallucinosis
+Hangover
+Cardiovascular
+system
+Alcoholic cardiomyopathy
+Alcohol flush reaction
+SUD
+Alcoholism
+Alcohol dependence
+Alcohol abuse
+Opioids
+SID
+Opioid overdose
+SUD
+Opioid addiction and dependence
+Caffeine
+SID
+Effect of caffeine on memory
+Caffeine-induced sleep disorder
+SUD
+Caffeine dependence
+Cannabis
+SID
+Effects of cannabis
+Long-term effects of cannabis
+SUD
+Cannabis dependence
+Sedative /
+hypnotic
+benzodiazepine: SID
+Benzodiazepine overdose
+Benzodiazepine withdrawal
+SUD
+Benzodiazepine misuse
+Benzodiazepine dependence
+barbiturate: SID
+Barbiturate overdose
+SUD
+Barbiturate dependence
+Cocaine
+SID
+Cocaine intoxication
+SUD
+Cocaine dependence
+Stimulants
+SID
+Stimulant psychosis
+SUD
+Amphetamine dependence
+Hallucinogen
+SID
+Hallucinogen persisting perception disorder
+Tobacco
+SID
+Nicotine poisoning
+Nicotine withdrawal
+Volatile
+solvent
+Inhalant abuse: Toluene toxicity
+Multiple
+Poly drug use
+v
+t
+e
+Alcohol and health
+Specific
+interactions
+Note: see Template:Psychoactive substance use for diagnoses
+Aging
+Alcohol-induced mood disorders
+Brain
+Cancer
+breast cancer
+Sleep
+Tolerance
+Weight
+Substance
+abuse
+prevention
+Sobriety
+Alcohol-free zone
+Alcohol detoxification
+Alcohol rehabilitation
+Alcoholics Anonymous
+Sober companion
+Alcohol
+limitation
+0-0-1-3
+Ban on caffeinated alcoholic beverages
+Alcohol education
+Alcohol server training
+Recommended maximum intake of alcoholic beverages
+Addiction medicine
+Alcoholism
+Anti-addictive psychedelics: Ibogaine, Salvia divinorum
+Religion and alcohol
+Christian views on alcohol
+alcohol in the Bible
+Islam and alcohol
+Dionysian Mysteries
+Social issues
+Alcohol advertising
+on college campuses
+Alcohol-free beverage definition controversy
+Alcohol self-medication
+Native Americans
+Binge drinking
+0.08 BAC
+Blackout (alcohol-related amnesia)
+College student alcoholism
+Domestic violence
+Drinking games / pregaming
+Driving under the influence
+Drunkorexia
+Dry January
+Adult Children of Alcoholics
+Family systems
+French paradox
+High-functioning alcoholic (HFA)
+moonshine contamination
+Rum-running
+black market
+Sex
+Sin tax / Pigovian tax
+General
+Short-term effects of alcohol consumption
+Long-term effects of alcohol consumption
+v
+t
+e
+Other therapeutic products (V03AGV03AZ)
+Treatment of hypercalcemia
+Sodium cellulose phosphate
+Treatment of hypoglycaemia
+Diazoxide
+Medical gases
+Oxygen
+Carbon dioxide
+Helium
+Nitrogen
+Nerve depressants
+Ethanol
+v
+t
+e
+Alcoholic drinks
+History and production
+History of alcohol
+History of alcoholic beverages
+History of beer
+History of wine
+History of Bordeaux wine
+History of Champagne
+History of Chianti
+History of French wine
+History of Portuguese wine
+History of Rioja wine
+History of Sherry
+History of South African wine
+Production
+Alcohol industry
+Brewing
+Distillation
+Drinking establishments
+Fermentation
+Winemaking
+Alcoholic beverages
+Fermented beverage
+Beer
+Cider
+Mead
+Rice wine
+Sake
+Wine
+Other fermented beverages
+Distilled beverage
+Brandy
+Gin
+Liqueur
+Rum
+Tequila
+Vodka
+Whisky
+Other distilled beverages
+Fortified wine
+Madeira wine
+Marsala wine
+Port wine
+Sherry
+Vermouth
+Other fortified wines
+Distilled beverages by ingredients
+Fruit
+Apple
+Applejack
+Calvados
+Cashew apple
+Feni
+Coconut
+Arrack
+Grape
+Armagnac
+Brandy
+Cognac
+Pisco
+Plum
+Slivovitz
+uic
+Pomace
+Chacha
+Grappa
+Marc
+Orujo
+Tsikoudia
+Tsipouro
+Zivania
+Various fruits
+Eau de vie
+Himbeergeist
+Kirschwasser
+Marillenschnaps
+Nalewka
+Plinka
+Rakia
+Schnaps
+Grain
+Barley
+Irish whiskey
+Japanese whisky
+Scotch whisky
+Maize
+Bourbon whiskey
+Corn whiskey
+Tennessee whiskey
+Rice
+Awamori
+Cheongju
+Rice baijiu
+Shch
+Soju
+Rye
+Korn
+Rye whiskey
+Starka
+Sorghum
+Baijiu (Kaoliang)
+Multiple grains
+American whiskey
+Canadian whisky
+Other
+Agave
+Mezcal
+Tequila
+Buckwheat
+Buckwheat whisky
+Shch
+Sugarcane or molasses
+Aguardiente
+Cachaa
+Clairin
+Guaro
+Rum
+Seco Herrerano
+Tharra
+Various starches
+Akvavit
+Horilka
+Poitn
+Shch
+Vodka
+Liqueurs and infused distilled beverages by ingredients
+Almond
+Amaretto
+Crme de Noyaux
+Anise
+Absinthe
+Arak
+Hierbas
+Herbs de Majorca
+Ouzo
+Pastis
+Rak
+Sambuca
+Blackthorn shrub
+Patxaran
+Chocolate
+Chocolate liqueur
+Cinnamon
+Tentura
+Cloudberry
+Lakka
+Coconut
+Malibu
+Coffee
+Kahla
+Tia Maria
+Egg
+Advocaat
+Hazelnut
+Frangelico
+Herbs
+Aquavit
+Bndictine
+Brennivn
+Crme de menthe
+Metaxa
+Honey
+Brenjger
+Drambuie
+Glayva
+Krupnik
+Juniper
+Gin
+Jenever
+Orange
+Campari
+Curaao
+Triple sec
+Peppers
+Pertsivka
+Star anise
+Sassolino
+Sugarcane/molasses
+Charanda
+Various fruits
+Crme de banane
+Crme de cassis
+Limoncello
+Schnapps
+Sloe gin
+Category
+Portals
+Liquor
+Beer
+Drink
+Wine
+WikiProjects
+Beer
+Spirits
+Wine
+v
+t
+e
+Recreational drug use
+Major
+recreational
+drugs
+Depressants
+Barbiturates
+Benzodiazepines
+Carbamates
+Ethanol
+Alcoholic drinks
+Gabapentinoids
+GHB
+Intoxicative inhalants
+contact cement
+gasoline
+nail polish remover
+Kava
+Nonbenzodiazepines
+Quinazolinones
+Opioids
+Buprenorphine
+Suboxone
+Subutex
+Codeine
+Desomorphine
+Krokodil
+Dextropropoxyphene
+Darvocet
+Darvon
+Fentanyl
+Diamorphine
+Heroin
+Hydrocodone
+Hydromorphone
+Dilaudid
+Methadone
+Mitragyna speciosa
+Kratom
+Morphine
+Opium
+Oxycodone
+/paracetamol
+Stimulants
+Amphetamine
+Arecoline
+Areca
+Betel
+Caffeine
+Coffee
+Energy drinks
+Tea
+Cathinone
+Khat
+Cocaine
+Coca
+Crack
+Ephedrine
+Ephedra
+MDPV
+Mephedrone
+Methamphetamine
+Methylone
+Methylphenidate
+Nicotine
+Tobacco
+Theobromine
+Cocoa
+Entactogens
+MDA
+MDMA
+Ecstasy
+2C-* series
+alpha-Methyltryptamine
+6-APB
+Benzofury
+Hallucinogens
+Psychedelics
+Bufotenin
+Psychoactive toads
+Vilca
+Yopo
+DMT
+Ayahuasca
+LSA
+LSD-25
+Mescaline
+Peruvian Torch
+Peyote
+San Pedro
+Psilocybin / Psilocin
+Psilocybin mushrooms
+Dissociatives
+DXM
+Glaucine
+Inhalants
+Nitrous oxide
+alkyl nitrites
+poppers
+amyl nitrite
+Ketamine
+MXE
+Muscimol
+Amanita muscaria
+PCP
+Salvinorin A
+Salvia divinorum
+Deliriants
+Atropine and Scopolamine
+Atropa belladonna
+Datura
+Hyoscyamus niger
+Mandragora officinarum
+Dimenhydrinate
+Diphenhydramine
+Cannabinoids
+JWH-018
+THC
+Cannabis
+Hashish
+Hash oil
+Oneirogens
+Calea zacatechichi
+Silene capensis
+Drug culture
+Cannabis culture
+420
+Cannabis cultivation
+Cannabis smoking
+Legal history of cannabis in the United States
+Legality of cannabis
+Marijuana Policy Project
+Medical cannabis
+NORML
+Religious and spiritual use of cannabis
+Stoner film
+Coffee culture
+Coffee break
+Coffeehouse
+Latte art
+Tea house
+Drinking culture
+Bartending
+Beer culture
+Beer festival
+Binge drinking
+Drinking games
+Drinking song
+Happy hour
+Hip flask
+Nightclub
+Pub crawl
+Psychedelia
+Art
+Drug
+Era
+Experience
+Literature
+Music
+Therapy
+Smoking culture
+Cigarette card
+Fashion cigarettes
+Cloud-chasing
+Loosie
+Smokeasy
+Smoking fetishism
+Tobacco smoking
+Other
+Club drug
+Counterculture of the 1960s
+Dance party
+Drug paraphernalia
+Drug tourism
+Entheogen
+Hippie
+Party and play
+Poly drug use
+Rave
+Self-medication
+Sex and drugs
+Whoonga
+Drug
+production
+and trade
+Drug
+production
+Coca production in Colombia
+Drug precursors
+Opium production in Afghanistan
+Rolling meth lab
+Drug trade
+Illegal drug trade in Colombia
+Issues with
+drug use
+Abuse
+Date rape drug
+Effects of cannabis
+Addiction
+Dependence
+Prevention
+Opioid replacement therapy
+Rehabilitation
+Responsible use
+Drug-related crime
+Fetal alcohol spectrum disorder
+Illegal drug trade
+Long-term effects of cannabis
+Neurotoxicity
+Overdose
+Passive smoking
+of tobacco or other substances
+Legality of
+drug use
+International
+1961 Narcotic Drugs
+1971 Psychotropic Substances
+1988 Drug Trafficking
+Council of the European Union decisions on designer drugs
+State level
+Drug policy
+Decriminalization
+Prohibition
+Supply reduction
+Policy reform
+Demand reduction
+Drug Policy Alliance
+Harm reduction
+Law Enforcement Against Prohibition
+Liberalization
+Latin America
+Students for Sensible Drug Policy
+Transform Drug Policy Foundation
+Drug policy
+by country
+Australia
+Canada
+Germany
+India
+Netherlands
+Portugal
+Slovakia
+Soviet Union
+Sweden
+Switzerland
+United States
+Just Say No
+Office of National Drug Control Policy
+School district drug policies
+California
+Colorado
+Maryland
+Virginia
+Other
+Arguments for and against drug prohibition
+Capital punishment for drug trafficking
+Designer drug
+Drug court
+Drug harmfulness
+Drug possession
+Drug test
+Mexican Drug War
+Philippine Drug War
+Narc
+Politics of drug abuse
+War on Drugs
+Zero tolerance
+Lists of
+countries by...
+Alcohol legality
+Alcohol consumption
+Anabolic steroid legality
+Cannabis legality
+Annual use
+Lifetime use
+Cigarette consumption
+Cocaine legality
+Cocaine use
+Methamphetamine legality
+Opiates use
+Psilocybin mushrooms legality
+Salvia legality
+Authority control
+LCCN: sh2009007801
+GND: 4125880-0
+NDL: 00560350
+NewPP limit report
+Parsed by mw1186
+Cached time: 20161120165858
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 2.624 seconds
+Real time usage: 2.984 seconds
+Preprocessor visited node count: 34461/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 1487447/2097152 bytes
+Template argument size: 128365/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 16/500
+Lua time usage: 1.006/10.000 seconds
+Lua memory usage: 12.52 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 2081.964
+1 - -total
+36.49%
+759.655
+1 - Template:Reflist
+23.32%
+485.593
+1 - Template:Chembox
+17.73%
+369.206
+47 - Template:Navbox
+11.92%
+248.152
+58 - Template:Cite_journal
+10.13%
+210.873
+1 - Template:Chembox_Identifiers
+9.37%
+194.980
+68 - Template:Chem
+8.89%
+185.081
+68 - Template:Chem/link
+7.94%
+165.390
+13 - Template:Fix
+7.34%
+152.713
+191 - Template:Chem/atom
+Saved in parser cache with key enwiki:pcache:idhash:10048-0!*!0!!en!4!* and timestamp 20161120165855 and revision id 750236559
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Ethanol&oldid=750236559"
+Categories: Alcohol solventsAnatomical preservationAnesthesiaAnxiolyticsDisinfectantsEthanol5-HT3 agonistsGABAA receptor positive allosteric modulatorsGlycine receptor agonistsGlycine reuptake inhibitorsHousehold chemicalsHuman metabolitesAMPA receptor antagonistsKainate receptor antagonistsNMDA receptor antagonistsOxygenatesPrimary alcoholsRocket fuelsSedativesTeratogensIARC Group 1 carcinogensCommodity chemicalsCholinergicsAlkanolsAntidotesHidden categories: All articles lacking reliable referencesArticles lacking reliable references from February 2014Articles needing more detailed referencesWikipedia articles needing page number citations from February 2014All articles with unsourced statementsArticles with unsourced statements from February 2014Pages containing links to subscription-only contentPages using ISBN magic linksWikipedia indefinitely move-protected pagesUse dmy dates from July 2015Articles without KEGG sourceChemical articles having calculated molecular weight overwrittenDrugs with non-standard legal statusChemical articles having a data pageChemboxes which contain changes to verified fieldsChemboxes which contain changes to watched fieldsArticles containing Ancient Greek-language textArticles with unsourced statements from March 2011Articles with unsourced statements from June 2012Articles with unsourced statements from January 2010Articles with unsourced statements from February 2016Articles with unsourced statements from December 2012Articles needing additional references from December 2015All articles needing additional referencesInterlanguage link template link numberWikipedia articles with LCCN identifiersWikipedia articles with GND identifiers

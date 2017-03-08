@@ -1,0 +1,245 @@
+Treestump
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (July 2009) (Learn how and when to remove this template message)
+Tree stump, about 37 years after felling
+After a tree has been cut and felled, the stump or tree stump is usually a small remaining portion of the trunk with the roots still in the ground. Stumps may show the age-defining rings of a tree. The study of these rings is known as dendrochronology.
+stump sculpture by German artist Eberhard Bosslet
+Contents
+1 Regeneration
+2 Stump removal
+3 Stump harvesting
+4 See also
+5 References
+6 External links
+Regeneration[edit]
+Stumps and mama humps (both those on the ground and stumps of removed branches) are sometimes able to regenerate into new trees. Often, a deciduous tree that has been cut will re-sprout in multiple places around the edge of the stump or from the roots.[1] Depending on whether the tree is being removed permanently or whether the forest is expected to recover, this can be either desirable or undesirable. Stump sprouts can grow very quickly and sometimes become viable trees themselves either for aesthetics or timber, due to the existing root structure; however, the cut portion of the trunk may weaken the sprouts and introduce disease into the newly forming tree(s).
+A freshly cut tree stump, 2 hours after cutting
+young spruce (picea) on stump - saprobiontic
+The process of deliberately cutting a tree to a stump to regrow is known as coppicing.[2]
+Stump removal[edit]
+Tree stumps can be difficult to remove from the ground. They can be dug out, shredded with a stump grinder or burnt.
+A common method for stump removal is to use one of the many chemical stump removal products, so long as immediate results are not needed. These stump removers are mostly made of potassium nitrate (KNO3) and act by rapidly increasing the decay of the stump. After an average of 46 weeks, the stump will be rotten through and easily fragmented in manageable pieces. If time is a limiting factor, setting fire to the stump is effective because once the potassium nitrate has been absorbed it acts as an effective oxidizer.
+Historically, an explosive called stumping powder was used to blast stumps into bits.
+Stump harvesting[edit]
+In plantation forests in parts of Europe, stumps are sometimes pulled out of the ground using a specially adapted tracked excavator, to supply wood fuel for biomass power stations. Stump harvesting may provide an increasing component of the woody material required by the biomass power sector.
+See also[edit]
+Trees portal
+Living stump
+Stump harvesting
+References[edit]
+^ J. & Gtmark, F. (2014) Differential survival and growth of stumps in 14 woody species after conservation thinning in mixed oak-rich temperate forests. European Journal of Forest Research, 1-11.
+^ Buckley, G.P.: Ecology and Management of Coppice Woodlands, 336 pages. Springer, 1992.
+Buckley, G.P. 1992. Ecology and Management of Coppice Woodlands. Springer 336 pages,ISBN 0-412-43110-6, ISBN 978-0-412-43110-4.
+Schenk, H.J., and R.B. Jackson. 2002. The global biogeography of roots. Ecological Monographs 72 (3): 311-328.
+External links[edit]
+Wikimedia Commons has media related to Tree stumps.
+Stump harvesting in Sweden
+Regeneration after stump harvesting
+Stumps as a resource in Finland
+Stump harvesting and forest decomposers
+v
+t
+e
+Forestry
+Outline
+Index
+Forest areas
+Ministries
+Research institutes
+Colleges
+Journals
+Arbor Day
+Types
+Agroforestry(dehesa)
+Analog forestry
+Bamboo forestry
+Close to nature forestry
+Community forestry
+Ecoforestry
+Energy forestry
+Mycoforestry
+Permaforestry
+Plantation forestry
+Social forestry
+Sustainable forestry
+Urban forestry
+World forestry
+Ecology and
+management
+Afforestation
+Arboriculture
+Controlled burn
+Dendrology
+Ecological thinning
+Even-aged management
+Fire ecology
+Forest
+informatics
+IPM
+inventory
+governance
+law
+old-growth
+pathology
+protection
+restoration
+secondary
+transition
+Forest certification
+ATFS
+CFS
+FSC
+PEFC
+SFI
+SmartWood
+Woodland Carbon Code
+Growth and yield modelling
+Horticulture(GM trees)
+i-Tree
+Reforestation(urban)
+Silviculture
+Sustainable management
+Tree
+allometry
+breeding
+Tree measurement
+crown
+girth
+height
+volume
+Environmental
+topics
+Acid rain
+Carbon sequestration
+Clearcutting
+Deforestation
+Ecological services
+Forest dieback
+Forest fragmentation
+High grading
+Illegal logging
+Invasive species
+REDD
+Shifting cultivation
+chitemene
+slash-and-burn
+slash-and-char
+svedjebruk
+Timber recycling
+Wildfire
+Wilding
+Industries
+Coppicing
+Forest farming
+Forest gardening
+Logging
+Manufacturing
+lumber
+plywood
+pulp and paper
+sawmilling
+Products
+biochar
+biomass
+charcoal
+non-timber
+palm oil
+rayon
+rubber
+tanbark
+Rail transport
+Tree farms(Christmas trees)
+Wood
+engineered
+fuel
+mahogany
+teak
+Woodworking
+Occupations
+Forester
+Arborist
+Bucker
+Choker setter
+Ecologist
+Feller
+Firefighter
+handcrew
+hotshot
+lookout
+smokejumper
+River driver
+Truck driver
+Log scaler
+Lumberjack
+Ranger
+Resin tapper
+Rubber tapper
+Shingle weaver
+Timber cruiser
+Tree planter
+Wood process engineer
+Forestry portal
+WikiProject
+Commons
+Category
+by continent
+by country
+education
+events
+history
+initiatives
+lists
+organizations
+tools
+equipment
+NewPP limit report
+Parsed by mw1174
+Cached time: 20161120013519
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.104 seconds
+Real time usage: 0.148 seconds
+Preprocessor visited node count: 376/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 31287/2097152 bytes
+Template argument size: 252/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Lua time usage: 0.027/10.000 seconds
+Lua memory usage: 1.74 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+93.496
+1 - -total
+38.97%
+36.437
+1 - Template:More_footnotes
+24.81%
+23.200
+1 - Template:Forestry
+24.48%
+22.889
+1 - Template:Commons_category
+23.91%
+22.356
+1 - Template:Ambox
+22.55%
+21.080
+1 - Template:Navbox
+7.64%
+7.143
+3 - Template:Icon
+7.38%
+6.903
+1 - Template:Commons
+6.25%
+5.845
+1 - Template:Portal
+6.22%
+5.813
+1 - Template:Sister_project
+Saved in parser cache with key enwiki:pcache:idhash:5248941-0!*!0!!en!4!* and timestamp 20161120013519 and revision id 747151532
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Tree_stump&oldid=747151532"
+Categories: TreesForest ecologyDead woodHidden categories: Articles lacking in-text citations from July 2009All articles lacking in-text citationsCommons category with local link same as on WikidataPages using ISBN magic links

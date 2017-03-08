@@ -1,0 +1,784 @@
+Photovoltaicpowerstations
+From Wikipedia, the free encyclopedia
+(Redirected from Photovoltaic power stations)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+The 25.7 MW Lauingen Energy Park in Bavarian Swabia, Germany
+A photovoltaic power station, also known as a solar park, is a large-scale photovoltaic system (PV system) designed for the supply of merchant power into the electricity grid. They are differentiated from most building-mounted and other decentralised solar power applications because they supply power at the utility level, rather than to a local user or users. They are sometimes also referred to as solar farms or solar ranches, especially when sited in agricultural areas. The generic expression utility-scale solar is sometimes used to describe this type of project.
+The solar power source is via photovoltaic modules that convert light directly to electricity. However, this differs from, and should not be confused with concentrated solar power, the other large-scale solar generation technology, which uses heat to drive a variety of conventional generator systems. Both approaches have their own advantages and disadvantages, but to date, for a variety of reasons, photovoltaic technology has seen much wider use in the field. As of 2013[update], PV systems outnumber concentrators by about 40 to 1.
+In some countries, the nameplate capacity of a photovoltaic power stations is rated in megawatt-peak (MWp), which refers to the solar array's DC power output. However, Canada, Japan, Spain and some parts of the United States often specify using the converted lower nominal power output in MWAC; a measure directly comparable to other forms of power generation. A third and less common rating is the mega volt-amperes (MVA). Most solar parks are developed at a scale of at least 1MWp. As of 2015, the world's largest operating photovoltaic power stations have capacities of close to 600 megawatts and projects up to 1 gigawatt are planned. As at the end of 2015, about 3,400 projects with a combined capacity of 60GWAC were solar farms larger than 4MW.[1]
+Most of the existing large-scale photovoltaic power stations are owned and operated by independent power producers, but the involvement of community- and utility-owned projects is increasing. To date, almost all have been supported at least in part by regulatory incentives such as feed-in tariffs or tax credits, but as levelized costs have fallen significantly in the last decade and grid parity has been reached in an increasing number of markets, it may not be long before external incentives cease to exist.
+Contents
+1 History
+2 Siting and land use
+2.1 Agrivoltaics
+2.2 Co-location
+3 Technology
+3.1 Solar array arrangements
+3.1.1 Fixed arrays
+3.1.2 Dual axis trackers
+3.1.3 Single axis trackers
+3.2 Power conversion
+3.2.1 Centralised inverters
+3.2.2 String inverters
+3.2.3 Transformers
+3.3 System performance
+3.4 System degradation
+4 The business of developing solar parks
+4.1 Planning approval
+4.2 Grid connection
+4.3 Operation and maintenance
+4.4 Power delivery
+5 Economics and Finance
+5.1 Grid parity
+5.2 Incentive mechanisms
+5.2.1 Feed-in tariffs
+5.2.2 Renewable portfolio standards and supplier obligations
+5.2.3 Loan guarantees and other capital incentives
+5.2.4 Tax credits and other fiscal incentives
+5.2.5 International, national and regional programmes
+5.3 Financial performance
+6 Geography
+6.1 China
+6.2 Germany
+6.3 India
+6.4 Italy
+6.5 Spain
+6.6 United Kingdom
+6.7 United States
+6.8 Noteworthy solar parks
+7 See also
+8 References
+9 External links
+History[edit]
+The first 1 MWp solar park was built by Arco Solar at Lugo near Hesperia, California at the end of 1982,[2] followed in 1984 by a 5.2 MWp installation in Carrizo Plain.[3] Both have since been decommissioned, though Carrizo Plain is the site for several large plants now being constructed[4] or planned. The next stage followed the 2004 revisions[5] to the feed-in tariffs in Germany[6] when a substantial volume of solar parks were constructed.[6]
+Serpa Solar Park built in Portugal in 2006
+Several hundred installations over 1 MWp have been since been installed in Germany, of which more than 50 are over 10 MWp.[7] With its introduction of feed-in tariffs in 2008, Spain became briefly the largest market, with some 60 solar parks over 10 MW,[8] but these incentives have since been withdrawn.[9] The USA,[10] China[11] India,[12] France,[13] Canada,[14] and Italy,[15] amongst others, have also become major markets as shown on the list of photovoltaic power stations.
+The largest sites under construction have capacities of hundreds of MWp and projects at a scale of 1 GWp are being planned.[4][16][17]
+Siting and land use[edit]
+The land area required for a desired power output, varies depending on the location,[18] and on the efficiency of the solar modules,[19] the slope of the site[20] and the type of mounting used. Fixed tilt solar arrays using typical modules of about 15% efficiency[21] on horizontal sites, need about 1 hectare/MW in the tropics and this figure rises to over 2 hectares in northern Europe.[18]
+Because of the longer shadow the array casts when tilted at a steeper angle,[22] this area is typically about 10% higher for an adjustable tilt array or a single axis tracker, and 20% higher for a 2-axis tracker,[23] though these figures will vary depending on the latitude and topography.[24]
+The best locations for solar parks in terms of land use are held to be brown field sites, or where there is no other valuable land use.[25] Even in cultivated areas, a significant proportion of the site of a solar farm can also be devoted to other productive uses, such as crop growing[26][27] or biodiversity.[28]
+Agrivoltaics[edit]
+Agrivoltaics is co-developing the same area of land for both solar photovoltaic power as well as for conventional agriculture. A recent study found that the value of solar generated electricity coupled to shade-tolerant crop production created an over 30% increase in economic value from farms deploying agrivoltaic systems instead of conventional agriculture. [29]
+Co-location[edit]
+In some cases several different solar power stations, with separate owners and contractors, are developed on adjacent sites.[30] This can offer the advantage of the projects sharing the cost and risks of project infrastructure such as grid connections and planning approval.[31] Solar farms can also be co-located with wind farms.[32] Sometimes the title 'solar park' is used, rather than an individual solar power station.[33][34]
+Some examples of such solar clusters are the Charanka Solar Park, where there are 17 different generation projects; Neuhardenberg,[35][36] with eleven plants, and the Golmud solar parks with total reported capacity over 500MW.[37][38] An extreme example is calling all of the solar farms in the Gujarat state of India a single solar park, the Gujarat Solar Park.
+Technology[edit]
+Most Solar parks are ground mounted PV systems, also known as free-field solar power plants.[39] They can either be fixed tilt or use a single axis or dual axis solar tracker.[40] While tracking improves the overall performance, it also increases the system's installation and maintenance cost.[41][42] A solar inverter converts the array's power output from DC to AC, and connection to the utility grid is made through a high voltage, three phase step up transformer of typically 10kV and above.[43][44]
+Solar array arrangements[edit]
+The solar arrays are the subsystems which convert incoming light into electrical energy.[45] They comprise a multitude of solar modules, mounted on support structures and interconnected to deliver a power output to electronic power conditioning subsystems.[46]
+A minority of utility-scale solar parks are configured on buildings[47] and so use building-mounted solar arrays. The majority are 'free field' systems using ground-mounted structures,[39] usually of one of the following types:
+Fixed arrays[edit]
+Double glass photovoltaic solar modules, installed on a fixed support structure.
+Many projects use mounting structures where the solar modules are mounted at a fixed inclination calculated to provide the optimum annual output profile.[40] The modules are normally oriented towards the Equator, at a tilt angle slightly less than the latitude of the site.[48] In some cases, depending on local climatic, topographical or electricity pricing regimes, different tilt angles can be used, or the arrays might be offset from the normal East-West axis to favour morning or evening output.[49]
+A variant on this design is the use of arrays, whose tilt angle can be adjusted twice or four times annually to optimise seasonal output.[40] They also require more land area to reduce internal shading at the steeper winter tilt angle.[22] Because the increased output is typically only a few percent, it seldom justifies the increased cost and complexity of this design.[23]
+Dual axis trackers[edit]
+Bellpuig Solar Park near Lerida, Spain uses pole-mounted 2-axis trackers
+To maximise the intensity of incoming direct radiation, solar panels should be orientated normal to the sun's rays.[50] To achieve this, arrays can be designed using two-axis trackers, capable of tracking the sun in its daily orbit across the sky, and as its elevation changes throughout the year.[51]
+These arrays need to be spaced out to reduce inter-shading as the sun moves and the array orientations change, so need more land area.[52] They also require more complex mechanisms to maintain the array surface at the required angle. The increased output can be of the order of 30%[53] in locations with high levels of direct radiation, but the increase is lower in temperate climates or those with more significant diffuse radiation, due to overcast conditions. For this reason, dual axis trackers are most commonly used in subtropical regions,[52] and were first deployed at utility scale at the Lugo plant.[2]
+Single axis trackers[edit]
+A third approach achieves some of the output benefits of tracking, with a lesser penalty in terms of land area, capital and operating cost. This involves tracking the sun in one dimension  in its daily journey across the sky  but not adjusting for the seasons.[54] The angle of the axis is normally horizontal, though some, such as the solar park at Nellis Airforce Base, which have a 20 tilt,[55] incline the axis towards the equator in a north-south orientation  effectively a hybrid between tracking and fixed tilt.[56]
+Single axis tracking systems are aligned along axes roughly North-South.[57] Some use linkages between rows so that the same actuator can adjust the angle of several rows at once.[54]
+Power conversion[edit]
+Solar panels produce direct current (DC) electricity, so solar parks need conversion equipment[46] to convert this to alternating current (AC), which is the form transmitted by the electricity grid. This conversion is done by inverters. To maximise their efficiency, solar power plants also incorporate maximum power point trackers, either within the inverters or as separate units. These devices keep each solar array string close to its peak power point.[58]
+There are two primary alternatives for configuring this conversion equipment; centralised and string inverters,[59] although in some cases individual, or micro-inverters are used.[60] Single inverters allows optimizing the output of each panel, and multiple inverters increases the reliability by limiting the loss of output when an inverter fails.[61]
+Centralised inverters[edit]
+Waldpolenz Solar Park[62] is divided into blocks, each with a centralised inverter
+These units have relatively high capacity, typically of the order of 1 MW,[63] so they condition that the output of a substantial block of solar arrays, up to perhaps 2 hectares (4.9 acres) in area.[64] Solar parks using centralised inverters are often configured in discrete rectangular blocks, with the related inverter in one corner, or the centre of the block.[65][66][67]
+String inverters[edit]
+String inverters are substantially lower in capacity, of the order of 10kW,[63][68] and condition the output of a single array string. This is normally a whole, or part of, a row of solar arrays within the overall plant. String inverters can enhance the efficiency of solar parks, where different parts of the array are experiencing different levels of insolation, for example where arranged at different orientations, or closely packed to minimise site area.[61]
+Transformers[edit]
+The system inverters typically provide power output at voltages of the order of 480 VAC.[69][70] Electricity grids operate at much higher voltages of the order of tens or hundreds of thousands of volts,[71] so transformers are incorporated to deliver the required output to the grid.[44] Due to the long lead time, the Long Island Solar Farm chose to keep a spare transformer onsite, as transformer failure would have kept the solar farm offline for a long period.[72] Transformers typically have a life of 25 to 75 years, and normally do not require replacement during the life of a photovoltaic power station.[73]
+System performance[edit]
+The performance of a solar park is a function of the climatic conditions, the equipment used and the system configuration. The primary energy input is the global light irradiance in the plane of the solar arrays, and this in turn is a combination of the direct and the diffuse radiation.[74]
+A key determinant of the output of the system is the conversion efficiency of the solar modules, which will depend in particular on the type of solar cell used.[75]
+There will be losses between the DC output of the solar modules and the AC power delivered to the grid, due to a wide range of factors such as light absorption losses, mismatch, cable voltage drop, conversion efficiencies, and other parasitic losses.[76] A parameter called the 'performance ratio'[77] has been developed to evaluate the total value of these losses. The performance ratio gives a measure of the output AC power delivered as a proportion of the total DC power which the solar modules should be able to deliver under the ambient climatic conditions. In modern solar parks the performance ratio should typically be in excess of 80%.[78][79]
+System degradation[edit]
+Early photovoltaic systems output decreased as much as 10%/year,[3] but as of 2010 the median degradation rate was 0.5%/year, with modules made after 2000 having a significantly lower degradation rate, so that a system would lose only 12% of its output performance in 25 years. A system using modules which degrade 4%/year will lose 64% of its output during the same period.[80] Many panel makers offer a performance guarantee, typically 90% in ten years and 80% over 25 years. The output of all panels is typically warranteed at plus or minus 3% during the first year of operation.[81]
+The business of developing solar parks[edit]
+Westmill Solar Park[82] is the world's largest community-owned solar power station[83]
+Solar power plants are developed to deliver merchant electricity into the grid as an alternative to other renewable, fossil or nuclear generating stations.[84]
+The plant owner is an electricity generator. Most solar power plants today are owned by independent power producers (IPP's),[85] though some are held by investor- or community-owned utilities.[86]
+Some of these power producers develop their own portfolio of power plants,[87] but most solar parks are initially designed and constructed by specialist project developers.[88] Typically the developer will plan the project, obtain planning and connection consents, and arrange financing for the capital required.[89] The actual construction work is normally contracted to one or more EPC (engineering, procurement and construction) contractors.[90]
+Major milestones in the development of a new photovoltaic power plant are planning consent,[91] grid connection approval,[92] financial close,[93] construction,[94] connection and commissioning.[95] At each stage in the process, the developer will be able to update estimates of the anticipated performance and costs of the plant and the financial returns it should be able to deliver.[96]
+Planning approval[edit]
+Photovoltaic power stations occupy at least one hectare for each megawatt of rated output,[97] so require a substantial land area; which is subject to planning approval. The chances of obtaining consent, and the related time, cost and conditions, varying from jurisdiction to jurisdiction and location to location. Many planning approvals will also apply conditions on the treatment of the site after the station has been decommissioned in the future.[70] A professional health, safety and environment assessment is usually undertaken during the design of a PV power station in order to ensure the facility is designed and planned in accordance with all HSE regulations.
+Grid connection[edit]
+The availability, locality and capacity of the connection to the grid is a major consideration in planning a new solar park, and can be a significant contributor to the cost.[98]
+Most stations are sited within a few kilometres of a suitable grid connection point. This network needs to be capable of absorbing the output of the solar park when operating at its maximum capacity. The project developer will normally have to absorb the cost of providing power lines to this point and making the connection; in addition often to any costs associated with upgrading the grid, so it can accommodate the output from the plant.[99]
+Operation and maintenance[edit]
+Once the solar park has been commissioned, the owner usually enters into a contract with a suitable counterparty to undertake operation and maintenance (O&M).[100] In many cases this may be fulfilled by the original EPC contractor.[101]
+Solar plants' reliable solid-state systems require minimal maintenance, compared to rotating machinery for example.[102] A major aspect of the O&M contract will be continuous monitoring of the performance of the plant and all of its primary subsystems,[103] which is normally undertaken remotely.[104] This enables performance to be compared with the anticipated output under the climatic conditions actually experienced.[93] It also provides data to enable the scheduling of both rectification and preventive maintenance.[105] A small number of large solar farms use a separate inverter[106][107] or maximizer[108] for each solar panel, which provide individual performance data that can be monitored. For other solar farms, thermal imaging is a tool that is used to identify non-performing panels for replacement.[109]
+Power delivery[edit]
+A solar park's income derives from the sales of electricity to the grid, and so its output is metered in real-time with readings of its energy output provided, typically on a half-hourly basis, for balancing and settlement within the electricity market.[110]
+Income is affected by the reliability of equipment within the plant and also by the availability of the grid network to which it is exporting.[111] Some connection contracts allow the transmission system operator to constrain the output of a solar park, for example at times of low demand or high availability of other generators.[112] Some countries make statutory provision for priority access to the grid[113] for renewable generators, such as that under the European Renewable Energy Directive.[114]
+Economics and Finance[edit]
+In recent years, PV technology has improved its electricity generating efficiency, reduced the installation cost per watt as well as its energy payback time (EPBT), and has reached grid parity in at least 19 different markets by 2014.[115][116] Photovoltaics is increasingly becoming a viable source of mainstream power.[117] However, prices for PV systems show strong regional variations, much more than solar cells and panels, which tend to be global commodities. In 2013, utility-scale system prices in highly penetrated markets such as China and Germany were significantly lower ($1.40/W) than in the United States ($3.30/W). The IEA explains these discrepancies due to differences in "soft costs", which include customer acquisition, permitting, inspection and interconnection, installation labor and financing costs.[118]:14
+Utility-scale PV system prices
+Country
+Cost ($/W)
+Australia
+2.0
+China
+1.4
+France
+2.2
+Germany
+1.4
+Italy
+1.5
+Japan
+2.9
+United Kingdom
+1.9
+United States
+3.3
+For utility-scale PV systems in 2013[118]:15
+Grid parity[edit]
+Main article: Grid parity
+Solar generating stations have become progressively cheaper in recent years, and this trend is expected to continue.[119] Meanwhile, traditional electricity generation is becoming progressively more expensive.[120] These trends are expected to lead to a crossover point when the levelised cost of energy from solar parks, historically more expensive, matches the cost of traditional electricity generation.[121] This point is commonly referred to as grid parity.[122]
+For merchant solar power stations, where the electricity is being sold into the electricity transmission network, the levelised cost of solar energy will need to match the wholesale electricity price. This point is sometimes called 'wholesale grid parity' or 'busbar parity'.[123]
+Some photovoltaic systems, such as rooftop installations, can supply power directly to an electricity user. In these cases, the installation can be competitive when the output cost matches the price at which the user pays for his electricity consumption. This situation is sometimes called 'retail grid parity', 'socket parity' or 'dynamic grid parity'.[124] Research carried out by UN-Energy in 2012 suggests areas of sunny countries with high electricity prices, such as Italy, Spain and Australia, and areas using diesel generators, have reached retail grid parity.[123]
+Incentive mechanisms[edit]
+Because the point of grid parity has not yet been reached in many parts of the world, solar generating stations need some form of financial incentive to compete for the supply of electricity.[125] Many legislatures around the world have introduced such incentives to support the deployment of solar power stations.[126]
+Feed-in tariffs[edit]
+Main article: Feed-in tariff
+Feed in tariffs are designated prices which must be paid by utility companies for each kilowatt hour of renewable electricity produced by qualifying generators and fed into the grid.[127] These tariffs normally represent a premium on wholesale electricity prices and offer a guaranteed revenue stream to help the power producer finance the project.[128]
+Renewable portfolio standards and supplier obligations[edit]
+Main article: Renewable portfolio standard
+These standards are obligations on utility companies to source a proportion of their electricity from renewable generators.[129] In most cases, they do not prescribe which technology should be used and the utility is free to select the most appropriate renewable sources.[130]
+There are some exceptions where solar technologies are allocated a proportion of the RPS in what is sometimes referred to as a 'solar set aside'.[131]
+Loan guarantees and other capital incentives[edit]
+Main article: Loan guarantee
+Some countries and states adopt less targeted financial incentives, available for a wide range of infrastructure investment, such as the US Department of Energy loan guarantee scheme,[132] which stimulated a number of investments in the solar power plant in 2010 and 2011.[133]
+Tax credits and other fiscal incentives[edit]
+Main article: Tax credit
+Another form of indirect incentive which has been used to stimulate investment in solar power plant was tax credits available to investors. In some cases the credits were linked to the energy produced by the installations, such as the Production Tax Credits.[134] In other cases the credits were related to the capital investment such as the Investment Tax Credits[135]
+International, national and regional programmes[edit]
+In addition to free market commercial incentives, some countries and regions have specific programs to support the deployment of solar energy installations.
+The European Union's Renewables Directive[136] sets targets for increasing levels of deployment of renewable energy in all member states. Each has been required to develop a National Renewable Energy Action Plan showing how these targets would be met, and many of these have specific support measures for solar energy deployment.[137] The directive also allows states to develop projects outside their national boundaries, and this may lead to bilateral programs such as the Helios project.[138]
+The Clean Development Mechanism[139] of the UNFCCC is an international programme under which solar generating stations in certain qualifying countries can be supported.[140]
+Additionally many other countries have specific solar energy development programmes. Some examples are India's JNNSM,[141] the Flagship Program in Australia,[142] and similar projects in South Africa[143] and Israel.[144]
+Financial performance[edit]
+The financial performance of the solar power plant is a function of its income and its costs.[23]
+The electrical output of a solar park will be related to the solar radiation, the capacity of the plant and its performance ratio.[77] The income derived from this electrical output will come primarily from the sale of the electricity,[145] and any incentive payments such as those under Feed-in Tariffs or other support mechanisms.[146]
+Electricity prices may vary at different times of day, giving a higher price at times of high demand.[147] This may influence the design of the plant to increase its output at such times.[148]
+The dominant costs of solar power plants are the capital cost, and therefore any associated financing and depreciation.[149] Though operating costs are typically relatively low, especially as no fuel is required,[102] most operators will want to ensure that adequate operation and maintenance cover[103] is available to maximise the availability of the plant and thereby optimise the income to cost ratio.[150]
+Geography[edit]
+Main articles: Solar power by country and Growth of photovoltaics
+The first places to reach grid parity were those with high traditional electricity prices and high levels of solar radiation.[18] Currently, more capacity is being installed in the rooftop than in the utility-scale segment. However, the worldwide distribution of solar parks is expected to change as different regions achieve grid parity.[151] This transition also includes a shift from rooftop towards utility-scale plants, since the focus of new PV deployment has changed from Europe towards the Sunbelt markets where ground-mounted PV systems are favored.[152]:43
+Because of the economic background, large-scale systems are presently distributed where the support regimes have been the most consistent, or the most advantageous.[153] Total capacity of worldwide PV plants above 4 MWAC was assessed by Wiki-Solar as 36 GW in c. 2,300 installations at the end of 2014[154] and represents about 25 percent of total global PV capacity of 139GW.[152]:17 The countries which had the most capacity, in descending order, were the United States, China, Germany, India, United Kingdom, Spain, Italy, Canada and South Africa.[155] Activities in the key markets are reviewed individually below.
+China[edit]
+Main article: Solar power in China
+China was reported in early 2013 to have overtaken Germany as the nation with the most utility-scale solar capacity.[156] Much of this has been supported by the Clean Development Mechanism.[157] The distribution of power plants around the country is quite broad, with the highest concentration in the Gobi desert[11] and connected to the Northwest China Power Grid.[158]
+Germany[edit]
+Main article: Solar power in Germany
+The first multi-megawatt plant in Europe was the 4.2 MW community-owned project at Hemau, commissioned in 2003.[159] But it was the revisions to the German feed-in tariffs in 2004,[5] which gave the strongest impetus to the establishment of utility-scale solar power plants.[160] The first to be completed under this programme was the Leipziger Land solar park developed by Geosol.[161] Several dozen plants were built between 2004 and 2011, several of which were at the time the largest in the world. The EEG, the law which establishes Germanys feed-in tariffs, provides the legislative basis not just for the compensation levels, but other regulatory factors, such as priority access to the grid.[113] The law was amended in 2010 to restrict the use of agricultural land,[162] since which time most solar parks have been built on so-called development land, such as former military sites.[35] Partly for this reason, the geographic distribution of photovoltaic power plants in Germany[7] is biased towards the former Eastern Germany.[163][164] As of February 2012, Germany had 1.1 million photovoltaic power plants (most are small kW roof mounted).[165]
+India[edit]
+Main article: Solar power in India
+India has been rising up the leading nations for the installation of utility-scale solar capacity.[156] The Charanka Solar Park in Gujarat was opened officially in April 2012[166] and was at the time the largest group of solar power plants in the world. Geographically the majority of the stations are located in Gujarat and Maharashtra.[12] Rajasthan has successfully been attempting to attract solar development.[167] It and Gujarat share the Thar Desert, along with Pakistan.
+Italy[edit]
+Main article: Solar power in Italy
+Italy has a very large number of photovoltaic power plants, the largest of which is the 84 MW Montalto di Castro project.[168]
+Spain[edit]
+Main article: Solar power in Spain
+The majority of the deployment of solar power stations in Spain to date occurred during the boom market of 2007-8.[169] The stations are well distributed around the country, with some concentration in Extremadura, Castile-La Mancha and Murcia.[8]
+United Kingdom[edit]
+Main article: Solar power in the United Kingdom
+The introduction of Feed-in tariffs in the United Kingdom in 2010 stimulated the first wave of utility-scale projects,[170] with c. 20 plants being completed[171] before tariffs were reduced on 1 August 2011 following the 'Fast Track Review'.[172] A second wave of installations was undertaken under the UK's Renewables Obligation, with the total number of plants connected by the end of March 2013 reaching 86.[173] This is reported to have made the UK Europe's best market in the first quarter of 2013.[174]
+UK projects were originally concentrated in the South West, but have more recently spread across the South of England and into East Anglia and the Midlands.[175] The first solar park in Wales came on stream in 2011 at Rhosygilwen, north Pembrokeshire.[176] As of June 2014 there were 18 schemes generating more than 5MW and 34 in planning or construction in Wales.[177]
+United States[edit]
+Main article: Solar power in the United States
+The US deployment of photovoltaic power stations is largely concentrated in southwestern states.[10] The Renewable Portfolio Standards in California[178] and surrounding states[179][180] provide a particular incentive. The volume of projects under construction in early 2013 has led to the forecast that the US will become the leading market.[156]
+Noteworthy solar parks[edit]
+Main article: List of photovoltaic power stations
+The following solar parks were, at the time they became operational, the largest in the world or their continent, or are notable for the reasons given:
+Noteworthy solar power plants
+Name
+Country[181]
+Nominal power
+(MW)[182][183]
+Commissioned
+Notes
+Lugo,[2] San Bernardino County, California
+USA
+1 MW
+1982-12-01 Dec 1982
+First MW plant
+Carrisa Plain[3]
+USA
+5.6 MW
+1985-12-01 Dec 1985
+Formerly world's largest
+Hemau[159]
+Germany
+4.0 MW
+2003-04-01 Apr 2003
+Formerly Europes largest community-owned facility[159]
+Leipziger Land[161]
+Germany
+4.2 MW
+2004-08-01 Aug 2004
+Formerly Europes largest; first under FITs[23][161]
+Pocking[184]
+Germany
+10 MW
+2006-04-01 Apr 2006
+Briefly the world's largest
+Nellis Air Force Base, Nevada[185]
+USA
+14 MW
+2007-12-01 Dec 2007
+Formerly America's largest
+Olmedilla[186]
+Spain
+60 MW
+2008-07-01 Jul 2008
+Formerly world's and Europe's largest
+Sinan[187]
+Korea
+24 MW
+2008-08-01 Aug 2008
+Formerly Asia's largest
+Waldpolenz, Saxony[62]
+Germany
+40 MW
+2008-12-01 Dec 2008
+World's largest thin film plant. Extended to 52 MW in 2011[23]
+DeSoto, Florida[188]
+USA
+25 MW
+2009-10-01 Oct 2009
+Formerly America's largest
+La Roseraye[189]
+Reunion
+11 MW
+2010-04-01 Apr 2010
+Africa's first 10 MW+ plant
+Sarnia, Ontario[190]
+Canada
+97 MWP
+2010-09-01 Sep 2010
+Formerly world's largest. Corresponds to 80 MWAC.
+Golmud, Qinghai,[191]
+China
+200 MW
+2011-10-01 Oct 2011
+Formerly world's largest
+Finow Tower[192]
+Germany
+85 MW
+2011-12-01 Dec 2011
+Extension takes it to Europe's largest
+Lopburi[193]
+Thailand
+73 MW
+2011-12-01 Dec 2011
+Formerly Asia's largest (outside China)[23]
+Perovo, Crimea[194]
+Ukraine
+100 MW
+2011-12-01 Dec 2011
+Becomes Europe's largest
+Charanka, Gujarat[195][196]
+India
+221 MW
+2012-04-01 Apr 2012
+Asia's largest solar park
+Agua Caliente, Arizona[197]
+USA
+290 MWAC
+2012-07-01 Jul 2012
+Formerly world's largest solar plant
+Neuhardenberg, Brandenburg[35]
+Germany
+145 MW
+2012-09-01 Sep 2012
+Becomes Europe's largest solar cluster
+Greenhough River, Western Australia,[198]
+Australia
+10 MW
+2012-10-01 Oct 2012
+Australasia's first 10 MW+ plant
+Majes and Reparticin
+Peru
+22 MW
+2012-10-01 Oct 2012
+First utility-scale plants in South America[199][200]
+Westmill Solar Park, Oxfordshire[82]
+United Kingdom
+5 MW
+2012-10-01 Oct 2012
+Acquired by Westmill Solar Co-operative to become world's largest community-owned solar power station[83]
+San Miguel Power, Colorado
+USA
+1.1 MW
+2012-12-01 Dec 2012
+Biggest community-owned plant in USA[201]
+Sheikh Zayed, Nouakchott[202]
+Mauritania
+15 MW
+2013-04-01 Apr 2013
+Largest solar power plant in Africa[203]
+Topaz,[4] Riverside County, California
+USA
+550 MWAC
+2013-11-01 Nov 2013
+Formerly the world's largest solar park[204]
+Amanacer, Copiap, Atacama
+Chile
+93.7 MW
+2014-01-01 Jan 2014
+Formerly largest plant in South America[205]
+Jasper, Postmasburg, Northern Cape
+South Africa
+88 MW
+Nov 2014
+Largest plant in Africa
+Longyangxia PV/Hydro power project, Gonghe, Qinghai
+China
+850 MWP
+Dec 2014
+Phase II of 530 MW added to 320 MW Phase I (2013)[206] makes this the world's largest solar power station
+Nyngan, New South Wales
+Australia
+102 MW
+Jun 2015
+Becomes largest plant in Australasia and Oceania
+Solar Star,[207] Los Angeles County, California
+USA
+579 MWAC
+2015-06-19 Jun 2015
+Becomes the world's largest solar farm installation project (Longyanxia having been constructed in two phases)
+Cestas, Aquitaine
+France
+300 MW
+2015-12-01 Dec 2015
+Largest PV plant in Europe[208]
+Finis Terrae, Mara Elena, Tocopilla
+Chile
+138 MWAC
+2016-05-01 May 2016
+Becomes largest plant in South America[209]
+Solar power plants under development are not included here, but may be on this list.
+See also[edit]
+Growth of photovoltaics
+List of photovoltaic power stations
+List of monitored photovoltaic power stations
+List of photovoltaics companies
+List of solar cell manufacturers
+Energy portal
+Renewable energy portal
+Photovoltaics
+Photovoltaic system
+Solar energy
+Solar power by country
+Theory of solar cell
+References[edit]
+^ "Wiki-Solar Database, Deployment of utility-scale solar power by continent". WikiSolar. Retrieved March 2016. Check date values in: |access-date= (help)
+^ a b c Arnett, J.C.; Schaffer, L. A.; Rumberg, J. P.; Tolbert, R. E. L.; et al. (1984). "Design, installation and performance of the ARCO Solar one-megawatt power plant". Proceedings of the Fifth International Conference, Athens, Greece. EC Photovoltaic Solar Energy Conference: 314. Bibcode:1984pvse.conf..314A.
+^ a b c Wenger, H.J.; et al. "Decline of the Carrisa Plains PV power plant". Photovoltaic Specialists Conference, 1991., Conference Record of the Twenty Second IEEE. IEEE. Retrieved 13 April 2013.
+^ a b c "Topaz Solar Farm". First Solar. Retrieved 2 March 2013.
+^ a b "The Renewable Energy Sources Act" (PDF). Bundesgesetzblatt 2004 I No. 40. Bundesumweltministerium(BMU). 21 July 2004. Retrieved 13 April 2013.
+^ a b "Top 10 Solar PV power plants". SolarPlaza. Retrieved 22 April 2013. Retrieved 13 April 2013
+^ a b "Solar parks map - Germany". Wiki-Solar. Retrieved 5 March 2015.
+^ a b "Solar parks map - Spain". Wiki-Solar. Retrieved 13 April 2013.
+^ "An Early Focus on Solar". National Geographic. Retrieved 5 March 2015. Retrieved 5 March 2015
+^ a b "Solar parks map - USA". Wiki-Solar. Retrieved 5 March 2015.
+^ a b "Solar parks map - China". Wiki-Solar. Retrieved 13 April 2013.
+^ a b "Solar parks map - India". Wiki-Solar. Retrieved 5 March 2015.
+^ "Solar parks map - France". Wiki-Solar. Retrieved 5 March 2015.
+^ "Solar parks map - Canada". Wiki-Solar. Retrieved 5 March 2015.
+^ "Solar parks map - Italy". Wiki-Solar. Retrieved 5 March 2015.
+^ Olson, Syanne (10 January 2012). "Dubai readies for 1,000MW Solar Park". PV-Tech. Retrieved 21 February 2012.
+^ "MX Group Spa signs a 1.75 Billion Euros agreement for the construction in Serbia of the largest solar park in the world" (PDF). Retrieved 6 March 2012.
+^ a b c "Statistics about selected locations for utility-scale solar parks". Wiki-Solar. Retrieved 5 March 2015.
+^ Joshi, Amruta. "Estimating per unit area energy output from solar PV modules". National Centre for Photovoltaic Research and Education. Retrieved 5 March 2013.
+^ "Screening Sites for Solar PV Potential" (PDF). Solar Decision Tree. US Environmental Protection Agency. Retrieved 5 March 2013.
+^ "An overview of PV panels". SolarJuice. Retrieved 5 March 2013.
+^ a b "Calculating Inter-Row Spacing" (PDF). Technical Questions & Answers. Solar Pro Magazine. Retrieved 5 March 2013.
+^ a b c d e f Wolfe, Philip (2012). Solar Photovoltaic Projects in the Mainstream Power Market. Oxford: Routledge. p.240. ISBN978-0-415-52048-5.
+^ "Solar Radiation on a Tilted Surface". PVEducation.org. Retrieved 22 April 2013.
+^ "Solar parks: maximising environmental benefits". Natural England. Retrieved 30 August 2012.
+^ "Person County Solar Park Makes Best Use of Solar Power and Sheep". solarenergy. Retrieved 22 April 2013.
+^ "Person County Solar Park One". Carolina Solar Energy. Retrieved 22 April 2013.
+^ "Solar Parks  Opportunities for Biodiversity". German Renewable Energies Agency. Retrieved 22 April 2013.
+^ Harshavardhan Dinesh, Joshua M. Pearce, The potential of agrivoltaic systems, Renewable and Sustainable Energy Reviews, 54, 299-308 (2016).
+^ "Addendum to conditional use permit" (PDF). Kern County Planning and Community development Department. Retrieved 22 April 2013.
+^ "Smart Grid transmission scheme for Evacuation of Solar Power" (PDF). Workshop on smart grid development. Pandit Deendayal Petroleum University. Retrieved 5 March 2013.
+^ "E.ON's Solar PV Portfolio". E.On. Retrieved 22 April 2013.
+^ "Solar parks: maximising environmental benefits". Natural England. Retrieved 22 April 2013.
+^ "First solar park set for Upington, Northern Cape". Frontier Market Intelligence. Retrieved 22 April 2013.
+^ a b c "ENFO entwickelt grtes Solarprojekt Deutschlands". Enfo AG. Retrieved 28 December 2012.
+^ "Solarpark Neuhardenberg - site plan". Wiki-Solar. Retrieved Jan 2013. Check date values in: |access-date= (help)
+^ "Qinghai leads in photovoltaic power". China Daily. 2 Mar 2012. Retrieved 21 February 2013.
+^ "Golmud Desert Solar Park - satellite view". Wiki-Solar. Retrieved 30 December 2012.
+^ a b "Free-field solar power plants a solution that allows power to be generated faster and more cost-effectively than offshore wind". OpenPR. Retrieved 5 March 2013.
+^ a b c "Optimum Tilt of Solar Panels". MACS Lab. Retrieved 19 October 2014.
+^ "Tracked vs Fixed: PV system cost and AC power production comparison" (PDF). WattSun. Retrieved 30 August 2012.
+^ "To Track or Not To Track, Part II". Report Snapshot. Greentech Solar. Retrieved 5 March 2013.
+^ "3-phase transformer" (PDF). Conergy. Retrieved 5 March 2013.
+^ a b "Popua Solar Farm". Meridian Energy. Retrieved 22 April 2013.[dead link]
+^ "Solar cells and photovoltaic arrays". Photovoltaics. Alternative Energy News. Retrieved 5 March 2013.
+^ a b Kymakis, Emmanuel; et al. "Performance analysis of a grid connected photovoltaic park on the island of Crete" (PDF). Elsevier. Retrieved 30 December 2012.
+^ "Solar Report: Large photovoltaic power plants: average growth by almost 100% since 2005". SolarServer. Retrieved 30 December 2012.
+^ "Mounting solar panels". 24 volt. Retrieved 5 March 2013.
+^ "Best Practice Guide for Photovoltaics (PV)" (PDF). Sustainable Energy Authority of Ireland. Retrieved 30 December 2012.
+^ "PV Energy Conversion Efficiency". Solar Energy. Solarlux. Retrieved 5 March 2013.
+^ Mousazadeh, Hossain; et al. "A review of principle and sun-tracking methods for maximizing" (PDF). Renewable and Sustainable Energy Reviews 13 (2009) 18001818. Elsevier. Retrieved 30 December 2012.
+^ a b Appleyard, David. "Solar Trackers: Facing the Sun". Renewable Energy World. Retrieved 5 March 2013.
+^ Suri, Marcel; et al. "Solar Electricity Production from Fixed-inclined and Sun-tracking c-Si Photovoltaic Modules in" (PDF). Proceedings of 1st Southern African Solar Energy Conference (SASEC 2012), 2123 May 2012, Stellenbosch, South Africa. GeoModel Solar, Bratislava, Slovakia. Retrieved 30 December 2012.
+^ a b Shingleton, J. "One-Axis Trackers  Improved Reliability, Durability, Performance, and Cost Reduction" (PDF). National Renewable Energy Laboratory. Retrieved 30 December 2012.
+^ "Nellis Air Force Base Solar Power System" (PDF). US Air Force. Retrieved 14 April 2013.
+^ "T20 Tracker" (PDF). Data sheet. SunPower Corporation. Retrieved 14 April 2013.
+^ Li, Zhimin; et al. (June 2010). "Optical performance of inclined south-north single-axis tracked solar panels". Energy. 10 (6): 25112516. doi:10.1016/j.energy.2010.02.050. Retrieved 5 March 2013.
+^ "Invert your thinking: Squeezing more power out of your solar panels". scientificamerican.com. Retrieved 9 June 2011.
+^ "Understanding Inverter Strategies". Solar Novus Today. Retrieved 13 April 2013.
+^ "Photovoltaic micro-inverters". SolarServer. Retrieved 13 April 2013.
+^ a b "Case study: German solar park chooses decentralized control". Solar Novus. Retrieved 13 April 2013.
+^ a b "Waldpolenz Solar Park". Juwi. Retrieved 13 April 2012.
+^ a b Lee, Leesa. "Inverter technology drives lower solar costs". Renewable Energy World. Retrieved 30 December 2012.
+^ "Solar Farm Fact Sheet" (PDF). IEEE. Retrieved 13 April 2012.
+^ "Sandringham Solar Farm" (PDF). Invenergy. Retrieved 13 April 2012.
+^ "McHenry Solar Farm" (PDF). ESA. Retrieved 13 April 2013.
+^ "Woodville Solar Farm" (PDF). Dillon Consulting Limited. Retrieved 13 April 2013.
+^ Appleyard, David. "Making waves: Inverters continue to push efficiency". Renewable Energy World. Retrieved 13 April 2013.
+^ "1 MW Brilliance Solar Inverter". General Electric Company. Retrieved 13 April 2013.
+^ a b "Planning aspects of solar parks" (PDF). Ownergy Plc. Retrieved 13 April 2013.
+^ Larsson, Mats. "Coordinated Voltage Control" (PDF). International Energy Agency. Retrieved 13 April 2013.
+^ "Long Island Solar Farm Goes Live!". Blue Oak Energy. Retrieved 22 April 2013. Retrieved 13 April 2013
+^ "Analysis of Transformer Failures". BPL Global. Retrieved 22 April 2013. Retrieved 13 April 2013
+^ Myers, D R (Sep 2003). "Solar Radiation Modeling and Measurements for Renewable Energy Applications: Data and Model Quality" (PDF). Proceedings of International Expert Conference on Mathematical Modeling of Solar Radiation and Daylight. Retrieved 30 December 2012.
+^ Green, Martin; Emery, Keith; Hishikawa, Yoshihiro & Warta, Wilhelm (2009). "Solar Cell Efficiency Tables" (PDF). Progress in Photovoltaics: Research and Applications. 17: 8594. doi:10.1002/pip.880. Retrieved 30 December 2012.
+^ Picault, D; Raison, B.; Bacha, S.; de la Casa, J.; Aguilera, J. (2010). "Forecasting photovoltaic array power production subject to mismatch losses" (PDF). Solar Energy. 84 (7): 13011309. doi:10.1016/j.solener.2010.04.009. Retrieved 5 March 2013.
+^ a b Marion, B (); et al. "Performance Parameters for Grid-Connected PV Systems" (PDF). NREL. Retrieved 30 August 2012.
+^ "The Power of PV  Case Studies on Solar Parks in Eastern" (PDF). Proceeding Renexpo. CSun. Retrieved 5 March 2013.
+^ "Avenal in ascendance: Taking a closer look at the world's largest silicon thin-film PV power plant". PV-Tech. Retrieved 22 April 2013.
+^ "Outdoor PV Degradation Comparison". National Renewable Energy Laboratory. Retrieved 22 April 2013. Retrieved 13 April 2013
+^ "New Industry Leading Warrantee". REC Group. Retrieved 22 April 2013. Retrieved 13 April 2013
+^ a b "Westmill Solar Park". Westmill Solar Co-operative Ltd. Retrieved 30 December 2012.
+^ a b Grover, Sami. "World's Largest Community-Owned Solar Project Launches in England". Treehugger. Retrieved 30 December 2012.
+^ "Alternative Energy". Alternative Energy. Retrieved 7 March 2013.
+^ "independent power producer (IPP), non-utility generator (NUG)". Dictionary. Energy Vortex. Retrieved 30 December 2012.
+^ "Investor-owned utility". The Free Dictionary. Retrieved 30 December 2012.
+^ "Owners and IPPs". Deployment of utility-scale solar parks by company. Wiki-Solar. Retrieved 5 March 2015.
+^ Wang, Ucilia. "The Crowded Field of Solar Project Development". Renewable Energy World. Retrieved 30 December 2012.
+^ "Leadership across the Entire Value Chain". First Solar. Retrieved 7 March 2013.
+^ Englander, Daniel (18 May 2009). "Solar's New Important Players". Seeking Alpha. Retrieved 30 December 2012.
+^ "Solar farm on 20 acres of Kauai land gets county planning commission approval". Solar Hawaii. 15 July 2011. Retrieved 7 March 2013.
+^ "Aylesford  Certificate for grid connection". Aylesford Solar Park. AG Renewables. Retrieved 7 March 2013.
+^ a b "SunEdison Closes R2.6 Billion (US$314 Million) in Funding for 58 MW (AC) in South Africa Solar Projects". SunEdison. Retrieved 7 March 2013.
+^ "juwi starts build on its first solar park in South Africa". Renewable Energy Focus. 19 February 2013. Retrieved 7 March 2013.
+^ "Saudi Arabia's Largest Solar Park Commissioned". Islamic Voice. 15 February 2013. Retrieved 7 March 2013.
+^ "Large scale solar parks". Know Your Planet. Retrieved 7 March 2013.
+^ "Statistics about some selected markets for utility-scale solar parks". Wiki-Solar. Retrieved 30 December 2012.
+^ " "  "    /". Greek Photovoltaics Guide. Renelux. Retrieved 30 December 2012.
+^ "Connecting your new home, building or development to Ausgrid's electricity network". Ausgrid. Retrieved 30 December 2012.
+^ McHale, Maureen. "Not All O&M Agreements Are Alike". InterPV. Retrieved 30 December 2012.
+^ "Project Overview". Agua Caliente Solar Project. First Solar. Retrieved 7 March 2013.
+^ a b "Advantages Of Solar Energy". Conserve Energy Future. Retrieved 7 March 2013.
+^ a b "Addressing Solar Photovoltaic Operations and Maintenance Challenges" (PDF). A Survey of Current Knowledge and Practices. Electric Power Research Institute (EPRI). Retrieved 30 December 2012.
+^ "IT for Renewable energy sources management" (PDF). inAccess Networks. Retrieved 7 March 2013.
+^ "Solar Park Maintenance". BeBa Energy. Retrieved 7 March 2013.
+^ "Featured Array: Brewster Community Solar Garden Facility". Retrieved 3 May 2013.
+^ "Featured Array: Strain Ranches". Retrieved 3 May 2013.
+^ "Talmage Solar Engineering, Inc. Unveils Largest Smart Array in North America". Retrieved 3 May 2013.
+^ "PV Power Plants 2012" (PDF). p.35. Retrieved 3 May 2013.
+^ "Introduction to the Balancing and Settlement Code". Elexon. Retrieved 30 December 2012.
+^ Mitavachan, H.; et al. "A case study of a 3-MW scale grid-connected solar photovoltaic power plant at Kolar, Karnataka". Renewable Energy Systems. Indian Institute of Science. Missing or empty |url= (help)
+^ "Electricity network delivery and access". UK Department of Energy and Climate Change. Retrieved 7 March 2013.
+^ a b "Renewable electricity". European Renewable Energy Council. Retrieved 31 July 2012.
+^ "Directive 2009/28/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC". European Commission. Retrieved 7 March 2013.
+^ "2014 Outlook: Let the Second Gold Rush Begin" (PDF). Deutsche Bank Markets Research. 2014-01-06. Archived from the original on 2014-11-22. Retrieved 2014-11-22.
+^ Giles Parkinson (2014-08-13). "Citigroup: Outlook for global solar is getting brighter". RenewEconomy. Retrieved 2014-08-18.
+^ "Solar power is beginning to go mainstream". Business Week. Retrieved 22 April 2013.
+^ a b http://www.iea.org (2014). "Technology Roadmap: Solar Photovoltaic Energy" (PDF). IEA. Archived from the original on 7 October 2014. Retrieved 7 October 2014.
+^ Aaron (23 November 2012). "Solar panels to keep getting cheaper". Evo Energy. Retrieved 13 January 2015.
+^ Jago, Simon (6 March 2013). "Prices going one way". Energy Live News. Retrieved 7 March 2013.
+^ Burkart, Karl. "5 breakthroughs that will make solar power cheaper than coal". Mother Nature Network. Retrieved 7 March 2013.
+^ Spross, Jeff. "Solar Report Stunner: Unsubsidized 'Grid Parity Has Been Reached In India', ItalyWith More Countries Coming in 2014". Climate Progress. Retrieved 22 April 2013.
+^ a b Morgan Baziliana; et al. (17 May 2012). Re-considering the economics of photovoltaic power. UN-Energy (Report). United Nations. Retrieved 20 November 2012.
+^ "Solar Photovoltaics competing in the energy sector  On the road to competitiveness" (PDF). EPIA. Retrieved 30 August 2012.
+^ Wolfe, Philip. "Priorities for low carbon transition". The politics of Climate Change. The Policy Network. Retrieved 7 March 2013.
+^ "Taxes and Incentives for renewable energy" (PDF). KPMG. Retrieved 7 March 2013.
+^ "Policymaker's Guide to Feed-in Tariff Policy Design". National Renewable Energy Laboratory. Retrieved 22 April 2013. Couture, T., Cory, K., Kreycik, C., Williams, E., (2010). National Renewable Energy Laboratory, U.S. Dept. of Energy
+^ "What are Feed-in Tariffs". Feed-in Tariffs Limited. Retrieved 7 March 2013.
+^ "Race to the Top: The Expanding Role of U.S. State Renewable Portfolio Standards". University of Michigan. Retrieved 22 April 2013.
+^ "Investment in electricity generation - the role of costs, incentives and risks" (PDF). UK Energy Research Centre. Retrieved 7 March 2013.
+^ "Solar Carve-Outs in Renewables Portfolio Standards". Dsire Solar. Retrieved 30 December 2012.
+^ "Innovative Technology Loan Guarantee Program" (PDF). US DOE Loan Guarantee Program Office (LGPO). Retrieved 21 February 2012.
+^ "Independent Review: DOE's Loan Guarantee Program Has Worked, Can Be Better". GreenTech Media. Retrieved 7 March 2013.
+^ "Production Tax Credit for Renewable Energy". Union of Concerned Scientists. Retrieved 30 August 2012.
+^ "Business Energy Investment Tax Credit (ITC)". US Department of Energy. Retrieved 21 February 2012.
+^ Directive 2009/28/EC of the European Parliament and of the Council "Renewables Directive" Check |url= value (help). European Commission.
+^ Ragwitz, Mario; et al. "Assessment of National Renewable Energy Action Plans" (PDF). REPAP 2020. Fraunhofer Institut. Retrieved 7 March 2013.
+^ Williams, Andrew (3 November 2011). "Project Helios: A brighter future for Greece?". Solar Novus Today. Retrieved 7 March 2013.
+^ "Clean Development Mechanism (CDM)". UNFCCC. Retrieved 30 December 2012.
+^ "CDM projects grouped in types". UNEP Ris Centre. Retrieved 7 March 2013.
+^ Ministry of New and Renewable Energy. "The Jawaharlal Nehru National Solar Mission". Scheme documents. Government of India. Retrieved 30 December 2012.
+^ Department for Resources, Energy and Tourism (11 Dec 2009). "Solar Flagships Program Open for Business". Government of Australia. Retrieved 30 December 2012.
+^ "South Africa: Renewable Energy Programme to Bring R47 Billion in Investment". allAfrica.com. 29 Oct 2012. Retrieved 30 December 2012.
+^ "Solar Energy". Ministry of Energy and Water Resources. Retrieved 30 December 2012.
+^ "Investment in Solar Parks". Solar Partner. Retrieved 7 March 2013.
+^ "Community ownership". FAQs. Westmill Solar Cooperative. Retrieved 7 March 2013.
+^ "What are time-of-use rates and how do they work?". Pacific Gas and Electric. Retrieved 7 March 2013.
+^ "Optimum Orientation of Solar Panels for Time-of-Use Rates". Macs Lab. Retrieved 22 April 2013.
+^ "The Optimum Financing Structure". Green Rhino Energy. Retrieved 7 March 2013.
+^ Belfiore, Francesco. "Optimizing PV Plant O&M Requires Focus on the Project Lifecycle". Renewable Energy World. Retrieved 7 March 2013.
+^ "Solar Photovoltaics competing in the energy sector  On the road to competitiveness" (PDF). European Photovoltaic Industry Association. Retrieved 13 April 2013.
+^ a b "Global Market Outlook for Photovoltaics 2014-2018" (PDF). http://www.epia.org. EPIA - European Photovoltaic Industry Association. Archived from the original on 12 June 2014. Retrieved 12 June 2014. External link in |website= (help)
+^ "Renewable Power, Policy, and the Cost of Capital". UNEP/BASE Sustainable Energy Finance Initiative. Retrieved 22 April 2013. Retrieved 13 April 2013
+^ "Utility-scale solar breaks all records in 2014 to reach 36 GW" (PDF). wiki-solar.org. Wiki-Solar.
+^ "Deployment of utility-scale solar parks - by country". Wiki-Solar.org. Retrieved 27 February 2014.
+^ a b c Hill, Joshua (22 February 2013). "Giant Solar Farm Capacity Doubling Inside 12 Months Breaking 12 GW". Clean Technica. Retrieved 7 March 2013.
+^ "Project search". CDM: Project activities. UNFCCC. Retrieved 7 March 2013.
+^ "Northwest China Grid Company Limited". Northwest China Grid Company Limited. Retrieved 22 April 2013.
+^ a b c "In Hemau liefert der weltweit grte Solarpark umweltfreundlichen Strom aus der Sonne" (in German). Stadt Hemau. Retrieved 13 April 2013.
+^ "Best of Both Worlds: What if German installation costs were combined with the best solar resources?". National Renewable Energy Laboratory. Retrieved 22 April 2013. Retrieved 13 April 2013
+^ a b c "Leipziger Land project" (PDF). Geosol. Retrieved 13 April 2013.
+^ Olson, Syanne (14 January 2011). "IBC Solar completes grid connection for 13.8MW German solar park". PV-Tech. Retrieved 7 March 2013.
+^ "Eastern Germany's sunny future". CNN. Retrieved 22 April 2013.[dead link] Retrieved 13 April 2013
+^ "German PV Funding Up In The Air Again". SolarBuzz. Retrieved 22 April 2013. Retrieved 13 April 2013
+^ "Goodnight Sunshine". Slate. Retrieved 22 April 2013. Retrieved 13 April 2013
+^ "Gujarat Solar Park Inauguration at Charanka, Gujarat". Indian Solar Summit. 19 April 2012. Retrieved 7 March 2013.
+^ "Sun cities? Rajasthan solar projects under a cloud". Times of India. Retrieved 22 April 2013. Retrieved 13 April 2013
+^ "Top 10 Solar PV Power Plants". InterPV. Retrieved 22 April 2013. Retrieved 13 April 2013
+^ Rosenthal, Elisabeth (8 March 2010). "Solar Industry Learns Lessons in Spanish Sun". New York Times. Retrieved 7 March 2013.
+^ "Solar parks in the UK". WolfeWare. Retrieved 13 April 2013.
+^ Hughes, Emma (3 August 2011). "Updated: Just how many solar projects beat the fast-track review?". Solar Power Portal. Retrieved 3 July 2013.
+^ Feed-in tariff cut shocks UK PV market "Feed-in tariff cut shocks UK PV market" Check |url= value (help). greenbang.com. 28 March 2011. Retrieved 29 March 2011.
+^ "UK tops Europe's utility-scale solar market for 2013" (PDF). Wiki-Solar. 6 June 2013. Retrieved 3 July 2013.
+^ "UK becomes Europe's top utility-scale solar market". Photon International. 7 June 2013. Retrieved 3 July 2013.
+^ "Solar parks map - United Kingdom". Wiki-Solar. Retrieved 5 March 2015.
+^ "Wales' first solar park powers up in Pembrokeshire". BBC. 8 July 2011. Retrieved 25 June 2014.
+^ "Solar parks: Large scale schemes 'to double' in Wales". BBC. 25 June 2014. Retrieved 25 June 2014.
+^ "California Renewables Portfolio Standard (RPS)". California Public Utilities Commission. Retrieved 7 March 2013.
+^ "Nevada Energy Portfolio Standard". Database of State Incentives for Renewables & Efficiency. US Department of Energy. Retrieved 7 March 2013.
+^ "Arizona Energy Portfolio Standard". Database of State Incentives for Renewables & Efficiency. US Department of Energy. Retrieved 7 March 2013.
+^ "Solar Parks mapping". Wiki-Solar. Retrieved March 2016. The locations of these and other plants over 10MW are illustrated in Check date values in: |access-date= (help)
+^ Wolfe, Philip. "Capacity rating for solar generating stations". Wiki-Solar. Retrieved 22 August 2013.
+^ Note that nominal power may be AC or DC, depending on the plant. See "AC-DC conundrum: Latest PV power-plant ratings follies put focus on reporting inconsistency (update)". PV-Tech. Retrieved 22 April 2013. Retrieved 13 April 2013
+^ "The world's largest photovoltaic solar power plant is in Pocking". Solar Server. Retrieved 30 August 2012.
+^ "Nellis Airforce Base solar power system" (PDF). United States Air Force. Retrieved 30 August 2012.
+^ "The Olmedilla Solar Park". Retrieved 30 August 2012.
+^ "24 MW: SinAn, South Korea" (PDF). Conergy. Retrieved 30 August 2012.
+^ "DeSoto Next Generation Solar Energy Center". Florida Power and Light. Retrieved 30 August 2012.
+^ "EDF Energies Nouvelles secures building permits for two solar power plants (15.3 MW) on Reunion Island". EDF Energies Nouvelles. 23 Jul 2008. Retrieved 30 August 2012.
+^ "Sarnia Solar Project celebration". Enbridge. Retrieved 30 August 2012.
+^ "Chint Solar successfully completed Golmud 20MW photovoltaic power station". PVsolarChina.com. Retrieved 30 August 2012.
+^ "FinowTower I + II; Mit 84,7 MWp das grte Solarstrom-Kraftwerk Europas". SolarHybrid. Retrieved 30 August 2012.
+^ "Lopburi Solar Farm". CLP Group. Retrieved 30 August 2012.
+^ "Activ Solar Commissions 100-Plus MW Perovo Solar PV Station in Ukraine's Crimea". Clean Technica. 29 Dec 2011. Retrieved 13 January 2015.
+^ "Gujarat's Charanka Solar Park". Energy Insight. 25 Apr 2012. Retrieved 30 August 2012.
+^ "Gujarat's Charanka Solar Park" (PDF). Retrieved 3 May 2013.
+^ "Agua Caliente Solar Project". First Solar. Retrieved 31 August 2012.
+^ Leader, Jessica (10 October 2012). "Australia's Greenough River Solar Farm Opens Amid Renewable Target Debate". Huffington Post. Retrieved 22 April 2013., Reuters, Rebekah Kebede, 9 October 2012 Retrieved 13 April 2013
+^ "Photovoltaic stations". T-Solar Group. Retrieved 16 May 2015. Reparticin solar farm, Location: Municipalidad Distrital La Joya. Province: Arequipa. Power: 22 MWp
+^ "President Humala inaugurates T-Solar Group photovoltaic solar-power plants in Peru". Retrieved 19 April 2013.
+^ Ayre, James (27 December 2012). "Biggest Community-Owned Solar Array In US Now Online". Clean Technica. Retrieved 13 January 2015.
+^ "Sheikh Zayed site location". Retrieved 19 April 2013.
+^ WAM (18 April 2013). "Shaikh Zayed Solar Power Plant in Mauritania inaugurated by Shaikh Saeed". Gulf News. Retrieved 13 January 2015.
+^ Topaz, the Largest Solar Plant in the World, Is Now Fully Operational, Greentechmedia, Eric Wesoff, November 24, 2014
+^ Woods, Lucy (9 June 2014). "SunEdison inaugurates 100MW Chile solar plant". PV-Tech. Retrieved 22 July 2016.
+^ "World's Largest Hydro/PV Hybrid Project Synchronized". Corporate News. China State Power Investment Corporation. 14 December 2014. Retrieved 22 July 2016.
+^ "Solar Star, Largest PV Power Plant in the World, Now Operational". GreenTechMedia.com. 24 June 2015.
+^ Canellas (et al), Claude (1 December 2015). "New French solar farm, Europe's biggest, cheaper than new nuclear". Reuters. Retrieved March 2016. Check date values in: |access-date= (help)
+^ "Enel Starts Production at its Largest Solar PV Project in Chile". Renewable Energy World. 31 May 2016. Retrieved 22 July 2016.
+External links[edit]
+Wikimedia Commons has media related to Photovoltaic power stations.
+Interactive mapping of worldwide projects over 10MW
+Solar Energy Industry Association - Large Solar Projects in the US
+The top 10 PV Solar power stations in the world (2014)
+List of 1000 largest photovoltaic power plants (as of 2011)
+v
+t
+e
+Photovoltaics
+Concepts
+Technology
+Photovoltaics
+Photoelectric effect
+Solar insolation
+Solar constant
+Solar cell efficiency
+Nominal power (Watt-peak)
+Thin film solar cell
+Multijunction photovoltaic cell
+Third generation photovoltaic cell
+Solar cell research
+Quantum efficiency of a solar cell
+Thermophotovoltaic
+Thermodynamic efficiency limit
+Sun-free photovoltaics
+Polarizing organic photovoltaics
+Materials
+List of semiconductor materials
+Crystalline silicon (c-Si)
+Polycrystalline silicon (multi-Si)
+Monocrystalline silicon (mono-Si)
+Cadmium telluride
+Copper indium gallium selenide
+Amorphous silicon (a-Si)
+History
+Growth of photovoltaics
+Timeline of solar cells
+Photovoltaic system
+Solar cells
+Polymer solar cell
+Nanocrystal solar cell
+Organic solar cell
+Quantum dot solar cell
+Hybrid solar cell
+Plasmonic solar cell
+Carbon nanotubes in photovoltaics
+Dye-sensitized solar cell
+Cadmium telluride photovoltaics
+Copper indium gallium selenide solar cells
+Printed solar panel
+Perovskite solar cell
+System components
+Solar panel
+Balance of system
+Solar charge controller
+Solar inverter
+Solar micro-inverter
+Solar cable
+Photovoltaic mounting system
+Maximum power point tracker
+Solar tracker
+Solar shingles
+Solar mirror
+System concepts
+Perturb and observe method
+Incremental conductance method
+Constant voltage method
+Fill factor
+Concentrated photovoltaics
+Photovoltaic thermal hybrid solar collector
+Space-based solar power
+Applications
+Appliances
+Solar-powered refrigerator
+Solar air conditioning
+Solar lamp
+Solar charger
+Solar backpack
+Solar tree
+Solar-powered pump
+Solar-powered watch
+Solar Tuki
+Photovoltaic keyboard
+Solar road stud
+Solar cell phone charger
+Solar notebook
+Solar-powered calculator
+Solar-powered fountain
+Solar-powered radio
+Solar-powered flashlight
+Solar-powered fan
+Solar street light
+Solar traffic light
+Land transport
+Solar vehicle
+Solar car
+Solar roadway
+Solar golf cart
+The Quiet Achiever
+Sunmobile
+Air transport
+Electric aircraft
+Mauro Solar Riser
+Solar panels on spacecraft
+Solar-Powered Aircraft Developments Solar One
+Gossamer Penguin
+Qinetiq Zephyr
+Solar Challenger
+Water transport
+Solar boat
+Solar vehicle racing
+Solar car racing
+List of solar car teams
+Solar challenges
+World Solar Challenge
+American Solar Challenge
+Formula Sun Grand Prix
+Solar Cup
+Frisian Solar Challenge
+Solar Splash
+South African Solar Challenge
+Tour de Sol
+Hunt-Winston School Solar Car Challenge
+Victorian Model Solar Vehicle Challenge
+Generation systems
+PV power station
+Grid-connected photovoltaic power system
+List of photovoltaic power stations
+Individual projects
+Alamosa photovoltaic power plant
+Beneixama photovoltaic power plant
+Blythe Photovoltaic Power Plant
+Copper Mountain Solar Facility
+Darro Solar Park
+Erlasee Solar Park
+Golmud Solar Park
+Gottelborn Solar Park
+Guadarranque solar power plant
+Kthen Solar Park
+Moura Photovoltaic Power Station
+Olmedilla Photovoltaic Park
+Pocking Solar Park
+Puertollano Photovoltaic Park
+Topaz Solar Farm
+Wyandot Solar Facility
+Building-mounted
+Rooftop photovoltaic power station
+Building-integrated photovoltaics
+Solar Ark
+Solar Umbrella house
+Strasskirchen Solar Park
+By country
+Australia
+Belgium
+Bulgaria
+Canada
+Chile
+China
+Czech Republic
+France
+Germany
+Greece
+India
+Italy
+Japan
+Netherlands
+Romania
+South Africa
+Spain
+Switzerland
+Thailand
+United Kingdom
+USA
+PV companies
+By country
+List of countries by photovoltaics production
+Individual producers
+First Solar
+Hanwha Solarone
+JA Solar
+Motech Solar
+REC
+Q-Cells
+Sharp
+Solar Frontier
+Solyndra
+Sungen Solar
+Sunpower
+Suntech
+Trina Solar
+Yingli Solar
+Category
+Commons
+Saved in parser cache with key enwiki:pcache:idhash:34779206-0!*!0!!en!4!* and timestamp 20161112210707 and revision id 741770828
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Photovoltaic_power_station&oldid=741770828"
+Categories: Photovoltaic power stationsSolar energyPhotovoltaicsHidden categories: CS1 errors: datesAll articles with dead external linksArticles with dead external links from May 2016Pages using web citations with no URLPages with URL errorsCS1 errors: external linksCS1 German-language sources (de)Use dmy dates from May 2013Good articlesArticles containing potentially dated statements from 2013All articles containing potentially dated statementsCommons category with local link same as on Wikidata

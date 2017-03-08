@@ -1,0 +1,134 @@
+Variablerenewableenergy
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article may be too technical for most readers to understand. Please help improve this article to make it understandable to non-experts, without removing the technical details. The talk page may contain suggestions. (September 2016) (Learn how and when to remove this template message)
+The 150 MW Andasol solar power station is a commercial parabolic trough solar thermal power plant, located in Spain. The Andasol plant uses tanks of molten salt to store solar energy so that it can continue generating electricity even when the sun isn't shining.[1]
+Variable renewable energy (VRE) is a renewable energy source that is non-dispatchable due to its fluctuating nature, like wind power and solar power, as opposed to a controllable renewable energy source such as hydroelectricity, or biomass, or a relatively constant source such as geothermal power or run-of-the-river hydroelectricity. Skeptics of wind and solar power warn of their variable output, but many studies have shown that the grid can cope, and it is doing so in Denmark, Germany, and Spain.
+The International Energy Agency says that there has been too much attention on issue of the variability of renewable electricity production.[2] Its significance depends on a range of factors which include the market penetration of the renewables concerned, the balance of plant and the wider connectivity of the system, as well as the demand side flexibility. Variability will rarely be a barrier to increased renewable energy deployment. But at high levels of market penetration it requires careful analysis and management, and additional costs may be required for backup or system modification.[2] Renewable electricity supply in the 2050+% penetration range has already been implemented in several European systems, albeit in the context of an integrated European grid system.[3]
+Contents
+1 Comparison
+2 Wind power
+3 Wave power
+4 Solar power
+5 Tidal power
+6 Run-of-the-river hydroelectricity
+7 Coping with variability
+8 Variability and reliability
+9 Future prospects
+10 See also
+11 References
+Comparison[edit]
+Resource
+Dispatchability
+Variability
+Predictability
+Biofuel
+High
+Low
+High
+Biomass
+High
+Low
+High
+Geothermal
+Low
+Low
+High
+Hydroelectricity
+High
+Low
+High
+Solar power
+Low
+Very high
+Medium
+Tidal power
+Low
+Very high
+Very high
+Wave power
+Low
+Medium
+Medium
+Wind power
+Low
+High
+Low
+[citation needed][dubious  discuss]
+Main article: Renewable energy
+Conventional hydroelectricity, biomass and geothermal are completely dispatchable as each has a store of potential energy; wind and solar production are typically without storage and can be decreased, but not dispatched, other than when nature provides. Between wind and solar, solar has a more variable daily cycle than wind, but is more predictable in daylight hours than wind. Like solar, tidal energy varies between on and off cycles through each day, unlike solar there is no intermittentcy, tides are available every day without fail. Biofuel and biomass involve multiple steps in the production of energy  growing plants, harvesting, processing, transportation, storage and burning to create heat for electricity, transportation or space heating. In the combined power plant used by the University of Kassel to simulate using 100% renewable energy, wind farms and solar farms were supplemented as needed by hydrostorage and biomass to follow the electricity demand.[4]
+Wind power[edit]
+Day ahead prediction and actual wind power
+Wind power is the least predictable of all of the variable renewable energy sources. Grid operators use day ahead forecasting to determine which of the available power sources to use the next day, and weather forecasting is used to predict the likely wind power and solar power output available. The correlation between wind output and prediction can be relatively high, with an average uncorrected error of 8.8% in Germany over a two-year period.[5] The variability of wind power can be seen as one of its defining characteristics.[6]
+Wave power[edit]
+Waves are primarily created by wind, so the power available from waves tends to follow that available from wind, but due to the mass of the water is less variable than wind power. Wind power is proportional to the cube of the wind speed, while wave power is proportional to the square of the wave height.[7][8][9]
+Solar power[edit]
+Daily solar output at AT&T Park in San Francisco
+Solar power is more predictable than wind power and less variable  while there is never any solar power available during the night, and there is a reduction in winter, the only unknown factors in predicting solar output each day is cloud cover, frost and snow. Many days in a row in some locations are relatively cloud free, just as many days in a row in either the same or other locations are overcast  leading to relatively high predictability. Wind comes from the uneven heating of the earth's surface,[10] and can provide about 1% of the potential energy that is available from solar power. 86,000 TW of solar energy reaches the surface of the world vs. 870 TW in all of the world's winds.[11] Total world demand is roughly 12 TW, many times less than the amount that could be generated from potential wind and solar resources. From 40 to 85 TW could be provided from wind and about 580 TW from solar.[12]
+Tidal power[edit]
+Types of tide
+Tidal power is the most predictable of all the variable renewable energy sources. Twice a day the tides vary 100%, but they are never intermittent, on the contrary they are completely reliable. It is estimated that Britain could obtain 20% of energy from tidal power, only 20 sites in the world have yet been identified as possible tidal power stations.[13]
+Run-of-the-river hydroelectricity[edit]
+In many European counties and North America the environmental movement has eliminated the construction of dams with large reservoirs. Run of the river projects have continued to be built, such as the 695MW Keeyask Project in Canada which began construction in 2014.[14] The absence of a reservoir results in both seasonal and annual variations in electricity generated.
+Coping with variability[edit]
+Historically grid operators use day ahead forecasting to choose which power stations to make up demand each hour of the next day, and adjust this forecast at intervals as short as hourly or even every fifteen minutes to accommodate any changes. Normally as much as 100% demand is retained as spinning reserve that can be integrated quickly into the grid to make up for any power station failures or unexpected demand increases.[15]
+A shift in thinking is needed in 2030 when almost all of your energy comes from non-dispatchable sources  how much wind or solar power is available depends on the weather conditions, and instead of turning on and off available sources becomes one of either storing or transmission of those sources to when they can be used or to where they can be used.[12] Some excess available energy can be diverted to hydrogen production for use in ships and airplanes, a relatively long term energy storage, in a world where almost all of our energy comes from wind, water, and solar (WWS). Hydrogen is not an energy source, but is a storage medium. A cost analysis will need to be made between long distance transmission and excess capacity. The sun is always shining somewhere, and the wind is always blowing somewhere on the Earth, but is it cost effective to bring solar power from Australia to New York?[12][16]
+If excess capacity is created, the cost is increased because not all of the available output is used. For example, ERCOT predicts that 8.7% of nameplate wind capacity will be reliably available in summer[17]  so if Texas, which has a peak summer demand of 68,379 MW[18] built wind farms of 786,000 MW (68,379/0.087), they would generate, at a 35% capacity factor,[19] 2.4 million MWh per year  four times use, but might be sufficient to meet summer peaks. In practice it is likely that there are times with almost no wind in the entire region, making this not a practical solution. There were 54 days in 2002 when there was little wind power available in Denmark.[20] The estimated wind power installed capacity potential for Texas, using 100 meter wind turbines at 35% capacity factor, is 1,757,355.6 MW.[21] In locations like British Columbia, with abundant water power resources, water power can always make up any shortfall in wind power.[22]
+Wind and solar are somewhat complementary. A comparison of the output of the solar panels and the wind turbine at the Massachusetts Maritime Academy shows the effect.[23] In winter there tends to be more wind and less solar, and in summer more solar and less wind, and during the day more solar and less wind. There is always no solar at night, and there is often more wind at night than during the day, so solar can be used somewhat to fill in the peak demand in the day, and wind can supply much of the demand during the night. There is however a substantial need for storage and transmission to fill in the gaps between demand and supply.
+As physicist Amory Lovins has said:
+The variability of sun, wind and so on, turns out to be a non-problem if you do several sensible things. One is to diversify your renewables by technology, so that weather conditions bad for one kind are good for another. Second, you diversify by site so they're not all subject to the same weather pattern at the same time because they're in the same place. Third, you use standard weather forecasting techniques to forecast wind, sun and rain, and of course hydro operators do this right now. Fourth, you integrate all your resources supply side and demand side..."[24]
+The combination of diversifying variable renewables by type and location, forecasting their variation, and integrating them with despatchable renewables, flexible fueled generators, and demand response can create a power system that has the potential to meet our needs reliably. Integrating ever-higher levels of renewables is being successfully demonstrated in the real world:[3]
+Variability and reliability[edit]
+Mark A. Delucchi and Mark Z. Jacobson identify seven ways to design and operate variable renewable energy systems so that they will reliably satisfy electricity demand:[25]
+(A) interconnect geographically dispersed, naturally variable energy sources (e.g., wind, solar, wave, tidal), which smoothes out electricity supply (and demand) significantly.
+(B) use complementary and non-variable energy sources (such as hydroelectric power) to fill temporary gaps between demand and wind or solar generation.
+(C) use smart demand-response management to shift flexible loads to a time when more renewable energy is available.
+(D) store electric power, at the site of generation, (in batteries, hydrogen gas, molten salts, compressed air, pumped hydroelectric power, and flywheels), for later use.
+(E) over-size renewable peak generation capacity to minimize the times when available renewable power is less than demand and to provide spare power to produce hydrogen for flexible transportation and heat uses.
+(F) store electric power in electric-vehicle batteries, known as "vehicle to grid" or V2G.
+(G) forecast the weather (winds, sunlight, waves, tides and precipitation) to better plan for energy supply needs.[25]
+Jacobson and Delucchi say that wind, water and solar power can be scaled up in cost-effective ways to meet our energy demands, freeing us from dependence on both fossil fuels and nuclear power. In 2009 they published A Plan to Power 100 Percent of the Planet With Renewables in Scientific American. A more detailed and updated technical analysis has been published as a two-part article in the refereed journal Energy Policy.[26]
+Renewable energy is naturally replenished and renewable power technologies increase energy security because they reduce dependence on foreign sources of fuel. Unlike power stations relying on uranium and recycled plutonium for fuel, they are not subject to the volatility of global fuel markets.[27] Renewable power decentralises electricity supply and so minimises the need to produce, transport and store hazardous fuels; reliability of power generation is improved by producing power close to the energy consumer. An accidental or intentional outage affects a smaller amount of capacity than an outage at a larger power station.[27]
+Future prospects[edit]
+The International Energy Agency says that there has been too much attention on issue of the variability of renewable electricity production.[2] The issue of intermittent supply applies to popular renewable technologies, mainly wind power and solar photovoltaics, and its significance depends on a range of factors which include the market penetration of the renewables concerned, the balance of plant and the wider connectivity of the system, as well as the demand side flexibility. Variability will rarely be a barrier to increased renewable energy deployment when dispatchable generation is also available. But at high levels of market penetration it requires careful analysis and management, and additional costs may be required for back-up or system modification.[2] Renewable electricity supply in the 20-50+% penetration range has already been implemented in several European systems, albeit in the context of an integrated European grid system:[3]
+In 2011, the Intergovernmental Panel on Climate Change, the world's leading climate researchers selected by the United Nations, said "as infrastructure and energy systems develop, in spite of the complexities, there are few, if any, fundamental technological limits to integrating a portfolio of renewable energy technologies to meet a majority share of total energy demand in locations where suitable renewable resources exist or can be supplied".[28] IPCC scenarios "generally indicate that growth in renewable energy will be widespread around the world".[29] The IPCC said that if governments were supportive, and the full complement of renewable energy technologies were deployed, renewable energy supply could account for almost 80% of the world's energy use within forty years.[30] Rajendra Pachauri, chairman of the IPCC, said the necessary investment in renewables would cost only about 1% of global GDP annually. This approach could contain greenhouse gas levels to less than 450 parts per million, the safe level beyond which climate change becomes catastrophic and irreversible.[30]
+See also[edit]
+Energy portal
+Intermittent energy source
+Energy security and renewable technology
+List of energy storage projects
+References[edit]
+^ Edwin Cartlidge (18 November 2011). "Saving for a rainy day". Science (Vol 334). pp.922924. Missing or empty |url= (help)
+^ a b c d Contribution of Renewables to Energy Security
+^ a b c Amory Lovins (2011). Reinventing Fire, Chelsea Green Publishing, p. 199.
+^ "The Combined Power Plant: the first stage in providing 100% power from renewable energy". SolarServer. January 2008. Retrieved 10 October 2008.
+^ On-line Monitoring and Prediction of Wind Power
+^ Clive, P. J. M., The emergence of eolics, TEDx University of Strathclyde (2014). Retrieved 9 May 2014.
+^ Wind and Waves
+^ Comparing the Variability of Wind Speed and Wave Height Data
+^ Savenkov, M 2009 'On the Truncated Weibull Distribution and its Usefulness in Evaluating the Theoretical Capacity Factor of Potential Wind (or Wave) Energy Sites', University Journal of Engineering and Technology, vol. 1, no. 1, pp. 21-25
+^ Wind Turbines: Converting Wind Energy Into Electricity
+^ Global Exergy Flux
+^ a b c Jacobson, Mark Z.; Delucchi, M.A. (November 2009). "A Path to Sustainable Energy by 2030" (PDF). Scientific American. 301 (5): 5865. doi:10.1038/scientificamerican1109-58. PMID19873905.
+^ Tidal power
+^ http://keeyask.com/the-project/project-description/
+^ What is spinning reserve?
+^ Mark Z. Jacobson and Mark A. Delucchi (30 December 2010). "Providing all global energy with wind, water, and solar power, Part I: Technologies, energy resources, quantities and areas of infrastructure, and materials". Energy Policy. Elsevier Ltd.
+^ ERCOT
+^ ERCOT breaks peak demand record third time
+^ Wind Power on the Community Scale
+^ "Why wind power works for Denmark" (PDF). Civil Engineering. May 2005. Retrieved 12 May 2012.
+^ Estimated Wind Energy Potential
+^ The Wind Blows For Free
+^ Live data is available comparing solar and wind generation hourly since the day before yesterday, daily for last week and last month, and monthly for the last year
+^ "Amory Lovins/Rocky Mountain Institute warm to PHEVs". Calcars.org. Retrieved 17 January 2012.
+^ a b Delucchi, Mark A. and Mark Z. Jacobson (2010). "Providing all Global Energy with Wind, Water, and Solar Power, Part II: Reliability, System and Transmission Costs, and Policies" (PDF). Energy policy.
+^ Nancy Folbre (28 March 2011). "Renewing Support for Renewables". New York Times.
+^ a b Benjamin K. Sovacool. A Critical Evaluation of Nuclear Power and Renewable Electricity in Asia, Journal of Contemporary Asia, Vol. 40, No. 3, August 2010, p. 387.
+^ IPCC (2011). "Special Report on Renewable Energy Sources and Climate Change Mitigation" (PDF). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. p.17.
+^ IPCC (2011). "Special Report on Renewable Energy Sources and Climate Change Mitigation" (PDF). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. p.22.
+^ a b Fiona Harvey (9 May 2011). "Renewable energy can power the world, says landmark IPCC study". The Guardian. London.
+Saved in parser cache with key enwiki:pcache:idhash:34578727-0!*!0!!en!4!* and timestamp 20161107181756 and revision id 748335625
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Variable_renewable_energy&oldid=748335625"
+Categories: Renewable energyElectric power distributionHidden categories: Pages using web citations with no URLWikipedia articles that are too technical from September 2016All articles that are too technicalArticles needing expert attention from September 2016All articles needing expert attentionAll articles with unsourced statementsArticles with unsourced statements from October 2012All accuracy disputesArticles with disputed statements from October 2012

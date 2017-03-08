@@ -1,0 +1,93 @@
+Overillumination
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This cosmetics store has over twice the recommended lighting levels [1]
+Over-illumination is the presence of lighting intensity higher than that which is appropriate for a specific activity. Over-illumination was commonly ignored between 1950 and 1995, especially in office and retail environments.[2] Since then, however, the interior design community has begun to reconsider this practice. Over-illumination encompasses two separate concerns:
+Unnecessary electric lighting is expensive and energy-intensive. Lighting accounts for approximately 9% of residential electricity use as of 2001[update][3] and about 40% of commercial electricity use.[4]
+Excessive levels of artificial light may adversely affect health. These detrimental effects may depend on the spectrum as well as the overall brightness level of light.
+Over-illumination can be reduced by installing occupancy sensors, using natural sunlight whenever possible, turning off lights when leaving a room, or changing the type of lightbulb. Over-illumination does not refer to snowblindness, where high exposure to ultraviolet light causes physical damage to the eye. Too little light, the opposite of over-illumination, is associated with seasonal affective disorder.
+Contents
+1 Causes
+2 Health effects
+2.1 Circulatory and circadian rhythm effects
+3 Energy and economic considerations
+3.1 High-intensity light
+3.2 Leaving lights turned on
+3.3 Architectural design and the type of light bulbs
+4 Related phenomena
+5 See also
+6 References
+7 External links
+Causes[edit]
+Some big-box retail stores are over-illuminated.
+A fitness club that is illuminated mostly by natural light
+Over-illumination can be caused by several factors:
+Illuminating an unoccupied area
+Using electrical lights instead of natural light
+Providing lighting for an occupied area, but with too much intensity
+Installing too few electrical controls. This results in an area that must either be over-illuminated or not illuminated at all
+In addition, there are ancillary reasons why over-illumination might be decided to be necessary. For example, retail stores with large windows will sometimes stay illuminated overnight as a method of crime prevention.
+While some aspects of illumination are readily controllable, such as turning off lights when exiting a room, others are determined by the architecture and construction of the building. For example, skylights decrease the amount of artificial lighting that is required during the daytime, but most buildings do not have them installed. In addition, too few light switches can also cause issues. If an office building with large windows only has one switch per floor, then electric lights will illuminate the perimeter areas (with abundant natural light) to same level as the interior zones (which receive less sunlight).
+Health effects[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2016) (Learn how and when to remove this template message)
+Common T8 fluorescent lighting fixture frequently used in office environments
+Over-illumination has been linked to various negative health effects. While some effects might happen because the color spectrum of fluorescent lighting is significantly different from sunlight,[5][6][7][full citation needed][need quotation to verify] other symptoms might be caused by light that is simply too intense. In particular, over-illumination has been linked to headaches, fatigue, medically defined stress, anxiety, and decreases in sexual function.[5][8][9][10]
+Some studies attribute migraine headaches to overly intense light,[8] while others linked it with certain spectral distributions.[7] In one survey bright light was the number two trigger (affecting 47% of respondents) for causing a migraine episode.[8]
+Fatigue is another common complaint from individuals exposed to over-illumination, especially with fluorescent media.[5]
+Likewise, over-illumination can also cause stress and anxiety. In fact, natural light was preferred over purely artificial light by office workers from both eastern and western cultures.[11] In addition, over-illumination can cause medical stress[9][12] and even aggravate other psychological disorders like agoraphobia.[13] The replacement of natural light with artificial light also decreases task performance under certain conditions.[10]
+Circulatory and circadian rhythm effects[edit]
+Hypertension effects of over-illumination can lead to aggravation of cardiovascular disease and erectile dysfunction, which impacts are outcomes of long term cumulative exposure and associated systematic increases in blood pressure. The mechanism of this effect seems to be stress by related upregulation of adrenaline production akin to the fight-or-flight response.[14][15]
+Circadian rhythm disruption is primarily caused by the wrong timing of light in reference to the circadian phase. It can also be affected by too much light, too little light, or incorrect spectral composition of light. This effect is driven by stimulus (or lack of stimulus) to photosensitive ganglion cells in the retina. The "time of day", the circadian phase, is signalled to the pineal gland, the bodys photometer, by the suprachiasmatic nucleus. Bright light in the evening or in the early morning shifts the phase of the production of melatonin (see phase response curve). An out-of-sync melatonin rhythm can worsen cardiac arrhythmias and increase oxidized lipids in the ischemic heart. Melatonin also reduces superoxide production and myeloperoxide (an enzyme in neutrophils which produces hypochlorous acid) during ischemia-reperfusion.[7][16]
+Energy and economic considerations[edit]
+Using too much lighting will lead to higher electricity consumption, and therefore higher electricity costs, for the owner of the building. The solution to this issue is multi-faceted because there are several causes of too much light.
+High-intensity light[edit]
+First, over-illumination happens when the intensity of lighting is too high for a given activity. For example, an office building might have many sets of fluorescent lights to keep the area illuminated after sundown. During the daytime, however, large windows might allow for abundant amounts of natural sunlight to enter the office. Therefore, keeping all of the fluorescent lights illuminated during the daytime might cause unnecessary costs and energy consumption.
+Leaving lights turned on[edit]
+Likewise, not switching off the lights when exiting a room will also cause higher energy consumption. Some people avoid frequently turning off CFL bulbs because they think that doing so will cause them to burn out prematurely. While this is true to a certain extent,[17] the US Department of Energy recommends that 15 minutes is an appropriate time frame. If someone plans to leave the room for less than 15 minutes, then the light should be left on. If the room will be unoccupied for more than 15 minutes, then the light should be switched off.[18] Another concern is that turning on a fluorescent bulb consumes large amounts of energy. While fluorescent bulbs do need more energy turn on, the amount of electricity consumed is equal to only a few seconds of normal operation.[18][19][20]
+Sometimes people do not turn off lights for other reasons, such as an office worker whose company actually pays for the electricity. In these cases building automation provides more control. These solutions provide centralized control of all lighting within a home or commercial building, allowing easy implementation of scheduling, occupancy control, daylight harvesting and more. Many systems also support demand response and will automatically dim or turn off lights to take advantage of DR incentives and cost savings. Many newer control systems are using wireless mesh open standards (such as ZigBee), which provides benefits including easier installation (no need to run control wires) and interoperability with other standards-based building control systems (e.g., security).[21]
+Architectural design and the type of light bulbs[edit]
+Architectural design can also provide ways of reducing energy usage. There are technological aspects of window design where window angles can be calculated to minimize interior glare and reduce interior over-illumination, while at the same time reducing solar heat loading and subsequent demand for air conditioning as energy conservation techniques. For the Dakin Building in Brisbane, California the angled window projections effectively provide permanent sunscreens, obviating interior blinds or shades.
+Ideally, the design of a building would create multiple switches for the overhead lighting. Adjusting these settings would allow the optimal light intensity to be delivered,[2] the most common version of this control being the "three-level switch", also called A/B switching. Much of the benefit of the excess illumination reduction comes from a better ratio of natural light to fluorescent light that can result from any of the above changes. Research has been conducted showing worker productivity gains in settings where each worker selects his or her own lighting level.[22]
+Lastly, the type of light bulbs that are installed has a significant effect on energy consumption. The efficiency of light sources vary greatly. Fluorescent lights produce several times as much light, for given power input, as incandescent lights do, and LEDs are continuing to improve beyond that. Shades vary in their absorption. Light colored ceilings, walls and other surfaces increase ambient light by reflecting.
+Related phenomena[edit]
+Over-illumination can also contribute to light pollution if stray light can be seen a neighboring property or building. Over-illumination is a topic normally addressed in the process of building design, whereas light pollution is normally addressed by zoning regulations.
+See also[edit]
+Energy conservation
+Christmas lights
+Daylight harvesting
+Hypertension
+Light pollution
+Light sensitivity
+Seasonal affective disorder
+World energy resources and consumption
+Visual comfort probability
+Flicker fusion threshold
+References[edit]
+^ Peter Tregenza and David Loe, The Design of Lighting, Routledge, New York (1996)
+^ a b M.D. Simpson, A flexible approach to lighting design, Proc. CIBSE National Lighting Conference, Cambridge, 811 April 1990, 182-189, Chartered Institution of Building Services Engineers
+^ Department of Energy, http://www.eia.doe.gov/emeu/recs/recs2001/enduse2001/enduse2001.html
+^ Lighting in Commercial Buildings, http://www.eia.doe.gov/emeu/cbecs/cbecs2003/lighting/lighting1.html
+^ a b c Cambridge Handbook of Psychology, Health and Medicine, edited by Andrew Baum, Robert West, John Weinman, Stanton Newman, Chris McManus, Cambridge University Press (1997) ISBN 0-521-43686-9
+^ Lumina Technologies, Santa Rosa, Ca., Survey of 156 California commercial buildings energy use, August, 1996
+^ a b c Peter Boyce and Boyce R Boyce, Human Factors in Lighting, 2nd ed., Taylor & Francis, London (2003) ISBN 0-7484-0950-5
+^ a b c Susan L. Burks, Managing your Migraine, Humana Press, New Jersey (1994) ISBN 0-89603-277-9
+^ a b L. Pijnenburg, M. Camps and G. Jongmans-Liedekerken, Looking closer at assimilation lighting, Venlo, GGD, Noord-Limburg (1991)
+^ a b Igor Knez, Effects of colour of light on nonvisual psychological processes, Journal of Environmental Psychology, Volume 21, Issue 2, June 2001, Pages 201-208
+^ E. Nagy, Sachiko Yasunaga and Satoshi Kose, Japanese office employees' psychological reactions to their underground and above-ground offices, Building Research Institute, Ministry of Construction, 1 Tatehara, Tsukuba-shi, Ibaraki-ken 305, Japan, Revised 13 April 1995. Available online 20 May 2004.
+^ M.R Basso Jr., Neurobiological relationships between ambient lighting and the startle response to acoustic stress in humans, Int J Neurosci. 2001;110(3-4):147-57,
+^ J. Hazell and A.J. Wilkins, A contribution of fluorescent lighting to agoraphobia, . Psychol Med. 1990 Aug;20(3):591-6
+^ Narisada Kohei and Duco Schreude, Light Pollution Handbook, Springer, Netherlands (2004) ISBN 1-4020-2665-X
+^ Biological Effects of Power Frequency Electric and Magnetic Fields, Office of Technology Assessment, U.S. Congress, University Press of the Pacific (2002) ISBN 0-89875-974-9
+^ R.J. Reiter, Cardiovascular Research; 58:10-19 (2003)
+^ http://www1.eere.energy.gov/femp/pdfs/29267-5.4.3.pdf
+^ a b http://energy.gov/energysaver/articles/when-turn-your-lights
+^ A Consumers Guide to Energy Efficiency and Renewable Energy, U.S. Department of Energy, Washington DC (2006)
+^ Ray, C. Claiborne (2007-09-04). "Lights Off!". New York Times. Retrieved 2008-05-06.
+^ "Lighting control saves money and makes sense" (PDF). Daintree Networks.
+^ H. Juslen, M. Wouters M and A. Tenner, The influence of controllable task-lighting on productivity: a field study in a factory, Appl Ergon., Mar 7; 2006
+External links[edit]
+Government of Hong Kong Health Effects of Lighting in the Workplace
+Saved in parser cache with key enwiki:pcache:idhash:5146334-0!*!0!!en!4!* and timestamp 20161114202815 and revision id 748007816
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Over-illumination&oldid=748007816"
+Categories: Environmental scienceLight pollutionLightingLow-energy buildingHidden categories: Pages using ISBN magic linksArticles containing potentially dated statements from 2001All articles containing potentially dated statementsArticles needing additional references from August 2016All articles needing additional referencesArticles needing more detailed referencesWikipedia articles needing factual verification from August 2016

@@ -1,0 +1,339 @@
+Hydrogenation
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Steps in the hydrogenation of a C=C double bond at a catalyst surface, for example Ni or Pt:
+(1) The reactants are adsorbed on the catalyst surface and H2 dissociates.
+(2) An H atom bonds to one C atom. The other C atom is still attached to the surface.
+(3) A second C atom bonds to an H atom. The molecule leaves the surface.
+Catalysed hydrogenation
+Process type
+Chemical
+Industrial sector(s)
+Food industry, petrochemical industry, pharmaceutical industry, agricultural industry
+Main technologies or sub-processes
+Various transition metal catalysts, high-pressure technology
+Feedstock
+Unsaturated substrates and hydrogen or hydrogen donors
+Product(s)
+Saturated hydrocarbons and derivatives
+Inventor
+Paul Sabatier
+Year of invention
+1897
+Hydrogenation  to treat with hydrogen  is a chemical reaction between molecular hydrogen (H2) and another compound or element, usually in the presence of a catalyst such as nickel, palladium or platinum. The process is commonly employed to reduce or saturate organic compounds. Hydrogenation typically constitutes the addition of pairs of hydrogen atoms to a molecule, often an alkene. Catalysts are required for the reaction to be usable; non-catalytic hydrogenation takes place only at very high temperatures. Hydrogenation reduces double and triple bonds in hydrocarbons.[1]
+Contents
+1 Process
+1.1 Related or competing reactions
+1.2 Hydrogen sources
+1.3 Substrates
+1.4 Catalysts
+1.4.1 Homogeneous catalysts
+1.4.2 Heterogeneous catalysts
+1.5 Transfer hydrogenation
+1.6 Electrolytic hydrogenation
+2 Thermodynamics and mechanism
+2.1 Heterogeneous catalysis
+2.2 Homogeneous catalysis
+3 Inorganic substrates
+4 Industrial applications
+4.1 Food industry
+4.2 Petrochemical industry
+4.3 Organic chemistry
+4.4 Hydrogenation of coal
+5 History
+5.1 Heterogeneous catalytic hydrogenation
+5.2 Homogeneous catalytic hydrogenation
+6 Metal-free hydrogenation
+7 Equipment used for hydrogenation
+7.1 Batch hydrogenation under atmospheric conditions
+7.2 Batch hydrogenation at elevated temperature and/or pressure
+7.3 Flow hydrogenation
+7.4 Industrial reactors
+8 See also
+9 References
+10 Further reading
+11 External links
+Process[edit]
+Hydrogenation has three components, the unsaturated substrate, the hydrogen (or hydrogen source) and, invariably, a catalyst. The reduction reaction is carried out at different temperatures and pressures depending upon the substrate and the activity of the catalyst.
+Related or competing reactions[edit]
+Hydrogenation reactions are accompanied by isomerization of the alkenes from cis to trans. This process is of great interest because hydrogenation technology generates most of the trans fat in foods (see below). A reaction where bonds are broken while hydrogen is added is called hydrogenolysis, a reaction that may occur to carbon-carbon and carbon-heteroatom (oxygen, nitrogen or halogen) bonds. Some hydrogenations of polar bonds are accompanied by hydrogenolysis.
+Hydrogen sources[edit]
+For hydrogenation, the obvious source of hydrogen is H2 gas itself, which is typically available commercially within the storage medium of a pressurized cylinder. The hydrogenation process often uses greater than 1 atmosphere of H2, usually conveyed from the cylinders and sometimes augmented by "booster pumps". Gaseous hydrogen is produced industrially from hydrocarbons by the process known as steam reforming.[2] For many applications, hydrogen is transferred from donor molecules such as formic acid, isopropanol, and dihydroanthracene. These hydrogen donors undergo dehydrogenation to, respectively, carbon dioxide, acetone, and anthracene. These processes are called transfer hydrogenations.
+Substrates[edit]
+An important characteristic of alkene and alkyne hydrogenations, both the homogeneously and heterogeneously catalyzed versions, is that hydrogen addition occurs with "syn addition", with hydrogen entering from the least hindered side.[3] Typical substrates are listed in the table
+Substrates for and products of hydrogenation
+substrate
+product
+comments
+alkeneR2C=CR'2
+alkaneR2CHCHR'2
+one application is margarine
+alkyneRCCR
+alkenecis-RHC=CHR'
+over-hydrogenation to alkane can be problematic
+aldehydeRCHO
+primary alcoholRCH2OH
+easy substrate
+ketoneR2CO
+secondary alcoholR2CHOH
+prochiral for unsymmetrical ketones
+esterRCO2R'
+two alcoholsRCH2OH + R'OH
+challenging substrate
+imineRR'CNR"
+amineRR'CHNHR"
+actual precursor is N-protonated
+amideRC(O)NR'2
+amineRCH2NR'2
+challenging substrate
+nitrileRCN
+primary amineRCH2NH2
+product amine reactive toward precursor nitrile in some cases
+nitroRNO2
+amineRNH2
+commercial applications use heterogeneous Ni and Ru catalysts; major application is aniline[4][5]
+Catalysts[edit]
+With rare exceptions, H2 is unreactive toward organic compounds in the absence of metal catalysts. The unsaturated substrate is chemisorbed onto the catalyst, with most sites covered by the substrate. In heterogeneous catalysts, hydrogen forms surface hydrides (M-H) from which hydrogens can be transferred to the chemisorbed substrate. Platinum, palladium, rhodium, and ruthenium form highly active catalysts, which operate at lower temperatures and lower pressures of H2. Non-precious metal catalysts, especially those based on nickel (such as Raney nickel and Urushibara nickel) have also been developed as economical alternatives, but they are often slower or require higher temperatures. The trade-off is activity (speed of reaction) vs. cost of the catalyst and cost of the apparatus required for use of high pressures. Notice that the Raney-nickel catalysed hydrogenations require high pressures:[6][7]
+Catalysts are usually classified into two broad classes: homogeneous catalysts and heterogeneous catalysts. Homogeneous catalysts dissolve in the solvent that contains the unsaturated substrate. Heterogeneous catalysts are solids that are suspended in the same solvent with the substrate or are treated with gaseous substrate.
+Homogeneous catalysts[edit]
+Some well known homogeneous catalysts are indicated below. These are coordination complexes that activate both the unsaturated substrate and the H2. Most typically, these complexes contain platinum group metals, especially Rh and Ir.
+Homogeneous hydrogenation catalysts and their precursors
+Dichlorotris(triphenylphosphine)ruthenium(II) is a precatalyst based on ruthenium.
+Crabtree's catalyst is a highly active catalyst featuring iridium.
+Rh2Cl2(cod)2 is a precursor to many homogeneous catalysts.
+(S)-iPr-PHOX is a typical chelating phosphine ligand used in asymmetric hydrogenation.
+hydrogenation of propylene with Wilkinson's catalyst
+Homogeneous catalysts are also used in asymmetric synthesis by the hydrogenation of prochiral substrates. An early demonstration of this approach was the Rh-catalyzed hydrogenation of enamides as precursors to the drug L-DOPA.[8] To achieve asymmetric reduction, these catalyst are made chiral by use of chiral diphosphine ligands.[9] Rhodium catalyzed hydrogenation has also been used in the herbicide production of S-metolachlor, which uses a Josiphos type ligand (called Xyliphos).[10] In principle asymmetric hydrogenation can be catalyzed by chiral heterogeneous catalysts,[11] but this approach remains more of a curiosity than a useful technology.
+Heterogeneous catalysts[edit]
+Heterogeneous catalysts for hydrogenation are more common industrially. As in homogeneous catalysts, the activity is adjusted through changes in the environment around the metal, i.e. the coordination sphere. Different faces of a crystalline heterogeneous catalyst display distinct activities, for example. Similarly, heterogeneous catalysts are affected by their supports, i.e. the material upon with the heterogeneous catalyst is bound.
+In many cases, highly empirical modifications involve selective "poisons". Thus, a carefully chosen catalyst can be used to hydrogenate some functional groups without affecting others, such as the hydrogenation of alkenes without touching aromatic rings, or the selective hydrogenation of alkynes to alkenes using Lindlar's catalyst. For example, when the catalyst palladium is placed on barium sulfate and then treated with quinoline, the resulting catalyst reduces alkynes only as far as alkenes. The Lindlar catalyst has been applied to the conversion of phenylacetylene to styrene.[12]
+Illustrative hydrogenations
+Selective hydrogenation of the less hindered alkene group in carvone using a homogeneous catalyst (Wilkinson's catalyst).[13]
+Partial hydrogenation of phenylacetylene using the Lindlar catalyst.
+Hydrogenation of an imine using a Raney nickel catalyst, a popular heterogeneous catalyst.
+Partial hydrogenation of a resorcinol derivative using a Raney-Nickel catalyst.
+Hydrogenation of maleic acid to succinic acid.[14]
+Transfer hydrogenation[edit]
+Hydrogen also can be extracted ("transferred") from "hydrogen-donors" in place of H2 gas. Hydrogen donors, which often serve as solvents include hydrazine, dihydronaphthalene, dihydroanthracene, isopropanol, and formic acid.[15]
+In organic synthesis, transfer hydrogenation is useful for the asymmetric reduction of polar unsaturated substrates, such as ketones, aldehydes, and imines. The hydrogenation of polar substrates such as ketones and aldehydes typically require transfer hydrogenation, at least in homogeneous catalysis. These catalysts are readily generated in chiral forms, which is the basis of asymmetric hydrogenation of ketones.
+Transfer hydrogenation catalyzed by transition metal complexes proceeds by an "outer sphere mechanism."
+Electrolytic hydrogenation[edit]
+Polar substrates such as nitriles can be hydrogenated electrochemically, using protic solvents and reducing equivalents as the source of hydrogen.[16]
+Thermodynamics and mechanism[edit]
+The addition of hydrogen to double or triple bonds in hydrocarbons is a type of redox reaction that can be thermodynamically favorable. For example, the addition of hydrogen to an alkene has a Gibbs free energy change of -101 kJmol1.[9] However, the reaction rate for most hydrogenation reactions is negligible in the absence of catalysts. Hydrogenation is a strongly exothermic reaction. In the hydrogenation of vegetable oils and fatty acids, for example, the heat released is about 25 kcal per mole (105 kJ/mol), sufficient to raise the temperature of the oil by 1.61.7C per iodine number drop. The mechanism of metal-catalyzed hydrogenation of alkenes and alkynes has been extensively studied.[17] First of all isotope labeling using deuterium confirms the regiochemistry of the addition:
+RCH=CH2 + D2  RCHDCH2D
+Heterogeneous catalysis[edit]
+On solids, the accepted mechanism is the Horiuti-Polanyi mechanism:[18][19]
+Binding of the unsaturated bond, and hydrogen dissociation into atomic hydrogen onto the catalyst
+Addition of one atom of hydrogen; this step is reversible
+Addition of the second atom; effectively irreversible under hydrogenating conditions.
+In the second step, the metallointermediate formed is a saturated compound that can rotate and then break down, again detaching the alkene from the catalyst. Consequently, contact with a hydrogenation catalyst necessarily causes cis-trans-isomerization, because the isomerization is thermodynamically favorable. This is a problem in partial hydrogenation, while in complete hydrogenation the produced trans-alkene is eventually hydrogenated.
+For aromatic substrates, the first bond is hardest to hydrogenate because of the free energy penalty for breaking the aromatic system. The product of this is a cyclohexadiene, which is extremely active and cannot be isolated; in conditions reducing enough to break the aromatization, it is immediately reduced to a cyclohexene. The cyclohexene is ordinarily reduced immediately to a fully saturated cyclohexane, but special modifications to the catalysts (such as the use of the anti-solvent water on ruthenium) can preserve some of the cyclohexene, if that is a desired product.
+Homogeneous catalysis[edit]
+In many homogeneous hydrogenation processes,[20] the metal binds to both components to give an intermediate alkene-metal(H)2 complex. The general sequence of reactions is assumed to be as follows or a related sequence of steps:
+binding of the hydrogen to give a dihydride complex via oxidative addition (preceding the oxidative addition of H2 is the formation of a dihydrogen complex):
+LnM + H2  LnMH2
+binding of alkene:
+LnM(2H2) + CH2=CHR  Ln-1MH2(CH2=CHR) + L
+transfer of one hydrogen atom from the metal to carbon (migratory insertion)
+Ln-1MH2(CH2=CHR)  Ln-1M(H)(CH2-CH2R)
+transfer of the second hydrogen atom from the metal to the alkyl group with simultaneous dissociation of the alkane ("reductive elimination")
+Ln-1M(H)(CH2-CH2R)  Ln-1M + CH3-CH2R
+Inorganic substrates[edit]
+The hydrogenation of nitrogen to give ammonia is conducted on a vast scale by the Haber-Bosch process, consuming an estimated 1% of the world's energy supply.
+N
+ 
+N
+ 
+nitrogen
++
+3
+H
+2
+ 
+hydrogen
+(
+200
+atm
+)
+
+350
+ 
+550
+ 
+C
+Fe
+catalyst
+2
+NH
+3
+ 
+ammonia
+{\displaystyle {\ce {\overbrace {N{\equiv }N} ^{nitrogen}+\overbrace {3H2} ^{\underset {(200\ atm)}{hydrogen}}->[{\ce {Fe\ catalyst}}][350-550^{\circ }{\ce {C}}]\overbrace {2NH3} ^{ammonia}}}}
+Oxygen can be partially hydrogenated to give hydrogen peroxide, although this process has not been commercialized.
+Industrial applications[edit]
+Catalytic hydrogenation has diverse industrial uses. Most frequently, industrial hydrogenation relies on heterogeneous catalysts.[2]
+Food industry[edit]
+Types of fats in food
+Unsaturated fat
+Monounsaturated fat
+Polyunsaturated fat
+Trans fat
+Omega numbering:
+3
+6
+7
+9
+Saturated fat
+Interesterified fat
+See also
+Fatty acid
+Essential fatty acid
+v
+t
+e
+The largest scale application of hydrogenation is for the processing of vegetable oils.[2] Typical vegetable oils are derived from polyunsaturated fatty acids (containing more than one carbon-carbon double bond). Their partial hydrogenation reduces most but not all, of these carbon-carbon double bonds. The degree of hydrogenation is controlled by restricting the amount of hydrogen, reaction temperature and time, and the catalyst.[21]
+Partial hydrogenation of a typical plant oil to a typical component of margarine. Most of the C=C double bonds are removed in this process, which elevates the melting point of the product.
+Hydrogenation converts liquid vegetable oils into solid or semi-solid fats, such as those present in margarine. Changing the degree of saturation of the fat changes some important physical properties, such as the melting range, which is why liquid oils become semi-solid. Solid or semi-solid fats are preferred for baking because the way the fat mixes with flour produces a more desirable texture in the baked product. Because partially hydrogenated vegetable oils are cheaper than animal fats, are available in a wide range of consistencies, and have other desirable characteristics (such as increased oxidative stability and longer shelf life), they are the predominant fats used as shortening in most commercial baked goods.
+A side effect of incomplete hydrogenation having implications for human health is the isomerization of some of the remaining unsaturated carbon bonds, resulting in the trans isomers, which have been implicated in circulatory diseases including heart disease.[22] The conversion from cis to trans bonds is favored because the trans configuration has lower energy than the natural cis one. At equilibrium, the trans/cis isomer ratio is about 2:1. Many countries and regions have introduced mandatory labeling of trans fats on food products and appealed to the industry for voluntary reductions.[23][24][25]
+Petrochemical industry[edit]
+In petrochemical processes, hydrogenation is used to convert alkenes and aromatics into saturated alkanes (paraffins) and cycloalkanes (naphthenes), which are less toxic and less reactive. Relevant to liquid fuels that are stored sometimes for long periods in air, saturated hydrocarbons exhibit superior storage properties. On the other hand, alkene tend to form hydroperoxides, which can form gums that interfere with fuel handing equipment. For example, mineral turpentine is usually hydrogenated. Hydrocracking of heavy residues into diesel is another application. In isomerization and catalytic reforming processes, some hydrogen pressure is maintained to hydrogenolyze coke formed on the catalyst and prevent its accumulation.
+Organic chemistry[edit]
+Hydrogenation is a useful means for converting unsaturated compounds into saturated derivatives. Substrates include not only alkenes and alkynes, but also aldehydes, imines, and nitriles, which are converted into the corresponding saturated compounds, i.e. alcohols and amines. Thus, alkyl aldehydes, which can be synthesized with the oxo process from carbon monoxide and an alkene, can be converted to alcohols. E.g. 1-propanol is produced from propionaldehyde, produced from ethene and carbon monoxide. Xylitol, a polyol, is produced by hydrogenation of the sugar xylose, an aldehyde. Primary amines can be synthesized by hydrogenation of nitriles, while nitriles are readily synthesized from cyanide and a suitable electrophile. For example, isophorone diamine, a precursor to the polyurethane monomer isophorone diisocyanate, is produced from isophorone nitrile by a tandem nitrile hydrogenation/reductive amination by ammonia, wherein hydrogenation converts both the nitrile into an amine and the imine formed from the aldehyde and ammonia into another amine.
+Hydrogenation of coal[edit]
+Main article: Bergius process
+History[edit]
+Heterogeneous catalytic hydrogenation[edit]
+The earliest hydrogenation is that of platinum catalyzed addition of hydrogen to oxygen in the Dbereiner's lamp, a device commercialized as early as 1823. The French chemist Paul Sabatier is considered the father of the hydrogenation process. In 1897, building on the earlier work of James Boyce, an American chemist working in the manufacture of soap products, he discovered that traces of nickel catalyzed the addition of hydrogen to molecules of gaseous hydrocarbons in what is now known as the Sabatier process. For this work, Sabatier shared the 1912 Nobel Prize in Chemistry. Wilhelm Normann was awarded a patent in Germany in 1902 and in Britain in 1903 for the hydrogenation of liquid oils, which was the beginning of what is now a worldwide industry. The commercially important HaberBosch process, first described in 1905, involves hydrogenation of nitrogen. In the FischerTropsch process, reported in 1922 carbon monoxide, which is easily derived from coal, is hydrogenated to liquid fuels.
+In 1922, Voorhees and Adams described an apparatus for performing hydrogenation under pressures above one atmosphere.[26] The Parr shaker, the first product to allow hydrogenation using elevated pressures and temperatures, was commercialized in 1926 based on Voorhees and Adams' research and remains in widespread use. In 1924 Murray Raney developed a finely powdered form of nickel, which is widely used to catalyze hydrogenation reactions such as conversion of nitriles to amines or the production of margarine.
+Homogeneous catalytic hydrogenation[edit]
+In the 1930s, Calvin discovered that copper(II) complexes oxidized H2. The 1960s witnessed the development of well defined homogeneous catalysts using transition metal complexes, e.g., Wilkinson's catalyst (RhCl(PPh3)3). Soon thereafter cationic Rh and Ir were found catalyze the hydrogenation of alkenes and carbonyls.[27] In the 1970s, asymmetric hydrogenation was demonstrated in the synthesis of L-DOPA, and the 1990s saw the invention of Noyori asymmetric hydrogenation.[28] The development of homogeneous hydrogenation was influenced by work started in the 1930s and 1940s on the oxo process and ZieglerNatta polymerization.
+Metal-free hydrogenation[edit]
+For most practical purposes, hydrogenation requires a metal catalyst. Hydrogenation can, however, proceed from some hydrogen donors without catalysts, illustrative hydrogen donors being diimide and aluminium isopropoxide, the latter illustrated by the MeerweinPonndorfVerley reduction. Some metal-free catalytic systems have been investigated in academic research. One such system for reduction of ketones consists of tert-butanol and potassium tert-butoxide and very high temperatures.[29] The reaction depicted below describes the hydrogenation of benzophenone:
+A chemical kinetics study[30] found this reaction is first-order in all three reactants suggesting a cyclic 6-membered transition state.
+Another system for metal-free hydrogenation is based on the phosphine-borane, compound 1, which has been called a frustrated Lewis pair. It reversibly accepts dihydrogen at relatively low temperatures to form the phosphonium borate 2 which can reduce simple hindered imines.[31]
+The reduction of nitrobenzene to aniline has been reported to be catalysed by fullerene, its mono-anion, atmospheric hydrogen and UV light.[32]
+Equipment used for hydrogenation[edit]
+Today's bench chemist has three main choices of hydrogenation equipment:
+Batch hydrogenation under atmospheric conditions
+Batch hydrogenation at elevated temperature and/or pressure[33]
+Flow hydrogenation
+Batch hydrogenation under atmospheric conditions[edit]
+The original and still a commonly practised form of hydrogenation in teaching laboratories, this process is usually effected by adding solid catalyst to a round bottom flask of dissolved reactant which has been evacuated using nitrogen or argon gas and sealing the mixture with a penetrable rubber seal. Hydrogen gas is then supplied from a H2-filled balloon. The resulting three phase mixture is agitated to promote mixing. Hydrogen uptake can be monitored, which can be useful for monitoring progress of a hydrogenation. This is achieved by either using a graduated tube containing a coloured liquid, usually aqueous copper sulfate or with gauges for each reaction vessel.
+Batch hydrogenation at elevated temperature and/or pressure[edit]
+Since many hydrogenation reactions such as hydrogenolysis of protecting groups and the reduction of aromatic systems proceed extremely sluggishly at atmospheric temperature and pressure, pressurised systems are popular. In these cases, catalyst is added to a solution of reactant under an inert atmosphere in a pressure vessel. Hydrogen is added directly from a cylinder or built in laboratory hydrogen source, and the pressurized slurry is mechanically rocked to provide agitation, or a spinning basket is used.[33] Heat may also be used, as the pressure compensates for the associated reduction in gas solubility.
+Flow hydrogenation[edit]
+Flow hydrogenation has become a popular technique at the bench and increasingly the process scale. This technique involves continuously flowing a dilute stream of dissolved reactant over a fixed bed catalyst in the presence of hydrogen. Using established HPLC technology, this technique allows the application of pressures from atmospheric to 1,450psi (100bar). Elevated temperatures may also be used. At the bench scale, systems use a range of pre-packed catalysts which eliminates the need for weighing and filtering pyrophoric catalysts.
+Industrial reactors[edit]
+Catalytic hydrogenation is done in a tubular plug-flow reactor (PFR) packed with a supported catalyst. The pressures and temperatures are typically high, although this depends on the catalyst. Catalyst loading is typically much lower than in laboratory batch hydrogenation, and various promoters are added to the metal, or mixed metals are used, to improve activity, selectivity and catalyst stability. The use of nickel is common despite its low activity, due to its low cost compared to precious metals.
+Gas Liquid Induction Reactors (Hydrogenator) are also used for carrying out catalytic hydrogenation.[34]
+See also[edit]
+Carbon neutral fuel
+Dehydrogenation
+H-Bio
+Hydrogenolysis
+Hydrodesulfurization, hydrotreater and oil desulfurization
+Josiphos ligands
+Timeline of hydrogen technologies
+Transfer hydrogenation
+Rhodium-catalyzed hydrogenation
+References[edit]
+^ Hudlick, Milo (1996). Reductions in Organic Chemistry. Washington, D.C.: American Chemical Society. p.429. ISBN0-8412-3344-6.
+^ a b c Paul N. Rylander, "Hydrogenation and Dehydrogenation" in Ullmann's Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim, 2005. doi:10.1002/14356007.a13 487
+^ Advanced Organic Chemistry Jerry March 2nd Edition
+^ "Hydrogenation of nitrobenzene using polymer bound Ru(III) complexes as catalyst". Ind. Jr. of Chem. Tech. 7: 280. 2000.
+^ Patel, D. R. (1998). "Hydrogenation of nitrobenzene using polymer anchored Pd(II) complexes as catalyst". Journal of Molecular Catalysis. 130: 57. doi:10.1016/s1381-1169(97)00197-0.
+^ C. F. H. Allen and James VanAllan (1955). "m-Toylybenzylamine". Org. Synth.; Coll. Vol., 3, p.827
+^ A. B. Mekler, S. Ramachandran, S. Swaminathan, and Melvin S. Newman (1973). "2-Methyl-1,3-Cyclohexanedione". Org. Synth. CS1 maint: Multiple names: authors list (link); Coll. Vol., 5, p.743
+^ Knowles, W. S. (March 1986). "Application of organometallic catalysis to the commercial production of L-DOPA". Journal of Chemical Education. 63 (3): 222. doi:10.1021/ed063p222.
+^ a b Atkins, Peter W. (2010). Shriver & Atkins' inorganic chemistry. (5th ed.). New York: W. H. Freeman and Co. p.696. ISBN978-1-4292-1820-7.
+^ Blaser, Hans-Ulrich; Pugin, Benot; Spindler, Felix; Thommen, Marc (December 2007). "From a Chiral Switch to a Ligand Portfolio for Asymmetric Catalysis". Accounts of Chemical Research. 40 (12): 12401250. doi:10.1021/ar7001057.
+^ Mallat, T.; Orglmeister, E.; Baiker, A. (2007). "Asymmetric Catalysis at Chiral Metal Surfaces". Chemical Reviews. 107 (11): 486390. doi:10.1021/cr0683663. PMID17927256.
+^ H. Lindlar and R. Dubuis (1973). "Palladium Catalyst for Partial Reduction of Acetylenes". Org. Synth.; Coll. Vol., 5, p.880
+^ S. Robert E. Ireland and P. Bey (1988). "Homogeneous Catalytic Hydrogenation: Dihydrocarvone". Org. Synth.; Coll. Vol., 6, p.459
+^ Kwesi Amoa Catalytic Hydrogenation of Maleic Acid at Moderate Pressures A Laboratory Demonstration Journal of Chemical Education 2007, Vol. 84, p 1948. doi:10.1021/ed084p1948
+^ van Es, T.; Staskun, B. "Aldehydes from Aromatic Nitriles: 4-Formylbenzenesulfonamide" Org. Syn., Coll. Vol. 6, p. 631 (1988). (Article)
+^ Navarro, Daniela Maria do Amaral Ferraz; Navarro, Marcelo (2004). "Catalytic Hydrogenation of Organic Compounds without H2 Supply: An Electrochemical System". Journal of Chemical Education. 81 (9): 1350. doi:10.1021/ed081p1350.
+^ Kubas, G. J., "Metal Dihydrogen and -Bond Complexes", Kluwer Academic/Plenum Publishers: New York, 2001
+^ Gallezot, Pierre. "Hydrogenation - Heterogeneous" in Encyclopedia of Catalysis, Volume 4, ed. Horvath, I.T., John Wiley & Sons, 2003.
+^ Horiuti, Iur; Polanyi, M. (1934). "Exchange reactions of hydrogen on metallic catalysts". Transactions of the Faraday Society. 30: 1164. doi:10.1039/TF9343001164.
+^ Johannes G. de Vries, Cornelis J. Elsevier, eds. The Handbook of Homogeneous Hydrogenation Wiley-VCH, Weinheim, 2007. ISBN 978-3-527-31161-3
+^ Ian P. Freeman "Margarines and Shortenings" in Ullmann's Encyclopedia of Industrial Chemistry, 2005, Wiley-VCH, Weinheim. doi:10.1002/14356007.a16_145
+^ Maria Teresa Tarrago-Trani, Katherine M. Phillips, Linda E. Lemar, Joanne M. Holden "New and Existing Oils and Fats Used in Products with Reduced Trans-Fatty Acid Content" Journal of the American Dietetic Association 2006, Volume 106, pp. 867880.doi:10.1016/j.jada.2006.03.010
+^ "Deadly fats: why are we still eating them?". The Independent. 2008-06-10. Retrieved 2008-06-16.
+^ "New York City passes trans fat ban". msnbc. 2006-12-05. Retrieved 2010-01-09.
+^ "F.D.A. Gives Food Industry 3 Years to Eliminate Trans Fats". The New York Times. 2015-06-16. Retrieved 2015-06-16.
+^ http://pubs.acs.org/cgi-bin/abstract.cgi/jacsat/1922/44/i06/f-pdf/f_ja01427a021.pdf
+^ Schrock, Richard R.; Osborn, John A. (April 1976). "Catalytic hydrogenation using cationic rhodium complexes. I. Evolution of the catalytic system and the hydrogenation of olefins". Journal of the American Chemical Society. 98 (8): 21342143. doi:10.1021/ja00424a020.
+^ C. Pettinari, F. Marchetti, D. Martini "Metal Complexes as Hydrogenation Catalysts" Comprehensive Coordination Chemistry II, 2004, volume 9. pp. 75139. doi:10.1016/B0-08-043748-6/09125-8
+^ Walling, Cheves.; Bollyky, Laszlo. (1964). "Homogeneous Hydrogenation in the Absence of Transition-Metal Catalysts". Journal of the American Chemical Society. 86 (18): 3750. doi:10.1021/ja01072a028.
+^ Berkessel, Albrecht; Schubert, Thomas J. S.; Mller, Thomas N. (2002). "Hydrogenation without a Transition-Metal Catalyst: On the Mechanism of the Base-Catalyzed Hydrogenation of Ketones". Journal of the American Chemical Society. 124 (29): 86938. doi:10.1021/ja016152r. PMID12121113.
+^ Chase, Preston A.; Welch, Gregory C.; Jurca, Titel; Stephan, Douglas W. (2007). "Metal-Free Catalytic Hydrogenation". Angewandte Chemie International Edition. 46 (42): 8050. doi:10.1002/anie.200702908.
+^ Li, Baojun; Xu, Zheng (2009). "A Nonmetal Catalyst for Molecular Hydrogen Activation with Comparable Catalytic Hydrogenation Capability to Noble Metal Catalyst". Journal of the American Chemical Society. 131 (45): 163802. doi:10.1021/ja9061097. PMID19845383.
+^ a b Adams, Roger; Voorhees, V. (1928). "Apparatus for catalytic reduction". Organic Syntheses. 8: 10. doi:10.15227/orgsyn.008.0010.
+^ Joshi, J.B.; Pandit, A.B.; Sharma, M.M. (1982). "Mechanically agitated gasliquid reactors". Chemical Engineering Science. 37 (6): 813. doi:10.1016/0009-2509(82)80171-1.
+Further reading[edit]
+Jang ES, Jung MY, Min DB (2005). "Hydrogenation for Low Trans and High Conjugated Fatty Acids" (PDF). Comprehensive Reviews in Food Science and Food Safety. 1.
+examples of hydrogenation from Organic Syntheses:
+Organic Syntheses, Coll. Vol. 7, p.226 (1990).
+Organic Syntheses, Coll. Vol. 8, p.609 (1993).
+Organic Syntheses, Coll. Vol. 5, p.552 (1973).
+Organic Syntheses, Coll. Vol. 3, p.720 (1955).
+Organic Syntheses, Coll. Vol. 6, p.371 (1988).
+early work on transfer hydrogenation: Davies, R. R.; Hodgson, H. H. J. Chem. Soc. 1943, 281. Leggether, B. E.; Brown, R. K. Can. J. Chem. 1960, 38, 2363. Kuhn, L. P. J. Am. Chem. Soc. 1951, 73, 1510.
+Kummerow, Fred August; Kummerow, Jean M. (2008). Cholesterol Won't Kill You, But Trans Fat Could. Trafford. ISBN978-1-4251-3808-0.
+External links[edit]
+Wikiquote has quotations related to: Hydrogenation
+"The Magic of Hydro" Popular Mechanics, June 1931, pp. 107109  early article for the general public on hydrogenation of oil produces in the 1930s
+Authority control
+NDL: 00571633
+NewPP limit report
+Parsed by mw1287
+Cached time: 20161119100010
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.395 seconds
+Preprocessor visited node count: 2845/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 66731/2097152 bytes
+Template argument size: 2487/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.128/10.000 seconds
+Lua memory usage: 6.52 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+290.181
+1 - -total
+53.96%
+156.595
+1 - Template:Reflist
+21.67%
+62.892
+19 - Template:Cite_journal
+11.80%
+34.255
+4 - Template:OrgSynth
+11.54%
+33.475
+3 - Template:Cite_book
+8.58%
+24.887
+1 - Template:Infobox_industrial_process
+8.08%
+23.454
+1 - Template:Infobox
+7.93%
+23.010
+1 - Template:Convert
+6.17%
+17.899
+1 - Template:Authority_control
+4.92%
+14.268
+4 - Template:Citation
+Saved in parser cache with key enwiki:pcache:idhash:235968-0!*!0!!en!4!*!math=5 and timestamp 20161119100010 and revision id 750377851
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Hydrogenation&oldid=750377851"
+Categories: Addition reactionsHomogeneous catalysisIndustrial processesHydrogenHydrogenationOil refiningOil shale technologySynthetic fuel technologiesOrganic redox reactionsHidden categories: CS1 maint: Multiple names: authors listPages using ISBN magic links

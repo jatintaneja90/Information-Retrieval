@@ -1,0 +1,476 @@
+LEDlamp
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2016) (Learn how and when to remove this template message)
+A 230-volt LED light bulb, with an E27 base (10 watts, 806 lumens).
+A 230-volt LED filament light bulb, with an E27 base. The filament is visible as the eight yellow vertical lines.
+An assortment of LED lamps commercially available as of 2010 as replacements for screw-in bulbs, including floodlight fixtures (left), reading light (center), household lamps (center right and bottom), and low-power accent light (right) applications.
+LED light bulb to replace G24 compact fluorescent lamp.
+An 80W Chip-On-Board COB LED Module from an industrial light luminaire, thermally bonded to the heat sink.
+An LED lamp is a light-emitting diode (LED) product which is assembled into a lamp (or light bulb) for use in lighting fixtures. LED lamps have a lifespan and electrical efficiency which are several times greater than incandescent lamps, and are significantly more efficient than most fluorescent lamps,[1][2][3] with some chips able to emit more than 300 lumens per watt (as claimed by Cree and some other LED manufacturers).[4] The LED lamp market is projected to grow by more than twelve-fold over the next decade, from $2 billion in the beginning of 2014 to $25 billion in 2023, a compound annual growth rate (CAGR) of 25%.[5] As of 2016, LEDs use only about 10% of the energy an incandescent lamp requires.[6]
+Like incandescent lamps and unlike most fluorescent lamps (e.g. tubes and compact fluorescent lamps or CFLs), LEDs come to full brightness without need for a warm-up time; the life of fluorescent lighting is also reduced by frequent switching on and off.[7] The initial cost of LED is usually higher. Degradation of LED dye and packaging materials reduces light output to some extent over time.
+Some LED lamps are made to be a directly compatible drop-in replacement for incandescent or fluorescent lamps. An LED lamp packaging may show the lumen output, power consumption in watts, color temperature in kelvins or description (e.g. "warm white"), operating temperature range, and sometimes the equivalent wattage of an incandescent lamp of similar luminous output.
+Most LEDs do not emit light in all directions, and their directional characteristics affect the design of lamps, although omnidirectional lamps which radiate light over a 360 angle are becoming more common. The light output of single LED is less than that of incandescent and compact fluorescent lamps; in most applications multiple LEDs are used to form a lamp, although high-power versions (see below) are becoming available.
+LED chips need controlled direct current (DC) electrical power and an appropriate circuit as an LED driver is required to convert the alternating current from the power supply to the regulated voltage direct current used by the LEDs. LEDs are adversely affected by high temperature, so LED lamps typically include heat dissipation elements such as heat sinks and cooling fins.
+LED drivers are the essential components of LED lamps or luminaries. A good LED driver can guarantee a long life for an LED system and provide additional features such as dimming and control. The LED drivers can be put inside lamp or luminaire, which is called a built-in type, or be put outside, which is called an independent type. According to different applications, different types of LED drivers need to be applied, for example an outdoor driver for street light, an indoor point driver for a down light, and an indoor linear driver for a panel light.
+Contents
+1 History
+1.1 Examples of early adoption
+2 Technology overview
+3 Application
+4 Effects on plants
+5 Household LED lamps
+5.1 Replacement for existing lighting
+5.1.1 Lamp sizes and bases
+5.1.2 LED tube lamps
+5.2 Lighting designed for LEDs
+6 Specialty uses
+7 Comparison to other lighting technologies
+7.1 Comparison table
+7.2 Energy Star qualification
+8 Limitations
+8.1 Efficiency droop
+9 See also
+10 References
+11 Further reading
+12 External links
+History[edit]
+Before electric lighting became common in the early 20th century, people used candles, gas lights, oil lamps, and fires. Humphry Davy developed the first incandescent light in 1802, followed by the first practical electric arc light in 1806. By the 1870s, Davy's arc lamp had been successfully commercialized, and was used to light many public spaces. The development of a steadily glowing filament suitable for interior lighting took longer, but by the early twentieth century inventors had successfully developed options, replacing the arc light with incandescents.
+The first LEDs were developed in the early 1960s, however, they were low-powered and only produced light in the low, red frequencies of the spectrum. The first high-brightness blue LED was demonstrated by Shuji Nakamura of Nichia Corporation in 1994.[8] The existence of blue LEDs and high-efficiency LEDs led to the development of the first 'white LED', which employed a phosphor coating to partially convert the emitted blue light to red and green frequencies creating a light that appears white.[9] IsamuAkasaki, HiroshiAmano and Nakamura were later awarded the 2014 Nobel prize in physics for the invention of the blue LED.[10]
+In the USA, the Energy Independence and Security Act (EISA) of 2007 authorized the Department of Energy (DOE) to establish the Bright Tomorrow Lighting Prize competition, known as the "L Prize", the first government-sponsored technology competition designed to challenge industry to develop replacements for 60 W incandescent lamps and PAR 38 halogen lamps. The EISA legislation established basic requirements and prize amounts for each of the two competition categories, and authorized up to $20 million in cash prizes.[11] The competition also included the possibility for winners to obtain federal purchasing agreements, utility programs, and other incentives. In May 2008, they announced details of the competition and technical requirements for each category. Lighting products meeting the competition requirements could use just 17% of the energy used by most incandescent lamps in use today. That same year the DOE also launched the Energy Star program for solid-state lighting products. The EISA legislation also authorized an additional L Prize program for developing a new "21st Century Lamp".
+Philips Lighting ceased research on compact fluorescents in 2008 and began devoting the bulk of its research and development budget to solid-state lighting.[12] On 24 September 2009, Philips Lighting North America became the first to submit lamps in the category to replace the standard 60 W A-19 "Edison screw fixture" light bulb,[13] with a design based on their earlier "AmbientLED" consumer product. On 3 August 2011, DOE awarded the prize in the 60 W replacement category to a Philips' LED lamp after 18 months of extensive testing.[14]
+Early LED lamps varied greatly in chromaticity from the incandescent lamps they were replacing. A standard was developed, ANSI C78.377-2008, that specified the recommended color ranges for solid-state lighting products using cool to warm white LEDs with various correlated color temperatures.[15] In June 2008, NIST announced the first two standards for solid-state lighting in the United States. These standards detail performance specifications for LED light sources and prescribe test methods for solid-state lighting products.
+Also in 2008 in the United States and Canada, the Energy Star program began to label lamps that meet a set of standards for starting time, life expectancy, color, and consistency of performance. The intent of the program is to reduce consumer concerns due to variable quality of products, by providing transparency and standards for the labeling and usability of products available in the market.[16] Energy Star Light Bulbs for Consumers is a resource for finding and comparing Energy Star qualified lamps. A similar program in the United Kingdom (run by the Energy Saving Trust) was launched to identify lighting products that meet energy conservation and performance guidelines.[17]
+The Illuminating Engineering Society of North America (IESNA) in 2008 published a documentary standard LM-79, which describes the methods for testing solid-state lighting products for their light output (lumens), efficacy (lumens per watt) and chromaticity.
+In January 2009, it was reported that researchers at Cambridge University had developed an LED bulb that costs 2 (about $3 U.S.), is 12 times as energy efficient as a tungsten bulb, and lasts for 100,000 hours.[18] Honeywell Electrical Devices and Systems (ED&S) recommend worldwide usage of LED lighting as it is energy efficient and can help save the climate.[19]
+As of 2016, in the opinion of Noah Horowitz of the Natural Resources Defense Council, new standards proposed by the United States Department of Energy would likely mean most light bulbs used in the future would be LED.[20]
+Examples of early adoption[edit]
+LEDs as Christmas illumination in Viborg, Denmark
+In 2008 Sentry Equipment Corporation in Oconomowoc, Wisconsin, US, was able to light its new factory interior and exterior almost solely with LEDs. Initial cost was three times that of a traditional mix of incandescent and fluorescent lamps, but the extra cost was recovered within two years via electricity savings, and the lamps should not need replacing for 20 years.[12] In 2009 the Manapakkam, Chennai office of the Indian IT company, iGate, spent 3,700,000 (US$80,000) to light 57,000sqft (5,300m2) of office space with LEDs. The firm expected the new lighting to pay for itself fully within 5 years.[21]
+In 2009 the exceptionally large Christmas tree standing in front of the Turku Cathedral in Finland was hung with 710 LED bulbs, each using 2 watts. It has been calculated that these LED lamps paid for themselves in three and a half years, even though the lights run for only 48 days per year.[22]
+In 2009 a new highway (A29) was inaugurated in Aveiro, Portugal, it included the first European public LED-based lighting highway.[23]
+By 2010 mass installations of LED lighting for commercial and public uses were becoming common. LED lamps were used for a number of demonstration projects for outdoor lighting and LED street lights. The United States Department of Energy made several reports available on the results of many pilot projects for municipal outdoor lighting,[24] and many additional streetlight and municipal outdoor lighting projects soon followed.[25]
+Technology overview[edit]
+General-purpose lighting needs white light. LEDs emit light in a very narrow band of wavelengths, emitting light of a color characteristic of the energy bandgap of the semiconductor material used to make the LED. To emit white light from LEDs requires either mixing light from LEDs of various colors, or using a phosphor to convert some of the light to other colors.
+The two simplest methods of producing white light LEDs are RGB or phosphor. RGB or trichromatic white LEDs uses multiple LED chips emitting red, green, and blue wavelengths. These outputs combine to produce white light. The color rendering index (CRI) is poor, typically 25 - 65, due to the narrow range of wavelengths emitted.[26]
+The second basic method uses LEDs in conjunction with a phosphor to produce complementary colors from a single LED. The most common method is to combine a blue LED with a yellow phosphor, producing a narrow range of blue wavelengths and a broad band of "yellow" wavelengths actually covering the spectrum from green to red. The CRI value can range from less than 70 to over 90, although a wide range of commercial LEDs of this type have a color rendering index around 82.[26]
+The colors available from both the basic types of white light LED is adjustable to a certain extent, with color temperatures in the range of 2,200 K (matching incandescent lamps) up to 7,000 K are widely available.[27] Higher CRI values can be obtained using more than three LED colors to cover a greater range of wavelengths. Tunable lighting systems employ banks of colored LEDs that can be individually controlled, either using separate banks of each color, or multi-chip LEDs with the colors combined and controlled at the chip level.[28]
+Application[edit]
+A significant difference from other light sources is that the light is more directional, i.e., emitted as a narrower beam. LED lamps are used for both general and special-purpose lighting. Where colored light is needed, LEDs that inherently emit light of a single color require no energy-absorbing filters.
+BAPS Shri Swaminarayan Mandir Atlanta Illumination with color mixing LED fixtures
+Computer-led LED lighting allows enhancement of unique qualities of paintings in the National Museum in Warsaw[29]
+White-light LED lamps have longer life expectancy and higher efficiency (more light for the same electricity) than most other lighting when used at the proper temperature. LED sources are compact, which gives flexibility in designing lighting fixtures and good control over the distribution of light with small reflectors or lenses. Because of the small size of LEDs, control of the spatial distribution of illumination is extremely flexible,[30] and the light output and spatial distribution of an LED array can be controlled with no efficiency loss.
+LEDs using the color-mixing principle can emit a wide range of colors by changing the proportions of light generated in each primary color. This allows full color mixing in lamps with LEDs of different colors.[31] Unlike other lighting technologies, LED emission tends to be directional (or at least lambertian), which can be either advantageous or disadvantageous, depending on requirements. For applications where non-directional light is required, either a diffuser is used, or multiple individual LED emitters are used to emit in different directions.
+Effects on plants[edit]
+Experiments unraveled surprising performance and production of vegetables and ornamental plants under LED light sources.[32] A large number of plant species have been assessed in greenhouse trials to make sure plants have higher quality in biomass and biochemical ingredients even higher or comparable with field conditions. Plant performance of mint, basil, lentil, lettuce, cabbage, parsley, carrot were measured by assessing health and vigor of plants and success in promoting growth. Promoting in profuse flowering of select ornamentals including primula, marigold, stock were also noticed.[32][33]
+Light emitting diodes (LEDs) have efficient electric lighting with desired wavelengths (Red+Blue) which support greenhouse production in a minimum time and with high quality and quantity. As LEDs are cool it helps plants to be placed as close as possible to light sources without overheating or scorching. This will save a high amount of space for intense cultivation.
+Household LED lamps[edit]
+Replacement for existing lighting[edit]
+Disassembled LED-light bulb with driver circuit board and Edison screw
+Lamp sizes and bases[edit]
+LED lamps are made of arrays of SMD modules that replace incandescent or compact fluorescent light bulbs, mostly replacing incandescent bulbs rated from 5 to 60 watts. Such lamps are made with standard light bulb connections and shapes, such as an Edison screw base, an MR16 shape with a bi-pin base, or a GU5.3 (bi-pin cap) or GU10 (bayonet fitting) and are made compatible with the voltage supplied to the sockets. They include driver circuitry to rectify the AC power and convert the voltage to an appropriate value, usually Switched-mode power supplies.
+As of 2010[update] some LED lamps replaced higher wattage bulbs; for example, one manufacturer claimed a 16-watt LED bulb was as bright as a 150W halogen lamp.[1] A standard general-purpose incandescent bulb emits light at an efficiency of about 14 to 17 lumens/W depending on its size and voltage. According to the European Union standard, an energy-efficient bulb that claims to be the equivalent of a 60W tungsten bulb must have a minimum light output of 806 lumens.[34]
+A selection of consumer LED bulbs available in 2012 as drop-in replacements for incandescent bulbs in screw-type sockets
+Some models of LED bulbs are compatible with dimmers as used for incandescent lamps. LED lamps often have directional light characteristics. These bulbs are more power-efficient than compact fluorescent bulbs[35] and offer lifespans of 30,000 or more hours, reduced if operated at a higher temperature than specified. Incandescent bulbs have a typical life of 1,000 hours,[36] and compact fluorescents about 8,000 hours.[37] The bulbs maintain output light intensity well over their lifetimes. Energy Star specifications require the bulbs to typically drop less than 10% after 6,000 or more hours of operation, and in the worst case not more than 15%.[38] LED lamps are available with a variety of color properties. The purchase price is higher than most other, but the higher efficiency may make total cost of ownership (purchase price plus cost of electricity and changing bulbs) lower.[13]
+High-power LED "corn cob" light bulb
+Several companies offer LED lamps for general lighting purposes. The technology is improving rapidly and new energy-efficient consumer LED lamps are available.[39][40]
+LED lamps are close to being adopted as the mainstream light source because of the falling prices and because 40 and 60 watt incandescent bulbs are being phased out.[41] In the U.S. the Energy Independence and Security Act of 2007 effectively bans the manufacturing and importing of most current incandescent light bulbs. LED bulbs have decreased substantially in pricing and many varieties are sold with subsidized prices from local utilities.
+A 17W tube of LEDs which has the same intensity as a 45W fluorescent tube
+LED tube lamps[edit]
+LED tube lights are designed to physically fit in fixtures intended for fluorescent tubes. Some LED tube lamps are intended to be a drop-in replacement into existing fixtures if appropriate ballast is used. Others require rewiring of the fixtures to remove the ballast. An LED tube lamp generally uses many individual Surface-Mounted LEDs which are directional and require proper orientation during installation as opposed to Fluorescent tube lamps which emit light in all directions around the tube. Most LED tube lights available can be used in place of T8, T10, or T12 tube designations, T8 is D26mm, T10 is D30mm, in lengths of 590mm (23in), 1,200mm (47in) and 1,500mm (59in).
+Lighting designed for LEDs[edit]
+LED-wall lamp
+Newer light fittings designed for LED lamps, or indeed with long-lived LEDs built-in, have been coming into use as the need for compatibility with existing fittings diminishes. Such lighting does not require each bulb to contain circuitry to operate from mains voltage.
+Specialty uses[edit]
+LED Flashlight replacement bulb (left), with tungsten equivalent (right)
+White LED lamps have achieved market dominance in applications where high efficiency is important at low power levels. Some of these applications include flashlights, solar-powered garden or walkway lights, and bicycle lights. Monochromatic (colored) LED lamps are now commercially used for traffic signal lamps, where the ability to emit bright monochromatic light is a desired feature, and in strings of holiday lights. LED automotive lamps are widely used for their long life and small size (allowing for multiple bulbs), improving road safety. LED lamps are also becoming popular in homes, especially for bathroom and medicine cabinet lighting.
+Comparison to other lighting technologies[edit]
+See luminous efficacy for an efficiency chart comparing various technologies.
+Incandescent lamps (light bulbs) generate light by passing electric current through a resistive filament, thereby heating the filament to a very high temperature so that it glows and emits visible light over a broad range of wavelengths. Incandescent sources yield a "warm" yellow or white color quality depending on the filament operating temperature. Incandescent lamps emit 98% of the energy input as heat.[42] A 100 W light bulb for 120 V operation emits about 1,700 lumens, about 17 lumens/W;[43] for 230 V bulbs the figures are 1340 lm and 13.4 lm/W.[44] Incandescent lamps are relatively inexpensive to make. The typical lifespan of an AC incandescent lamp is 750 to 1,000 hours.[45][46] They work well with dimmers. Most older light fixtures are designed for the size and shape of these traditional bulbs. In the U.S. the regular sockets are E26 and E11, and E27 and E14 in some European countries.
+Fluorescent lamps work by passing electricity through mercury vapor, which in turn emits ultraviolet light. The ultraviolet light is then absorbed by a phosphor coating inside the lamp, causing it to glow, or fluoresce. Conventional linear fluorescent lamps have life spans around 20,000 and 30,000 hours based on 3 hours per cycle according to lamps NLPIP reviewed in 2006. Induction fluorescent relies on electromagnetism rather than the cathodes used to start conventional linear fluorescent. The newer rare earth triphosphor blend linear fluorescent lamps made by Osram, Philips, Crompton and others have a life expectancy greater than 40,000 hours, if coupled with a warm-start electronic ballast. The life expectancy depends on the number of on/off cycles, and is lower if the light is cycled often. The ballast-lamp combined system efficacy for then current linear fluorescent systems in 1998 as tested by NLPIP ranged from 80 to 90 lm/W.[47]
+Compact fluorescent lamps' specified lifespan typically ranges from 6,000 hours to 15,000 hours.[45]
+Electricity prices vary in different areas of the world, and are customer dependent. In the US generally, commercial (0.103 USD/kWh) and industrial (0.068 USD/kWh) electricity prices are lower than residential (0.123 USD/kWh) due to fewer transmission losses.[48]
+Comparison table[edit]
+Cost Comparison for 60 watt incandescent equivalent lightbulb (U.S. residential electricity prices)
+Incandescent[49]
+Halogen[50]
+CFL[51]
+LED (Cree)[52]
+LED (Philips)[53]
+LED (LEDNovation)[54]
+Purchase price
+$0.41
+$1.50
+$0.99
+$9.97
+$5.00
+$31.50
+Watts
+60
+35
+14
+9.5
+6
+9.4
+lumens (mean)
+860
+860
+775[55]
+800
+806
+810
+lumens/watt
+14.3
+24.6
+55.4
+84
+134.3
+86.2
+Color Temperature kelvin
+2700
+2900
+2700
+2700
+2700
+2700
+CRI
+100
+100
+82
+80
+80
+94
+Lifespan (hours)
+1,000
+4,000
+10,000
+25,000
+15,000
+50,000
+Bulb lifetime in years @ 6 hours/day
+0.46
+1.83
+4.6
+11.4
+6.8
+22.8
+Energy cost over 20 years @ 13 cents/kWh
+$342
+$199
+$159
+$72
+$68
+$107
+Comparison based on 6 hours use per day (43,800 hours over 20 yrs)
+In keeping with the long life claimed for LED lamps, long warranties are offered. One manufacturer warrants lamps for professional use, depending upon type, for periods of (defined) "normal use" ranging from 1 year or 2,000 hours (whichever comes first) to 5 years or 20,000 hours.[56] A typical domestic LED lamp is stated to have an "average life" of 15,000 hours (15 years at 3 hours/day), and to support 50,000 switch cycles.[57]
+Incandescent and Halogen light bulbs naturally have a power factor of 1, but Compact fluorescent and LED lamps use input rectifiers and this causes lower power factors. Low power factors can result in surcharges for commercial energy users; CFL and LED lamps are available with driver circuits to provide any desired power factor, or site-wide power factor correction can be performed. EU standards requires a power factor better than 0.5 for bulb powers up to 25 Watt and above 0.9 for higher power bulbs.[58]
+Energy Star qualification[edit]
+Energy Star is an international standard for energy efficient consumer products.[59][60] Devices carrying the Energy Star service mark generally use 2030% less energy than required by US standards.[61]
+Energy Star LED qualifications:[62]
+Reduces energy costs uses at least 75% less energy than incandescent lighting, saving on operating expenses.
+Reduces maintenance costs lasts 35 to 50 times longer than incandescent lighting and about 2 to 5 times longer than fluorescent lighting. No bulb-replacements, no ladders, no ongoing disposal program.
+Reduces cooling costs LEDs produce very little heat.
+Is guaranteed comes with a minimum three-year warranty far beyond the industry standard.
+Offers convenient features available with dimming on some indoor models and automatic daylight shut-off and motion sensors on some outdoor models.
+Is durable wont break like a bulb.
+To qualify for Energy Star certification, LED lighting products must pass a variety of tests to prove that the products will display the following characteristics:
+Brightness is equal to or greater than existing lighting technologies (incandescent or fluorescent) and light is well distributed over the area lit by the fixture.
+Light output remains constant over time, only decreasing towards the end of the rated lifetime (at least 35,000 hours or 12 years based on use of 8 hours per day).
+Excellent color quality. The shade of white light appears clear and consistent over time.
+Efficiency is as good as or better than fluorescent lighting.
+Light comes on instantly when turned on.
+No flicker when dimmed.
+No off-state power draw. The fixture does not use power when it is turned off, with the exception of external controls, whose power should not exceed 0.5 watts in the off state.
+Power factor of at least 0.7 for all lamps of 5W or greater.
+Limitations[edit]
+Color rendering is not identical to incandescent lamps which emit close to perfect Black-body radiation as that from the sun and what eyes have evolved for. A measurement unit called CRI is used to express how the light source's ability to render the eight color sample chips compare to a reference on a scale from 0 to 100.[63] LEDs with CRI below 75 are not recommended for use in indoor lighting.[64]
+LED lamps may flicker. The effect can be seen on a slow motion video of such a lamp. The extent of flicker is based on the quality of the DC power supply built into the lamp structure, usually located in the lamp base. Longer exposures to flickering light contribute to headaches and eye strain.[65][66][67]
+LED efficiency and life span drop at higher temperatures, which limits the power that can be used in lamps that physically replace existing filament and compact fluorescent types. Thermal management of high-power LEDs is a significant factor in design of solid state lighting equipment.
+LED lamps are sensitive to excessive heat, like most solid state electronic components. LED lamps should be checked for compatibility for use in totally or partially enclosed fixtures before installation since heat build-up could cause lamp failure and/or fire.
+The long life of LEDs, expected to be about 50 times that of the most common incandescent bulbs and significantly longer than fluorescent types, is advantageous for users but will affect manufacturers as it reduces the market for replacements in the distant future.[12]
+The human circadian rhythm can be affected by light sources.[68][69] The effective color temperature of daylight is ~5,700K[70] (bluish white) while tungsten lamps are ~2,700K (yellow).[71] People who have circadian rhythm sleep disorders are sometimes treated with light therapy (exposure to intense blueish white light during the day) and dark therapy (wearing blue tinted goggles at night to cut out all blueish light).[72][73][74] Some organizations recommend that people should not use bluish white lamps at night. The American Medical Association argues against using bluish white LEDs for municipal street lighting.[75]
+Efficiency droop[edit]
+The term "efficiency droop" refers to the decrease in luminous efficacy of LEDs as the electric current increases above tens of milliamps (mA). Instead of increasing current levels, luminance is usually increased by combining multiple LEDs in one bulb. Solving the problem of efficiency droop would mean that household LED light bulbs would need fewer LEDs, which would significantly reduce costs.
+In addition to being less efficient, operating LEDs at higher electric currents creates higher heat levels which compromise the lifetime of the LED. Because of this increased heating at higher currents, high-brightness LEDs have an industry standard of operating at only 350mA. 350mA is a good compromise between light output, efficiency, and longevity.[76][77][78][79] Thermal management of high-power LEDs often involves using heat sinks to keep the junction temperature at lower levels.
+Early suspicions were that the LED droop was caused by elevated temperatures. Scientists proved the opposite to be true that, although the life of the LED would be shortened, elevated temperatures actually improved the efficiency of the LED.[80] The mechanism causing efficiency droop was identified in 2007 as Auger recombination, which was taken with mixed reaction.[79] In 2013, a study conclusively identified Auger recombination as the cause of efficiency droop.[81]
+See also[edit]
+LED display
+LED headlamp
+LED filament
+List of emerging technologies
+List of light sources
+Lux
+Photometry (optics)
+Radiation angle
+Solar lamp
+Spectrometer
+References[edit]
+^ "How Energy-Efficient Light Bulbs Compare with Traditional Incandescents". energy.gov. Retrieved 31 August 2016.
+^ "CFLs vs. LEDs: The Better Bulbs". greenamerica.org. Retrieved 31 August 2016.
+^ "Lightbulb Efficiency Comparison Chart". greatercea.org. Retrieved 31 August 2016.
+^ "LEDs Will Get Even More Efficient: Cree Passes 300 Lumens Per Watt". forbes.com. Retrieved 31 August 2016.
+^ Jacques, Carole (28 January 2014) LED Lighting Market to Grow Over 12-Fold to $25 Billion in 2023, Lux Research
+^ Bergesen, Joseph D.; Thkm, Leena; Gibon, Thomas; Suh, Sangwon (2016). "Potential Long-Term Global Environmental Implications of Efficient Light-Source Technologies". Journal of Industrial Ecology. 20 (2): 263. doi:10.1111/jiec.12342..
+^ Damir, B (2012). "Longevity of light bulbs and how to make them last longer". RobAid. Retrieved 10 August 2015.
+^ Nakamura, S.; Mukai, T.; Senoh, M. (1994). "Candela-Class High-Brightness InGaN/AlGaN Double-Heterostructure Blue-Light-Emitting-Diodes". Appl. Phys. Lett. 64 (13): 1687. Bibcode:1994ApPhL..64.1687N. doi:10.1063/1.111832.
+^ 2006 Millennium technology prize awarded to UCSB's Shuji Nakamura. Ia.ucsb.edu (15 June 2006). Last retrieved on 22 June 2016.
+^ "The Nobel Prize in Physics 2014  Press release". www.nobelprize.org. Retrieved 7 October 2014.
+^ Progress Alerts 2010, US Department of Energy
+^ a b c "Fans of L.E.D.'s Say This Bulb's Time Has Come". The New York Times. 28 July 2008.
+^ a b Taub, Eric; leora Broydo Vestel (24 September 2009). "Build a Better Bulb for a $10 Million Prize". New York Times. Retrieved 6 February 2010.
+^ Department of Energy Announces Philips Lighting North America as Winner of L Prize Competition | Department of Energy. Energy.gov (3 August 2011). Retrieved 2012-06-02.
+^ American National Standard for Specifications for the Chromaticity of Solid-State Lighting (SSL) Products. Nema.org. Retrieved 2 June 2012.
+^ Energy Star Program Requirements for CFLS Partner Commitments, 4th edition, dated 03/07/08, retrieved 25 June 2008.
+^ Energy saving lighting. Energysavingtrust.org.uk. Retrieved 18 January 2013.
+^ Great bright hope to end battle of the light bulbs, The Daily Mail, 29 January 2009
+^ "Switching to LED is a global task: Honeywell". 7 June 2012.
+^ Wolverton, Troy (2016-03-12). "Be prepared to say goodbye to the lightbulbs you've loved". The Charlotte Observer. San Jose Mercury News. p.1C.
+^ Led'ing the way, Nitya Varadarajan, 5 October 2009
+^ "Of the top six in Turku, led a move  HS.fi  Domestic". 19 November 2009. Retrieved 9 January 2012.
+^ New highway connecting Lisbon to Oporto includes first European LED based lighting in a highway, Aveiro 11 September 2009
+^ U. S. Department of Energy, Solid-State Lighting GATEWAY Demonstration Results (Retrieved 16 July 2010)
+^ for example, Seattle: "Seattle Picked to Lead National Effort on LED Street Lights" (Retrieved 16 July 2010); Scottsdale: "LED Streetlight Installation" (Retrieved 2010-07-16); Ann Arbor: LED street lights (Retrieved 2010-07-16)
+^ a b Narendran, Nadarajah; Deng, Lei (2002). "Color rendering properties of LED light sources". Proceedings of the SPIE. Solid State Lighting II. 4776: 61. Bibcode:2002SPIE.4776...61N. doi:10.1117/12.452574.
+^ "Warem white LED light". Retrieved 2016-09-04.
+^ "Two-minute explainer: Tunable-white LEDs". Retrieved 2016-09-04.
+^ "Warsaw Top 10" (PDF). Warsaw tour Edition nr 5, 2012. p.20. Retrieved 1 March 2013. The National Museum in Warsaw is also one of the most modern in Europe. (...) The LED system allows to adjust the light to every painting so that its unique qualities are enhanced.
+^ Moreno, Ivan; Avendao-Alejo, Maximino; Tzonchev, Rumen I. (2006). "Designing light-emitting diode arrays for uniform near-field irradiance" (PDF). Applied Optics. 45 (10): 22652272. Bibcode:2006ApOpt..45.2265M. doi:10.1364/AO.45.002265. PMID16607994.
+^ Moreno, Ivan; Contreras, Ulises (2007). "Color distribution from multicolor LED arrays". Optics Express. 15 (6): 360718. Bibcode:2007OExpr..15.3607M. doi:10.1364/OE.15.003607. PMID19532605.
+^ a b Sabzalian Mohammad R., P. Heydarizadeh, A. Boroomand, M. Agharokh, Mohammad R. Sahba, M. Zahedi and B. Schoefs. 2014. High performance of vegetables, flowers, and medicinal plants in a red-blue LED incubator for indoor plant production. Agronomy for Sustainable Development 34: 879-886 (IF:3.99)
+^ Darko E., P. Heydarizadeh, B. Schoefs and Mohammad R. Sabzalian. 2014. Photosynthesis under artificial light: the shift in primary and secondary metabolites. Philosophical Transactions of the Royal Society B 369: 20130243 (IF: 6.23)
+^ Lonsdale, Sarah (7 July 2010). "Green property: energy-efficient bulbs". The Daily Telegraph. London. Retrieved 8 June 2011.
+^ Elisabeth Rosenthal and Felicity Barringer, "Green Promise Seen in Switch to LED Lighting", The New York Times, 29 May 2009
+^ Taub, Eric (11 February 2009). "How Long Did You Say That Bulb Would Last". New York Times. Retrieved 9 March 2016.
+^ "Q&A: How much can I save by replacing incandescent bulbs with CFLs?". Consumer Reports. 29 March 2010. Retrieved 9 March 2016.
+^ "Integral LED Lamps Criteria Development" (PDF).
+^ Taub, Eric A. (16 May 2010) "LED Bulbs for the Home Near the Marketplace", The New York Times
+^ Wald, Matthew L. (24 June 2010) "An LED That Mimics an Old Standby", New York Times Green Blog
+^ Philips Flattens the Light Bulb, Mashable, Pete Pachal, 16 December 2013
+^ Keefe, T.J. (2007). "The Nature of Light". Community College of Rhode Island. Archived from the original on 12 June 2010. CS1 maint: Unfit url (link)
+^ Wells, Quentin (2012). Smart Grid Home. Cengage Learning. pp.163. ISBN1-111-31851-4.
+^ Vergleich fr Osram CLAS A 100 E27 klar, Osram CLAS A FR 100 E27, Philips Standard 100W E27 klar. idealo.de
+^ a b Raatma, Lucia (2010). Green Living: No Action Too Small. Compass Point Books. p.22. ISBN978-0756542931.
+^ A Short History of Electric Light, The Incandescent Lamp, 1900 to 1920
+^ Guide to Selecting Frequently Switched T8 Fluorescent Lamp-Ballast Systems. RPI NLPIP, April 1998
+^ "Table 5.6.A. Average Retail Price of Electricity to Ultimate Customers by End-Use Sector (Oct 2013)". .S. Energy Information Administration. Retrieved 30 December 2013.
+^ "Philips 60-Watt Household Incandescent Light Bulb". Home Depot.
+^ "Eco 35-Watt Soft White Dimmable Light Bulb (4-Pack) 2015". osram.at.
+^ "EcoSmart 60W Equivalent Soft White (2700K) Twister CFL Light Bulb (4-pack)". Retrieved 20 January 2014.
+^ "60W Equivalent Soft White (2700K) A19 Dimmable LED Light Bulb". Home Depot. Retrieved 8 November 2014.
+^ "CLA LEDBulb ND 6-60W A60 E27 827 CL" (PDF). Philips Lighting.
+^ "LEDnovation  9.4 Watt  60 Watt Equal". Retrieved 6 November 2014.
+^ "Lightbulbs  LEDs and CFLs offer more choices and savings" (PDF). ConsumerReports. 2011. Retrieved 21 January 2014.
+^ One manufacturer's warranty terms for professional LED lamps. philips.co.uk
+^ Specification of a typical domestic 9.5W LED lamp as of November 2013. philips.co.uk
+^ PF vs. Power in EU. ledon-lamp.com
+^ "The Clinton Presidency: Protecting Our Environment and Public Health". The White House. Retrieved 26 March 2012.
+^ "History of Energy Star". Retrieved 27 March 2012.
+^ Alena Tugend (10 May 2008). "If Your Appliances Are Avocado, They're Probably not Green". New York Times. Retrieved 29 June 2008.
+^ "Energy star products specs". Retrieved 2016-09-04.
+^ Appendix B: Calculating color rendering metrics. lrc.rpi.edu
+^ ENERGY STAR Program Requirements for Solid State Lighting Luminaires. (PDF) . Retrieved 2 June 2012.
+^ "Characterizing and Minimizing LED Flicker in Lighting Applications" Steven Keeping (2012). Retrieved on 17 June 2016.
+^ "A Review of the Literature on Light Flicker: Ergonomics, Biological Attributes, Potential Health Effects, and Methods in Which Some LED Lighting May Introduce Flicker," IEEE Standard P1789, February 2010.
+^ Open letter from Alex Baker, Lighting Program Manager, ENERGY STAR, dated March 22, 2010.
+^ West, Kathleen E.; Jablonski, Michael R.; Warfield, Benjamin; Cecil, Kate S.; James, Mary; Ayers, Melissa A.; Maida, James; Bowen, Charles; Sliney, David H.; Rollag, Mark D.; Hanifin, John P.; Brainard, George C. (1 March 2011). "Blue light from light-emitting diodes elicits a dose-dependent suppression of melatonin in humans". J. Appl. Physiol. 110 (3): 619626. doi:10.1152/japplphysiol.01413.2009. PMID21164152  via PubMed.
+^ Cajochen, Christian; Frey, Sylvia; Anders, Doreen; Spti, Jakub; Bues, Matthias; Pross, Achim; Mager, Ralph; Wirz-Justice, Anna; Stefani, Oliver (1 May 2011). "Evening exposure to a light-emitting diodes (LED)-backlit computer screen affects circadian physiology and cognitive performance". J. Appl. Physiol. 110 (5): 14321438. doi:10.1152/japplphysiol.00165.2011. PMID21415172  via PubMed.
+^ Williams, D. R. (2004). "Sun Fact Sheet". NASA. Retrieved 2010-09-27.
+^ "Olympus Microscopy Resource Center - Photomicrography - Color Temperature".
+^ "Circadian Rhythms Fact Sheet - National Institute of General Medical Sciences".
+^ Fahey, Christopher D.; Zee, Phyllis C. (1 December 2006). "Circadian rhythm sleep disorders and phototherapy". Psychiatr. Clin. North Am. 29 (4): 9891007; abstract ix. doi:10.1016/j.psc.2006.09.009. PMID17118278  via PubMed.
+^ Appleman, Kenneth; Figueiro, Mariana G.; Rea, Mark S. (1 May 2013). "Controlling lightdark exposure patterns, rather than sleep schedules, determines circadian phase". Sleep Med. 14 (5): 456461. doi:10.1016/j.sleep.2012.12.011. PMC4304650. PMID23481485  via PubMed Central.
+^ "AMA Adopts Community Guidance to Reduce the Harmful Human and Environmental Effects of High Intensity Street Lighting". www.ama-assn.org. Retrieved 2016-06-22.
+^ The LED's dark secret. EnergyDaily. Retrieved on 16 March 2012.
+^ Efremov, A. A.; Bochkareva, N. I.; Gorbunov, R. I.; Lavrinovich, D. A.; Rebane, Y. T.; Tarkhin, D. V.; Shreter, Y. G. (2006). "Effect of the joule heating on the quantum efficiency and choice of thermal conditions for high-power blue InGaN/GaN LEDs". Semiconductors. 40 (5): 605. doi:10.1134/S1063782606050162.
+^ Smart Lighting: New LED Drops The 'Droop'. Sciencedaily.com (13 January 2009). Retrieved on 16 March 2012.
+^ a b Stevenson, Richard (August 2009) The LEDs Dark Secret: Solid-state lighting won't supplant the lightbulb until it can overcome the mysterious malady known as droop. IEEE Spectrum
+^ Identifying the Causes of LED Efficiency Droop, By Steven Keeping, Digi-Key Corporation Tech Zone
+^ Iveland, Justin; et al. (23 April 2013). "Cause of LED Efficiency Droop Finally Revealed". Physical Review Letters, 2013. Science Daily.
+Further reading[edit]
+E. F. Schubert (2006) Light Emitting Diodes, Second edition. Cambridge University Press. ISBN 0-521-86538-7
+Michael Ollove, Some cities are taking another look at LED lighting after AMA warning (25 Sept 2016), The Washington Post
+External links[edit]
+Wikimedia Commons has media related to LED lamps.
+e-lumen.eu a website from the European Commission about the second generation of energy-saving lightbulbs
+v
+t
+e
+Lamps
+Lighting
+Concepts
+Accent lighting
+Color temperature
+Efficiency
+Glare
+Lamp
+Light fixture
+Light pollution
+Lightbulb socket
+Task lighting
+Methods of generation
+Incandescent
+Regular
+Halogen
+Nernst
+Parabolic aluminized reflector (PAR)
+Luminescent
+Fluorescent
+Fluorescent lamp(compact)
+Fluorescent induction
+Photoluminescent
+laser lamp
+Solid-state
+LED bulb
+Cathodoluminescent
+Electron-stimulated
+Electroluminescent
+field-induced polymer
+Combustion
+Acetylene/Carbide
+Argand
+Candle
+Diya
+Flare
+Gas
+Kerosene
+Lantern
+Limelight
+Oil
+Rushlight
+Safety
+Tilley
+Torch
+Electric arc
+Carbon arc
+Klieg light
+Yablochkov candle
+Gas discharge
+Deuterium arc
+Neon
+Plasma
+Sulfur
+Xenon arc
+Xenon flash
+High-intensity
+discharge (HID)
+Hydrargyrum medium-arc iodide (HMI)
+Hydrargyrum quartz iodide (HQI)
+Mercury-vapor
+Metal-halide
+ceramic
+Sodium vapor
+Theatrical
+Cinematic
+Floodlight
+Footlight
+Gobo
+Scoop
+Spotlight
+profile/ ellipsoidal reflector
+Stage lighting instrument
+Stationary
+Aircraft warning
+Balanced-arm lamp
+Chandelier
+Emergency light
+Gas lighting
+Gooseneck lamp
+Intelligent street lighting
+Light tube
+Neon lighting
+Pendant light
+Recessed light
+Sconce
+Street light
+Torchre
+Track lighting
+Troffer
+Mobile
+Flashlight
+tactical
+Glow stick
+Headlamp(outdoor)
+Lantern
+Laser pointer
+Navigation light
+Searchlight
+Solar lamp
+Industrial
+Scientific
+Germicidal
+Grow light
+Infrared lamp
+Stroboscope
+Tanning
+Display
+Decorative
+Aroma lamp
+Black light
+Bubble light
+Christmas lights
+Crackle tube
+DJ lighting
+Lava lamp
+Marquee
+Plasma globe
+Strobe light
+Related topics
+Bioluminescence
+Chemiluminescence
+Electroluminescent wire
+Laser
+Photoluminescence
+Radioluminescence
+Authority control
+NDL: 001141014
+Energy portal
+NewPP limit report
+Parsed by mw1264
+Cached time: 20161120044418
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.564 seconds
+Real time usage: 0.668 seconds
+Preprocessor visited node count: 3139/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 122631/2097152 bytes
+Template argument size: 786/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.225/10.000 seconds
+Lua memory usage: 7.54 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+531.959
+1 - -total
+45.97%
+244.548
+1 - Template:Reflist
+21.63%
+115.069
+31 - Template:Cite_web
+10.07%
+53.543
+1 - Template:Commons_category
+7.59%
+40.389
+4 - Template:Convert
+7.38%
+39.280
+1 - Template:Refimprove
+7.09%
+37.723
+2 - Template:Navbox
+7.03%
+37.406
+10 - Template:Cite_journal
+6.52%
+34.668
+1 - Template:Artificial_light_sources
+5.03%
+26.756
+1 - Template:Ambox
+Saved in parser cache with key enwiki:pcache:idhash:9910525-0!*!0!!en!4!* and timestamp 20161120044417 and revision id 749629650
+Retrieved from "https://en.wikipedia.org/w/index.php?title=LED_lamp&oldid=749629650"
+Categories: Types of lampSemiconductor devicesEnergy-saving lightingLight-emitting diodesHidden categories: CS1 maint: Unfit urlArticles needing additional references from October 2016All articles needing additional referencesUse dmy dates from September 2014Articles containing potentially dated statements from 2010All articles containing potentially dated statementsCommons category with local link same as on WikidataPages using ISBN magic links

@@ -1,0 +1,228 @@
+FraunhoferSociety
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2012) (Learn how and when to remove this template message)
+Fraunhofer-Gesellschaft zur Frderung der angewandten Forschung e. V.
+Industry
+Applied contract research
+Founded
+1949 (67years ago)(1949)
+Headquarters
+Munich, Germany
+Key people
+Reimund Neugebauer (President)
+Number of employees
+24,000
+Website
+www.fraunhofer.de
+Fraunhofer-Institut (IME) in Schmallenberg
+The Fraunhofer Society (German: Fraunhofer-Gesellschaft zur Frderung der angewandten Forschung e.V.  Fraunhofer Society for the Advancement of Applied Research, pronounced [franhof]) is a German research organization with 67institutes spread throughout Germany, each focusing on different fields of applied science (as opposed to the Max Planck Society, which works primarily on basic science). It employs around 24,000 people, mainly scientists and engineers, with an annual research budget of about 2.1billion.[1] Some basic funding for the Fraunhofer Society is provided by the state (the German public, through the federal government together with the states or Lnder, "owns" the Fraunhofer Society), but more than 70% of the funding is earned through contract work, either for government-sponsored projects or from industry.
+It is named after Joseph von Fraunhofer who, as a scientist, an engineer, and an entrepreneur, is said to have superbly exemplified the goals of the society.
+The organization has seven centers in the United States, under the name "Fraunhofer USA", and three in Asia.[2] In October 2010, Fraunhofer announced that it would open its first research center in South America.[3] Fraunhofer UK Research Ltd was established along with the Fraunhofer Centre for Applied Photonics, in Glasgow, Scotland, in March 2012.
+Contents
+1 The Fraunhofer Model
+2 Institutes
+3 Fraunhofer USA
+4 Notable projects
+5 History
+6 Presidents
+7 See also
+8 References
+9 External links
+The Fraunhofer Model[edit]
+The so-called "Fraunhofer Model" has been in existence since 1973 and has led to the society's continuing growth. Under the model, the Fraunhofer Society earns about 70% of its income through contracts with industry or specific government projects. The other 30% of the budget is sourced in the proportion 9:1 from federal and state (Land) government grants and is used to support preparatory research.
+Thus the size of the society's budget depends largely on its success in maximizing revenue from commissions. This funding model applies not just to the central society itself but also to the individual institutes. This serves both to drive the realisation of the Fraunhofer Society's strategic direction of becoming a leader in applied research as well as encouraging a flexible, autonomous and entrepreneurial approach to the society's research priorities.
+Institutes[edit]
+The Fraunhofer Society currently operates 67 institutes and research units. These are Fraunhofer Institutes for:
+Algorithms and Scientific Computing  SCAI
+Applied Information Technology  FIT
+Applied and Integrated Security  AISEC
+Applied Optics and Precision Engineering  IOF
+Applied Polymer Research  IAP
+Applied Solid State Physics  IAF
+Biomedical Engineering  IBMT
+Building Physics  IBP
+Cell Therapy and Immunology - IZI
+Ceramic Technologies and Systems  IKTS
+Chemical Technology  ICT
+Communication, Information Processing and Ergonomics  FKIE
+Communication Systems  ESK
+Computer Graphics Research  IGD
+Digital Media Technology  IDMT
+Electron Beam and Plasma Technology  FEP
+Electronic Nano Systems  ENAS
+Environmental, Safety and Energy Technology  UMSICHT
+Embedded Systems and Communication - ESK
+Experimental Software Engineering  IESE
+Factory Operation and Automation  IFF
+High Frequency Physics and Radar Techniques  FHR
+High-Speed Dynamics, Ernst-Mach-Institut  EMI
+Industrial Engineering  IAO
+Industrial Mathematics  ITWM
+Information Center for Regional Planning and Building Construction  IRB
+Integrated Circuits  IIS
+Integrated Systems and Device Technology  IISB
+Intelligent Analysis and Information Systems  IAIS
+Interfacial Engineering and Biotechnology  IGB
+International Management and Knowledge Economy - MOEZ
+Laser Technology  ILT
+Machine Tools and Forming Technology  IWU
+Manufacturing Engineering and Applied Materials Research  IFAM
+Manufacturing Engineering and Automation  IPA
+Material and Beam Technology  IWS
+Material Flow and Logistics  IML
+Materials Recycling and Resource Strategies  IWKS
+Mechanics of Materials  IWM
+Medical Image Computing  MEVIS
+Microelectronic Circuits and Systems  IMS
+Modular Solid-State Technologies - EMFT
+Molecular Biology and Applied Ecology  IME
+Telecommunications, Heinrich-Hertz-Institut  HHI
+Non-Destructive Testing  IZFP
+Optronics, System Technologies and Image Exploitation  IOSB
+Open Communication Systems  FOKUS
+Photonic Microsystems  IPMS
+Physical Measurement Techniques  IPM
+Process Engineering and Packaging  IVV
+Production Systems and Design Technology  IPK
+Production Technology  IPT
+Reliability and Microintegration  IZM
+Secure Information Technology  SIT
+Silicate Research  ISC
+Silicon Technology  ISIT
+Solar Energy Systems  ISE
+Structural Durability and System Reliability  LBF
+Systems and Innovation Research  ISI
+Technological Trend Analysis  INT
+Surface Engineering and Thin Films  IST
+Toxicology and Experimental Medicine  ITEM
+Transportation and Infrastructure Systems  IVI
+Wind Energy and Energy System Technology  IWES
+Wood Research, Wilhelm-Klauditz-Institut  WKI
+Fraunhofer USA[edit]
+In addition to its German institutes, the Fraunhofer Society operates seven US-based Centers through its American subsidiary, Fraunhofer USA:
+Coatings and Laser Applications  CCL
+Experimental Software Engineering  CESE
+Laser Technology  CLT
+Molecular Biotechnology  CMB
+Manufacturing Innovation  CMI
+Sustainable Energy Systems  CSE
+Digital Media Technologies  DMT
+Notable projects[edit]
+The MP3 compression algorithm was invented and patented by Fraunhofer IIS.[4] Its license revenues generated about 100 million in revenue for the society in 2005.[5] The side-effects of that were a serious decline of the reputation of Fraunhofer in open source communities and the adoption of a competing sound format, Ogg Vorbis. Later on even Google avoided the Fraunhofer developed sound and video formats by acquiring a company that developed the WebM video format. As a result, YouTube runs with WebM, not the Fraunhofer video formats that are often not supported by many open source operating system distributions.
+The Fraunhofer Heinrich Hertz Institute (HHI) was a significant contributor to the H.264/MPEG-4 AVC video compression standard, a technology recognized with two Emmy awards in 2008 and 2009.[6] This includes the Fraunhofer FDK AAC library.[7]
+As of May 2010, a metamorphic triple-junction solar cell developed by Fraunhofer's Institute for Solar Energy Systems holds the world record for solar energy conversion efficiency with 41.1%, nearly twice that of a standard silicon-based cell.[8]
+Fraunhofer is developing a program for use at IKEA stores, which would allow people to take a picture of their home into a store to view a fully assembled, digital adaptation of their room.
+E-puzzler, a pattern-recognition machine, which can digitally put back together even the most finely shredded papers. The E-puzzler uses a computerized conveyor belt that runs shards of shredded and torn paper through a digital scanner, automatically reconstructing original documents.[9]
+OpenIMS, an Open Source implementation of IMS Call Session Control Functions (CSCFs) and a lightweight Home Subscriber Server (HSS), which together form the core elements of all IMS/NGN architectures as specified today within 3GPP, 3GPP2, ETSI TISPAN and the PacketCable initiative.
+History[edit]
+A German stamp: 50 years of the Fraunhofer Society
+The Fraunhofer Society was founded in Munich on March 26, 1949, by representatives of industry and academia, the government of Bavaria, and the nascent Federal Republic.
+In 1952, the Federal Ministry for Economic Affairs declared the Fraunhofer Society to be the third part of the non-university German research landscape (alongside the German research councils (DFG) and the Max Planck Institutes). Whether the Fraunhofer Society should support applied research through its own facilities was, however, the subject of a long-running dispute.
+From 1954, the Society's first institutes developed. By 1956, it was developing research facilities in cooperation with the Ministry of Defense. In 1959, the Fraunhofer Society comprised nine institutes with 135 coworkers and a budget of 3.6million Deutsche Mark.
+In 1965, the Fraunhofer Society was identified as a sponsor organization for applied research.
+In 1968, the Fraunhofer Society became the target of public criticism for its role in military research.
+By 1969, Fraunhofer had more than 1,200 employees in 19 institutes. The budget stood at 33 million Deutsche Mark. At this time, a "commission for the promotion of the development of the Fraunhofer Society" planned the further development of the Fraunhofer Society (FhG). The commission developed a financing model that would make the Society dependent on its commercial success. This would later come to be known as the "Fraunhofer Model".
+The Model was agreed to by the Federal Cabinet and the Bund-Lnder-Kommission in 1973. In the same year, the executive committee and central administration moved into joint accommodation at Leonrodstrae 54 in Munich.
+The Fraunhofer program for the promotion of the consulting research for SMEs was established, and has gained ever more significance in subsequent years.
+In 1977, the political ownership of the society was shared by the Ministries of Defense and Research.
+By 1984, the Fraunhofer Society had 3,500 employees in 33 institutes and a research budget of 360 million Deutsche Mark.
+By 1988, defense research represented only about 10% of the entire expenditure of the Fraunhofer Society.
+By 1989, the Fraunhofer Society had nearly 6,400 employees in 37 institutes, with a total budget of 700 million Deutsche Mark.
+In 1991, the Fraunhofer Society faced the challenge of integrating numerous research establishments in former East Germany as branch offices of already-existing institutes in the Fraunhofer Society.
+In 1993, the Fraunhofer Society's total budget exceeded 1billion Deutsche Mark.
+In 1994, the Society founded a US-based subsidiary, Fraunhofer USA, Inc., to extend the outreach of Fraunhofer's R&D network to American clients.
+Its mission statement of 2000 committed the Fraunhofer Society to being a market and customer-oriented, nationally and internationally active sponsor organization for institutes of the applied research.
+Between 2000 and 2001, the institutes and IT research centers of the GMD (Gesellschaft fr Mathematik und Datenverarbeitung  Society for Mathematics and Information technology) were integrated into the Fraunhofer Society at the initiative of the Federal Ministry for Education and Research.
+The year 2000 marked a noteworthy success at Fraunhofer-Institut for Integrated Circuits (IIS): MP3, a lossy audio format which they developed, is the most widely adopted method for compressing and decompressing digital audio.
+In 2002, ownership of the Heinrich-Hertz-Institut for Communications Technology Berlin GmbH (HHI), which belonged to the Gottfried William Leibniz Society e. V. (GWL), was transferred to the Fraunhofer Society. With this integration the Fraunhofer Society budget exceeded 1billion for the first time.
+In 2003, the Fraunhofer Society headquarters moved to its own building in Munich.
+The Fraunhofer Society developed and formulated a firm specific mission statement summarizing fundamental targets and codifying the desired "values and guidelines" of the society's "culture". Amongst these, the society committed itself to improving the opportunities for female employees and coworkers to identify themselves with the enterprise and to develop their own creative potential.
+In 2004, the former "Fraunhofer Working Group for Electronic Media Technology" at the Fraunhofer-Institut for Integrated Circuits (IIS) gained the status of an independent institute. It becomes Fraunhofer-Institut for Digital Media Technology IDMT.
+New alliances and topic groups helped to strengthen the market operational readiness level of the institutes for Fraunhofer in certain jurisdictions.
+In 2005, two new institutes, the Leipzig Fraunhofer-Institut for Cell Therapy and Immunology (IZI), and the Fraunhofer Center for Nano-electronic technologies CNT in Dresden, were founded.
+In 2006, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) was founded as a merger between the Institute for Autonomous Intelligent Systems (AIS), and the Institute for Media Communication (IMK).
+Presidents[edit]
+Walther Gerlach (19491951)
+Wilhelm Roelen (19511955)
+Hermann von Siemens (19551964)
+Franz Kollmann (19641968)
+Christian Otto Mohr (19681974)[10]
+Heinz Keller (19741982)
+Max Syrbe (19821993)
+Hans-Jrgen Warnecke (19932002)
+Hans-Jrg Bullinger (20022012)
+Reimund Neugebauer (2012)
+See also[edit]
+National Network for Manufacturing Innovation
+References[edit]
+^ "Fraunhofer-Gesellschaft: About Fraunhofer (Facts and Figures)". Fraunhofer-Gesellschaft organizational web site. Retrieved 2016-02-23.
+^ Staff (March 2006). "Fraunhofer-Gesellschaft: International Locations". Fraunhofer-Gesellschaft organizational web site. Retrieved 2006-06-06.
+^ Staff (October 2010). "Fraunhofer in Chile". Fraunhofer-Gesellschaft organizational web site. Retrieved 2010-10-22.
+^ "The mp3 History". Fraunhofer-Gesellschaft. Archived from the original on 2014-01-01. Retrieved 2013-12-31.
+^ "UK in Germany". Britischebotschaft.de. 1 August 2008. Retrieved 2012-07-13.
+^ "Heinrich Hertz Institute - Another EMMY for H.264". Hhi.fraunhofer.de. Retrieved 2012-07-13.
+^ "Ten facts about the Fraunhofer FDK AAC Codec Library for Android". Fraunhofer-Gesellschaft. 2012. Retrieved 2013-12-31.
+^ "High efficiency concentrator solar cells and moduls - Research-News-Special-Edition-05-2010-Topic 2". Fraunhofer.de. 19 May 2010. Retrieved 2012-07-13.
+^ Popplewell, Brett (20 January 2008). "Reassembling a puzzle with 600 million pieces". Toronto Star. Toronto, Canada. Retrieved 2016-11-12.
+^ Chronicle of Fraunhofer Society
+External links[edit]
+Official website (German)
+Official website (US)
+Authority control
+WorldCat Identities
+VIAF: 132435250
+LCCN: n81082566
+GND: 39089-6
+SUDOC: 034048375
+BNF: cb124844105 (data)
+NewPP limit report
+Parsed by mw1245
+Cached time: 20161119144947
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.184 seconds
+Real time usage: 0.254 seconds
+Preprocessor visited node count: 1403/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 28856/2097152 bytes
+Template argument size: 1294/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.083/10.000 seconds
+Lua memory usage: 4.43 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+213.603
+1 - -total
+23.78%
+50.792
+8 - Template:Cite_web
+22.00%
+47.000
+1 - Template:Infobox_company
+17.26%
+36.872
+1 - Template:Infobox
+16.88%
+36.059
+1 - Template:Refimprove
+11.30%
+24.133
+1 - Template:Ambox
+9.87%
+21.086
+2 - Template:Official_website
+4.99%
+10.662
+1 - Template:Use_dmy_dates
+4.54%
+9.695
+1 - Template:Lang-de
+4.18%
+8.920
+1 - Template:DMCA
+Saved in parser cache with key enwiki:pcache:idhash:197440-0!*!0!!en!4!* and timestamp 20161119144946 and revision id 749638411
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Fraunhofer_Society&oldid=749638411"
+Categories: 1949 establishments in GermanyEngineering research institutesFraunhofer SocietyLaboratories in GermanyMembers of the European Research Consortium for Informatics and MathematicsOrganizations established in 1949Robotics organizationsScientific organisations based in GermanyHidden categories: Articles needing additional references from March 2012All articles needing additional referencesUse dmy dates from November 2016Articles containing German-language textArticles with German-language external linksOfficial website different in Wikidata and WikipediaWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers

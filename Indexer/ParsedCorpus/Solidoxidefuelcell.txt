@@ -1,0 +1,482 @@
+Solidoxidefuelcell
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Scheme of a solid-oxide fuel cell
+A solid oxide fuel cell (or SOFC) is an electrochemical conversion device that produces electricity directly from oxidizing a fuel. Fuel cells are characterized by their electrolyte material; the SOFC has a solid oxide or ceramic electrolyte. Advantages of this class of fuel cells include high efficiency, long-term stability, fuel flexibility, low emissions, and relatively low cost. The largest disadvantage is the high operating temperature which results in longer start-up times and mechanical and chemical compatibility issues.[1]
+Contents
+1 Introduction
+2 Operation
+2.1 Balance of plant
+2.2 Anode
+2.3 Electrolyte
+2.4 Cathode
+2.5 Interconnect
+3 Polarizations
+3.1 Ohmic polarization
+3.1.1 Ionic conductivity
+3.2 Concentration polarization
+3.3 Activation polarization
+4 Target
+5 Research
+5.1 SOEC
+5.2 ITSOFC
+5.3 LT-SOFC
+5.4 SOFC-GT
+5.5 DCFC
+6 See also
+7 References
+8 External links
+Introduction[edit]
+Solid oxide fuel cells are a class of fuel cells characterized by the use of a solid oxide material as the electrolyte. SOFCs use a solid oxide electrolyte to conduct negative oxygen ions from the cathode to the anode. The electrochemical oxidation of the oxygen ions with hydrogen or carbon monoxide thus occurs on the anode side. More recently, proton-conducting SOFCs (PC-SOFC) are being developed which transport protons instead of oxygen ions through the electrolyte with the advantage of being able to be run at lower temperatures than traditional SOFCs.
+They operate at very high temperatures, typically between 500 and 1,000C. At these temperatures, SOFCs do not require expensive platinum catalyst material, as is currently necessary for lower temperature fuel cells such as PEMFCs, and are not vulnerable to carbon monoxide catalyst poisoning. However, vulnerability to sulfur poisoning has been widely observed and the sulfur must be removed before entering the cell through the use of adsorbent beds or other means.
+Solid oxide fuel cells have a wide variety of applications, from use as auxiliary power units in vehicles to stationary power generation with outputs from 100 W to 2 MW. In 2009, Australian company, Ceramic Fuel Cells successfully achieved an efficiency of an SOFC device up to the previously theoretical mark of 60%.[2][3] The higher operating temperature make SOFCs suitable candidates for application with heat engine energy recovery devices or combined heat and power, which further increases overall fuel efficiency.
+Because of these high temperatures, light hydrocarbon fuels, such as methane, propane, and butane can be internally reformed within the anode. SOFCs can also be fueled by externally reforming heavier hydrocarbons, such as gasoline, diesel, jet fuel (JP-8) or biofuels. Such reformates are mixtures of hydrogen, carbon monoxide, carbon dioxide, steam and methane, formed by reacting the hydrocarbon fuels with air or steam in a device upstream of the SOFC anode. SOFC power systems can increase efficiency by using the heat given off by the exothermic electrochemical oxidation within the fuel cell for endothermic steam reforming process. Additionally, solid fuels such as coal and biomass may be gasified to form syngas which is suitable for fueling SOFCs in integrated gasification fuel cell power cycles.
+Thermal expansion demands a uniform and well-regulated heating process at startup. SOFC stacks with planar geometry require in the order of an hour to be heated to light-off temperature. Micro-tubular fuel cell design geometries promise much faster start up times, typically in the order of minutes.
+Unlike most other types of fuel cells, SOFCs can have multiple geometries. The planar fuel cell design geometry is the typical sandwich type geometry employed by most types of fuel cells, where the electrolyte is sandwiched in between the electrodes. SOFCs can also be made in tubular geometries where either air or fuel is passed through the inside of the tube and the other gas is passed along the outside of the tube. The tubular design is advantageous because it is much easier to seal air from the fuel. The performance of the planar design is currently better than the performance of the tubular design, however, because the planar design has a lower resistance comparatively. Other geometries of SOFCs include modified planar fuel cell designs (MPC or MPSOFC), where a wave-like structure replaces the traditional flat configuration of the planar cell. Such designs are highly promising because they share the advantages of both planar cells (low resistance) and tubular cells.
+Operation[edit]
+Cross section of three ceramic layers of a tubular SOFC. From left to right: porous cathode, dense electrolyte, porous anode
+A solid oxide fuel cell is made up of four layers, three of which are ceramics (hence the name). A single cell consisting of these four layers stacked together is typically only a few millimeters thick. Hundreds of these cells are then connected in series to form what most people refer to as an "SOFC stack". The ceramics used in SOFCs do not become electrically and ionically active until they reach very high temperature and as a consequence, the stacks have to run at temperatures ranging from 500 to 1,000C. Reduction of oxygen into oxygen ions occurs at the cathode. These ions can then diffuse through the solid oxide electrolyte to the anode where they can electrochemically oxidize the fuel. In this reaction, a water byproduct is given off as well as two electrons. These electrons then flow through an external circuit where they can do work. The cycle then repeats as those electrons enter the cathode material again.
+Balance of plant[edit]
+Most of the downtime of a SOFC stems from the mechanical balance of plant, the air preheater, prereformer, afterburner, water heat exchanger, anode tail gas oxidizer, and electrical balance of plant, power electronics, hydrogen sulfide sensor and fans. Internal reforming leads to a large decrease in the balance of plant costs in designing a full system.[3]
+Anode[edit]
+The ceramic anode layer must be very porous to allow the fuel to flow towards the electrolyte. Consequently, granular matter is often selected for anode fabrication procedures.[4] Like the cathode, it must conduct electrons, with ionic conductivity a definite asset. The most common material used is a cermet made up of nickel mixed with the ceramic material that is used for the electrolyte in that particular cell, typically YSZ (yttria stabilized zirconia) nanomaterial-based catalysts, this YSZ part helps stop the grain growth of nickel. Larger grains of nickel would reduce the contact area that ions can be conducted through, which would lower the cells efficiencyx. The anode is commonly the thickest and strongest layer in each individual cell, because it has the smallest polarization losses, and is often the layer that provides the mechanical support. Electrochemically speaking, the anodes job is to use the oxygen ions that diffuse through the electrolyte to oxidize the hydrogen fuel. The oxidation reaction between the oxygen ions and the hydrogen produces heat as well as water and electricity. If the fuel is a light hydrocarbon, for example, methane, another function of the anode is to act as a catalyst for steam reforming the fuel into hydrogen. This provides another operational benefit to the fuel cell stack because the reforming reaction is endothermic, which cools the stack internally. Perovskite materials (mixed ionic/electronic conducting ceramics) have been shown to produce a power density of 0.6 W/cm2 at 0.7 V at 800C which is possible because they have the ability to overcome a larger activation energy. [5]
+Electrolyte[edit]
+The electrolyte is a dense layer of ceramic that conducts oxygen ions. Its electronic conductivity must be kept as low as possible to prevent losses from leakage currents. The high operating temperatures of SOFCs allow the kinetics of oxygen ion transport to be sufficient for good performance. However, as the operating temperature approaches the lower limit for SOFCs at around 600 C, the electrolyte begins to have large ionic transport resistances and affect the performance. Popular electrolyte materials include yttria-stabilized zirconia (YSZ) (often the 8% form 8YSZ), scandia stabilized zirconia (ScSZ) (usually 9mol%Sc2O3  9ScSZ) and gadolinium doped ceria (GDC).[6] The electrolyte material has crucial influence on the cell performances.[7] Detrimental reactions between YSZ electrolytes and modern cathodes such as lanthanum strontium cobalt ferrite (LSCF) have been found, and can be prevented by thin (<100nm) ceria diffusion barriers.[8]
+If the conductivity for oxygen ions in SOFC can remain high even at lower temperatures (current target in research ~500C), material choices for SOFC will broaden and many existing problems can potentially be solved. Certain processing techniques such as thin film deposition[9] can help solve this problem with existing materials by:
+reducing the traveling distance of oxygen ions and electrolyte resistance as resistance is inversely proportional to conductor length;
+producing grain structures that are less resistive such as columnar grain structure;
+controlling the microstructural nano-crystalline fine grains to achieve "fine-tuning" of electrical properties;
+building composite possessing large interfacial areas as interfaces have been shown to have extraordinary electrical properties.
+Cathode[edit]
+The cathode, or air electrode, is a thin porous layer on the electrolyte where oxygen reduction takes place. The overall reaction is written in Krger-Vink Notation as follows:
+1
+2
+O
+2
+(
+g
+)
++
+2
+e
+
++
+V
+o
+ 
+ 
+ 
+O
+o
+ 
+{\displaystyle {\frac {1}{2}}\mathrm {O_{2}(g)} +2\mathrm {e'} +{V}_{o}^{\bullet \bullet }\longrightarrow {O}_{o}^{\times }}
+Cathode materials must be, at a minimum, electronically conductive. Currently, lanthanum strontium manganite (LSM) is the cathode material of choice for commercial use because of its compatibility with doped zirconia electrolytes. Mechanically, it has a similar coefficient of thermal expansion to YSZ and thus limits stress buildup because of CTE mismatch. Also, LSM has low levels of chemical reactivity with YSZ which extends the lifetime of the materials. Unfortunately, LSM is a poor ionic conductor, and so the electrochemically active reaction is limited to the triple phase boundary (TPB) where the electrolyte, air and electrode meet. LSM works well as a cathode at high temperatures, but its performance quickly falls as the operating temperature is lowered below 800C. In order to increase the reaction zone beyond the TPB, a potential cathode material must be able to conduct both electrons and oxygen ions. Composite cathodes consisting of LSM YSZ have been used to increase this triple phase boundary length. Mixed ionic/electronic conducting (MIEC) ceramics, such as perovskite LSCF, are also being researched for use in intermediate temperature SOFCs as they are more active and can make up for the increase in the activation energy of the reaction.
+Interconnect[edit]
+The interconnect can be either a metallic or ceramic layer that sits between each individual cell. Its purpose is to connect each cell in series, so that the electricity each cell generates can be combined. Because the interconnect is exposed to both the oxidizing and reducing side of the cell at high temperatures, it must be extremely stable. For this reason, ceramics have been more successful in the long term than metals as interconnect materials. However, these ceramic interconnect materials are very expensive as compared to metals. Nickel- and steel-based alloys are becoming more promising as lower temperature (600800C) SOFCs are developed. The material of choice for an interconnect in contact with Y8SZ is a metallic 95Cr-5Fe alloy. Ceramic-metal composites called 'cermet' are also under consideration, as they have demonstrated thermal stability at high temperatures and excellent electrical conductivity.
+Polarizations[edit]
+Polarizations, or overpotentials, are losses in voltage due to imperfections in materials, microstructure, and design of the fuel cell. Polarizations result from ohmic resistance of oxygen ions conducting through the electrolyte (iR), electrochemical activation barriers at the anode and cathode, and finally concentration polarizations due to inability of gases to diffuse at high rates through the porous anode and cathode (shown as A for the anode and C for cathode).[citation needed] The cell voltage can be calculated using the following equation:
+V
+=
+E
+0
+ 
+i
+R
+ 
+ 
+ 
+c
+a
+t
+h
+o
+d
+e
+ 
+ 
+a
+n
+o
+d
+e
+{\displaystyle {V}={E}_{0}-{iR}_{\omega }-{\eta }_{cathode}-{\eta }_{anode}}
+where:
+E
+0
+{\displaystyle {E}_{0}}
+= Nernst potential of the reactants
+R
+{\displaystyle R}
+= Thvenin equivalent resistance value of the electrically conducting portions of the cell
+ 
+c
+a
+t
+h
+o
+d
+e
+{\displaystyle {\eta }_{cathode}}
+= polarization losses in the cathode
+ 
+a
+n
+o
+d
+e
+{\displaystyle {\eta }_{anode}}
+= polarization losses in the anode
+In SOFCs, it is often important to focus on the ohmic and concentration polarizations since high operating temperatures experience little activation polarization. However, as the lower limit of SOFC operating temperature is approached (~600C), these polarizations do become important.[10]
+Above mentioned equation is used for determining the SOFC voltage (in fact for fuel cell voltage in general). This approach results in good agreement with particular experimental data (for which adequate factors were obtained) and poor agreement for other than original experimental working parameters. Moreover, most of the equations used require the addition of numerous factors which are difficult or impossible to determine. It makes very difficult any optimizing process of the SOFC working parameters as well as design architecture configuration selection. Because of those circumstances a few other equations were proposed:[11]
+E
+S
+O
+F
+C
+=
+E
+m
+a
+x
+ 
+i
+m
+a
+x
+ 
+ 
+f
+ 
+r
+1
+r
+1
+r
+2
+ 
+(
+1
+ 
+ 
+f
+)
++
+1
+{\displaystyle E_{SOFC}={\frac {E_{max}-i_{max}\cdot \eta _{f}\cdot r_{1}}{{\frac {r_{1}}{r_{2}}}\cdot \left(1-\eta _{f}\right)+1}}}
+where:
+E
+S
+O
+F
+C
+{\displaystyle E_{SOFC}}
+= cell voltage
+E
+m
+a
+x
+{\displaystyle E_{max}}
+= maximum voltage given by the Nernst equation
+i
+m
+a
+x
+{\displaystyle i_{max}}
+= maximum current density (for given fuel flow)
+ 
+f
+{\displaystyle \eta _{f}}
+= fuel utilization factor[11][12]
+r
+1
+{\displaystyle r_{1}}
+= ionic specific resistance of the electrolyte
+r
+2
+{\displaystyle r_{2}}
+= electric specific resistance of the electrolyte.
+This method was validated and found to be suitable for optimization and sensitivity studies in plant-level modelling of various systems with solid oxide fuel cells.[13] With this mathematical description it is possible to account for different properties of the SOFC. There are many parameters which impact cell working conditions, e.g. electrolyte material, electrolyte thickness, cell temperature, inlet and outlet gas compositions at anode and cathode, and electrode porosity, just to name some. The flow in these systems is often calculated using the Navier-stokes equation.
+This article's images may require adjustment of image placement, formatting, and size. Please see the picture tutorial and the image placement policy for further information. (October 2009)
+Ohmic polarization[edit]
+Ohmic losses in an SOFC result from ionic conductivity through the electrolyte. This is inherently a materials property of the crystal structure and atoms involved. However, to maximize the ionic conductivity, several methods can be done. Firstly, operating at higher temperatures can significantly decrease these ohmic losses. Substitutional doping methods to further refine the crystal structure and control defect concentrations can also play a significant role in increasing the conductivity. Another way to decrease ohmic resistance is to decrease the thickness of the electrolyte layer.
+Ionic conductivity[edit]
+An ionic specific resistance of the electrolyte as a function of temperature can be described by the following relationship:[11]
+r
+1
+=
+ 
+ 
+{\displaystyle r_{1}={\frac {\delta }{\sigma }}}
+where:
+ 
+{\displaystyle \delta }
+ electrolyte thickness, and
+ 
+{\displaystyle \sigma }
+ ionic conductivity.
+The ionic conductivity of the solid oxide is defined as follows:[11]
+ 
+=
+ 
+0
+ 
+e
+ 
+E
+R
+ 
+T
+{\displaystyle \sigma =\sigma _{0}\cdot e^{\frac {-E}{R\cdot T}}}
+where:
+ 
+0
+{\displaystyle \sigma _{0}}
+and
+E
+{\displaystyle E}
+ factors depended on electrolyte materials,
+T
+{\displaystyle T}
+ electrolyte temperature, and
+R
+{\displaystyle R}
+ ideal gas constant.
+Concentration polarization[edit]
+The concentration polarization is the result of practical limitations on mass transport within the cell and represents the voltage loss due to spatial variations in reactant concentration at the chemically active sites. This situation can be caused when the reactants are consumed by the electrochemical reaction faster than they can diffuse into the porous electrode, and can also be caused by variation in bulk flow composition. The latter is due to the fact that the consumption of reacting species in the reactant flows causes a drop in reactant concentration as it travels along the cell, which causes a drop in the local potential near the tail end of the cell.
+The concentration polarization occurs in both the anode and cathode. The anode can be particularly problematic, as the oxidation of the hydrogen produces steam, which further dilutes the fuel stream as it travels along the length of the cell. This polarization can be mitigated by reducing the reactant utilization fraction or increasing the electrode porosity, but these approaches each have significant design trade-offs.
+Activation polarization[edit]
+The activation polarization is the result of the kinetics involved with the electrochemical reactions. Each reaction has a certain activation barrier that must be overcome in order to proceed and this barrier leads to the polarization. The activation barrier is the result of many complex electrochemical reaction steps where typically the rate limiting step is responsible for the polarization. The polarization equation shown below is found by solving the ButlerVolmer equation in the high current density regime (where the cell typically operates), and can be used to estimate the activation polarization:
+ 
+a
+c
+t
+=
+R
+T
+ 
+z
+F
+ 
+l
+n
+(
+i
+i
+0
+)
+{\displaystyle {\eta }_{act}={\frac {RT}{{\beta }zF}}\times ln\left({\frac {i}{{i}_{0}}}\right)}
+where:
+R
+{\displaystyle R}
+= gas constant
+T
+0
+{\displaystyle {T}_{0}}
+= operating temperature
+ 
+{\displaystyle {\beta }}
+= electron transfer coefficient
+z
+{\displaystyle z}
+= electrons associated with the electrochemical reaction
+F
+{\displaystyle F}
+= Faraday's constant
+i
+{\displaystyle i}
+= operating current
+i
+0
+{\displaystyle i_{0}}
+= exchange current density.
+The polarization can be modified by microstructural optimization. The Triple Phase Boundary (TPB) length, which is the length where porous, ionic and electronically conducting pathways all meet, directly relates to the electrochemically active length in the cell. The larger the length, the more reactions can occur and thus the less the activation polarization. Optimization of TPB length can be done by processing conditions to affect microstructure or by materials selection to use a mixed ionic/electronic conductor to further increase TPB length.
+Target[edit]
+DOE target requirements are 40,000 hours of service for stationary fuel cell applications and greater than 5,000 hours for transportation systems (fuel cell vehicles) at a factory cost of $40/kW for a 10kW coal-based system[14] without additional requirements. Lifetime effects (phase stability, thermal expansion compatibility, element migration, conductivity and aging) must be addressed. The Solid State Energy Conversion Alliance 2008 (interim) target for overall degradation per 1,000 hours is 4.0%.[15]
+Research[edit]
+Research is going now in the direction of lower-temperature SOFCs (600C). Low temperature systems can reduce costs by reducing insolation, materials, start-up and degradation-related costs. With higher operating temperatures, the temperature gradient increases the severity of thermal stresses, which affects materials cost and life of the system.[16] An intermediate temperature system (650-800C) would enable the use of cheaper metallic materials with better mechanical properties and thermal conductivity. New developments in nano-scale electrolyte structures have been shown to bring down operating temperatures to around 350C, which would enable the use of even cheaper steel and elastomeric/polymeric components.[17]
+Lowering operating temperatures has the added benefit of increased efficiency. Theoretical fuel cell efficiency increases with decreasing temperature. For example, the efficiency of a SOFC using CO as fuel increases from 63% to 81% when decreasing the system temperature from 900C to 350C.[17]
+Research is also under way to improve the fuel flexibility of SOFCs. While stable operation has been achieved on a variety of hydrocarbon fuels, these cells typically rely on external fuel processing. In the case of natural gas, the fuel is either externally or internally reformed and the sulfur compounds are removed. These processes add to the cost and complexity of SOFC systems. Work is under way at a number of institutions to improve the stability of anode materials for hydrocarbon oxidation and, therefore, relax the requirements for fuel processing and decrease SOFC balance of plant costs.
+Research is also going on in reducing start-up time to be able to implement SOFCs in mobile applications.[18] This can be partially achieved by lowering operating temperatures, which is the case for proton exchange membrane fuel cells (PEMFCs).[19] Due to their fuel flexibility, they may run on partially reformed diesel, and this makes SOFCs interesting as auxiliary power units (APU) in refrigerated trucks.
+Specifically, Delphi Automotive Systems are developing an SOFC that will power auxiliary units in automobiles and tractor-trailers, while BMW has recently stopped a similar project. A high-temperature SOFC will generate all of the needed electricity to allow the engine to be smaller and more efficient. The SOFC would run on the same gasoline or diesel as the engine and would keep the air conditioning unit and other necessary electrical systems running while the engine shuts off when not needed (e.g., at a stop light or truck stop).[citation needed]
+Rolls-Royce is developing solid-oxide fuel cells produced by screen printing onto inexpensive ceramic materials. Rolls-Royce Fuel Cell Systems Ltd is developing an SOFC gas turbine hybrid system fueled by natural gas for power generation applications in the order of a megawatt (e.g. Futuregen).[citation needed]
+3D printing is being explored as a possible manufacturing technique that could be used to make SOFC manufacturing easier by the Shah Lab at Northwestern University. This manufacturing technique would allow SOFC cell structure to be more flexible, which could lead to more efficient designs. This process could work in the production of any part of the cell. The 3D printing process works by combining about 80% ceramic particles with 20% binders and solvents, and then converting that slurry into an ink that can be fed into a 3D printer. Some of the solvent is very volatile, so the ceramic ink solidifies almost immediately. Not all of the solvent evaporates, so the ink maintains some flexibility before it it is fired at high temperature to densify it. This flexibility allows the cells to be fired in a circular shape that would increase the surface area over which electrochemical reactions can occur, which increases the efficiency of the cell. Also, the 3D printing technique allows the cell layers to be printed on top of each other instead of having to go through separate manufacturing and stacking steps. The thickness is easy to control, and layers can be made in the exact size and shape that is needed, so waste is minimized. [20]
+Ceres Power Ltd. has developed a low cost and low temperature (500600 degrees) SOFC stack using cerium gadolinium oxide (CGO) in place of current industry standard ceramic, yttria stabilized zirconia (YSZ), which allows the use of stainless steel to support the ceramic.[21]
+Solid Cell Inc. has developed a unique, low-cost cell architecture that combines properties of planar and tubular designs, along with a Cr-free cermet interconnect.
+The high temperature electrochemistry center (HITEC) at the University of Florida, Gainesville is focused on studying ionic transport, electrocatalytic phenomena and microstructural characterization of ion conducting materials.[22]
+SiEnergy Systems, a Harvard spin-off company, has demonstrated the first macro-scale thin-film solid-oxide fuel cell that can operate at 500 degrees.[23]
+SOEC[edit]
+A solid oxide electrolyser cell (SOEC) is a solid oxide fuel cell set in regenerative mode for the electrolysis of water with a solid oxide, or ceramic, electrolyte to produce oxygen and hydrogen gas.[24]
+ITSOFC[edit]
+SOFCs that operate in an intermediate temperature (IT) range, meaning between 600 and 800C, are named ITSOFCs. Because of the high degradation rates and materials costs incurred at temperatures in excess of 900C, it is economically more favorable to operate SOFCs at lower temperatures. The push for high-performance ITSOFCs is currently the topic of much research and development. One area of focus is the cathode material. It is thought that the oxygen reduction reaction is responsible for much of the loss in performance so the catalytic activity of the cathode is being studied and enhanced through various techniques, including catalyst impregnation.
+LT-SOFC[edit]
+Low-temperature solid oxide fuel cells (LT-SOFCs), operating lower than 650C, are of great interest for future research because the high operating temperature is currently what restricts the development and deployment of SOFCs. A low-temperature SOFC is more reliable due to smaller thermal mismatch and easier sealing. Additionally, a lower temperature requires less insulation and therefore has a lower cost. Cost is further lowered due to wider material choices for interconnects and compressive nonglass/ceramic seals. Perhaps most importantly, at a lower temperature, SOFCs can be started more rapidly and with less energy, which lends itself to uses in portable and transportable applications.
+Interestingly, as temperature decreases, the maximum theoretical fuel cell efficiency increases, in contrast to the Carnot cycle. For example, the maximum theoretical efficiency of an SOFC using CO as a fuel increases from 63% at 900C to 81% at 350C.[25]
+This is a materials issue, particularly for the electrolyte in the SOFC. YSZ is the most commonly used electrolyte because of its superior stability, despite not having the highest conductivity. Currently, the thickness of YSZ electrolytes is a minimum of ~10 m due to deposition methods, and this requires a temperature above 700C. Therefore, low-temperature SOFCs are only possible with higher conductivity electrolytes. Various alternatives that could be successful at low temperature include gallium-doped ceria (GDC) and erbia-cation-stabilized bismuth (ERB). They have superior ionic conductivity at lower temperatures, but this comes at the expense of lower thermodynamic stability. CeO2 electrolytes become electronically conductive and Bi2O3 electrolytes decompose to metallic Bi under the reducing fuel environment.[26]
+To combat this, researchers created a functionally graded ceria/bismuth-oxide bilayered electrolyte where the GDC layer on the anode side protects the ESB layer from decomposing while the ESB on the cathode side blocks the leakage current through the GDC layer. This leads to near-theoretical open-circuit potential (OPC) with two highly conductive electrolytes, that by themselves would not have been sufficiently stable for the application. This bilayer proved to be stable for 1400 hours of testing at 500C and showed no indication of interfacial phase formation or thermal mismatch. While this makes strides towards lowering the operating temperature of SOFCs, it also opens doors for future research to try and understand this mechanism.[27]
+Comparison of ionic conductivity of various solid oxide electrolytes
+Researchers at the Georgia Institute of Technology dealt with the instability of BaCeO3 differently. They replaced a desired fraction of Ce in BaCeO3 with Zr to form a solid solution that exhibits proton conductivity, but also chemical and thermal stability over the range of conditions relevant to fuel cell operation. A new specific composition, Ba(Zr0.1Ce0.7Y0.2)O3- (BZCY7) that displays the highest ionic conductivity of all known electrolyte materials for SOFC applications. This electrolyte was fabricated by dry-pressing powders, which allowed for the production of crack free films thinner than 15 m. The implementation of this simple and cost-effective fabrication method may enable significant cost reductions in SOFC fabrication.[28] However, this electrolyte operates at higher temperatures than the bilayered electrolyte model, closer to 600C rather than 500C.
+Currently, given the state of the field for LT-SOFCs, progress in the electrolyte would reap the most benefits, but research into potential anode and cathode materials would also lead to useful results, and has started to be discussed more frequently in literature.
+SOFC-GT[edit]
+An SOFC-GT system is one which comprises a solid oxide fuel cell combined with a gas turbine. Such systems have been evaluated by Siemens Westinghouse and Rolls-Royce as a means to achieve higher operating efficiencies by running the SOFC under pressure. SOFC-GT systems typically include anodic and/or cathodic atmosphere recirculation, thus increasing efficiency.
+Theoretically, the combination of the SOFC and gas turbine can give result in high overall (electrical and thermal) efficiency.[29] Further combination of the SOFC-GT in a combined cooling, heat and power (or trigeneration) configuration (via HVAC) also has the potential to yield even higher thermal efficiencies in some cases.[30]
+Moreover, another interesting feature of the introduced hybrid system is on the gain of 100% CO2 capturing at comparable high energy efficiency. These features like zero CO2 emission and high energy efficiency make the power plant performance noteworthy.[31]
+DCFC[edit]
+For the direct use of solid coal fuel without additional gasification and reforming processes, a direct carbon fuel cell (DCFC) has been developed as a promising novel concept of a high-temperature energy conversion system. The underlying progress in the development of a coal-based DCFC has been categorized mainly according to the electrolyte materials used, such as solid oxide, molten carbonate, and molten hydroxide, as well as hybrid systems consisting of solid oxide and molten carbonate binary electrolyte or of liquid anode (Fe, Ag, In, Sn, Sb, Pb, Bi, and its alloying and its metal/metal oxide) solid oxide electrolyte.[32]<
+SOFC operated on Landfill gas
+Every household produces waste/garbage on a daily basis. In 2009, Americans produced about 243 million tons of municipal solid waste, which is 4.3 pounds of waste per person per day. All that waste is sent to Landfill sites. Landfill gas which is produced from the decomposition of waste that gets accumulated at the landfills has the potential to be a valuable source of energy since methane is a major constituent. Currently, the majority of the landfills either burn away their gas in flares or combust it in mechanical engines to produce electricity. The issue with mechanical engines is that incomplete combustion of gasses can lead to pollution of the atmosphere and is also highly inefficient.
+The issue with using landfill gas to fuel an SOFC system is that landfill gas contains hydrogen sulfide. Any landfill accepting biological waste will contain about 50-60 ppm of hydrogen sulfide and around 1-2 ppm mercaptans. However, construction materials containing reducible sulfur species, principally sulfates found in gypsum-based wallboard, can cause considerably higher levels of sulfides in the hundreds of ppm. At operating temperatures of 750 C hydrogen sulfide concentrations of around 0.05 ppm begin to affect the performance of the SOFCs.
+Ni + H2S  NiS + H2
+The above reaction controls the effect of sulfur on the anode.
+This can be prevented by having background hydrogen which is calculated below.
+At 453 K the equilibrium constant is 7.39 x 105
+G calculated at 453 K was 35.833 kJ/mol
+Using the standard heat of formation and entropy G at room temperature (298 K) came out to be 45.904 kJ/mol
+On extrapolation to 1023 K, G is -1.229 kJ/mol
+On substitution, Keq at 1023 K is 1.44 x 104. Hence theoretically we need 3.4% hydrogen to prevent the formation of NiS at 5 ppm H2S.[33]
+See also[edit]
+Electronics portal
+Energy portal
+Sustainable development portal
+Auxiliary power unit
+Bloom Energy Server  SOFC product from an American company
+Ceramic Fuel Cells Ltd  Australian company producing solid oxide fuel cells
+Ceres Power - A UK company producing solid oxide fuel cells
+Glossary of fuel cell terms
+Hydrogen technologies
+Micro combined heat and power
+References[edit]
+^ Badwal, SPS. "Review of Progress in High Temperature Solid Oxide Fuel Cells". Journal of the Australian Ceramics society. 50 (1).
+^ Ceramic fuel cells achieves world-best 60% efficiency for its electricity generator units. Ceramic Fuel Cells Limited. 19 February 2009
+^ a b Electricity from wood through the combination of gasification and solid oxide fuel cells, Ph.D. Thesis by Florian Nagel, Swiss Federal Institute of Technology Zurich, 2008
+^ Ott, J; Gan, Y; McMeeking, R; Kamlah, M (2013). "A micromechanical model for effective conductivity in granular electrode structures" (PDF). Acta Mechanica Sinica. 29 (5): 682698.
+^ "Hydrogen Oxidation Mechanisms on Perovskite Solid Oxide Fuel Cell Anodes". http://jes.ecsdl.org/. Journel of the Electrochemical Society. Retrieved 8 November 2016. External link in |website= (help)
+^ Nigel Sammes; Alevtina Smirnova; Oleksandr Vasylyev (2005). "Fuel Cell Technologies: State and Perspectives". NATO Science Series, Mathematics, Physics and Chemistry. 202: 1934. doi:10.1007/1-4020-3498-9_3.
+^ Steele, B.C.H., Heinzel, A. (2001). "Materials for fuel-cell technologies". Nature. 414 (15 November): 345352. doi:10.1038/35104620. PMID11713541. CS1 maint: Multiple names: authors list (link)
+^ Mohan Menon; Kent Kammer; et al. (2007). "Processing of Ce1-xGdxO2- (GDC) thin films from precursors for application in solid oxide fuel cells". Advanced Materials Engineering. 1517: 293298. doi:10.4028/www.scientific.net/AMR.15-17.293.
+^ Charpentier, P (2000). "Preparation of thin film SOFCs working at reduced temperature". Solid State Ionics. 135 (1-4): 373380. doi:10.1016/S0167-2738(00)00472-0. ISSN0167-2738.
+^ Hai-Bo Huo; Xin-Jian Zhu; Guang-Yi Cao (2006). "Nonlinear modeling of a SOFC stack based on a least squares support vector machine". Journal of Power Sources. 162 (2): 12201225. doi:10.1016/j.jpowsour.2006.07.031.
+^ a b c d Milewski J, Miller A (2006). "Influences of The Type and Thickness of Electrolyte on Solid Oxide Fuel Cell Hybrid System Performance". Journal of Fuel Cell Science and Technology. 3 (4): 396402. doi:10.1115/1.2349519.
+^ M. Santarelli; P. Leone; M. Cal; G. Orsello (2007). "Experimental evaluation of the sensitivity to fuel utilization and air management on a 100 kW SOFC system". Journal of Power Sources. 171 (2): 155168. doi:10.1016/j.jpowsour.2006.12.032.
+^ Kupecki J.; Milewski J.; Jewulski J. (2013). "Investigation of SOFC material properties for plant-level modeling". Central European Journal of Chemistry. 11 (5): 664671. doi:10.2478/s11532-013-0211-x.
+^ SECA-Coal and Power Systems. Netl.doe.gov. Retrieved on 27 November 2011.
+^ Fuel Cell Stacks Still Going Strong After 5,000 Hours. Netl.doe.gov (24 March 2009). Retrieved on 2011-11-27. Archived 8 October 2009 at the Wayback Machine.
+^ Ishihara, Tatsumi (2009). Perovskite Oxide for Solid Oxide Fuel Cells. Springer. p.19. ISBN978-0-387-77708-5.
+^ a b Wachsman, Eric; Lee, Kang (18 November 2011). "Lowering the Temperature of Solid Oxide Fuel Cells". Science. 334 (6058): 935. doi:10.1126/science.1204090. |access-date= requires |url= (help)
+^ Spivey, B. (2012). "Dynamic modeling, simulation, and MIMO predictive control of a tubular solid oxide fuel cell". Journal of Process Control. doi:10.1016/j.jprocont.2012.01.015.
+^ "Fuel Cell Comparison". Nedstack. Nedstack. Retrieved 6 November 2016.
+^ "Northwestern group invent inks to make SOFCs by 3D printing". Science Direct. Fuel Cells Bulletin. Retrieved 8 November 2016.
+^ "The Ceres Cell". Company Website. Ceres Power. Retrieved 30 November 2009. Archived 13 December 2013 at the Wayback Machine.
+^ "HITEC". Hitec.mse.ufl.edu. Retrieved 8 December 2013.
+^ Cooling Down Solid-Oxide Fuel Cells. Technologyreview.com. 20 April 2011. Retrieved on 27 November 2011.
+^ Anne Hauch; Sren Hjgaard Jensen; Sune Dalgaard Ebbesen; Mogens Mogensen (2009). "Durability of solid oxide electrolysis cells for hydrogen production" (PDF). Risoe Reports. 1608: 327338.
+^ Choi, S.; Yoo, S.; Park, S.; Jun, A.; Sengodan, S.; Kim, J.; Shin, J. Highly efficient and robust cathode materials for low-temperature solid oxide fuel cells: PrBa0.5Sr0.5Co(2-x)Fe(x)O(5+). Sci Rep. 2013, 3, 2426-2428.
+^ Hibini, T.; Hashimoto, A.; Inoue, T.; Tokuno, J.; Yoshida, S.; Sano, M. A Low-Operating-Temperature Solid Oxide Fuel Cell in Hydrocarbon-Air Mixtures. Science. 2000. 288, 2031-2033.
+^ Wachsman, E.; Lee, Kang T. Lowering the Temperature of Solid Oxide Fuel Cells. Science. 2011, 334, 935-939.
+^ Zuo, C.; Zha, S.; Liu, M.; Hatano, M.; Uchiyama, M. Ba(Zr0.1Ce0.7Y0.2)O3- as an Electrolyte for Low-Temperature Solid-Oxide Fuel Cells. Advanced Materials. 2006, 18, 3318-3320
+^ S.H. Chan; H.K. Ho; Y. Tian (2003). "Multi-level modeling of SOFC-gas turbine hybrid system". International Journal of Hydrogen Energy. 28 (8): 889900. doi:10.1016/S0360-3199(02)00160-X.
+^ L. K. C. Tse; S. Wilkins; N. McGlashan; B. Urban; R. Martinez-Botas (2011). "Solid oxide fuel cell/gas turbine trigeneration system for marine applications". Journal of Power Sources. 196 (6): 31493162. doi:10.1016/j.jpowsour.2010.11.099.
+^ Isfahani, SNR; Sedaghat, Ahmad (15 June 2016). "A hybrid micro gas turbine and solid state fuel cell power plant with hydrogen production and CO2 capture". International Journal of Hydrogen Energy. 41 (22): 94909499. doi:10.1016/j.ijhydene.2016.04.065.
+^ Giddey, S; Badwal SPS; Kulkarni A; Munnings C (2012). "A comprehensive review of direct carbon fuel cell technology". Progress in energy and combustion science 38 (3): 360399. doi:10.1016/j.pecs.2012.01.003.
+^ Khan, Feroze (1 January 2012). "Effect of Hydrogen Sulfide in Landfill Gas on Anode Poisoning of Solid Oxide Fuel Cells". Youngstown State University.
+External links[edit]
+US Department of Energy page on SOFCs
+National Energy Technology Laboratory website on SOFCs
+An article in Encyclopedia at YCES
+Illinois Institute of Technology page on SOFCs
+Assessment of Solid Oxide Fuel Cells in Building Applications Phase 1: Modeling and Preliminary Analyses
+CSA Overview of SOFCs
+SOFC glass-ceramic sealing
+Refractory Specialties Inc.
+Materials & Systems Research, Inc.'s (MSRI)
+Solid Oxide Fuel Cells Canada (SOFCC) Strategic Research Network
+SOFC Dynamics and Control Research
+Solid State Energy Conversion Alliance (SECA)
+SOFC Production Equipment
+v
+t
+e
+Fuel cells
+By electrolyte
+Alkaline fuel cell
+Molten carbonate fuel cell
+Phosphoric acid fuel cell
+Proton exchange membrane fuel cell
+Solid oxide fuel cell
+By fuel
+Direct-ethanol fuel cell
+Direct methanol fuel cell
+Formic acid fuel cell
+Reformed methanol fuel cell
+Zinc-air battery
+Biofuel cells
+Enzymatic biofuel cell
+Microbial fuel cell
+Others
+Blue energy
+Direct borohydride fuel cell
+Direct carbon fuel cell
+Electro-galvanic fuel cell
+Flow battery
+Membraneless Fuel Cells
+Metal hydride fuel cell
+Photoelectrochemical cell
+Protonic ceramic fuel cell
+Regenerative fuel cell
+Solid oxide electrolyser cell
+Unitized regenerative fuel cell
+Hydrogen
+Economy
+Storage
+Station
+Vehicle
+Glossary
+NewPP limit report
+Parsed by mw1242
+Cached time: 20161120052548
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.284 seconds
+Real time usage: 0.698 seconds
+Preprocessor visited node count: 1985/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 62471/2097152 bytes
+Template argument size: 1613/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.125/10.000 seconds
+Lua memory usage: 5.02 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+253.630
+1 - -total
+51.55%
+130.747
+1 - Template:Reflist
+30.84%
+78.208
+17 - Template:Cite_journal
+22.17%
+56.230
+3 - Template:Citation_needed
+20.83%
+52.820
+3 - Template:Fix
+9.97%
+25.283
+3 - Template:Delink
+9.62%
+24.390
+6 - Template:Category_handler
+8.04%
+20.390
+1 - Template:Use_dmy_dates
+5.57%
+14.123
+5 - Template:Cite_web
+3.67%
+9.316
+1 - Template:Cleanup_images
+Saved in parser cache with key enwiki:pcache:idhash:1049636-0!*!0!!en!4!*!math=5 and timestamp 20161120052547 and revision id 749670700
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Solid_oxide_fuel_cell&oldid=749670700"
+Categories: Fuel cellsHidden categories: CS1 errors: external linksCS1 maint: Multiple names: authors listWebarchive template wayback linksPages using citations with accessdate and no URLUse dmy dates from November 2016All articles with unsourced statementsArticles with unsourced statements from January 2015Articles needing cleanup from October 2009All pages needing cleanupArticles with unsourced statements from August 2016

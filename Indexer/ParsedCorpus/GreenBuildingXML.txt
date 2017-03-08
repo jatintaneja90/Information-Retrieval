@@ -1,0 +1,14 @@
+GreenBuildingXML
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}The Green Building XML schema (gbXML) is an open schema developed to facilitate transfer of building data stored in Building Information Models (BIM) to engineering analysis tools. gbXML is being integrated into a range of software CAD and engineering tools and supported by leading 3D BIM vendors. gbXML is streamlined to transfer building properties to and from engineering analysis tools to reduce the interoperability issues and eliminate plan take-off time.
+gbXML is the underlying architecture of Autodesk's Green Building Studio commercial on-line energy analysis product,[1] and is the main export option for energy analysis from their modeling products.
+Green Building XML analysis software[edit]
+In order to see the complete list of the software that support gbXML format see gbXML software page.
+References[edit]
+^ "Green Building Studio Website".
+External links[edit]
+Green Building XML Standards Site.
+Saved in parser cache with key enwiki:pcache:idhash:7793802-0!*!0!!*!*!* and timestamp 20161116213603 and revision id 702143474
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Green_Building_XML&oldid=702143474"
+Categories: Industry-specific XML-based standardsBuilding information modeling

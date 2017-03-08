@@ -1,0 +1,126 @@
+Energyhierarchy
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+The Energy Hierarchy with the most favoured options at the top
+Part of a series about
+Sustainable energy
+Energy conservation
+Cogeneration
+Efficient energy use
+Green building
+Heat pump
+Low-carbon power
+Microgeneration
+Passive solar building design
+Renewable energy
+Anaerobic digestion
+Geothermal
+Hydroelectricity
+Solar
+Tidal
+Wind
+Sustainable transport
+Carbon-neutral fuel
+Electric vehicle
+Fossil fuel phase-out
+Green vehicle
+Plug-in hybrid
+Sustainable development portal
+Renewable energy portal
+Environment portal
+v
+t
+e
+The Energy Hierarchy is a classification of energy options, prioritised to assist progress towards a more sustainable energy system. It is a similar approach to the waste hierarchy for minimising resource depletion, and adopts a parallel sequence.
+The highest priorities cover the prevention of unnecessary energy usage both through eliminating waste and improving energy efficiency. The sustainable production of energy resources is the next priority. Depletive and waste-producing energy generation options are the lowest priority.
+For an energy system to be sustainable: the resources applied to producing the energy must be capable of lasting indefinitely; energy conversion should produce no harmful by-products, including net emissions, nor wastes which cannot be fully recycled; and it must be capable of meeting reasonable energy demands.
+Contents
+1 Energy saving
+2 Energy efficiency
+2.1 Conversion efficiency of energy consumption
+2.2 Conversion efficiency of energy production
+3 Sustainable energy production
+3.1 Elemental renewables
+3.2 Bio-energy
+4 Low impact energy production
+5 High impact energy production
+6 Origins of the energy hierarchy
+7 See also
+8 References
+Energy saving[edit]
+Main article: Energy conservation
+The top priority under the Energy Hierarchy is energy conservation or the prevention of unnecessary use of energy. This category includes eliminating waste by turning off unneeded lights and appliances and by avoiding unnecessary journeys. Heat loss from buildings is a major source of energy wastage,[1] so improvements to building insulation and air-tightness can make a significant contribution to energy conservation.[2]
+Many countries have agencies to encourage energy saving.[3][4]
+Energy efficiency[edit]
+The second priority under the energy hierarchy is to ensure that energy that is used is produced and consumed efficiently. Energy efficiency has two main aspects.
+Conversion efficiency of energy consumption[edit]
+Main article: Efficient energy use
+Energy efficiency is the ratio of the productive output of a device to the energy it consumes.[5]
+Energy efficiency was a lower priority when energy was cheap and awareness of its environmental impact was low. In 1975 the average fuel economy of a car in the US was under 15 miles per gallon[6] Incandescent light bulbs, which were the most common type until the late 20th century, waste 90% of their energy as heat, with only 10% converted to useful light.[7]
+More recently, energy efficiency has become a priority.[8] The last reported average fuel efficiency of US cars had almost doubled from the 1975 level;[6] LED lighting is now being promoted which are between five and ten times more efficient than incandescents.[9] Many household appliances are now required to display labels to show their energy efficiency.
+Conversion efficiency of energy production[edit]
+Main article: Energy conversion efficiency
+Losses are incurred when energy is harvested from the natural resource from which it is derived, such as fossil fuels, radioactive materials, solar radiation or other sources. Most electricity production is in thermal power stations, where much of the source energy is lost as heat. The average efficiency of world electricity production in 2009 was c.37%.[10]
+A priority in the Energy Hierarchy is to improve the efficiency of energy conversion, whether in traditional power stations[11] or by improving the performance ratio of Photovoltaic power stations[12] and other energy sources.
+Overall efficiency and sustainability can also be improved by capacity- or fuel-switching from less efficient, less sustainable resources to better ones; but this is mainly covered under the fourth level of the hierarchy.
+Sustainable energy production[edit]
+Main article: Renewable energy
+Renewable energy describes naturally occurring, theoretically inexhaustible sources of energy.[13] These sources are treated as being inexhaustible, or naturally replenished, and fall into two classes.
+Elemental renewables[edit]
+The first class of renewables derive from climatic or elemental sources,[14] such as sunlight, wind, waves, tides or rainfall (hydro power). Geothermal energy from the heat of the earth's core also falls in this category.
+These are treated as being inexhaustible because most derive ultimately from energy emanating from the sun, which has an estimated life of 6.5 billion years.[15]
+Bio-energy[edit]
+The other main class of renewables, bioenergy,[16] derives from biomass, where the relatively short growing cycle means that usage is replenished by new growth. Bioenergy is usually converted by combustion, and therefore gives rise to carbon emissions. It is treated as carbon neutral overall, because an equivalent amount of carbon dioxide will have been extracted from the atmosphere during the growing cycle.[17]
+Bioenergy sources can be solid, such as wood and energy crops; liquid, such as biofuels; or gaseous, such as biomethane from anaerobic digestion.[18]
+Low impact energy production[edit]
+Main article: Low carbon power
+The next priority in the hierarchy covers energy sources that are not entirely sustainable, but have a low environmental impact. These include the use of fossil fuels with carbon capture and storage.[19]
+Nuclear energy is sometimes treated as a low impact source, because it has low carbon emissions.
+High impact energy production[edit]
+The lowest priority under the energy hierarchy is energy production using unsustainables sources, such as unabated fossil fuels. Some also place nuclear energy in this category, rather than the one above, because of the required management/storage of highly hazardous radioactive waste over extremely long (hundreds of thousands of years or more) timeframes [20] and depletion of uranium resources.[21]
+There is a consensus that the share of such energy sources must decline.[22]
+Within this tier, there are possibilities for limiting adverse impacts by switching from the most damaging fuel sources, such as coal, to less emittive sources, such as gas.[23]
+Many suggest that when such high impact energy usage has been minimised, the effects of any unavoidable residual usage should be counterbalanced by emissions offsetting.[24]
+Origins of the energy hierarchy[edit]
+The Energy Hierarchy was first proposed in 2005 by Philip Wolfe,[25] when he was Director General of the Renewable Energy Association. This first version had three levels; energy efficiency, renewables and traditional energy production. It was endorsed and adopted in 2006 by a consortium of institutions, associations and other bodies in the Sustainable Energy Manifesto.[26] Subsequently the concept has been adopted and refined by others in the energy industry[27] and in government.[28][29]
+See also[edit]
+Energy law
+Energy policy
+List of books about energy issues
+Maslow's hierarchy of needs
+Soft energy path
+Waste hierarchy
+References[edit]
+^ Bartlett, Dave. "The Top Ten Ways We Waste Energy And Water In Buildings". AOL Energy. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "Energy Conservation in Buildings and Community Systems". About the ECBCS. International Energy Agency. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "Energy Efficiency and Renewable Energy". US Department of Energy. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ United Kingdom. "Energy Saving Trust". The Energy Saving Trust. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "Energy efficiency definition and meaning". Business Dictionary. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ a b "Light-Duty Automotive Technology, Carbon Dioxide Emissions, and Fuel Economy Trends: 1975 Through 2011" (PDF). United States Environmental Protection Agency. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "Learn about LEDs". Energy Star. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "Energy savings to be first policy priority for 2030" (PDF). Energy Cities (Europe). 20 November 2012. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "LED basics". Solid State Lighting. USDOE Energy Efficiency and Renewable Energy. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "2009 Energy Balance for the World". International Energy Agency. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "Efficiency in electricity generation". Eurelectric. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "2012" (PDF). Photovoltaics Report. Fraunhofer Institute for Solar Energy Systems ISE. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "What is Renewable Energy". Business Dictionary. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "Renewable Energy". Manchester University. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "What is the Sun's lifetime going to be?". Ask the space scientist. NASA. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "Types of Renewable Energy". Renewable Energy World. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ Pingoud, Kim; et al. "Harvested Wood Products" (PDF). IPCC guidelines for national greenhouse gas inventories. 4. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "What is bioenergy?". Bioenergy Wiki. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "Carbon dioxide capture and storage" (PDF). Technical Report. IPCC. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ Sovacool, Benjamin (2011). Contesting the Future of Nuclear Power. Singapore: World Scientific. p.308. ISBN978-981-4322-75-1.
+^ Choi, Charles. "Uranium Supply Decline Clouds Nuclear Power's Future". World Science. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "An energy vision for a planet under pressure". International Geosphere-Biosphere Programme. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ Salovaara, Jackson (2011). "Coal to Natural Gas Fuel Switching and CO2 Emissions Reduction" (PDF). Harvard thesis. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ Liyanage, Chandratilak De Silva. "Sustainable Energy Management and CSR". Encyclopedia of Corporate Social Responsibility. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ Wolfe, Philip. "A proposed Energy Hierarchy" (PDF). WolfeWare. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "Groups release energy 'manifesto'". BBC. 19 April 2006. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ Institution of Mechanical Engineers (2009). "The Energy Hierarchy". Energy Policy Statement (09/03). Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "Thinking differently - the energy hierarchy". UK Government National Archives. Retrieved Feb 2013. Check date values in: |access-date= (help)
+^ "Energy Hierarchy". The London Plan. Greater London Authority. Retrieved Feb 2013. Check date values in: |access-date= (help)
+Saved in parser cache with key enwiki:pcache:idhash:38637693-0!*!0!!en!4!* and timestamp 20161112162956 and revision id 748716740
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Energy_hierarchy&oldid=748716740"
+Categories: Climate change mitigationEnergy conservationEnergy policyRenewable energyHidden categories: CS1 errors: dates

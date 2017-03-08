@@ -1,0 +1,1447 @@
+Costofelectricitybysource
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}For the price of electricity, see Electricity pricing.
+In electrical power generation, the distinct ways of generating electricity incur significantly different costs. Calculations of these costs at the point of connection to a load or to the electricity grid can be made. The cost is typically given per kilowatt-hour or megawatt-hour. It includes the initial capital, discount rate, as well as the costs of continuous operation, fuel, and maintenance. This type of calculation assists policy makers, researchers and others to guide discussions and decision making.
+The levelised cost of electricity (LCOE) is a measure of a power source which attempts to compare different methods of electricity generation on a comparable basis. It is an economic assessment of the average total cost to build and operate a power-generating asset over its lifetime divided by the total energy output of the asset over that lifetime. The LCOE can also be regarded as the minimum cost at which electricity must be sold in order to break-even over the lifetime of the project.
+Contents
+1 Cost factors
+1.1 Levelized cost of electricity
+1.2 Avoided cost
+1.3 Marginal cost of electricity
+1.4 External costs of energy sources
+1.5 Additional cost factors
+2 Studies
+2.1 Australia
+2.2 France
+2.3 Germany
+2.4 Japan
+2.5 United Kingdom
+2.5.1 DECC
+2.6 United States
+2.6.1 Energy Information Administration
+2.6.2 NREL OpenEI (2015)
+2.6.3 California Energy Commission (2014)
+2.6.4 Lazard (2015)
+2.7 Global
+2.7.1 IEA and NEA (2015)
+2.8 Other studies and analysis
+2.8.1 Buffett Contract (2015)
+2.8.2 Sheikh Mohammed Bin Rashid solar farm (2016)
+2.8.3 Nuclear Energy Agency (2012)
+2.8.4 Brookings Institution (2014)
+2.8.5 Brazilian electricity mix: the Renewable and Non-renewable Exergetic Cost (2014)
+2.8.6 Analysis from different sources (2009)
+3 Renewables
+3.1 Photovoltaics
+3.2 Wind power
+4 See also
+5 Further reading
+6 References
+Cost factors[edit]
+While calculating costs, several internal cost factors have to be considered.[1] (Note the use of "costs," which is not the actual selling price, since this can be affected by a variety of factors such as subsidies and taxes):
+Capital costs (including waste disposal and decommissioning costs for nuclear energy) - tend to be low for fossil fuel power stations; high for wind turbines, solar PV; very high for waste to energy, wave and tidal, solar thermal, and nuclear.
+Fuel costs - high for fossil fuel and biomass sources, low for nuclear, and zero for many renewables. Fuel costs can vary somewhat unpredictably over the life of the generating equipment, due to political and other factors.
+Factors such as the costs of waste (and associated issues) and different insurance costs are not included in the following: Works power, own use or parasitic load - that is, the portion of generated power actually used to run the station's pumps and fans has to be allowed for.
+To evaluate the total cost of production of electricity, the streams of costs are converted to a net present value using the time value of money. These costs are all brought together using discounted cash flow.[2][3]
+Levelized cost of electricity[edit]
+The levelized cost of electricity (LCOE), also known as Levelized Energy Cost (LEC), is the net present value of the unit-cost of electricity over the lifetime of a generating asset. It is often taken as a proxy for the average price that the generating asset must receive in a market to break even over its lifetime. It is a first-order economic assessment of the cost competitiveness of an electricity-generating system that incorporates all costs over its lifetime: initial investment, operations and maintenance, cost of fuel, cost of capital.
+The levelized cost is that value for which an equal-valued fixed revenue delivered over the life of the asset's generating profile would cause the project to break even. This can be roughly calculated as the net present value of all costs over the lifetime of the asset divided by the total electrical energy output of the asset.[4]
+The levelized cost of electricity (LCOE) is given by:
+L
+C
+O
+E
+=
+sum of costs over lifetime
+sum of electrical energy produced over lifetime
+=
+ 
+t
+=
+1
+n
+I
+t
++
+M
+t
++
+F
+t
+(
+1
++
+r
+)
+t
+ 
+t
+=
+1
+n
+E
+t
+(
+1
++
+r
+)
+t
+{\displaystyle \mathrm {LCOE} ={\frac {\text{sum of costs over lifetime}}{\text{sum of electrical energy produced over lifetime}}}={\frac {\sum _{t=1}^{n}{\frac {I_{t}+M_{t}+F_{t}}{\left({1+r}\right)^{t}}}}{\sum _{t=1}^{n}{\frac {E_{t}}{\left({1+r}\right)^{t}}}}}}
+It
+:
+investment expenditures in the year t
+Mt
+:
+operations and maintenance expenditures in the year t
+Ft
+:
+fuel expenditures in the year t
+Et
+:
+electrical energy generated in the year t
+r
+:
+discount rate
+n
+:
+expected lifetime of system or power station
+Note: Some caution must be taken when using formulas for the levelized cost, as they often embody unseen assumptions, neglect effects like taxes, and may be specified in real or nominal levelized cost. For example, other versions of the above formula do not discount the electricity stream.[citation needed]
+Typically the LCOE is calculated over the design lifetime of a plant, which is usually 20 to 40 years, and given in the units of currency per kilowatt-hour or megawatt-day, for example AUD/kWh or EUR/kWh or per megawatt-hour, for example AUD/MWh (as tabulated below).[5] However, care should be taken in comparing different LCOE studies and the sources of the information as the LCOE for a given energy source is highly dependent on the assumptions, financing terms and technological deployment analyzed.[6] In particular, assumption of capacity factor has significant impact on the calculation of LCOE. Thus, a key requirement for the analysis is a clear statement of the applicability of the analysis based on justified assumptions.[6]
+Many scholars,[specify] such as Paul Joskow, have described limits to the "levelized cost of electricity" metric for comparing new generating sources. In particular, LCOE ignores time effects associated with matching production to demand. This happens at two levels:
+Dispatchability, the ability of a generating system to come online, go offline, or ramp up or down, quickly as demand swings.
+The extent to which the availability profile matches or conflicts with the market demand profile.
+Thermally lethargic technologies like coal and nuclear are physically incapable of fast ramping. Capital intensive technologies such as wind, solar, and nuclear are economically disadvantaged unless generating at maximum availability since the LCOE is nearly all sunk-cost capital investment. Intermittent power sources, such as wind and solar, may incur extra costs associated with needing to have storage or backup generation available.[7] At the same time, intermittent sources can be competitive if they are available to produce when demand and prices are highest, such as solar during mid-day peaks seen in summertime load profiles.[6] Despite these time limitations, leveling costs is often a necessary prerequisite for making comparisons on an equal footing before demand profiles are considered, and the levelized-cost metric is widely used for comparing technologies at the margin, where grid implications of new generation can be neglected.
+Another limitation of the LCOE metric is the influence of energy efficiency and conservation (EEC).[8] EEC has caused the electricity demand of many countries to remain flat or decline. Considering only the LCOE for utility scale plants will tend to maximise generation and risks overestimating required generation due to efficiency, thus "lowballing" their LCOE. For solar systems installed at the point of end use, it is more economical to invest in EEC first, then solar (resulting in a smaller required solar system than what would be needed without the EEC measures). However, designing a solar system on the basis of LCOE would cause the smaller system LCOE to increase (as the energy generation [measured in kWh] drops faster than the system cost [$]). The whole of system life cycle cost should be considered, not just the LCOE of the energy source.[8] LCOE is not as relevant to end-users than other financial considerations such as income, cashflow, mortgage, leases, rent, and electricity bills.[8] Comparing solar investments in relation to these can make it easier for end-users to make a decision, or using cost-benefit calculations "and/or an assets capacity value or contribution to peak on a system or circuit level".[8]
+Avoided cost[edit]
+The US Energy Information Administration has recommended that levelized costs of non-dispatchable sources such as wind or solar may be better compared to the avoided energy cost rather than to the LCOE of dispatchable sources such as fossil fuels or geothermal. This is because introduction of fluctuating power sources may or may not avoid capital and maintenance costs of backup dispatchable sources. Levelized Avoided Cost of Energy (LACE) is the avoided costs from other sources divided by the annual yearly output of the non-dispatchable source. However, the avoided cost is much harder to calculate accurately.[9][10]
+Marginal cost of electricity[edit]
+A more accurate economic assessment might be the marginal cost of electricity. This value works by comparing the added system cost of increasing electricity generation from one source versus that from other sources of electricity generation (see Merit Order).[citation needed]
+External costs of energy sources[edit]
+See also: Environmental impact of the energy industry and Economics of new nuclear power plants
+Typically pricing of electricity from various energy sources may not include all external costs - that is, the costs indirectly borne by society as a whole as a consequence of using that energy source.[11] These may include enabling costs, environmental impacts, usage lifespans, energy storage, recycling costs, or beyond-insurance accident effects.
+The US Energy Information Administration predicts that coal and gas are set to be continually used to deliver the majority of the world's electricity,[12] this is expected to result in the evacuation of millions of homes in low-lying areas, and an annual cost of hundreds of billions of dollars' worth of property damage.[13][14][15][16][17][18][19]
+Furthermore, with a number of island nations becoming slowly submerged underwater due to rising sea levels,[20] massive international climate litigation lawsuits against fossil fuel users are currently[when?] beginning in the International Court of Justice.[21][22]
+An EU funded research study known as ExternE, or Externalities of Energy, undertaken over the period of 1995 to 2005 found that the cost of producing electricity from coal or oil would double over its present value, and the cost of electricity production from gas would increase by 30% if external costs such as damage to the environment and to human health, from the particulate matter, nitrogen oxides, chromium VI, river water alkalinity, mercury poisoning and arsenic emissions produced by these sources, were taken into account. It was estimated in the study that these external, downstream, fossil fuel costs amount up to 1%-2% of the EUs entire Gross Domestic Product (GDP), and this was before the external cost of global warming from these sources was even included.[23][24] Coal has the highest external cost in the EU, and global warming is the largest part of that cost.[11]
+A means to address a part of the external costs of fossil fuel generation is carbon pricing  the method most favored by economics for reducing global-warming emissions. Carbon pricing charges those who emit carbon dioxide (CO2) for their emissions. That charge, called a 'carbon price', is the amount that must be paid for the right to emit one tonne of CO2 into the atmosphere.[25] Carbon pricing usually takes the form of a carbon tax or a requirement to purchase permits to emit (also called "allowances").
+Depending on the assumptions of possible accidents and their probabilites external costs for nuclear power vary significantly and can reach between 0.2 to 200 ct/kWh.[26] Furthermore, nuclear power is working under an insurance framework that limits or structures accident liabilities in accordance with the Paris convention on nuclear third-party liability, the Brussels supplementary convention, and the Vienna convention on civil liability for nuclear damage[27] and in the U.S. the Price-Anderson Act. It is often argued that this potential shortfall in liability represents an external cost not included in the cost of nuclear electricity; but the cost is small, amounting to about 0.1% of the levelized cost of electricity, according to a CBO study.[28]
+These beyond-insurance costs for worst-case scenarios are not unique to nuclear power, as hydroelectric power plants are similarly not fully insured against a catastrophic event such as the Banqiao Dam disaster, where 11 million people lost their homes and from 30,000 to 200,000 people died, or large dam failures in general. As private insurers base dam insurance premiums on limited scenarios, major disaster insurance in this sector is likewise provided by the state.[29]
+Because externalities are diffuse in their effect, external costs can not be measured directly, but must be estimated. One approach estimate external costs of environmental impact of electricity is the Methodological Convention of Federal Environment Agency of Germany. That method arrives at external costs of electricity from lignite at 10.75 Eurocent/kWh, from hard coal 8.94 Eurocent/kWh, from natural gas 4.91 Eurocent/kWh, from photovoltaic 1.18 Eurocent/kWh, from wind 0.26 Eurocent/kWh and from hydro 0.18 Eurocent/kWh.[30] For nuclear the Federal Environment Agency indicates no value, as different studies have results that vary by a factor of 1,000. It recommends the nuclear given the huge uncertainty, with the cost of the next inferior energy source to evaluate.[31] Based on this recommendation the Federal Environment Agency, and with their own method, the Forum Ecological-social market economy, arrive at external environmental costs of nuclear energy at 10.7 to 34 ct/kWh.[32]
+Additional cost factors[edit]
+Calculations often do not include wider system costs associated with each type of plant, such as long distance transmission connections to grids, or balancing and reserve costs. Calculations do not include externalities such as health damage by coal plants, nor the effect of CO2 emissions on the climate change, ocean acidification and eutrophication, ocean current shifts. Decommissioning costs of nuclear plants are usually not included (The USA is an exception, because the cost of decommissioning is included in the price of electricity, per the Nuclear Waste Policy Act), is therefore not full cost accounting. These types of items can be explicitly added as necessary depending on the purpose of the calculation. It has little relation to actual price of power, but assists policy makers and others to guide discussions and decision making.[citation needed]
+These are not minor factors but very significantly affect all responsible power decisions:
+Comparisons of life-cycle greenhouse gas emissions show coal, for instance, to be radically higher in terms of GHGs than any alternative. Accordingly, in the analysis below, carbon captured coal is generally treated as a separate source rather than being averaged in with other coal.
+Other environmental concerns with electricity generation include acid rain, ocean acidification and effect of coal extraction on watersheds.
+Various human health concerns with electricity generation, including asthma and smog, now dominate decisions in developed nations that incur health care costs publicly. A Harvard University Medical School study estimates the US health costs of coal alone at between 300 and 500 billion US dollars annually.[33]
+While cost per kWh of transmission varies drastically with distance, the long complex projects required to clear or even upgrade transmission routes make even attractive new supplies often uncompetitive with conservation measures (see below), because the timing of payoff must take the transmission upgrade into account.
+Studies[edit]
+Australia[edit]
+This section needs to be updated. Please update this article to reflect recent events or newly available information. (July 2015)
+Renewables advocates assert that the cost for wind and solar has dramatically reduced since 2006, for example, the climate council claims over the 5 years between 2009-2014 solar costs fell by 75% making them comparable to coal, and are expected to continue dropping over the next 5 years by another 45% from 2014 prices, however supporting data is unclear.[34] Another claim is that wind has been cheaper than coal since 2013, and that coal and gas will become less viable as subsidies are withdrawn and there is the expectation that they will eventually have to pay the costs of pollution.[34]
+Most energy industry reports will counter that solar and wind cannot replace base load electricity sources due to the intermittent nature of production and that the necessity to maintain unused base load power generation increases the cost of any substantial shift to renewables.[35]
+The table gives a selection of LCOE with and without a carbon price for coal (brown and black, with and without CCS) and wind from the Australian Technology Assessment (2012), Table 5.2.1.[36]
+The chart below, from the Australian Energy Technology Assessment 2013 Model Update (Figure 8) also shows more current levelised costs of energy.[37] The second table and chart (in a modified form) were included in an article on The Conversation in 2015.[38]
+LCOE in AUD per MWh for some coal and wind technologies (2012)
+Technology
+Cost with CO2 price
+Cost without CO2 price
+Supercritical brown coal
+$162
+$95
+Supercritical brown coal with CCS
+$205
+$192
+Supercritical black coal
+$135 - $145
+$84 - $94
+Supercritical black coal with CCS
+$162 - $205
+$153 - $196
+Wind
+$111 - $122
+$111 - $122
+LCOEs by source in Australia in 2012.
+France[edit]
+This section needs to be updated. Please update this article to reflect recent events or newly available information. (July 2015)
+The International Agency for the Energy and EDF have estimated for 2011 the following costs. For the nuclear power they include the costs due to new safety investments to upgrade the French nuclear plant after the Fukushima Daiichi nuclear disaster; the cost for those investments is estimated at 4 /MWh. Concerning the solar power the estimate at 293 /MWh is for a large plant capable to produce in the range of 50100 GWh/year located in a favorable location (such as in Southern Europe). For a small household plant capable to produce typically around 3 MWh/year the cost is according to the location between 400 and 700 /MWh. Currently solar power is by far the most expensive renewable source to produce electricity among the technologies studied,[citation needed] although increasing efficiency and longer lifespan of photovoltaic panels together with reduced production costs could make this source of energy more competitive.
+French LCOE in /MWh (2011)
+Technology
+Cost in 2011
+Hydro power
+20
+Nuclear (with State-covered insurance costs)
+50
+Natural gas turbines without CO2 capture
+61
+Onshore wind
+69
+Solar farms
+293
+Germany[edit]
+Comparison of the levelized cost of electricity for some newly built renewable and fossil-fuel based power stations in euro per kWh (Germany, 2013)
+Note: employed technologies and LCOE differ by country and change over time.
+In November 2013, the Fraunhofer Institute for Solar Energy Systems ISE assessed the levelised generation costs for newly built power plants in the German electricity sector.[39] PV systems reached LCOE between 0.078 and 0.142 Euro/kWh in the third quarter of 2013, depending on the type of power plant (ground-mounted utility-scale or small rooftop solar PV) and average German insolation of 1000 to 1200 kWh/m per year (GHI). There are no LCOE-figures available for electricity generated by recently built German nuclear power plants as none have been constructed since the late 1980s.
+German LCOE in /MWh (2013)
+Technology
+Low cost
+High cost
+Coal-fired power plants
+brown coal
+38
+53
+hard coal
+63
+80
+CCGT power plants
+75
+98
+Wind Power
+Onshore wind farms
+45
+107
+Offshore wind farms
+119
+194
+Solar
+PV systems
+78
+142
+Biogas power plant
+135
+250
+Source: Fraunhofer ISE - Levelized cost of electricity renewable energy technologies[39]
+Japan[edit]
+This section needs to be updated. Please update this article to reflect recent events or newly available information. (July 2016)
+A 2010 study by the Japanese government (pre-Fukushima disaster), called the Energy White Paper, concluded the cost for kilowatt hour was 49 for solar, 10 to 14 for wind, and 5 or 6 for nuclear power. Masayoshi Son, an advocate for renewable energy, however, has pointed out that the government estimates for nuclear power did not include the costs for reprocessing the fuel or disaster insurance liability. Son estimated that if these costs were included, the cost of nuclear power was about the same as wind power.[40][41][42]
+United Kingdom[edit]
+The Institution of Engineers and Shipbuilders in Scotland commissioned a former Director of Operations of the British National Grid, Colin Gibson, to produce a report on generation levelised costs that for the first time would include some of the transmission costs as well as the generation costs. This was published in December 2011.[43] The institution seeks to encourage debate of the issue, and has taken the unusual step among compilers of such studies of publishing a spreadsheet.[44]
+On 27 February 2015 Vattenfall Vindkraft AS agreed to build the Horns Rev 3 offshore wind farm at a price of 10.31 Eurocent per kWh. This has been quoted as below 100 UK pounds per MWh.
+In 2013 in the United Kingdom for a new-to-build nuclear power plant (Hinkley Point C: completion 2023), a feed-in tariff of 92.50 pounds/MWh (around 142 USD/MWh) plus compensation for inflation with a running time of 35 years was agreed.[45][46]
+DECC[edit]
+This section needs to be updated. Please update this article to reflect recent events or newly available information. (July 2015)
+More recent UK estimates are the Mott MacDonald study released by DECC in June 2010[47] and the Arup study for DECC published in 2011.[48]
+UK LCOE in /MWh (2010)
+Technology
+Cost range (/MWh)[47]
+Natural gas turbine
+with no CO2 capture
+55  110
+with CO2 capture
+60  130
+Biomass
+60  120
+New nuclear(a)
+80  105
+Wind Power
+Onshore
+80  110
+Offshore
+150  210
+Coal
+With CO2 capture
+100  155
+Solar farms
+125  180
+Tidal power
+155  390
+(a) new nuclear power: guaranteed strike price of 92.50/MWh for Hinkley Point C in 2023[49][50])
+In March 2010, a new report on UK levelised generation costs was published by Parsons Brinckerhoff.[51] It puts a range on each cost due to various uncertainties. Combined cycle gas turbines without CO2 capture are not directly comparable to the other low carbon emission generation technologies in the BP study. The assumptions used in this study are given in the report.
+United States[edit]
+Energy Information Administration[edit]
+Projected LCOE in the U.S. by 2020 (as of 2015) in dollars per MWh[52]
+The following data are from the Energy Information Administration's (EIA) Annual Energy Outlook released in 2015 (AEO2015). They are in dollars per megawatt-hour (2013 USD/MWh). These figures are estimates for plants going into service in 2020.[53] The LCOE below is calculated based off a 30-year recovery period using a real after tax weighted average cost of capital (WACC) of 6.1%. For carbon intensive technologies 3 percentage points are added to the WACC. (This is approximately equivalent fee of $15 per metric ton of carbon dioxide CO2)
+Since 2010, the US Energy Information Administration (EIA) has published the Annual Energy Outlook (AEO), with yearly LCOE-projections for future utility-scale facilities to be commissioned in about five years' time. In 2015, EIA has been criticized by the Advanced Energy Economy (AEE) Institute after its release of the AEO 2015-report to "consistently underestimate the growth rate of renewable energy, leading to 'misperceptions' about the performance of these resources in the marketplace". AEE points out that the average power purchase agreement (PPA) for wind power was already at $24/MWh in 2013. Likewise, PPA for utility-scale solar PV are seen at current levels of $50$75/MWh.[54] These figures contrast strongly with EIA's estimated LCOE of $125/MWh (or $114/MWh including subsidies) for solar PV in 2020.[55]
+Projected LCOE in the U.S. by 2020 (as of 2015) $/MWh
+Power generating technology
+Minimum
+Average
+Maximum
+Geothermal
+43.8
+47.8
+52.1
+Wind
+Onshore
+65.6
+73.6
+81.6
+Offshore
+169.5
+196.9
+269.8
+Natural Gas-fired
+Conventional Combined Cycle
+70.4
+75.2
+85.5
+Advanced Combined Cycle
+68.6
+72.6
+81.7
+Advanced CC with CCS
+93.3
+100.2
+110.8
+Conventional Combustion Turbine
+107.3
+141.5
+156.4
+Advanced Combustion Turbine
+94.6
+113.5
+126.8
+Hydro
+69.3
+83.5
+107.2
+Coal
+Conventional Coal
+87.1
+95.1
+119.0
+IGCC (Integrated Coal-Gasification Combined Cycle)
+106.1
+115.7
+136.1
+IGCC with CCS
+132.9
+144.4
+160.4
+Advanced Nuclear
+91.8
+95.2
+101.0
+Biomass
+90.0
+100.5
+117.4
+Solar
+Photovoltaic
+97.8
+125.3
+193.3
+Concentrated Solar Power
+174.4
+239.7
+382.5
+The electricity sources which had the most decrease in estimated costs over the period 2010 to 2016 were solar photovoltaic (down 79%), onshore wind (down 57%) and conventional natural gas combined cycle (down 30%).
+For utility-scale generation put into service in 2040, the EIA estimated in 2015 that there would be further reductions in the constant-dollar cost of concentrated solar power (CSP) (down 18%), solar photovoltaic (down 15%), offshore wind (down 11%), and advanced nuclear (down 7%). The cost of onshore wind was expected to rise slightly (up 2%) by 2040, while natural gas combined cycle electricity was expected to increase 9% to 10% over the period.[55]
+http://www.eia.gov/forecasts/aeo/electricity_generation.cfm
+Historical summary of EIA's LCOE projections (20102016)
+Estimate in $/MWh
+Coal
+convent'l
+NG combined cycle
+Nuclear
+advanced
+Wind
+Solar
+of year
+ref
+for year
+convent'l
+advanced
+onshore
+offshore
+PV
+CSP
+2010
+[56]
+2016
+100.4
+83.1
+79.3
+119.0
+149.3
+191.1
+396.1
+256.6
+2011
+[57]
+2016
+95.1
+65.1
+62.2
+114.0
+96.1
+243.7
+211.0
+312.2
+2012
+[58]
+2017
+97.7
+66.1
+63.1
+111.4
+96.0
+N/A
+152.4
+242.0
+2013
+[59]
+2018
+100.1
+67.1
+65.6
+108.4
+86.6
+221.5
+144.3
+261.5
+2014
+[60]
+2019
+95.6
+66.3
+64.4
+96.1
+80.3
+204.1
+130.0
+243.1
+2015
+[55]
+2020
+95.1
+75.2
+72.6
+95.2
+73.6
+196.9
+125.3
+239.7
+2016
+[61]
+2022
+NA
+58.1
+57.2
+102.8
+64.5
+158.1
+84.7
+235.9
+Nominal change 2010-2016
+NA
+-30%
+-28%
+-14%
+-57%
+-17%
+-79%
+-8%
+Note: Projected LCOE are adjusted for inflation and calculated on constant dollars based on two years prior to the release year of the estimate.
+Estimates given without any subsidies. Transmission cost for non-dispatchable sources are on average much higher.
+NREL OpenEI (2015)[edit]
+OpenEI, sponsored jointly by the US DOE and the National Renewable Energy Laboratory (NREL), has compiled a historical cost-of-generation database[62] covering a wide variety of generation sources. Because the data is open source it may be subject to frequent revision.
+LCOE from OpenEI DB as of June, 2015
+Plant Type (USD/MWh)
+Min
+Median
+Max
+Data Source Year
+Distributed Generation
+10
+70
+130
+2014
+Hydropower
+Conventional
+30
+70
+100
+2011
+Small Hydropower
+140
+2011
+Wind
+Onshore
+40
+80
+2014
+Offshore
+100
+200
+2014
+Natural Gas
+Combined Cycle
+50
+80
+2014
+Combustion Turbine
+140
+200
+2014
+Coal
+Pulverized, scrubbed
+60
+150
+2014
+Pulverized, unscrubbed
+40
+2008
+Integrated gasification, combined cycle
+100
+170
+2014
+Solar
+Photovoltaic
+60
+110
+250
+2014
+CSP
+100
+220
+2014
+Geothermal
+Hydrothermal
+50
+100
+2011
+Blind
+100
+2011
+Enhanced
+80
+130
+2014
+Biopower
+90
+110
+2014
+Fuel Cell
+100
+160
+2014
+Nuclear
+90
+130
+2014
+Ocean
+230
+240
+250
+2011
+Note:
+Only Median value = only one data point.
+Only Max + Min value = Only two data points
+California Energy Commission (2014)[edit]
+LCOE data from the California Energy Commission report titled "Estimated Cost of New Renewable and Fossil Generation in California".[63] The model data was calculated for all three classes of developers: merchant, investor-owned utility (IOU), and publicly owned utility (POU).
+Type
+Year 2013 (Nominal $$) ($/MWh)
+Year 2024( Nominal $$) ($/MWh)
+Name
+Merchant
+IOU
+POU
+Merchant
+IOU
+POU
+Generation Turbine 49.9MW
+662.81
+2215.54
+311.27
+884.24
+2895.90
+428.20
+Generation Turbine 100MW
+660.52
+2202.75
+309.78
+881.62
+2880.53
+426.48
+Generation Turbine - Advanced 200MW
+403.83
+1266.91
+215.53
+533.17
+1615.68
+299.06
+Combined Cycle 2CTs No Duct Firing 500MW
+116.51
+104.54
+102.32
+167.46
+151.88
+150.07
+Combined Cycle 2CTs With Duct Firing 500MW
+115.81
+104.05
+102.04
+166.97
+151.54
+149.88
+Biomass Fluidized Bed Boiler 50MW
+122.04
+141.53
+123.51
+153.89
+178.06
+156.23
+Geothermal Binary 30MW
+90.63
+120.21
+84.98
+109.68
+145.31
+103.00
+Geothermal Flash 30MW
+112.48
+146.72
+109.47
+144.03
+185.85
+142.43
+Solar Parabolic Trough W/O Storage 250MW
+168.18
+228.73
+167.93
+156.10
+209.72
+156.69
+Solar Parabolic Trough With Storage 250MW
+127.40
+189.12
+134.81
+116.90
+171.34
+123.92
+Solar Power Tower W/O Storage 100MW
+152.58
+210.04
+151.53
+133.63
+184.24
+132.69
+Solar Power Tower With Storage 100MW 6HR
+145.52
+217.79
+153.81
+132.78
+196.47
+140.58
+Solar Power Tower With Storage 100MW 11HR
+114.06
+171.72
+120.45
+103.56
+154.26
+109.55
+Solar Photovoltaic (Thin Film) 100MW
+111.07
+170.00
+121.30
+81.07
+119.10
+88.91
+Solar Photovoltaic (Single-Axis) 100MW
+109.00
+165.22
+116.57
+98.49
+146.20
+105.56
+Solar Photovoltaic (Thin Film) 20MW
+121.31
+186.51
+132.42
+93.11
+138.54
+101.99
+Solar Photovoltaic (Single-Axis) 20MW
+117.74
+179.16
+125.86
+108.81
+162.68
+116.56
+Wind Class 3 100MW
+85.12
+104.74
+75.8
+75.01
+91.90
+68.17
+Wind Class 4 100MW
+84.31
+103.99
+75.29
+75.77
+92.88
+68.83
+Lazard (2015)[edit]
+In November 2015, the investment bank Lazard headquartered in New York, published a study on the current electricity production costs of photovoltaics in the US compared to conventional power generators. The best large-scale photovoltaic power plants can produce electricity at 50 USD per MWh. The upper limit at 60 USD per MWh. In comparison, coal-fired plants are between 65 USD and $150 per MWh, nuclear power at 97 USD per MWh. Small photovoltaic power plants on roofs of houses are still at 184-300 USD per MWh, but which can do without electricity transport costs. Onshore wind turbines are 32-77 USD per MWh. One drawback is the intermittency of solar and wind power. The study suggests a solution in batteries as a storage, but these are still expensive so far.[64][65]
+Below is the complete list of LCOEs by source from the investment bank Lazard.[64]
+Plant Type ( USD/MWh)
+Low
+High
+Solar PV-Rooftop Residential
+184
+300
+Solar PV-Rooftop C&I
+109
+193
+Solar PV-Crystalline Utility Scale
+58
+70
+Solar PV-Thin Film Utility Scale
+50
+60
+Solar Thermal with Storage
+119
+181
+Fuel Cell
+106
+167
+Microturbine
+79
+89
+Geothermal
+82
+117
+Biomass Direct
+82
+110
+Wind
+32
+77
+Energy Efficiency
+0
+50
+Battery Storage
+**
+**
+Diesel Reciprocating Engine
+212
+281
+Natural Gas Reciprocating Engine
+68
+101
+Gas Peaking
+165
+218
+IGCC
+96
+183
+Nuclear
+97
+136
+Coal
+65
+150
+Gas Combined Cycle
+52
+78
+NOTE: ** Battery Storage is no longer include in this report (2015). It has been rolled into its own separate report (See charts below).
+Below are the LCOEs for different battery technologies. This category has traditionally been filled by Diesel Engines. These are "Behind the meter" applications.[66]
+Purpose
+Type
+Low ($/MWh)
+High ($/MWh)
+MicroGrid
+Flow Battery
+429
+1046
+MicroGrid
+Lead-Acid
+433
+946
+MicroGrid
+Lithium-Ion
+369
+562
+MicroGrid
+Sodium
+411
+835
+MicroGrid
+Zinc
+319
+416
+Island
+Flow Battery
+593
+1231
+Island
+Lead-Acid
+700
+1533
+Island
+Lithium-Ion
+581
+870
+Island
+Sodium
+663
+1259
+Island
+Zinc
+523
+677
+Commercial and Industrial
+Flow Battery
+349
+1083
+Commercial and Industrial
+Lead-Acid
+529
+1511
+Commercial and Industrial
+Lithium-Ion
+351
+838
+Commercial and Industrial
+Sodium
+444
+1092
+Commercial and Industrial
+Zinc
+310
+452
+Commercial Appliance
+Flow Battery
+974
+1504
+Commercial Appliance
+Lead-Acid
+928
+2291
+Commercial Appliance
+Lithium-Ion
+784
+1363
+Commercial Appliance
+Zinc
+661
+833
+Residential
+Flow Battery
+721
+1657
+Residential
+Lead-Acid
+1101
+2238
+Residential
+Lithium-Ion
+1034
+1596
+All of the above
+Traditional Method
+Diesel Reciprocating Engine
+212
+281
+Below are the LCOEs for different battery technologies. This category has traditionally been filled by Natural Gas Engines. These are "In front of the meter" applications.[66]
+Purpose
+Type
+Low ($/MWh)
+High ($/MWh)
+Transmission System
+Compressed Air
+192
+192
+Transmission System
+Flow Battery
+290
+892
+Transmission System
+Lead-Acid
+461
+1429
+Transmission System
+Lithium-Ion
+347
+739
+Transmission System
+Pumped Hydro
+188
+274
+Transmission System
+Sodium
+396
+1079
+Transmission System
+Zinc
+230
+376
+Peaker Replacement
+Flow Battery
+248
+927
+Peaker Replacement
+Lead-Acid
+419
+1247
+Peaker Replacement
+Lithium-Ion
+321
+658
+Peaker Replacement
+Sodium
+365
+948
+Peaker Replacement
+Zinc
+221
+347
+Frequency Regulation
+Flywheel
+276
+989
+Frequency Regulation
+Lithium-Ion
+211
+275
+Distribution Services
+Flow Battery
+288
+923
+Distribution Services
+Lead-Acid
+516
+1692
+Distribution Services
+Lithium-Ion
+400
+789
+Distribution Services
+Sodium
+426
+1129
+Distribution Services
+Zinc
+285
+426
+PV Integration
+Flow Battery
+373
+950
+PV Integration
+Lead-Acid
+402
+1068
+PV Integration
+Lithium-Ion
+355
+686
+PV Integration
+Sodium
+379
+957
+PV Integration
+Zinc
+245
+345
+All of the above
+Traditional Method
+Gas Peaker
+165
+218
+Global[edit]
+IEA and NEA (2015)[edit]
+The International Energy Agency and the Nuclear Energy Agency published a joint study in 2015 on LCOE data internationally.[67][68]
+Other studies and analysis[edit]
+Buffett Contract (2015)[edit]
+In a power purchase agreement in the United States in July 2015 for a period of 20 years of solar power will be paid 3.87 UScent per kilowatt hour (38.7 USD/MWh). The solar system, which produces this solar power, is in Nevada (USA) and has 100 MW capacity.[69]
+Sheikh Mohammed Bin Rashid solar farm (2016)[edit]
+For a construction phase of Sheikh Mohammed Bin Rashid solar farms over 800 MW photovoltaic a bid of 0.0299 US dollars per kilowatt hour of solar energy was in the spring of 2016 at a tender achieved.[70]
+Nuclear Energy Agency (2012)[edit]
+In November 2012, the OECD Nuclear Energy Agency published a report with the title System effects in low carbon energy systems.[71] In this report NEA looks at the interactions of dispatchable energy technologies (fossil and nuclear) and variable renewables (solar and wind) in terms of their effects on electricity systems. These grid-level systems costs differ from the levelized cost of electricity metric that scholars like Paul Joskow have criticised as incomplete, as they also include costs related to the electricity grid, such as extending and reinforcing transport and distribution grids, connecting new capacity to the grid, and the additional costs of providing back-up capacity for balancing the grid. NEA calculated these costs for a number of OECD countries with different levels of penetration for each energy source.[71] This report has been criticized for its adequacy and used methodology.[72][73] Swedish KTH in Stockholm published a report in response, finding "several question marks concerning the calculation methods".[74]:5 While the grid-level systems costs in the 2012 OECD-NEA report is calculated to be $17.70 per MWh for 10% onshore wind in Finland, the Swedish Royal Institute of Technology concludes in their analysis, that these costs are rather $0 to $3.70 per MWh (or 79% to 100% less than NEA's calculations), as they are either much smaller or already included in the market.[74]:2324
+Estimated Grid-Level Systems Cost, 2012 (USD/MWh)[71]:8
+Technology
+Nuclear
+Coal
+Gas
+Onshore Wind
+Offshore Wind
+Solar
+Penetration Level
+10%
+30%
+10%
+30%
+10%
+30%
+10%
+30%
+10%
+30%
+10%
+30%
+Backup costs (adequacy)
+0.00
+0.00
+0.04
+0.04
+0.00
+0.00
+5.61
+6.14
+2.10
+6.85
+0.00
+10.45
+Balancing costs
+0.16
+0.10
+0.00
+0.00
+0.00
+0.00
+2.00
+5.00
+2.00
+5.00
+2.00
+5.00
+Grid connection
+1.56
+1.56
+1.03
+1.03
+0.51
+0.51
+6.50
+6.50
+15.24
+15.24
+10.05
+10.05
+Grid reinforcement & extension
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+2.20
+2.20
+1.18
+1.18
+2.77
+2.77
+Total Grid-level System Costs
+1.72
+1.67
+1.07
+1.07
+0.51
+0.51
+16.30
+19.84
+20.51
+28.26
+14.82
+28.27
+Brookings Institution (2014)[edit]
+In 2014, the Brookings Institution published The Net Benefits of Low and No-Carbon Electricity Technologies which states, after performing an energy and emissions cost analysis, that "The net benefits of new nuclear, hydro, and natural gas combined cycle plants far outweigh the net benefits of new wind or solar plants", with the most cost effective low carbon power technology being determined to be nuclear power.[75][76]
+Brazilian electricity mix: the Renewable and Non-renewable Exergetic Cost (2014)[edit]
+As long as exergy stands for the useful energy required for an economic activity to be accomplished, it is reasonable to evaluate the cost of the energy on the basis of its exergy content. Besides, as exergy can be considered as measure of the departure of the environmental conditions, it also serves as an indicator of environmental impact, taking into account both the efficiency of supply chain (from primary exergy inputs) and the efficiency of the production processes. In this way, exergoeconomy can be used to rationally distribute the exergy costs and CO2 emission cost among the products and by-products of a highly integrated Brazilian electricity mix. Based on the thermoeconomy methodologies, some authors[77] have shown that exergoeconomy provides an opportunity to quantify the renewable and non-renewable specific exergy consumption; to properly allocate the associated CO2 emissions among the streams of a given production route; as well as to determine the overall exergy conversion efficiency of the production processes. Accordingly, the non-renewable unit exergy cost (cNR) [kJ/kJ] is defined as the rate of non-renewable exergy necessary to produce one unit of exergy rate/flow rate of a substance, fuel, electricity, work or heat flow, whereas the Total Unit Exergy Cost (cT) includes the Renewable (cR) and Non-Renewable Unit Exergy Costs. Analogously, the CO2 emission cost (cCO2) [gCO2/kJ] is defined as the rate of CO2 emitted to obtain one unit of exergy rate/flow rate.[77]
+Analysis from different sources (2009)[edit]
+ Conventional oil
+ Unconventional oil
+ Biofuels
+ Coal
+ Nuclear
+ Wind
+Colored vertical lines indicate various historical oil prices. From left to right:
+ 1990s average
+ January 2009
+ 1979 peak
+ 2008 peak
+Price of oil per barrel (bbl) at which energy sources are competitive.
+Right end of bar is viability without subsidy.
+Left end of bar requires regulation or government subsidies.
+Wider bars indicate uncertainty.
+Source: Financial Times (edit)
+Renewables[edit]
+Photovoltaics[edit]
+European PV LCOE range projection 20102020 (in -cts/kWh)[78]
+Price history of silicon PV cells since 1977
+Photovoltaic prices have fallen from $76.67 per watt in 1977 to an estimated $0.30 per watt in 2015, for crystalline silicon solar cells.[79][80] This is seen as evidence supporting Swanson's law, which states that solar cell prices fall 20% for every doubling of cumulative shipments. The famous Moore's law calls for a doubling of transistor count every two years.
+By 2011, the price of PV modules per MW had fallen by 60% since 2008, according to Bloomberg New Energy Finance estimates, putting solar power for the first time on a competitive footing with the retail price of electricity in some sunny countries; an alternative and consistent price decline figure of 75% from 2007 to 2012 has also been published,[81] though it is unclear whether these figures are specific to the United States or generally global. The levelised cost of electricity (LCOE) from PV is competitive with conventional electricity sources in an expanding list of geographic regions,[6] particularly when the time of generation is included, as electricity is worth more during the day than at night.[82] There has been fierce competition in the supply chain, and further improvements in the levelised cost of energy for solar lie ahead, posing a growing threat to the dominance of fossil fuel generation sources in the next few years.[83] As time progresses, renewable energy technologies generally get cheaper,[84][85] while fossil fuels generally get more expensive:
+The less solar power costs, the more favorably it compares to conventional power, and the more attractive it becomes to utilities and energy users around the globe. Utility-scale solar power [could in 2011] be delivered in California at prices well below $100/MWh ($0.10/kWh) less than most other peak generators, even those running on low-cost natural gas. Lower solar module costs also stimulate demand from consumer markets where the cost of solar compares very favourably to retail electric rates.[86]
+In the year 2015, First Solar agreed to supply solar power at 3.87 cents/kWh levelised price from its 100 MW Playa Solar 2 project which is far cheaper than the electricity sale price from conventional electricity generation plants.[87] From January 2015 through May 2016, records have continued to fall quickly, and solar electricity prices, which have reached levels below 3 cents/kWh, continue to fall.[88] In August 2016, Chile announced a new record low contract price to provide solar power for $29.10 per megawatt-hour (MWh).[89] In September 2016, Abu Dhabi announced a new record breaking bid price, promising to provide solar power for $24.2 per megawatt-hour (MWh) [90]
+It is now evident that, given a carbon price of $50/ton, which would raise the price of coal-fired power by 5c/kWh, solar PV, Wind, and Nuclear will be cost-competitive in most locations. The declining price of PV has been reflected in rapidly growing installations, totaling about 23 GW in 2011. Although some consolidation is likely in 2012, due to support cuts in the large markets of Germany and Italy, strong growth seems likely to continue for the rest of the decade. Already, by one estimate, total investment in renewables for 2011 exceeded investment in carbon-based electricity generation.[91]
+In the case of self consumption, payback time is calculated based on how much electricity is not brought from the grid. Additionally, using PV solar power to charge DC batteries, as used in Plug-in Hybrid Electric Vehicles and Electric Vehicles, leads to greater efficiencies, but higher costs. Traditionally, DC generated electricity from solar PV must be converted to AC for buildings, at an average 10% loss during the conversion. Inverter technology is rapidly improving and current equipment have reached over 96% efficiency for small scale residential, while commercial scale three-phase equipment can reach well above 98% efficiency. However, an additional efficiency loss occurs in the transition back to DC for battery driven devices and vehicles, and using various interest rates and energy price changes were calculated to find present values that range from $2,057.13 to $8,213.64 (analysis from 2009).[92]
+It is also possible to combine solar PV with other technologies to make hybrid systems, which enable more stand alone systems. The calculation of LCOEs becomes more complex, but can be done by aggregating the costs and the energy produced by each component. As for example, PV and cogen and batteries [93] while reducing energy- and electricity-related greenhouse gas emissions as compared to conventional sources.[94]
+Wind power[edit]
+NREL projection: the LCOE of U.S. wind power will decline by 25% from 2012 to 2030.[95]
+Estimated cost per MWh for wind power in Denmark as of 2012
+In 2004, wind energy cost a fifth of what it did in the 1980s, and some expected that downward trend to continue as larger multi-megawatt turbines were mass-produced.[96] As of 2012[update] capital costs for wind turbines are substantially lower than 20082010 but are still above 2002 levels.[97] A 2011 report from the American Wind Energy Association stated, "Wind's costs have dropped over the past two years, in the range of 5 to 6 cents per kilowatt-hour recently.... about 2 cents cheaper than coal-fired electricity, and more projects were financed through debt arrangements than tax equity structures last year.... winning more mainstream acceptance from Wall Street's banks.... Equipment makers can also deliver products in the same year that they are ordered instead of waiting up to three years as was the case in previous cycles.... 5,600 MW of new installed capacity is under construction in the United States, more than double the number at this point in 2010. 35% of all new power generation built in the United States since 2005 has come from wind, more than new gas and coal plants combined, as power providers are increasingly enticed to wind as a convenient hedge against unpredictable commodity price moves."[98]
+This cost has additionally reduced as wind turbine technology has improved. There are now longer and lighter wind turbine blades, improvements in turbine performance and increased power generation efficiency. Also, wind project capital and maintenance costs have continued to decline.[99] For example, the wind industry in the USA in 2014 was able to produce more power at lower cost by using taller wind turbines with longer blades, capturing the faster winds at higher elevations. This has opened up new opportunities in Indiana, Michigan, and Ohio. The price of power from wind turbines built 300 to 400ft (91 to 122m) above the ground can now compete with conventional fossil fuels like coal. Prices have fallen to about 4 cents per kilowatt-hour in some cases and utilities have been increasing the amount of wind energy in their portfolio, saying it is their cheapest option.[100]
+In 2016 the Norwegian Wind Energy Association (NORWEA) estimated the LCoE of a typical Norwegian wind farm at 44/MWh, assuming a weighted average cost of capital of 8% and an annual 3,500 full load hours, i.e. a capacity factor of 40%. NORWEA went on to estimate the LCoE of the 1GW Fosen Vind onshore wind farm which is expected to be operational by 2020 to be as low as 35/MWh to 40/MWh.[101] In November 2016, Vattenfall won a tender to develop the Kriegers Flak windpark in the Baltic Sea for 49,9 /MWh. [102] As of 2016, this is the lowest price for wind energy.
+See also[edit]
+Energy portal
+Renewable energy portal
+Electricity pricing
+Comparisons of life-cycle greenhouse gas emissions
+Distributed generation
+Economics of new nuclear power plants
+Demand response
+Intermittent energy source
+National Grid Reserve Service
+Nuclear power in France
+List of thermal power station failures
+Calculating the cost of the UK Transmission network: Estimating cost per kWh of transmission
+List of countries by electricity production from renewable sources
+List of U.S. states by electricity production from renewable sources
+Environmental concerns with electricity generation
+Grid parity
+Further reading[edit]
+Economic Value of U.S. Fossil Fuel Electricity Health Impacts. United States Environmental Protection Agency.
+The Hidden Costs of Electricity: Comparing the Hidden Costs of Power Generation Fuels. Civil Society Institute.
+References[edit]
+^ A Review of Electricity Unit Cost Estimates Working Paper, December 2006 - Updated May 2007 Archived January 8, 2010, at the Wayback Machine.
+^ "Cost of wind, nuclear and gas powered generation in the UK". Claverton-energy.com. Retrieved 2012-09-04.
+^ "David Millborrows paper on wind costs". Claverton-energy.com. Retrieved 2012-09-04.
+^ Nuclear Energy Agency/International Energy Agency/Organization for Economic Cooperation and Development Projected Costs of Generating Electricity (2005 Update)
+^ K. Branker, M. J.M. Pathak, J. M. Pearce, doi:10.1016/j.rser.2011.07.104 A Review of Solar Photovoltaic Levelized Cost of Electricity, Renewable and Sustainable Energy Reviews 15, pp.4470-4482 (2011). Open access
+^ a b c d Branker, K.; Pathak, M.J.M.; Pearce, J.M. (2011). "A Review of Solar Photovoltaic Levelized Cost of Electricity". Renewable and Sustainable Energy Reviews. 15 (9): 44704482. doi:10.1016/j.rser.2011.07.104. Open access
+^ Comparing the Costs of Intermittent and Dispatchable Electricity-Generating Technologies", by Paul Joskow, Massachusetts Institute of Technology, September 2011
+^ a b c d Bronski, Peter (29 May 2014). "You Down With LCOE? Maybe You, But Not Me:Leaving behind the limitations of levelized cost of energy for a better energy metric". RMI Outlet. Rocky Mountain Institute (RMI). Archived from the original on 28 October 2016. Retrieved 28 October 2016. Desirable shifts in how we as a nation and as individual consumerswhether a residential home or commercial real estate propertymanage, produce, and consume electricity can actually make LCOE numbers look worse, not better. This is particularly true when considering the influence of energy efficiency...If youre planning a new, big central power plant, you want to get the best value (i.e., lowest LCOE) possible. For the cost of any given power-generating asset, that comes through maximizing the number of kWh it cranks out over its economic lifetime, which runs exactly counter to the highly cost-effective energy efficiency that has been a driving force behind the countrys flat and even declining electricity demand. On the flip side, planning new big, central power plants without taking continued energy efficiency gains (of which theres no shortage of opportunitythe February 2014 UNEP Finance Initiative report Commercial Real Estate: Unlocking the energy efficiency retrofit investment opportunity identified a $231$300 billion annual market by 2020) into account risks overestimating the number of kWh wed need from them and thus lowballing their LCOE... If Im a homeowner or business considering purchasing rooftop solar outright, do I care more about the per-unit value (LCOE) or my total out of pocket (lifetime system cost)?...The per-unit value is less important than the thing considered as a whole...LCOE, for example, fails to take into account the time of day during which an asset can produce power, where it can be installed on the grid, and its carbon intensity, among many other variables. Thats why, in addition to [levelized avoided cost of energy (LACE)], utilities and other electricity system stakeholders...have used benefit/cost calculations and/or an assets capacity value or contribution to peak on a system or circuit level.
+^ US Energy Information Administration, Levelized cost of new generation resources, 28 January 2013.
+^ Levelized Cost and Levelized Avoided Cost of New Generation Resources in the Annual Energy Outlook 2015- US Energy Information Administration
+^ a b "Subsidies and costs of EU energy. Project number: DESNL14583" Pages: 52. EcoFys, 10 October 2014. Accessed: 20 October 2014. Size: 70 pages in 2MB.
+^ International Energy Outlook: Electricity "Although coal-fired generation increases by an annual average of only 1.9 percent, it remains the largest source of electricity generation through 2035. In 2008, coal-fired generation accounted for 40 percent of world electricity supply; in 2035, its share decreases to 37 percent, as renewables, natural gas, and nuclear power all are expected to advance strongly during the projection and displace the need for coal-fired-generation in many parts of the world. World net coal-fired generation grows by 67 percent, from 7.7 trillion kilowatthours in 2008 to 12.9 trillion kilowatthours in 2035." Archived August 22, 2012, at the Wayback Machine.
+^ The economic impact of global warming
+^ Climate change threatens Australia's coastal lifestyle, report warns | Environment | The Guardian
+^ Tufts Civil Engineer Predicts Bostons Rising Sea Levels Could Cause Billions Of Dollars In Damage
+^ Rising Sea Levels' cost on Boston
+^ Tufts University slide 28, note projected Bangladesh evacuation
+^ The Hidden costs of Fossil fuels
+^ Rising Sea Level
+^ Five nations under threat from climate change
+^ Tiny Pacific nation takes on Australia
+^ See you in court: the rising tide of international climate litigation
+^ New research reveals the real costs of electricity in Europe
+^ ExternE-Pol, External costs of current and advanced electricity systems, associated with emissions from the operation of power plants and with the rest of the energy chain, final technical report. See figure 9, 9b and figure 11
+^ IPCC, Glossary A-D: "Climate price", in IPCC AR4 SYR 2007.
+^ Viktor Wesselak, Thomas Schabbach, Thomas Link, Joachim Fischer: Regenerative Energietechnik. Springer 2013, ISBN 978-3-642-24165-9, p. 27.
+^ Publications: Vienna Convention on Civil Liability for Nuclear Damage. International Atomic Energy Agency.
+^ Nuclear Power's Role in Generating Electricity Congressional Budget Office, May 2008.
+^ Availability of Dam Insurance 1999
+^ Methodenkonvention 2.0 zur Schtzung von Umweltkosten B, Anhang B: Best-Practice-Kostenstze fr Luftschadstoffe, Verkehr, Strom -und Wrmeerzeugung (PDF; 886kB). Studie des Umweltbundesamtes (2012). Abgerufen am 23. Oktober 2013.
+^ konomische Bewertung von Umweltschden METHODENKONVENTION 2.0 ZUR SCHTZUNG VON UMWELTKOSTEN (PDF; 799kB), S. 27-29. Studie des Umweltbundesamtes (2012). Abgerufen am 23. Oktober 2013.
+^ Externe Kosten der Atomenergie und Reformvorschlge zum Atomhaftungsrecht (PDF; 862kB), 9/2012. Forum kologisch-Soziale Marktwirtschaft e.V. im Auftrag von Greenpeace Energy eG und dem Bundesverband Windenergie e.V. Abgerufen am 23. Oktober 2013.
+^ "New Harvard Study Examines Cost of Coal". Environment.harvard.edu. Retrieved 2012-09-04.
+^ a b The Climate Council The global renewable energy boom: how Australia is missing out, 2014
+^ http://www.iea.org/Textbase/npsum/ElecCost2015SUM.pdf
+^ "The Australian Energy Technology Assessment (AETA) 2012". Office of the Chief Economist. Bureau of Resources and Energy Economics (BREE). Retrieved 28 October 2016.
+^ Syed, Arif. "The Australian Energy Technology Assessment (AETA) 2013: Update". Office of the Chief Economist. Bureau of Resources and Energy Economics (BREE). p.56. Retrieved 28 October 2016.
+^ McConnell, Dylan; Pears, Alan. "FactCheck: does coal-fired power cost $79/kWh and wind power $1502/kWh?". The Conversation. The Conversation Media Group Ltd. Retrieved 28 October 2016.
+^ a b "Levelized cost of electricity renewable energy technologies" (PDF). Fraunhofer ISE. 2013. Retrieved 6 May 2014.
+^ Johnston, Eric, "Son's quest for sun, wind has nuclear interests wary", Japan Times, 12 July 2011, p. 3.
+^ Bird, Winifred, "Powering Japan's future", Japan Times, 24 July 2011, p. 7.
+^ Johnston, Eric, "Current nuclear debate to set nation's course for decades", Japan Times, 23 September 2011, p. 1.[dead link]
+^ "Institution of Engineers and Shipbuilders in Scotland report" (PDF). Retrieved 2012-09-04.
+^ "Institution of Engineers and Shipbuilders in Scotland data". Iesisenergy.org. Retrieved 2012-09-04.
+^ Electricity Market Reform  Delivery Plan Department of Energy and Climate Change, December 2013
+^ Carsten Volkery: Kooperation mit China: Grobritannien baut erstes Atomkraftwerk seit Jahrzehnten, In: Spiegel Online vom 21. Oktober 2013.
+^ a b "Mott MacDonald study released by DECC in June 2010" (PDF). Retrieved 2012-09-04.
+^ Ove Arup & Partners Ltd (October 2011). "Review of the generation costs and deployment potential of renewable electricity technologies in the UK" (PDF). London: Department of Energy and Climate Change. Retrieved 16 February 2012.
+^ "UK nuclear power plant gets go-ahead". BBC News. 21 October 2013.
+^ Roland Gribben and Denise Roland (21 October 2013). "Hinkley Point nuclear power plant to create 25,000 jobs, says Cameron". London: Daily Telegraph.
+^ "Powering the Nation". Parsons Brinckerhoff. 2010. Retrieved 16 February 2012.
+^ "U.S. Energy Information Administration (EIA) - Source". www.eia.gov. Retrieved 2015-11-02.
+^ U.S. Energy Information Administration (EIA) - Source
+^ "New Report: Renewable Energy and Energy Efficiency Will Grow, Provide Options for Clean Power Plan Compliance Based on Cost CompetitivenessOfficial Projections Fail to Capture Market Realities, Skewing Policy Considerations". PR newswire. 22 June 2015.
+^ a b c US Energy Information Administration, Levelized cost and levelized avoided cost of new generation resources in the Annual Energy Outlook 2015, 14 April 2015
+^ US Energy Information Administration, 2016 Levelized cost of new generation resources in the Annual Energy Outlook 2010, 26 April 2010
+^ US Energy Information Administration, Levelized cost of new generation resources in the Annual Energy Outlook 2011, 26 April 2011
+^ US Energy Information Administration, Levelized cost of new generation resources in the Annual Energy Outlook 2012, 12 July 2012
+^ US Energy Information Administration, Levelized cost of new generation resources in the Annual Energy Outlook 2013, 28 Jan. 2013
+^ US Energy Information Administration, Levelized cost and levelized avoided cost of new generation resources in the Annual Energy Outlook 2014, 17 April 2014
+^ Levelized cost and levelized avoided cost of new generation resources, US Energy Information Administration, Annual Energy Audit 2016, 5 Aug. 2016.
+^ OpenEI Transparent Cost Database. Accessed 06/19/2015.
+^ http://www.energy.ca.gov/2014publications/CEC-200-2014-003/CEC-200-2014-003-SF.pdf
+^ a b [1] November 2014
+^ Solar and Wind Outshine Fossil Fuels November 2014
+^ a b https://www.lazard.com/media/2391/lazards-levelized-cost-of-storage-analysis-10.pdf
+^ IEA and NEA (2015). Projected costs of generating electricity: 2015 edition  Executive summary (PDF). Paris, France: International Energy Agency (IEA), Nuclear Energy Agency (NEA), and Organization for Economic Co-operation and Development (OECD). Retrieved 2016-11-08. CS1 maint: Uses authors parameter (link)
+^ IEA and NEA (2015). Projected costs of generating electricity: 2015 edition. Paris, France: International Energy Agency (IEA), Nuclear Energy Agency (NEA), and Organization for Economic Co-operation and Development (OECD). ISBN978-92-64-24443-6. CS1 maint: Uses authors parameter (link)
+^ Buffett strikes cheapest electricity price in US with Nevada solar farm July 2015
+^ "MESIA und DEWA melden Rekordgebot bei Photovoltaik-Ausschreibung: 0,0299 USD/kWh Solarstrom" (in German). solarserver.de. 2016-05-01. p.1. Retrieved 2016-05-11.
+^ a b c "System effects in low carbon energy systems" (PDF). OECD, NEA. 2012-11-29. Retrieved 2013-04-04.
+^ environmentalresearchweb.org - Nuclear and renewables: back-up and grid costs
+^ VTT Technical Research Centre of Finland - Note for wind energy grid level system costs published by NEA 2012 report
+^ a b Lennart Sder (2012-12-20). "Nuclear Energy and Renewables: System Effects in Lowcarbon Electricity Systems  Method comments to a NEA report" (PDF). Swedish Royal Institute of Technology. Retrieved 13 March 2015.
+^ Economist magazine article "Sun, wind and drain Wind and solar power are even more expensive than is commonly thought Jul 26th 2014"
+^ THE NET BENEFITS OF LOW AND NO-CARBON ELECTRICITY TECHNOLOGIES. MAY 2014, Charles Frank PDF
+^ a b "Renewable and non-renewable exergy cost and specific CO2 emission of electricity generation: The Brazilian case". Energy Conversion and Management. 85: 619629. doi:10.1016/j.enconman.2014.04.058.
+^ "Solar Photovoltaics Competing in the Energy SectorOn the road to competitiveness" (PDF). European Photovoltaic Industry Association. September 2011. p.18. Archived from the original (PDF) on February 26, 2013. Retrieved March 2015. Check date values in: |access-date= (help)
+^ "Price Quotes". http://pv.energytrend.com/. Archived from the original on 26 June 2014. Retrieved 26 June 2014. External link in |website= (help)
+^ "Sunny Uplands: Alternative energy will no longer be alternative". The Economist. 21 November 2012. Retrieved 2012-12-28.
+^ Ken Wells (October 25, 2012), "Solar Energy Is Ready. The U.S. Isn't", Bloomberg Businessweek, businessweek.com, retrieved November 1, 2012
+^ Utilities Honest Assessment of Solar in the Electricity Supply
+^ "Renewables Investment Breaks Records". Renewable Energy World. 29 August 2011.
+^ Renewable energy costs drop in '09 Reuters, November 23, 2009.
+^ Solar Power 50% Cheaper By Year End  Analysis Reuters, November 24, 2009.
+^ Arno Harris (31 August 2011). "A Silver Lining in Declining Solar Prices". Renewable Energy World.
+^ "NV Energy buys utility-scale solar at record low price under 4 cents/kWh". Retrieved 23 July 2015.
+^ New Record Set for World's Cheapest Solar, Now Undercutting Coal (2.99 cents/kWh United Arab Emirates, easily besting coal, which came in at 4.501 cents per kilowatt-hour under a 25-year power purchase agreement, with chart of solar prices in 2015 to May, 2016)
+^ Solar Cost Hits World's New Low, Half the Price of Coal
+^ Abu Dhabi confirms USD 24.2/MWh bid in solar tender
+^ John Quiggin (January 3, 2012). "The End of the Nuclear Renaissance |". National Interest.
+^ Converting Solar Energy into the PHEV Battery "VerdeL3C.com", May 2009
+^ Mundada, Aishwarya; Shah, Kunal; Pearce, Joshua M. (2016). "Levelized cost of electricity for solar photovoltaic, battery and cogen hybrid systems". Renewable and Sustainable Energy Reviews. 57: 692703. doi:10.1016/j.rser.2015.12.084.
+^ Shah, Kunal K.; Mundada, Aishwarya S.; Pearce, Joshua M. (2015). "Performance of U.S. hybrid distributed energy systems: Solar photovoltaic, battery and combined heat and power". Energy Conversion and Management. 105: 7180. doi:10.1016/j.enconman.2015.07.048.
+^ Lantz, E.; Hand, M. and Wiser, R. (1317 May 2012) "The Past and Future Cost of Wind Energy," National Renewable Energy Laboratory conference paper no. 6A20-54526, p. 4
+^ Helming, Troy (2004) "Uncle Sam's New Year's Resolution" ArizonaEnergy.org
+^ "LBNL/NREL Analysis Predicts Record Low LCOE for Wind Energy in 20122013". US Department of Energy Wind Program Newsletter. 24 February 2012. Retrieved 10 March 2012.
+^ Salerno, E., AWEA Director of Industry and Data Analysis, as quoted in Shahan, Z. (2011) Cost of Wind Power Kicks Coal's Butt, Better than Natural Gas (& Could Power Your EV for $0.70/gallon)" CleanTechnica.com
+^ Danielson, David (14 August 2012). "A Banner Year for the U.S. Wind Industry". Whitehouse Blog.
+^ Diane Cardwell (20 March 2014). "Wind Industry's New Technologies Are Helping It Compete on Price". New York Times.
+^ "Europe's biggest and cheapest onshore wind project". norwea.no. 2016-06-07. Retrieved 2016-08-21.
+^ "Vattenfall wins tender to build the largest wind farm in the Nordics". corporate.vattenfall.com. Retrieved 17 November 2016.
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+v
+t
+e
+Human impact on the environment
+General
+Anthropocene
+Environmental issues
+Human impact
+Impact assessment
+List of issues
+Planetary boundaries
+Causes
+Agriculture
+fishing
+irrigation
+meat production
+palm oil
+Energy industry
+biodiesel
+coal
+electricity generation
+nuclear power
+oil shale
+petroleum
+reservoirs
+wind power
+Manufacturing
+cleaning agents
+concrete
+nanotechnology
+paint
+paper
+pesticides
+pharmaceuticals and personal care
+Transport
+aviation
+roads
+shipping
+Other
+land use
+mining
+genetic pollution
+human overpopulation
+overexploitation
+particulates
+pollution
+war
+Effects
+Biodiversity threats
+Climate change
+Deforestation
+Desertification
+Ecocide
+Erosion
+Coral reefs
+Freshwater cycle
+Global warming
+Habitat destruction
+Holocene extinction
+Nitrogen cycle
+Land degradation
+Land surface effects on climate
+Phosphorus cycle
+Ocean acidification
+Ozone depletion
+Runaway climate change
+Mitigation
+Birth control
+Cleaner production
+Climate change mitigation
+Climate engineering
+Ecological engineering
+Environmental engineering
+Environmental mitigation
+Industrial ecology
+Mitigation banking
+Organic farming
+Reforestation
+urban
+Restoration ecology
+Sustainable consumption
+Waste minimization
+Commons
+Category
+by country
+assessment
+mitigation
+NewPP limit report
+Parsed by mw1303
+Cached time: 20161120175848
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.748 seconds
+Real time usage: 1.095 seconds
+Preprocessor visited node count: 4767/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 157428/2097152 bytes
+Template argument size: 8697/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 10/500
+Lua time usage: 0.301/10.000 seconds
+Lua memory usage: 8.9 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+893.400
+1 - -total
+34.33%
+306.663
+1 - Template:Reflist
+16.42%
+146.652
+1 - Template:Convert
+15.65%
+139.774
+27 - Template:Cite_web
+13.57%
+121.244
+8 - Template:Fix
+11.50%
+102.781
+1 - Template:Cost_of_energy_sources
+10.99%
+98.168
+5 - Template:Citation_needed
+7.92%
+70.714
+8 - Template:Delink
+5.69%
+50.831
+4 - Template:Longitem
+5.55%
+49.547
+14 - Template:Category_handler
+Saved in parser cache with key enwiki:pcache:idhash:24400357-0!*!0!!en!4!*!math=5 and timestamp 20161120175847 and revision id 750586137
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Cost_of_electricity_by_source&oldid=750586137"
+Categories: Modern economic historyElectricity economicsEconomics comparisonsHidden categories: Webarchive template wayback linksAll articles with dead external linksArticles with dead external links from June 2016CS1 maint: Uses authors parameterCS1 German-language sources (de)CS1 errors: datesCS1 errors: external linksPages using ISBN magic linksAll articles with unsourced statementsArticles with unsourced statements from July 2015Articles needing more detailed referencesArticles with unsourced statements from November 2014Vague or ambiguous time from October 2014Articles with unsourced statements from February 2014Wikipedia articles in need of updating from July 2015All Wikipedia articles in need of updatingArticles with unsourced statements from July 2016Wikipedia articles in need of updating from July 2016Articles containing potentially dated statements from 2012All articles containing potentially dated statements

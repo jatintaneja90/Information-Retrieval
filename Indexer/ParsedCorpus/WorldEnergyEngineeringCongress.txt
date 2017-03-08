@@ -1,0 +1,26 @@
+WorldEnergyEngineeringCongress
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}The World Energy Engineering Congress (WEEC) is an international energy industry conference and exposition hosted annually by the Association of Energy Engineers.[1]
+Professionals in the field of energy engineering from around the world convene annually at the WEEC to discuss energy-related issues and technology such as:
+Energy efficiency and energy management
+Renewable, green, and alternative energy
+Combined heat and power, cogeneration, and distributed generation
+Integrated building automation and energy management
+Lighting efficiency
+HVAC systems and controls
+Thermal storage and load management
+Boilers and combustion controls
+Geoexchange technologies
+Solar and fuel cell technologies
+Applications specific to federal emergency management programs
+Energy services and project financing
+References[edit]
+^ "Association of Energy Engineers". Archived from the original on January 12, 2010. Retrieved 2010-10-21.
+External links[edit]
+Official website
+energy.gov
+aeecenter.org
+Saved in parser cache with key enwiki:pcache:idhash:29294040-0!*!0!!*!*!* and timestamp 20161105042445 and revision id 739231230
+Retrieved from "https://en.wikipedia.org/w/index.php?title=World_Energy_Engineering_Congress&oldid=739231230"
+Categories: Engineering organizations

@@ -1,0 +1,90 @@
+Urbandensity
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Urban density is a term used in urban planning and urban design to refer to the number of people inhabiting a given urbanized area. As such it is to be distinguished from other measures of population density. Urban density is considered an important factor in understanding how cities function. Research related to urban density occurs across diverse areas, including economics, health, innovation, psychology and geography as well as sustainability.
+Contents
+1 Sustainability
+2 Measurement
+3 See also
+4 References
+5 Further reading
+6 External links
+Sustainability[edit]
+A graph showing the relationship between urban density and petrol use.
+It is commonly asserted that higher density cities are more sustainable than low density cities. Much urban planning theory, particularly in North America, the UK, Australia and New Zealand has been developed premised on raising urban densities, such as New Urbanism, Transit-oriented development, and Smart growth.[citation needed]
+However, the link between urban density and aspects of sustainability remains a contested area of planning theory[citation needed].[1] Jan Gehl, prominent Urban Designer and expert on sustainable urbanism, argues that low-density, dispersed cities are unsustainable as they are automobile dependent. A minority, such as Randy O'Toole of the Libertarian Cato Institute, counter that raising densities results in more expensive real estate, greater road congestion and more localized air pollution. Others counter that traffic congestion is a result not of population density but of parking capacity.[2] At a broader level, there is evidence to indicate a strong negative correlation between the total energy consumption of a city and its overall urban density, i.e. the lower the density, the more energy consumed.[3]
+Measurement[edit]
+Urban density is a very specific measurement of the population of an urbanized area, excluding non-urban land-uses. Non-urban uses include regional open space, agriculture and water-bodies.
+There are a variety of other ways of measuring the density of urban areas:
+Floor area ratio - the total floor area of buildings divided by land area of the lot upon which the buildings are built
+Residential density - the number of dwelling units in any given area
+Population density - the number of human persons in any given area
+employment density - the number of jobs in any given area
+Gross density - any density figure for a given area of land that includes uses not necessarily directly relevant to the figure (usually roads and other transport infrastructure)
+Net density - a density figure for a given area of land that excludes land not directly related to the figure.
+Weighted density - a density metric which measures the density at which the average citizen lives. It is determined by calculating the standard density of each census tract, assigning each a weight equal to its share of the total population, and then adding the segments.
+See also[edit]
+List of cities proper by population density
+Transportation planning
+Urban sprawl
+Verticalization
+References[edit]
+^ Jones, Christopher (Energy and Resources Group, Goldman School of Public Policy, and Department of Nuclear Engineering, University of California, Berkeley, California 94720, United States Environ. Sci. Technol., 2014, 48 (2), pp 895902). "Spatial Distribution of U.S. Household Carbon Footprints Reveals Suburbanization Undermines Greenhouse Gas Benefits of Urban Population Density". Environmental Science and Technology. doi:10.1021/es4034364. Retrieved December 13, 2013. line feed character in |date= at position 170 (help); Check date values in: |date= (help)
+^ Jacobsen, Shaun (2014-01-14). "More density does not equal more [car] traffic". Transitized. ...tall buildings dont create traffic. Cars create traffic. If we want less [automobile] traffic on the streets, we need to build less capacity for them, including parking.
+^ Newman, Peter; Jeffrey R. Kenworthy (1999). Sustainability and Cities: Overcoming Automobile Dependence. Island Press. ISBN1-55963-660-2.
+Further reading[edit]
+Newman, P and Kenworthy, J (1999) Cities and Sustainability: Overcoming automobile dependence, Washington, D. C.: Island Press ISBN 1-55963-660-2
+Pont, Meta Y. Berghauser and Haupt, Per (2010) Spacematrix: Space, Density and Urban Form, NAi Publishers, ISBN 9789056627423
+Dovey, Kim and Pafka, Elek (2014) "The urban density assemblage: Modelling multiple measures" in Urban Design International, vol.19, nr. 1, pg.66-76
+External links[edit]
+MIT Density Atlas
+Urban Density and Energy Consumption
+NewPP limit report
+Parsed by mw1273
+Cached time: 20161118034420
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.132 seconds
+Real time usage: 0.162 seconds
+Preprocessor visited node count: 544/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 11595/2097152 bytes
+Template argument size: 1114/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 2.13 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+145.907
+1 - -total
+52.87%
+77.138
+2 - Template:Citation_needed
+44.86%
+65.448
+1 - Template:Reflist
+40.04%
+58.421
+2 - Template:Fix
+25.88%
+37.755
+1 - Template:Cite_journal
+21.62%
+31.541
+4 - Template:Category_handler
+15.57%
+22.717
+2 - Template:Delink
+9.49%
+13.844
+1 - Template:Cite_web
+5.90%
+8.606
+1 - Template:Date
+3.20%
+4.669
+1 - Template:Cite_book
+Saved in parser cache with key enwiki:pcache:idhash:11021342-0!*!0!!en!4!* and timestamp 20161118034420 and revision id 749122872
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Urban_density&oldid=749122872"
+Categories: Sustainable urban planningHidden categories: CS1 errors: invisible charactersCS1 errors: datesAll articles with unsourced statementsArticles with unsourced statements from November 2014Pages using ISBN magic links

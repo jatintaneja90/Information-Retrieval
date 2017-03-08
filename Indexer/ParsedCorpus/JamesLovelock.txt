@@ -1,0 +1,372 @@
+JamesLovelock
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article contains too many or too-lengthy quotations for an encyclopedic entry. Please help improve the article by editing it to take facts from excessively quoted material and rewrite them as sourced original prose. Consider transferring direct quotations to Wikiquote. (August 2015)
+James Lovelock
+Lovelock in 2005
+Born
+James Ephraim Lovelock
+(1919-07-26) 26 July 1919 (age97)
+Letchworth, Hertfordshire, England, UK
+Residence
+England, UK
+Nationality
+British
+Fields
+Chemistry, earth science
+Institutions
+Independent scientist
+Yale University
+Baylor College of Medicine
+Harvard University
+Harvard Medical School[1]
+Alma mater
+University of Manchester (BSc)
+London School of Hygiene & Tropical Medicine (PhD)
+Thesis
+The properties and use of aliphatic and hydroxy carboxylic acids in aerial disinfection(1947)
+Knownfor
+Electron capture detector
+Gaia hypothesis
+Notable awards
+FRS (1974)[2]
+Tswett Medal (1975)
+FACS (1980)
+WMO Norbert Gerbier Prize (1988)
+Dr A.H. Heineken Prize for the Environment (1990)
+CBE (1990)
+Volvo Environment Prize (1996)
+CH (2003)
+Wollaston Medal (2006)[3]
+Arne Naess Chair in Global Justice and the Environment (2007) [4]
+Website
+www.jameslovelock.org
+James Ephraim Lovelock CH CBE FRS[2] (born 26 July 1919) is an independent scientist, environmentalist and futurist who lives in Devon, England. He is best known for proposing the Gaia hypothesis, which postulates that the Earth functions as a self-regulating system.[5]
+Contents
+1 Biography
+2 Career
+2.1 CFCs
+2.2 Gaia
+2.3 Nuclear power
+2.4 Climate
+2.4.1 Geoengineering (climate engineering)
+2.4.2 Sustainable retreat
+3 Awards and honours
+4 Bibliography
+5 Portraits of Lovelock
+6 See also
+7 References
+8 External links
+8.1 Interviews
+Biography[edit]
+James Lovelock was born in Letchworth Garden City in Hertfordshire, England, to working class parents who were strong believers in education. Nell, his mother, started work at 13 in a pickle factory. His father, Tom, had served six months hard labour for poaching in his teens and was illiterate until attending technical college. The family moved to London where Lovelock's dislike of authority made him, by his own account, an unhappy pupil at Strand School.[6] Lovelock could not afford to go to university after school, something which he believes helped prevent him becoming over-specialised and aided the development of Gaia theory. He worked at a photography firm, attending Birkbeck College during the evenings, before being accepted to study chemistry at the University of Manchester, where he was a student of the Nobel Prize laureate Professor Alexander Todd.[7] Lovelock worked at a Quaker farm before a recommendation from his professor led to him taking up a Medical Research Council post,[1] working on ways of shielding soldiers from burns. Lovelock refused to use the shaved and anaesthetised rabbits that were used as burn victims, and exposed his own skin to heat radiation instead, an experience he describes as "exquisitely painful".[8] His student status enabled temporary deferment of military service during the Second World War, but he registered as a conscientious objector.[9] He later abandoned this position in the light of Nazi atrocities, and tried to enlist in the armed forces, but was told that his medical research was too valuable for the enlistment to be approved.[10] In 1948 Lovelock received a PhD[11] degree in medicine at the London School of Hygiene and Tropical Medicine. In the United States, he has conducted research at Yale, Baylor College of Medicine, and Harvard University.[1]
+Career[edit]
+James Lovelock around 1960
+A lifelong inventor, Lovelock has created and developed many scientific instruments, some of which were designed for NASA in its program of planetary exploration. It was while working as a consultant for NASA that Lovelock developed the Gaia Hypothesis, for which he is most widely known. He also claims to have invented the microwave oven.[12]
+In early 1961, Lovelock was engaged by NASA to develop sensitive instruments for the analysis of extraterrestrial atmospheres and planetary surfaces. The Viking program, that visited Mars in the late 1970s, was motivated in part to determine whether Mars supported life, and many of the sensors and experiments that were ultimately deployed aimed to resolve this issue. During work on a precursor of this program, Lovelock became interested in the composition of the Martian atmosphere, reasoning that many life forms on Mars would be obliged to make use of it (and, thus, alter it). However, the atmosphere was found to be in a stable condition close to its chemical equilibrium, with very little oxygen, methane, or hydrogen, but with an overwhelming abundance of carbon dioxide. To Lovelock, the stark contrast between the Martian atmosphere and chemically dynamic mixture of that of the Earth's biosphere was strongly indicative of the absence of life on the planet.[13] However, when they were finally launched to Mars, the Viking probes still searched (unsuccessfully) for extant life there.
+Electron capture detector developed by Lovelock, and in the Science Museum, London
+Lovelock invented the electron capture detector, which ultimately assisted in discoveries about the persistence of CFCs and their role in stratospheric ozone depletion.[14][15][16] After studying the operation of the Earth's sulphur cycle,[17] Lovelock and his colleagues, Robert Jay Charlson, Meinrat Andreae and Stephen G. Warren developed the CLAW hypothesis as a possible example of biological control of the Earth's climate.[18]
+Lovelock was elected a Fellow of the Royal Society in 1974. He served as the president of the Marine Biological Association (MBA) from 1986 to 1990, and has been an Honorary Visiting Fellow of Green Templeton College, Oxford (formerly Green College, Oxford) since 1994. He has been awarded a number of prestigious prizes including the Tswett Medal (1975), an American Chemical Society chromatography award (1980), the World Meteorological Organization Norbert Gerbier Prize (1988), the Dr A.H. Heineken Prize for the Environment (1990) and the Royal Geographical Society Discovery Lifetime award (2001). In 2006 he received the Wollaston Medal, the Geological Society's highest Award, whose previous recipients include Charles Darwin [2]. He became a Commander of the Order of the British Empire CBE in 1990, and a member of the Companions of Honour in 2003. He is a patron of population concern charity Population Matters.
+As an independent scientist, inventor, and author, Lovelock worked out of a barn-turned-laboratory he called his "experimental station" located in a wooded valley on the Devon/Cornwall border in the south-west of England.[19]
+On 8 May 2012, he appeared on the Radio Four series "The Life Scientific", talking to Jim al-Khalili about the Gaia hypothesis. On the program, he mentioned how his ideas had been received by various people, including Jonathan Porritt. He also mentioned how he had a claim for inventing the microwave oven. He later explained this claim in an interview with The Manchester Magazine. Lovelock said that he did create an instrument during his time studying causes of damage to living cells and tissue, which had, according to him, "almost everything you would expect in an ordinary microwave oven". He invented the instrument for the purpose of heating up frozen hamsters in a way that caused less suffering to the animals, as opposed to the traditional way which involved putting red hot spoons on the animals' chest to heat them up. He believes that at the time, nobody had gone that far and made an embodiment of an actual microwave oven. However, he does not claim to have been the first person to have the idea of using microwaves for cooking.[20]
+CFCs[edit]
+Reconstructed time-series of atmospheric concentrations of CFC-11.[21]
+Main article: Free radical halogenation
+After the development of his electron capture detector, in the late 1960s, Lovelock was the first to detect the widespread presence of CFCs in the atmosphere.[14] He found a concentration of 60 parts per trillion of CFC-11 over Ireland and, in a partially self-funded research expedition in 1972, went on to measure the concentration of CFC-11 from the northern hemisphere to the Antarctic aboard the research vessel RRS Shackleton.[15][22] He found the gas in each of the 50 air samples that he collected but, not realising that the breakdown of CFCs in the stratosphere would release chlorine that posed a threat to the ozone layer, concluded that the level of CFCs constituted "no conceivable hazard".[22] He has since stated that he meant "no conceivable toxic hazard".
+However, the experiment did provide the first useful data on the ubiquitous presence of CFCs in the atmosphere. The damage caused to the ozone layer by the photolysis of CFCs was later discovered by Sherwood Rowland and Mario Molina. After hearing a lecture on the subject of Lovelock's results,[23] Sherwood and Molina embarked on research that resulted in the first published paper that suggested a link between stratospheric CFCs and ozone depletion in 1974 (for which they later shared the 1995 Nobel Prize in Chemistry with Paul Crutzen).[24]
+Gaia[edit]
+Further information: Gaia hypothesis
+First formulated by Lovelock during the 1960s as a result of work for NASA concerned with detecting life on Mars,[13] the Gaia hypothesis proposes that living and non-living parts of the Earth form a complex interacting system that can be thought of as a single organism.[25][26] Named after the Greek goddess Gaia at the suggestion of novelist William Golding,[22] the hypothesis postulates that the biosphere has a regulatory effect on the Earth's environment that acts to sustain life.
+While the Gaia hypothesis was readily accepted by many in the environmentalist community, it has not been widely accepted within the scientific community. Among its most prominent critics are the evolutionary biologists Richard Dawkins, Ford Doolittle, and Stephen Jay Gould  notable, given the diversity of this trio's views on other scientific matters. These (and other) critics have questioned how natural selection operating on individual organisms can lead to the evolution of planetary-scale homeostasis.[27]
+In response to this  together with Andrew Watson  Lovelock published the computer model Daisyworld in 1983, that postulated a hypothetical planet orbiting a star whose radiant energy is slowly increasing or decreasing.[28] In the non-biological case, the temperature of this planet simply tracks the energy received from the star. However, in the biological case, ecological competition between "daisy" species with different albedo values produces a homeostatic effect on global temperature. When energy received from the star is low, black daisies proliferate since they absorb a greater fraction of the heat, while when energy input is high, white daisies are competitively advantaged since they reflect excess heat away. As the daisies, white and black, affect the planet's overall albedo and temperature, changes in their relative populations act to stabilise the planet's climate and to keep temperature within an optimal range despite changes in energy from the star. Lovelock argued that Daisyworld, although a parable, illustrates how conventional natural selection operating on individual organisms can still produce planetary-scale homeostasis.
+In Lovelock's 2006 book, The Revenge of Gaia, he argues that the lack of respect humans have had for Gaia, through the damage done to rainforests and the reduction in planetary biodiversity, is testing Gaia's capacity to minimize the effects of the addition of greenhouse gases in the atmosphere. This eliminates the planet's negative feedbacks and increases the likelihood of homeostatic positive feedback potential associated with runaway global warming. Similarly the warming of the oceans is extending the oceanic thermocline layer of tropical oceans into the Arctic and Antarctic waters, preventing the rise of oceanic nutrients into the surface waters and eliminating the algal blooms of phytoplankton on which oceanic food chains depend. As phytoplankton and forests are the main ways in which Gaia draws down greenhouse gases, particularly carbon dioxide, taking it out of the atmosphere, the elimination of this environmental buffering will see, according to Lovelock, most of the earth becoming uninhabitable for humans and other life-forms by the middle of this century, with a massive extension of tropical deserts. (In 2012, Lovelock distanced himself from these conclusions, saying he had "gone too far" in describing the consequences of climate change over the next century in this book.[29])
+In his 2009 book, "The Vanishing Face of Gaia",[30] he rejects scientific modelling that disagrees with the scientific findings that sea levels are rising faster, and Arctic ice is melting faster, than the models predict and he suggests that we may already be beyond the tipping point of terrestrial climate resilience into a permanently hot state. Given these conditions, Lovelock expects human civilization will be hard pressed to survive. He expects the change to be similar to the Paleocene-Eocene Thermal Maximum when atmospheric concentration of CO2 was 450 ppm. At that point the Arctic Ocean was 23C and had crocodiles in it,[31][32] with the rest of the world mostly scrub and desert.[citation needed][dubious  discuss]
+Nuclear power[edit]
+Lovelock has become concerned about the threat of global warming from the greenhouse effect. In 2004 he caused a media sensation when he broke with many fellow environmentalists by pronouncing that "only nuclear power can now halt global warming". In his view, nuclear energy is the only realistic alternative to fossil fuels that has the capacity to both fulfill the large scale energy needs of humankind while also reducing greenhouse emissions. He is an open member of Environmentalists for Nuclear Energy.
+In 2005, against the backdrop of renewed UK government interest in nuclear power, Lovelock again publicly announced his support for nuclear energy, stating, "I am a Green, and I entreat my friends in the movement to drop their wrongheaded objection to nuclear energy".[33] Although these interventions in the public debate on nuclear power are recent, his views on it are longstanding. In his 1988 book The Ages of Gaia he states:
+"I have never regarded nuclear radiation or nuclear power as anything other than a normal and inevitable part of the environment. Our prokaryotic forebears evolved on a planet-sized lump of fallout from a star-sized nuclear explosion, a supernova that synthesised the elements that go to make our planet and ourselves."[22]
+In The Revenge of Gaia[34] (2006), where he puts forward the concept of sustainable retreat, Lovelock writes:
+"A television interviewer once asked me, 'But what about nuclear waste? Will it not poison the whole biosphere and persist for millions of years?' I knew this to be a nightmare fantasy wholly without substance in the real world... One of the striking things about places heavily contaminated by radioactive nuclides is the richness of their wildlife. This is true of the land around Chernobyl, the bomb test sites of the Pacific, and areas near the United States' Savannah River nuclear weapons plant of the Second World War. Wild plants and animals do not perceive radiation as dangerous, and any slight reduction it may cause in their lifespans is far less a hazard than is the presence of people and their pets... I find it sad, but all too human, that there are vast bureaucracies concerned about nuclear waste, huge organisations devoted to decommissioning power stations, but nothing comparable to deal with that truly malign waste, carbon dioxide."
+Climate[edit]
+Main articles: Climate change and Global warming
+Writing in the British newspaper The Independent in January 2006, Lovelock argued that, as a result of global warming, "billions of us will die and the few breeding pairs of people that survive will be in the Arctic where the climate remains tolerable" by the end of the 21st century.[35] He has been quoted in The Guardian that 80% of humans will perish by 2100 AD, and this climate change will last 100,000 years. According to James Lovelock, by 2040, the world population of more than six billion will have been culled by floods, drought and famine. Indeed, "[t]he people of Southern Europe, as well as South-East Asia, will be fighting their way into countries such as Canada, Australia and Britain".[36]
+"By 2040, parts of the Sahara desert will have moved into middle Europe. We are talking about Paris  as far north as Berlin. In Britain we will escape because of our oceanic position."[36]
+"If you take the Intergovernmental Panel on Climate Change predictions, then by 2040 every summer in Europe will be as hot as it was in 2003  between 110F and 120F. It is not the death of people that is the main problem, it is the fact that the plants can't grow there will be almost no food grown in Europe."[36]
+"We are about to take an evolutionary step and my hope is that the species will emerge stronger. It would be hubris to think humans as they now are God's chosen race."[36]
+He further predicted, the average temperature in temperate regions would increase by as much as 8C and by up to 5C in the tropics, leaving much of the world's land uninhabitable and unsuitable for farming, with northerly migrations and new cities created in the Arctic. He predicted much of Europe will have become uninhabitable having turned to desert and Britain will have become Europe's "life-raft" due to its stable temperature caused by being surrounded by the ocean. He suggested that "we have to keep in mind the awesome pace of change and realise how little time is left to act, and then each community and nation must find the best use of the resources they have to sustain civilisation for as long as they can".[35]
+He partly retreated from this position in a September 2007 address to the World Nuclear Association's Annual Symposium, suggesting that climate change would stabilise and prove survivable, and that the Earth itself is in "no danger" because it would stabilise in a new state. Life, however, might be forced to migrate en masse to remain in habitable climes.[37] In 2009, he became a patron of Population Matters (formerly known as the Optimum Population Trust), which campaigns for a gradual decline in the global human population to a sustainable level.[38]
+In a March 2010 interview with The Guardian newspaper, he said that democracy might have to be "put on hold" to prevent climate change.[39] He continued:
+"Even the best democracies agree that when a major war approaches, democracy must be put on hold for the time being. I have a feeling that climate change may be an issue as severe as a war. It may be necessary to put democracy on hold for a while."
+Statements from 2012 portray Lovelock as continuing his concern over global warming while at the same time criticizing extremism and suggesting alternatives to oil, coal and the green solutions he does not support.[29]
+In an April 2012 interview, aired on MSNBC, Lovelock stated that he had been "alarmist", using the words All right, I made a mistake, about the timing of climate change and noted the documentary An Inconvenient Truth and the book The Weather Makers as examples of the same kind of alarmism. Lovelock still believes the climate to be warming although the rate of change is not as he once thought, he admitted that he had been extrapolating too far." He believes that climate change is still happening, but it will be felt farther in the future.[29] Of the claims the science is settled on global warming he states:[40]
+"One thing that being a scientist has taught me is that you can never be certain about anything. You never know the truth. You can only approach it and hope to get a bit nearer to it each time. You iterate towards the truth. You dont know it."[40]
+He criticizes environmentalists for treating global warming like a religion.[40]
+It just so happens that the green religion is now taking over from the Christian religion, Lovelock observed
+I dont think people have noticed that, but its got all the sort of terms that religions use  The greens use guilt. That just shows how religious greens are. You cant win people round by saying they are guilty for putting (carbon dioxide) in the air.[40]
+In the MSNBC article Lovelock is quoted as proclaiming:[29]
+"The problem is we don't know what the climate is doing. We thought we knew 20 years ago. That led to some alarmist books  mine included  because it looked clear-cut, but it hasnt happened;" he continues
+"The climate is doing its usual tricks. Theres nothing much really happening yet. We were supposed to be halfway toward a frying world now," he said
+The world has not warmed up very much since the millennium. Twelve years is a reasonable time ... it (the temperature) has stayed almost constant, whereas it should have been rising - carbon dioxide is rising, no question about that", he added.[29]
+In a follow up interview Lovelock stated his support for natural gas; he now favors fracking as a low-polluting alternative to coal.[19][40] He opposes the concept of "sustainable development", where modern economies might be powered by wind turbines, calling it meaningless drivel.[40][41] He keeps a poster of a wind turbine to remind himself how much he detests them.[19]
+Geoengineering (climate engineering)[edit]
+In September 2007, Lovelock and Chris Rapley proposed the construction of ocean pumps to pump water up from below the thermocline to "fertilize algae in the surface waters and encourage them to bloom".[42] The basic idea was to accelerate the transfer of carbon dioxide from the atmosphere to the ocean by increasing primary production and enhancing the export of organic carbon (as marine snow) to the deep ocean. A scheme similar to that proposed by Lovelock and Rapley is already being independently developed by a commercial company.[43]
+The proposal attracted widespread media attention[44][45][46][47] and criticism.[48][49][50] Commenting on the proposal, Corinne Le Qur, a University of East Anglia researcher, said "It doesnt make sense. There is absolutely no evidence that climate engineering options work or even go in the right direction. Im astonished that they published this. Before any geoengineering is put to work a massive amount of research is needed  research which will take 20 to 30 years".[44] Other researchers have claimed that "this scheme would bring water with high natural pCO2 levels (associated with the nutrients) back to the surface, potentially causing exhalation of CO2".[50] Lovelock subsequently said that his proposal was intended to stimulate interest and research would be the next step.[51]
+Sustainable retreat[edit]
+Sustainable retreat is a concept developed by James Lovelock in order to define the necessary changes to human settlement and dwelling at the global scale with the purpose of adapting to global warming and preventing its expected negative consequences on humans.[52]
+Lovelock thinks the time is past for sustainable development, and that we have come to a time when development is no longer sustainable. Therefore, we need to retreat. Lovelock states the following in order to explain the concept:[53]
+Retreat, in his view, means it's time to start talking about changing where we live and how we get our food; about making plans for the migration of millions of people from low-lying regions like Bangladesh into Europe; about admitting that New Orleans is a goner and moving the people to cities better positioned for the future. Most of all, he says, it's about everybody "absolutely doing their utmost to sustain civilization, so that it doesn't degenerate into Dark Ages, with warlords running things, which is a real danger. We could lose everything that way.
+The concept of sustainable retreat emphasized a pattern of resource use that aims to meet human needs with lower levels and/or less environmentally harmful types of resources.
+Awards and honours[edit]
+Lovelock was elected a Fellow of the Royal Society in 1974. His nomination reads:
+Lovelock has made distinguished contributions to several diverse fields, including a study of the transmission of respiratory infection, and methods of air sterilisation; the role of Ca and other divalent ions in blood clotting; damage to various living cells by freezing, thawing and thermal shock and its prevention by the presence of neutral solutes; methods of freezing and thawing small live animals; methods for preparing sperm for artificial insemination, which have been of major economic importance.
+He has invented a family of ionisation detectors for gas chromatography. His electron capture detectors are the most sensitive that have been made and are universally used on pollution problems for residual halogen compounds. He has many inventions, including a gas chromatograph, which will be used to investigate planetary atmospheres. His chromatographic work has led to investigation of blood lipids in various animals, including arteriosclerotic humans. He has made a study of detecting life on other planets by analysis of their atmosphere and extended this to world pollution problems. His work generally shows remarkable originality, simplicity and ingenuity.[2]
+Bibliography[edit]
+Lovelock, James (2014). A Rough Ride to the Future. Allen Lane. ISBN978-0241004760.
+Lovelock, James (2009). The Vanishing Face of Gaia: A Final Warning: Enjoy It While You Can. Allen Lane. ISBN978-1-84614-185-0.
+Lovelock, James (2006). The Revenge of Gaia: Why the Earth Is Fighting Back  and How We Can Still Save Humanity. Santa Barbara (California): Allen Lane. ISBN0-7139-9914-4.
+Lovelock, James (2005). Gaia: Medicine for an Ailing Planet. Gaia Books. ISBN1-85675-231-3.
+Lovelock, James (2001) [Gaia Books 1991]. Gaia: The Practical Science of Planetary Medicine. Oxford University Press US. ISBN0-19-521674-1.
+Lovelock, James (2000) [1979]. Gaia: A New Look at Life on Earth (3rd ed.). Oxford University Press. ISBN0-19-286218-9.
+Lovelock, James (2000). Homage to Gaia: The Life of an Independent Scientist. Oxford University Press. ISBN0-19-860429-7. (Lovelock's autobiography)
+Lovelock, James (1995) [1988]. Ages of Gaia. Oxford University Press. ISBN0-393-31239-9.
+Lovelock, James (1991). Scientists on Gaia. Cambridge, Mass., USA: MIT Press. ISBN0-262-19310-8.
+Lovelock, James; Michael Allaby (1984). The Greening of Mars. Warner Books. ISBN0-446-32967-3.
+Lovelock, James; Michael Allaby (1983). Great Extinction. Doubleday. ISBN0-385-18011-X.
+Lovelock, James; Sidney Epton (6 Feb 1975). "The Quest for Gaia". New Scientist. 65 (935): 304. Retrieved 10 April 2014.
+Portraits of Lovelock[edit]
+In March 2012 the National Portrait Gallery[54] unveiled a new portrait of Lovelock by British artist Michael Gaskell (2011). The collection also has two photographic portraits by Nick Sinclair (1993) and Paul Tozer (1994).[54] The archive of the Royal Society of Arts has a 2009 image taken by Anne-Katrin Purkiss.[55] Lovelock agreed to sit for sculptor Jon Edgar in Devon during 2007, as part of The Environment Triptych (2008)[56] along with heads of Mary Midgley and Richard Mabey. A bronze head is in the collection of the sitter and the terracotta is in the archive of the artist.[57]
+See also[edit]
+Barry Commoner
+References[edit]
+^ a b c Biography of James Lovelock, Association of Environmentalists For Nuclear Energy. Retrieved 30 October 2007
+^ a b c "Library and Archive Catalogue EC/1974/16: Lovelock, James Ephraim". London: The Royal Society. Archived from the original on 2014-04-10.
+^ "Lovelock: Wollaston Medal citation.". jameslovelock.org.
+^ http://www.sum.uio.no/research/projects/ongoing-projects/anc/about/#chairholders
+^ Ball, P. (2014). "James Lovelock reflects on Gaia's legacy". Nature. doi:10.1038/nature.2014.15017.
+^ ''Homage to Gaia''. Books.google.co.uk. 2001. ISBN9780198604297. Retrieved 2012-09-01.
+^ "From Manchester to Mars". The Manchester Magazine. Retrieved 2016-08-15.
+^ The Sunday Times,22 February 2009 [1] (retrieved on 24 May 2011)
+^ James Lovelock: The green man, Ian Irvine, The Independent, 3 December 2005. Retrieved 14 May 2008.
+^ Homage to Gaia, Oxford, 2000, p80.
+^ Lovelock, James (1947). The properties and use of aliphatic and hydroxy carboxylic acids in aerial disinfection (PhD thesis). London School of Hygiene and Tropical Medicine.(subscription required)
+^ "Lovelock: Home". Jameslovelock.org. Retrieved 2012-09-01.
+^ a b Lovelock, J. E. (1965). "A Physical Basis for Life Detection Experiments". Nature. 207 (4997): 56870. doi:10.1038/207568a0. PMID5883628.
+^ a b Lovelock, J. E. (1971). "Atmospheric Fluorine Compounds as Indicators of Air Movements". Nature. 230 (5293): 379. doi:10.1038/230379a0.
+^ a b Lovelock, J. E.; Maggs, R. J.; Wade, R. J. (1973). "Halogenated Hydrocarbons in and over the Atlantic". Nature. 241 (5386): 194. doi:10.1038/241194a0.
+^ Travels with an Electron Capture Detector, acceptance speech for Blue Planet Prize 1997
+^ Lovelock, J. E.; Maggs, R. J.; Rasmussen, R. A. (1972). "Atmospheric Dimethyl Sulphide and the Natural Sulphur Cycle". Nature. 237 (5356): 452. doi:10.1038/237452a0.
+^ Charlson, R. J.; Lovelock, J. E.; Andreae, M. O.; Warren, S. G. (1987). "Oceanic phytoplankton, atmospheric sulphur, cloud albedo and climate". Nature. 326 (6114): 655. doi:10.1038/326655a0.
+^ a b c Hickman, Leo (15 June 2012). "James Lovelock: The UK should be going mad for fracking". The Guardian (UK). Retrieved 24 June 2012.
+^ "From Manchester to Mars". The Manchester Magazine. Retrieved 2016-08-15.
+^ Walker, S. J.; Weiss, R. F.; Salameh, P. K. (2000). "Reconstructed histories of the annual mean atmospheric mole fractions for the halocarbons CFC-11 CFC-12, CFC-113, and carbon tetrachloride". Journal of Geophysical Research. 105: 14285. doi:10.1029/1999JC900273.
+^ a b c d Lovelock, J.E. (1989). The Ages of Gaia. Oxford University Press, Oxford, UK. ISBN 0-19-286090-9.
+^ F. Sherwood Rowland and Mario J. Molina (7 December 2000). "CFC-Ozone Puzzle: Lecture". Archived from the original on 16 February 2009. Retrieved 10 December 2007.
+^ The Nobel Prize in Chemistry 1995 "for ... work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone", Nobel Foundation. Retrieved 9 May 2008.
+^ Lovelock, J. (1972). "Gaia as seen through the atmosphere". Atmospheric Environment. 6 (8): 579514. doi:10.1016/0004-6981(72)90076-5.
+^ Lovelock, J. E.; Margulis, L. (1974). "Atmospheric homeostasis by and for the biosphere: The gaia hypothesis". Tellus. 26: 2. doi:10.1111/j.2153-3490.1974.tb01946.x.
+^ Dawkins, Richard (1999) [1982]. The Extended Phenotype The Long Reach of the Gene. Oxford University Press. ISBN0-19-288051-9.
+^ Watson, A.J.; J.E. Lovelock (1983). "Biological homeostasis of the global environment: the parable of Daisyworld". Tellus B. International Meteorological Institute. 35 (4): 2869. Bibcode:1983TellB..35..284W. doi:10.1111/j.1600-0889.1983.tb00031.x.
+^ a b c d e Johnston, Ian. "'Gaia' scientist James Lovelock: I was 'alarmist' about climate change". MSNBC. Archived from the original on 24 April 2012. Retrieved 12 November 2016.
+^ Lovelock, J (2009), "The Vanishing Face of Gaia" (Basic Books)
+^ Russill, C.; Nyssa, Z. (2009). "The tipping point trend in climate change communication". Global Environmental Change. 19 (3): 336. doi:10.1016/j.gloenvcha.2009.04.001.
+^ Pagani, M.; Caldeira, K.; Archer, D.; Zachos, C. (Dec 2006). "Atmosphere. An ancient carbon mystery". Science. 314 (5805): 15561557. doi:10.1126/science.1136110. ISSN0036-8075. PMID17158314.
+^ Nukes Are Green, Nicholas Kristof, The New York Times, 9 April 2005. Retrieved 4 October 2007.
+^ Lovelock, James (2006). The Revenge of Gaia. Reprinted Penguin, 2007. ISBN 978-0-14-102990-0
+^ a b The Earth is about to catch a morbid fever that may last as long as 100,000 years, James Lovelock, The Independent, 16 January 2006. Retrieved 4 October 2007.
+^ a b c d "Daily Mail  22 March 2008  We're all doomed! 40 years from global catastrophe  says climate change expert". Dailymail.co.uk. 2008-03-22. Retrieved 2012-09-01.
+^ Lovelock: "Respect the Earth", World Nuclear News, 6 September 2007. Retrieved 25 July 2009.
+^ "Gaia scientist to be OPT patron". Optimum Population Trust. 26 August 2009. Archived from the original on 28 February 2012. Retrieved 27 August 2009.
+^ "James Lovelock: Humans are too stupid to prevent climate change", 29 March 2010
+^ a b c d e f Goldstein, Lorrie (23 June 2012). "Green 'drivel' exposed". Toronto Sun. Retrieved 22 June 2012.
+^ "James Lovelock letter on wind turbines Broadbury Ridge" (PDF). The Register. 2012-12-12. Retrieved 2013-01-12.
+^ Lovelock, E.; Rapley, G. (Sep 2007). "Ocean pipes could help the Earth to cure itself". Nature. 449 (7161): 403. Bibcode:2007Natur.449..403L. doi:10.1038/449403a. ISSN0028-0836. PMID17898747.
+^ Biological Ocean Sequestration of CO2 Using Atmocean Upwelling, Atmocean. Retrieved 3 October 2007.
+^ a b Scientists propose 'plumbing' method to solve crisis of global warming, Lewis Smith, The Times, 26 September 2007. Retrieved 3 October 2007.
+^ James Lovelock's plan to pump ocean water to stop climate change, Roger Highfield, The Daily Telegraph, 26 September 2007. Retrieved 4 October 2007.
+^ Pipes hung in the sea could help planet to 'heal itself', Michael McCarthy, The Independent, 27 September 2007. Retrieved 4 October 2007.
+^ How sea tubes could slow climate change, Alok Jha, The Guardian, 27 September 2007. Retrieved 4 October 2007.
+^ Cold water on global warming plans, Phillip Williamson, The Guardian, 1 October 2007. Retrieved 4 October 2007.
+^ The last green taboo: engineering the planet, Johann Hari, The Independent, 4 October 2007. Retrieved 4 October 2007.
+^ a b Shepherd, J.; Iglesias-Rodriguez, D.; Yool, A. (2007). "Geo-engineering might cause, not cure, problems". Nature. 449 (7164): 781. doi:10.1038/449781a.
+^ Lovelock, James (2009). The Vanishing Face of Gaia: A Final Warning: Enjoy It While You Can. Allen Lane. ISBN 978-1-84614-185-0.
+^ Lovelock, James (2006). The Revenge of Gaia: Why the Earth Is Fighting Back - and How We Can Still Save Humanity. Santa Barbara, California: Allen Lane. ISBN 0-7139-9914-4.
+^ Goodell, Jeff. (2007). The Prophet of Climate Change: James Lovelock". Rolling Stone. Available from the WWW: http://www.rollingstone.com/politics/story/16956300/the_prophet_of_climate_change_james_lovelock. (page 4.)
+^ a b Portraits of James Lovelock at the National Portrait Gallery, London
+^ The RSA The RSA+ Add Contact (2009-03-10). "James Lovelock by Anne Purkiss | Flickr - Photo Sharing!". Flickr. Retrieved 2012-09-01.
+^ authors, various (2008). Responses  Carvings and Claywork  Jon Edgar Sculpture 2003-2008. UK: Hesworth Press. ISBN978-0-9558675-0-7.
+^ Edgar, Jon. "portrait of James Lovelock". Archived from the original on 24 July 2012. Retrieved 12 November 2016.
+External links[edit]
+Wikiquote has quotations related to: James Lovelock
+Wikimedia Commons has media related to James Lovelock.
+James Lovelock tells his life story at Web of Stories (video)
+"Why Gaia is wreaking revenge on our abuse of the environment": Article about Lovelock published in the 'Independent'
+"Nuclear power is the only green solution": Lovelock article published in the 'Independent'
+Listen to an oral history interview with James Lovelock, recorded for An Oral History of British Science at the British Library.
+Interviews[edit]
+Lovelock at the Guardian
+Lovelock at the BBC
+Dr. Lovelock Lectures on The Vanishing Face of Gaia Presented by Corporate Knights Magazine, 26 May 2009
+Audio: James Lovelock in conversation on the BBC World Service discussion show The Forum 1 st March 2009
+RSA Vision webcast  James Lovelock in conversation with Tim Radford the Vanishing Face of Gaia, 23 February 2009.
+Audio interview from Ideas:How to think about science, Canadian Broadcasting Corporation, 2 January 2008. (Real Audio)
+Climate Change on the Living Earth, Public lecture by James Lovelock, The Royal Society, 29 October 2007.
+The Prophet of Climate Change, Jeff Goodell, Rolling Stone, 17 October 2007.
+Radio interview with James Lovelock, KQED San Francisco, 13 September 2006.
+Creel Commission: reflections on meeting James Lovelock and a recent interview with him 26 August 2005
+v
+t
+e
+Heineken Prizes
+Biochemistry and Biophysics
+Chargaff (1964)
+Brachet (1967)
+Chance (1970)
+De Duve (1973)
+Van Deenen (1976)
+Klug (1979)
+Weissmann (1982)
+Julesz & Reichardt (1985)
+Cech (1988)
+Leder (1990)
+Borst (1992)
+Berridge (1994)
+Nurse (1996)
+Pawson (1998)
+Rothman (2000)
+Tsien (2002)
+Fire (2004)
+Jeffreys (2006)
+Szostak (2008)
+Hartl (2010)
+De Lange (2012)
+Dobson (2014)
+Doudna (2016)
+Medicine
+Lauterbur (1989)
+Van Rood (1990)
+Moncada (1992)
+Montagnier (1994)
+De Wied (1996)
+Marshall (1998)
+Kandel (2000)
+Selkoe (2002)
+Blackburn (2004)
+King (2006)
+Peto (2008)
+Steinman (2010)
+Clevers (2012)
+Alitalo (2014)
+Jackson (2016)
+Environmental Sciences
+Lovelock (1990)
+Branica (1992)
+BirdLife International (1994)
+Daly (1996)
+Ehrlich (1998)
+Harremos (2000)
+Thompson (2002)
+Levin (2004)
+Pimm (2006)
+Brunekreef (2008)
+Tilman (2010)
+Laurance (2012)
+Damst (2014)
+Mace (2016)
+History
+Gay (1990)
+Van der Wee (1992)
+Brown (1994)
+Oberman (1996)
+Ozouf (1998)
+De Vries (2000)
+Schilling (2002)
+Le Goff (2004)
+Mokyr (2006)
+Israel (2008)
+McKitterick (2010)
+Parker (2012)
+Assmann (2014)
+Herrin (2016)
+Cognitive Science
+Anderson (2006)
+Dehaene (2008)
+Tomasello (2010)
+Duncan (2012)
+McClelland (2014)
+Spelke (2016)
+Art
+Verhoef (1988)
+Bot (1990)
+C. Visser (1992)
+Rling (1994)
+Martens (1996)
+Van de Pavert (1998)
+Geelen (2000)
+Mik (2002)
+Van Golden (2004)
+Koelewijn (2006)
+B. Visser (2008)
+Manders (2010)
+Struycken (2012)
+Van Oldenborgh (2014)
+Drge Wendel (2016)
+Authority control
+WorldCat Identities
+VIAF: 85337125
+LCCN: n79074034
+GND: 122763696
+SUDOC: 028814304
+BNF: cb12057259c (data)
+NDL: 00448093
+NKC: xx0005342
+BNE: XX902800
+NewPP limit report
+Parsed by mw1270
+Cached time: 20161118180440
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.548 seconds
+Real time usage: 0.649 seconds
+Preprocessor visited node count: 4372/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 117582/2097152 bytes
+Template argument size: 9923/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Lua time usage: 0.229/10.000 seconds
+Lua memory usage: 6.05 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+540.036
+1 - -total
+32.99%
+178.139
+1 - Template:Reflist
+13.03%
+70.343
+14 - Template:Cite_book
+11.05%
+59.664
+1 - Template:Infobox_scientist
+9.88%
+53.335
+15 - Template:Cite_journal
+9.57%
+51.667
+1 - Template:Infobox
+7.05%
+38.086
+2 - Template:Fix
+6.38%
+34.470
+12 - Template:Cite_web
+6.21%
+33.561
+1 - Template:Over-quotation
+5.14%
+27.748
+1 - Template:Ambox
+Saved in parser cache with key enwiki:pcache:idhash:16545-0!*!0!!en!4!* and timestamp 20161118180440 and revision id 749968875
+Retrieved from "https://en.wikipedia.org/w/index.php?title=James_Lovelock&oldid=749968875"
+Categories: 1919 birthsLiving peopleAlumni of the University of ManchesterEnglish conscientious objectorsEnglish expatriates in the United StatesEnglish agnosticsEnglish biologistsEnglish ecologistsSustainability advocatesHarvard University peopleFuturologistsGreen thinkersMythographersPeople in public healthAlumni of the London School of Hygiene & Tropical MedicineMembers of the Order of the Companions of HonourCommanders of the Order of the British EmpireFellows of the Royal SocietyPeople associated with nuclear powerGentleman scientistsWollaston Medal winnersBritish non-fiction writersBritish science writersNon-fiction environmental writersPeople from LetchworthScientific instrument makersEnglish male writersWinners of the Heineken PrizeHidden categories: Pages containing links to subscription-only contentNational Portrait Gallery (London) person ID same as WikidataPages using ISBN magic linksUse dmy dates from July 2012Wikipedia articles needing style editing from August 2015All articles needing style editingAll articles with unsourced statementsArticles with unsourced statements from May 2014All accuracy disputesArticles with disputed statements from May 2014Commons category with page title same as on WikidataWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers

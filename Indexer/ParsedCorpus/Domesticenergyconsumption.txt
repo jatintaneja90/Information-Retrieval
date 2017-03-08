@@ -1,0 +1,32 @@
+Domesticenergyconsumption
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2008) (Learn how and when to remove this template message)
+Domestic energy consumption or domestic consumption of energy is the total amount of energy used in a house for household work. The amount of energy used per household varies widely depending on the standard of living of the country, the climate, and the age and type of residence.
+In the United States as of 2008, in an average household in a temperate climate, the yearly use of household energy can be composed as follows:
+Average domestic energy consumption per household in the United States
+Heating
+12000 kWh/yr (1400 watts)
+Hot water
+3000 kWh/yr (340 watts)
+Cooling and refrigeration
+1200 kWh/yr (140 watts)
+Lighting
+1200 kWh/yr (140 watts)
+Washing and drying
+1000 kWh/yr (110 watts)
+Cooking
+1000 kWh/yr (110 watts)
+Miscellaneous electric load
+600 kWh/yr (70 watts)
+[1]
+This equates to an average instantaneous power consumption of 2kW at any given time.
+Households in different parts of the world will have differing levels of consumption, based on latitude and technology.
+See also[edit]
+2000-watt society
+References[edit]
+^ DOE. Energy Website. DOE.GOV. Use of Electricity - Energy Explained, Your Guide To Understanding Energy - Energy Information Administration. Accessed: 2016-10-08. (Archived by WebCite at http://www.webcitation.org/)
+Saved in parser cache with key enwiki:pcache:idhash:13679083-0!*!0!!*!4!* and timestamp 20161115015057 and revision id 743247863
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Domestic_energy_consumption&oldid=743247863"
+Categories: Energy consumptionHidden categories: Articles needing additional references from October 2008All articles needing additional references

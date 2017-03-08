@@ -1,0 +1,765 @@
+Environmentalimpactassessment
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}For other uses, see EIA.
+Part of a series on
+Law and the Environment
+Environmental Law
+Pollution control law
+Environmental impact assessment
+Air quality law
+Water quality law
+Waste management law
+Environmental cleanup law
+Natural resources law
+Species protection
+Water resources law
+Mining law
+Forestry law
+Fisheries law
+Game law
+Reference materials
+Environmental journals
+International environmental agreements
+Environmental laws by country
+Environmental lawsuits
+Environmental ministries
+Supranational environmental agencies
+Related topics
+Administrative law
+Bankruptcy law
+Earth jurisprudence
+Energy law
+Environmental crime
+poaching
+Environmental justice
+Insurance law
+International law
+Land law
+Land use
+Law of the sea
+Property law
+Public trust doctrine
+Wild law
+v
+t
+e
+This article uses abbreviations that may be confusing or ambiguous. Specific concerns may be found on the Talk page. Please improve this article if you can. (October 2016)
+Environmental assessment (EA) is the term used for the assessment of the environmental consequences (positive and negative) of a plan, policy, program, or concrete projects prior to the decision to move forward with the proposed action. In this context, the term "environmental impact assessment" (EIA) is usually used when applied to concrete projects by individuals or companies and the term "strategic environmental assessment" (SEA) applies to policies, plans and programmes most often proposed by organs of state (Fischer, 2016). Environmental assessments may be governed by rules of administrative procedure regarding public participation and documentation of decision making, and may be subject to judicial review.
+The purpose of the assessment is to ensure that decision makers consider the environmental impacts when deciding whether or not to proceed with a project. The International Association for Impact Assessment (IAIA) defines an environmental impact assessment as "the process of identifying, predicting, evaluating and mitigating the biophysical, social, and other relevant effects of development proposals prior to major decisions being taken and commitments made."[1] EIAs are unique in that they do not require adherence to a predetermined environmental outcome, but rather they require decision makers to account for environmental values in their decisions and to justify those decisions in light of detailed environmental studies and public comments on the potential environmental impacts.[2]
+CASI Global, New York (http://casiglobal.us/) The Global Certification body for CSR[expand acronym] & Sustainability goes one step further in this definition to include financial and supply chain effects. Any effects of the projects supply chain on the environment, ecology, human resources or country resources are to be included in the impact analysis. Most Global Fellows of CASI NY have to write a paper on the same and are authorized to undertake such projects in their country.
+Engineering and consulting companies work hand in hand as contractors for mining, energy, oil & gas companies executing EIAs. Companies operating globally such as Arcadis, Royal HaskoningDHV, Golder Associates, Amec Foster Wheeler, Schlumberger Water Services (a Schlumberger company), ERM are an example of a much bigger pool of expertise globally. These contractors are the ones not only in charge of preparing an EIA study but most importantly getting these studies approved by each country government offices prior to the execution of a project. Each country will also have its own local contractors offering the same kind of service hence breaking out monopolies by increasing the supply of EIAs execution consultants.[3]
+Contents
+1 History
+2 Methods
+3 Follow-up
+4 Around the world
+4.1 Australia
+4.1.1 The Commonwealth Level
+4.1.2 The State and Territory Level
+4.1.2.1 Australian Capital Territory (ACT)
+4.1.2.2 New South Wales (NSW)
+4.1.2.3 Northern Territory (NT)
+4.1.2.4 Queensland (QLD)
+4.1.2.5 South Australia (SA)
+4.1.2.6 Tasmania (TAS)
+4.1.2.7 Victoria (VIC)
+4.1.2.8 Western Australia (WA)
+4.2 Canada
+4.2.1 Opposition
+4.3 China
+4.4 Egypt
+4.5 EU
+4.5.1 Annexed projects
+4.5.2 The Netherlands
+4.6 Hong Kong
+4.7 India
+4.8 Korea, South
+4.9 Malaysia
+4.10 Nepal
+4.11 New Zealand
+4.12 Russian Federation
+4.12.1 Federal Service for monitoring the use of natural resources
+4.12.2 Federal Service for Ecological, Technological and Nuclear Control
+4.13 Sri Lanka
+4.14 United States
+4.14.1 Environmental assessment
+4.14.1.1 Content
+4.14.1.2 Structure
+4.14.1.3 Procedure
+4.14.2 Environmental impact statement
+5 Transboundary application
+6 Criticism
+7 See also
+8 References
+8.1 Sources
+9 Notes
+10 Further reading
+11 External links
+History[edit]
+Environmental impact assessments commenced in the 1960s, as part of increasing environmental awareness.[notes 1] EIAs involved a technical evaluation intended to contribute to more objective decision making. In the United States, environmental impact assessments obtained formal status in 1969, with enactment of the National Environmental Policy Act. EIAs have been used increasingly around the world. The number of "Environmental Assessments" filed every year "has vastly overtaken the number of more rigorous Environmental Impact Statements (EIS)."[4] An Environmental Assessment is a "mini-EIS designed to provide sufficient information to allow the agency to decide whether the preparation of a full-blown Environmental Impact Statement (EIS) is necessary."[5][6] EIA is an activity that is done to find out the impact that would be done before development will occur.
+Methods[edit]
+General and industry specific assessment methods are available including:
+Industrial products - Product environmental life cycle analysis (LCA) is used for identifying and measuring the impact of industrial products on the environment. These EIAs consider activities related to extraction of raw materials, ancillary materials, equipment; production, use, disposal and ancillary equipment.[7]
+Genetically modified plants - Specific methods available to perform EIAs of genetically modified organisms include GMP-RAM and INOVA.[8]
+Fuzzy logic - EIA methods need measurement data to estimate values of impact indicators. However, many of the environment impacts cannot be quantified, e.g. landscape quality, lifestyle quality and social acceptance. Instead information from similar EIAs, expert judgment and community sentiment are employed. Approximate reasoning methods known as fuzzy logic can be used.[9] A fuzzy arithmetic approach has also been proposed [10] and implemented using a software tool (TDEIA).[11]
+Follow-up[edit]
+At the end of the project, an audit evaluates the accuracy of the EIA by comparing actual to predicted impacts. The objective is to make future EIAs more valid and effective. Two primary considerations are:
+Scientific - to examine the accuracy of predictions and explain errors
+Management - to assess the success of mitigation in reducing impacts
+Audits can be performed either as a rigorous assessment of the null hypothesis or with a simpler approach comparing what actually occurred against the predictions in the EIA document.[12]
+After an EIA, the precautionary and polluter pays principles may be applied to decide whether to reject, modify or require strict liability or insurance coverage to a project, based on predicted harms.
+The Hydropower Sustainability Assessment Protocol is a sector specific method for checking the quality of Environmental and Social assessments and management plans.
+Around the world[edit]
+Australia[edit]
+The history of EIA in Australia could be linked to the enactment of the U.S. National Environment Policy Act (NEPA) in 1970, which made the preparation of environmental impact statements a requirement. In Australia, one might say that the EIA procedures were introduced at a State Level prior to that of the Commonwealth (Federal), with a majority of the states having divergent views to the Commonwealth. One of the pioneering states was New South Wales, whose State Pollution Control Commission issued EIA guidelines in 1974. At a Commonwealth (Federal) level, this was followed by passing of the Environment Protection (Impact of Proposals) Act in 1974. The Environment Protection and Biodiversity Conservation Act 1999 (EPBC) superseded the Environment Protection (Impact of Proposals) Act 1974 and is the current central piece for EIA in Australia on a Commonwealth (Federal) level. An important point to note is that this Commonwealth Act does not affect the validity of the States and Territories environmental and development assessments and approvals; rather the EPBC runs as a parallel to the State/Territory Systems.[13] Overlap between federal and state requirements is addressed via bilateral agreements or one off accreditation of state processes, as provided for in the EPBC Act.
+The Commonwealth Level[edit]
+The EPBC Act provides a legal framework to protect and manage nationally and internationally important flora, fauna, ecological communities and heritage places-defined in the EPBC Act as matters of national environmental significance. Following are the eight matters of national environmental significance to which the EPBC ACT applies:[14]
+World Heritage sites
+National Heritage places
+RAMSAR wetlands of international significance
+Listed threatened species and ecological communities
+Migratory species protected under international agreements
+The Commonwealth marine environment
+Nuclear actions (including uranium mining)
+National Heritage.
+In addition to this, the EPBC Act aims at providing a streamlined national assessment and approval process for activities. These activities could be by the Commonwealth, or its agents, anywhere in the world or activities on Commonwealth land; and activities that are listed as having a significant impact on matters of national environment significance'.[14]
+The EPBC Act comes into play when a person (a proponent') wants an action (often called a proposal or project) assessed for environmental impacts under the EPBC Act, he or she must refer the project to the Department of Environment, Water, Heritage and the Arts (Australia). This referral is then released to the public, as well as relevant state, territory and Commonwealth ministers, for comment on whether the project is likely to have a significant impact on matters of national environmental significance.[14] The Department of Environment, Water, Heritage and the Arts assess the process and makes recommendation to the minister or the delegate for the feasibility. The final discretion on the decision remains of the minister, which is not solely based on matters of national environmental significance but also the consideration of social and economic impact of the project.[14]
+The Australian Government environment minister cannot intervene in a proposal if it has no significant impact on one of the eight matters of national environmental significance despite the fact that there may be other undesirable environmental impacts.[14] This is primarily due to the division of powers between the States and the Federal government and due to which the Australian Government environment minister cannot overturn a state decision.
+There are strict civil and criminal penalties for the breach of EPBC Act. Depending on the kind of breach, civil penalty (maximum) may go up to $550,000 for an individual and $5.5 million for a body corporate, or for criminal penalty (maximum) of seven years imprisonment and/or penalty of $46,200.[14]
+The State and Territory Level[edit]
+Australian Capital Territory (ACT)[edit]
+EIA provisions within Ministerial Authorities in the ACT are found in the Chapters 7 and 8 of the Planning and Development Act 2007 (ACT). EIA in ACT was previously administered with the help of Part 4 of the Land (Planning and Environment) Act 1991 (Land Act) and Territory Plan (plan for land-use).[13] Note that some EIA may occur in the ACT on Commonwealth land under the EPBC Act (Cth). Further provisions of the Australian Capital Territory (Planning and Land Management) Act 1988 (Cth) may also be applicable particularly to national land and "designated areas".
+New South Wales (NSW)[edit]
+In New South Wales, the Environment Planning Assessment Act 1979 (EPA) establishes three pathways for EIA. The first is under Part 5.1 of the EPAA, which provides for EIA of 'State Significant Infrastructure' projects. (From June 2011, this Part replaced Part 3A, which previously covered EIA of major projects). The second is under Part 4 of the Act dealing with development control. If a project does not require approval under Part 3A or Part 4 it is then potentially captured by the third pathway, Part 5 dealing with environment impact assessment.[13]
+Northern Territory (NT)[edit]
+The EIA process in Northern Territory is chiefly administered under the Environmental Assessment Act (EAA).[15] Although EAA is the primary tool for EIA in Northern Territory, there are further provisions for proposals in the Inquiries Act 1985 (NT).[13]
+Queensland (QLD)[edit]
+There are four main EIA processes in Queensland.[16] Firstly, under the Integrated Planning Act 1997 (IPA) for development projects other than mining. Secondly, under the Environmental Protection Act 1994 (EP Act) for some mining and petroleum activities. Thirdly, under the State Development and Public Works Organization Act 1971 (State Development Act) for significant projects. Finally, Environment Protection and Biodiversity Conservation Act 1999 (Cth) for controlled actions.[16]
+South Australia (SA)[edit]
+The local governing tool for EIA in South Australia is the Development Act 1993. There are three levels of assessment possible under the Act in the form of an environment impact statement (EIS), a public environmental report (PER) or a Development Report (DR).[13]
+Tasmania (TAS)[edit]
+In Tasmania, an integrated system of legislation is used to govern development and approval process, this system is a mixture of the Environmental Management and Pollution Control Act 1994 (EMPCA), Land Use Planning and Approvals Act 1993 (LUPAA), State Policies and Projects Act 1993 (SPPA), and Resource Management and Planning Appeals Tribunal Act 1993.[13]
+Victoria (VIC)[edit]
+The EIA process in Victoria is intertwined with the Environment Effects Act 1978 and the Ministerial Guidelines for Assessment of Environmental Effects (made under the s. 10 of the EE Act).[17]
+Western Australia (WA)[edit]
+The Environmental Protection Act 1986 (Part 4) provides the legislative framework for the EIA process in Western Australia.[18] The EPA Act oversees the planning and development proposals and assesses their likely impacts on the environment.
+Canada[edit]
+In Friends of the Oldman River Society v. Canada (Minister of Transportation),(SCC 1992) La Forest J of the Supreme Court of Canada described environmental impact assessment in terms of the proper scope of federal jurisdiction with respect to environments matters,
+"Environmental impact assessment is, in its simplest form, a planning tool that is now generally regarded as an integral component of sound decision-making."[19]
+Supreme Court Justice La Forest cited (Cotton, Emond & 1981 245), "The basic concepts behind environmental assessment are simply stated: (1) early identification and evaluation of all potential environmental consequences of a proposed undertaking; (2) decision making that both guarantees the adequacy of this process and reconciles, to the greatest extent possible, the proponents development desires with environmental protection and preservation."[20]
+La Forest referred to (Jeffrey 1989, 1.2,1.4) and (Emond 1978, p.5) who described "...environmental assessments as a planning tool with both an information-gathering and a decision-making component" that provide "...an objective basis for granting or denying approval for a proposed development."[21][22]
+Justice La Forest addressed his concerns about the implications of Bill C-45 regarding public navigation rights on lakes and rivers that would contradict previous cases.(La Forest & 1973 178-80)[23]
+The Canadian Environmental Assessment Act 2012 (CEAA 2012)[24] "and its regulations establish the legislative basis for the federal practice of environmental assessment in most regions of Canada."[25][26][27] CEAA 2012 came into force July 6, 2012 and replaces the former Canadian Environmental Assessment Act (1995). EA is defined as a planning tool to identify, understand, assess and mitigate, where possible, the environmental effects of a project.
+"The purposes of this Act are: (a) to protect the components of the environment that are within the legislative authority of Parliament from significant adverse environmental effects caused by a designated project; (b) to ensure that designated projects that require the exercise of a power or performance of a duty or function by a federal authority under any Act of Parliament other than this Act to be carried out, are considered in a careful and precautionary manner to avoid significant adverse environmental effects; (c) to promote cooperation and coordinated action between federal and provincial governments with respect to environmental assessments; (d) to promote communication and cooperation with aboriginal peoples with respect to environmental assessments; (e) to ensure that opportunities are provided for meaningful public participation during an environmental assessment; (f) to ensure that an environmental assessment is completed in a timely manner; (g) to ensure that projects, as defined in section 66, that are to be carried out on federal lands, or those that are outside Canada and that are to be carried out or financially supported by a federal authority, are considered in a careful and precautionary manner to avoid significant adverse environmental effects; (h) to encourage federal authorities to take actions that promote sustainable development in order to achieve or maintain a healthy environment and a healthy economy; and (i) to encourage the study of the cumulative effects of physical activities in a region and the consideration of those study results in environmental assessments."[28]
+Canadian Environmental Assessment Act
+Opposition[edit]
+Environmental Lawyer Dianne Saxe argued that the CEAA 2012 "allows the federal government to create mandatory timelines for assessments of even the largest and most important projects, regardless of public opposition." (Saxe 2012)[29]
+"Now that federal environmental assessments are gone, the federal government will only assess very large, very important projects. But its going to do them in a hurry."
+Dianne Saxe[29]
+On 3 August 2012 the Canadian Environmental Assessment Agency nine "designated projects" with their timelines: Enbridge Northern Gateway Pipeline Joint Review Panel (JRP) 18 months; Marathon Platinum Group Metals and Copper Mine Project (JRP): 13 months; Site C Clean Energy Project (JRP) 8.5 months; Deep Geologic Repository Project (JRP) 17 months; Enbridge Northern Gateway Project (JRP) 18 months; Jackpine Mine Expansion Project (JRP) 11.5 months; Pierre River Mine Project: 8 months; New Prosperity Gold-Copper Mine Project (JRP) 7.5 months; Frontier Oil Sands Mine Project (JRP)8.5 months; EnCana/Cenovus Shallow Gas Infill Project (JRP) 5 months.[30]
+Saxe compares these timelines with environmental assessments for the Mackenzie Valley Pipeline. Thomas R. Berger, Royal Commissioner of the Mackenzie Valley Pipeline Inquiry (9 May 1977), worked extremely hard to ensure that industrial development on Aboriginal people's land resulted in benefits to those indigenous people.[31]
+On 22 April 2013, Official Opposition Environment critic Megan Leslie issued a statement claiming that the federal government's recent changes to "fish habitat protection, the Navigable Waters Protection Act and the Canadian Environmental Assessment Act", along with gutting existing laws and making cuts to science and research, "will be disastrous, not only for the environment, but also for Canadians health and economic prosperity."[32] On 26 September 2012, Leslie argued that with the changes to the Canadian Environmental Assessment Act that came into effect 6 July 2012, "seismic testing, dams, wind farms and power plants" no longer required any federal environmental assessment. She also claimed that because the CEAA 2012which she claimed was rushed through Parliamentdismantled the CEAA 1995, the Oshawa ethanol plant project would no longer have a full federal environmental assessment.[33] Mr. Peter Kent (Minister of the Environment) explained that the CEAA 2012 "provides for the Government of Canada and the Environmental Assessment Agency to focus on the large and most significant projects that are being proposed across the country." The 2,000 to 3,000-plus smaller screenings that were in effect under CEAA 1995 became the "responsibility of lower levels of government but are still subject to the same strict federal environmental laws."[33] Anne Minh-Thu Quach, MP for BeauharnoisSalaberry, QC, argued that the mammoth budget bill dismantled 50 years of environmental protection without consulting Canadians about the "colossal changes they are making to environmental assessments." She claimed that the federal government is entering into "limited consultations, by invitation only, months after the damage was done."[33]
+China[edit]
+The Environmental Impact Assessment Law (EIA Law) requires that an environmental impact assessment be completed prior to project construction. However, if a developer completely ignores this requirement and builds a project without submitting an environmental impact statement, the only penalty is that the environmental protection bureau (EPB) may require the developer to do a make-up environmental assessment. If the developer does not complete this make-up assessment within the designated time, only then is the EPB authorized to fine the developer. Even so, the possible fine is capped at a maximum of about US$25,000, a fraction of the overall cost of most major projects. The lack of more stringent enforcement mechanisms has resulted in a significant percentage of projects not completing legally required environmental impact assessments prior to construction.[34]
+China's State Environmental Protection Administration (SEPA) used the legislation to halt 30 projects in 2004, including three hydro-power plants under the Three Gorges Project Company. Although one month later (Note as a point of reference, that the typical EIA for a major project in the USA takes one to two years.), most of the 30 halted projects resumed their construction, reportedly having passed the environmental assessment, the fact that these key projects' construction was ever suspended was notable.
+A joint investigation by SEPA and the Ministry of Land and Resources in 2004 showed that 30-40% of the mining construction projects went through the procedure of environment impact assessment as required, while in some areas only 6-7% did so. This partly explains why China has witnessed so many mining accidents in recent years.
+SEPA alone cannot guarantee the full enforcement of environmental laws and regulations, observed Professor Wang Canfa, director of the centre to help environmental victims at China University of Political Science and Law. In fact, according to Wang, the rate of China's environmental laws and regulations that are actually enforced is estimated at barely 10%.[35]
+Egypt[edit]
+Environmental Impact Assessment (EIA) EIA is implemented in Egypt under the umbrella of the Ministry of state for environmental affairs. The Egyptian Environmental Affairs Agency (EEAA) is responsible for the EIA services.
+In June 1997, the responsibility of Egypt's first full-time Minister of State for Environmental Affairs was assigned as stated in the Presidential Decree no.275/1997. From thereon, the new ministry has focused, in close collaboration with the national and international development partners, on defining environmental policies, setting priorities and implementing initiatives within a context of sustainable development.
+According to the Law 4/1994 for the Protection of the Environment, the Egyptian Environmental Affairs Agency (EEAA) was restructured with the new mandate to substitute the institution initially established in 1982. At the central level, EEAA represents the executive arm of the Ministry.
+The purpose of EIA is to ensure the protection and conservation of the environment and natural resources including human health aspects against uncontrolled development. The long-term objective is to ensure a sustainable economic development that meets present needs without compromising future generations ability to meet their own needs. EIA is an important tool in the integrated environmental management approach.
+EIA must be performed for new establishments or projects and for expansions or renovations of existing establishments according to the Law for the Environment. [36]
+EU[edit]
+There is a wide range of instruments in the Environmental policy of the European Union. Among them the European Union has established a mix of mandatory and discretionary procedures to assess environmental impacts.[37] European Union Directive (85/337/EEC) on Environmental Impact Assessments (known as the EIA Directive) [38] was first introduced in 1985 and was amended in 1997. The directive was amended again in 2003, following EU signature of the 1998 Aarhus Convention, and once more in 2009. The initial Directive of 1985 and its three amendments have been codified in Directive 2011/92/EU of 13 December 2011.[39] In 2001, the issue was enlarged to the assessment of plans and programmes by the so-called Strategic Environmental Assessment (SEA) Directive (2001/42/EC), which is now in force.[37] Under the EU directive, an EIA must provide certain information to comply.[40] There are seven key areas that are required:
+Description of the project
+Description of actual project and site description
+Break the project down into its key components, i.e. construction, operations, decommissioning
+For each component list all of the sources of environmental disturbance
+For each component all the inputs and outputs must be listed, e.g., air pollution, noise, hydrology
+Alternatives that have been considered
+Examine alternatives that have been considered
+Example: in a biomass power station, will the fuel be sourced locally or nationally?
+Description of the environment
+List of all aspects of the environment that may be affected by the development
+Example: populations, fauna, flora, air, soil, water, humans, landscape, cultural heritage
+This section is best carried out with the help of local experts, e.g. the RSPB in the UK
+Description of the significant effects on the environment
+The word significant is crucial here as the definition can vary
+'Significant' must be defined
+The most frequent method used here is use of the Leopold matrix
+The matrix is a tool used in the systematic examination of potential interactions
+Example: in a windfarm development a significant impact may be collisions with birds
+Mitigation
+This is where EIA is most useful
+Once section 4 is complete, it is obvious where impacts are greatest
+Using this information ways to avoid negative impacts should be developed
+Best working with the developer with this section as they know the project best
+Using the windfarm example again construction could be out of bird nesting seasons
+Non-technical summary (EIS)
+The EIA is in the public domain and be used in the decision making process
+It is important that the information is available to the public
+This section is a summary that does not include jargon or complicated diagrams
+It should be understood by the informed lay-person
+Lack of know-how/technical difficulties
+This section is to advise any areas of weakness in knowledge
+It can be used to focus areas of future research
+Some developers see the EIA as a starting block for poor environmental management
+Annexed projects[edit]
+All projects are either classified as Annex 1 or Annex 2 projects. Those lying in Annex 1 are large scale developments such as motorways, chemical works, bridges, powerstations etc. These always require an EIA under the Environmental Impact Assessment Directive (85,337,EEC as amended). Annex 2 projects are smaller in scale than those referred to in Annex 1. Member States must determine whether these project shall be made subject to an assessment subject to a set of criteria set out in Annex 3 of codified Directive 2011/92/EU.
+The Netherlands[edit]
+EIA was implemented in Dutch legislation on September 1, 1987. The categories of projects that require an EIA are summarised in Dutch legislation, the Wet milieubeheer. The use of thresholds for activities makes sure that EIA is obligatory for those activities that may have considerable impacts on the environment.
+For projects and plans that fit these criteria, an EIA report is required. The EIA report defines a.o. the proposed initiative, it makes clear the impact of that initiative on the environment and compares this with the impact of possible alternatives with less a negative impact.[41]
+Hong Kong[edit]
+EIA in Hong Kong, since 1998, is regulated by the Environmental Impact Assessment Ordinance 1997.
+The original proposal to construct the Lok Ma Chau Spur Line overground across the Long Valley failed to get through EIA, and the KowloonCanton Railway Corporation had to change its plan and build the railway underground. In April 2011, the EIA of the Hong Kong section of the Hong Kong-Zhuhai-Macau Bridge was found to have breached the ordinance, and was declared unlawful. The appeal by the government was allowed in September 2011. However, it was estimated that this EIA court case had increased the construction cost of the Hong Kong section of the bridge by HK$6.5 billion in money-of-the-day prices.[42]
+India[edit]
+The Ministry of Environment, Forests and Climate Change (MoEFCC) of India has been in a great effort in Environmental Impact Assessment in India. The main laws in action are the Water Act(1974), the Indian Wildlife (Protection) Act (1972), the Air (Prevention and Control of Pollution) Act (1981) and the Environment (Protection) Act (1986),Biological Diversity Act(2002).[43] The responsible body for this is the Central Pollution Control Board. Environmental Impact Assessment (EIA) studies need a significant amount of primary and secondary environmental data. Primary data are those collected in the field to define the status of the environment (like air quality data, water quality data etc.). Secondary data are those collected over the years that can be used to understand the existing environmental scenario of the study area. The environmental impact assessment (EIA) studies are conducted over a short period of time and therefore the understanding of the environmental trends, based on a few months of primary data, has limitations. Ideally, the primary data must be considered along with the secondary data for complete understanding of the existing environmental status of the area. In many EIA studies, the secondary data needs could be as high as 80% of the total data requirement. EIC is the repository of one stop secondary data source for environmental impact assessment in India.
+The Environmental Impact Assessment (EIA) experience in India indicates that the lack of timely availability of reliable and authentic environmental data has been a major bottle neck in achieving the full benefits of EIA. The environment being a multi-disciplinary subject, a multitude of agencies are involved in collection of environmental data. However, no single organization in India tracks available data from these agencies and makes it available in one place in a form required by environmental impact assessment practitioners. Further, environmental data is not available in enhanced forms that improve the quality of the EIA. This makes it harder and more time-consuming to generate environmental impact assessments and receive timely environmental clearances from regulators. With this background, the Environmental Information Centre (EIC) has been set up to serve as a professionally managed clearing house of environmental information that can be used by MoEF, project proponents, consultants, NGOs and other stakeholders involved in the process of environmental impact assessment in India. EIC caters to the need of creating and disseminating of organized environmental data for various developmental initiatives all over the country.
+EIC stores data in GIS format and makes it available to all environmental impact assessment studies and to EIA stakeholders in a cost effective and timely manner. So that we can manage that in different proportions such as remedy measures etc.,
+Korea, South[edit]
+Recycling culture and policy Ministry of Environment
+Malaysia[edit]
+In Malaysia, Section 34A, Environmental Quality Act, 1974[44] requires developments that have significant impact to the environment are required to conduct the Environmental impact assessment.
+Nepal[edit]
+In Nepal, EIA has been integrated in major development projects since the early 1980s. In the planning history of Nepal, the sixth plan (198085), for the first time, recognized the need for EIA with the establishment of Environmental Impact Study Project (EISP) under the Department of Soil Conservation in 1982 to develop necessary instruments for integration of EIA in infrastructure development projects. However, the government of Nepal enunciated environment conservation related policies in the seventh plan (NPC, 19851990). To enforce this policy and make necessary arrangements, a series of guidelines were developed, thereby incorporating the elements of environmental factors right from the project formulation stage of the development plans and projects and to avoid or minimize adverse effects on the ecological system. In addition, it has also emphasized that EIAs of industry, tourism, water resources, transportation, urbanization, agriculture, forest and other developmental projects be conducted.
+In Nepal, the governments Environmental Impact Assessment Guideline of 1993 inspired the enactment of the Environment Protection Act (EPA) of 1997 and the Environment Protection Rules (EPR) of 1997 (EPA and EPR have been enforced since 24 and 26 June 1997 respectively in Nepal) to internalizing the environmental assessment system. The process institutionalized the EIA process in development proposals and enactment, which makes the integration of IEE and EIA legally binding to the prescribed projects. The projects, requiring EIA or IEE, are included in Schedules 1 and 2 of the EPR, 1997 (GoN/MoLJPA 1997). Progresses were made in the Environmental protection issue during the 8th five-year plan (19921997). The following development in Environmental protection were achieved during that time:[45]
+Formulation of Environmental Protection Act 1997
+Establishment of Ministry of Environment
+Development of National Environmental Policies and Action Plan, EIA guidelines developed
+Consideration of environmental concerns in hydropower projects
+Development of industrial, irrigation and agricultural policies that undertook environmental concerns
+New Zealand[edit]
+In New Zealand, EIA is usually referred to as Assessment of Environmental Effects (AEE). The first use of EIA's dates back to a Cabinet minute passed in 1974 called Environmental Protection and Enhancement Procedures. This had no legal force and only related to the activities of government departments. When the Resource Management Act was passed in 1991, an EIA was required as part of a resource consent application. Section 88 of the Act specifies that the AEE must include "such detail as corresponds with the scale and significance of the effects that the activity may have on the environment". While there is no duty to consult any person when making a resource consent application (Sections 36A and Schedule 4), proof of consultation is almost certain required by local councils when they decide whether or not to publicly notify the consent application under Section 93.
+Russian Federation[edit]
+As of 2004, the state authority responsible for conducting the State EIA in Russia has been split between two Federal bodies: 1) Federal service for monitoring the use of natural resources  a part of the Russian Ministry for Natural Resources and Environment and 2) Federal Service for Ecological, Technological and Nuclear Control. The two main pieces of environmental legislation in Russia are: The Federal Law On Ecological Expertise, 1995 and the Regulations on Assessment of Impact from Intended Business and Other Activity on Environment in the Russian Federation, 2000.[46]
+Federal Service for monitoring the use of natural resources[edit]
+In 2006, the parliament committee on ecology in conjunction with the Ministry for Natural Resources and Environment, created a working group to prepare a number of amendments to existing legislation to cover such topics as stringent project documentation for building of potentially environmentally damaging objects as well as building of projects on the territory of protected areas. There has been some success in this area, as evidenced from abandonment of plans to construct a gas pipe-line through the only remaining habitat of the critically endangered Amur leopard in the Russian Far East.
+Federal Service for Ecological, Technological and Nuclear Control[edit]
+The governments decision to hand over control over several important procedures, including state EIA in the field of all types of energy projects, to the Federal Service for Ecological, Technological and Nuclear Control had caused a major controversy and criticism from environmental groups that blamed the government for giving nuclear power industry control over the state EIA.
+Not surprisingly the main problem concerning State EIA in Russia is the clear differentiation of jurisdiction between the two above-mentioned Federal bodies.
+Sri Lanka[edit]
+The National Environmental Act, 1998 requires environmental impact assessment for large scale projects in sensitive areas. It is enforced by the Central Environmental Authority.[47]
+United States[edit]
+Main article: National Environmental Policy Act
+The National Environmental Policy Act of 1969 (NEPA), enacted in 1970, established a policy of environmental impact assessment for federal agency actions, federally funded activities or federally permitted/licensed activities that in the U. S. is termed "environmental review" or simply "the NEPA process."[48] The law also created the Council on Environmental Quality, which promulgated regulations to codify the law's requirements.[49] Under United States environmental law an Environmental Assessment (EA) is compiled to determine the need for an Environmental Impact Statement (EIS). Federal or federalized actions expected to subject or be subject to significant environmental impacts will publish a Notice of Intent to Prepare an EIS as soon as significance is known. Certain actions of federal agencies must be preceded by the NEPA process. Contrary to a widespread misconception, NEPA does not prohibit the federal government or its licensees/permittees from harming the environment, nor does it specify any penalty if an environmental impact assessment turns out to be inaccurate, intentionally or otherwise. NEPA requires that plausible statements as to the prospective impacts be disclosed in advance. The purpose of NEPA process is to ensure that the decision maker is fully informed of the environmental aspects and consequences prior to making the final decision.
+Environmental assessment[edit]
+An environmental assessment (EA) is an environmental analysis prepared pursuant to the National Environmental Policy Act to determine whether a federal action would significantly affect the environment and thus require a more detailed Environmental Impact Statement (EIS). The certified release of an Environmental Assessment results in either a Finding of No Significant Impact (FONSI) or an EIS.
+The Council on Environmental Quality (CEQ), which oversees the administration of NEPA, issued regulations for implementing the NEPA in 1979. Eccleston reports that the NEPA regulations barely mention preparation of EAs. This is because the EA was originally intended to be a simple document used in relatively rare instances where an agency was not sure if the potential significance of an action would be sufficient to trigger preparation of an EIS. But today, because EISs are so much longer and complicated to prepare, federal agencies are going to great effort to avoid preparing EISs by using EAs, even in cases where the use of EAs may be inappropriate. The ratio of EAs that are being issued compared to EISs is about 100 to 1.[50]
+Likewise, even the preparation of an accurate EA is viewed today as an onerous burden by many entities responsible for the environmental review of a proposal. Federal agencies have responded by streamlining their regulations that implement NEPA environmental review, by defining categories of projects that by their well understood nature may be safely excluded from review under NEPA, and by drawing up lists of project types that have negligible material impact upon the environment and can thus be exempted.
+Content[edit]
+The Environmental Assessment is a concise public document prepared by the federal action agency that serves to:
+briefly provide sufficient evidence and analysis for determining whether to prepare an EIS or a Finding of No Significant Impact (FONSI)
+Demonstrate compliance with the act when no EIS is required
+facilitate the preparation of an EIS when a FONSI cannot be demonstrated
+The Environmental Assessment includes a brief discussion of the purpose and need of the proposal and of its alternatives as required by NEPA 102(2)(E), and of the human environmental impacts resulting from and occurring to the proposed actions and alternatives considered practicable, plus a listing of studies conducted and agencies and stakeholders consulted to reach these conclusions. The action agency must approve an EA before it is made available to the public. The EA is made public through notices of availability by local, state, or regional clearing houses, often triggered by the purchase of a public notice advertisement in a newspaper of general circulation in the proposed activity area.
+Structure[edit]
+The structure of a generic Environmental Assessment is as follows:
+Summary
+Introduction
+Background
+Purpose and Need for Action
+Proposed Action
+Decision Framework
+Public Involvement
+Issues
+Alternatives, including the Proposed Action
+Alternatives
+Mitigation Common to All Alternatives
+Comparison of Alternatives
+Environmental Consequences
+Consultation and Coordination
+Procedure[edit]
+The EA becomes a draft public document when notice of it is published, usually in a newspaper of general circulation in the area affected by the proposal. There is a 15-day review period required for an Environmental Assessment (30 days if exceptional circumstances) while the document is made available for public commentary, and a similar time for any objection to improper process. Commenting on the Draft EA is typically done in writing or email, submitted to the lead action agency as published in the notice of availability. An EA does not require a public hearing for verbal comments. Following the mandated public comment period, the lead action agency responds to any comments, and certifies either a FONSI or a Notice of Intent (NOI) to prepare an EIS in its public environmental review record. The preparation of an EIS then generates a similar but more lengthy, involved and expensive process.
+Environmental impact statement[edit]
+Main article: Environmental impact statement
+The adequacy of an environmental impact statement (EIS) can be challenged in federal court. Major proposed projects have been blocked because of an agency's failure to prepare an acceptable EIS. One prominent example was the Westway landfill and highway development in and along the Hudson River in New York City.[51] Another prominent case involved the Sierra Club suing the Nevada Department of Transportation over its denial of the club's request to issue a supplemental EIS addressing air emissions of particulate matter and hazardous air pollutants in the case of widening U.S. Route 95 through Las Vegas.[52] The case reached the United States Court of Appeals for the Ninth Circuit, which led to construction on the highway being halted until the court's final decision. The case was settled prior to the court's final decision.
+Several state governments that have adopted "little NEPAs," state laws imposing EIS requirements for particular state actions. Some those state laws such as the California Environmental Quality Act refer to the required environmental impact study as an environmental impact report.[53]
+These variety of state requirements are yielding voluminous data not just upon impacts of individual projects, but also to elucidate scientific areas that had not been sufficiently researched. For example, in a seemingly routine Environmental Impact Report for the city of Monterey, California, information came to light that led to the official federal endangered species listing of Hickman's potentilla, a rare coastal wildflower.
+Transboundary application[edit]
+Environmental threats do not respect national borders. International pollution can have detrimental effects on the atmosphere, oceans, rivers, aquifers, farmland, the weather and biodiversity. Global climate change is transnational. Specific pollution threats include acid rain, radioactive contamination, debris in outer space, stratospheric ozone depletion and toxic oil spills. The Chernobyl disaster, precipitated by a nuclear accident on April 26, 1986, is a stark reminder of the devastating effects of transboundary nuclear pollution.[54]
+Environmental protection is inherently a cross-border issue and has led to the creation of transnational regulation via multilateral and bilateral treaties. The United Nations Conference on the Human Environment (UNCHE or Stockholm Conference) held in Stockholm in 1972 and the United Nations Conference on the Environment and Development (UNCED or Rio Summit, Rio Conference, or Earth Summit) held in Rio de Janeiro in 1992 were key in the creation of about 1,000 international instruments that include at least some provisions related to the environment and its protection.[55]
+The United Nations Economic Commission for Europe's Convention on Environmental Impact Assessment in a Transboundary Context was negotiated to provide an international legal framework for transboundary EIA.[56]
+However, as there is no universal legislature or administration with a comprehensive mandate, most international treaties exist parallel to one another and are further developed without the benefit of consideration being given to potential conflicts with other agreements. There is also the issue of international enforcement.[57] This has led to duplications and failures, in part due to an inability to enforce agreements. An example is the failure of many international fisheries regimes to restrict harvesting practises.[58]
+Criticism[edit]
+As per Jay et al., EIA is used as a decision aiding tool rather than decision making tool. There is growing dissent about them as their influence on decisions is limited. Improved training for practitioners, guidance on best practice and continuing research have all been proposed.[59]
+EIAs have been criticized for excessively limiting their scope in space and time. No accepted procedure exists for determining such boundaries. The boundary refers to the spatial and temporal boundary of the proposals effects. This boundary is determined by the applicant and the lead assessor, but in practice, almost all EIAs address only direct and immediate on-site effects.[60]
+Development causes both direct and indirect effects. Consumption of goods and services, production, use and disposal of building materials and machinery, additional land use for activities of manufacturing and services, mining and refining, etc., all have environmental impacts. The indirect effects of development can be much higher than the direct effects examined by an EIA. Proposals such as airports or shipyards cause wide-ranging national and international effects, which should be covered in EIAs.[61]
+Broadening the scope of EIA can benefit the conservation of threatened species. Instead of concentrating on the project site, some EIAs employed a habitat-based approach that focused on much broader relationships among humans and the environment. As a result, alternatives that reduce the negative effects to the population of whole species, rather than local subpopulations, can be assessed.[62]
+Thissen and Agusdinata [63] have argued that little attention is given to the systematic identification and assessment of uncertainties in environmental studies which is critical in situations where uncertainty cannot be easily reduced by doing more research. In line with this, Maier et al.[64] have concluded on the need to consider uncertainty at all stages of the decision-making process. In such a way decisions can be made with confidence or known uncertainty. These proposals are justified on data that shows that environmental assessments fail to predict accurately the impacts observed. Tenney et al.[65] and Wood et al.[66] have reported evidence of the intrinsic uncertainty attached to EIAs predictions from a number of case studies worldwide. The gathered evidence consisted of comparisons between predictions in EIAs and the impacts measured during, or following project implementation. In explaining this trend, Tenney et al.[65] have highlighted major causes such as project changes, modelling errors, errors in data and assumptions taken and bias introduced by people in the projects analyzed. Cardenas and Halman [67] provide a comprehensive review on the issues of uncertainty in environmental impact assessments.
+See also[edit]
+Sustainable development portal
+Economic impact analysis
+Environmental good
+Environmental impact design
+Environmental indicator
+Environmental policy of the European Union
+Equator Principles
+Global environmental analysis
+Healthy development measurement tool
+Hydropower Sustainability Assessment Protocol
+Leopold matrix
+List of international environmental agreements
+Natural landscape
+Phase I Environmental Site Assessment
+Social Impact Assessment
+Strategic Environmental Assessment
+United Nations Environment Programme
+Sustainability appraisal
+References[edit]
+^ "Principle of Environmental Impact Assessment Best Practice" (PDF). International Association for Impact Assessment. 1999.
+^ Holder, J., (2004), Environmental Assessment: The Regulation of Decision Making, Oxford University Press, New York; For a comparative discussion of the elements of various domestic EIA systems, see Christopher Wood Environmental Impact Assessment: A Comparative Review (2 ed, Prentice Hall, Harlow, 2002).
+^ "EIA engineering and consulting companies". Digiscend.com. 2015. Retrieved 2015-08-01.
+^ Clark & Canter 1997, p.199.
+^ Rychlak & Case 2010, p.111-120.
+^ Kershner 2011.
+^ Daniel, S., Tsoulfas, G., Pappis, C., & Rachaniotis, N. (2004) Aggregating and evaluating the results of different Environmental Impact Assessment methods Ecological indicators 4:125-138
+^ Hitzschky, K., & Silviera, J. (2009) A proposed impact assessment method for genetically modified plants (As-GMP method) Environmental Impact Assessment review 29: 348-368
+^ Peche, R., & Rodriguez, E., (2009) Environmental impact Assessment procedure: A new approach based on Fuzzy logic Environmental Impact Assessment review 29:275-283
+^ Duarte O. (2000) Tcnicas Difusas en la Evaluacin de Impacto Ambiental. Ph.D. Thesis, Universidad de Granada
+^ ARAI Research Group, Granada, Spain. "Environmental Impact Assessment at University of Granada."
+^ Wilson, L., (1998), A Practical Method for Environmental Impact Assessment Audits Environ Impact Assess Rev 18: 59-71
+^ a b c d e f Elliott, M. & Thomas, I. (2009), "Environment Impact Assessment in Australia: Theory and Practice, 5th Edn, Federation Press, Sydney"
+^ a b c d e f The Environment Protection and Biodiversity Conservation Act, Australia: The Department of the Environment, Water, Heritage and the Arts, retrieved 9 September 2010
+^ The Northern Territory Government, viewed 10 September 2010,
+^ a b The Environment Defenders, viewed 10 September 2010, EDO factsheet
+^ The Law Handbook, viewed 9 September 2010,
+^ The Government of Western Australia, viewed 9 September 2010,
+^ SCC 1992.
+^ Roger, Cotton; Emond, D. Paul (1981). John Swaigen, ed. Environmental Impact Assessment. Environmental Rights in Canada. Toronto, Ontario: Butterworths.
+^ Jeffery, Michael I. (1989). Environmental Approvals in Canada. Toronto, Ontario: Butterworths.
+^ Emond, D. P. (1978). Environmental Assessment Law in Canada. Toronto, Ontario: EmondMontgomery Ltd.
+^ La Forest,, Grard V. (1973). Water Law in Canada. Ottawa: Information Canada.
+^ {{{year}}} SCC {{{num}}} (18 July 2012)
+^ 2012 SCC {{{num}}}
+^ {{{year}}} SCC {{{num}}}
+^ CEAA (2012). "What is the Canadian Environmental Assessment Act, 2012?". Basics of Environmental Assessment. Canadian Environmental Assessment Agency. Missing or empty |url= (help)
+^ CEAA 2012.
+^ a b Saxe, =Dianne (9 August 2012). "Federal environmental assessments will be rushed". Environmental Law and Litigation.
+^ Saxe 2012.
+^ Host:Allan McFee (9 May 1977). "The Berger Report is released". As It Happens. transcript. Toronto. CBC Radio. CBC Radio 1. Retrieved 9 December 2011.
+^ "Statement by Official Opposition Environment critic Megan Leslie on Earth Day". NDP. 22 April 2013.
+^ a b c Megan Leslie ({{{year}}}). Question period
+^ Wang, Alex (2007-02-05). "Environmental protection in China: the role of law".
+^ Gu, Lin (2005-09-29). "China Improves Enforcement of Environmental Laws". China Features.
+^ "About MSEA". EEAA. Retrieved 2013-01-03.
+^ a b Watson, Michael (November 1315, 2003). "Environmental Impact Assessment and European Community Law". XIV International Conference "Danube-River of Cooperation".
+^ Council Directive 85/337/EEC on the Assessment of the Effects of Certain Public and Private Projects on the Environment (1985-06-27) from Eur-Lex
+^ DIRECTIVE 2011/92/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment from Eur-Lex
+^ Directive 2001/42/EC of the European Parliament and of the Council (2001-06-27) from Eur-Lex
+^ List of criteria for EIA/SEA
+^ "LCQ1: Judicial review case regarding the Environmental Impact Assessment reports of the Hong Kong-Zhuhai-Macao Bridge". Press Releases. www.info.gov.hk. October 26, 2011. Retrieved October 27, 2011.
+^ Shibani Ghosh, "Demystifying the Environmental Clearance Process in India", NUJS LAW REVIEW, January 2, 2015
+^ http://www.doe.gov.my/portal/wp-content/uploads/2010/07/Appendix_1.pdf
+^ Bhatta, Ramesh Prasad; Khanal, Sanjay Nath (2010). "Environmental Impact Assessment System and Process: A Study on Policy and Legal Instruments in Nepal". African Journal of Environmental Science and Technology. 4(9): 586594. doi:10.5897/AJEST10.051. ISSN1996-0786.
+^ Department of Environmental Protection, Russia
+^ Central Environmental Authority. "Environmental Impact Assessment (EIA) Procedure in Sri Lanka". Central Environmental Authority. Central Environmental Authority. Retrieved 1 November 2016.
+^ United States. National Environmental Policy Act, P.L. 91-190, 83Stat.852, 42 U.S.C.4321 et seq. Approved January 1, 1970.
+^ U.S. Council on Environmental Quality. "NEPA and Agency Planning." Code of Federal Regulations, 40 C.F.R. 1501.
+^ Eccleston, Charles; Doub, J. Peyton (2012). Preparing NEPA Environmental Assessments: A User's Guide to Best Professional Practices. CRC Press. ISBN9781439808825.
+^ Sierra Club v. United States Army Corps of Engineers, 701 F.2d 1011, 18 ERC 1748. (2d Cir., 02/25/1983)
+^ Ritter, John (2003-06-03). "Lawsuit pits risks and roads". USA Today.
+^ "Sive,D. & Chertok,M., "Little NEPAs" and Environmental Impact Assessment Procedures" (PDF). Retrieved 2013-01-03.
+^ Sands, P., (1989), The Environment, Community and International Law, Harvard International Law Lournal, 393, p402
+^ Weiss, E., (1999), Understanding Compliance with International Environmental Agreements: The Bakers Dozen Myths, Univ Richmond L.R. 32, 1555
+^ "Convention on Environmental Impact Assessment in a Transboundary Context (Espoo, 1991)". Unece.org. Retrieved 2013-01-03.
+^ Wolfrum, R., & Matz, N., (2003), Conflicts in International Environmental Law, Max-Planck-Institut fr Auslndisches ffentliches Recht und Vlkerrech
+^ Young, O., (1999), The Effectiveness of International Environmental Regimes, MIT Press
+^ Jay, S.; Jones, C.; Slinn, P.; Wood, C. (2007). "Environmental Impact Assessment: Retrospect and Prospect". Environmental Impact Assessment Review. Elsevier. 27 (4): 289300. doi:10.1016/j.eiar.2006.12.001.
+^ Lenzen, M.; Murray, S.; Korte, B.; Dey, C. (2003). "Environmental impact assessment including indirect effectsa case study using input-output analysis". Environmental Impact Assessment Review. Elsevier. 23 (3): 263282. doi:10.1016/S0195-9255(02)00104-X.
+^ Shepherd, A.; Ortolano, L. (1996). "Strategic environmental assessment for sustainable urban development". Environmental Impact Assessment Review. Elsevier. 16 (4-6): 321335. doi:10.1016/S0195-9255(96)00071-6.
+^ Fernandes, Joo P. (2000). "EIA procedure, Landscape ecology and conservation managementEvaluation of alternatives in a highway EIA process". Environmental Impact Assessment Review. Elsevier. 20 (6): 665680. doi:10.1016/S0195-9255(00)00060-3.
+^ Thissen, WIH; Agusdinata, DB (2008). "Handling deep uncertainties in impact assessment". In proceedings of the 28th annual conference of the IAIA May 59, 2008, Perth, Australia. IAIA.
+^ Maier, HR; Ascough, JC; Wattenbach, M; Renschler, CS; Labiosa, WB (2008). "Uncertainty in Environmental Decision Making: Issues, Challenges and Future Directions". Publications from USDA-ARS/UNL Faculty. Paper 399. USDA-ARS/UNL Faculty.
+^ a b Tenney, A; Kvrner, J; Gjerstad, KI (2006). "Uncertainty in environmental impact assessment predictions: the need for better communication and more transparency". Impact Assessment and Project Appraisal. 24 (1): 4556.
+^ Wood, C; , Dipper, B; Jones, C (2000). "Auditing the assessments of the environmental impacts of planning projects". Journal of Environmental Planning and Management. 43 (1): 2347.
+^ Cardenas, IC; Halman, JIM. "Coping with uncertainty in environmental impact assessments. Open techniques". Environmental Impact Assessment Review. Elsevier. 60: 2439. doi:10.1016/j.eiar.2016.02.006.
+Sources[edit]
+Clark, Ray; Canter, Larry, eds. (1997). Environmental Policy and NEPA: Past, Present and Future. Boca Raton, Florida: St. Lucie Press.
+Rychlak, Ronald J.; Case, David W. (2010). Environmental Law: Oceana's Legal Almanac Series. New York: Oxford University Press. pp.111120.
+Kershner, Jim (27 August 2011). "NEPA, the National Environmental Policy Act".
+Friends of the Oldman River Society v. Canada (Minister of Transport) 1992 CanLII 110, [1992] 1 SCR 3 (23 January 1992), Supreme Court of Canada (Canada)
+Notes[edit]
+^ The United States Environmental Protection Agency was established on 2 December 1970, in response to elevated concern about environmental pollution.
+Further reading[edit]
+Carroll, B. and Turpin T. (2009). Environmental impact assessment handbook, 2nd ed. Thomas Telford Ltd, ISBN 978-0-7277-3509-6
+Fischer, T. B. (ed., 2016). Environmental Assessment. Critical Concepts of the Built Environment, Routledge, New York. ISBN 978-1-138-77776-7
+Glasson, J; Therivel, R; Chadwick A. (2005). Introduction to Environmental Impact Assessment. London: Routledge
+Hanna, K. (2009). Environmental Impact Assessment: Practice and Participation, 2nd ed. Oxford
+Petts, J. (ed.), Handbook of Environmental Impact Assessment, Vols 1 & 2. Oxford, UK: Blackwell. ISBN 0-632-04772-0
+Ruddy, T. F.; Hilty, L. M. (2008). "Impact assessment and policy learning in the European Commission". Environmental Impact Assessment Review. 28 (23): 90. doi:10.1016/j.eiar.2007.05.001.
+External links[edit]
+European Commission - EIA website
+European Commission-funded project on Impact Assessment Tools
+Environmental Impact Assessment at the University of Sydney
+International Association for Impact Assessment (IAIA)
+Netherlands Commission for Environmental Assessment
+UNU Open Educational Resource on EIA: A Course Module, Wiki and Instructional Guide
+ELM EIA Law Matrix ~ Environmental Law Alliance Worldwide
+[1]
+v
+t
+e
+Environmental social science
+Fields
+Ecological anthropology
+Ecological economics
+Environmental anthropology
+Environmental economics
+Environmental communication
+Environmental history
+Environmental politics
+Environmental psychology
+Environmental sociology
+Human ecology
+Human geography
+Political ecology
+Regional science
+Related
+Agroecology
+Anthrozoology
+Behavioral geography
+Community studies
+Demography
+Design
+ecological
+environmental
+Ecological humanities
+Economics
+energy
+thermo
+Environmental
+education
+ethics
+law
+science
+studies
+Ethnobiology
+botany
+ecology
+zoology
+Forestry
+Industrial ecology
+Integrated geography
+Permaculture
+Rural sociology
+Science, technology and society
+science studies
+Sustainability
+science
+studies
+Systems ecology
+Urban
+ecology
+geography
+metabolism
+studies
+Applied
+Architecture
+landscape
+sustainable
+Ecopsychology
+Engineering
+ecological
+environmental
+Green criminology
+Health
+environmental
+epidemiology
+occupational
+public
+Management
+environmental
+fisheries
+forest
+natural resource
+waste
+Planning
+environmental
+land use
+regional
+spatial
+urban
+Policy
+energy
+environmental
+Environment portal
+Category
+Concepts
+Degrees
+Institutions
+Journals
+Research institutes
+Scholars
+v
+t
+e
+Environmental technology
+Appropriate technology
+Clean technology
+Environmental design
+Environmental impact assessment
+Sustainable development
+Sustainable technology
+Pollution
+Air pollution (control
+dispersion modeling)
+Industrial ecology
+Solid waste treatment
+Waste management
+Water (agricultural wastewater treatment
+industrial wastewater treatment
+sewage treatment
+waste-water treatment technologies
+water purification)
+Renewable energy
+Alternative energy
+Efficient energy use
+Energy development
+Energy recovery
+Fuel (alternative fuel
+biofuel
+carbon negative fuel
+hydrogen technologies)
+List of energy storage projects
+Renewable energy (commercialization)
+Sustainable energy
+Transportation (electric vehicle
+hybrid vehicle)
+Conservation
+Birth control
+Building (green
+natural
+sustainable architecture
+New Urbanism
+New Classical)
+Conservation biology
+Conservation ethic
+Ecoforestry
+Environmental preservation
+Environmental remediation
+Green computing
+Permaculture
+Recycling
+v
+t
+e
+Human impact on the environment
+General
+Anthropocene
+Environmental issues
+Human impact
+Impact assessment
+List of issues
+Planetary boundaries
+Causes
+Agriculture
+fishing
+irrigation
+meat production
+palm oil
+Energy industry
+biodiesel
+coal
+electricity generation
+nuclear power
+oil shale
+petroleum
+reservoirs
+wind power
+Manufacturing
+cleaning agents
+concrete
+nanotechnology
+paint
+paper
+pesticides
+pharmaceuticals and personal care
+Transport
+aviation
+roads
+shipping
+Other
+land use
+mining
+genetic pollution
+human overpopulation
+overexploitation
+particulates
+pollution
+war
+Effects
+Biodiversity threats
+Climate change
+Deforestation
+Desertification
+Ecocide
+Erosion
+Coral reefs
+Freshwater cycle
+Global warming
+Habitat destruction
+Holocene extinction
+Nitrogen cycle
+Land degradation
+Land surface effects on climate
+Phosphorus cycle
+Ocean acidification
+Ozone depletion
+Runaway climate change
+Mitigation
+Birth control
+Cleaner production
+Climate change mitigation
+Climate engineering
+Ecological engineering
+Environmental engineering
+Environmental mitigation
+Industrial ecology
+Mitigation banking
+Organic farming
+Reforestation
+urban
+Restoration ecology
+Sustainable consumption
+Waste minimization
+Commons
+Category
+by country
+assessment
+mitigation
+v
+t
+e
+Social and environmental accountability
+Ethics and
+principles
+Aarhus Convention
+Corporate accountability/ behaviour/ social responsibility
+Ethical banking
+Ethical code
+Extended producer responsibility
+Organizational ethics
+Organizational justice
+Principles for Responsible Investment
+Social responsibility
+Stakeholder theory
+Sullivan principles
+Transparency (behavioral
+social)
+UN Global Compact
+Social
+accounting
+Double bottom line
+Ethical Positioning Index
+Higg Index
+Impact assessment(environmental
+equality
+social)
+ISO 26000
+Genuine progress indicator
+OHSAS 18001
+Performance indicator
+SA8000
+Social return on investment
+Whole-life cost
+Environmental
+accounting
+Carbon accounting
+Eco-Management and Audit Scheme
+Emission inventory
+Environmental full-cost accounting/ impact assessment/ management system/ profit-and-loss account
+ISO 14000
+ISO 14031:1999
+Life-cycle assessment
+Pollutant release and transfer register
+Sustainability accounting/ measurement/ metrics and indices/ standards and certification/ supply chain
+Toxics Release Inventory
+Triple bottom line
+Reporting
+Global Reporting Initiative
+GxP guidelines
+Sustainability reporting
+Auditing
+Community-based monitoring
+Environmental(certification)
+Fair trade(certification)
+ISO 19011
+Related
+Bangladesh Accord
+Benefit corporation
+Child labour
+Community interest company
+Conflict of interest
+Disasters
+Disinvestment
+Eco-labeling
+Environmental pricing reform
+Environmental, social and corporate governance
+Ethical consumerism
+Euthenics
+Health impact assessment
+Market governance mechanism
+Product certification
+Public participation
+Social enterprise
+Socially responsible investing
+Stakeholder(engagement)
+Supply chain management
+Environment portal
+Category
+Commons
+Organizations
+Authority control
+GND: 4125275-5
+NDL: 00564906
+NewPP limit report
+Parsed by mw1271
+Cached time: 20161120105559
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.472 seconds
+Real time usage: 0.572 seconds
+Preprocessor visited node count: 4106/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 141709/2097152 bytes
+Template argument size: 3271/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.190/10.000 seconds
+Lua memory usage: 5.59 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+441.418
+1 - -total
+46.28%
+204.310
+2 - Template:Reflist
+13.99%
+61.735
+13 - Template:Cite_web
+9.14%
+40.350
+11 - Template:Cite_journal
+6.17%
+27.233
+1 - Template:Abbreviations
+6.01%
+26.537
+4 - Template:Navbox
+5.31%
+23.456
+1 - Template:Ambox
+5.15%
+22.736
+7 - Template:Cite_book
+5.06%
+22.346
+1 - Template:Other_uses
+4.99%
+22.014
+1 - Template:Expand_acronym
+Saved in parser cache with key enwiki:pcache:idhash:2364800-0!*!0!!en!4!* and timestamp 20161120105558 and revision id 749723659
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Environmental_impact_assessment&oldid=749723659"
+Categories: Environmental designEconomics of sustainabilityEnvironmental lawEnvironmental monitoringSustainable developmentSustainable designTechnology assessmentEnvironmental impact assessmentEnvironmental social science conceptsHidden categories: Pages using web citations with no URLWikipedia articles needing style editing from October 2016All articles needing style editingWikipedia articles with GND identifiersPages using ISBN magic links

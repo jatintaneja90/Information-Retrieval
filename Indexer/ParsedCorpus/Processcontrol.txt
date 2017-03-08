@@ -1,0 +1,141 @@
+Processcontrol
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}See also: Control theory
+This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2010) (Learn how and when to remove this template message)
+Main article: Automation
+Example of control system of a continuous stirred-tank reactor.
+Control panel of a nuclear reactor.
+Process control is an engineering discipline that deals with architectures, mechanisms and algorithms for maintaining the output of a specific process within a desired range. For instance, the temperature of a chemical reactor may be controlled to maintain a consistent product output.
+Process control is extensively used in industry and enables mass production of consistent products from continuously operated processes such as oil refining, paper manufacturing, chemicals, power plants and many others. Process control enables automation, by which a small staff of operating personnel can operate a complex process from a central control room.
+Contents
+1 Background
+2 Hierarchy of process control
+3 Types of processes using process control
+4 Examples
+5 See also
+6 External links
+Background[edit]
+Block diagram of a of closed control (Feedback) loop
+Example of a continuous flow control loop. Signalling is by industry standard 4-20 mA current loops, and a "smart" valve positioner ensures the control valve operates correctly.
+Process control may either use feedback or it may be open loop. Control may also be continuous (automobile cruise control) or cause a sequence of discrete events, such as a timer on a lawn sprinkler (on/off) or controls on an elevator (logical sequence).
+A thermostat on a heater is an example of control that is on or off. A temperature sensor turns the heat source on if the temperature falls below the set point and turns the heat source off when the set point is reached. There is no measurement of the difference between the set point and the measured temperature (e.g. no error measurement) and no adjustment to the rate at which heat is added other than all or none.
+A familiar example of feedback control is cruise control on an automobile. Here speed is the measured variable. The operator (driver) adjusts the desired speed set point (e.g. 100km/hr) and the controller monitors the speed sensor and compares the measured speed to the set point. Any deviations, such as changes in grade, drag, wind speed or even using a different grade of fuel (for example an ethanol blend) are corrected by the controller making a compensating adjustment to the fuel valve open position, which is the manipulated variable. The controller makes adjustments having information only about the error (magnitude, rate of change or cumulative error) although settings known as tuning are used to achieve stable control. The operation of such controllers is the subject of control theory.
+A commonly used control device called a programmable logic controller, or a PLC, is used to read a set of digital and analog inputs, apply a set of logic statements, and generate a set of analog and digital outputs.
+For example, if an adjustable valve were used to hold level in a tank the logical statements would compare the equivalent pressure at depth setpoint to the pressure reading of a sensor below the normal low liquid level and determine whether more or less valve opening was necessary to keep the level constant. A PLC output would then calculate an incremental amount of change in the valve position. Larger more complex systems can be controlled by a Distributed Control System (DCS) or SCADA system.
+Hierarchy of process control[edit]
+Functional levels of a manufacturing control operation.
+The accompanying diagram is a general model which shows functional manufacturing levels in a large process using computerised control.
+Referring to the diagram;
+Level 0 contains the field devices such as flow and temperature sensors, and final control elements, such as control valves
+Level 1 contains the industrialised Input/Output (I/O) modules, and their associated distributed electronic processors.
+Level 2 contains the supervisory computers, which collate information from processor nodes on the system, and provide the operator control screens.
+Level 3 is the production control level, which does not directly control the process, but is concerned with monitoring production and monitoring targets
+Level 4 is the production scheduling level.
+Types of processes using process control[edit]
+Processes can be characterized as one or more of the following forms:
+Discrete  Found in many manufacturing, motion and packaging applications. Robotic assembly, such as that found in automotive production, can be characterized as discrete process control. Most discrete manufacturing involves the production of discrete pieces of product, such as metal stamping.
+Batch  Some applications require that specific quantities of raw materials be combined in specific ways for particular durations to produce an intermediate or end result. One example is the production of adhesives and glues, which normally require the mixing of raw materials in a heated vessel for a period of time to form a quantity of end product. Other important examples are the production of food, beverages and medicine. Batch processes are generally used to produce a relatively low to intermediate quantity of product per year (a few pounds to millions of pounds).
+Continuous  Often, a physical system is represented through variables that are smooth and uninterrupted in time. The control of the water temperature in a heating jacket, for example, is an example of continuous process control. Some important continuous processes are the production of fuels, chemicals and plastics. Continuous processes in manufacturing are used to produce very large quantities of product per year (millions to billions of pounds).
+Applications having elements of discrete, batch and continuous process control are often called hybrid applications.
+Examples[edit]
+An anti-lock braking system (ABS) is a complex example, consisting of multiple inputs, conditions and outputs.
+Aircraft stability control is a highly complex example using multiple inputs and outputs.
+See also[edit]
+Actuator
+Automation
+Automatic control
+Check weigher
+Citect
+Closed-loop controller
+Control engineering
+Control panel
+Control system
+Control theory
+Controllability
+Controller (control theory)
+Cruise control
+Current loop
+Digital control
+Distributed control system
+Feedback
+Feed-forward
+Fieldbus
+Flow control valve
+Fuzzy control system
+Gain scheduling
+Intelligent control
+Laplace transform
+Linear parameter-varying control
+Measurement instruments
+Model predictive control
+Negative feedback
+Nonlinear control
+Open-loop controller
+Operational historian
+PID controller
+Piping and instrumentation diagram
+Positive feedback
+Process capability
+Programmable Logic Controller
+Regulator (automatic control)
+SCADA
+Servomechanism
+Setpoint
+Signal-flow graph
+Simatic S5 PLC
+Sliding mode control
+Temperature control
+Transducer
+Valve
+Watt governor
+Process control monitoring
+External links[edit]
+The Michigan Chemical Engineering Process Dynamics and Controls Open Textbook
+PID Control Theory and Best Practices
+Process Control Equipment Video Tutorials
+PID control virtual laboratory, free video tutorials, on-line simulators, advanced process control schemes
+Process & Control publication
+NewPP limit report
+Parsed by mw1266
+Cached time: 20161119104543
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.056 seconds
+Real time usage: 0.088 seconds
+Preprocessor visited node count: 194/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 4601/2097152 bytes
+Template argument size: 13/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/500
+Lua time usage: 0.018/10.000 seconds
+Lua memory usage: 912 KB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+55.114
+1 - -total
+49.31%
+27.176
+1 - Template:Unreferenced
+43.23%
+23.824
+1 - Template:Ambox
+37.20%
+20.505
+1 - Template:See_also
+7.12%
+3.922
+1 - Template:Main
+2.03%
+1.119
+2 - Template:Multicol-break
+1.96%
+1.082
+1 - Template:Multicol
+1.59%
+0.876
+1 - Template:Multicol-end
+Saved in parser cache with key enwiki:pcache:idhash:658183-0!*!0!!en!4!* and timestamp 20161119104543 and revision id 750381401
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Process_control&oldid=750381401"
+Categories: Chemical process engineeringControl theoryProduction and manufacturingProcess managementStatistical process controlProcess engineeringHidden categories: Articles lacking sources from November 2010All articles lacking sources

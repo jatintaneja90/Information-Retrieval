@@ -1,0 +1,284 @@
+PelamisWaveEnergyConverter
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Part of a series on
+Renewable energy
+Biofuel
+Biomass
+Geothermal
+Hydropower
+Solar energy
+Tidal power
+Wave power
+Wind power
+Topics by country
+100% renewable energy
+Marketing and policy trends
+v
+t
+e
+The Pelamis Wave Energy Converter was a technology that used the motion of ocean surface waves to create electricity. The machine was made up of connected sections which flex and bend as waves pass; it is this motion which is used to generate electricity.
+Developed by the now defunct [1] Scottish company Pelamis Wave Power (formerly Ocean Power Delivery), the Pelamis became the first offshore wave machine to generate electricity into the grid, when it was first connected to the UK grid in 2004.[2] Pelamis Wave Power then went on to build and test five additional Pelamis machines: three first-generation P1 machines, which were tested in a farm off the coast of Portugal in 2009, and two second-generation machines, the Pelamis P2, were tested off Orkney between 2010 and 2014. The company went into administration in November 2014, with the intellectual property transferred to the Scottish Government body Wave Energy Scotland.[3]
+Contents
+1 Operation
+2 Principle
+3 Projects
+3.1 P2 Pelamis Testing at EMEC
+3.2 Projects Formerly in Development
+4 Development History
+4.1 Prototype Pelamis Machine
+4.2 Aguadoura Wave Farm
+5 Etymology
+6 Images
+7 See also
+8 References
+9 External links
+Operation[edit]
+The Pelamis machine is an offshore wave energy converter, operating in water depths greater than 50m. The machine consists of a series of semi-submerged cylindrical sections linked by hinged joints. As waves pass along the length of the machine, the sections move relative to one another. The wave-induced motion of the sections is resisted by hydraulic cylinders which pump high pressure oil through hydraulic motors via smoothing hydraulic accumulators. The hydraulic motors drive electrical generators to produce electricity. Electricity from all the joints is fed down a single umbilical cable to a junction on the sea bed. Several devices can be connected and linked to shore through a single seabed cable.
+Principle[edit]
+The Pelamis is an attenuating wave energy converter. The machine responds to the curvature of the waves (their shape) rather than the wave height. As waves can only reach a certain curvature before naturally breaking, this limits the range of motion through which the machine must move but maintains large motion at the joints in small waves.
+Projects[edit]
+P2 Pelamis Testing at EMEC[edit]
+The P2 Pelamis design was Pelamis Wave Power's second generation Pelamis machine. The Pelamis P2 is 180m long, 4m diameter and approximately 1350 tonnes in weight. Consisting of five tube sections and four flexible joints, the design is longer and fatter than the previous P1 design.
+In 2010, Pelamis Wave Power began tests of the first Pelamis P2 machine at the European Marine Energy Centre, Orkney, Scotland. The machine was owned by the German utility company, E.ON, and was the UK's first commercial supply contract in the marine energy sector.[4] In March 2010 Pelamis Wave Power announced a second order for a P2 machine, from ScottishPower Renewables, part of Iberdrola Renovables.[5] This second machine was first installed at EMEC in May 2012.[6] The two utility companies announced that they will work together to share and collaborate in testing of the P2 Pelamis technology.[7]
+Following the demise of the company, the P2-001 device was acquired by Wave Energy Scotland, having completed over 15,000 hours of operation. The device was decommissioned in April 2016. The other device, P2-002 was sold to the European Marine Energy Centre for use as a test rig.[8]
+Projects Formerly in Development[edit]
+E.ON and ScottishPower Renewables announced plans to build larger projects using Pelamis machines in the waters off Orkney's west coast.[9] Both companies won leases in 2010 from The Crown Estate, who own the seabed around the UK, for projects of up to 50MW. The "Pentland Firth and Orkney Waters Leasing Round" was the world's first commercial scale wave and tidal energy leasing opportunity.[10]
+Development History[edit]
+Prototype Pelamis Machine[edit]
+The Pelamis Prototype machine at EMEC, Orkney, Scotland, 2007
+Pelamis Wave Power tested their first full-scale prototype at the European Marine Energy Centre in Orkney, Scotland between 2004 and 2007. The machine, which was rated at 750kW, was the world's first offshore wave power machine to generate electricity into the grid system.
+The prototype was 120m long and 3.5m in diameter. It consisted of four tube sections linked by three, shorter, power conversion modules[11]
+Aguadoura Wave Farm[edit]
+Main article: Aguadoura Wave Farm
+In 2008 Pelamis tested three first generation, P1 Pelamis waves at the Aguadoura Wave Farm. Located off the northwest coast of Portugal near Pvoa de Varzim, the farm had an installed capacity of 2.25MW and was the world's first multiple machine wave power project.[12] The project was part funded by Portuguese utility Enersis,[13] at the time owned by Australian global investment company Babcock & Brown.[14] The farm first generated electricity in July 2008 but was taken offline in November 2008 at the same time as Babcock & Brown encountered financial difficulties.[15]
+Etymology[edit]
+Pelamis platurus is a yellow-bellied sea snake that lives in tropical and subtropical waters. It prefers shallow inshore waters.
+Images[edit]
+2 of 3 Pelamis machines in the harbour of Peniche, Portugal.
+Pelamis prototype machine at EMEC.
+The front of the Pelamis machine bursting through a wave at the Aguadoura Wave Park
+1 of 3 Pelamis machines at the Aguadoura Wave Farm
+See also[edit]
+Energy portal
+Wave Energy
+Pelamis Wave Power
+Aegir wave farm
+References[edit]
+^ "Wave power firm Pelamis calls in administrators". 21 November 2014. Retrieved 21 November 2014.
+^ "Update on EMEC activities, resource description, and characterisation of wave-induced velocities in a tidal flow" (PDF). Retrieved 2010-12-03.
+^ Wave Energy Scotland Briefing Note. (PDF) http://www.gov.scot/Resource/0048/00483663.pdf. Retrieved 13 November 2016. Missing or empty |title= (help)
+^ "Making Waves". Scottish Government. Retrieved 2011-04-07.
+^ "ScottishPower Renewables Purchase Pelamis Wave Power Device". ScottishPowerRenewables.com. Retrieved 2010-06-16.
+^ "ScottishPower Renewables at EMEC". www.pelamiswave.com. Retrieved 2013-03-15.
+^ "Two Major Energy Players Join Forces on Wave Power". New Energy Focus. Retrieved 2011-04-07.
+^ "Dismantling Pelamis P2 001 in Orkney". Wave Energy Scotland. 15 March 2016. Retrieved 13 November 2016.
+^ "ScottishPower Renewables To Develop Major Marine Power Sites In The Pentland Firth". ScottishPower Renewables. Retrieved 2011-04-07.
+^ "'Milestone' for wave energy plans". news.bbc.co.uk. 2010-03-16.
+^ "Development History". Pelamis Wave Power. Retrieved 29 June 2012.
+^ "Wave energy contract goes abroad". BBC Scotland. 2005-05-19. Retrieved 2008-08-06.
+^ "Pelamis Offshore Wave Energy in Portugal". Alternative Energy. 2006-10-08.
+^ "Babcock & Brown acquires Enersis for 490mn". Retrieved 2011-04-07.
+^ "Big boys' greed pulls us all down". The Sydney Morning Herald. 2008-09-27.
+External links[edit]
+Aegir Wave Power
+The European Marine Energy Test Centre
+The Power Technology website
+Pelamis Secures Wave Energy Order from E.on
+Pelamis at Aguadoura video
+v
+t
+e
+Energy in Scotland
+Energy in the United Kingdom
+Sectors
+Nuclear power
+Renewable energy
+Wind power
+Companies and
+organisations
+Current
+Aquamarine Power
+Community Energy Scotland
+EDF Energy
+European Marine Energy Centre
+FREDS
+National Grid
+Office for Nuclear Regulation
+Score Group
+SGN
+Scottish Government (Energy Department)
+Scottish Gas
+Scottish Power
+SSE
+Wood Group
+Defunct
+British Energy
+Pelamis Wave Power
+Scottish Hydro Electric
+Scottish Nuclear
+South of Scotland Electricity Board
+Wavegen
+Active
+power stations
+Hydro-electric
+Northern scheme
+Cruachan
+Breadalbane
+Tummel
+Foyers scheme
+Sloy-Awe scheme
+Galloway scheme
+Glendoe scheme
+Lanark scheme
+Kinlochewe-Talladale scheme
+Nuclear
+Hunterston B
+Torness
+Oil and gas
+Peterhead
+Lerwick
+Wave
+Islay LIMPET
+Wind
+Ardrossan
+Arecleoch
+Beatrice
+Beinn an Tuirc
+Black Law
+Braes of Doune
+Clyde
+Cruach Mhr
+Crystal Rig
+Farr
+Hadyard Hill
+Hare Hill
+Pates Hill
+Whitelee
+Other
+Dundee Incinerator
+Greengairs
+Lerwick Incinerator
+Steven's Croft
+Westfield
+Decommissioned
+power stations
+Coal
+Barony (1980s)
+Braehead (1980s)
+Cockenzie (2013)
+Kincardine (1997)
+Longannet (2016)
+Methil (2000)
+Pinkston
+Portobello (1977)
+Yoker (1976)
+Nuclear
+Chapelcross (2004)
+Dounreay (1994)
+Hunterston A (1990)
+Oil and gas
+Inverkip (1988)
+Fife (2011)
+Other
+Energy policy of Scotland
+Sustainable development in Scotland
+Category
+Commons
+v
+t
+e
+Sustainable development in Scotland
+Issues
+Climate change
+Renewable energy
+Wind power
+Projects & Technologies
+Avondale Landfill
+MVHallaig
+Islay LIMPET
+Oyster wave energy converter
+Pelamis Wave Energy Converter
+ScotlandNorway interconnector
+Private Sector
+Aquamarine Power
+Celtic Renewables
+North of Scotland Hydro-Electric Board
+Pelamis Wave Power
+Wavegen
+Communities & Individuals
+David Reay
+Findhorn Ecovillage
+Gigha
+Kingdom Housing Association
+Scoraig
+Intermediaries, Partnerships & Politics
+Community Energy Scotland
+Energy Saving Trust
+FREDS
+Minister for Environment and Climate Change
+Scottish Green Party
+Scottish Renewables
+Transition Towns
+Legislation
+Climate Change (Scotland) Act 2009
+Land Reform (Scotland) Act 2003
+Marine (Scotland) Act 2010
+Public Sector
+Centre for Social and Environmental Accounting Research
+Energy policy of Scotland
+Enterprise, Environment and Digital Directorates
+European Marine Energy Centre
+Saltire Prize
+SEPA
+Scottish Natural Heritage
+NewPP limit report
+Parsed by mw1179
+Cached time: 20161119084132
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.196 seconds
+Real time usage: 0.240 seconds
+Preprocessor visited node count: 943/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 79435/2097152 bytes
+Template argument size: 53/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.077/10.000 seconds
+Lua memory usage: 3.39 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+190.200
+1 - -total
+46.17%
+87.822
+1 - Template:Reflist
+28.96%
+55.079
+10 - Template:Cite_web
+15.72%
+29.903
+5 - Template:Navbox
+11.19%
+21.292
+1 - Template:Scottish_energy
+10.38%
+19.740
+1 - Template:Renewable_energy_sources
+9.68%
+18.409
+1 - Template:Sidebar
+8.30%
+15.795
+5 - Template:Cite_news
+3.88%
+7.385
+1 - Template:Sustainable_development_in_Scotland
+3.50%
+6.650
+1 - Template:Main_article
+Saved in parser cache with key enwiki:pcache:idhash:3510949-0!*!0!!en!4!* and timestamp 20161119084132 and revision id 749429724
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pelamis_Wave_Energy_Converter&oldid=749429724"
+Categories: 2007 introductionsBuildings and structures in OrkneyWave energy convertersWave farms in PortugalWave farms in ScotlandHidden categories: Pages with citations lacking titlesPages with citations having bare URLs

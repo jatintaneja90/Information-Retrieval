@@ -1,0 +1,90 @@
+Marginalabatementcost
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Part of a series about
+Environmental economics
+Concepts
+Green accounting
+Green economy
+Green trading
+Eco commerce
+Green job
+Environmental enterprise
+Fiscal environmentalism
+Environmental finance
+Renewable energy
+Policies
+Sustainable tourism
+Ecotax
+Environmental tariff
+Net metering
+Environmental pricing reform
+Pigovian tax
+Dynamics
+Renewable energy commercialization
+Marginal abatement cost
+Green paradox
+Green politics
+Pollution haven hypothesis
+Carbon related
+Low-carbon economy
+Carbon neutral fuel
+Carbon neutrality
+Carbon pricing
+Emissions trading
+Carbon credit
+Carbon offset
+Carbon emission trading
+Personal carbon trading
+Carbon tax
+Carbon finance
+Feed-in tariff
+Carbon diet
+Food miles
+2000-watt society
+Carbon footprint
+v
+t
+e
+Abatement cost is the cost of reducing environmental negatives such as pollution. Marginal cost is an economic concept that measures the cost of an additional unit. The marginal abatement cost (MAC), in general, measures the cost of reducing one more unit of pollution.
+Although marginal abatement costs can be negative, such as when the low carbon option is cheaper than the business-as-usual option, MACs often rise steeply as more pollution is reduced.
+Marginal abatement costs are typically used on a marginal abatement cost curve or MAC curve, which shows the marginal cost of additional reductions in pollution.
+Contents
+1 Usage
+2 Criticism
+3 Examples of existing MAC curves
+4 See also
+5 References
+Usage[edit]
+Carbon traders use MAC curves to derive the supply function for modelling carbon price fundamentals. Power companies may employ MAC curves to guide their decisions about long-term capital investment strategies to select among a variety of efficiency and generation options. Economists have used MAC curves to explain the economics of interregional carbon trading.[1] Policy-makers use MAC curves as merit order curves, to analyze how much abatement can be done in an economy at what cost, and where policy should be directed to achieve the emission reductions.
+However, MAC curves should not be used as abatement supply curves (or merit order curves) to decide which measures to implement in order to achieve a given emission-reduction target. Indeed, the options they list would take decades to implement, and it may be optimal to implement expensive but high-potential measures before introducing cheaper measures.[2]
+Criticism[edit]
+The way that MAC curves are usually built has been criticized for lack of transparency and the poor treatment it makes of uncertainty, inter-temporal dynamics, interactions between sectors and ancillary benefits.[3]
+Examples of existing MAC curves[edit]
+Various economists, research organizations, and consultancies have produced MAC curves. Bloomberg New Energy Finance[4] and McKinsey & Company[5] have produced economy wide analyses on greenhouse gas emissions reductions for the United States. ICF International[6] produced a California specific curve following AB-32 legislation as have Sweeney and Weyant.[7]
+The Wuppertal Institute for Climate, Environment and Energy produced several marginal abatement cost curves for Germany (also called Cost Potential Curves), depending on the perspective (end-user, utilities, society).[8]
+The US Environmental Protection Agency has done work on a MAC curve for non carbon dioxide emissions such as methane, N2O, and HFCs.[9] Enerdata and LEPII-CNRS (France) produce MAC curves with the POLES model for the 6 Kyoto Protocol gases.[10] These curves have been used for various public and private actors either to assess carbon policies [11] or through the use of a carbon market analysis tool.[12]
+The World Bank 2013 low-carbon energy development plan for Nigeria,[13] prepared jointly with the World Bank, ulitizes MAC curves created in Analytica.[14]
+See also[edit]
+Environmental economics
+Marginal cost
+Social cost
+References[edit]
+^ "Ellerman, A.D. and Decaux, A., Analysis of post-Kyoto CO2} emissions trading using marginal abatement curves, 1998." (PDF). Retrieved 2013-03-08.
+^ "Vogt-Schilb, A. and Hallegatte, S., 2014. Marginal abatement cost curves and the optimal timing of mitigation measures.". Energy Policy. 66: 645653. doi:10.1016/j.enpol.2013.11.045.
+^ "Marginal abatement cost curves: a call for caution". Climate Policy. 12: 219236. doi:10.1080/14693062.2011.582347.
+^ Bloomberg New Energy Finance, US Marginal Abatement Cost Curve, 2010
+^ McKinsey & Company, Reducing US greenhouse gas emissions: how much at what cost? 2007
+^ "ICF International, Emission reduction opportunities for non-CO2} greenhouse gases in California, 2005" (PDF). Retrieved 2013-03-08.
+^ Sweeney, J. and Weyant, J., Analysis of measures to meet the requirements of Californias Assembly Bill 32, 2008
+^ Options and Potentials for Energy End-use Efficiency and Energy Services, Wuppertal Institute, 2006
+^ "EPA, Global mitigation of non-CO2} greenhouse gases, 2006". Epa.gov. 2010-11-17. Retrieved 2013-03-08.
+^ "Enerdata, Production of MAC curves by sector and by country, 2010". Enerdata.net. Retrieved 2013-03-08.
+^ Impacts of Multi-gas Strategies for Greenhouse Gas Emissions Abatement: Insights from a Partial Equilibirum Model, Criqui P., Russ P., Deybe D., in The Energy Journal, Special Issue: Multi-Greenhouse Gas Mitigation and Climate Policy, 2007
+^ "Enerdata, Use of MACCs for carbon markets analysis, 2010". Enerdata.net. Retrieved 2013-03-08.
+^ Low-Carbon Development: Opportunities for Nigeria, Editors: Raffaello Cervigni, John Allen Rogers, and Max Henrion, No 15812 in World Bank Publications, January 2013. 186p.
+^ "Marginal Abatement". Lumina Decision Systems. Retrieved 2015-01-27.
+Saved in parser cache with key enwiki:pcache:idhash:26127533-0!*!0!!en!*!* and timestamp 20161027133554 and revision id 732703490
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Marginal_abatement_cost&oldid=732703490"
+Categories: Emissions tradingCarbon financeEconomics and climate changeClimate change policyMarginal conceptsPollution

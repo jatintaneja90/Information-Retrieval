@@ -1,0 +1,189 @@
+Nameplatecapacity
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Nameplate capacity, also known as the rated capacity, nominal capacity, installed capacity, or maximum effect, is the intended full-load sustained output of a facility such as a power plant,[1][2] a chemical plant,[3] fuel plant,[4][5][6] metal refinery,[7] mine,[8] and many others. Nameplate capacity is the number registered with authorities for classifying the power output of a power station usually expressed in megawatts (MW).[9]
+Power plants with an output consistently near their nameplate capacity have a high capacity factor.
+Contents
+1 Dispatchable power
+2 Non-dispatchable power
+3 Generator capacity
+4 See also
+5 References
+Dispatchable power[edit]
+For dispatchable power, this capacity depends on the internal technical capability of the plant to maintain output for a reasonable amount of time (for example, a day), neither momentarily nor permanently, and without considering external events such as lack of fuel or internal events such as maintenance.[10] Actual output can be different from nameplate capacity for a number of reasons depending on equipment and circumstances.[10][11]
+Non-dispatchable power[edit]
+For non-dispatchable power, particularly renewable energy, nameplate capacity refers to generation under ideal conditions. Output is generally limited by weather conditions, hydroelectric dam water levels, tidal variations and other outside forces. Equipment failures and maintenance usually contribute less to capacity factor reduction than the innate variation of the power source. In photovoltaics, capacity is rated under Standard Test Conditions usually expressed in the non-SI compliant unit watt-peak (Wp). In addition, a PV system's nameplate capacity is sometimes denoted by a subindex, for example, MWDC or MWAC, in order to clarify, whether the raw DC or already converted AC power output is referred to.
+Generator capacity[edit]
+Diagram of a turbo-electric COGES power-plant, with power-consuming pump
+The term is connected with nameplates on electrical generators as these plates describing the model name and manufacturer usually also contain the rated output,[12] but the rated output of a power station to the electrical grid is invariably less than the generator nameplate capacity, because the components connecting the actual generator to the "grid" also use power. Thus there is a distinction between component capacity and facility capacity.
+See also[edit]
+Energy portal
+Availability factor
+Declared net capacity (power plants)
+Electricity generation
+Intermittent power source#Terminology
+List of energy storage projects
+References[edit]
+^ Energy glossary Energy Information Administration. Retrieved: 23 September 2010.
+^ Glossary Nuclear Regulatory Commission, 2 August 2010. Retrieved: 23 September 2010.
+^ Plant Performance Data (PPD) ICIS. Retrieved: 23 September 2010.
+^ Refinery Economics Natural Resources Canada, 5 january 2009. Retrieved: 23 September 2010.
+^ Magnificent seven Arabian Business, 17 June 2008. Retrieved: 23 September 2010.
+^ Daniel OBrien and Mike Woolverton. Trends in U.S. fuel ethanol production capacity: 2005-2009 K-State & Extension, August 2009. Retrieved: 23 September 2010.
+^ Refining Capacity Alcoa, December 31, 2009 . Retrieved: 23 September 2010.
+^ The Future of Tantalum and Niobium Mining-Technology, 14 Jan 2010. Retrieved: 23 September 2010.
+^ Certificate of Nameplate Capacity Ohio Department of Development. Retrieved: 23 September 2010.
+^ a b Kleiser, Thomas. Response to CDM page 2-4 by TV, 4 March 2009. Retrieved: 23 September 2010.
+^ Swain, Bibb. Designed to go above Nameplate Capacity Ethanol Producer, November 2006. Retrieved: 23 September 2010.
+^ Reitze, Arnold W. Air pollution control law: compliance and enforcement page 260 George Washington University Law School, 2001. ISBN 1-58576-027-7, ISBN 978-1-58576-027-5 Retrieved: 23 September 2010.
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1215
+Cached time: 20161118231055
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.076 seconds
+Real time usage: 0.099 seconds
+Preprocessor visited node count: 701/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 26040/2097152 bytes
+Template argument size: 732/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.011/10.000 seconds
+Lua memory usage: 855 KB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+54.346
+1 - -total
+50.50%
+27.443
+2 - Template:Navbox
+47.67%
+25.908
+1 - Template:Electricity_generation
+33.76%
+18.347
+1 - Template:Portal
+20.42%
+11.098
+1 - Template:Navbox_subgroup
+18.15%
+9.864
+1 - Template:Reflist
+2.66%
+1.447
+3 - Template:Longitem
+Saved in parser cache with key enwiki:pcache:idhash:20548535-0!*!0!!en!4!* and timestamp 20161118231055 and revision id 745286035
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nameplate_capacity&oldid=745286035"
+Categories: Power station technologyElectric powerElectrical generatorsEnergy conversionHidden categories: Pages using ISBN magic links

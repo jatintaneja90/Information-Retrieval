@@ -1,0 +1,260 @@
+Sensibleheat
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Sensible heat is heat exchanged by a body or thermodynamic system in which the exchange of heat changes the temperature of the body or system, and some macroscopic variables of the body or system, but leaves unchanged certain other macroscopic variables of the body or system, such as volume or pressure.[1][2][3][4]
+Usage[edit]
+Thermodynamics
+The classical Carnot heat engine
+Branches
+Classical
+Statistical
+Chemical
+Equilibrium/ Non-equilibrium
+Laws
+Zeroth
+First
+Second
+Third
+Systems
+State
+Equation of state
+Ideal gas
+Real gas
+State of matter
+Equilibrium
+Control volume
+Instruments
+Processes
+Isobaric
+Isochoric
+Isothermal
+Adiabatic
+Isentropic
+Isenthalpic
+Quasistatic
+Polytropic
+Free expansion
+Reversibility
+Irreversibility
+Endoreversibility
+Cycles
+Heat engines
+Heat pumps
+Thermal efficiency
+System properties
+Note: Conjugate variables in italics
+Property diagrams
+Intensive and extensive properties
+Functions of state
+Temperature/ Entropy(introduction)
+Pressure/ Volume
+Chemical potential/ Particle number
+Vapor quality
+Reduced properties
+Process functions
+Work
+Heat
+Material properties
+Property databases
+Specific heat capacity
+c
+=
+{\displaystyle c=}
+T
+{\displaystyle T}
+ 
+S
+{\displaystyle \partial S}
+N
+{\displaystyle N}
+ 
+T
+{\displaystyle \partial T}
+Compressibility
+ 
+=
+ 
+{\displaystyle \beta =-}
+1
+{\displaystyle 1}
+ 
+V
+{\displaystyle \partial V}
+V
+{\displaystyle V}
+ 
+p
+{\displaystyle \partial p}
+Thermal expansion
+ 
+=
+{\displaystyle \alpha =}
+1
+{\displaystyle 1}
+ 
+V
+{\displaystyle \partial V}
+V
+{\displaystyle V}
+ 
+T
+{\displaystyle \partial T}
+Equations
+Carnot's theorem
+Clausius theorem
+Fundamental relation
+Ideal gas law
+Maxwell relations
+Onsager reciprocal relations
+Bridgman's equations
+Table of thermodynamic equations
+Potentials
+Free energy
+Free entropy
+Internal energy
+U
+(
+S
+,
+V
+)
+{\displaystyle U(S,V)}
+Enthalpy
+H
+(
+S
+,
+p
+)
+=
+U
++
+p
+V
+{\displaystyle H(S,p)=U+pV}
+Helmholtz free energy
+A
+(
+T
+,
+V
+)
+=
+U
+ 
+T
+S
+{\displaystyle A(T,V)=U-TS}
+Gibbs free energy
+G
+(
+T
+,
+p
+)
+=
+H
+ 
+T
+S
+{\displaystyle G(T,p)=H-TS}
+History
+Culture
+History
+General
+Heat
+Entropy
+Gas laws
+"Perpetual motion" machines
+Philosophy
+Entropy and time
+Entropy and life
+Brownian ratchet
+Maxwell's demon
+Heat death paradox
+Loschmidt's paradox
+Synergetics
+Theories
+Caloric theory
+Theory of heat
+Vis viva ("living force")
+Mechanical equivalent of heat
+Motive power
+Key publications
+"An Experimental Enquiry
+Concerning ... Heat"
+"On the Equilibrium of
+Heterogeneous Substances"
+"Reflections on the
+Motive Power of Fire"
+Timelines
+Thermodynamics
+Heat engines
+Art
+Education
+Maxwell's thermodynamic surface
+Entropy as energy dispersal
+Scientists
+Bernoulli
+Carnot
+Clapeyron
+Clausius
+Carathodory
+Duhem
+Gibbs
+von Helmholtz
+Joule
+Maxwell
+von Mayer
+Onsager
+Rankine
+Smeaton
+Stahl
+Thompson
+Thomson
+Waterston
+Book:Thermodynamics
+v
+t
+e
+The term is used in contrast to a latent heat, which is the amount of heat exchanged that is hidden, meaning it occurs without change of temperature. For example, during a phase change such as the melting of ice, the temperature of the system containing the ice and the liquid is constant until all ice has melted. The terms latent and sensible are correlative. That means that they are defined as a pair, depending on which other macroscopic variables are held constant during the process.
+The sensible heat of a thermodynamic process may be calculated as the product of the body's mass (m) with its specific heat capacity (c) and the change in temperature (
+ 
+T
+{\displaystyle \Delta T}
+):
+Q
+s
+e
+n
+s
+i
+b
+l
+e
+=
+m
+c
+ 
+T
+.
+{\displaystyle Q_{sensible}=mc\Delta T\,.}
+Joule described sensible heat as the energy measured by a thermometer
+Sensible heat and latent heat are not special forms of energy. Rather, they describe exchanges of heat under conditions specified in terms of their effect on a material or a thermodynamic system.
+In the writings of the early scientists who provided the foundations of thermodynamics, sensible heat had a clear meaning in calorimetry. James Prescott Joule characterized it in 1847 as an energy that was indicated by the thermometer.[5]
+Both sensible and latent heats are observed in many processes while transporting energy in nature. Latent heat is associated with changes of state, measured at constant temperature, especially the phase changes of atmospheric water vapor, mostly vaporization and condensation, whereas sensible heat directly affects the temperature of the atmosphere.
+In meteorology, the term 'sensible heat flux' means the conductive heat flux from the Earth's surface to the atmosphere.[6] It is an important component of Earth's surface energy budget. Sensible heat flux is commonly measured with the eddy covariance method.
+See also[edit]
+Enthalpy
+Thermodynamic databases for pure substances
+Eddy covariance flux (eddy correlation, eddy flux)
+References[edit]
+^ Partington, J.R. (1949). An Advanced Treatise on Physical Chemistry, Volume 1, Fundamental Principles. The Properties of Gases, Longmans, Green, and Co., London, pages 155-157.
+^ Prigogine, I., Defay, R. (1950/1954). Chemical Thermodynamics, Longmans, Green & Co, London, pages 22-23.
+^ Adkins, C.J. (1975). Equilibrium Thermodynamics, second edition, McGraw-Hill, London, ISBN 0-07-084057-1, Section 3.6, pages 43-46.
+^ Landsberg, P.T. (1978). Thermodynamics and Statistical Mechanics, Oxford University Press, Oxford, ISBN 0-19-851142-6, page 11.
+^ J. P. Joule (1884), The Scientific Paper of James Prescott Joule, The Physical Society of London, p.274, I am inclined to believe that both of these hypotheses will be found to hold good,that in some instances, particularly in the case of sensible heat, or such as is indicated by the thermometer, heat will be found to consist in the living force of the particles of the bodies in which it is induced;, Lecture on Matter, Living Force, and Heat. May 5 and 12, 1847
+^ Stull, R.B. (2000). Meteorology for Scientists and Engineers, second edition, Brooks/Cole, Belmont CA, ISBN 978-0-534-37214-9, page 57.
+Saved in parser cache with key enwiki:pcache:idhash:164607-0!*!0!!*!4!*!math=5 and timestamp 20161112064743 and revision id 749076341
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Sensible_heat&oldid=749076341"
+Categories: Atmospheric thermodynamicsThermodynamicsHidden categories: Pages using ISBN magic links

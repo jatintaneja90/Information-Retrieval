@@ -1,0 +1,56 @@
+Energyefficiencyimplementation
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article is written like a personal reflection or opinion essay that states a Wikipedia editor's personal feelings about a topic. Please help improve it by rewriting it in an encyclopedic style. (August 2014) (Learn how and when to remove this template message)
+This article's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions. (August 2014) (Learn how and when to remove this template message)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2014) (Learn how and when to remove this template message)
+(Learn how and when to remove this template message)
+Energy efficiency implementation is an industry comprising firms which retrofit or replace inefficient equipment with more efficient parts or equipment, with the goal of reducing energy consumption. Energy efficiency implementation firms have the resources, both physical and intellectual, that can provide advice and materials to entities/facilities, assisting in decreasing energy use. Energy efficiency implementation is performed in two distinct ways: by retrofitting existing equipment or by replacing existing equipment completely. Retrofitting enhances existing equipment by making it expend less energy. The goal of this kind of implementation is to save kilowatts (kW) and kilowatt hours (kWh). The difference between these two measurements is that one is a power rating (kW) and the other is a measurement of energy actually consumed (kWh).
+Contents
+1 Utilities
+1.1 Effects
+1.2 Role of regulators
+2 Benefits
+2.1 Operational costs
+2.2 Carbon footprint
+2.3 Quality of life
+3 Implementers
+4 See also
+5 References
+Utilities[edit]
+Public Utility Commissions in many states mandate that their utilities design and implement energy efficiency programs. The funding for these can be reflected in their rates or are collected through a surcharge in monthly customer bills. Some utilities design their own programs and implement them using a rebate form or other application, and administer the programs using their own staff. Most major utilities hire implementation contractors who are responsible for the design and implementation, and some implement programs already designed and approved by their PUC. Some programs require a co-pay by the customer, some are installed at no-cost.
+Utilities invest in energy efficiency for the following reasons:
+Social interests: environmental issues and resource conservation
+Economic interests: to prevent costly construction of power plants or the purchase of more energy
+The end result is that utility companies have more energy to sell, or in other words, they are able to sell their excess capacity to more customers in the area without increasing their production capacity.
+Effects[edit]
+The results of energy efficiency implementation are all beneficial for the energy consumer. It reduces operational costs, reduces carbon footprint, and it can even improve quality of life. Energy efficiency implementation can also play a role in increased revenue when consumers choose a greener product over another that is not.[1] Energy efficiency implementation can be extremely beneficial to large market segments like small businesses, schools, cement processing plants; basically any area that uses large amounts of energy. Small changes here add up to large savings.
+Implementing energy efficiency measures in a home or business can also lead to behavioral changes. When an energy efficiency change has been made and the energy consumer sees the benefits, more changes are often wanted to further their savings. These small changes create awareness and can be as simple as turning of lights when a room is not in use, or as complex as adding window glazing or installing demand-control ventilation.
+Role of regulators[edit]
+Energy sector regulators might have wide discretion in the implementation and/or monitoring energy efficiency (EE) initiatives. The most likely roles involve giving technical advice to the agency developing EE initiatives, since changes in demand patterns will have implications for the operations and investment plans of utilities (and for costs, security of supply and quality of service) . Particularly when the EE outlays are by the utility, the energy sector regulator needs to monitor outcomes to ensure that the resources are being utilized in ways that are consistent with overarching public policies. Furthermore, interactions of utility initiatives with other EE policies need to be taken into account when evaluating whether the scale and scope of existing utility-based demand-side management programs. Utilities are in a position to analyze bills and conduct on-premises energy audits to identify areas of saving. Regulators could require utilities to undertake costly audit programs. A high tech approach to improving operations and the customer interface involves smart meters and information systems that enable the utility to track system performance in real time.[2]
+The costs of implementing such systems need to be balanced against the benefits, including the possibility that outlays on other projects might be more cost effective. Thus, the role of regulators primarily involves providing technical input into the development of EE policies initiated by other agencies or via legislated tax programs.[3] In addition, the Regulator must determine (unless specified in law) which benefit-cost test is appropriate for evaluating utility-based EE programs. The regulatory tests include the participant cost test (will participants benefit over the measure's life?), the program administrator cost test (will utility bills increase?), the ratepayer impact measure (will utility prices increase?), the total resource cost test (will the total costs of energy decrease?) and the societal cost test (is the utility, state or nation better off, including environmental impacts?).[4] The IEA Energy Efficiency Governance Handbook goes into much more detail on the importance of having a coherent system for developing, incentivizing, and evaluating energy efficiency programs.[5]
+Benefits[edit]
+Operational costs[edit]
+By making appliances, lighting or the HVAC system more efficient, energy consumption levels drop, which leads to a lower utility bill for utility customers.
+Carbon footprint[edit]
+By reducing energy consumption we are able to conserve natural resources and thus have a less dramatic impact on our environment.
+Quality of life[edit]
+Working in natural or well-lit areas contributes to performance and productivity [citation here]. Comfortable temperature levels also factor into how well a person functions. This fact can be applied to any operation that requires the use of lighting or an HVAC system.
+Implementers[edit]
+Energy efficiency projects can be implemented by commercial property managers or by energy service companies or contractors.
+Commercial property managers that plan and manage energy efficiency projects generally use a software platform to perform energy audits and to collaborate with contractors to understand their full range of options.
+Implementation companies normally focus on specific equipment or appliances that they specialize in retrofitting or replacing, or they provide this service by sector: residential, commercial or industrial. Energy efficiency implementation is a complex field, and in order to implement effectively, the implementer must be multi-faceted and have extensive experience in many areas of energy efficiency.
+There are many systems, machines and methods that assist in creating energy savings including: gas, electricity, HVAC, lighting, daylighting, motion detection, insulated glazing, refrigerator strip curtains, revolving doors, anterooms, thermostat controls, demand-control ventilation and voltage optimisation
+See also[edit]
+EU Energy Efficiency Directive 2012/27/EU  a 2012 European Union directive which mandates national energy efficiency improvements
+References[edit]
+^ [1] Archived June 16, 2010, at the Wayback Machine.
+^ Frequently Asked Questions on Renewable Energy and Energy Efficiency, Body of Knowledge on Infrastructure Regulation
+^ International Confederation of Energy Regulators, ICER (2010). A Description of Current Regulatory Practices for the Promotion of Energy Efficiency, June 21, Ref. l10-CC-02-04 (pdf) 1-176.
+^ California Standard Practice Manual: Economic Analysis of Demand-Side Programs and Projects, (2001).
+^ http://www.iea.org/publications/freepublications/publication/gov_handbook-1.pdf
+Saved in parser cache with key enwiki:pcache:idhash:27746978-0!*!0!!en!4!* and timestamp 20161116140854 and revision id 749692739
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Energy_efficiency_implementation&oldid=749692739"
+Categories: Energy conservationHidden categories: Webarchive template wayback linksWikipedia articles needing style editing from August 2014All articles needing style editingArticles needing additional references from August 2014All articles needing additional references

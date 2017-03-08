@@ -1,0 +1,205 @@
+Demandfactor
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}In telecommunication, electronics and the electrical power industry, the term demand factor is used to refer to the fractional amount of some quantity being used relative to the maximum amount that could be used by the same system. The demand factor is always less than or equal to one. As the amount of demand is a time dependent quantity so is the demand factor.
+f
+D
+e
+m
+a
+n
+d
+(
+t
+)
+=
+Demand
+Maximum possible demand
+{\displaystyle f_{Demand}({\it {{t})={\frac {\text{Demand}}{\text{Maximum possible demand}}}}}}
+The demand factor is often implicitly averaged over time when the time period of demand is understood by the context.
+Electrical engineering[edit]
+In electrical engineering the demand factor is taken as a time independent quantity where the numerator is taken as the maximum demand in the specified time period instead of the averaged or instantaneous demand. the possible
+f
+D
+e
+m
+a
+n
+d
+=
+Maximum load in given time period
+Maximum possible load
+{\displaystyle f_{Demand}={\frac {\text{Maximum load in given time period}}{\text{Maximum possible load}}}}
+This is the peak in the load profile divided by the full load of the device.
+Example: If a residence has equipment which would draw 6,000 W when all equipment was drawing a full load draw a maximum of 3,000 W in a specified time, then the demand factor = 3,000 W / 6,000 W = 0.5
+This quantity is relevant when trying to establish the amount of load a system should be rated for. In the above example it would be unlikely that the system would be rated to 6,000 W even though there may be a slight possibility that this amount of power can be drawn. This is closely related to the load factor which is the average load divided by the peak load in a specified time period.
+f
+L
+o
+a
+d
+=
+Average load
+Maximum load in given time period
+{\displaystyle f_{Load}={\frac {\text{Average load}}{\text{Maximum load in given time period}}}}
+See also[edit]
+Capacity factor
+List of energy storage projects
+Load factor (electrical)
+Diversity factor
+References[edit]
+This article incorporatespublic domain material from the General Services Administration document "Federal Standard 1037C" (in support of MIL-STD-188).
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1232
+Cached time: 20161119102225
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.068 seconds
+Real time usage: 0.122 seconds
+Preprocessor visited node count: 602/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 26487/2097152 bytes
+Template argument size: 1159/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Lua time usage: 0.013/10.000 seconds
+Lua memory usage: 836 KB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+55.101
+1 - -total
+60.19%
+33.163
+2 - Template:Navbox
+56.18%
+30.956
+1 - Template:Electricity_generation
+43.71%
+24.082
+1 - Template:FS1037C_MS188
+40.59%
+22.368
+1 - Template:Include-USGov
+28.71%
+15.818
+2 - Template:If_empty
+23.66%
+13.039
+1 - Template:Navbox_subgroup
+2.56%
+1.412
+3 - Template:Longitem
+Saved in parser cache with key enwiki:pcache:idhash:41017-0!*!0!!*!4!*!math=5 and timestamp 20161119102225 and revision id 710115727
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Demand_factor&oldid=710115727"
+Categories: Power engineeringHidden categories: Wikipedia articles incorporating text from the Federal Standard 1037CWikipedia articles incorporating text from MIL-STD-188

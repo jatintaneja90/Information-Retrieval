@@ -1,0 +1,280 @@
+Exhaustgas
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+A diesel-powered truck emits an exhaust gas rich in black particulate matter when starting its engine.
+Exhaust gas or flue gas is emitted as a result of the combustion of fuels such as natural gas, gasoline, petrol, biodiesel blends,[1] diesel fuel, fuel oil, or coal. According to the type of engine, it is discharged into the atmosphere through an exhaust pipe, flue gas stack, or propelling nozzle. It often disperses downwind in a pattern called an exhaust plume.
+It is a major component of motor vehicle emissions (and from stationary internal combustion engines), which can also include:
+Crankcase blow-by
+Evaporation of unused gasoline
+Motor vehicle emissions contribute to air pollution and are a major ingredient in the creation of smog in some large cities. A 2013 study by MIT indicates that 53,000 early deaths occur per year in the United States alone because of vehicle emissions.[2] According to another study from the same university, traffic fumes alone cause the death of 5,000 people every year just in the United Kingdom.[3]
+Contents
+1 Composition
+2 Exhaust gas temperature
+3 Cold engines
+4 Passenger car emissions summary
+5 Types
+5.1 Internal-combustion engines
+5.1.1 Spark-ignition engines
+5.1.1.1 Nitromethane additive
+5.1.2 Diesel engines
+5.1.3 Gas-turbine engines
+5.1.4 Jet engines and rocket engines
+5.2 Other types
+5.2.1 From burning coal
+5.2.2 Steam engines
+6 Main motor vehicle emissions
+6.1 NOx
+6.2 Volatile organic compounds
+6.3 Ozone
+6.4 Carbon monoxide (CO)
+6.5 Hazardous air pollutants (toxics)
+6.6 Particulate matter (PM10 and PM2.5)
+6.7 Carbon dioxide (CO2)
+6.8 Water vapor
+6.8.1 Water recovery
+7 Pollution reduction
+8 Health studies
+9 Localised effects
+10 See also
+11 References
+12 External links
+Composition[edit]
+The largest part of most combustion gas is nitrogen (N2), water vapor (H2O) (except with pure-carbon fuels), and carbon dioxide (CO2) (except for fuels without carbon); these are not toxic or noxious (although carbon dioxide is a greenhouse gas that contributes to global warming). A relatively small part of combustion gas is undesirable noxious or toxic substances, such as carbon monoxide (CO) from incomplete combustion, hydrocarbons (properly indicated as CxHy, but typically shown simply as "HC" on emissions-test slips) from unburnt fuel, nitrogen oxides (NOx) from excessive combustion temperatures, and particulate matter (mostly soot).
+Exhaust gas temperature[edit]
+Exhaust gas temperature (EGT) is important to the functioning of the catalytic converter of an internal combustion engine. It may be measured by an exhaust gas temperature gauge. EGT is also a measure of engine health in gas-turbine engines (see below).
+Cold engines[edit]
+Steam from tailpipe of cold car
+During the first two minutes after starting the engine of a car that has not been operated for several hours, the amount of emissions can be very high. This occurs for two main reasons:
+Rich air-fuel ratio requirement in cold engines: When a cold engine is started, the fuel does not vaporize completely, creating higher emissions of hydrocarbons, nitrogen oxides and carbon monoxide, which diminishes only as the engine reaches operating temperature. The duration of this start-up phase has been reduced by advances in materials and technology, including computer-controlled fuel injection, shorter intake lengths, and pre-heating of fuel and/or inducted air.
+Inefficient catalytic converter under cold conditions: Catalytic converters are very inefficient until up to their operating temperature. This time has been much reduced by moving the converter closer to the exhaust manifold and even more so placing a small yet quick-to-heat-up converter directly at the exhaust manifold. The small converter handles the start-up emissions, which allows enough time for the larger main converter to heat up. Further improvements can be realised in many ways,[4] including electric heating, thermal battery, chemical reaction preheating, flame heating and superinsulation.
+Passenger car emissions summary[edit]
+U.S. Environmental Protection Agency estimates of average passenger car emissions in the United States for April 2000[5]
+Component
+Emission Rate
+Annual pollution emitted
+Hydrocarbons
+2.80grams/mile (1.75 g/km)
+77.1 pounds (35.0kg)
+Carbon monoxide
+20.9grams/mile (13.06 g/km)
+575 pounds (261kg)
+NOx
+1.39grams/mile (0.87 g/km)
+38.2 pounds (17.3kg)
+Carbon dioxide - greenhouse gas
+415 grams/mile (258 g/km)
+11,450 pounds (5,190kg)
+Comparable with the European emission standards EURO III as it was applied on October 2000
+In 2000, the United States Environmental Protection Agency began to implement more stringent emissions standards for light duty vehicles. The requirements were phased in beginning with 2004 vehicles and all new cars and light trucks were required to meet the updated standards by the end of 2007.
+United States Light-Duty Vehicle, Light-Duty Truck, and Medium-Duty Passenger VehicleTier 2 Exhaust Emission Standards (for Bin 5)[6]
+Component
+Emission Rate
+Annual pollution emitted
+NMOG (Volatile organic compounds)
+0.075 grams/mile (0.046 g/km)
+2.1 pounds (0.95kg)
+Carbon Monoxide
+3.4grams/mile (2.1 g/km)
+94 pounds (43kg)
+NOX
+0.05grams/mile (0.0305 g/km)
+1.4 pounds (0.64kg)
+Formaldehyde
+0.015grams/mile (0.0092 g/km)
+0.41 pounds (0.19kg)
+Types[edit]
+Internal-combustion engines[edit]
+Spark-ignition engines[edit]
+See also: Automobile emissions control
+In spark-ignition engines the gases resulting from combustion of the fuel and air mix are called exhaust gases. The composition varies from petrol to diesel engines, but is around these levels:
+Combustion-engine exhaust gases[7]
+All figures are approximate
+% of total
+Compound
+Petrol
+Diesel
+nitrogen
+71
+67
+carbon dioxide
+14
+12
+water vapor
+13
+11
+oxygen
+10
+Trace elements[citation needed]
+< 0.6
+~ 0.3
+nitrogen oxides
+< 0.25
+< 0.15
+carbon monoxide
+1 - 2
+< 0.045
+particulate matter
+< 0.045
+hydrocarbons
+< 0.25
+< 0.03
+sulphur dioxide
+possible traces
+< 0.03
+The 10% oxygen for "diesel" is likely if the engine was idling, e.g. in a test rig. It is much less if the engine is running under load.[citation needed]
+Nitromethane additive[edit]
+Exhaust gas from an internal combustion engine whose fuel includes nitromethane will contain nitric acid vapour, which is corrosive, and when inhaled causes a muscular reaction making it impossible to breathe. People exposed to it should wear a gas mask.[8]
+Diesel engines[edit]
+See Diesel exhaust; Soot.
+Gas-turbine engines[edit]
+In aircraft gas turbine engines, "exhaust gas temperature" (EGT) is a primary measure of engine health. Typically the EGT is compared with a primary engine power indication called "engine pressure ratio" (EPR). For example: at full power EPR there will be a maximum permitted EGT limit. Once an engine reaches a stage in its life where it reaches this EGT limit, the engine will require specific maintenance in order to rectify the problem. The amount the EGT is below the EGT limit is called EGT margin. The EGT margin of an engine will be greatest when the engine is new, or has been overhauled. For most airlines, this information is also monitored remotely by the airline maintenance department by means of ACARS.
+Jet engines and rocket engines[edit]
+What looks like exhaust from jet engines, is actually contrail. (Jet flying over the United States Air Force Academy in Colorado Springs, Colorado).
+In jet engines and rocket engines, exhaust from propelling nozzles which in some applications shows shock diamonds.[citation needed]
+Other types[edit]
+From burning coal[edit]
+Flue gas
+Flue gas emissions from fossil fuel combustion
+Steam engines[edit]
+In steam engine terminology the exhaust is steam that is now so low in pressure that it can no longer do useful work.
+Main motor vehicle emissions[edit]
+NOx[edit]
+Smog in New York City as viewed from the World Trade Center in 1988.
+Mono-nitrogen oxides NO and NO2 (whether produced this way or naturally by lightning) react with ammonia, moisture, and other compounds to form nitric acid vapor and related particles. Small particles can penetrate deeply into sensitive lung tissue and damage it, causing premature death in extreme cases. Inhalation of such particles may cause or worsen respiratory diseases such as emphysema and bronchitis. It may also aggravate existing heart disease.[9][10][11] In a 2005 U.S. EPA study the largest emissions of NOx came from on road motor vehicles, with the second largest contributor being non-road equipment which is mostly gasoline and diesel stations.[11]
+The resulting nitric acid may be washed into soil, where it becomes nitrate, which is useful to growing plants.
+Volatile organic compounds[edit]
+Non-road equipment is mostly gasoline and diesel stations.[12]
+When oxides of nitrogen (NOx) and volatile organic compounds (VOCs) react in the presence of sunlight, ground level ozone is formed, a primary ingredient in smog. A 2005 U.S. EPA report gives road vehicles as the second largest source of VOCs in the U.S. at 26% and 19% are from non road equipment which is mostly gasoline and diesel stations.[12] 27% of VOC emissions are from solvents which are used in the manufacturer of paints and paint thinners and other uses.[13]
+Ozone[edit]
+Ozone is beneficial in the upper atmosphere,[14] but at ground level, ozone irritates the respiratory system, causing coughing, choking, and reduced lung capacity.[15] It also has many bad effects throughout the ecosystem.[16]
+Carbon monoxide (CO)[edit]
+MOPITT satellite computer image of carbon monoxide March 2010.
+Carbon monoxide poisoning is the most common type of fatal air poisoning in many countries.[17] Carbon monoxide is colorless, odorless and tasteless, but highly toxic. It combines with hemoglobin to produce carboxyhemoglobin, which is ineffective for delivering oxygen to bodily tissues. In 2011, 52% of carbon monoxide emissions were created by mobile vehicles in the U.S.[18]
+Hazardous air pollutants (toxics)[edit]
+Chronic (long-term) exposure to benzene (C6H6) damages bone marrow. It can also cause excessive bleeding and depress the immune system, increasing the chance of infection. Benzene causes leukemia and is associated with other blood cancers and pre-cancers of the blood.[19][20]
+Particulate matter (PM10 and PM2.5)[edit]
+The health effects of inhaling airborne particulate matter have been widely studied in humans and animals and include asthma, lung cancer, cardiovascular issues, and premature death. Because of the size of the particles, they can penetrate the deepest part of the lungs.[21] A 2011 UK study estimates 90 deaths per year due to passenger vehicle PM.[22] In a 2006 publication, the U.S. Federal Highway Administration (FHWA) state that in 2002 about 1 per-cent of all PM10 and 2 per-cent of all PM2.5 emissions came from the exhaust of on-road motor vehicles (mostly from diesel engines).[23]
+Carbon dioxide (CO2)[edit]
+Carbon dioxide is a greenhouse gas. Motor vehicle CO2 emissions are part of the anthropogenic contribution to the growth of CO2 concentrations in the atmosphere which some claim is causing climate change.[24] Motor vehicles are calculated to generate about 20% of the European Union's man-made CO2 emissions, with passenger cars contributing about 12%.[25] European emission standards limit the CO2 emissions of new passenger cars and light vehicles. The European Union average new car CO2 emissions figure dropped by 5.4% in the year to the first quarter of 2010, down to 145.6 g/km.[26]
+Water vapor[edit]
+Vehicle exhaust contains much water vapor.
+Water recovery[edit]
+There has been research into ways that troops in deserts can recover drinkable water from their vehicles' exhaust gases. [27]
+Pollution reduction[edit]
+Emission standards focus on reducing pollutants contained in the exhaust gases from vehicles as well as from industrial flue gas stacks and other air pollution exhaust sources in various large-scale industrial facilities such as petroleum refineries, natural gas processing plants, petrochemical plants and chemical production plants.[28][29] However, these are often referred to as flue gases. Catalytic converters in cars intend to break down the pollution of exhaust gases using a catalyst. Scrubbers in ships intend to remove the sulfur dioxide (SO2) of marine exhaust gases. The regulations on marine sulfur dioxide emissions are tightening, however only a small number of special areas worldwide have been designated for low sulfur diesel fuel use only.
+See also: Air suction valve
+One of the advantages claimed for advanced steam technology engines is that they produce smaller quantities of toxic pollutants (e.g. oxides of nitrogen) than petrol and diesel engines of the same power.[citation needed] They produce larger quantities of carbon dioxide but less carbon monoxide due to more efficient combustion.
+Health studies[edit]
+Researchers from the University of California, Los Angeles School of Public Health say preliminary results of their statistical study of children listed in the California Cancer Registry born between 1998 and 2007 found that traffic pollution may be associated with a 5% to 15% increase in the likelihood of some cancers.[30] A World Health Organization study found that diesel fumes cause an increase in lung cancer.[31]
+Localised effects[edit]
+The California Air Resources Board (C.A.R.B.) found in studies that 50% or more of the air pollution (smog) in Southern California is due to car emissions.[citation needed]
+See also[edit]
+Automobile exhaust
+Air pollution#Most polluted cities
+Alternative propulsion
+Low-emission zone
+Congestion pricing
+Atmospheric dispersion modeling
+Automobile#Environmental impact
+Clean Air Act
+Emission standard
+European emission standards
+Flue gas
+Kyoto protocol
+Landfill gas
+Mobile source air pollution
+Motor vehicle emissions and pregnancy
+United States emission standards
+Vehicle emissions control
+References[edit]
+^ Omidvarborna; et al. "Characterization of particulate matter emitted from transit buses fueled with B20 in idle modes". Journal of Environmental Chemical Engineering. 2 (4): 23352342. doi:10.1016/j.jece.2014.09.020.
+^ Caiazzo, Fabio; Ashok, Akshay; Waitz, Ian A.; Yim, Steve H.L.; Barrett, Steven R.H. (November 2013). "Air pollution and early deaths in the United States. Part I: Quantifying the impact of major sectors in 2005". Atmospheric Environment. Elsevier. 79: 198208. Bibcode:2013AtmEn..79..198C. doi:10.1016/j.atmosenv.2013.05.081. Retrieved 25 October 2013.
+^ Roland Pease. "Traffic pollution kills 5,000 a year in UK, says study". BBC News.
+^ Pulkrabek W.W. (2004) Engineering Fundamentals of the Internal Combustion Engine. Pearson Prentice Hall, new Jersey
+^ "Average Annual Emissions and Fuel Consumption for Passenger Cars and Light Trucks" (PDF). Transportation and Air Quality. United States Environmental Protection Agency.
+^ "Light-Duty Vehicle, Light-Duty Truck, and Medium-Duty Passenger Vehicle -- Tier 2 Exhaust Emission Standards". Emission Standards Reference Guide. United States Environmental Protection Agency. 14 November 2012.
+^ Self-Study Programme 230: Motor Vehicle Exhaust Emissions (PDF). AUDI. April 2000. Retrieved 23 March 2012.
+^ turbofast.com
+^ "Health". Nitrogen Dioxide. United States Environmental Protection Agency. 14 February 2013.
+^ "The Regional Transport of Ozone: New EPA Rulemaking on Nitrogen Oxide Emissions (EPA-456/F-98-006)" (PDF). United States Environmental Protection Agency. September 1998.
+^ a b "State and County Emission Summaries: Nitrogen Oxides". Air emission sources. United States Environmental Protection Agency. 25 October 2013.
+^ a b "State and County Emission Summaries: Volatile Organic Compounds". Air emission sources. United States Environmental Protection Agency. 25 October 2013.
+^ "Volatile Organic Compounds (VOCs)". Toxic Substances Hydrology Program. United States Geological Survey (USGS). 12 April 2013.
+^ http://www.epa.gov/ozone/basicinfo.html
+^ http://www.epa.gov/airquality/ozonepollution/health.html
+^ http://www.epa.gov/groundlevelozone/ecosystem.html
+^ Omaye ST. (2002). "Metabolic modulation of carbon monoxide toxicity". Toxicology. 180 (2): 139150. doi:10.1016/S0300-483X(02)00387-6. PMID12324190.
+^ "State and County Emission Summaries: Carbon Monoxide". Air Emission Sources. United States Environmental Protection Agency. 25 October 2013.
+^ "Exhaust emissions: What comes out of your car's exhaust?". Automobile Association Developments Limited. 23 February 2012.
+^ "Air Toxics from Motor Vehicles" (PDF). Transportation and Air Quality. United States Environmental Protection Agency.
+^ Region 4: Laboratory and Field Operations  PM 2.5 (2008).PM 2.5 Objectives and History. U.S. Environmental Protection Agency.
+^ Mazzi, Eric A.; Dowlatabadi, Hadi (2007). "Air Quality Impacts of Climate Mitigation: UK Policy and Passenger Vehicle Choice". Environmental Science & Technology. 41 (2): 387. doi:10.1021/es060517w.
+^ "Transportation Air Quality: Selected Facts and Figures". U.S. Department of Transportation Federal Highway Commission. 2006. Retrieved 2010-04-14.
+^ IPCC, 2013: Summary for Policymakers. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.|http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf
+^ "Commission plans legislative framework to ensure the EU meets its target for cutting CO2 emissions from cars". European Commission. 2007-02-07.
+^ "EU Average New Car CO2 Emissions Down 5.4 Percent in Q1". autoevolution. SoftNews NET. 2010-04-19.
+^ Google search
+^ EPA Plain English Guide to the Clean Air Act
+^ US EPA Publication AP 42, Fifth Edition, Compilation of Air Pollutant Emission Factors
+^ Reinberg, Steven (9 April 2013). "Smog Exposure During Pregnancy Might Raise Child's Cancer Risk: Study". USNews.
+^ http://www.iarc.fr/en/media-centre/pr/2012/pdfs/pr213_E.pdf
+External links[edit]
+Health and Air Pollution Publication of the California Air Resources Board
+Cone, Tracie (13 November 2008). "California Air Pollution Kills More People Than Car Crashes, Study Shows". Huffington Post.
+"Automotive Exhaust Chemicals: disease causing effects". Alpha Online. Environmed Research Inc.
+"Cars, Trucks, and Air Pollution". Clean Vehicles. Union of Concerned Scientists. 3 September 2013.
+About diesel exhaust:
+U.S. Department of Labor Occupational Safety & Health Administration: Safety and Health Topics: Diesel Exhaust
+Partial List of Chemicals Associated with Diesel Exhaust
+Diesel Exhaust Particulates: Reasonably Anticipated to Be A Human Carcinogen
+Scientific Study of Harmful Effects of Diesel Exhaust: Acute Inflammatory Responses in the Airways and Peripheral Blood After Short-Term Exposure to Diesel Exhaust in Healthy Human Volunteers
+Diesel exhaust: what you need to know
+v
+t
+e
+Motor fuels
+Fuel types
+Gasoline/petrol
+Diesel
+Biodiesel
+Lead Replacement Petrol
+Kerosene
+Compressed natural gas
+Hydrogen
+Ethanol
+Butanol fuel
+Racing fuel (Tetraethyllead)
+Fuel additives
+Butyl rubber
+Butylated hydroxytoluene
+1,2-Dibromoethane
+1,2-Dichloroethane
+Dimethyl methylphosphonate
+2,4-Dimethyl-6-tert-butylphenol
+Dinonylnaphthylsulfonic acid
+2,6-Di-tert-butylphenol
+Ecalene
+Ethylenediamine
+Metal deactivator
+Methyl tert-butyl ether
+Nitromethane
+Tetraethyllead
+Tetranitromethane
+Fluids
+Motor oil
+Antifreeze
+Automatic transmission fluid
+Brake fluid
+Gear oil
+Windshield washer fluid
+Retail
+Fuel card
+Full service
+MTBE controversy
+Pay at the pump
+Authority control
+NDL: 00562804
+Saved in parser cache with key enwiki:pcache:idhash:840147-0!*!0!!en!4!* and timestamp 20161111082210 and revision id 748935987
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Exhaust_gas&oldid=748935987"
+Categories: Air pollutionEnginesGasesSmogTransport and the environmentVehiclesHidden categories: All articles with unsourced statementsArticles with unsourced statements from August 2013Articles with unsourced statements from July 2016Articles with unsourced statements from April 2009Articles with unsourced statements from April 2010

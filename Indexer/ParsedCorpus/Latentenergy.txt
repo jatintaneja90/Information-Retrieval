@@ -1,0 +1,489 @@
+Latentenergy
+From Wikipedia, the free encyclopedia
+(Redirected from Latent energy)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Latent heat is energy released or absorbed, by a body or a thermodynamic system, during a constant-temperature process. An example is latent heat of fusion for a phase change, melting, at a specified temperature and pressure.[1][2] The term was introduced around 1762 by Scottish chemist Joseph Black. It is derived from the Latin latere (to lie hidden). Black used the term in the context of calorimetry where a heat transfer caused a volume change while the thermodynamic system's temperature was constant.
+In contrast to latent heat, sensible heat involves an energy transfer that results in a temperature change of the system.
+Thermodynamics
+The classical Carnot heat engine
+Branches
+Classical
+Statistical
+Chemical
+Equilibrium/ Non-equilibrium
+Laws
+Zeroth
+First
+Second
+Third
+Systems
+State
+Equation of state
+Ideal gas
+Real gas
+State of matter
+Equilibrium
+Control volume
+Instruments
+Processes
+Isobaric
+Isochoric
+Isothermal
+Adiabatic
+Isentropic
+Isenthalpic
+Quasistatic
+Polytropic
+Free expansion
+Reversibility
+Irreversibility
+Endoreversibility
+Cycles
+Heat engines
+Heat pumps
+Thermal efficiency
+System properties
+Note: Conjugate variables in italics
+Property diagrams
+Intensive and extensive properties
+Functions of state
+Temperature/ Entropy(introduction)
+Pressure/ Volume
+Chemical potential/ Particle number
+Vapor quality
+Reduced properties
+Process functions
+Work
+Heat
+Material properties
+Property databases
+Specific heat capacity
+c
+=
+{\displaystyle c=}
+T
+{\displaystyle T}
+ 
+S
+{\displaystyle \partial S}
+N
+{\displaystyle N}
+ 
+T
+{\displaystyle \partial T}
+Compressibility
+ 
+=
+ 
+{\displaystyle \beta =-}
+1
+{\displaystyle 1}
+ 
+V
+{\displaystyle \partial V}
+V
+{\displaystyle V}
+ 
+p
+{\displaystyle \partial p}
+Thermal expansion
+ 
+=
+{\displaystyle \alpha =}
+1
+{\displaystyle 1}
+ 
+V
+{\displaystyle \partial V}
+V
+{\displaystyle V}
+ 
+T
+{\displaystyle \partial T}
+Equations
+Carnot's theorem
+Clausius theorem
+Fundamental relation
+Ideal gas law
+Maxwell relations
+Onsager reciprocal relations
+Bridgman's equations
+Table of thermodynamic equations
+Potentials
+Free energy
+Free entropy
+Internal energy
+U
+(
+S
+,
+V
+)
+{\displaystyle U(S,V)}
+Enthalpy
+H
+(
+S
+,
+p
+)
+=
+U
++
+p
+V
+{\displaystyle H(S,p)=U+pV}
+Helmholtz free energy
+A
+(
+T
+,
+V
+)
+=
+U
+ 
+T
+S
+{\displaystyle A(T,V)=U-TS}
+Gibbs free energy
+G
+(
+T
+,
+p
+)
+=
+H
+ 
+T
+S
+{\displaystyle G(T,p)=H-TS}
+History
+Culture
+History
+General
+Heat
+Entropy
+Gas laws
+"Perpetual motion" machines
+Philosophy
+Entropy and time
+Entropy and life
+Brownian ratchet
+Maxwell's demon
+Heat death paradox
+Loschmidt's paradox
+Synergetics
+Theories
+Caloric theory
+Theory of heat
+Vis viva ("living force")
+Mechanical equivalent of heat
+Motive power
+Key publications
+"An Experimental Enquiry
+Concerning ... Heat"
+"On the Equilibrium of
+Heterogeneous Substances"
+"Reflections on the
+Motive Power of Fire"
+Timelines
+Thermodynamics
+Heat engines
+Art
+Education
+Maxwell's thermodynamic surface
+Entropy as energy dispersal
+Scientists
+Bernoulli
+Carnot
+Clapeyron
+Clausius
+Carathodory
+Duhem
+Gibbs
+von Helmholtz
+Joule
+Maxwell
+von Mayer
+Onsager
+Rankine
+Smeaton
+Stahl
+Thompson
+Thomson
+Waterston
+Book:Thermodynamics
+v
+t
+e
+Contents
+1 Usage
+1.1 Meteorology
+2 History
+3 Specific latent heat
+4 Table of specific latent heats
+5 Specific latent heat for condensation of water
+6 See also
+7 References
+Usage[edit]
+The terms sensible heat and latent heat are specific forms of energy; they are two properties of a material or in a thermodynamic system. Sensible heat is a body's internal energy that may be sensed or felt. Latent heat is internal energy concerning the phase ( solid / liquid / gas ) of a material and does not affect the temperature.
+Both sensible and latent heats are observed in many processes of transport of energy in nature. changes of Latent heat is associated with the change of phase of atmospheric water, vaporization and condensation, whereas sensible heat is energy that reflects the temperature of the atmosphere or ocean, or ice.
+The original usage of the term, as introduced by Black, was applied to systems that were intentionally held at constant temperature. Such usage referred to latent heat of expansion and several other related latent heats. These latent heats are defined independently of the conceptual framework of thermodynamics.[3]
+When a body is heated at constant temperature by thermal radiation in a microwave field for example, it may expand by an amount described by its latent heat with respect to volume or latent heat of expansion, or increase its pressure by an amount described by its latent heat with respect to pressure.[4]
+Two common forms of latent heat are latent heat of fusion (melting) and latent heat of vaporization (boiling). These names describe the direction of energy flow when changing from one phase to the next: from solid to liquid, and liquid to gas.
+In both cases the change is endothermic, meaning that the system absorbs energy. For example, when water evaporates, energy is required for the water molecules to overcome the forces of attraction between them, the transition from water to vapor requires an input of energy.
+If the vapor then condenses to a liquid on a surface, then the vapor's latent energy absorbed during evaporation is released as the liquid's sensible heat onto the surface.
+The large value of the enthalpy of condensation of water vapor is the reason that steam is a far more effective heating medium than boiling water, and is more hazardous.
+Meteorology[edit]
+In meteorology, latent heat flux is the flux of heat from the Earth's surface to the atmosphere that is associated with evaporation or transpiration of water at the surface and subsequent condensation of water vapor in the troposphere. It is an important component of Earth's surface energy budget. Latent heat flux has been commonly measured with the Bowen ratio technique, or more recently since the mid-1900s by the eddy covariance method.
+History[edit]
+The English word latent comes from Latin latns, meaning lying hidden.[5][6] The term latent heat was introduced into calorimetry around 1750 when Joseph Black, commissioned by producers of Scotch whisky in search of ideal quantities of fuel and water for their distilling process,[7] to studying system changes, such as of volume and pressure, when the thermodynamic system was held at constant temperature in a thermal bath. James Prescott Joule characterised latent energy as the energy of interaction in a given configuration of particles, i.e. a form of potential energy, and the sensible heat as an energy that was indicated by the thermometer,[8] relating the latter to thermal energy.
+Specific latent heat[edit]
+A specific latent heat (L) expresses the amount of energy in the form of heat (Q) required to completely effect a phase change of a unit of mass (m), usually 1kg, of a substance as an intensive property:
+L
+=
+Q
+m
+.
+{\displaystyle L={\frac {Q}{m}}.}
+Intensive properties are material characteristics and are not dependent on the size or extent of the sample. Commonly quoted and tabulated in the literature are the specific latent heat of fusion and the specific latent heat of vaporization for many substances.
+From this definition, the latent heat for a given mass of a substance is calculated by
+Q
+=
+m
+L
+{\displaystyle Q={m}{L}}
+where:
+Q is the amount of energy released or absorbed during the change of phase of the substance (in kJ or in BTU),
+m is the mass of the substance (in kg or in lb), and
+L is the specific latent heat for a particular substance (kJ-kgm1 or in BTU-lbm1), either Lf for fusion, or Lv for vaporization.
+Table of specific latent heats[edit]
+The following table shows the specific latent heats and change of phase temperatures of some common fluids and gases.[citation needed]
+Substance
+S.L.H. of
+Fusion
+kJ/kg
+Melting
+Point
+C
+S.L.H. of
+Vaporization
+kJ/kg
+Boiling
+Point
+C
+Alcohol, ethyl
+108
+114
+855
+78.3
+Ammonia
+332.17
+77.74
+1369
+33.34
+Carbon dioxide
+184
+78
+574
+57
+Helium
+21
+268.93
+Hydrogen(2)
+58
+259
+455
+253
+Lead[9]
+23.0
+327.5
+871
+1750
+Nitrogen
+25.7
+210
+200
+196
+Oxygen
+13.9
+219
+213
+183
+Refrigerant R134a
+101
+215.9
+26.6
+Refrigerant R152a
+116
+326.5
+-25
+Toluene
+72.1
+93
+351
+110.6
+Turpentine
+293
+Water
+334
+0
+2264.76
+100
+Specific latent heat for condensation of water[edit]
+The specific latent heat of condensation of water in the temperature range from 25C to 40C is approximated by the following empirical cubic function:
+L
+water
+(
+T
+)
+=
+(
+2500.8
+ 
+2.36
+T
++
+0.0016
+T
+2
+ 
+0.00006
+T
+3
+)
+J/g
+,
+{\displaystyle L_{\text{water}}(T)=(2500.8-2.36T+0.0016T^{2}-0.00006T^{3})~{\text{J/g}},}
+[10]
+where the temperature
+T
+{\displaystyle T}
+is taken to be the numerical value in C.
+For sublimation and deposition from and into ice, the specific latent heat is almost constant in the temperature range from 40C to 0C and can be approximated by the following empirical quadratic function:
+L
+ice
+(
+T
+)
+=
+(
+2834.1
+ 
+0.29
+T
+ 
+0.004
+T
+2
+)
+J/g
+.
+{\displaystyle L_{\text{ice}}(T)=(2834.1-0.29T-0.004T^{2})~{\text{J/g}}.}
+[10]
+See also[edit]
+Bowen ratio
+Eddy covariance flux (eddy correlation, eddy flux)
+Sublimation (physics)
+Specific heat capacity
+Enthalpy of fusion
+Enthalpy of vaporization
+References[edit]
+^ Perrot, Pierre (1998). A to Z of Thermodynamics. Oxford University Press. ISBN0-19-856552-6.
+^ Clark, John, O.E. (2004). The Essential Dictionary of Science. Barnes & Noble Books. ISBN0-7607-4616-8. CS1 maint: Multiple names: authors list (link)
+^ Bryan, G.H. (1907). Thermodynamics. An Introductory Treatise dealing mainly with First Principles and their Direct Applications, B.G. Tuebner, Leipzig, pages 9, 2022.
+^ Maxwell, J.C. (1872). Theory of Heat, third edition, Longmans, Green, and Co., London, page 73.
+^ Harper, Douglas. "latent". Online Etymology Dictionary.
+^ Lewis, Charlton T. (1890). An Elementary Latin Dictionary. Entry for latens.
+^ James Burke (1979). "Credit Where It's Due". The Day the Universe Changed. Episode 6. Event occurs at 50 (34 minutes). BBC.
+^ J. P. Joule (1884), The Scientific Paper of James Prescott Joule, The Physical Society of London, p.274, I am inclined to believe that both of these hypotheses will be found to hold good,that in some instances, particularly in the case of sensible heat, or such as is indicated by the thermometer, heat will be found to consist in the living force of the particles of the bodies in which it is induced; whilst in others, particularly in the case of latent heat, the phenomena are produced by the separation of particle from particle, so as to cause them to attract one another through a greater space., Lecture on Matter, Living Force, and Heat. May 5 and 12, 1847
+^ Yaws' Handbook of Properties of the Chemical Elements 2011 Knovel
+^ a b Polynomial curve fits to Table 2.1. R. R. Rogers; M. K. Yau (1989). A Short Course in Cloud Physics (3rd ed.). Pergamon Press. p.16. ISBN0-7506-3215-1.
+v
+t
+e
+States of matter
+State
+Solid
+Liquid
+Gas / Vapor
+Plasma
+Low energy
+BoseEinstein condensate
+Fermionic condensate
+Degenerate matter
+Quantum Hall
+Rydberg matter
+Strange matter
+Superfluid
+Supersolid
+Photonic matter
+High energy
+QCD matter
+Lattice QCD
+Quarkgluon plasma
+Supercritical fluid
+Other states
+Colloid
+Glass
+Liquid crystal
+Quantum spin liquid
+Magnetically ordered
+Antiferromagnet
+Ferrimagnet
+Ferromagnet
+String-net liquid
+Superglass
+Transitions
+Boiling
+Boiling point
+Condensation
+Critical line
+Critical point
+Crystallization
+Deposition
+Evaporation
+Flash evaporation
+Freezing
+Chemical ionization
+Ionization
+Lambda point
+Melting
+Melting point
+Recombination
+Regelation
+Saturated fluid
+Sublimation
+Supercooling
+Triple point
+Vaporization
+Vitrification
+Quantities
+Enthalpy of fusion
+Enthalpy of sublimation
+Enthalpy of vaporization
+Latent heat
+Latent internal energy
+Trouton's ratio
+Volatility
+Concepts
+Binodal
+Compressed fluid
+Cooling curve
+Equation of state
+Leidenfrost effect
+macroscopic quantum phenomena
+Mpemba effect
+Order and disorder (physics)
+Spinodal
+Superconductivity
+Superheated vapor
+Superheating
+Thermo-dielectric effect
+Lists
+List of states of matter
+Saved in parser cache with key enwiki:pcache:idhash:164610-0!*!0!!en!4!*!math=5 and timestamp 20161108204103 and revision id 748300006
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Latent_heat&oldid=748300006"
+Categories: ThermochemistryAtmospheric thermodynamicsThermodynamicsHidden categories: CS1 maint: Multiple names: authors listAll articles with unsourced statementsArticles with unsourced statements from June 2012

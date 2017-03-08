@@ -1,0 +1,241 @@
+Geothermalheat
+From Wikipedia, the free encyclopedia
+(Redirected from Geothermal heat)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about direct uses of geothermal heat. For electricity generation, see geothermal power.
+Part of a series about
+Sustainable energy
+Energy conservation
+Cogeneration
+Efficient energy use
+Green building
+Heat pump
+Low-carbon power
+Microgeneration
+Passive solar building design
+Renewable energy
+Anaerobic digestion
+Geothermal
+Hydroelectricity
+Solar
+Tidal
+Wind
+Sustainable transport
+Carbon-neutral fuel
+Electric vehicle
+Fossil fuel phase-out
+Green vehicle
+Plug-in hybrid
+Sustainable development portal
+Renewable energy portal
+Environment portal
+v
+t
+e
+Geothermal heating is the direct use of geothermal energy for heating some applications. Humans have taken advantage of geothermal heat this way since the Paleolithic era. Approximately seventy countries made direct use of a total of 270 PJ of geothermal heating in 2004. As of 2007, 28 GW of geothermal heating capacity is installed around the world, satisfying 0.07% of global primary energy consumption.[1] Thermal efficiency is high since no energy conversion is needed, but capacity factors tend to be low (around 20%) since the heat is mostly needed in the winter.
+Geothermal energy originates from the heat retained within the Earth since the original formation of the planet, from radioactive decay of minerals, and from solar energy absorbed at the surface.[2] Most high temperature geothermal heat is harvested in regions close to tectonic plate boundaries where volcanic activity rises close to the surface of the Earth. In these areas, ground and groundwater can be found with temperatures higher than the target temperature of the application. However, even cold ground contains heat, below 6 metres (20ft) the undisturbed ground temperature is consistently at the Mean Annual Air Temperature[3] and it may be extracted with a heat pump.
+Contents
+1 Applications
+2 Extraction
+3 Ground-source heat pumps
+4 History
+5 Economics
+6 Geothermal drilling risks
+7 See also
+8 References
+9 External links
+Applications[edit]
+Top countries using the most geothermal heating in 2005[4]
+Country
+Production
+PJ/yr
+Capacity
+GW
+Capacity
+Factor
+Dominant
+applications
+China
+45.38
+3.69
+39%
+bathing
+Sweden
+43.2
+4.2
+33%
+heat pumps
+USA
+31.24
+7.82
+13%
+heat pumps
+Turkey
+24.84
+1.5
+53%
+district heating
+Iceland
+24.5
+1.84
+42%
+district heating
+Japan
+10.3
+0.82
+40%
+bathing (onsens)
+Hungary
+7.94
+0.69
+36%
+spas/greenhouses
+Italy
+7.55
+0.61
+39%
+spas/space heating
+New Zealand
+7.09
+0.31
+73%
+industrial uses
+63 others
+71
+6.8
+Total
+273
+28
+31%
+space heating
+There are a wide variety of applications for cheap geothermal heat. In 2004 more than half of direct geothermal heat was used for space heating, and a third was used for spas.[1] The remainder was used for a variety of industrial processes, desalination, domestic hot water, and agricultural applications. The cities of Reykjavk and Akureyri pipe hot water from geothermal plants under roads and pavements to melt snow. Geothermal desalination has been demonstrated.
+Geothermal systems tend to benefit from economies of scale, so space heating power is often distributed to multiple buildings, sometimes whole communities. This technique, long practiced throughout the world in locations such as Reykjavk, Iceland,[5] Boise, Idaho,[6] and Klamath Falls, Oregon[7] is known as district heating.[8]
+Extraction[edit]
+Main article: Ground-coupled heat exchanger
+Some parts of the world, including substantial portions of the western USA, are underlain by relatively shallow geothermal resources.[9] Similar conditions exist in Iceland, parts of Japan, and other geothermal hot spots around the world. In these areas, water or steam may be captured from natural hot springs and piped directly into radiators or heat exchangers. Alternatively, the heat may come from waste heat supplied by co-generation from a geothermal electrical plant or from deep wells into hot aquifers. Direct geothermal heating is far more efficient than geothermal electricity generation and has less demanding temperature requirements, so it is viable over a large geographical range. If the shallow ground is hot but dry, air or water may be circulated through earth tubes or downhole heat exchangers which act as heat exchangers with the ground.
+Steam under pressure from deep geothermal resources is also used to generate electricity from geothermal power. The Iceland Deep Drilling Project struck a pocket of magma at 2,100m. A cemented steelcase was constructed in the hole with a perforation at the bottom close to the magma. The high temperatures and pressure of the magma steam were used to generate 36MW of electricity, making IDDP-1 the worlds first magma-enhanced geothermal system.[10]
+In areas where the shallow ground is too cold to provide comfort directly, it is still warmer than the winter air. The thermal inertia of the shallow ground retains solar energy accumulated in the summertime, and seasonal variations in ground temperature disappear completely below 10m of depth. That heat can be extracted with a geothermal heat pump more efficiently than it can be generated by conventional furnaces.[8] Geothermal heat pumps are economically viable essentially anywhere in the world.
+Ground-source heat pumps[edit]
+Main article: Geothermal heat pump
+In regions without any high temperature geothermal resources, a ground-source heat pump (GSHP) can provide space heating and space cooling. Like a refrigerator or air conditioner, these systems use a heat pump to force the transfer of heat from the ground to the building. Heat can be extracted from any source, no matter how cold, but a warmer source allows higher efficiency. A ground-source heat pump uses the shallow ground or ground water (typically starting at 1012C or 5054F) as a source of heat, thus taking advantage of its seasonally moderate temperatures.[11] In contrast, an air-source heat pump draws heat from the air (colder outside air) and thus requires more energy.
+Ground source heat pumps (GSHPs) are not geothermal, i.e. there is no geyser providing heat to be captured. A GSHP merely accesses stored solar heat energy in the soil or rock. GSHPs circulate a carrier fluid (usually a mixture of water and small amounts of antifreeze) through closed pipe loops buried in the ground. Single-home systems can be "vertical loop field" systems with bore holes 50400 feet (15120m) deep [12] or, if adequate land is available for extensive trenches, a "horizontal loop field" is installed approximately six feet subsurface. As the fluid circulates underground it absorbs heat from the ground and, on its return, the warmed fluid passes through the heat pump which uses electricity to extract heat from the fluid. The re-chilled fluid is sent back into the ground thus continuing the cycle. The heat extracted and that generated by the heat pump appliance as a byproduct is used to heat the house. The addition of the ground heating loop in the energy equation means that significantly more heat can be transferred to a building than if electricity alone had been used directly for heating.
+Switching the direction of heat flow, the same system can be used to circulate the cooled water through the house for cooling in the summer months. The heat is exhausted to the relatively cooler ground (or groundwater) rather than delivering it to the hot outside air as an air conditioner does. As a result, the heat is pumped across a larger temperature difference and this leads to higher efficiency and lower energy use.[11]
+This technology makes ground source heating economically viable in any geographical location. In 2004, an estimated million ground-source heat pumps with a total capacity of 15 GW extracted 88 PJ of heat energy for space heating. Global ground-source heat pump capacity is growing by 10% annually.[1]
+History[edit]
+The oldest known pool fed by a hot spring, built in the Qin dynasty in the 3rd century BC.
+Hot springs have been used for bathing at least since Paleolithic times.[13] The oldest known spa is a stone pool on China's Mount Li built in the Qin dynasty in the 3rd century BC, at the same site where the Huaqing Chi palace was later built. Geothermal energy supplied channeled district heating for baths and houses in Pompeii around 0 AD.[14] In the first century AD, Romans conquered Aquae Sulis in England and used the hot springs there to feed public baths and underfloor heating.[15] The admission fees for these baths probably represents the first commercial use of geothermal power. A 1,000-year-old hot tub has been located in Iceland, where it was built by one of the island's original settlers.[16] The world's oldest working geothermal district heating system in Chaudes-Aigues, France, has been operating since the 14th century.[4] The earliest industrial exploitation began in 1827 with the use of geyser steam to extract boric acid from volcanic mud in Larderello, Italy.
+In 1892, America's first district heating system in Boise, Idaho was powered directly by geothermal energy, and was soon copied in Klamath Falls, Oregon in 1900. A deep geothermal well was used to heat greenhouses in Boise in 1926, and geysers were used to heat greenhouses in Iceland and Tuscany at about the same time.[17] Charlie Lieb developed the first downhole heat exchanger in 1930 to heat his house. Steam and hot water from the geysers began to be used to heat homes in Iceland in 1943.
+By this time, Lord Kelvin had already invented the heat pump in 1852, and Heinrich Zoelly had patented the idea of using it to draw heat from the ground in 1912.[18] But it was not until the late 1940s that the geothermal heat pump was successfully implemented. The earliest one was probably Robert C. Webber's home-made 2.2kW direct-exchange system, but sources disagree as to the exact timeline of his invention.[18] J. Donald Kroeker designed the first commercial geothermal heat pump to heat the Commonwealth Building (Portland, Oregon) and demonstrated it in 1946.[19][20] Professor Carl Nielsen of Ohio State University built the first residential open loop version in his home in 1948.[21] The technology became popular in Sweden as a result of the 1973 oil crisis, and has been growing slowly in worldwide acceptance since then. The 1979 development of polybutylene pipe greatly augmented the heat pumps economic viability.[19] As of 2004, there are over a million geothermal heat pumps installed worldwide providing 12 GW of thermal capacity.[22] Each year, about 80,000 units are installed in the USA and 27,000 in Sweden.[22]
+Economics[edit]
+Geothermal drill machine.
+Geothermal energy is a type of renewable energy that encourages conservation of natural resources. According to the U.S. Environmental Protection Agency, geo-exchange systems save homeowners 3070 percent in heating costs, and 2050 percent in cooling costs, compared to conventional systems.[23] Geo-exchange systems also save money because they require much less maintenance. In addition to being highly reliable they are built to last for decades.
+Some utilities, such as Kansas City Power and Light, offer special, lower winter rates for geothermal customers, offering even more savings.[11]
+Geothermal drilling risks[edit]
+Cracks at the historic Town Hall of Staufen im Breisgau presumed due to damage from geothermal drilling
+In geothermal heating projects the underground is penetrated by trenches or drillholes. As with all underground work, projects may cause problems if the geology of the area is poorly understood.
+In the spring of 2007 an exploratory geothermal drilling operation was conducted to provide geothermal heat to the town hall of Staufen im Breisgau. After initially sinking a few millimeters, a process called subsidence,[24] the city center has started to rise gradually[25] causing considerable damage to buildings in the city center, affecting numerous historic houses including the town hall. It is hypothesized that the drilling perforated an anhydrite layer bringing high-pressure groundwater to come into contact with the anhydrite, which then began to expand. Currently no end to the rising process is in sight.[26][27][28] Data from the TerraSAR-X radar satellite before and after the changes confirmed the localised nature of the situation.
+A geochemical process called anhydrite swelling has been confirmed as the cause of these uplifts. This is a transformation of the mineral anhydrite (anhydrous calcium sulphate) into gypsum (hydrous calcium sulphate). A pre-condition for this transformation is that the anhydrite is in contact with water, which is then stored in its crystalline structure.[29]
+See also[edit]
+Annualized geothermal solar
+District heating
+Geosolar
+Geothermal (geology)
+Geothermal power
+Geothermal heat pump
+Carnot's theorem (thermodynamics)
+References[edit]
+^ a b c Fridleifsson,, Ingvar B.; Bertani, Ruggero; Huenges, Ernst; Lund, John W.; Ragnarsson, Arni; Rybach, Ladislaus (2008-02-11), O. Hohmeyer and T. Trittin, ed., The possible role and contribution of geothermal energy to the mitigation of climate change (pdf), Luebeck, Germany, pp.5980, retrieved 2009-04-06
+^ Heat Pumps, Energy Management and Conservation Handbook, 2008, pp.93
+^ Mean Annual Air Temperature
+^ a b Lund, John W. (June 2007), "Characteristics, Development and utilization of geothermal resources" (PDF), Geo-Heat Centre Quarterly Bulletin, Klamath Falls, Oregon: Oregon Institute of Technology, 28 (2), pp.19, ISSN0276-1084, retrieved 2009-04-16
+^ University of Rochester - History of the utilization of geothermal sources of energy in Iceland, http://www.energy.rochester.edu/is/reyk/history.htm.
+^ District Heating Systems in Idaho, http://www.idwr.state.id.us/energy/alternative_fuels/geothermal/detailed_district.htm.
+^ Klamath Falls Geothermal District Heating Systems
+^ a b "Geothermal Basics Overview". Office of Energy Efficiency and Renewable Energy. Retrieved 2008-10-01.
+^ What is Geothermal?
+^ Wilfred Allan Elders, Gumundur mar Frileifsson and Bjarni Plsson (2014). Geothermics Magazine, Vol. 49 (January 2014). Elsevier Ltd.
+^ a b c Goswami, Yogi D., Kreith, Frank, Johnson, Katherine (2008), p. 9-4. Cite error: Invalid <ref> tag; name "heatpumps9-4" defined multiple times with different content (see the help page). Cite error: Invalid <ref> tag; name "heatpumps9-4" defined multiple times with different content (see the help page).
+^ http://www.health.state.mn.us/divs/eh/wells/geothermal.html
+^ Cataldi, Raffaele (August 1993). "Review of historiographic aspects of geothermal energy in the Mediterranean and Mesoamerican areas prior to the Modern Age" (PDF). Geo-Heat Centre Quarterly Bulletin. Klamath Falls, Oregon: Oregon Institute of Technology. 15 (1): 1316. ISSN0276-1084. Retrieved 2009-11-01.
+^ Bloomquist, R. Gordon (2001). Geothermal District Energy System Analysis, Design, and Development (PDF). International Summer School. International Geothermal Association. p.213(1). Retrieved November 28, 2015. Lay summary  Stanford University. During Roman times, warm water was circulated through open trenches to provide heating for buildings and baths in Pompeii.
+^ "A History of Geothermal Energy in the United States". U.S. Department of Energy, Geothermal Technologies Program. Retrieved 2007-09-10.
+^ http://www.scientificamerican.com/article.cfm?id=iceland-geothermal-power
+^ Dickson, Mary H.; Fanelli, Mario (February 2004). "What is Geothermal Energy?". Pisa, Italy: Istituto di Geoscienze e Georisorse. Retrieved 2009-10-13.
+^ a b Zogg, M. (2022 May 2008). http://www.zogg-engineering.ch/Publi/IEA_HPC08_Zogg.pdf |contribution-url= missing title (help) (PDF). History of Heat Pumps Swiss Contributions and International Milestones. Zrich, Switzerland: 9th International IEA Heat Pump Conference.
+^ a b Bloomquist, R. Gordon (December 1999). "Geothermal Heat Pumps, Four Plus Decades of Experience" (PDF). Geo-Heat Centre Quarterly Bulletin. 20 (4): 1318. ISSN0276-1084. Retrieved 2009-03-21.
+^ Kroeker, J. Donald; Chewning, Ray C. (February 1948). "A Heat Pump in an Office Building". ASHVE Transactions. 54: 221238.
+^ Gannon, Robert (February 1978). "Ground-Water Heat Pumps - Home Heating and Cooling from Your Own Well". Popular Science. 212 (2): 7882. ISSN0161-7370. Retrieved 2009-11-01.
+^ a b Lund, J.; Sanner, B.; Rybach, L.; Curtis, R.; Hellstrm, G. (September 2004). "Geothermal (Ground Source) Heat Pumps, A World Overview" (PDF). Geo-Heat Centre Quarterly Bulletin. 25 (3): 110. ISSN0276-1084. Retrieved 2009-03-21.
+^ "Geothermal Heat Pump Consortium, Inc.". Retrieved 2008-04-27.
+^ The Telegraph: Geothermal probe sinks German city (March 31, 2008)
+^ Spiegel.de report on recent geological changes (in German, partial translation)
+^ FORMACIJE, A (2010). "DAMAGE TO THE HISTORIC TOWN OF STAUFEN (GERMANy) CAUSED By GEOTHERMAL DRILLINGS THROUGH ANHyDRITE-BEARING FORMATIONS" (PDF). Acta Carsologica. 39 (2): 233.
+^ Butscher, Christoph; Huggenberger, Peter; Auckenthaler, Adrian; Bnninger, Dominik (2010). "Risikoorientierte Bewilligung von Erdwrmesonden". Grundwasser. 16: 1324. doi:10.1007/s00767-010-0154-5. replacement character in |last4= at position 2 (help)
+^ Goldscheider, Nico; Bechtel, Timothy D. (2009). "Editors' message: The housing crisis from undergrounddamage to a historic town by geothermal drillings through anhydrite, Staufen, Germany". Hydrogeology Journal. 17 (3): 491493. doi:10.1007/s10040-009-0458-7.
+^ TerraSAR-X Image Of The Month: Ground Uplift Under Staufen's Old Town, TerraSAR-X radar satellite, [www.spacemart.com],2009-10-22 , accessed 2009-10-23
+External links[edit]
+Energy Efficiency and Renewable Energy (EERE) - Geothermal Technologies Program
+Idaho National Laboratory - Geothermal Energy
+Oregon Institute of Technology - Geo-Heat Center
+Southern Methodist University - Geothermal Lab
+Geothermal Technologies Program at the US National Renewable Energy Lab
+The Canadian GeoExchange Coalition
+v
+t
+e
+Geothermal energy
+Category:Geothermal energy
+Geothermal energy
+Geothermal power
+Geothermal heating
+Geothermal gradient
+By country
+Armenia
+Australia
+Canada
+Chile
+China
+Denmark
+El Salvador
+Energy in Ethiopia
+Germany
+Iceland
+Indonesia
+Italy
+Japan
+Kenya
+Lebanon
+Lithuania
+Mexico
+New Zealand
+Philippines
+Portugal
+Romania
+Russia
+Turkey
+Thailand
+United Kingdom
+United States
+Technologies
+Aquaculture
+Desalination
+Geothermal heat pump
+District heating
+Binary Cycle
+EGS
+Heat pump
+Hot dry rock
+Energy Concepts
+Baseload power
+Capacity factor
+Energy storage
+Energy subsidies
+EROEI
+Category
+Portals:
+Renewable energy
+Energy
+Sustainable development
+Saved in parser cache with key enwiki:pcache:idhash:1251508-0!*!0!!en!4!* and timestamp 20161112052550 and revision id 745177257
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Geothermal_heating&oldid=745177257"
+Categories: Energy conversionHeat pumpsGeothermal energyHeatingHidden categories: Pages with reference errorsPages with duplicate reference namesPages with citations having bare URLsCS1 errors: invisible characters

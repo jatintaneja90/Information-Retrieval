@@ -1,0 +1,16 @@
+KendallCogenerationStation
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+The station in 2010
+The Kendall Cogeneration Station is a power station owned by Veolia Energy North America that produces both steam and power for the cities of Boston and Cambridge.
+External links[edit]
+Information on the sale
+Coordinates: 422147N 710448W / 42.36313N 71.08011W / 42.36313; -71.08011
+This article about a building or structure in Massachusetts is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+Saved in parser cache with key enwiki:pcache:idhash:43091425-0!*!0!*!*!4!* and timestamp 20161116073102 and revision id 717453151
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Kendall_Cogeneration_Station&oldid=717453151"
+Categories: Buildings and structures in Cambridge, MassachusettsCombined heat and power plants in the United StatesMassachusetts building and structure stubsHidden categories: Coordinates not on WikidataAll stub articles

@@ -1,0 +1,73 @@
+Deepenergyretrofit
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+Some of this article's listed sources may not be reliable. Please help this article by looking for better, more reliable sources. Unreliable citations may be challenged or deleted. (March 2012) (Learn how and when to remove this template message)
+This article contains content that is written like an advertisement. Please help improve it by removing promotional content and inappropriate external links, and by adding encyclopedic content written from a neutral point of view. (July 2012) (Learn how and when to remove this template message)
+(Learn how and when to remove this template message)
+A deep energy retrofit is a whole-building analysis and construction process that uses "integrative design" to achieve much larger energy savings than conventional energy retrofits. Deep energy retrofits can be applied to both residential and non-residential (commercial) buildings. A deep energy retrofit typically results in savings of 30 percent or more, perhaps spread over several years, and may significantly improve the building value.[1]
+The term "deep energy retrofit" is often used interchangeably with "deep green retrofit" and "deep retrofit". A deep green retrofit may have less focus on energy efficiency and may emphasize obtaining certification from a green building rating system, such as LEED. The definition of the term continues to be refined and debated.[2]
+Contents
+1 Deep energy v. conventional energy retrofits
+2 Energy efficiency measures
+3 Process
+4 Tools
+5 Ratings
+6 Benefits
+7 Notable case studies
+7.1 The Empire State Building
+7.2 The Indianapolis City-County Building
+8 See also
+9 References
+Deep energy v. conventional energy retrofits[edit]
+Conventional energy retrofits focus on isolated system upgrades (i.e. lighting and HVAC equipment). These retrofits are generally simple and fast, but they often miss opportunity for saving more energy cost-effectively.[3]
+Deep energy retrofits achieve much greater energy efficiency by taking a whole-building approach, addressing many systems at once. It is most economical and convenient to take this approach on buildings with overall poor efficiency performance, with multiple systems nearing the end of useful life, and perhaps other reasons.[4]
+Energy efficiency measures[edit]
+A deep energy retrofit combines energy efficiency measures such as energy efficient equipment, air sealing, moisture management, controlled ventilation, insulation, and solar control so that dramatic energy savings are achieved alongside optimal building performance.
+Durability, good interior air quality and energy efficiency are attained by sound building science practices. In a deep energy retrofit, filling a wall cavity with effective insulation also requires careful consideration of how that wall will dry if moisture does happen to get past its skin. Using very high R-value insulation systems on the exterior of the building enclosure is often one of the hallmarks of a deep energy retrofit. Where exactly the dewpoint will fall in (or out) of those thickened wallsand in what climate zonebecomes crucial. Careful detailing, flashing and air sealing of windows and other building penetrations is also key to a successful deep energy retrofit.
+Systems thinking is required for these kinds of retrofits, where highly efficient windows are "tuned" to their orientation, and mechanical systems and heat recovery ventilation units are sized and integrated with how the walls, roof and basement are being air sealed, moisture-managed and insulated.
+Process[edit]
+A Level III energy audit, as defined by ASHRAE, is required in order to complete a commercial building deep energy retrofit. Also known as an investment grade audit, this type of energy audit features analysis of the interactions between efficiency strategies and their life cycle cost.[5] Upon selection and implementation of measures, the energy savings are verified using the International Performance Measurement and Verification Protocol.[6]
+Tools[edit]
+Deep energy retrofits make use of energy modeling tools that integrate with an organization's pro forma or other financial decision making mechanisms. Smartphone technologies have simplified the retrofit process as a number of audit and retrofit tools have appeared over the last 5 years to speed up retrofits and maximize efficiency in the field.
+Ratings[edit]
+A building that has undergone a deep energy retrofit is well positioned for a green building rating such as LEED.
+Benefits[edit]
+There have been a number of studies done to determine and quantify the benefits afforded to owners, tenants, and various other stakeholders from the successful completion of deep energy retrofits.
+Common owner related benefits include:
+reduced costs through energy savings
+higher rent premiums[7]
+increased occupancy rates[8]
+Common benefits to tenants include:
+increased productivity[9]
+reduced employee sick days[10]
+Notable case studies[edit]
+The Empire State Building[edit]
+The Empire State Building is undergoing a deep energy retrofit process that is projected to be completed in 2013. Upon completion, the project team, consisting of representatives from Johnson Controls, Rocky Mountain Institute, Clinton Climate Initiative, Jones Lang LaSalle, and NYSERDA will have achieved an annual energy use reduction of 38% and $4.4 million.[11]
+A notable achievement of the project is that instead of replacing the chillers as originally planned, the design team were able to first reduce the buildings required cooling capacity by 1600 tons, allowing for a chiller retrofit instead of replacement which would have been $17.3 million more in capital costs.
+The Indianapolis City-County Building[edit]
+The City-County Building recently underwent a deep energy retrofit process that is projected to be completed in September 2011. Upon completion, the project team, consisting of representatives from the Indianapolis Marion County Building Authority, Indianapolis Office of Sustainability, Rocky Mountain Institute, and Performance Services will have achieved an annual energy reduction of 46% and $750,000 annual energy savings.
+See also[edit]
+Rocky Mountain Institute
+Efficient energy use
+Leadership in Energy and Environmental Design
+Zero-energy building
+Northwest Energy Efficiency Alliance
+United States Department of Energy
+Energy Savings Performance Contract
+References[edit]
+^ Fuerst, Franz; McAllister, Patrick (April 3, 2009). "New Evidence on the Green Building Rent and Price Premium" (PDF). Henley Business School. Retrieved 2012-07-31.
+^ Scanla, Victoria (2010-03-11). "What is a Deep Energy Retrofit? Experts at the NESEA Conference Respond | Energy Circle PRO". Energycircle.com. Retrieved 2012-07-26.
+^ Zhai, John; Nicole LeClaire; Michael Bendewald (In Press). "Deep energy retrofit of commercial buildings: a key pathway toward low-carbon cities". Future Science: 6. Check date values in: |date=, |year= / |date= mismatch (help); |access-date= requires |url= (help)
+^ "Retrofit Depot". Retrofit Depot. Retrieved 2012-07-26.
+^ Sud, Ish; John Cowan; Richard Pearson (2004). Procedures for Commercial Building Energy Audits. Atlanta, Ga.: American Society of Heating, Refrigerating and Air-Conditioning Engineers. ISBN1-931862-20-6.
+^ "Home". Evo-world.org. Retrieved 2012-07-26.
+^ "Doing Well by Doing Good? | Downloads | Royal Institution of Chartered Surveyors". Rics.org. Retrieved 2012-07-26.
+^ "What is the effect of eco-labelling on office occupancy rates in the USA | Downloads | Royal Institution of Chartered Surveyors". Rics.org. Retrieved 2012-07-26.
+^ James, Greg Kats, principal author; Jon Braman & Michael (2010). Greening our built world: costs, benefits, and strategies. Washington, DC: Island Press. ISBN978-1-59726-668-0.
+^ "500 Collins Street case study". Resourcesmart.vic.gov.au. Retrieved 2012-07-26.
+^ "Visit > Sustainability & Energy Efficiency - Empire State Building". Esbnyc.com. 2011-06-16. Retrieved 2012-07-26.
+Saved in parser cache with key enwiki:pcache:idhash:27882571-0!*!0!!en!4!* and timestamp 20161109025532 and revision id 676476342
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Deep_energy_retrofit&oldid=676476342"
+Categories: Low-energy buildingHidden categories: CS1 errors: datesPages using citations with accessdate and no URLArticles lacking reliable references from March 2012All articles lacking reliable referencesArticles with a promotional tone from July 2012All articles with a promotional tone

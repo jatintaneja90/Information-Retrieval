@@ -1,0 +1,129 @@
+Crust(geology)
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Geologic provinces of the World (USGS)
+Shield
+Platform
+Orogen
+Basin
+Large igneous province
+Extended crust
+Oceanic crust:
+020 Ma
+2065 Ma
+>65 Ma
+In geology, the crust is the outermost solid shell of a rocky planet or natural satellite, which is chemically distinct from the underlying mantle. The crusts of Earth, the Moon, Mercury, Venus, Mars, Io, and other planetary bodies have been generated largely by igneous processes, and these crusts are richer in incompatible elements than their respective mantles.
+Contents
+1 Earth's crust
+1.1 Composition
+2 Moon's crust
+3 See also
+4 Notes
+5 References
+6 External links
+Earth's crust
+The internal structure of Earth
+The crust of the Earth is composed of a great variety of igneous, metamorphic, and sedimentary rocks. The crust is underlain by the mantle. The upper part of the mantle is composed mostly of peridotite, a rock denser than rocks common in the overlying crust. The boundary between the crust and mantle is conventionally placed at the Mohorovii discontinuity, a boundary defined by a contrast in seismic velocity. The crust occupies less than 1% of Earth's volume.[1]
+The oceanic crust of the sheet is different from its continental crust.
+The oceanic crust is 5km (3mi) to 10km (6mi) thick[2] and is composed primarily of basalt, diabase, and gabbro.
+The continental crust is typically from 30km (20mi) to 50km (30mi) thick and is mostly composed of slightly less dense rocks than those of the oceanic crust. Some of these less dense rocks, such as granite, are common in the continental crust but rare to absent in the oceanic crust.
+Both the continental and oceanic crust "float" on the mantle. Because the continental crust is thicker, it extends both to greater elevations and greater depth than the oceanic crust. The slightly lower density of felsic continental rock compared to basaltic oceanic rock contributes to the higher relative elevation of the top of the continental crust. As the top of the continental crust reaches elevations higher than that of the oceanic, water runs off the continents and collects above the oceanic crust. Because of the change in velocity of seismic waves it is believed that beneath continents at a certain depth continental crust (sial) becomes close in its physical properties to oceanic crust (sima), and the transition zone is referred to as the Conrad discontinuity.
+The temperature of the crust increases with depth, reaching values typically in the range from about 200C (392F) to 400C (752F) at the boundary with the underlying mantle. The crust and underlying relatively rigid uppermost mantle make up the lithosphere. Because of convection in the underlying plastic (although non-molten) upper mantle and asthenosphere, the lithosphere is broken into tectonic plates that move. The temperature increases by as much as 30C (about 50F) for every kilometer locally in the upper part of the crust, but the geothermal gradient is smaller in deeper crust.[3]
+Plates in the crust of Earth
+Partly by analogy to what is known about the Moon, Earth is considered to have differentiated from an aggregate of planetesimals into its core, mantle and crust within about 100 million years of the formation of the planet, 4.6 billion years ago. The primordial crust was very thin and was probably recycled by much more vigorous plate tectonics and destroyed by significant asteroid impacts, which were much more common in the early stages of the solar system.
+Earth has probably always had some form of basaltic crust, but the age of the oldest oceanic crust today is only about 200 million years. In contrast, the bulk of the continental crust is much older. The oldest continental crustal rocks on Earth have ages in the range from about 3.7 to 4.28 billion years [4][5] and have been found in the Narryer Gneiss Terrane in Western Australia, in the Acasta Gneiss in the Northwest Territories on the Canadian Shield, and on other cratonic regions such as those on the Fennoscandian Shield. Some zircon with age as great as 4.3 billion years has been found in the Narryer Gneiss Terrane.
+The average age of the current Earth's continental crust has been estimated to be about 2.0 billion years.[6] Most crustal rocks formed before 2.5 billion years ago are located in cratons. Such old continental crust and the underlying mantle asthenosphere are less dense than elsewhere in Earth and so are not readily destroyed by subduction. Formation of new continental crust is linked to periods of intense orogeny; these periods coincide with the formation of the supercontinents such as Rodinia, Pangaea and Gondwana. The crust forms in part by aggregation of island arcs including granite and metamorphic fold belts, and it is preserved in part by depletion of the underlying mantle to form buoyant lithospheric mantle.
+Composition
+Main articles: Abundance of elements in Earth's crust and Goldschmidt classification
+Abundance (atom fraction) of the chemical elements in Earth's upper continental crust as a function of atomic number. The rarest elements in the crust (shown in yellow) are not the heaviest, but are rather the siderophile (iron-loving) elements in the Goldschmidt classification of elements. These have been depleted by being relocated deeper into Earth's core. Their abundance in meteoroid materials is higher. Additionally, tellurium and selenium have been depleted from the crust due to formation of volatile hydrides.
+The continental crust has an average composition similar to that of andesite.[7] Continental crust is enriched in incompatible elements compared to the basaltic ocean crust and much enriched compared to the underlying mantle. Although the continental crust comprises only about 0.6 weight percent of the silicate on Earth, it contains 20% to 70% of the incompatible elements.
+Most Abundant Elements of Earth's Crust
+Approximate% by weight
+O
+46.6
+Si
+27.7
+Al
+8.1
+Fe
+5.0
+Ca
+3.6
+Na
+2.8
+K
+2.6
+Mg
+1.5
+Oxide
+Percent
+SiO2
+60.6
+Al2O3
+15.9
+CaO
+6.4
+MgO
+4.7
+Na2O
+3.1
+Fe as FeO
+6.7
+K2O
+1.8
+TiO2
+0.7
+P2O5
+0.1
+All the other constituents except water occur only in very small quantities and total less than 1%. Estimates of average density for the upper crust range between 2.69 and 2.74 g/cm3 and for lower crust between 3.0 and 3.25 g/cm3.[8]
+Moon's crust
+Main article: Geology of the Moon
+A theoretical protoplanet named "Theia" is thought to have collided with the forming Earth, and part of the material ejected into space by the collision accreted to form the Moon. As the Moon formed, the outer part of it is thought to have been molten, a lunar magma ocean. Plagioclase feldspar crystallized in large amounts from this magma ocean and floated toward the surface. The cumulate rocks form much of the crust. The upper part of the crust probably averages about 88% plagioclase (near the lower limit of 90% defined for anorthosite): the lower part of the crust may contain a higher percentage of ferromagnesian minerals such as the pyroxenes and olivine, but even that lower part probably averages about 78% plagioclase.[9] The underlying mantle is denser and olivine-rich.
+The thickness of the crust ranges between about 20 and 120km. Crust on the far side of the Moon averages about 12km thicker than that on the near side. Estimates of average thickness fall in the range from about 50 to 60km. Most of this plagioclase-rich crust formed shortly after formation of the moon, between about 4.5 and 4.3 billion years ago. Perhaps 10% or less of the crust consists of igneous rock added after the formation of the initial plagioclase-rich material. The best-characterized and most voluminous of these later additions are the mare basalts formed between about 3.9 and 3.2 billion years ago. Minor volcanism continued after 3.2 billion years, perhaps as recently as 1 billion years ago. There is no evidence of plate tectonics.
+Study of the Moon has established that a crust can form on a rocky planetary body significantly smaller than Earth. Although the radius of the Moon is only about a quarter that of Earth, the lunar crust has a significantly greater average thickness. This thick crust formed almost immediately after formation of the Moon. Magmatism continued after the period of intense meteorite impacts ended about 3.9 billion years ago, but igneous rocks younger than 3.9 billion years make up only a minor part of the crust.[10]
+See also
+Eduction
+Continental crust
+Oceanic crust
+Notes
+^ Robinson, Eugene C. (January 14, 2011). "The Interior of the Earth". U.S. Geological Survey. Retrieved August 30, 2013.
+^ Structure of the Earth. The Encyclopedia of Earth. March 3, 2010
+^ Earth. Channel4.com. Retrieved on 2011-12-13.
+^ "Team finds Earth's 'oldest rocks'". BBC News. 2008-09-26. Retrieved 2010-03-27.
+^ P. J. Patchett and S. D. Samson, 2003, Ages and Growth of the Continental Crust from Radiogenic Isotopes. In The Crust (ed. R. L. Rudnick) volume 3, pp. 321348 of Treatise on Geochemistry (eds. H. D. Holland and K. K. Turekian), Elsevier-Pergamon, Oxford ISBN 0-08-043751-6
+^ A. I. S. Kemp and C. J. Hawkesworth, 2003, Granitic Perspectives on the Generation and Secular Evolution of the Continental Crust. In The Crust (ed. R. L. Rudnick) volume 3, pp. 349410 of Treatise on Geochemistry (eds. H. D. Holland and K. K. Turekian), Elsevier-Pergamon, Oxford ISBN 0-08-043751-6
+^ R. L. Rudnick and S. Gao, 2003, Composition of the Continental Crust. In The Crust (ed. R. L. Rudnick) volume 3, pp. 164 of Treatise on Geochemistry (eds. H. D. Holland and K. K. Turekian), Elsevier-Pergamon, Oxford ISBN 0-08-043751-6
+^ "Structure and composition of the Earth". Australian Museum Online. Retrieved 2007-09-14.
+^ Wieczorek, M. A. & Zuber, M. T. (2001), "The composition and origin of the lunar crust: Constraints from central peaks and crustal thickness modeling", Geophysical Research Letters, 28 (21): 40234026, Bibcode:2001GeoRL..28.4023W, doi:10.1029/2001GL012918
+^ Herald Hiesinger and James W. Head III (2006). "New views of Lunar geoscience: An introduction and overview" (PDF). Reviews in Mineralogy & Geochemistry. 60: 181. doi:10.2138/rmg.2006.60.1.
+References
+This articleincorporates text from a publication now in the public domain:Chisholm, Hugh, ed. (1911). "article name needed". Encyclopdia Britannica (11th ed.). Cambridge University Press.
+Condie, Kent C. (1989). "Origin of the Earth's Crust". Palaeogeography, Palaeoclimatology, Palaeoecology (Global and Planetary Change Section). 75: 5781. doi:10.1016/0031-0182(89)90184-3.
+External links
+The Wikibook Historical Geology has a page on the topic of: Structure of the Earth
+USGS Crustal Thickness Map
+"Crust of the Earth". Encyclopedia Americana. 1920.
+v
+t
+e
+Structure of the Earth
+Shells
+Crust
+Lithosphere
+Asthenosphere
+Mesosphere
+Mantle
+Outer core
+Inner core
+Discontinuities
+Conrad (continental crust)
+Mohorovii (crustmantle)
+Lehmann (upper mantle)
+Gutenberg (mantlecore)
+Lehmann (core)
+Arguments
+Plate tectonics
+Saved in parser cache with key enwiki:pcache:idhash:145700-0!*!0!!en!4!* and timestamp 20161117054754 and revision id 737904961
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Crust_(geology)&oldid=737904961"
+Categories: Plate tectonicsStructure of the EarthHidden categories: Pages using ISBN magic linksWikipedia indefinitely semi-protected pagesWikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with no article parameterWikipedia articles incorporating text from the 1911 Encyclopdia BritannicaWikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource reference

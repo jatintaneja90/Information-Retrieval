@@ -1,0 +1,526 @@
+Greencomputing
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+It has been suggested that Green information system be merged into this article. (Discuss) Proposed since January 2015.
+Green computing, Green ICT as per IFG International Federation of Green ICT and IFG Standard, green IT, or ICT sustainability, is the study and practice of environmentally sustainable computing or IT. San Murugesan notes that this can include "designing, manufacturing, using, and disposing of computers, servers, and associated subsystemssuch as monitors, printers, storage devices, and networking and communications systems  efficiently and effectively with minimal or no effect on the environment."[1]
+The goals of green computing are similar to green chemistry: reduce the use of hazardous materials, maximize energy efficiency during the product's lifetime, and promote the recyclability or biodegradability of defunct products and factory waste. Green computing is important for all classes of systems, ranging from handheld systems[2] to large-scale data centers.[3]
+Many corporate IT departments have green computing initiatives to reduce the environmental effect of their IT operations.[4]
+Contents
+1 Origins
+2 Regulations and industry initiatives
+2.1 Government
+2.2 Industry
+3 Approaches
+3.1 Product longevity
+3.2 Data center design
+3.3 Software and deployment optimization
+3.3.1 Algorithmic efficiency
+3.3.2 Resource allocation
+3.3.3 Virtualizing
+3.3.4 Terminal servers
+3.4 Power management
+3.4.1 Data center power
+3.4.2 Operating system support
+3.4.3 Power supply
+3.4.4 Storage
+3.4.5 Video card
+3.4.6 Display
+3.5 Materials recycling
+3.6 Cloud computing
+3.7 Telecommuting
+3.8 Telecommunication network devices energy indices
+3.9 Supercomputers
+4 Education and certification
+4.1 Green computing programs
+4.2 Green computing certifications
+4.3 Blogs and Web 2.0 resources
+5 See also
+6 Further reading
+7 References
+Origins[edit]
+Energy Star logo
+In 1992, the U.S. Environmental Protection Agency launched Energy Star, a voluntary labeling program that is designed to promote and recognize energy-efficiency in monitors, climate control equipment, and other technologies. This resulted in the widespread adoption of sleep mode among consumer electronics. Concurrently, the Swedish organization TCO Development launched the TCO Certification program to promote low magnetic and electrical emissions from CRT-based computer displays; this program was later expanded to include criteria on energy consumption, ergonomics, and the use of hazardous materials in construction.[5]
+Regulations and industry initiatives[edit]
+The Organisation for Economic Co-operation and Development (OECD) has published a survey of over 90 government and industry initiatives on "Green ICTs", i.e. information and communication technologies, the environment and climate change. The report concludes that initiatives tend to concentrate on the greening ICTs themselves rather than on their actual implementation to tackle global warming and environmental degradation. In general, only 20% of initiatives have measurable targets, with government programs tending to include targets more frequently than business associations.[6]
+Government[edit]
+Many governmental agencies have continued to implement standards and regulations that encourage green computing. The Energy Star program was revised in October 2006 to include stricter efficiency requirements for computer equipment, along with a tiered ranking system for approved products.[7][8]
+By 2008, 26 US states established statewide recycling programs for obsolete computers and consumer electronics equipment.[9] The statutes either impose an "advance recovery fee" for each unit sold at retail or require the manufacturers to reclaim the equipment at disposal.
+In 2010, the American Recovery and Reinvestment Act (ARRA) was signed into legislation by President Obama. The bill allocated over $90 billion to be invested in green initiatives (renewable energy, smart grids, energy efficiency, etc.) In January 2010, the U.S. Energy Department granted $47 million of the ARRA money towards projects that aim to improve the energy efficiency of data centers. The projects provided research to optimize data center hardware and software, improve power supply chain, and data center cooling technologies.[10]
+Industry[edit]
+Climate Savers Computing Initiative (CSCI) is an effort to reduce the electric power consumption of PCs in active and inactive states.[11] The CSCI provides a catalog of green products from its member organizations, and information for reducing PC power consumption. It was started on 2007-06-12. The name stems from the World Wildlife Fund's Climate Savers program, which was launched in 1999.[12] The WWF is also a member of the Computing Initiative.[11]
+The Green Electronics Council offers the Electronic Product Environmental Assessment Tool (EPEAT) to assist in the purchase of "greener" computing systems. The Council evaluates computing equipment on 51 criteria - 23 required and 28 optional - that measure a product's efficiency and sustainability attributes. Products are rated Gold, Silver, or Bronze, depending on how many optional criteria they meet. On 2007-01-24, President George W. Bush issued Executive Order 13423, which requires all United States Federal agencies to use EPEAT when purchasing computer systems.[13][14]
+The Green Grid is a global consortium dedicated to advancing energy efficiency in data centers and business computing ecosystems. It was founded in February 2007 by several key companies in the industry AMD, APC, Dell, HP, IBM, Intel, Microsoft, Rackable Systems, SprayCool (purchased in 2010 by Parker), Sun Microsystems and VMware. The Green Grid has since grown to hundreds of members, including end-users and government organizations, all focused on improving data center infrastructure efficiency (DCIE).
+The Green500 list rates supercomputers by energy efficiency (megaflops/watt), encouraging a focus on efficiency rather than absolute performance.
+Green Comm Challenge is an organization that promotes the development of energy conservation technology and practices in the field of Information and Communications Technology (ICT).
+The Transaction Processing Performance Council (TPC) Energy specification augments existing TPC benchmarks by allowing optional publications of energy metrics alongside performance results.[15]
+SPECpower is the first industry standard benchmark that measures power consumption in relation to performance of satveer for server-class computers. Other benchmarks which measure energy efficiency include SPECweb, SPECvirt,[16] and VMmark.[17]
+Approaches[edit]
+In a 2008 article San Murugesan defined green computing as "the study and practice of designing, manufacturing, using, and disposing of computers, servers, and associated subsystems  such as monitors, printers, storage devices, and networking and communications systems  efficiently and effectively with minimal or no impact on the environment."[1] Murugesan lays out four paths along which he believes the environmental effects of computing should be addressed:[1] Green use, green disposal, green design, and green manufacturing. Green computing can also develop solutions that offer benefits by "aligning all IT processes and practices with the core principles of sustainability, which are to reduce, reuse, and recycle; and finding innovative ways to use IT in business processes to deliver sustainability benefits across the enterprise and beyond".[18]
+Modern IT systems rely upon a complicated mix of people, networks, and hardware; as such, a green computing initiative must cover all of these areas as well. A solution may also need to address end user satisfaction, management restructuring, regulatory compliance, and return on investment (ROI). There are also considerable fiscal motivations for companies to take control of their own power consumption; "of the power management tools available, one of the most powerful may still be simple, plain, common sense."[19]
+Product longevity[edit]
+Gartner maintains that the PC manufacturing process accounts for 70% of the natural resources used in the life cycle of a PC.[20] More recently, Fujitsu released a Life Cycle Assessment (LCA) of a desktop that show that manufacturing and end of life accounts for the majority of this desktop's ecological footprint.[21] Therefore, the biggest contribution to green computing usually is to prolong the equipment's lifetime. Another report from Gartner recommends to "Look for product longevity, including upgradability and modularity." [22] For instance, manufacturing a new PC makes a far bigger ecological footprint than manufacturing a new RAM module to upgrade an existing one.
+Data center design[edit]
+Data center facilities are heavy consumers of energy, accounting for between 1.1% and 1.5% of the worlds total energy use in 2010 [1]. The U.S. Department of Energy estimates that data center facilities consume up to 100 to 200 times more energy than standard office buildings.[23]
+Energy efficient data center design should address all of the energy use aspects included in a data center: from the IT equipment to the HVAC equipment to the actual location, configuration and construction of the building.
+The U.S. Department of Energy specifies five primary areas on which to focus energy efficient data center design best practices:[24]
+Information technology (IT) systems
+Environmental conditions
+Air management
+Cooling systems
+Electrical systems
+Additional energy efficient design opportunities specified by the U.S. Department of Energy include on-site electrical generation and recycling of waste heat.[23][25]
+Energy efficient data center design should help to better utilize a data centers space, and increase performance and efficiency.
+Software and deployment optimization[edit]
+Algorithmic efficiency[edit]
+Main article: Algorithmic efficiency
+Further information: Analysis of algorithms
+The efficiency of algorithms affects the amount of computer resources required for any given computing function and there are many efficiency trade-offs in writing programs. Algorithm changes, such as switching from a slow (e.g. linear) search algorithm to a fast (e.g. hashed or indexed) search algorithm can reduce resource usage for a given task from substantial to close to zero. In 2009, a study by a physicist at Harvard estimated that the average Google search released 7grams of carbon dioxide (CO).[26] However, Google disputed this figure, arguing instead that a typical search produced only 0.2grams of CO.[27]
+Resource allocation[edit]
+Main article: Resource allocation
+Algorithms can also be used to route data to data centers where electricity is less expensive. Researchers from MIT, Carnegie Mellon University, and Akamai have tested an energy allocation algorithm that successfully routes traffic to the location with the cheapest energy costs. The researchers project up to a 40 percent savings on energy costs if their proposed algorithm were to be deployed. However, this approach does not actually reduce the amount of energy being used; it reduces only the cost to the company using it. Nonetheless, a similar strategy could be used to direct traffic to rely on energy that is produced in a more environmentally friendly or efficient way. A similar approach has also been used to cut energy usage by routing traffic away from data centers experiencing warm weather; this allows computers to be shut down to avoid using air conditioning.[28]
+Larger server centers are sometimes located where energy and land are inexpensive and readily available. Local availability of renewable energy, climate that allows outside air to be used for cooling, or locating them where the heat they produce may be used for other purposes could be factors in green siting decisions.
+Approaches to actually reduce the energy consumption of network devices by proper network/device management techniques are surveyed in.[29] The authors grouped the approaches into 4 main strategies, namely (i) Adaptive Link Rate (ALR), (ii) Interface Proxying, (iii) Energy Aware Infrastructure, and (iv) Energy Aware Applications.
+Virtualizing[edit]
+Main article: Platform virtualization
+See also: Comparison of platform virtualization software
+Computer virtualization refers to the abstraction of computer resources, such as the process of running two or more logical computer systems on one set of physical hardware. The concept originated with the IBM mainframe operating systems of the 1960s, but was commercialized for x86-compatible computers only in the 1990s. With virtualization, a system administrator could combine several physical systems into virtual machines on one single, powerful system, thereby unplugging the original hardware and reducing power and cooling consumption. Virtualization can assist in distributing work so that servers are either busy or put in a low-power sleep state. Several commercial companies and open-source projects now offer software packages to enable a transition to virtual computing. Intel Corporation and AMD have also built proprietary virtualization enhancements to the x86 instruction set into each of their CPU product lines, in order to facilitate virtual computing.
+Terminal servers[edit]
+Main article: Terminal server
+Terminal servers have also been used in green computing. When using the system, users at a terminal connect to a central server; all of the actual computing is done on the server, but the end user experiences the operating system on the terminal. These can be combined with thin clients, which use up to 1/8 the amount of energy of a normal workstation, resulting in a decrease of energy costs and consumption.[citation needed] There has been an increase in using terminal services with thin clients to create virtual labs. Examples of terminal server software include Terminal Services for Windows and the Linux Terminal Server Project (LTSP) for the Linux operating system.
+Power management[edit]
+Main article: Power management
+The Advanced Configuration and Power Interface (ACPI), an open industry standard, allows an operating system to directly control the power-saving aspects of its underlying hardware. This allows a system to automatically turn off components such as monitors and hard drives after set periods of inactivity. In addition, a system may hibernate, when most components (including the CPU and the system RAM) are turned off. ACPI is a successor to an earlier Intel-Microsoft standard called Advanced Power Management, which allows a computer's BIOS to control power management functions.[citation needed]
+Some programs allow the user to manually adjust the voltages supplied to the CPU, which reduces both the amount of heat produced and electricity consumed. This process is called undervolting. Some CPUs can automatically undervolt the processor, depending on the workload; this technology is called "SpeedStep" on Intel processors, "PowerNow!"/"Cool'n'Quiet" on AMD chips, LongHaul on VIA CPUs, and LongRun with Transmeta processors.
+Data center power[edit]
+Data centers, which have been criticized for their extraordinarily high energy demand, are a primary focus for proponents of green computing.[3][30] Data centers can potentially improve their energy and space efficiency through techniques such as storage consolidation and virtualization. Many organizations are aiming to eliminate underutilized servers, which results in lower energy usage.[31] The first step toward this aim will be training of data center administrators.[32] The U.S. federal government has set a minimum 10% reduction target for data center energy usage by 2011.[30] With the aid of a self-styled ultraefficient evaporative cooling technology, Google Inc. has been able to reduce its energy consumption to 50% of that of the industry average.[30]
+Operating system support[edit]
+Microsoft Windows, has included limited PC power management features since Windows 95.[33] These initially provided for stand-by (suspend-to-RAM) and a monitor low power state. Further iterations of Windows added hibernate (suspend-to-disk) and support for the ACPI standard. Windows 2000 was the first NT-based operating system to include power management. This required major changes to the underlying operating system architecture and a new hardware driver model. Windows 2000 also introduced Group Policy, a technology that allowed administrators to centrally configure most Windows features. However, power management was not one of those features. This is probably because the power management settings design relied upon a connected set of per-user and per-machine binary registry values,[34] effectively leaving it up to each user to configure their own power management settings.
+This approach, which is not compatible with Windows Group Policy, was repeated in Windows XP. The reasons for this design decision by Microsoft are not known, and it has resulted in heavy criticism.[35] Microsoft significantly improved this in Windows Vista[36] by redesigning the power management system to allow basic configuration by Group Policy. The support offered is limited to a single per-computer policy. The most recent release, Windows 7 retains these limitations but does include refinements for timer coalescing, processor power management,[37][38] and display panel brightness. The most significant change in Windows 7 is in the user experience. The prominence of the default High Performance power plan has been reduced with the aim of encouraging users to save power.
+There is a significant market in third-party PC power management software offering features beyond those present in the Windows operating system.[39][40][41] available. Most products offer Active Directory integration and per-user/per-machine settings with the more advanced offering multiple power plans, scheduled power plans, anti-insomnia features and enterprise power usage reporting. Notable vendors include 1E NightWatchman,[42][43] Data Synergy PowerMAN (Software),[44][45] Faronics Power Save,[46] Verdiem SURVEYOR and EnviProt Auto Shutdown Manager[47]
+Power supply[edit]
+Desktop computer power supplies are in general 7075% efficient,[48] dissipating the remaining energy as heat. A certification program called 80 Plus certifies PSUs that are at least 80% efficient; typically these models are drop-in replacements for older, less efficient PSUs of the same form factor. As of July 20, 2007, all new Energy Star 4.0-certified desktop PSUs must be at least 80% efficient.[49]
+Storage[edit]
+Smaller form factor (e.g., 2.5inch) hard disk drives often consume less power per gigabyte than physically larger drives.[50][51] Unlike hard disk drives, solid-state drives store data in flash memory or DRAM. With no moving parts, power consumption may be reduced somewhat for low-capacity flash-based devices.[52][53]
+In a recent case study, Fusion-io, manufacturer of solid state storage devices, managed to reduce the energy use and operating costs of MySpace data centers by 80% while increasing performance speeds beyond that which had been attainable via multiple hard disk drives in Raid 0.[54][55] In response, MySpace was able to retire several of their servers.
+As hard drive prices have fallen, storage farms have tended to increase in capacity to make more data available online. This includes archival and backup data that would formerly have been saved on tape or other offline storage. The increase in online storage has increased power consumption. Reducing the power consumed by large storage arrays, while still providing the benefits of online storage, is a subject of ongoing research.[56]
+Video card[edit]
+A fast GPU may be the largest power consumer in a computer.[57]
+Energy-efficient display options include:
+No video card - use a shared terminal, shared thin client, or desktop sharing software if display required.
+Use motherboard video output - typically low 3D performance and low power.
+Select a GPU based on low idle power, average wattage, or performance per watt.
+Display[edit]
+CRT monitors typically use more power than LCD monitors. They also contain significant amounts of lead. LCD monitors typically use a cold-cathode fluorescent bulb to provide light for the display. Some newer displays use an array of light-emitting diodes (LEDs) in place of the fluorescent bulb, which reduces the amount of electricity used by the display.[58] Fluorescent back-lights also contain mercury, whereas LED back-lights do not.
+Materials recycling[edit]
+Main articles: Electronic waste, computer recycling, and Waste Electrical and Electronic Equipment Directive
+Recycling computing equipment can keep harmful materials such as lead, mercury, and hexavalent chromium out of landfills, and can also replace equipment that otherwise would need to be manufactured, saving further energy and emissions. Computer systems that have outlived their particular function can be re-purposed, or donated to various charities and non-profit organizations.[59] However, many charities have recently imposed minimum system requirements for donated equipment.[60] Additionally, parts from outdated systems may be salvaged and recycled through certain retail outlets[61][62] and municipal or private recycling centers. Computing supplies, such as printer cartridges, paper, and batteries may be recycled as well.[63]
+A drawback to many of these schemes is that computers gathered through recycling drives are often shipped to developing countries where environmental standards are less strict than in North America and Europe.[64] The Silicon Valley Toxics Coalition estimates that 80% of the post-consumer e-waste collected for recycling is shipped abroad to countries such as China and Pakistan.[65]
+In 2011, the collection rate of e-waste is still very low, even in the most ecology-responsible countries like France. In this country, e-waste collection is still at a 14% annual rate between electronic equipment sold and e-waste collected for 2006 to 2009.[66]
+The recycling of old computers raises an important privacy issue. The old storage devices still hold private information, such as emails, passwords, and credit card numbers, which can be recovered simply by someone's using software available freely on the Internet. Deletion of a file does not actually remove the file from the hard drive. Before recycling a computer, users should remove the hard drive, or hard drives if there is more than one, and physically destroy it or store it somewhere safe. There are some authorized hardware recycling companies to whom the computer may be given for recycling, and they typically sign a non-disclosure agreement.[67]
+Cloud computing[edit]
+Main article: Cloud computing
+Cloud computing addresses two major ICT challenges related to Green computing  energy usage and resource consumption. Virtualization, Dynamic provisioning environment, multi-tenancy, green data center approaches are enabling cloud computing to lower carbon emissions and energy usage up to a great extent. Large enterprises and small businesses can reduce their direct energy consumption and carbon emissions by up to 30% and 90% respectively by moving certain on-premises applications into the cloud.[68] One common example includes Online shopping that helps people purchase products and services over the Internet without requiring them to drive and waste fuel to reach out to the physical shop, which, in turn, reduces greenhouse gas emission related to travel.[69]
+Telecommuting[edit]
+Main article: Telecommuting
+Teleconferencing and telepresence technologies are often implemented in green computing initiatives. The advantages are many; increased worker satisfaction, reduction of greenhouse gas emissions related to travel, and increased profit margins as a result of lower overhead costs for office space, heat, lighting, etc.[70] The savings are significant; the average annual energy consumption for U.S. office buildings is over 23 kilowatt hours per square foot, with heat, air conditioning and lighting accounting for 70% of all energy consumed.[71] Other related initiatives, such as Hoteling, reduce the square footage per employee as workers reserve space only when they need it.[72] Many types of jobs, such as sales, consulting, and field service, integrate well with this technique.
+Voice over IP (VoIP) reduces the telephony wiring infrastructure by sharing the existing Ethernet copper. VoIP and phone extension mobility also made hot desking more practical.
+Telecommunication network devices energy indices[edit]
+The information and communication technologies (ICTs) energy consumption, in the USA and worldwide, has been estimated respectively at 9.4% and 5.3% of the total electricity produced.[73] The energy consumption of ICTs is today significant even when compared with other industries. Some study tried to identify the key energy indices that allow a relevant comparison between different devices (network elements).[74] This analysis was focused on how to optimise device and network consumption for carrier telecommunication by itself. The target was to allow an immediate perception of the relationship between the network technology and the environmental effect. These studies are at the start and the gap to fill in this sector is still huge and further research will be necessary.
+Supercomputers[edit]
+The inaugural Green500 list was announced on November 15, 2007 at SC|07. As a complement to the TOP500, the unveiling of the Green500 ushered in a new era where supercomputers can be compared by performance-per-watt. http://www.green500.org/
+The TSUBAME-KFC-GSIC Center by Tokyo Institute of Technology, Made in Japan was with a great advantage to the second, the Top 1 Supercomputer in the World with 4,503.17 MFLOPS/W and 27.78 Total Power (kW)++
+Today a new supercomputer, L-CSC from the GSI Helmholtz Center, Made in Germany emerged as the most energy-efficient (or greenest) supercomputer in the world. The L-CSC cluster was the first and only supercomputer on the list to surpass 5 gigaflops/watt (billions of operations per second per watt). L-CSC is a heterogeneous supercomputer that is powered by Dual Intel Xeon E5-260 and GPU accelerators, namely AMD FirePro S9150 GPUs. It marks the first time that a supercomputer using AMD GPUs has held the top spot. Each server has a memory of 256 gigabytes. Connected, the server via an Infiniband FDR network.
+Education and certification[edit]
+Green computing programs[edit]
+Degree and postgraduate programs that provide training in a range of information technology concentrations along with sustainable strategies in an effort to educate students how to build and maintain systems while reducing its harm to the environment. The Australian National University (ANU) offers "ICT Sustainability" as part of its information technology and engineering masters programs.[75] Athabasca University offer a similar course "Green ICT Strategies",[76] adapted from the ANU course notes by Tom Worthington.[77] In the UK, Leeds Beckett University offers an MSc Sustainable Computing program in both full and part-time access modes.[78]
+Green computing certifications[edit]
+Some certifications demonstrate that an individual has specific green computing knowledge, including:
+Green Computing Initiative - GCI offers the Certified Green Computing User Specialist (CGCUS), Certified Green Computing Architect (CGCA) and Certified Green Computing Professional (CGCP) certifications.[79]
+CompTIA Strata Green IT is designed for IT managers to show that they have good knowledge of green IT practices and methods and why it is important to incorporate them into an organization.
+Information Systems Examination Board (ISEB) Foundation Certificate in Green IT is appropriate for showing an overall understanding and awareness of green computing and where its implementation can be beneficial.
+Singapore Infocomm Technology Federation (SiTF) Singapore Certified Green IT Professional is an industry endorsed professional level certification offered with SiTF authorized training partners. Certification requires completion of a four-day instructor-led core course, plus a one-day elective from an authorized vendor.[80]
+Australian Computer Society (ACS) The ACS offers a certificate for "Green Technology Strategies" as part of the Computer Professional Education Program (CPEP). Award of a certificate requires completion of a 12-week e-learning course designed by Tom Worthington, with written assignments.[81]
+International Federation of Green ICT and IFG Standard - promotes two basic green programs, IFG standard towards Green business and Green Government, and a program designed for professional Green IT certification by IFG.
+Blogs and Web 2.0 resources[edit]
+There are a lot of blogs and other user created references that can be used to gain more insights on green computing strategies, technologies and business benefits. A lot of students in Management and Engineering courses have helped in raising higher awareness about green computing.[82][83]
+See also[edit]
+Computational sustainability
+Green information system
+Sustainable development portal
+Energy portal
+Environment portal
+Camara (charity) (Ireland)
+Challenging the Chip, a book about labor rights and environmental justice in the global electronics industry
+Desktop virtualization
+Data migration
+Digger gold
+e-cycling
+eDay, an electronic waste collection day in New Zealand
+California Electronic Waste Recycling Act
+Energy Efficient Ethernet
+Energy consumption of computers in the USA
+IEEE 1680
+Interconnect bottleneck
+IT energy management
+Minimalism (computing)
+Optical communication
+Optical fiber cable
+Optical interconnect
+Parallel optical interface
+Plug computer
+Power factor
+Power usage effectiveness (PUE)
+Rebound effect (paradoxical negative effect)
+Restriction of Hazardous Substances Directive (RoHS)
+Standby power
+Sustainable Electronics Initiative (SEI)
+Time-sharing
+Thunderbolt (interface)
+Virtual application
+Further reading[edit]
+Green IT Factsheet by the University of Michigan's Center for Sustainable Systems
+WEEE:Electrical and electronic waste. A problem for every solution (in Spanish) by Mauro D. Ros BID/FOMIN
+IFG International Federation of Green ICT Standard
+Sustainable Cloud Data Centers: A Survey of Enabling Techniques and Technologies [69]
+References[edit]
+^ a b c San Murugesan, Harnessing Green IT: Principles and Practices, IEEE IT Professional, JanuaryFebruary 2008, pp 24-33.
+^ S. Mittal, "A survey of techniques for improving energy efficiency in embedded computing systems", IJCAET, 6(4), 440459, 2014.
+^ a b "Power Management Techniques for Data Centers: A Survey", 2014.
+^ E. Curry, B. Guyon, C. Sheridan, and B. Donnellan, Developing a Sustainable IT Capability: Lessons From Intels Journey, MIS Quarterly Executive, vol. 11, no. 2, pp. 6174, 2012.
+^ "TCO takes the initiative in comparative product testing". 2008-05-03. Retrieved 2008-05-03.
+^ Full report: OECD Working Party on the Information Economy. "Towards Green ICT strategies: Assessing Policies and Programmes on ICTs and the Environment" (PDF). Summary: OECD Working Party on the Information Economy. "Executive summary of OECD report" (PDF).
+^ Jones, Ernesta (2006-10-23). "EPA Announces New Computer Efficiency Requirements". U.S. EPA. Retrieved 2007-09-18.
+^ Gardiner, Bryan (2007-02-22). "How Important Will New Energy Star Be for PC Makers?". PC Magazine. Retrieved 2007-09-18.
+^ "State Legislation on E-Waste". Electronics Take Back Coalition. 2008-03-20. Archived from the original on 2009-03-06. Retrieved 2008-03-08.
+^ "Secretary Chu Announces $47 Million to Improve Efficiency in Information Technology and Communications Sectors" (Press release). U.S. Department of Energy. 2010-01-06. Archived from the original on 2010-05-27. Retrieved 2010-10-30.
+^ a b "Intel and Google Join with Dell, EDS, EPA, HP, IBM, Lenovo, Microsoft, PG&E, World Wildlife Fund and Others to Launch Climate Savers Computing Initiative" (Press release). Business Wire. 2007-06-12. Archived from the original on 2008-02-14. Retrieved 2007-12-11.
+^ "What exactly is the Climate Savers Computing Initiative?". Climate Savers Computing Initiative. 2007. Archived from the original on 2007-12-15. Retrieved 2007-12-11.
+^ "President Bush Requires Federal Agencies to Buy EPEAT Registered Green Electronic Products" (PDF) (Press release). Green Electronics Council. 2007-01-24. Archived from the original (PDF) on 2010-06-03. Retrieved 2007-09-20.
+^ "Executive Order: Strengthening Federal Environmental, Energy, and Transportation Management" (Press release). The White House: Office of the Press Secretary. 2007-01-24. Retrieved 2007-09-20.
+^ "Energy benchmarks: a detailed analysis (e-Energy 2006)". ACM. ISBN 978-1-4503-0042-1. Meikel Poess, Raghunath Nambiar, Kushagra Vaid, John M. Stephens, Jr., Karl Huppler, Evan Haines.
+^ "SPEC Power and Performance Committee". SPEC. 2013. Archived from the original on 2013-04-12. Retrieved 2013-05-15.
+^ "www.vmmark.com". VMware. 2013. Retrieved 2013-05-15.
+^ Donnellan, Brian and Sheridan, Charles and Curry, Edward (JanFeb 2011). "A Capability Maturity Framework for Sustainable Information and Communication Technology". IEEE IT Professional. 13 (1): 3340. CS1 maint: Multiple names: authors list (link)
+^ "The common sense of lean and green IT". Deloitte Technology Predictions. Archived from the original on 2010-07-06.
+^ InfoWorld July 06, 2009; http://www.infoworld.com/d/green-it/used-pc-strategy-passes-toxic-buck-300?_kip_ipx=1053322433-1267784052&_pxn=0
+^ GreenIT.fr Feb. 2011; http://www.greenit.fr/article/materiel/pc-de-bureau/quelle-est-l-empreinte-carbone-d-un-ordinateur-3478
+^ Simon Mingay, Gartner: 10 Key Elements of a 'Green IT' Strategy; http://www.onsitelasermedic.com/pdf/10_key_elements_greenIT.pdf.
+^ a b Best Practices Guide for Energy-Efficient Data Center Design, prepared by the National Renewable Energy Laboratory for the U.S. Department of Energy, Federal Energy Management Program, March 2011.[1]
+^ Koomey, Jonathon. Growth in data center electricity use 2005 to 2010, Oakland, CA: Analytics Press. August 1. [2]
+^ https://scholar.google.com.pk/citations?view_op=view_citation&hl=en&user=tWRIBtoAAAAJ&sortby=pubdate&citation_for_view=tWRIBtoAAAAJ:rO6llkc54NcC
+^ "Research reveals environmental impact of Google searches.". Fox News. 2009-01-12. Retrieved 2009-01-15.
+^ "Powering a Google search". Official Google Blog. Google. Retrieved 2009-10-01.
+^ Rear don, Marguerite (August 18, 2009). "Energy-aware Internet routing coming soon". Retrieved August 19, 2009.
+^ Aruna Prem Bianzino; Claude Chaudet; Dario Rossi; Jean-Louis Rougier (October 19, 2010). "A Survey of Green Networking Research". arXiv:1010.3880 [cs.NI].
+^ a b c Kurp, Patrick."Green Computing," Communications of the ACM51(10):11.
+^ "Is Green IT Over?". Dell.com. Retrieved 07-11-21. Check date values in: |access-date= (help)
+^ "Towards Green Computing Application for Measuring the Sustainability of Data Centers: An Analytical Survey, Zohreh Gandomi, Salmiah Amin". SDIWC Digital Library. Retrieved Nov 2014. Check date values in: |access-date= (help)
+^ "Windows 95 Power Management".
+^ "Windows power-saving options are, bizarrely, stored in HKEY_CURRENT_USER".
+^ "How Windows XP Wasted $25 Billion of Energy". 2006-11-21. Retrieved 2005-11-21.
+^ "Windows Vista Power Management Changes".
+^ "Windows 7 Processor Power Management".
+^ "Windows 7 Timer Coalescing".
+^ "Power Management Software for Windows Workstations".
+^ "Energy Star Commercial Packages List".
+^ The Headmasters'; Headmistresses' Conference. "HMC: A Practical Guide to Sustainable Building for Schools".
+^ "PC Power Management Solutions".
+^ "Why use software NightWatchman to turn your PCs off?".
+^ "University of Oxford Low Carbon Project: Energy and the networked computing environment".
+^ "1E upgrades NightWatchman, seeks to bring powermanagement to SMEs: Competitive landscape" (PDF).
+^ "Forrester Study: Total Economic Impact of Faronics Power Save" (PDF).
+^ "Going Green: University of California, Berkeley" (PDF).
+^ Schuhmann, Daniel (2005-02-28). "Strong Showing: High-Performance Power Supply Units". Tom's Hardware. Retrieved 2007-09-18.[permanent dead link]
+^ "Computer Key Product Criteria". Energy Star. 2007-07-20. Retrieved 2007-09-17.
+^ Mike Chin (8 March 2004). "IS the Silent PC Future 2.5-inches wide?". Retrieved 2008-08-02.
+^ Mike Chin (2002-09-18). "Recommended Hard Drives". Retrieved 2008-08-02.
+^ "Super Talent's 2.5" IDE Flash hard drive - The Tech Report - Page 13". The Tech Report. Retrieved 2012-09-25.
+^ "Power Consumption - Tom's Hardware: Conventional Hard Drive Obsoletism? Samsung's 32 GB Flash Drive Previewed". Tomshardware.com. 2006-09-20. Retrieved 2012-09-25.
+^ Media Galleries Temporarily Disabled. "Media Galleries Temporarily Disabled - Fusion-io Community Forum". Community.fusionio.com. Retrieved 2012-09-25.
+^ "Dead". Retrieved October 23, 2009.[dead link]
+^ IBM chief engineer talks green storage, SearchStorage - TechTarget
+^ "Faster, Quieter, Lower: Power Consumption and Noise Level of Contemporary Graphics Cards". X-bit labs. 2006-07-30. Retrieved 2012-09-25.
+^ "Cree LED Backlight Solution Lowers Power Consumption of LCD Displays". 2005-05-23. Retrieved 2007-09-17.
+^ "Reuse your electronics through donation Earth 911". Web.archive.org. 2010-04-13. Archived from the original on May 3, 2008. Retrieved 2012-09-25.
+^ Delaney, John (2007-09-04). "15 Ways to Reinvent Your PC". PC Magazine. 26 (17).
+^ "Staples Launches Nationwide Computer and Office Technology Recycling Program". Staples, Inc. 2007-05-21. Retrieved 2007-09-17.
+^ "Goodwill Teams with Electronic Recyclers to Recycle eWaste". Earth 911. 2007-08-15. Archived from the original on 2008-07-25. Retrieved 2007-09-17.
+^ Refilled ink cartridges, paper recycling, battery recycling
+^ Segan, Sascha (2007-10-02). "Green Tech: Reduce, Reuse, That's It". PC Magazine. 26 (19): 56. Retrieved 2007-11-07.
+^ Royte, Elizabeth (2006). Garbage Land: On the Secret Trail of Trash. Back Bay Books. pp.169170. ISBN0-316-73826-3.
+^ "e-waste take-back still very low". GreenIT.fr. 2011-02-09. Retrieved 2011-02-09.
+^ "Green Computing and Privacy Issues". MySecureCyberspace. Retrieved 2012-09-25.
+^ "Microsoft-backed research suggests big energy reductions from cloud". ZDNet. 2010-11-04. Retrieved 2015-09-03.
+^ a b "Google Scholar Citations". scholar.google.com.pk. Retrieved 2016-05-05.
+^ E. Curry, B. Guyon, C. Sheridan, and B. Donnellan, Developing an Sustainable IT Capability: Lessons From Intels Journey, MIS Quarterly Executive, vol. 11, no. 2, pp. 6174, 2012.
+^ "EPA Office Building Energy Use Profile" (PDF). EPA. 2007-08-15. Archived from the original (PDF) on 2009-03-06. Retrieved 2008-03-17.
+^ "What Is Green IT?".
+^ Template:Url=http://www.itu.int/ITU-D/cyb/app/docs/itu-icts-for-e-environment.pdf
+^ Puglia, Virgilio (January 2013). "Energy indices for environmental sustainability". International Journal of Technology Marketing. 8 (1/2013).
+^ "ICT Sustainability Course". Australian National University. 2012-01-01. Retrieved 2012-02-05.
+^ "Green ICT Strategies (Revision 1)". Athabasca University. 2011-09-06. Retrieved 2012-02-05.
+^ "ICT Sustainability: Assessment and Strategies for a Low Carbon Future". Tomw Communications Pty, Limited. 2011-09-06. Retrieved 2012-02-05.
+^ "MSc Sustainable Computing Course". Leeds Beckett University. 2012-01-01. Retrieved 2012-04-26.
+^ "Green Computing Initiative Certification". Green Computing Initiative. Retrieved 2012-02-05.
+^ "Singapore Certified Green IT Professional". Singapore Infocomm Technology Federation. 2012. Retrieved 2012-02-05.
+^ "Green Technology Strategies Course". Australian Computer Society. 2011-11-29. Archived from the original on 2011-03-02. Retrieved 2012-02-05.
+^ "Green Computing Blog by students of IE Business School". Wordpress. Retrieved 2012-06-12.
+^ "http://greenteamforgreenit.blogspot.com.es/" - Green Team for Green IT: A blog by MBA students from IE Business School to spread an understanding on the importance, effects, and implications of Green IT for Business
+v
+t
+e
+Environmental technology
+Appropriate technology
+Clean technology
+Environmental design
+Environmental impact assessment
+Sustainable development
+Sustainable technology
+Pollution
+Air pollution (control
+dispersion modeling)
+Industrial ecology
+Solid waste treatment
+Waste management
+Water (agricultural wastewater treatment
+industrial wastewater treatment
+sewage treatment
+waste-water treatment technologies
+water purification)
+Renewable energy
+Alternative energy
+Efficient energy use
+Energy development
+Energy recovery
+Fuel (alternative fuel
+biofuel
+carbon negative fuel
+hydrogen technologies)
+List of energy storage projects
+Renewable energy (commercialization)
+Sustainable energy
+Transportation (electric vehicle
+hybrid vehicle)
+Conservation
+Birth control
+Building (green
+natural
+sustainable architecture
+New Urbanism
+New Classical)
+Conservation biology
+Conservation ethic
+Ecoforestry
+Environmental preservation
+Environmental remediation
+Green computing
+Permaculture
+Recycling
+v
+t
+e
+Major fields of computer science
+Note: This template roughly follows the 2012 ACM Computing classification.
+Hardware
+Printed circuit board
+Peripheral
+Integrated circuit
+Very-large-scale integration
+Energy consumption
+Electronic design automation
+Computer systems
+organization
+Computer architecture
+Embedded system
+Real-time computing
+Dependability
+Networks
+Network architecture
+Network protocol
+Network components
+Network scheduler
+Network performance evaluation
+Network service
+Software organization
+Interpreter
+Middleware
+Virtual machine
+Operating system
+Software quality
+Software notations
+and tools
+Programming paradigm
+Programming language
+Compiler
+Domain-specific language
+Modeling language
+Software framework
+Integrated development environment
+Software configuration management
+Software library
+Software repository
+Software development
+Software development process
+Requirements analysis
+Software design
+Software construction
+Software deployment
+Software maintenance
+Programming team
+Open-source model
+Theory of computation
+Model of computation
+Formal language
+Automata theory
+Computational complexity theory
+Logic
+Semantics
+Algorithms
+Algorithm design
+Analysis of algorithms
+Randomized algorithm
+Computational geometry
+Mathematics
+of computing
+Discrete mathematics
+Probability
+Statistics
+Mathematical software
+Information theory
+Mathematical analysis
+Numerical analysis
+Information
+systems
+Database management system
+Information storage systems
+Enterprise information system
+Social information systems
+Geographic information system
+Decision support system
+Process control system
+Multimedia information system
+Data mining
+Digital library
+Computing platform
+Digital marketing
+World Wide Web
+Information retrieval
+Security
+Cryptography
+Formal methods
+Security services
+Intrusion detection system
+Hardware security
+Network security
+Information security
+Application security
+Humancomputer
+interaction
+Interaction design
+Social computing
+Ubiquitous computing
+Visualization
+Accessibility
+Concurrency
+Concurrent computing
+Parallel computing
+Distributed computing
+Multithreading
+Multiprocessing
+Artificial
+intelligence
+Natural language processing
+Knowledge representation and reasoning
+Computer vision
+Automated planning and scheduling
+Search methodology
+Control method
+Philosophy of artificial intelligence
+Distributed artificial intelligence
+Machine learning
+Supervised learning
+Unsupervised learning
+Reinforcement learning
+Multi-task learning
+Machine learning algorithms
+Cross-validation
+Graphics
+Animation
+Rendering
+Image manipulation
+Graphics processing unit
+Mixed reality
+Virtual reality
+Image compression
+Solid modeling
+Applied
+computing
+E-commerce
+Enterprise software
+Computational mathematics
+Computational physics
+Computational chemistry
+Computational biology
+Computational social science
+Computational engineering
+Computational healthcare
+Digital art
+Electronic publishing
+Cyberwarfare
+Electronic voting
+Video game
+Word processing
+Operations research
+Educational technology
+Document management
+Computer science portal
+NewPP limit report
+Parsed by mw1268
+Cached time: 20161120082058
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.572 seconds
+Real time usage: 0.654 seconds
+Preprocessor visited node count: 3656/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 157078/2097152 bytes
+Template argument size: 2468/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.269/10.000 seconds
+Lua memory usage: 5.91 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+539.413
+1 - -total
+59.46%
+320.761
+1 - Template:Reflist
+29.36%
+158.375
+56 - Template:Cite_web
+10.11%
+54.552
+1 - Template:Merge_from
+7.07%
+38.118
+4 - Template:Fix
+6.56%
+35.410
+2 - Template:Citation_needed
+5.68%
+30.625
+2 - Template:Cite_news
+5.46%
+29.475
+2 - Template:Navbox
+4.96%
+26.746
+1 - Template:Mbox
+4.11%
+22.146
+1 - Template:Computer_science
+Saved in parser cache with key enwiki:pcache:idhash:1661475-0!*!0!!en!4!* and timestamp 20161120082057 and revision id 749144881
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Green_computing&oldid=749144881"
+Categories: Sustainable technologiesComputers and the environmentHidden categories: CS1 maint: Multiple names: authors listCS1 errors: datesAll articles with dead external linksArticles with dead external links from November 2016Articles with permanently dead external linksArticles with dead external links from June 2016Pages using ISBN magic linksArticles to be merged from January 2015All articles to be mergedAll articles with unsourced statementsArticles with unsourced statements from May 2010Articles with unsourced statements from May 2008

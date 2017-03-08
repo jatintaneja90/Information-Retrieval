@@ -1,0 +1,105 @@
+Lignocellulosicbiomass
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Lignocellulose refers to plant dry matter (biomass), so called lignocellulosic biomass. It is the most abundantly available raw material on the Earth for the production of biofuels, mainly bio-ethanol. It is composed of carbohydrate polymers (cellulose, hemicellulose), and an aromatic polymer (lignin). These carbohydrate polymers contain different sugar monomers (six and five carbon sugars) and they are tightly bound to lignin. Lignocellulosic biomass can be broadly classified into virgin biomass, waste biomass and energy crops. Virgin biomass includes all naturally occurring terrestrial plants such as trees, bushes and grass. Waste biomass is produced as a low value byproduct of various industrial sectors such as agriculture (corn stover, sugarcane bagasse, straw etc.) and forestry (saw mill and paper mill discards). Energy crops are crops with high yield of lignocellulosic biomass produced to serve as a raw material for production of second generation biofuel; examples include switch grass (Panicum virgatum) and Elephant grass.
+Contents
+1 Dedicated energy crops
+2 Application
+2.1 Pulp and paper industry
+2.2 Biofuels
+3 References
+Dedicated energy crops[edit]
+Many crops are of interest for their ability to provide high yields of biomass and can be harvested multiple times each year. These include poplar trees and Miscanthus giganteus. The premier energy crop is sugarcane, which is a source of the readily fermentable sucrose and the lignocellulosic by-product bagasse.
+Application[edit]
+Pulp and paper industry[edit]
+Lignocellulosic biomass is the feedstock for the pulp and paper industry. This energy-intensive industry focuses on the separation of the lignin and cellulosic fractions of the biomass.
+Biofuels[edit]
+Lignocellulosic biomass, in the form of wood fuel, has a long history as a source of energy. Since the middle of the 20th century, the interest of biomass as a precursor to liquid fuels has increased. To be specific, the fermentation of lignocellulosic biomass to ethanol[1] is an attractive route to fuels that supplements the fossil fuels. Biomass is a carbon-neutral source of energy: Since it comes from plants, the combustion of lignocellulosic ethanol produces no net carbon dioxide into the earths atmosphere. Aside from ethanol, many other lignocellulose-derived fuels are of potential interest, including butanol, dimethylfuran, and gamma-Valerolactone.[2]
+One barrier to the production of ethanol from biomass is that the sugars necessary for fermentation are trapped inside the lignocellulose. Lignocellulose has evolved to resist degradation and to confer hydrolytic stability and structural robustness to the cell walls of the plants. This robustness or "recalcitrance" is attributable to the crosslinking between the polysaccharides (cellulose and hemicellulose) and the lignin via ester and ether linkages.[3] Ester linkages arise between oxidized sugars, the uronic acids, and the phenols and phenylpropanols functionalities of the lignin. To extract the fermentable sugars, one must first disconnect the celluloses from the lignin, and then use acid or enzymatic methods to hydrolyze the newly freed celluloses to break them down into simple monosaccharides. Another challenge to biomass fermentation is the high percentage of pentoses in the hemicellulose, such as xylose, or wood sugar. Unlike hexoses such as glucose, pentoses are difficult to ferment. The problems presented by the lignin and hemicellulose fractions are the foci of much contemporary research.
+A large sector of research into the exploitation of lignocellulosic biomass as a feedstock for bio-ethanol focuses particularly on the fungus Trichoderma reesei, known for its cellulolytic abilities. Multiple avenues are being explored including the design of an optimised cocktail of cellulases and hemicellulases isolated from T. reesei, as well as genetic-engineering-based strain improvement to allow the fungus to simply be placed in the presence of lignocellulosic biomass and break down the matter into D-glucose monomers.[4] Strain improvement methods have led to strains capable of producing significantly more cellulases than the original QM6a isolate; certain industrial strains are known to produce up to 100g of cellulase per litre of fungus[5] thus allowing for maximal extraction of sugars from lignocellulosic biomass. These sugars can then be fermented, leading to bio-ethanol.
+References[edit]
+^ Carroll, Andrew; Somerville, Chris (June 2009). "Cellulosic Biofuels". Annual Review of Plant Biology. 60 (1): 165182. doi:10.1146/annurev.arplant.043008.092125.
+^ Barbara A. Tokay "Biomass Chemicals" in Ullmann's Encyclopedia of Industrial Chemistry 2002, Wiley-VCH, Weinheim. doi:10.1002/14356007.a04_099
+^ U.S. Department of Energy Office of Science (June 2006). "Breaking the Biological Barriers to Cellulosic Ethanol: A Joint Research Agenda. Report from the December 2005 Workshop" (PDF).
+^ Monot, Frederic; Margeot, Antoine. "Biofuels turn to fungus - Interview with Frdric Monot and Antoine Margeot, Applied Chemistry and Physical Chemistry Division at IFPEN". IFP Energies nouvelles. Retrieved July 2015. Check date values in: |access-date= (help)
+^ Seiboth, Bernhard; Ivanova, Christa; Seidl-Seiboth, Verena (September 15, 2011). "Chapter 13: Trichoderma reesei: A Fungal Enzyme Producer for Cellulosic Biofuels". In Dos Santos Bernardes, Marco Aurlio. Biofuel Production-Recent Developments and Prospects. InTech. p.321. doi:10.5772/16848. ISBN978-953-307-478-8.
+v
+t
+e
+Bioenergy
+Biofuels
+Alcohol
+Algae fuel
+Bagasse
+Babassu oil
+Biobutanol
+Biodiesel
+Biogas
+Biogasoline
+Corn stover
+Ethanol
+cellulosic
+mixtures
+Methanol
+Stover
+Corn stover
+Straw
+Cooking oil
+Vegetable oil
+Water hyacinth
+Wood gas
+Energy from
+foodstock
+Barley
+Cassava
+Grape
+Hemp
+Maize
+Oat
+Palm oil
+Potato
+Rapeseed
+Rice
+Sorghum bicolor
+Soybean
+Sugarcane
+Sugar beet
+Sunflower
+Wheat
+Yam
+Camelina sativa
+Non-food
+energy crops
+Arundo
+Big bluestem
+Camelina
+Chinese tallow
+Duckweed
+Jatropha curcas
+Millettia pinnata
+Miscanthus giganteus
+Switchgrass
+Wood fuel
+Technology
+BECCS
+Bioconversion
+Biomass heating systems
+Biorefinery
+FischerTropsch process
+Industrial biotechnology
+Pellets
+mill
+stove
+Thermal depolymerization
+Concepts
+Cellulosic ethanol commercialization
+Energy content of biofuel
+Energy crop
+Energy forestry
+EROEI
+Food vs. fuel
+Issues
+Sustainable biofuel
+Saved in parser cache with key enwiki:pcache:idhash:5635233-0!*!0!!en!4!* and timestamp 20161115063228 and revision id 733703167
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Lignocellulosic_biomass&oldid=733703167"
+Categories: Biological matterHidden categories: CS1 errors: dates

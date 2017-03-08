@@ -1,0 +1,985 @@
+Fueleconomyinautomobiles
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Fuel consumption monitor from a 2006 Honda Airwave
+A 1916 experiment in creating a fuel-saving automobile in the United States. The vehicle weighed only 135 pounds (61.2kg) and was an adaptation of a small gasoline engine originally designed to power a bicycle.[1]
+The fuel economy of an automobile is the fuel efficiency relationship between the distance traveled and the amount of fuel consumed by the vehicle. Consumption can be expressed in terms of volume of fuel to travel a distance, or the distance travelled per unit volume of fuel consumed. Since fuel consumption of vehicles is a significant factor in air pollution, and since importation of motor fuel can be a large part of a nation's foreign trade, many countries impose requirements for fuel economy. Different measurement cycles are used to approximate the actual performance of the vehicle. The energy in fuel is required to overcome various losses (wind resistance, tire drag, and others) in propelling the vehicle, and in providing power to vehicle systems such as ignition or air conditioning. Various measures can be taken to reduce losses at each of the conversions between chemical energy in fuel and kinetic energy of the vehicle. Driver behavior can affect fuel economy; maneuvers such as sudden acceleration and heavy braking waste energy.
+Electric cars do not directly burn fuel, and so do not have fuel economy per se, but equivalence measures, such as miles per gallon gasoline equivalent have been created to attempt to compare them.
+Contents
+1 Units of measure
+2 Fuel economy statistics
+2.1 Speed and fuel economy studies
+2.2 Differences in testing standards
+3 Energy considerations
+3.1 Fuel economy-boosting technologies
+3.1.1 Engine-specific technology
+3.1.2 Other vehicle technologies
+3.1.3 Future technologies
+3.2 Fuel economy data reliability
+3.3 Concerns over EPA estimates
+3.4 Fuel economy maximizing behaviors
+3.5 Fuel economy as part of quality management regimes
+4 Fuel economy standards and testing procedures
+4.1 Australia
+4.2 Canada
+4.3 Europe
+4.4 Japan
+4.4.1 1015 mode
+4.4.2 JC08
+4.5 New Zealand
+4.6 United States
+4.6.1 US Energy Tax Act
+4.6.2 EPA testing procedure through 2007
+4.6.3 EPA testing procedure: 2008 and beyond
+4.6.4 Electric vehicles and hybrids
+4.6.5 CAFE standards
+4.6.6 State regulations
+5 Unit conversions
+5.1 Conversion from MPG
+5.2 Conversion from km/L and L/100km
+6 See also
+7 Annotations
+8 References
+9 External links
+Units of measure[edit]
+MPG to L/100 km conversion chart: blue: US, red: imperial gallon
+Fuel economy is the relationship between the distance traveled and fuel consumed.
+Fuel economy can be expressed in two ways:
+Units of fuel per fixed distance
+Generally expressed as liters per 100 kilometers (L/100km), used in most European countries, China, South Africa, Australia and New Zealand. British and Canadian law allow for the use of either liters per 100 kilometers or miles per imperial gallon.[2][3][4] Recently, the window sticker on new US cars has started displaying the vehicle's fuel consumption in US gallons per 100 miles.[5]
+Units of distance per fixed fuel unit
+Miles per gallon (mpg) is commonly used in the United States, the United Kingdom, and Canada (alongside L/100km). Kilometers per liter (km/L) is more commonly used elsewhere in the Americas, continental Europe, Asia, parts of Africa and Oceania. In Arab countries km/20L which is known as kilometers per Tanaka (or Tanakeh) is used, where Tanaka is a metal container which has a volume of 20 liters. Both mpg and km/L are units of distance per fixed fuel amount (the increase of the value represents economic fuel consumption) whereas L/100km is a unit of fuel consumption per a fixed unit of distance (the increase of the value represents large/bad fuel consumption). When the mpg unit is used, it is necessary to identify the type of gallon used, as the imperial gallon is 4.5 liters and the US gallon is 3.785 liters.
+Conversions of units:
+Miles per US gallon  L/100km:
+235
+m
+p
+g
+U
+S
+=
+(
+L
+/
+100
+k
+m
+)
+{\displaystyle {\frac {235}{mpg^{US}}}=(L/100km)}
+L/100km  Miles per US gallon:
+235
+(
+L
+/
+100
+k
+m
+)
+=
+m
+p
+g
+U
+S
+{\displaystyle {\frac {235}{(L/100km)}}={mpg^{US}}}
+Miles per Imp. gallon  L/100km:
+282
+m
+p
+g
+I
+m
+p
+.
+=
+(
+L
+/
+100
+k
+m
+)
+{\displaystyle {\frac {282}{mpg^{Imp.}}}=(L/100km)}
+L/100km  Miles per Imp. gallon:
+282
+(
+L
+/
+100
+k
+m
+)
+=
+m
+p
+g
+I
+m
+p
+.
+{\displaystyle {\frac {282}{(L/100km)}}={mpg^{Imp.}}}
+Miles per US gallon  km/20L:
+8.5
+(
+m
+p
+g
+U
+S
+)
+=
+(
+k
+m
+/
+20
+L
+)
+{\displaystyle 8.5{(mpg^{US})}=(km/20L)}
+L/100km  km/20L:
+2000
+(
+L
+/
+100
+k
+m
+)
+=
+(
+k
+m
+/
+20
+L
+)
+{\displaystyle {\frac {2000}{(L/100km)}}=(km/20L)}
+Fuel economy statistics[edit]
+While the thermal efficiency (mechanical output to chemical energy in fuel) of petroleum engines has increased since the beginning of the automotive era to around 20-30%,[6] this is not the only factor in fuel economy. The design of automobile as a whole and usage pattern affects the fuel economy. Published fuel economy is subject to variation between jurisdiction due to variations in testing protocols.
+The average fuel economy for new passenger car in the United States rose from 17 mpg in 1978 to more than 22 mpg in 1982.[7] The average fuel economy in 2008 for new cars, light trucks and SUVs in the United States was 26.4 mpgUS (8.9 L/100km).[8] 2008 model year cars classified as "midsize" by the US EPA ranged from 11 to 46 mpgUS(21 to 5 L/100km)[9] However, due to environmental concerns caused by CO2 emissions, new EU regulations are being introduced to reduce the average emissions of cars sold beginning in 2012, to 130 g/km of CO2, equivalent to 4.5 L/100km (52 mpgUS, 63 mpgimp) for a diesel-fueled car, and 5.0 L/100km (47 mpgUS, 56 mpgimp) for a gasoline (petrol)-fueled car.[10]
+The average consumption across the fleet is not immediately affected by the new vehicle fuel economy: for example, Australia's car fleet average in 2004 was 11.5 L/100km (20.5 mpgUS),[11] compared with the average new car consumption in the same year of 9.3 L/100km (25.3 mpgUS)[12]
+Speed and fuel economy studies[edit]
+1997 fuel economy statistics for various US models
+Fuel economy at steady speeds with selected vehicles was studied in 2010. The most recent study[13] indicates greater fuel efficiency at higher speeds than earlier studies; for example, some vehicles achieve better fuel economy at 100km/h (62mph) rather than at 70km/h (43mph),[13] although not their best economy, such as the 1994 Oldsmobile Cutlass, which has its best economy at 90 kilometres per hour (56mph) (8.1L/100km (29mpg-US)), and gets 2 mpg better economy at 105km/h (65mph) than at 72km/h (45mph) (9.4L/100km (25mpg-US) vs 22mpg-US (11L/100km)). The proportion of driving on high speed roadways varies from 4% in Ireland to 41% in the Netherlands.
+When the US National Maximum Speed Law's 55mph (89km/h) speed limit was mandated, there were complaints that fuel economy could decrease instead of increase. The 1997 Toyota Celica got 1 mpg better fuel-efficiency at 105km/h (65mph) than it did at 65km/h (40mph) (5.41L/100km (43.5mpg-US) vs 5.53L/100km (42.5mpg-US)), although almost 5 mpg better at 60mph (97km/h) than at 65mph (105km/h) (48.4mpg-US (4.86L/100km) vs 43.5mpg-US (5.41L/100km)), and its best economy (52.6mpg-US (4.47L/100km)) at only 25mph (40km/h). Other vehicles tested had from 1.4 to 20.2% better fuel-efficiency at 90km/h (56mph) vs. 105km/h (65mph). Their best economy was reached at speeds of 40 to 90km/h (25 to 56mph) (see graph).[13]
+Officials hoped that the 55mph (90km/h) limit, combined with a ban on ornamental lighting, no gasoline sales on Sunday, and a 15% cut in gasoline production, would reduce total gas consumption by 200,000 barrels a day, representing a 2.2% drop from annualized 1973 gasoline consumption levels.[14][a] This was partly based on a belief that cars achieve maximum efficiency between 65 and 80km/h (40 and 50mph) and that trucks and buses were most efficient at 55mph (89km/h).[16]
+In 1998, the U.S. Transportation Research Board footnoted an estimate that the 1974 National Maximum Speed Limit (NMSL) reduced fuel consumption by 0.2 to 1.0 percent.[17] Rural interstates, the roads most visibly affected by the NMSL, accounted for 9.5% of the U.S' vehicle-miles-traveled in 1973,[18] but such free-flowing roads typically provide more fuel-efficient travel than conventional roads.[19] [20] [21]
+Differences in testing standards[edit]
+This section possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (April 2013) (Learn how and when to remove this template message)
+Identical vehicles can have varying fuel consumption figures listed depending upon the testing methods of the jurisdiction.
+Lexus IS 250  petrol 2.5 L 4GR-FSE V6, 204hp (153kW), 6 speed automatic, rear wheel drive
+Australia (L/100km)  'combined' 9.1, 'urban' 12.7, 'extra-urban' 7.0[19]
+Canada (L/100km)  'combined' 9.6, 'city' 11.1, 'highway' 7.8[22]
+European Union (L/100km)  'combined' 8.9, 'urban' 12.5, 'extra-urban' 6.9[20]
+United States (L/100km)  'combined' 9.8, 'city' 11.2, 'highway' 8.1[21]
+Energy considerations[edit]
+This section needs expansion. You can help by adding to it. (June 2007)
+Since the total force opposing the vehicle's motion (at constant speed) multiplied by the distance through which the vehicle travels represents the work that the vehicle's engine must perform, the study of fuel economy (the amount of energy consumed per unit of distance traveled) requires a detailed analysis of the forces that oppose a vehicle's motion. In terms of physics, Force = rate at which the amount of work generated (energy delivered) varies with the distance traveled, or:
+F
+=
+d
+W
+d
+s
+ 
+Fuel economy
+{\displaystyle F={\frac {dW}{ds}}\propto {\text{Fuel economy}}}
+Note: The amount of work generated by the vehicle's power source (energy delivered by the engine) would be exactly proportional to the amount of fuel energy consumed by the engine if the engine's efficiency is the same regardless of power output, but this is not necessarily the case due to the operating characteristics of the internal combustion engine.
+For a vehicle whose source of power is a heat engine (an engine that uses heat to perform useful work), the amount of fuel energy that a vehicle consumes per unit of distance (level road) depends upon:
+The thermodynamic efficiency of the heat engine;
+The forces of friction within the mechanical system that delivers engine output to the wheels;
+The forces of friction in the wheels and between the road and the wheels (rolling friction);
+Other internal forces that the engine works against (electrical generator, air conditioner, water pump, engine fan, etc.);
+External forces that resist motion (e.g., wind, rain);
+Non-regenerative braking force (brakes that turn motion energy into heat rather than storing it in a useful form; e.g., electrical energy in hybrid vehicles);
+Fuel consumed while the engine is on standby and not powering the wheels, i.e., while the vehicle is coasting, braking or idling.[23]
+Energy dissipation in city and highway driving.
+Ideally, a car traveling at a constant velocity on level ground in a vacuum with frictionless wheels could travel at any speed without consuming any energy beyond what is needed to get the car up to speed. Less ideally, any vehicle must expend energy on overcoming road load forces, which consist of aerodynamic drag, tire rolling resistance, and inertial energy that is lost when the vehicle is decelerated by friction brakes. With ideal regenerative braking, the inertial energy could be completely recovered, but there are few options for reducing aerodynamic drag or rolling resistance other than optimizing the vehicle's shape and the tire design. Road load energy, or the energy demanded at the wheels, can be calculated by evaluating the vehicle equation of motion over a specific driving cycle.[24] The vehicle powertrain must then provide this minimum energy in order to move the vehicle, and will lose a large amount of additional energy in the process of converting fuel energy into work and transmitting it to the wheels. Overall, the sources of energy loss in moving a vehicle may be summarized as follows:
+Engine efficiency (20-30%),[6] which varies with engine type, the mass of the automobile and its load, and engine speed (usually measured in RPM).
+Aerodynamic drag force, which increases roughly by the square of the car's speed, but note that drag power goes by the cube of the car's speed.
+Rolling friction.
+Braking, although regenerative braking captures some of the energy that would otherwise be lost.
+Losses in the transmission. Manual transmissions can be up to 94% efficient whereas older automatic transmissions may be as low as 70% efficient[25] Automatically controlled shifting of gearboxes that have the same internals as manual boxes will give the same efficiency as a pure manual gearbox plus the bonus of added intelligence selecting optimal shifting points
+Air conditioning. The power required for the engine to turn the compressor decreases the fuel-efficiency, though only when in use. This may be offset by the reduced drag of the vehicle compared with driving with the windows down. The efficiency of AC systems gradually deteriorates due to dirty filters etc.; regular maintenance prevents this. The extra mass of the air conditioning system will cause a slight increase in fuel consumption.
+Power steering. Older hydraulic power steering systems are powered by a hydraulic pump constantly engaged to the engine. Power assistance required for steering is inversely proportional to the vehicle speed so the constant load on the engine from a hydraulic pump reduces fuel efficiency. More modern designs improve fuel efficiency by only activating the power assistance when needed; this is done by using either direct electrical power steering assistance or an electrically powered hydraulic pump.
+Cooling. Older cooling systems used a constantly engaged mechanical fan to draw air through the radiator at a rate directly related to the engine speed. This constant load reduces efficiency. More modern systems use electrical fans to draw additional air through the radiator when extra cooling is required.
+Electrical systems. Headlights, battery charging, active suspension, circulating fans, defrosters, media systems, speakers, and other electronics can also significantly increase fuel consumption, as the energy to power these devices causes increased load on the alternator. Since alternators are commonly only 4060% efficient, the added load from electronics on the engine can be as high as 3 horsepower (2.2kW) at any speed including idle. In the FTP 75 cycle test, a 200 watt load on the alternator reduces fuel efficiency by 1.7MPG.[26] Headlights, for example, consume 110 watts on low and up to 240 watts on high. These electrical loads can cause much of the discrepancy between real world and EPA tests, which only include the electrical loads required to run the engine and basic climate control.
+Standby. The energy needed to keep the engine running while it is not providing power to the wheels, i.e., when stopped, coasting or braking.
+Fuel-efficiency decreases from electrical loads are most pronounced at lower speeds because most electrical loads are constant while engine load increases with speed. So at a lower speed a higher proportion of engine horsepower is used by electrical loads. Hybrid cars see the greatest effect on fuel-efficiency from electrical loads because of this proportional effect.
+Fuel economy-boosting technologies[edit]
+Main article: Fuel saving devices
+Engine-specific technology[edit]
+Type
+Technology
+Explanation
+Inventor
+Notes
+Engine cycle
+Replacing petrol engines with diesel engines
+Reduces brake specific fuel consumption at lower RPM
+Herbert Akroyd Stuart
+Engine combustion strategies
+Electronic control of the cooling system
+Optimizes engine running temperature
+Stratified Charge combustion
+Injects fuel into cylinder just before ignition, increasing compression ratio
+For use in petrol engines
+Lean burn combustion
+Increases air/fuel ratio to reduce throttling losses
+Chrysler
+https://www.youtube.com/watch?v=KnNX6gtDyhg
+Cooled exhaust gas recirculation (petrol)
+Reduces throttling losses, heat rejection, chemical dissociation, and specific heat ratio
+Cooled exhaust gas recirculation (diesel)
+Lowers peak combustion temperatures
+Atkinson cycle
+Lengthens power stroke to achieve greater thermal efficiency
+James Atkinson
+Atkinson cycle
+Variable valve timing and variable valve lift
+Alters valve lift timing and height for precise control over intake and exhaust
+GM?
+William Howe and William Williams (Robert Stephenson and Company) invented the first variable timing valve
+Variable geometry turbocharging
+Optimizes air flow with adjustable vanes to regulate turbocharger's air intake and eliminate turbo lag
+Garrett (Honeywell)
+VNT Vanes Open
+Twincharging
+Combines a supercharger with a turbocharger to eliminate turbo lag
+Lancia
+For use in small-displacement motors
+Gasoline direct injection (GDI) engines
+Allows for stratified fuel charge and ultra lean burn
+Leon Levavasseur
+Turbocharged Direct Injection diesel engines
+Combines direct injection with a turbocharger
+Volkswagen
+Common rail direct injection
+Increases injection pressure
+Robert Huber
+Piezoelectric diesel injectors
+Uses multiple injections per engine cycle for increased precision
+Cylinder management
+Shuts off individual cylinders when their power output is not needed
+HCCI (Homogeneous Charge Compression Ignition) combustion
+Allows leaner and higher compression burn
+https://www.youtube.com/watch?v=B8CnYljXAS0
+Scuderi engine
+Eliminates recompression losses
+Carmelo J. Scuderi
+Scuderi engine
+Compound engines (6-stroke engine or turbo-compound engine)
+Recovers exhaust energy
+Two-stroke diesel engines
+Increases power to weight ratio
+Charles F. Kettering
+High-efficiency gas turbine engines
+Increases power to weight ratio
+Turbosteamer
+Uses heat from the engine to spin a mini turbine to generate power
+Raymond Freymann (BMW)
+Stirling hybrid battery vehicle
+Increases thermal efficiency
+Still largely theoretical, although prototypes have been produced by Dean Kamen
+Time-optimized piston path
+Captures energy from gases in the cylinders at their highest temperatures
+Engine internal losses
+Downsized engines with a supercharger or a turbocharger
+Reduces engine displacement while maintaining sufficient torque
+2014-Global-Turbo-Forecast
+Lower-friction lubricants (engine oil, transmission fluid, axle fluid)
+Reduces energy lost to friction
+Lower viscosity engine oils
+Reduces hydrodynamic friction and energy required to circulate
+Variable displacement oil pump
+Avoids excessive flow rate at high engine speed
+Electrifying engine accessories (water pump, power steering pump and air conditioner compressor)
+Sends more engine power to the transmission, or reduces fuel required for the same traction power
+Roller type cam, low friction coating on piston skirt and optimizing load bearing surface, e.g. camshaft bearing and connective rods.
+Reduces engine frictions
+Engine running conditions
+Coolant additives
+Increases the thermal efficiency of the cooling system
+Increasing the number of gearbox ratios in manual gearboxes
+Lowers the engine rpm at cruise
+Reducing the volume of water-based cooling systems
+Engine reaches its efficient operating temperature more quickly
+Start-stop system
+Automatically shuts off engine when vehicle is stopped, reducing idle time
+Downsized engines with an electric drive system and battery
+Avoids low-efficiency idle and power conditions
+Other vehicle technologies[edit]
+Type
+Technology
+Explanation
+Inventor
+Notes
+Transmission losses
+Continuously variable transmission (CVT)
+Enables engine to run at its most efficient RPM
+Leonardo da Vinci
+For use in automatic gearboxes
+Locking torque converters in automatic transmissions
+Reduces slip and power losses in the converter
+Rolling resistance
+Lighter construction materials (aluminum, fiberglass, plastic, high-strength steel, and carbon fiber)
+Reduces vehicle weight
+Increasing tire pressure
+Lowers tire deformation under weight
+Replacing tires with low rolling resistance (LRR) models
+Lowers rolling resistance[27]
+Series parallel hybrid
+Using an electric motor for the base power and an IC engine for assists and boosts, when needed
+Decreases fuel consumption by running the petrol engine only when needed, in this way also environmentally friendly.
+TRW
+Energy saving
+Lighter materials for moving parts (pistons, crankshaft, gears, and alloy wheels)
+Reduces energy required to move parts
+Regenerative braking
+Captures kinetic energy while braking
+Louis Antoine Kriger
+For use in hybrid or electric vehicles
+Recapturing waste heat from exhaust system
+Converts heat energy into electricity using thermoelectric cooling
+Jean Charles Athanase Peltier
+Regenerative shock absorbers
+Recaptures wasted energy in the vehicle suspension[28]
+Levant Power
+Traffic management
+Active highway management
+Matches speed limits and vehicles allowed to join motorways with traffic density to maintain traffic throughput
+Vehicle electronic control systems that automatically maintain distances between vehicles on motorways
+Reduces ripple back braking and consequent re-acceleration
+Future technologies[edit]
+Technologies that may improve fuel efficiency, but are not yet on the market, include:
+HCCI (Homogeneous Charge Compression Ignition) combustion
+Scuderi engine
+Compound engines
+Two-stroke diesel engines
+High-efficiency gas turbine engines
+BMW's Turbosteamer  using the heat from the engine to spin a mini turbine to generate power
+Vehicle electronic control systems that automatically maintain distances between vehicles on motorways/freeways that reduce ripple back braking, and consequent re-acceleration.
+Time-optimized piston path, to capture energy from hot gases in the cylinders when they are at their highest temperatures[29]
+sterling hybrid battery vehicle
+Many aftermarket consumer products exist that are purported to increase fuel economy; many of these claims have been discredited. In the United States, the Environmental Protection Agency maintains a list of devices that have been tested by independent laboratories and makes the test results available to the public.[30]
+Fuel economy data reliability[edit]
+The mandatory publication of the fuel consumption by the manufacturer led some to use dubious practices to reach better values in the past. If the test is on a test stand, the vehicle may detect open doors and adapt the engine control. Also when driven according to the test regime, the parameters may adapt automatically. Test laboratories use a "golden car" that is tested in each one to check that each lab produces the same set of measurements for a given drive cycle.[31]
+Tire pressures and lubricants have to be as recommended by the manufacturer (Higher tire pressures are required on a particular dynamometer type, but this is to compensate for the different rolling resistance of the dynamometer, not to produce an unrealistic load on the vehicle). Normally the quoted figures a manufacturer publishes have to be proved by the relevant authority witnessing vehicle/engine tests. Some jurisdictions independently test emissions of vehicles in service, and as a final measure can force a recall of all of a particular type of vehicle if the customer vehicles do not fulfill manufacturers' claims within reasonable limits. The expense and bad publicity from such a recall encourages manufacturers to publish realistic figures. The US Federal government retests 1015% of models[32]), to make sure that the manufacturer's tests are accurate.
+Real world fuel consumption can vary greatly as they can be affected by many factors that have little to do with the vehicle. Driving conditions  weather, traffic, temperature; driving style  hard braking, jack rabbit starts, and speeding; road conditions  paved vs gravel, smooth vs potholes; and things like carrying excess weight, roof racks, and fuel quality can all combine to dramatically increase fuel consumption. Expecting to consistently perform in the face of so many variables is impossible as is the expectation for one set of numbers to encompass every driver and their personal circumstances.
+The ratings are meant to provide a comparison, and are not a promise of actual performance.
+Concerns over EPA estimates[edit]
+For many years critics had claimed that EPA estimated fuel economy figures had been misleading. The primary arguments of the EPA detractors were focused on the lack of real world testing, and the very limited scale (i.e., city or highway).
+Partly as a response to these criticisms, the EPA changed their fuel economy rating system in 2008 in an attempt to more adequately address these concerns. Instead of testing simply in two presumed modes, the testing now covers:[33]
+Faster speeds and acceleration
+Air conditioner use
+Colder outside temperatures
+While the new EPA standards may represent an improvement, real world user data may still be the best way to gather and collect accurate fuel economy information. As such the EPA has also set up a http://www.fueleconomy.gov/mpg/MPG.do?action=browseList website where drivers can enter and track their own real-world fuel economy numbers.
+There are also a number of websites that attempt to track and report individual user fuel economy data through real-life driving. Sites or publications such as Consumer Reports, Edmunds.com, Consumer Guide and TrueDelta.com offer this service and claim more accurate numbers than those listed by the EPA.
+Fuel economy maximizing behaviors[edit]
+Main article: Fuel economy-maximizing behaviors
+Governments, various environmentalist organizations, and companies like Toyota and Shell Oil Company have historically urged drivers to maintain adequate air pressure in tires and careful acceleration/deceleration habits. Keeping track of fuel efficiency stimulates fuel economy-maximizing behavior.[34]
+A five-year partnership between Michelin and Anglian Water shows that 60,000 litres fuel can be saved on tyre pressure. The Anglian Water fleet of 4,000 vans and cars are now lasting their full lifetime.This shows the impact that tyre pressures have on the fuel efficiency.[35]
+Fuel economy as part of quality management regimes[edit]
+Environmental management systems EMAS as well as good fleet management includes record keeping of the fleet fuel consumption. Quality management uses those figures to steer the measures acting on the fleets. This is a way to check whether procurement, driving, and maintenance in total have contributed to changes in the fleet's overall consumption.
+Fuel economy standards and testing procedures[edit]
+Gasoline new passenger car fuel efficiency
+Country
+2004 average
+Requirement
+2004
+2005
+2008
+Later
+People's Republic of China[36]
+6.9L/100km
+6.9L/100km
+6.1L/100km
+United States
+24.6mpg (9.5L/100km) (cars and trucks)*
+27mpg (8.7L/100km) (cars only)*
+35.5mpg (6.6L/100km) (2016)
+European Union
+5L/100km (2012)
+Japan[12]
+6.7L/100km CAFE eq (2010)
+Australia[12]
+8.08L/100km CAFE eq (2002)
+none
+6.7L/100km CAFE eq (2010) (voluntary)
+* highway ** combined
+Australia[edit]
+From October 2008, all new cars had to be sold with a sticker on the windscreen showing the fuel consumption and the CO2 emissions.[37] Fuel consumption figures are expressed as urban, extra urban and combined, measured according to ECE Regulations 83 and 101 - which are the based on the European driving cycle; previously, only the combined number was given.
+Australia also uses a star rating system, from one to five stars, that combines greenhouse gases with pollution, rating each from 0 to 10 with ten being best. To get 5 stars a combined score of 16 or better is needed, so a car with a 10 for economy (greenhouse) and a 6 for emission or 6 for economy and 10 for emission, or anything in between would get the highest 5 star rating.[38] The lowest rated car is the Ssangyong Korrando with automatic transmission, with one star, while the highest rated was the Toyota Prius hybrid. The Fiat 500, Fiat Punto and Fiat Ritmo as well as the Citroen C3 also received 5 stars.[39] The greenhouse rating depends on the fuel economy and the type of fuel used. A greenhouse rating of 10 requires 60 or less grams of CO2 per km, while a rating of zero is more than 440 g/km CO2. The highest greenhouse rating of any 2009 car listed is the Toyota Prius, with 106g/km CO2 and 4.4L/100km (64mpg-imp; 53mpg-US). Several other cars also received the same rating of 8.5 for greenhouse. The lowest rated was the Ferrari 575 at 499g/km CO2 and 21.8L/100km (13.0mpg-imp; 10.8mpg-US). The Bentley also received a zero rating, at 465g/km CO2. The best fuel economy of any year is the 20042005 Honda Insight, at 3.4L/100km (83mpg-imp; 69mpg-US).
+Canada[edit]
+Vehicle manufacturers follow a controlled laboratory testing procedure to generate the fuel consumption data that they submit to the Government of Canada. This controlled method of fuel consumption testing, including the use of standardized fuels, test cycles and calculations, is used instead of on-road driving to ensure that all vehicles are tested under identical conditions and that the results are consistent and repeatable.
+Selected test vehicles are run in for about 6,000km before testing. The vehicle is then mounted on a chassis dynamometer programmed to take into account the aerodynamic efficiency, weight and rolling resistance of the vehicle. A trained driver runs the vehicle through standardized driving cycles that simulate trips in the city and on the highway. Fuel consumption ratings are derived from the emissions generated during the driving cycles.[40]
+THE 5 CYCLE TEST:
+1. The city test simulates urban driving in stop-and-go traffic with an average speed of 34km/h and a top speed of 90km/h. The test runs for approximately 31 minutes and includes 23 stops. The test begins from a cold engine start, which is similar to starting a vehicle after it has been parked overnight during the summer. The final phase of the test repeats the first eight minutes of the cycle but with a hot engine start. This simulates restarting a vehicle after it has been warmed up, driven and then stopped for a short time. Over five minutes of test time are spent idling, to represent waiting at traffic lights. The ambient temperature of the test cell starts at 20C and ends at 30C.
+2. The highway test simulates a mixture of open highway and rural road driving, with an average speed of 78km/h and a top speed of 97km/h. The test runs for approximately 13 minutes and does not include any stops. The test begins from a hot engine start. The ambient temperature of the test cell starts at 20C and ends at 30C.
+3. In the cold temperature operation test, the same driving cycle is used as in the standard city test, except that the ambient temperature of the test cell is set to -7C.
+4. In the air conditioning test, the ambient temperature of the test cell is raised to 35C. The vehicle's climate control system is then used to lower the internal cabin temperature. Starting with a warm engine, the test averages 35km/h and reaches a maximum speed of 88km/h. Five stops are included, with idling occurring 19% of the time.
+5. The high speed/quick acceleration test averages 78km/h and reaches a top speed of 129km/h. Four stops are included and brisk acceleration maximizes at a rate of 13.6km/h per second. The engine begins warm and air conditioning is not used. The ambient temperature of the test cell is constantly 25C.
+Tests 1, 3, 4 & 5 are averaged to create the city driving fuel consumption rate.
+Tests 2, 4 & 5 are averaged to create the highway driving fuel consumption rate.[40]
+Europe[edit]
+Irish fuel economy label.
+Main article: NEDC
+In the European Union, passenger vehicles are commonly tested using two drive cycles, and corresponding fuel economies are reported as 'urban' and 'extra-urban', in litres per 100km and (in the UK) in miles per imperial gallon.
+The urban economy is measured using the test cycle known as ECE-15, first introduced in 1970 by EC Directive 70/220/EWG and finalized by EEC Directive 90/C81/01 in 1999. It simulates a 4,052m (2.518mile) urban trip at an average speed of 18.7km/h (11.6mph) and at a maximum speed of 50km/h (31mph).
+The extra-urban driving cycle or EUDC lasts 400 seconds (6minutes 40 seconds) at an average speed 62.6km/h (39mph) and a top speed of 120km/h (74.6mph).[41]
+EU fuel consumption numbers are often considerably lower than corresponding US EPA test results for the same vehicle. For example, the 2011 Honda CR-Z with a six-speed manual transmission is rated 6.1/4.4 L/100km in Europe[42] and 7.6/6.4 L/100km (31/37 mpg ) in the United States.[43]
+In the European Union advertising has to show Carbon dioxide (CO2)-emission and fuel consumption data in a clear way as described in the UK Statutory Instrument 2004 No 1661.[44] Since September 2005 a colour-coded "Green Rating" sticker has been available in the UK, which rates fuel economy by CO2 emissions: A: <= 100 g/km, B: 100120, C: 121150, D: 151165, E: 166185, F: 186225, and G: 226+. Depending on the type of fuel used, for gasoline A corresponds to about 4.1L/100km (69mpg-imp; 57mpg-US) and G about 9.5L/100km (30mpg-imp; 25mpg-US).[45] Ireland has a very similar label, but the ranges are slightly different, with A: <= 120 g/km, B: 121140, C: 141155, D: 156170, E: 171190, F: 191225, and G: 226+.[46]
+In the UK the ASA (Advertising standards agency) have claimed that fuel consumption figures are misleading. Often the case with European vehicles as the MPG (miles per gallon) figures that can be advertised are often not the same as 'real world' driving.
+The ASA have said that Car manufacturers can use cheats to prepare their vehicles for their compulsory fuel efficiency and emissions tests in a way set out to make themselves look as clean as possible. This practice is common in petrol and diesel vehicle tests, but hybrid and electric vehicles are not immune as manufacturers apply these techniques to fuel efficiency.
+Car experts[who?] also assert that the official MPG figures given by manufacturers do not represent the true MPG values from real-world driving.[47] Websites have been set up to show the real-world MPG figures, based on crowd-sourced data from real users, vs the official MPG figures.[48]
+The major loopholes in the current EU tests allow car manufacturers a number of cheats to improve results. Car manufacturers can:
+Disconnect the alternator, thus no energy is used to recharge the battery;
+Use special lubricants that are not used in production cars, in order to reduce friction;
+Turn off all electrical gadgets i.e. Air Con/Radio;
+Adjust brakes or even disconnect them to reduce friction;
+Tape up cracks between body panels and windows to reduce air resistance;
+Remove Wing mirrors.[49]
+According to the results of a 2014 study by the International Council on Clean Transportation (ICCT), the gap between official and real-world fuel-economy figures in Europe has risen to about 38% in 2013 from 10% in 2001. The analysis found that for private cars, the difference between on-road and official CO2 values rose from around 8% in 2001 to 31% in 2013, and 45% for company cars in 2013. The report is based on data from more than half a million private and company vehicles across Europe. The analysis was prepared by the ICCT together with the Netherlands Organisation for Applied Scientific Research (TNO), and the German Institut fr Energie- und Umweltforschung Heidelberg (IFEU).[50]
+Japan[edit]
+The evaluation criteria used in Japan reflects driving conditions commonly found, as the typical Japanese driver doesn't drive as fast as other regions internationally (Speed limits in Japan)
+1015 mode[edit]
+The 1015 mode driving cycle test is the official fuel economy and emission certification test for new light duty vehicles in Japan. Fuel economy is expressed in km/L (kilometers per litre) and emissions are expressed in g/km. The test is carried out on a dynamometer and consist of 25 tests which cover idling, acceleration, steady running and deceleration, and simulate typical Japanese urban and/or expressway driving conditions. The running pattern begins with a warm start, lasts for 660 seconds (11 minutes) and runs at speeds up to 70km/h (43.5mph).[51][52] The distance of the cycle is 6.34km (3.9mi), average speed of 25.6km/h (15.9mph), and duration 892 seconds (14.9 minutes), including the initial 15 mode segment.[52]
+JC08[edit]
+A new more demanding test, called the JC08, was established in December 2006 for Japans new standard that goes into effect in 2015, but it is already being used by several car manufacturers for new cars. The JC08 test is significantly longer and more rigorous than the 1015 mode test. The running pattern with JC08 stretches out to 1200 seconds (20 minutes), and there are both cold and warm start measurements and top speed is 82km/h (51.0mph). The economy ratings of the JC08 are lower than the 1015 mode cycle, but they are expected to be more real world.[51] The Toyota Prius became the first car to meet Japans new 2015 Fuel Economy Standards measured under the JC08 test.[53]
+New Zealand[edit]
+Starting on 7 April 2008 all cars of up to 3.5 tonnes GVW sold other than private sale need to have a fuel economy sticker applied (if available) that shows the rating from one half star to six stars with the most economic cars having the most stars and the more fuel hungry cars the least, along with the fuel economy in L/100km and the estimated annual fuel cost for driving 14,000km (at present fuel prices). The stickers must also appear on vehicles to be leased for more than 4months. All new cars currently rated range from 6.9L/100km (41mpg-imp; 34mpg-US) to 3.8L/100km (74mpg-imp; 62mpg-US) and received respectively from 4.5 to 5.5 stars.[54]
+United States[edit]
+Motor vehicle fuel economy from 1966 to 2008.
+US Energy Tax Act[edit]
+Main article: Energy Tax Act
+The Energy Tax Act of 1978[55] in the US established a gas guzzler tax on the sale of new model year vehicles whose fuel economy fails to meet certain statutory levels. The tax applies only to cars (not trucks) and is collected by the IRS. Its purpose is to discourage the production and purchase of fuel-inefficient vehicles. The tax was phased in over ten years with rates increasing over time. It applies only to manufacturers and importers of vehicles, although presumably some or all of the tax is passed along to automobile consumers in the form of higher prices. Only new vehicles are subject to the tax, so no tax is imposed on used car sales. The tax is graduated to apply a higher tax rate for less-fuel-efficient vehicles. To determine the tax rate, manufacturers test all the vehicles at their laboratories for fuel economy. The US Environmental Protection Agency confirms a portion of those tests at an EPA lab.
+In some cases, this tax may only apply to certain variants of a given model; for example, the 20042006 Pontiac GTO (captive import version of the Holden Monaro) did incur the tax when ordered with the four-speed automatic transmission, but did not incur the tax when ordered with the six-speed manual transmission.[56]
+EPA testing procedure through 2007[edit]
+The "city" or Urban Dynamometer Driving Schedule (UDDS) used in the EPA Federal Test Procedure
+The Highway Fuel Economy Driving Cycle (HWFET) used in the EPA Federal Test Procedure
+Two separate fuel economy tests simulate city driving and highway driving: the "city" driving program or Urban Dynamometer Driving Schedule or (UDDS) or FTP-72 is defined in 40 C.F.R. 86 AppI and consists of starting with a cold engine and making 23 stops over a period of 31minutes for an average speed of 20mph (32km/h) and with a top speed of 56mph (90km/h).
+The "highway" program or Highway Fuel Economy Driving Schedule (HWFET) is defined in 40 C.F.R. 600 AppI and uses a warmed-up engine and makes no stops, averaging 48mph (77km/h) with a top speed of 60mph (97km/h) over a 10-mile (16km) distance. The measurements are then adjusted downward by 10% (city) and 22% (highway) to more accurately reflect real-world results. A weight average of city (55%) and highway (45%) fuel economies is used to determine the guzzler tax.[57][58]
+The procedure has been updated to FTP-75, adding a "hot start" cycle which repeats the "cold start" cycle after a 10-minute pause.
+Because EPA figures had almost always indicated better efficiency than real-world fuel-efficiency, the EPA has modified the method starting with 2008. Updated estimates are available for vehicles back to the 1985 model year.[57][59]
+EPA testing procedure: 2008 and beyond[edit]
+2008 Monroney sticker highlights fuel economy.
+US EPA altered the testing procedure effective MY2008 which adds three new Supplemental Federal Test Procedure (SFTP) tests to include the influence of higher driving speed, harder acceleration, colder temperature and air conditioning use.[60]
+SFTP US06 is a high speed/quick acceleration loop that lasts 10minutes, covers 8 miles (13km), averages 48mph (77km/h) and reaches a top speed of 80mph (130km/h). Four stops are included, and brisk acceleration maximizes at a rate of 8.46mph (13.62km/h) per second. The engine begins warm and air conditioning is not used. Ambient temperature varies between 68F (20C) to 86F (30C).
+SFTO SC03 is the air conditioning test, which raises ambient temperatures to 95F (35C), and puts the vehicle's climate control system to use. Lasting 9.9minutes, the 3.6-mile (5.8km) loop averages 22mph (35km/h) and maximizes at a rate of 54.8mph (88.2km/h). Five stops are included, idling occurs 19 percent of the time and acceleration of 5.1mph/sec is achieved. Engine temperatures begin warm.
+Lastly, a cold temperature cycle uses the same parameters as the current city loop, except that ambient temperature is set to 20F (7C).
+EPA tests for fuel economy do not include electrical load tests beyond climate control, which may account for some of the discrepancy between EPA and real world fuel-efficiency. A 200W electrical load can produce a 0.4km/L (0.94mpg) reduction in efficiency on the FTP 75 cycle test.[26]
+Electric vehicles and hybrids[edit]
+2010 Monroney sticker for a plug-in hybrid showing fuel economy in all-electric mode and gas-only mode.
+Following the efficiency claims made for vehicles such as Chevrolet Volt and Nissan Leaf, the National Renewable Energy Laboratory recommended to use EPA's new vehicle fuel efficiency formula that gives different values depending on fuel used.[61] In November 2010 the EPA introduced the first fuel economy ratings in the Monroney stickers for plug-in electric vehicles.
+For the fuel economy label of the Chevy Volt plug-in hybrid EPA rated the car separately for all-electric mode expressed in miles per gallon gasoline equivalent (MPG-e) and for gasoline-only mode expressed in conventional miles per gallon. EPA also estimated an overall combined city/highway gas-electricity fuel economy rating expressed in miles per gallon gasoline equivalent (MPG-e). The label also includes a table showing fuel economy and electricity consumed for five different scenarios: 30 miles (48km), 45 miles (72km), 60 miles (97km) and 75 miles (121km) driven between a full charge, and a never charge scenario. This information was included in order to make the consumers aware of the variability of the fuel economy outcome depending on miles driven between charges. Also the fuel economy for a gasoline-only scenario (never charge) was included. For electric-only mode the energy consumption estimated in kWh per 100 miles (160km) is also shown.[62][63]
+2010 Monroney label showing the EPA's combined city/highway fuel economy equivalent for an all-electric car
+For the fuel economy label of the Nissan Leaf electric car EPA rated the combined fuel economy in terms of miles per gallon gasoline equivalent, with a separate rating for city and highway driving. This fuel economy equivalence is based on the energy consumption estimated in kWh per 100 miles, and also shown in the Monroney label.[64]
+In May 2011, the National Highway Traffic Safety Administration (NHTSA) and EPA issued a joint final rule establishing new requirements for a fuel economy and environment label that is mandatory for all new passenger cars and trucks starting with model year 2013, and voluntary for 2012 models. The ruling includes new labels for alternative fuel and alternative propulsion vehicles available in the US market, such as plug-in hybrids, electric vehicles, flexible-fuel vehicles, hydrogen fuel cell vehicle, and natural gas vehicles.[65][66] The common fuel economy metric adopted to allow the comparison of alternative fuel and advanced technology vehicles with conventional internal combustion engine vehicles is miles per gallon of gasoline equivalent (MPGe). A gallon of gasoline equivalent means the number of kilowatt-hours of electricity, cubic feet of compressed natural gas (CNG), or kilograms of hydrogen that is equal to the energy in a gallon of gasoline.[65]
+The new labels also include for the first time an estimate of how much fuel or electricity it takes to drive 100 miles (160km), providing US consumers with fuel consumption per distance traveled, the metric commonly used in many other countries. EPA explained that the objective is to avoid the traditional miles per gallon metric that can be potentially misleading when consumers compare fuel economy improvements, and known as the "MPG illusion"[67]  this illusion arises because the reciprocal (i.e. non-linear) relationship between cost (equivalently, volume of fuel consumed) per unit distance driven and MPG value means that differences in MPG values are not directly meaningful  only ratios are (in mathematical terms, the reciprocal function does not commute with addition and subtraction; in general, a difference in reciprocal values is not equal to the reciprocal of their difference). It has been claimed that many consumers are unaware of this, and therefore compare MPG values by subtracting them, which can give a misleading picture of relative differences in fuel economy between different pairs of vehicles  for instance, an increase from 10 to 20 MPG corresponds to a 100% improvement in fuel economy, whereas an increase from 50 to 60 MPG is only a 20% improvement, although in both cases the difference is 10 MPG.[68] The EPA explained that the new gallons-per-100-miles metric provides a more accurate measure of fuel efficiency[65][69]  notably, it is equivalent to the normal metric measurement of fuel economy, liters per 100 kilometers (L/100km).
+CAFE standards[edit]
+Curve of average car mileage for model years between 1978-2014
+Main article: Corporate Average Fuel Economy
+The Corporate Average Fuel Economy (CAFE) regulations in the United States, first enacted by Congress in 1975,[70] are federal regulations intended to improve the average fuel economy of cars and light trucks (trucks, vans and sport utility vehicles) sold in the US in the wake of the 1973 Arab Oil Embargo. Historically, it is the sales-weighted average fuel economy of a manufacturer's fleet of current model year passenger cars or light trucks, manufactured for sale in the United States. Under Truck CAFE standards 20082011 this changes to a "footprint" model where larger trucks are allowed to consume more fuel. The standards were limited to vehicles under a certain weight, but those weight classes were expanded in 2011.
+State regulations[edit]
+The states are pre-empted by federal law, and are not allowed to make fuel efficiency standards. However, California has a special dispensation from the Clean Air Act to make emissions standards (which other states may adopt instead of the federal standards). The California Air Resources Board is implementing some legislation that limits greenhouse gas emissions. A legal dispute has emerged over whether this is effectually a fuel efficiency standard.
+Unit conversions[edit]
+US Gallons
+1MPG  0.425km/L
+235.2/MPG  L/100km
+1MPG  1.201MPG (Imp)
+Imperial gallons
+1MPG  0.354km/L
+282/MPG  L/100km
+1MPG  0.833MPG (US)
+Conversion from MPG[edit]
+MPG (Imp.)
+MPG (US)
+km/L
+L/100km
+5
+4.2
+1.8
+56.5
+10
+8.3
+3.5
+28.2
+15
+12.5
+5.3
+18.8
+20
+16.7
+7.1
+14.1
+25
+20.8
+8.9
+11.3
+30
+25.0
+10.6
+9.4
+35
+29.1
+12.4
+8.1
+40
+33.3
+14.2
+7.1
+45
+37.5
+15.9
+6.3
+50
+41.6
+17.7
+5.6
+55
+45.8
+19.5
+5.1
+60
+50.0
+21.2
+4.7
+65
+54.1
+23.0
+4.3
+70
+58.3
+24.8
+4.0
+75
+62.5
+26.6
+3.8
+80
+66.6
+28.3
+3.5
+85
+70.8
+30.1
+3.3
+90
+74.9
+31.9
+3.1
+95
+79.1
+33.6
+3.0
+100
+83.3
+35.4
+2.8
+MPG (US)
+MPG (Imp.)
+km/L
+L/100km
+5
+6.0
+2.1
+47.0
+10
+12.0
+4.3
+23.5
+15
+18.0
+6.4
+15.7
+20
+24.0
+8.5
+11.8
+25
+30.0
+10.6
+9.4
+30
+36.0
+12.8
+7.8
+35
+42.0
+14.9
+6.7
+40
+48.0
+17.0
+5.9
+45
+54.0
+19.1
+5.2
+50
+60.0
+21.3
+4.7
+55
+66.1
+23.4
+4.3
+60
+72.1
+25.5
+3.9
+65
+78.1
+27.6
+3.6
+70
+84.1
+29.8
+3.4
+75
+90.1
+31.9
+3.1
+80
+96.1
+34.0
+2.9
+85
+102.1
+36.1
+2.8
+90
+108.1
+38.3
+2.6
+95
+114.1
+40.4
+2.5
+100
+120.1
+42.5
+2.4
+Conversion from km/L and L/100km[edit]
+L/100km
+km/L
+MPG (US)
+MPG (Imp.)
+1
+100.0
+235.2
+282.5
+2
+50.0
+117.6
+141.2
+3
+33.3
+78.4
+94.2
+4
+25.0
+58.8
+70.6
+5
+20.0
+47.0
+56.5
+6
+16.7
+39.2
+47.1
+7
+14.3
+33.6
+40.4
+8
+12.5
+29.4
+35.3
+9
+11.1
+26.1
+31.4
+10
+10.0
+23.5
+28.2
+15
+6.7
+15.7
+18.8
+20
+5.0
+11.8
+14.1
+25
+4.0
+9.4
+11.3
+30
+3.3
+7.8
+9.4
+35
+2.9
+6.7
+8.1
+40
+2.5
+5.9
+7.1
+45
+2.2
+5.2
+6.3
+50
+2.0
+4.7
+5.6
+55
+1.8
+4.3
+5.1
+60
+1.7
+3.9
+4.7
+km/L
+L/100km
+MPG (US)
+MPG (Imp.)
+5
+20.0
+11.8
+14.1
+10
+10.0
+23.5
+28.2
+15
+6.7
+35.3
+42.4
+20
+5.0
+47.0
+56.5
+25
+4.0
+58.8
+70.6
+30
+3.3
+70.6
+84.7
+35
+2.9
+82.3
+98.9
+40
+2.5
+94.1
+113.0
+45
+2.2
+105.8
+127.1
+50
+2.0
+117.6
+141.2
+55
+1.8
+129.4
+155.4
+60
+1.7
+141.1
+169.5
+65
+1.5
+152.9
+183.6
+70
+1.4
+164.7
+197.7
+75
+1.3
+176.4
+211.9
+80
+1.3
+188.2
+226.0
+85
+1.2
+199.9
+240.1
+90
+1.1
+211.7
+254.2
+95
+1.1
+223.5
+268.4
+100
+1.0
+235.2
+282.5
+See also[edit]
+Automobile costs
+ACEA agreement
+Battery electric vehicle
+Car tuning
+Emission standard
+Energy conservation
+FF layout
+Fuel efficiency in transportation
+Fuel saving devices
+Gasoline gallon equivalent
+Motorised quadricycle (vehicles with low power engines/low top speed)
+Miles per gallon gasoline equivalent
+Passenger miles per gallon
+The Very Light Car
+Vehicle Efficiency Initiative
+Vehicle metrics
+List of 2008 New Zealand fuel economy ratings
+List of May 2008 UK fuel economy ratings
+Gas-guzzler
+Green vehicle
+Low-carbon economy
+Low-rolling resistance tires
+Microcar
+Plug-in hybrid
+List of 2009 United States EPA fuel economy ratings
+Annotations[edit]
+^ The 2.2% drop figure was calculated by finding daily consumption to be 9,299,684 barrels of petroleum. Obtain 1973's petroleum consumption from transportation sector at 2.1e from the Energy Consumption by Sector section, then convert to barrels using A1 in the Thermal Conversion Factors section (assume "conventional motor gasoline" since ethanol-based or purportedly smog-reducing gas was not common in 1973).[15]
+References[edit]
+^ Page, Walter Hines; Page, Arthur Wilson (1916). "Man and His Machines". The World's Work. Garden City, New York: Doubleday, Page & Co. XXXIII.
+^ "Fuel Consumption Ratings". Government of Canada. January 2011. Retrieved 8 June 2011.
+^ [1]
+^ "The Passenger Car (Fuel Consumption and CO2 Emissions Information) Regulations 2001". 2001. Retrieved 2014-11-11.
+^ The New Fuel Economy Label at FuelEconomy.gov
+^ a b "Improving IC Engine Efficiency". Courses.washington.edu. Retrieved 2010-08-28.
+^ Paul R. Portney; Ian W.H. Parry; Howard K. Gruenspecht; Winston Harrington (November 2003). "The Economics of Fuel Economy Standards" (PDF). Resources For The Future. Archived (PDF) from the original on 1 December 2007. Retrieved 4 January 2008.
+^ G. Tyler Miller, Jr.; Scott E. Spoolman (2011). Living in the Environment. Cengage Learning. p.396. ISBN9780538494144.
+^ "2008 Fuel Economy Guide" (PDF). US EPA. Retrieved 17 April 2013.
+^ Reducing CO2 emissions from passenger cars  Policies  Climate Action  European Commission. Ec.europa.eu (2010-12-09). Retrieved 21 September 2011.
+^ Myth: Cars are becoming more fuel efficient. Ptua.org.au. Retrieved 21 September 2011.
+^ a b c Comparison of Passenger Vehicle Fuel Economy and GHG Emission Standards Around the World at Pew Center on Global Climate Change. (PDF) . Retrieved 21 September 2011.
+^ a b c Steady Speed Fuel Economy "The two earlier studies by the Federal Highway Administration (FHWA) indicate maximum fuel efficiency was achieved at speeds of 35 to 40 mph (55 to 65 km/h). The recent FHWA study indicates greater fuel efficiency at higher speeds."
+^ Cowan, Edward (27 November 1973). "Politics and Energy: Nixon's Silence on Rationing Reflects Hope That Austerity Can Be Avoided". The New York Times. p.30. Retrieved 22 July 2008. (subscription required)
+^ Staff (28 June 2008). Annual Energy Review (PDF) (2007 ed.). Washington, DC: Energy Information Administration.
+^ "55 Mile-per-hour Speed Limit Approved by House". United Press International. 4 December 1973. p.30. Retrieved 22 July 2008. (subscription required)
+^ "Special Report 254: Managing Speed" (PDF). Transportation Research Board: 189. Retrieved 17 September 2014. Bloomquist (1984) estimated that the 1974 National Maximum Speed Limit (NMSL) reduced fuel consumption by 0.2 to 1.0 percent.
+^ "Highway Statistics 1973 (Table VM-2: VEHICLE MILES, BY STATE AND HIGHWAY SYSTEM-1973)" (PDF). Federal Highway Administration: 76. Retrieved 17 September 2014.
+^ a b Lexus IS250 2.5L 6cyl, Auto 6 speed Sedan, 5 seats, 2WD
+^ a b IS 250 Kraftstoffverbrauch kombiniert 8,9 L/100 km (innerorts 12,5 L/ auerorts 6,9 L) bei CO2-Emissionen von 209 g/km nach dem vorgeschriebenen EU-Messverfahren http://www.lexus.de/range/is/index.aspx
+^ a b 2009 Lexus IS 250 6 cyl, 2.5 L, Automatic (S6), Premium http://www.fueleconomy.gov/feg/findacar.htm
+^ http://www.lexus.ca/lexus/en/automobiles/is#intro_text
+^ TRANSPORTATION RESEARCH BOARD SPECIAL REPORT 286 TIRES AND PASSENGER VEHICLE FUEL ECONOMY, Transportation Research Board, National Academy of Sciences p.62-65 of pdf, p.39-42 of report. Retrieved 22 October 2014.
+^ Wheels, online road load and MPG calculator. Virtual-car.org (2009-08-03). Retrieved 21 September 2011.
+^ An Overview of Current Automatic, Manual and Continuously Variable Transmission Efficiencies and Their Projected Future Improvements. SAE.org (1999-03-01). Retrieved 21 September 2011.
+^ a b Automotive Electrical Systems Circa 2005. Spectrum.ieee.org. Retrieved 21 September 2011.
+^ Low-rolling resistance tires
+^ Chandler, David (9 February 2009). "More power from bumps in the road". Retrieved 8 October 2009.
+^ "Capture energy from hot gases". carsmind. Retrieved 3 August 2016.
+^ Gas Saving and Emission Reduction Devices Evaluation | Cars and Light Trucks | US EPA. Epa.gov. Retrieved 21 September 2011.
+^ Environmental Nanoparticles  Exploring the links between Vehicle Emissions and Ambient Air. (PDF). A meeting of the Automation and Analytical Management Group of the Royal Society of Chemistry. 8 June 2005. Retrieved 21 September 2011.
+^ EPA. Fueleconomy.gov. Retrieved 21 September 2011.
+^ Vehicle Selection  Make. Fueleconomy.gov. Retrieved 21 September 2011.
+^ http://onfuel.appspot.com keep track of fuel efficiency
+^ "Anglian Water spot on with pressure test". Tyrepress. Retrieved 2015-10-30.
+^ Chinese Fuel Economy Laws. Treehugger.com. Retrieved 21 September 2011.
+^ Vehicles & the Environment. Infrastructure.gov.au. Retrieved 21 September 2011.
+^ Information on Green Vehicle Guide Ratings and Measurement. Australian Department of Infrastructure and Transport
+^ Green Vehicle Guide. Green Vehicle Guide. Retrieved 21 September 2011.
+^ a b https://www.nrcan.gc.ca/energy/efficiency/transportation/cars-light-trucks/buying/7495
+^ Vehicle test cycles. Herkules.oulu.fi. Retrieved 21 September 2011.
+^ "Honda-Frhstck am 15. Januar 2011".
+^ "2011 Honda CR-Z Specs and Features".
+^ Guidance notes and examples. (PDF) . Retrieved 21 September 2011.
+^ Fuel Economy Label. Dft.gov.uk. Retrieved 21 September 2011.
+^ Vehicle Labelling. Environ.ie (2008-07-01). Retrieved 21 September 2011.
+^ "Why the EC figures do not represent true MPG". Honest John. Retrieved 14 November 2015.
+^ "Real Life Fuel Economy (MPG) Register". Honest John. Retrieved 14 November 2015.
+^ http://www.carsandgarages.co.uk/news/29-ASA-says-fuel-consumption-figures-are-mis
+^ Mike Millikin (2014-09-28). "ICCT: gap between official and real-world fuel economy figures in Europe reaches ~38%; call to implement WLTP ASAP". Green Car Congress. Retrieved 2014-09-28.
+^ a b Japan Automobile Manufacturers Association (JAMA) (2009). "From 1015 to JC08: Japan's new economy formula". News from JAMA. Retrieved 9 April 2012. Issue No. 2, 2009.
+^ a b "Japanese 1015 Mode". Diesel.net. Retrieved 9 April 2012.
+^ "Prius Certified to Japanese 2015 Fuel Economy Standards with JC08 Test Cycle". Green Car Congress. 11 August 2007. Retrieved 9 April 2012.
+^ Vehicle Fuel Economy Labelling  FAQs Archived 10 July 2008 at the Wayback Machine.
+^ Frequently Asked Questions. Fueleconomy.gov. Retrieved 21 September 2011.
+^ Steven Cole Smith (28 April 2005). "2005 Pontiac GTO". Orlando Sentinel via Cars.com.
+^ a b "Dynamometer Driver's Aid". US EPA. Retrieved 11 January 2011.
+^ How the EPA Tests and Rates Fuel Economy. Auto.howstuffworks.com (2005-09-07). Retrieved 21 September 2011.
+^ Find a Car 1985 to 2009. Fueleconomy.gov. Retrieved 21 September 2011.
+^ "2008 Ratings Changes". US EPA. Retrieved 17 April 2013.
+^ Roth, Dan. (2009-10-01) REPORT: EPA planning to address outlandish fuel economy claims of electric cars. Autoblog.com. Retrieved 21 September 2011.
+^ "Volt receives EPA ratings and label: 93 mpg-e all-electric, 37 mpg gas-only, 60 mpg-e combined". Green Car Congress. 24 November 2010. Retrieved 24 November 2010.
+^ US Environmental Protection Agency and US Department of Energy (4 May 2011). "2011 Chevrolet Volt". Fueleconomy.gov. Retrieved 21 May 2011.
+^ Nick Bunkley (22 November 2010). "Nissan Says Its Electric Leaf Gets Equivalent of 99 M.P.G.". The New York Times. Retrieved 23 November 2010.
+^ a b c EPA (May 2011). "Fact Sheet: New Fuel Economy and Environment Labels for a New Generation of Vehicles". US Environmental Protection Agency. Retrieved 25 May 2011. EPA-420-F-11-017
+^ "EPA, DOT unveil the next generation of fuel economy labels". Green Car Congress. 25 May 2011. Retrieved 25 May 2011.
+^ "Not All Fuel Efficiency Is Equal: Understanding the Miles-Per-Gallon Illusion". 2014-01-14. Retrieved 2014-11-11.
+^ "The MPG Illusion". 2013-06-03. Retrieved 2014-11-11.
+^ John M. Broder (25 May 2011). "New Mileage Stickers Include Greenhouse Gas Data". The New York Times. Retrieved 26 May 2011.
+^ "CAFE Overview: "What is the origin of CAFE?"". NHTSA. Retrieved 9 July 2008.
+External links[edit]
+Australian Fuel Consumption Label
+Searchable fuel economy data from the EPA - United States Environmental Protection Agency
+Model Year 2014 Fuel Economy Guide , U.S. Environmental Protection Agency and U.S. Department of Energy, April 2014.
+Fuel Consumption calculator
+NewPP limit report
+Parsed by mw1271
+Cached time: 20161119074010
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.548 seconds
+Real time usage: 0.865 seconds
+Preprocessor visited node count: 3095/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 71748/2097152 bytes
+Template argument size: 1448/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 7/500
+Lua time usage: 0.233/10.000 seconds
+Lua memory usage: 6.86 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+480.801
+1 - -total
+39.70%
+190.890
+2 - Template:Reflist
+24.42%
+117.389
+54 - Template:Convert
+14.08%
+67.677
+24 - Template:Cite_web
+8.46%
+40.656
+4 - Template:Cite_journal
+7.48%
+35.940
+1 - Template:Original_research
+7.32%
+35.178
+2 - Template:Ambox
+6.16%
+29.639
+1 - Template:Who
+5.66%
+27.222
+1 - Template:Fix
+3.51%
+16.860
+1 - Template:Delink
+Saved in parser cache with key enwiki:pcache:idhash:4313931-0!*!0!!en!4!*!math=5 and timestamp 20161119074009 and revision id 749575471
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Fuel_economy_in_automobiles&oldid=749575471"
+Categories: Energy economicsGreen vehiclesAutomobile costsHidden categories: Pages containing links to subscription-only contentWebarchive template wayback linksArticles that may contain original research from April 2013All articles that may contain original researchArticles to be expanded from June 2007All articles to be expandedArticles using small message boxesAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from November 2015Use dmy dates from November 2012

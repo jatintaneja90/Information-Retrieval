@@ -1,0 +1,96 @@
+Nanosolar
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Nanosolar, Inc.
+Former type
+Private
+Industry
+Solar Energy
+Founded
+2002
+Founder
+Martin Roscheisen
+Brian Sager
+Defunct
+2013
+Headquarters
+San Jose, California, U.S.
+Key people
+Eugenia Corrales (CEO)
+Dave Jackrel
+John McAdoo
+Becky Baybrook
+John Bender
+Products
+Solar panels
+Revenue
+US$3,100,000 (2007)[1]
+Nanosolar was a developer of solar power technology. Based in San Jose, CA, Nanosolar developed and briefly commercialized a low-cost printable solar cell manufacturing process. The company started selling thin-film CIGS panels mid-December 2007, and planned to sell them at 99 cents per watt, much below the market at the time. However, prices for solar panels made of crystalline silicon declined significantly during the following years, reducing most of Nanosolar's cost advantage.[2][3][4] By February 2013 Nanosolar had laid off 75% of its work force.[5] Nanosolar began auctioning off its equipment in August 2013.[6] Co-Founder of Nanosolar Martin Roscheisen stated on his personal blog that nanosolar "ultimately failed commercially." and that he would not enter this industry again because of slow-development cycle, complex production problems and the impact of cheap Chinese solar power production.[7] Nanosolar ultimately produced less than 50 MW of solar power capacity despite having raised more than $400 million in investment.[8]
+Contents
+1 Financial backers and manufacturing
+2 Management
+3 Technology
+4 See also
+5 References
+Financial backers and manufacturing[edit]
+Nanosolar was started in 2002 and is headquartered in San Jose, California. The company has received financing from a number of technology investors including Benchmark Capital, Mohr Davidow Ventures, and Larry Page and Sergey Brin, the founders of Google. Nanosolar received the largest amount in a round of Venture Capital technology funding amongst United States companies during Q2 2006, with 100 million USD of new funding secured.[9] It also received the largest amount of financing of any private company in 2008 (USD 300 million in Q1).
+Nanosolar planned to build a large production facility in San Jose, and in Germany at Luckenwalde (Berlin),[10] with an annual capacity of 430 megawatts. Several German energy and venture capital companies have heavily invested in this company as a consequence of the favourable economics for solar energy in Germany due to government subsidies.[11]
+On December 12, 2007 the company announced[12] that it had started solar cell production in its San Jose factory, with its German facility slated to go into operation in the 1st quarter of 2008. The company said in 2006 that the San Jose factory, when fully built, would have the capacity to produce 430 megawatts of cells each year.[13]
+On December 18, 2007 the company began shipping its first solar panels for a one-megawatt municipal power plant in Germany.[14]
+As of 2008 Nanosolar had raised about 500 million USD in total funding by private investors Benchmark Capital, Mitsui Ventures, Mohr Davidow Ventures, OnPoint, Capricorn Management, Firelake Capital Management, GLG Partners, Grazia Equity, Swiss Re, Beck Energy, Omidyar Network, Lone Pine Capital, Energy Capital Partners, Riverstone Holdings, EDF Ventures, The Skoll Foundation, EDS (HP) and The Carlyle Group.[15]
+On February 17, 2012 Nanosolar announced they had achieved 115MW capacity, $20 Million in additional funding to further expand manufacturing capacity and a NREL Thin-Film Solar Aperture Efficiency of 17.1%.[16] This capacity is just over one quarter of the 430 megawatts predicted five years previously.
+Management[edit]
+On Jan. 19 2012 former EVP of Engineering & Operations Eugenia Corrales was named CEO following CEO Geoff Tate returning to retirement. Tate had been CEO of Nanosolar since March 22, 2010 having been hired out of retirement as an interim CEO for his experience in leading a company into volume production as CEO of Rambus.[17] Tate replaced co-founder Martin Roscheisen who had been the company's Chairman & CEO for the past eight years; no reason was given for Roscheisen's exit.[18]
+On June 25, 2012, nano solar hired 3 new sales & marketing executives: Stephan Hansen, executive vice president of Worldwide Sales; Roy Shaw, head of North America Sales and Stefan Zschiegner, vice president of Worldwide Marketing. Prior to joining Nanosolar, Hansen led the European sales organization of First Solar for more than seven years. Shaw brings over 25 years of sales management experience in the solar industry. He most recently was director of USA Sales at Jinko Solar, a global PV manufacturer, producing crystalline ingots, wafers, cells, and mono- and multi- crystalline PV panels. Prior to Jinko Solar, he was head of Western Sales at Suntech Solar Corp., a global producer of silicon solar modules. Zschiegner most recently was vice president of Global Product Management and Applications at First Solar, where he focused on solutions for emerging markets, balance-of-system and module product management.
+On Sep. 11, 2012, Nanosolar appointed Karl Steigele to the position of President & COO. Eugenia Corrales left the company to pursue other ventures. Before joining Nanosolar, Steigele spent more than 30 years in international management and consulting at IBM, where he worked with Fortune 500 global manufacturing companies, including Intel, Hitachi, ABB, Thomson, Siemens, Sony and McKesson, among others.
+Technology[edit]
+The company used thin film technology to manufacture CIGS solar cells, that use a semiconductor material made of copper, indium, gallium and selenium, and achieved an efficiency of up to 19.9% in laboratory samples at the time.[19]
+The company's technology gained early industry recognition with the presentation of a Small Times Magazine award at a leading nanotech business event in 2005.[20] Technical details of Nanosolar's manufacturing techniques have been disclosed in patent applications.[21] Some information about their process has become available in a Scientific American article (in German).[22] These details involve a semiconductor ink that it claims will enable it to produce solar cells with a basic printing process, rather than using slow and expensive high-vacuum based thin-film deposition processes. The ink is deposited on a flexible substrate (the paper), and then nanocomponents in the ink align themselves properly via molecular self-assembly.
+Nanosolar's solar cells have been verified by NREL to be as efficient as 14.6% in 2006,[22] 15.3% in 2009,[23] and 17.1% in 2011.[24] Efficiencies for current production panels are said to be 8-9%, with plans to submit panels with 10-11% efficiency for IEC certification in the fall of 2010.[25]
+In September 2009, Nanosolar announced the launch of production at a rate of 640 MW annually;[26] however, ramp-up to volume production after the announcement took an additional six months,[25] limiting actual production in 2009 to an estimated 4 MW,[27] and as of August 2010 the plant was still ramping up toward its announced capacity.[28] Since the hiring of new CEO Geoff Tate, the company has declined to discuss its actual manufacturing capacity,[25][27] but has said that its target for 2010 is to ship panels for "several ... megawatt-size projects" and "[build] panels for projects that have been identified that can help build the case for an operating history and bankability in 2011."[25]
+Nanosolar has developed a suite of in-house capabilities for creating nanostructured components based on various patented and patent-pending techniques. It uses nanostructured components as the basis for creating printable semiconductors, printable transparent electrodes, novel forms of advanced nanocomposite solar-cell design and powerful new forms of barrier films.[29]
+According to the company, "leveraging recent science advances in nanostructured materials, Nanosolar has developed a proprietary ink that makes it possible to simply print the semiconductor of a high-performance solar cell. This ink is based on Nanosolar developing various proprietary forms of nanoparticles and associated organic dispersion chemistry and processing techniques suitable for delivering a semiconductor of high electronic quality."[30][31]
+Two advantages over earlier technologies is that a printing process is quick and also makes it easy to deposit a uniform layer of the ink, resulting in a layer with the correct ratio of elements everywhere on the substrate. Also, the ink is printed only where needed, so there is less waste of material. Last, the substrate material on which the ink is printed is much more conductive and less expensive than the stainless steel substrates that are often used in thin-film solar panels.
+These solar cells successfully blend the needs for efficiency, low cost, and longevity and will be easy to install due to their flexibility and light weight. Estimates by Nanosolar of the cost of these cells fall roughly between 1/10 and 1/5[32] the industry standard per kilowatt. However, solar module prices have fallen by 60% since that prediction in 2006.[33]
+The company implies that their solar cells can last more than 25 years by saying they "achieve a durability compatible with our 25-year warranty."[34] They recently commissioned a study by Black and Veatch that finds their 25-year warranty to be compatible with their module design.[25]
+See also[edit]
+List of CIGS companies
+References[edit]
+^ Nanosolar, Inc Yahoo Finance
+^ Vidal, John (December 29, 2007). "Solar energy 'revolution' brings green power closer". London: The Guardian. Retrieved 2007-12-31.
+^ Markoff, John (2007-12-18). "Nanosolar". New York Times. Retrieved 2007-12-31.
+^ "Nanosolar". ubergizmo. Retrieved 2007-12-31.
+^ http://www.siliconbeat.com/2013/07/15/the-growing-cigs-graveyard-nanosolar-liquidation-auction/
+^ http://gigaom.com/2013/08/13/get-yer-cheap-next-gen-solar-tech-courtesy-of-the-nanosolar-auction
+^ http://blog.rmartinr.com/
+^ http://www.greentechmedia.com/articles/read/Nanosolar-Thin-Film-Solar-Hype-Firm-Officially-Dead
+^ "Venture Capital Funding". Investor's Business Daily. 2006-07-24.
+^ "Nanosolar Selects Manufacturing Sites". 2006-12-12.
+^ Bright Days for NanoSolar
+^ "Nanosolar announces start of thin-film production". 2007-12-12.
+^ http://www.redherring.com/Home/20207
+^ Nanosolar Ships First Panels from Nanosolar Blog
+^ Crunchbase: Nanosolar Techcrunch Wiki
+^ [1] Nanosolar Blog
+^ [2] from Nanosolar Blog
+^ Semiconductor Veteran Geoff Tate Named CEO of Nanosolar, Inc. from Nanosolar Blog
+^ I. Repins, M. A. Contreras, B. Egaas, C. DeHart, J. Scharf, C. L. Perkins, B. To, and R. Nou., 19.9%-efficient ZnO/CdS/CuInGaSe$_2$ solar cell with 81.2% fill factor. Progress in Photovoltaics: Research and Applications, 16(3):235239, February 2008
+^ "Small Times Magazine announces Best of Small Tech Awards at leading nanotech business event". Small Times Magazine. 2005-02-11.
+^ Nano-architected/assembled solar electricity cell US Patent 6,852,920, Nanosolar Inc, February 8, 2005
+^ a b "Printing Solar Cells (in German)" (PDF). Bild der Wissenschaft (Scientific American). 2007-01-10.
+^ "NREL Certifies 15.3% Nanosolar Foil Efficiency". 2009-09-09.
+^ "Nanosolar Achieves 17.1% Aperture Efficiency Through Printed CIGS Process". 2011-10-05.
+^ a b c d e Tom Cheyney (August 3, 2010). "Exclusive: Nanosolar rising, Part IOne-time thin-film PV lightning rod gets its focus on". PV-Tech.org.
+^ Nanosolar Completes Panel Factory, Commences Serial Production from Nanosolar Blog
+^ a b "Who will deliver on the promise of the leading thin-film recipe for converting sunlight into electricity?". Photon International. July 2010. pp.134143.
+^ Tom Cheyney (August 6, 2010). "Exclusive: Nanosolar rising, Part IIThe 'I' in CIGS also stands for thin-film PV innovation". PV-Tech.org.
+^ Nanocomponents from Nanosolar website
+^ Nanoparticle Ink from Nanosolar website
+^ Coated nanoparticles and quantum dots for solution-based fabrication of photovoltaic cells US Patent 7,306,823, Nanosolar Inc, December 11, 2007
+^ "Manufacturing Plans". San Jose Mercury News. 2006-06-21.
+^ "Retail Price Summary". solarbuzz.com. 2012-03-01.
+^ Designed To Last from Nanosolar website
+Saved in parser cache with key enwiki:pcache:idhash:6239802-0!*!0!!en!4!* and timestamp 20161116184034 and revision id 727983533
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nanosolar&oldid=727983533"
+Categories: Solar energy companies of the United StatesThin-film cell manufacturersTechnology companies based in the San Francisco Bay AreaEnergy companies established in 2002Renewable resource companies established in 2002Companies disestablished in 2013Companies based in San Jose, CaliforniaDefunct companies based in the San Francisco Bay AreaHidden categories: Pages using deprecated image syntax

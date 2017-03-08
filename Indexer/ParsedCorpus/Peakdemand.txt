@@ -1,0 +1,204 @@
+Peakdemand
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Loch Mhor is used to generate hydro-electric energy at peak demand or in an emergency
+Peak demand is used to refer to a historically high point in the sales record of a particular product. In terms of energy use, peak demand describes a period of simultaneous, strong consumer demand or a period of highest demand in a billing period.
+Contents
+1 Peak load
+1.1 Off-peak
+1.2 Response
+1.3 Power stations
+2 See also
+3 References
+Peak load[edit]
+Peak demand, peak load or on-peak are terms used in energy demand management describing a period in which electrical power is expected to be provided for a sustained period at a significantly higher than average supply level. Peak demand fluctuations may occur on daily, monthly, seasonal and yearly cycles. For an electric utility company, the actual point of peak demand is a single half-hour or hourly period which represents the highest point of customer consumption of electricity. At this time there is a combination of office, domestic demand and at some times of the year, the fall of darkness.[1]
+Some utilities will charge customers based on their individual peak demand. The highest demand during each month or even a single 15 to 30 minute period of highest use in the previous year may be used to calculate charges.[2]
+See also: Load profile
+Off-peak[edit]
+Peak demand is considered to be the opposite to off-peak hours when power demand is usually low. There are off-peak time-of-use rates.
+Response[edit]
+Main article: Demand response
+Typical daily consumption of electrical power in Germany
+The maximum demand dictates the size of generators, transmission lines, transformers and circuit breakers for utilities even if that amount lasts just one hour per year.[3] Natural gas fueled power generators must all have adequately sized pipelines. Power generation which is able to be rapidly ramped up for peak demand often uses more expensive fuels, is less efficient and has higher marginal carbon emissions.[3]
+Peak demand may exceed the maximum supply levels that the electrical power industry can generate, resulting in power outages and load shedding. This often occurs during heat waves when use of air conditioners and powered fans raises the rate of energy consumption significantly. During a shortage authorities may request the public to curtail their energy use and shift it to a non-peak period.
+See also: Energy crisis
+Power stations[edit]
+Power stations providing power to electrical grids for peak demand are called peaking power plants or 'peakers'. Natural gas fueled power stations can be fired up rapidly and are therefore often utilized at peak demand times. Pumped storage type dams such as Carters Dam help to meet peak demand as well.
+The chances that a wind farm will be unable to meet peak demand are greater than for a fossil-fueled power station, due to the ability to store liquid fuels for use during peak demand.[4]
+See also[edit]
+Energy portal
+Congestion pricing
+Diversity factor
+Merit order
+Electricity market
+Energy storage
+List of energy storage projects
+Peak oil
+Price elasticity of demand
+V2G
+References[edit]
+^ Landsberg, Dennis R.; Ronald Stewart (1980). Improving Energy Efficiency in Buildings: A Management Guide. SUNY Press. p.456. ISBN1438409990. Retrieved 25 June 2013.
+^ Wang, Lijun (2008). Energy Efficiency and Management in Food Processing Facilities. CRC Press. p.122. ISBN1420063391. Retrieved 25 June 2013.
+^ a b Alt, Lowell (2006). Energy Utility Rate Setting. Lulu.com. p.66. ISBN1411689593. Retrieved 25 June 2013.
+^ Great Britain. Parliament. House of Lords. Select Committee on Economic Affairs (2008). The Economics of Renewable Energy: 4th Report of Session 2007-08, Vol. 1: Report, Volume 1. The Stationery Office. p.36. ISBN010401377X. Retrieved 25 June 2013.
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1265
+Cached time: 20161120101005
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.179 seconds
+Preprocessor visited node count: 819/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 33803/2097152 bytes
+Template argument size: 737/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.051/10.000 seconds
+Lua memory usage: 2.62 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+136.434
+1 - -total
+44.46%
+60.658
+1 - Template:Reflist
+35.57%
+48.524
+4 - Template:Cite_book
+21.74%
+29.656
+2 - Template:Navbox
+20.46%
+27.911
+1 - Template:Electricity_generation
+19.68%
+26.847
+2 - Template:See_also
+9.82%
+13.404
+1 - Template:Navbox_subgroup
+5.91%
+8.063
+1 - Template:Portal
+3.33%
+4.544
+1 - Template:Colbegin
+2.65%
+3.618
+1 - Template:Main_article
+Saved in parser cache with key enwiki:pcache:idhash:11738757-0!*!0!!en!4!* and timestamp 20161120101005 and revision id 747531682
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Peak_demand&oldid=747531682"
+Categories: Electric power distributionEnergy developmentPower station technology

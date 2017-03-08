@@ -1,0 +1,95 @@
+SeaGen
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+SeaGen
+Commercial tidal stream generator  SeaGen  in Strangford Lough. The strong wake shows the power in the tidal current.
+Location of SeaGen in Northern Ireland
+Country
+Northern Ireland, United Kingdom
+Location
+Strangford Narrows between Strangford and Portaferry
+Coordinates
+54227.2N 53245.8W / 54.368667N 5.546056W / 54.368667; -5.546056Coordinates: 54227.2N 53245.8W / 54.368667N 5.546056W / 54.368667; -5.546056
+Status
+Operational
+Commissiondate
+April 2008
+Powergeneration
+Nameplatecapacity
+1.2MW
+SeaGen is the world's first large scale commercial tidal stream generator.[1][2][3] It was four times more powerful than any other tidal stream generator in the world at the time of installation.[4]
+The first SeaGen generator was installed in Strangford Narrows between Strangford and Portaferry in Northern Ireland, UK in April 2008 and was connected to the grid in July 2008.[5] It generates 1.2MW for between 18 and 20hours a day while the tides are forced in and out of Strangford Lough through the Narrows.[6] Strangford Lough was also the site of the very first known tide mill in the world, the Nendrum Monastery mill where remains dating from 787 have been excavated.
+Contents
+1 Background
+2 Technology
+3 Environmental impact
+4 Problems
+5 References
+6 External links
+Background[edit]
+The SeaGen rotors can be raised above the surface for maintenance.
+SeaGen's predecessor, the 300kW 'SeaFlow' turbine off the north coast of Devon
+Marine Current Turbines, the developer of SeaGen, demonstrated first prototype of tidal stream generator in 1994 with a 15kilowatt system in Loch Linnhe, off the west coast of Scotland. In May 2003, the prototype for SeaGen, 'SeaFlow', was installed off the coast of Lynmouth, North Devon, England.[6] Seaflow was a single rotor turbine which generated 300kW but was not connected to the grid. SeaFlow was the world's first offshore tidal generator, and remained the world's largest until SeaGen was installed.[7]
+Technology[edit]
+SeaGen generator weighs 300tonnes.[3][8] each driving a generator through a gearbox like a hydro-electric or wind turbine. These turbines have a patented feature by which the rotor blades can be pitched through 180degrees allowing them to operate in both flow directions  on ebb and flood tides. The company claims a capacity factor of 0.59 (average of the last 2000 hours). The power units of each system are mounted on arm-like extensions either side of a tubular steel monopile some 3 metres (9.8ft) in diameter and the arms with the power units can be raised above the surface for safe and easy maintenance access.[1] The SeaGen was built at Belfast's Harland and Wolff's shipyards.[9]
+Environmental impact[edit]
+400million gallons of water flow in and out of Strangford Lough twice a day.
+SeaGen has been licensed to operate over a period of 5years, during which there will be a comprehensive environmental monitoring programme to determine the precise impact on the marine environment.[10]
+Problems[edit]
+During the commissioning of the system a software error caused the blades of one of the turbines to be damaged. This left the turbine operating at half power until autumn 2008. The incident is being investigated and MCT is confident that it will not happen again.[11] Full power operation was finally achieved on 18 Dec 2008.[12]
+References[edit]
+^ a b Douglas, C.A.; Harrison, G.P.; Chick, J.P. (2008). "Life cycle assessment of the Seagen marine current turbine" (PDF). Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment. Professional Engineering Publishing. 222 (1): 112. doi:10.1243/14750902JEME94. Retrieved 2008-07-10.
+^ "The rise of British sea power". The Independent. 2008-03-23. Retrieved 2008-07-30.
+^ a b Julian Rush (2008-03-31). "Power generation: the new wave". Channel 4. Retrieved 2008-07-30.
+^ Arthur Strain (2008-02-08). "Sea change for energy generation". BBC. Retrieved 2008-07-10.
+^ First connection to the grid
+^ a b Brittany Sauser (2008-07-29). "Tidal Power Comes to Market. A large-scale tidal-power unit has started up in Northern Ireland". Technology Review Inc., Massachusetts Institute of Technology. Retrieved 2008-07-30.
+^ "Case Studies for Schools: Tidal Power". Department for Business, Enterprise and Regulatory Reform. Retrieved 2008-07-10.
+^ "World's first as 12m turbine installed in Strangford Lough". Belfast Telegraph. 2008-03-31. Retrieved 2008-07-30.
+^ Henry McDonald (2008-03-31). "Tidal power comes to Northern Ireland". Guardian. Retrieved 2008-07-30.
+^ David G Erwin. "Environmental monitoring, liaison and consultation concerning the MCT Strangford Lough Turbine" (PDF). Retrieved 2008-07-10.
+^ "Delay in commissioning one of SeaGen's rotors". Marine Current Turbines. 2008-07-22. Retrieved 2008-07-30.
+^ "Tidal energy system on full power". BBC. 2008-12-18. Retrieved 2009-06-25.
+External links[edit]
+Sea Generation Ltd
+Marine Current Turbines Ltd.
+v
+t
+e
+Electricity generation in Ireland
+Companies / organisations
+Airtricity
+Dublin Bay Power
+EirGrid
+Ervia
+ESB Group
+Huntstown Power
+Imera Power
+Northern Ireland Electricity
+Premier Power (NI)
+Spirit of Ireland
+SSE Renewables
+Viridian Group (NI)
+Electricity generating stations
+Aghada
+Ardnacrusha
+Ballylumford (NI)
+Carnsore Point
+Coolkeeragh (NI)
+Inniscarra
+Kilroot (NI)
+Kinsale Road
+Leixlip
+Lough Ree
+Moneypoint
+Poulaphouca
+Ringsend (Poolbeg)
+SeaGen (NI)
+Shannonbridge
+Tarbert
+Turlough Hill
+(NI) indicates Northern Ireland
+Saved in parser cache with key enwiki:pcache:idhash:18362930-0!*!0!!en!4!* and timestamp 20161026181611 and revision id 709996158
+Retrieved from "https://en.wikipedia.org/w/index.php?title=SeaGen&oldid=709996158"
+Categories: Tidal stream generatorsTidal power stations in Northern IrelandHidden categories: Coordinates on Wikidata

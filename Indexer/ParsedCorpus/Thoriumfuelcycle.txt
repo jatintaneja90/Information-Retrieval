@@ -1,0 +1,497 @@
+Thoriumfuelcycle
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+A sample of thorium
+The thorium fuel cycle is a nuclear fuel cycle that uses the isotope of thorium, 232Th, as the fertile material. In the reactor, 232Th is transmuted into the fissile artificial uranium isotope 233U which is the nuclear fuel. Unlike natural uranium, natural thorium contains only trace amounts of fissile material (such as 231Th), which are insufficient to initiate a nuclear chain reaction. Additional fissile material or another neutron source are necessary to initiate the fuel cycle. In a thorium-fuelled reactor, 232Th absorbs neutrons eventually to produce 233U. This parallels the process in uranium breeder reactors whereby fertile 238U absorbs neutrons to form fissile 239Pu. Depending on the design of the reactor and fuel cycle, the generated 233U either fissions in situ or is chemically separated from the used nuclear fuel and formed into new nuclear fuel.
+The thorium fuel cycle has several potential advantages over a uranium fuel cycle, including thorium's greater abundance, superior physical and nuclear properties, better resistance to nuclear weapons proliferation[1][2][3] and reduced plutonium and actinide production.[3]
+Contents
+1 History
+2 Nuclear reactions with thorium
+2.1 Fission product wastes
+2.2 Actinide wastes
+2.3 Uranium-232 contamination
+3 Nuclear fuel
+3.1 Advantages
+3.2 Disadvantages
+4 Reactors
+4.1 List of thorium-fuelled reactors
+5 See also
+6 References
+7 Further reading
+8 External links
+History[edit]
+Concerns about the limits of worldwide uranium resources motivated initial interest in the thorium fuel cycle.[4] It was envisioned that as uranium reserves were depleted, thorium would supplement uranium as a fertile material. However, for most countries uranium was relatively abundant and research in thorium fuel cycles waned. A notable exception was India's three-stage nuclear power programme.[5] In the twenty-first century thorium's potential for improving proliferation resistance and waste characteristics led to renewed interest in the thorium fuel cycle.[6][7][8]
+At Oak Ridge National Laboratory in the 1960s, the Molten-Salt Reactor Experiment used 233U as the fissile fuel as an experiment to demonstrate a part of the Molten Salt Breeder Reactor that was designed to operate on the thorium fuel cycle. Molten salt reactor (MSR) experiments assessed thorium's feasibility, using thorium(IV) fluoride dissolved in a molten salt fluid that eliminated the need to fabricate fuel elements. The MSR program was defunded in 1976 after its patron Alvin Weinberg was fired.[9]
+In 2006, Carlo Rubbia proposed the concept of an energy amplifier or "accelerator driven system" (ADS), which he saw as a novel and safe way to produce nuclear energy that exploited existing accelerator technologies. Rubbia's proposal offered the potential to incinerate high-activity nuclear waste and produce energy from natural thorium and depleted uranium.[10][11]
+Kirk Sorensen, former NASA scientist and Chief Nuclear Technologist at Teledyne Brown Engineering, has been a long-time promoter of thorium fuel cycle and particularly liquid fluoride thorium reactors (LFTRs). He first researched thorium reactors while working at NASA, while evaluating power plant designs suitable for lunar colonies. In 2006 Sorensen started "energyfromthorium.com" to promote and make information available about this technology.[12]
+A 2011 MIT study concluded that although there is little in the way of barriers to a thorium fuel cycle, with current or near term light-water reactor designs there is also little incentive for any significant market penetration to occur. As such they conclude there is little chance of thorium cycles replacing conventional uranium cycles in the current nuclear power market, despite the potential benefits.[13]
+Nuclear reactions with thorium[edit]
+"Thorium is like wet wood [it] needs to be turned into fissile uranium just as wet wood needs to be dried in a furnace."
+ Ratan Kumar Sinha, current Chairman of the Atomic Energy Commission of India.[14]
+In the thorium cycle, fuel is formed when 232Th captures a neutron (whether in a fast reactor or thermal reactor) to become 233Th. This normally emits an electron and an anti-neutrino () by  decay to become 233Pa. This then emits another electron and anti-neutrino by a second  decay to become 233U, the fuel:
+n
+neutron
++
+232
+90
+Th
+ 
+233
+90
+Th
+
+ 
+ 
+233
+91
+Pa
+
+ 
+ 
+233
+92
+U
+fuel
+{\displaystyle {\ce {{\overset {neutron}{n}}+_{90}^{232}{Th}->_{90}^{233}{Th}->[\beta ^{-}]_{91}^{233}{Pa}->[\beta ^{-}]{\overset {fuel}{_{92}^{233}{U}}}}}}
+Fission product wastes[edit]
+Nuclear fission produces radioactive fission products which can have half-lives from days to greater than 200,000 years. According to some toxicity studies,[15] the thorium cycle can fully recycle actinide wastes and only emit fission product wastes, and after a few hundred years, the waste from a thorium reactor can be less toxic than the uranium ore that would have been used to produce low enriched uranium fuel for a light water reactor of the same power. Other studies assume some actinide losses and find that actinide wastes dominate thorium cycle waste radioactivity at some future periods.[16]
+Actinide wastes[edit]
+In a reactor, when a neutron hits a fissile atom (such as certain isotopes of uranium), it either splits the nucleus or is captured and transmutes the atom. In the case of 233U, the transmutations tend to produce useful nuclear fuels rather than transuranic wastes. When 233U absorbs a neutron, it either fissions or becomes 234U. The chance of fissioning on absorption of a thermal neutron is about 92%; the capture-to-fission ratio of 233U, therefore, is about 1:12  which is better than the corresponding capture vs. fission ratios of 235U (about 1:6), or 239Pu or 241Pu (both about 1:3).[4][17] The result is less transuranic waste than in a reactor using the uranium-plutonium fuel cycle.
+Transmutation in the thorium fuel cycle
+230Th
+
+231Th
+
+232Th
+
+233Th
+(White actinides: t<27d)
+
+
+231Pa
+
+232Pa
+
+233Pa
+
+234Pa
+(Colored: t>68y)
+
+
+
+
+231U
+
+232U
+
+233U
+
+234U
+
+235U
+
+236U
+
+237U
+
+
+
+
+(Fission products with t<90y or t>200ky)
+237Np
+234U, like most actinides with an even number of neutrons, is not fissile, but neutron capture produces fissile 235U. If the fissile isotope fails to fission on neutron capture, it produces 236U, 237Np, 238Pu, and eventually fissile 239Pu and heavier isotopes of plutonium. The 237Np can be removed and stored as waste or retained and transmuted to plutonium, where more of it fissions, while the remainder becomes 242Pu, then americium and curium, which in turn can be removed as waste or returned to reactors for further transmutation and fission.
+However, the 231Pa (with a half-life of 70121031933520000003.27104years) formed via (n,2n) reactions with 232Th (yielding 231Th that decays to 231Pa), while not a transuranic waste, is a major contributor to the long-term radiotoxicity of spent nuclear fuel.
+Uranium-232 contamination[edit]
+Uranium-232 is also formed in this process, via (n,2n) reactions between fast neutrons and 233U, 233Pa, and 232Th:
+n
++
+232
+90
+Th
+ 
+233
+90
+Th
+
+ 
+ 
+233
+91
+Pa
+
+ 
+ 
+233
+92
+U
++
+n
+ 
+232
+92
+U
++
+2
+n
+n
++
+232
+90
+Th
+ 
+233
+90
+Th
+
+ 
+ 
+233
+91
+Pa
++
+n
+ 
+232
+91
+Pa
++
+2
+n
+
+ 
+ 
+232
+92
+U
+n
++
+232
+90
+Th
+ 
+231
+90
+Th
++
+2
+n
+
+ 
+ 
+231
+91
+Pa
++
+n
+ 
+232
+91
+Pa
+
+ 
+ 
+232
+92
+U
+{\displaystyle {\begin{array}{l}{}\\{\ce {{n}+_{90}^{232}Th->_{90}^{233}{Th}->[\beta ^{-}]_{91}^{233}{Pa}->[\beta ^{-}]{_{92}^{233}U}+{n}->{_{92}^{232}U}+2n}}\\{\ce {{n}+_{90}^{232}Th->_{90}^{233}Th->[\beta ^{-}]{_{91}^{233}Pa}+{n}->{_{91}^{232}Pa}+2n->[\beta ^{-}]_{92}^{232}U}}\\{\ce {{n}+_{90}^{232}Th->{_{90}^{231}Th}+2n->[\beta ^{-}]{_{91}^{231}Pa}+n->_{91}^{232}Pa->[\beta ^{-}]_{92}^{232}U}}\\{}\end{array}}}
+Uranium-232 has a relatively short half-life (700921743186400000068.9years), and some decay products emit high energy gamma radiation, such as 224Rn, 212Bi and particularly 208Tl. The full decay chain, along with half-lives and relevant gamma energies, is:
+The 4n decay chain of 232Th, commonly called the "thorium series"
+232U decays to 228Th where it joins the decay chain of 232Th
+232
+92
+U
+
+ 
+228
+90
+Th
+(
+68.9
+y
+e
+a
+r
+s
+)
+228
+90
+Th
+
+ 
+224
+88
+Ra
+(
+1.9
+y
+e
+a
+r
+)
+224
+88
+Ra
+
+ 
+220
+86
+Rn
+(
+3.6
+d
+a
+y
+,
+0.24
+M
+e
+V
+)
+220
+86
+Rn
+
+ 
+216
+84
+Po
+(
+55
+s
+,
+0.54
+M
+e
+V
+)
+216
+84
+Po
+
+ 
+212
+82
+Pb
+(
+0.15
+s
+)
+212
+82
+Pb
+
+ 
+ 
+212
+83
+Bi
+(
+10.64
+h
+)
+212
+83
+Bi
+
+ 
+208
+81
+Tl
+(
+61
+m
+,
+0.78
+M
+e
+V
+)
+208
+81
+Tl
+
+ 
+ 
+208
+82
+Pb
+(
+3
+m
+,
+2.6
+M
+e
+V
+)
+{\displaystyle {\begin{array}{rl}{\ce {_{92}^{232}{U}->[\alpha ]_{90}^{228}Th}}\ &\mathrm {(68.9\ years)} \\{\ce {_{90}^{228}{Th}->[\alpha ]_{88}^{224}Ra}}\ &\mathrm {(1.9\ year)} \\{\ce {_{88}^{224}{Ra}->[\alpha ]_{86}^{220}Rn}}\ &\mathrm {(3.6\ day,\ 0.24\ MeV)} \\{\ce {_{86}^{220}{Rn}->[\alpha ]_{84}^{216}Po}}\ &\mathrm {(55\ s,\ 0.54\ MeV)} \\{\ce {_{84}^{216}{Po}->[\alpha ]_{82}^{212}Pb}}\ &\mathrm {(0.15\ s)} \\{\ce {_{82}^{212}{Pb}->[\beta ^{-}]_{83}^{212}Bi}}\ &\mathrm {(10.64\ h)} \\{\ce {_{83}^{212}{Bi}->[\alpha ]_{81}^{208}Tl}}\ &\mathrm {(61\ m,\ 0.78\ MeV)} \\{\ce {_{81}^{208}{Tl}->[\beta ^{-}]_{82}^{208}Pb}}\ &\mathrm {(3\ m,\ 2.6\ MeV)} \end{array}}}
+Thorium-cycle fuels produce hard gamma emissions, which damage electronics, limiting their use in military bomb triggers. 232U cannot be chemically separated from 233U from used nuclear fuel; however, chemical separation of thorium from uranium removes the decay product 228Th and the radiation from the rest of the decay chain, which gradually build up as 228Th reaccumulates. The hard gamma emissions also create a radiological hazard which requires remote handling during reprocessing.
+Nuclear fuel[edit]
+As a fertile material thorium is similar to 238U, the major part of natural and depleted uranium. The thermal neutron absorption cross section (a) and resonance integral (average of neutron cross sections over intermediate neutron energies) for 232Th are about three and one third times those of the respective values for 238U.
+Advantages[edit]
+Thorium is estimated to be about three to four times more abundant than uranium in Earth's crust,[18] although present knowledge of reserves is limited. Current demand for thorium has been satisfied as a by-product of rare-earth extraction from monazite sands.
+Although the thermal neutron fission cross section (f) of the resulting 233U is comparable to 235U and 239Pu, it has a much lower capture cross section () than the latter two fissile isotopes, providing fewer non-fissile neutron absorptions and improved neutron economy. Finally, the ratio of neutrons released per neutron absorbed () in 233U is greater than two over a wide range of energies, including the thermal spectrum; as a result, thorium-based fuels can be the basis for a thermal breeder reactor.[4] A breeding reactor in the uranium - plutonium cycle needs to use a fast neutron spectrum, because in the thermal spectrum one neutron absorbed by 239Pu on average leads to less than two neutrons.
+Thorium-based fuels also display favorable physical and chemical properties that improve reactor and repository performance. Compared to the predominant reactor fuel, uranium dioxide (UO
+2), thorium dioxide (ThO
+2) has a higher melting point, higher thermal conductivity, and lower coefficient of thermal expansion. Thorium dioxide also exhibits greater chemical stability and, unlike uranium dioxide, does not further oxidize.[4]
+Because the 233U produced in thorium fuels is significantly contaminated with 232U in proposed power reactor designs, thorium-based used nuclear fuel possesses inherent proliferation resistance. 232U cannot be chemically separated from 233U and has several decay products that emit high-energy gamma radiation. These high-energy photons are a radiological hazard that necessitate the use of remote handling of separated uranium and aid in the passive detection of such materials.
+The long-term (on the order of roughly 7003100000000000000103 to 7013315576000000000106years) radiological hazard of conventional uranium-based used nuclear fuel is dominated by plutonium and other minor actinides, after which long-lived fission products become significant contributors again. A single neutron capture in 238U is sufficient to produce transuranic elements, whereas five captures are generally necessary to do so from 232Th. 9899% of thorium-cycle fuel nuclei would fission at either 233U or 235U, so fewer long-lived transuranics are produced. Because of this, thorium is a potentially attractive alternative to uranium in mixed oxide (MOX) fuels to minimize the generation of transuranics and maximize the destruction of plutonium.[19]
+Disadvantages[edit]
+There are several challenges to the application of thorium as a nuclear fuel, particularly for solid fuel reactors:
+In contrast to uranium, naturally occurring thorium is effectively mononuclidic and contains no fissile isotopes; fissile material, generally 233U, 235U or plutonium, must be added to achieve criticality. This, along with the high sintering temperature necessary to make thorium-dioxide fuel, complicates fuel fabrication. Oak Ridge National Laboratory experimented with thorium tetrafluoride as fuel in a molten salt reactor from 19641969, which was expected to be easier to process and separate from contaminants that slow or stop the chain reaction.
+In an open fuel cycle (i.e. utilizing 233U in situ), higher burnup is necessary to achieve a favorable neutron economy. Although thorium dioxide performed well at burnups of 170,000 MWd/t and 150,000 MWd/t at Fort St. Vrain Generating Station and AVR respectively,[4] challenges complicate achieving this in light water reactors (LWR), which compose the vast majority of existing power reactors.
+In a once-through thorium fuel cycle the residual 233U is a long-lived radioactive isotope in the waste.
+Another challenge associated with the thorium fuel cycle is the comparatively long interval over which 232Th breeds to 233U. The half-life of 233Pa is about 27 days, which is an order of magnitude longer than the half-life of 239Np. As a result, substantial 233Pa develops in thorium-based fuels. 233Pa is a significant neutron absorber and, although it eventually breeds into fissile 235U, this requires two more neutron absorptions, which degrades neutron economy and increases the likelihood of transuranic production.
+Alternatively, if solid thorium is used in a closed fuel cycle in which 233U is recycled, remote handling is necessary for fuel fabrication because of the high radiation levels resulting from the decay products of 232U. This is also true of recycled thorium because of the presence of 228Th, which is part of the 232U decay sequence. Further, unlike proven uranium fuel recycling technology (e.g. PUREX), recycling technology for thorium (e.g. THOREX) is only under development.
+Although the presence of 232U complicates matters, there are public documents showing that 233U has been used once in a nuclear weapon test. The United States tested a composite 233U-plutonium bomb core in the MET (Military Effects Test) blast during Operation Teapot in 1955, though with much lower yield than expected.[20]
+Though thorium-based fuels produce far less long-lived transuranics than uranium-based fuels,[15] some long-lived actinide products constitute a long-term radiological impact, especially 231Pa.[16]
+Advocates for liquid core and molten salt reactors such as LFTRs claim that these technologies negate thorium's disadvantages present in solid fueled reactors. As only two liquid-core fluoride salt reactors have been built (the ORNL ARE and MSRE) and neither have used thorium, it is hard to validate the exact benefits.[4]
+Reactors[edit]
+Thorium fuels have fuelled several different reactor types, including light water reactors, heavy water reactors, high temperature gas reactors, sodium-cooled fast reactors, and molten salt reactors.[21]
+List of thorium-fuelled reactors[edit]
+From IAEA TECDOC-1450 "Thorium Fuel Cycle - Potential Benefits and Challenges", Table 1: Thorium utilization in different experimental and power reactors.[4] Additionally, Dresden 1 in the United States used "thorium oxide corner rods".[22]
+Name
+Country
+Reactor type
+Power
+Fuel
+Operation period
+AVR
+(West) Germany
+HTGR, experimental (pebble bed reactor)
+015000 15 MW(e)
+Th+235U Driver fuel, coated fuel particles, oxide & dicarbides
+19671988
+THTR-300
+(West) Germany
+HTGR, power (pebble type)
+300000 300 MW(e)
+Th+235U, Driver fuel, coated fuel particles, oxide & dicarbides
+19851989
+Lingen
+(West) Germany
+BWR irradiation-testing
+060000 60 MW(e)
+Test fuel (Th,Pu)O2 pellets
+1968-1973
+Dragon (OECD-Euratom)
+UK (also Sweden, Norway and Switzerland)
+HTGR, Experimental (pin-in-block design)
+020000 20 MWt
+Th+235U Driver fuel, coated fuel particles, oxide & dicarbides
+19661973
+Peach Bottom
+United States
+HTGR, Experimental (prismatic block)
+040000 40 MW(e)
+Th+235U Driver fuel, coated fuel particles, oxide & dicarbides
+19661972
+Fort St Vrain
+United States
+HTGR, Power (prismatic block)
+330000 330 MW(e)
+Th+235U Driver fuel, coated fuel particles, Dicarbide
+19761989
+MSRE ORNL
+United States
+MSR
+007500 7.5 MWt
+233U molten fluorides
+19641969
+BORAX-IV & Elk River Station
+United States
+BWR (pin assemblies)
+002400 2.4 MW(e); 24 MW(e)
+Th+235U Driver fuel oxide pellets
+1963 - 1968
+Shippingport
+United States
+LWBR, PWR, (pin assemblies)
+100000 100 MW(e)
+Th+233U Driver fuel, oxide pellets
+19771982
+Indian Point 1
+United States
+LWBR, PWR, (pin assemblies)
+285000 285 MW(e)
+Th+233U Driver fuel, oxide pellets
+19621980
+SUSPOP/KSTR KEMA
+Netherlands
+Aqueous homogenous suspension (pin assemblies)
+001000 1 MWt
+Th+HEU, oxide pellets
+19741977
+NRX & NRU
+Canada
+MTR (pin assemblies)
+020000 20 MW; 200 MW (see)
+Th+235U, Test Fuel
+1947 (NRX) + 1957 (NRU); Irradiationtesting of few fuel elements
+CIRUS; DHRUVA; & KAMINI
+India
+MTR thermal
+040000 40 MWt; 100 MWt; 30 kWt (low power, research)
+Al+233U Driver fuel, J rod of Th & ThO2, J rod of ThO2
+1960-2010 (CIRUS); others in operation
+KAPS 1 &2; KGS 1 & 2; RAPS 2, 3 & 4
+India
+PHWR, (pin assemblies)
+220000 220 MW(e)
+ThO2 pellets (for neutron flux flattening of initial core after start-up)
+1980 (RAPS 2) +; continuing in all new PHWRs
+FBTR
+India
+LMFBR, (pin assemblies)
+040000 40 MWt
+ThO2 blanket
+1985; in operation
+See also[edit]
+Nuclear technology portal
+Radioactive waste
+World energy resources and consumption
+Peak uranium
+Fuji MSR
+Alvin Radkowsky
+Weinberg Foundation
+Flibe Energy
+CANDU reactor
+Advanced heavy water reactor
+Thorium Energy Alliance
+References[edit]
+^ Kang, J.; Von Hippel, F. N. (2001). "U232 and the proliferationresistance of U233 in spent fuel". Science & Global Security. 9: 1. doi:10.1080/08929880108426485. [1]
+^ Nuclear Materials FAQ
+^ a b Robert Hargraves; Ralph Moir (January 2011). "Liquid Fuel Nuclear Reactors". American Physical Society Forum on Physics & Society. Retrieved 31 May 2012.
+^ a b c d e f g "IAEA-TECDOC-1450 Thorium Fuel Cycle-Potential Benefits and Challenges" (PDF). International Atomic Energy Agency. May 2005. Retrieved 2009-03-23.
+^ Ganesan Venkataraman (1994). Bhabha and his magnificent obsessions, page 157. Universities Press.
+^ "IAEA-TECDOC-1349 Potential of thorium-based fuel cycles to constrain plutonium and to reduce the long-lived waste toxicity" (PDF). International Atomic Energy Agency. 2002. Retrieved 2009-03-24.
+^ Evans, Brett (April 14, 2006). "Scientist urges switch to thorium". ABC News. Archived from the original on 2010-03-28. Retrieved 2011-09-17.
+^ Martin, Richard (December 21, 2009). "Uranium Is So Last Century  Enter Thorium, the New Green Nuke". Wired. Retrieved 2010-06-19.
+^ Miller, Daniel (March 2011). "Nuclear community snubbed reactor safety message: expert". ABC News. Retrieved 2012-03-25.
+^ Dean, Tim (April 2006). "New age nuclear". Cosmos. Retrieved 2010-06-19.
+^ MacKay, David J. C. (February 20, 2009). Sustainable Energy - without the hot air. UIT Cambridge Ltd. p.166. Retrieved 2010-06-19.
+^ "Flibe Energy". Flibe Energy. Retrieved 2012-06-12.
+^ The Future of the Nuclear Fuel Cycle (Full Report) (Report). MIT. 2011. p.181.
+^ "Date set for fuel reactor". The Telegraph (Calcutta). 2 September 2013. Retrieved 4 September 2013.
+^ a b Le Brun, C.; L. Mathieu; D. Heuer; A. Nuttin. "Impact of the MSBR concept technology on long-lived radio-toxicity and proliferation resistance" (PDF). Technical Meeting on Fissile Material Management Strategies for Sustainable Nuclear Energy, Vienna 2005. Retrieved 2010-06-20.
+^ a b Brissot R.; Heuer D.; Huffer E.; Le Brun, C.; Loiseaux, J-M; Nifenecker H.; Nuttin A. (July 2001). "Nuclear Energy With (Almost) No Radioactive Waste?". Laboratoire de Physique Subatomique et de Cosmologie (LPSC). according to computer simulations done at ISN, this Protactinium dominates the residual toxicity of losses at 701131557600000000010000years
+^ "Interactive Chart of Nuclides". Brookhaven National Laboratory. Retrieved 2 March 2015. Thermal neutron cross sections in barns (isotope, capture:fission, f/f+c, f/c) 233U 45.26:531.3 92.15% 11.74; 235U 98.69:585.0 85.57% 5.928; 239Pu 270.7:747.9 73.42% 2.763; 241Pu 363.0:1012 73.60% 2.788.
+^ "The Use of Thorium as Nuclear Fuel" (PDF). American Nuclear Society. November 2006. Retrieved 2009-03-24.
+^ "Thorium test begins". World Nuclear News. 21 June 2013. Retrieved 21 July 2013.
+^ "Operation Teapot". Nuclear Weapon Archive. 15 October 1997. Retrieved 2008-12-09.
+^ "IAEA-TECDOC-1319 Thorium Fuel Utilization: Options and trends" (PDF). International Atomic Energy Agency. November 2002. Retrieved 2009-03-24.
+^ Spent Nuclear Fuel Discharges from U. S. Reactors (1993). Energy Information Administration. 1995. p.111. ISBN978-0-7881-2070-1. Retrieved 11 June 2012. They were manufactured by General Electric (assembly code XDR07G) and later sent to the Savannah River Site for reprocessing.
+Further reading[edit]
+Kasten, P. R. (1998). "Review of the Radkowsky Thorium reactor concept" Science & Global Security, 7(3), 237-269.
+Duncan Clark (9 September 2011), "Thorium advocates launch pressure group. Huge optimism for thorium nuclear energy at the launch of the Weinberg Foundation", The Guardian
+Nelson, A. T. (2012). "Thorium: Not a near-term commercial nuclear fuel". Bulletin of the Atomic Scientists. 68 (5): 33. doi:10.1177/0096340212459125.
+B.D. Kuz'minov, V.N. Manokhin, (1998) "Status of nuclear data for the thorium fuel cycle", IAEA translation from the Russian journal Yadernye Konstanty (Nuclear Constants) Issue No. 3-4, 1997
+Thorium and uranium fuel cycles comparison by the UK National Nuclear Laboratory
+Fact sheet on thorium at the World Nuclear Association.
+Annotated bibliography for the thorium fuel cycle from the Alsos Digital Library for Nuclear Issues
+External links[edit]
+International Thorium Energy Committee
+Saved in parser cache with key enwiki:pcache:idhash:3901932-0!*!0!!en!4!*!math=5 and timestamp 20161113215303 and revision id 749347499
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Thorium_fuel_cycle&oldid=749347499"
+Categories: Nuclear chemistryNuclear fuelsNuclear reprocessingNuclear technologyActinidesThorium

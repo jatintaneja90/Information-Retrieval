@@ -1,0 +1,684 @@
+PearsonPLC
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+It has been suggested that this article be merged with TutorVista. (Discuss) Proposed since November 2016.
+Pearson plc
+Type
+Public limited company
+Tradedas
+LSE:PSON
+NYSE:PSO
+Industry
+Education
+Founded
+1844; 172years ago(1844)
+London, United Kingdom
+Founder
+Samuel Pearson
+Headquarters
+80 Strand (Shell Mex House)
+London, United Kingdom
+Key people
+Glen Moreno (Chairman)
+John Fallon (CEO)
+Products
+Publishing (books, newspapers, magazines)
+Services
+Educational assessment
+School management
+Higher education
+Revenue
+4,468 million (2015)[1]
+Operating income
+(404) million (2015)[1]
+Net income
+823 million (2015)[1]
+Website
+pearson.com
+Pearson PLC is a British multinational publishing and education company headquartered in London. It is the largest education company and the largest book publisher in the world.[3][4] Pearson has a primary listing on the London Stock Exchange and is a constituent of the FTSE 100 Index. It has a secondary listing on the New York Stock Exchange in the form of American Depository Receipts.
+80 Strand (Shell Mex House) in London, the headquarters of Pearson
+Contents
+1 History
+1.1 1844 to 1915
+1.2 1915 to 1990
+1.3 1990 to 2000
+1.4 2000 to 2005
+1.5 2005 to 2012
+1.6 2013 to 2015
+1.7 2016 to present
+2 Operations
+2.1 Pearson School
+2.2 Pearson Higher Education
+2.3 Pearson Professional
+3 Criticism
+3.1 United Kingdom
+3.2 Libyan Investment Authority
+3.3 Tax Avoidance
+4 References
+5 External links
+History[edit]
+1844 to 1915[edit]
+The company was founded by Samuel Pearson in 1844 as a building and engineering concern operating in Yorkshire under the name of S. Pearson & Son.[5] In 1880, control passed to his grandson Weetman Dickinson Pearson, an engineer, who in 1890 moved the business to London and turned it into one of the world's largest construction companies.[5] The company built the Blackwall Tunnel under the River Thames in London between 1892 and 1897.[6] It also built Admiralty Harbour at Dover, Halifax Dry Dock in Canada, the Sennar Dam in Sudan, the East River Railway Tunnels in New York City, the Mexican Grand Canal that drained Mexico City, the Tehuantepec Railway in Mexico, and railroads and harbors around the world.[7][8] In November 1915, the firm began construction of HM Factory, Gretna, the largest cordite factory in the UK during World War I.[9]
+1915 to 1990[edit]
+In 1919, the firm acquired a 45% stake in the London branch of merchant bankers Lazard Brothers, an interest which was increased to 80% in 1932 during the depression years. Pearson continued to hold a 50% stake until 1999.[10] In 1921, Pearson purchased a number of local daily and weekly newspapers in the United Kingdom, which it combined to form the Westminster Press group.[5]
+The original construction business was shut down in the 1920s.[11] Among its final projects was completion of the Sennar Dam, in Sudan, in 1925.[12]
+In 1957, it bought the Financial Times[5] and acquired a 50% stake in The Economist. It purchased the publisher Longman in 1968.[5]
+The company was first listed on the London Stock Exchange in 1969.[5] It went on to buy paperback publisher Penguin in 1970,[5] and in 1972, children's imprint Ladybird Books. In 1986, Pearson invested in the British Satellite Broadcasting consortium, which, a few years later merged with Sky TV to form a new company, British Sky Broadcasting (BSkyB).[13]
+1990 to 2000[edit]
+During the 1990s, Pearson acquired a number of TV production and broadcasting assets (including former ITV franchisee Thames Television) and sold most of its non-media assets, under the leadership of future U.S. Congressman Bob Turner. Westminster Press was sold to Newsquest in 1996.[14] Pearson acquired the education division of HarperCollins in 1996 from News Corporation [15] and Simon & Schuster in 1998 from Viacom and merged it with its own education unit, Addison-Wesley Longman to form Pearson Education.[16]
+2000 to 2005[edit]
+Pearson acquired Dorling Kindersley, the illustrated reference publisher and integrated it within Penguin, in March 2000[17] and then bought acquired National Computer Systems (NCS) in September 2000 so entering the educational assessment and school management systems market in the United States.[18]
+In 2002, Pearson sold its 22% stake in RTL Group[19] for 1.5 billion Euros, and then purchased Rough Guides, the travel publisher, and brought it under Penguin. Pearson acquired Edexcel,[20] a provider of qualifications in the UK, in 2003 and acquired about 80% stake in Meximerica Media Inc for $16.5 million for the swelling U.S. Hispanic market in 2004.[21]
+Pearson subsequently purchased a series of other testing and assessment businesses, including Knowledge Technologies in 2004,[22] AGS in 2005,[23] and National Evaluation Systems[24] and Promissor in 2006.[25]
+2005 to 2012[edit]
+Pearson acquired National Evaluation Systems, a provider of customised state assessments for teacher certification in the US, in April 2006[26] and announced that it had agreed to acquire Harcourt Assessment and Harcourt Education International from Reed Elsevier for $950m in cash in May 2007.[27] Pearson then completed the acquisition of Harcourt Assessment, merging the acquired businesses into Pearson Assessment & Information.[28] Pearson also acquired eCollege, a digital learning technology group for $477m in May 2007.[29]
+In February 2008, Pearson announced the sale of its Pearson Data Management Division (formerly the scanner manufacturing and servicing division of NCS Inc.) to Scantron Corporation (part of M&F Worldwide) which had been its main competitor.[30]
+Pearson acquired Wall Street English for $145m in 2009[31] and bought the school learning systems division of Sistema Educacional Brasileiro (SEB) for $497m in 2010.[32] Also in 2010, Pearson sold its 61% stake in Interactive Data to investment funds managed by Silver Lake Partners and Warburg Pincus for $2 billion.[33]
+In July 2011, Pearson announced the creation of Pearson College, a British degree provider based in London.[34][35] Also in 2011, Pearson acquired Connections Education and agreed to sell its 50% stake in FTSE International Limited to the London Stock Exchange for 450 million.[36]
+Pearson entered into talks with rival conglomerate Bertelsmann, over the possibility of combining their respective publishing companies, Penguin Group and Random House in October 2012. The houses are considered two of the "Big Six" publishing companies.[37] On 29 October 2012, Pearson said it would merge Penguin Books with Bertelsmann's Random House to create the world's biggest consumer book publisher.[38] Then in May 2012 Pearson announced its acquisition of GlobalEnglish Corporation, an American Business English software and solutions company, in an all-cash transaction.[39]
+2013 to 2015[edit]
+In May 2013, Pearson announced a new restructuring plan to invest in digital learning and emerging markets, after predicting weaker earnings.[40]
+The change supports the decoupling of the Penguin consumer publishing business into a separate entity with Random House (forming Penguin Random House). The new structure combines the separate education companies, Pearson International and Pearson North America under one Pearson company. Pearson will organize around three global lines of business  School, Higher Education and Professional. The Financial Times Group and Pearson English will form part of Pearson Professional.[41]
+In July 2014, Pearson announced it had cut 4,000 jobs, representing 10% of the company's workforce.[42]
+Pearson announced on 23 July 2015 that it had agreed to sell the FT Group, which includes business daily Financial Times, to Japanese media group Nikkei for 844 million, or $1.32 billion. The sale does not include FT Group's London property at One Southwark Bridge.[43] In August 2015, Pearson's sold its 50% stake in The Economist to the Agnelli family for 469 million[44] who previously held 4.7% of the group.[45] The remaining 50% of The Economist Group is owned by the Schroders, Cadburys and the Rothschilds.[45]
+2016 to present[edit]
+On 5 November 2015, Pearson announced it was rebranding, including creating a new logo, with a "100% focus" on education.[46][47]
+Operations[edit]
+Pearson is now organised into three main business groupings: Pearson School, Pearson Higher Education and Pearson Professional (includes Pearson English). In 2011 Pearson generated total revenues of 5.9 billion, of which 4,390 million were from Pearson Education, 1,045 million from Penguin Group, and 427 million from Financial Times Group, since sold.[48] In 2011, 60% of Pearson's revenues were generated in North America, 23% in Europe, 11% in Asia, and 6% in the rest of the world.[48]
+Pearson School[edit]
+Pearson School was created when the School businesses from Pearson International and Pearson North America were merged in 2013. They provide textbooks and digital technologies to teachers and students across school ages. Pearson's school brands include BTEC, Bug Club, Edexcel, Fronter, GradPoint, Schoolnet, and SuccessNet...
+Pearson Higher Education[edit]
+Pearson Higher Education was created when the Higher Education businesses from Pearson International and Pearson North America were merged in 2013. They provide textbooks and digital technologies to teachers and students across Higher Education. Pearson's higher education brands include eCollege, Mastering/MyLabs, online tutoring (Smarthinking), and Financial Times Publishing.
+Pearson Professional[edit]
+Pearson Professional includes Pearson English and Pearson VUE.
+Pearson English provides textbooks, digital technologies and education services to teachers and students across English-language learning. Pearson English is made up of:
+ Pearson ELT (English language Teaching): English language textbooks and e-learning
+ Pearson English Business Solutions (formerly Global English): English language e-learning for large corporations
+ Wall Street English: English language schools for business professionals
+Pearson VUE is a provider in electronic testing for regulatory and certification boards. It delivers certification testing in over 150 countries. It is the world leader in computer based assessment testing.
+The Financial Times (FT Group) formed part of this Pearson division until it was sold to Nikkei.
+Criticism[edit]
+Concerns exist around the amount of influence Pearson, a commercial company, has on public education.[49] Other concerns are around tax avoidance, the high value contracts, and in one instance, laying off teachers to offset the high costs of testing.[50]
+United Kingdom[edit]
+Pearson owns Edexcel, an education and examination board.[51] Edexcel has produced qualifications which link to Pearson texts, although Edexcel also continues to endorse textbooks published by other companies.[20]
+Libyan Investment Authority[edit]
+In June 2010, Pearson Plc received notification that the Libyan Investment Authority (LIA) founded by Muammar Gaddafi's son Saif al-Islam Gaddafi as a sovereign fund, had acquired 24,431,000 shares within the company via Euroclear. On further investigation, Pearson said the LIA may have acquired an additional 2,141,179 shares, resulting in a total interest of 26,572,179 shares. At the time, this represented a major holding of 3.27% within the company and the investment was worth around 280 million.[52]
+Tax Avoidance[edit]
+Pearson has been criticised for using offshore tax avoidance schemes involving a host of companies at a service address in Luxembourg.[53]
+References[edit]
+^ a b c "Annual Report 2015" (PDF). Retrieved 26 March 2016.
+^ "Pearson home page". Retrieved 25 November 2015.
+^ "The World's 57 Largest Book Publishers, 2015". Publishersweekly.com. 2015-06-26. Retrieved 2015-12-24.
+^ "Private equity to buy Pearson's IDC for $3.4billion". Reuters. 4 May 2010. Retrieved 18 August 2010.
+^ a b c d e f g "Our History". Pearson.com. Retrieved 18 April 2011.
+^ 'Southern Blackwall: The Blackwall Tunnel', Survey of London: volumes 43 and 44: Poplar, Blackwall and Isle of Dogs (1994), pp. 640645. Accessed 17 March 2013.
+^ Grace's Guide to British Industrial History. "Weetman Dickinson Pearson".
+^ Funding Universe. "Pearson plc History".
+^ John Alfred Spender (1977). Weetman Pearson, First Viscount Cowdray, 18561927. p.222. ISBN0-405-09801-4. The Pearson firm took up the work of construction managers in October
+^ Andrew Garfield (25 June 1999). "Dragging Lazards into the 21st century". The Independent. London.
+^ "History of Pearson plc  FundingUniverse". Retrieved 26 March 2016.
+^ "The Sennar Dam and the Gezira Irrigation Scheme", The Engineer (26 September 1924). Retrieved: 12 November 2015.
+^ "Granada and Pearson sell BSB stake BBC News, 1998". BBC News. 17 December 1998. Retrieved 18 April 2011.
+^ "Pearson Sees Profits Fall 40 Percent, Selling Westminster Press Unit". Associated Press. Retrieved 23 August 2014.
+^ Gilpin, Kenneth N. (10 February 1996). "Pearson to Buy a Publisher From News Corp.". The New York Times. ISSN0362-4331. Retrieved 23 August 2014.
+^ "Hicks, Muse, Tate & Furst to acquire Simon & Schuster's Reference, Business and Professional Divisions". Findarticles.com. 18 May 1998. Retrieved 18 April 2011.
+^ "Pearson buys Dorling Kindersley". BBC News. 31 March 2000. Retrieved 29 December 2012.
+^ "Pearson buys NCS". Faqs.org. Retrieved 18 April 2011.
+^ "Pearson agrees to sell 22% stake in RTL Group". Findarticles.com. 2001. Retrieved 18 April 2011.
+^ a b Rebecca Smithers and Kevin Massy (30 June 2003). "New marking fiasco". The Guardian. London. Retrieved 18 April 2011.
+^ "Pearson Acquires Newspaper Concern For Hispanic Market".
+^ "Pearson Knowledge Technologies". Pearsonkt.com. Retrieved 18 April 2011.
+^ Pearson buys AGS Publishing[dead link]
+^ "Pearson Education has agreed to buy National Education Systems". Allbusiness.com. 1 May 2006. Retrieved 18 April 2011.
+^ Pearson buys Promissor Archived 9 June 2007 at the Wayback Machine.
+^ "NES sold to global company". Daily Hampshire Gazette. Retrieved 26 April 2006.
+^ "Pearson acquires Harcourt Assessment and Harcourt Education International from Reed Elsevier". Pearson. Retrieved 11 May 2013.
+^ "Pearson Completes Acquisition of Harcourt Assessment". Assessment & Information group of Pearson. Retrieved 16 July 2011.
+^ "Pearson To Acquire eCollege". Campus Technology. 16 May 2007. Retrieved 21 March 2015.
+^ "M & F Worldwide Corp. Completes the Acquisition of Pearson's Data Management Business" (Press release). Pearson PLC. 22 February 2008. Retrieved 8 March 2008.
+^ "Pearson buys Wall Street Institute for $92m in cash". The Book seller. 29 July 2010. Retrieved 21 March 2015.
+^ "Pearson Buys Sistema Learning Unit for $499 Million". Bloomberg. 22 July 2010. Retrieved 21 March 2015.
+^ "Pearson sells IDC stake for $2bn". The Guardian. London. 4 May 2010. Retrieved 21 March 2015.
+^ "Royal Holloway to validate new Pearson degree". Times Higher Education. 4 July 2011. Retrieved 17 November 2012.
+^ "FT owners plan college for business degrees". The Guardian. London. 14 August 2012. Retrieved 17 November 2012.
+^ "Pearson to sell FTSE stake for 450m". The Guardian. London. 12 December 2011. Retrieved 21 March 2015.
+^ Penguin and Random House in merger talks FT.com
+^ "Random, Penguin merging to form leading publisher". Reuters. 29 October 2012.
+^ "Pearson's world-leading English learning business strengthens its position in the corporate market". GlobalEnglish. Retrieved 31 July 2012.
+^ Young, Sarah (25 February 2013). "Pearson sees 2013 flat, begins restructuring plan". Reuters. Thomson Reuters. Retrieved 18 January 2015.
+^ Gordon, Kathy (23 May 2013). "Pearson details restructuring". The Wall Street Journal. Retrieved 26 June 2013.
+^ Orihuela, Rodrigo; Schweizer, Kristen (25 July 2014). "Pearson cutting 4,000 jobs as first-half sales decline". Bloomberg. Retrieved 18 January 2015.
+^ Henry Mance, Arash Massoudi and James Fontanella-Khan (23 July 2015). "Nikkei to buy FT Group for 844m from Pearson". Financial Times. Retrieved 28 July 2015.
+^ "Pearson sells Economist Group stake". BBC News. Retrieved 12 August 2015.
+^ a b Omar Oakes (27 July 2015). "Pearson to sell Economist Group stake". Brand Republic. Retrieved 28 July 2015.
+^ "? meets! in new Pearson logo". Design Week. Retrieved 26 March 2016.
+^ "Pearson rebrand to reflect 100% focus on education". Retrieved 26 March 2016.
+^ a b "Annual Report and Accounts 2011" (PDF). Pearson. Retrieved 17 November 2012.
+^ "Should Pearson, a giant multinational, be influencing our education policy?". The Guardian. London. Retrieved 25 September 2013.
+^ "Pearson Draws Criticism From New York to Texas... Justified? Or Unjustified?". wiredacademic.com. Retrieved 25 September 2013.
+^ "The Senior Management Team". Pearson Edexcel.
+^ "Pearson freezes stake held by Libyan Investment Authority". The Guardian. 1 March 2011. Retrieved 26 March 2016.
+^ "When Pearson US took a tax break - Courtesy of PwC". World tax. 3 July 2015. Retrieved 2 June 2016.
+External links[edit]
+Pearson plc Official website
+Pearson PLC companies grouped at OpenCorporates
+Mary H. Munroe (2004). "Pearson Timeline". The Academic Publishing Industry: A Story of Merger and Acquisition. Archived from the original on 20 October 2014  via Northern Illinois University.
+v
+t
+e
+Pearson PLC
+Financial Times Group
+The Banker
+fDi
+Investors Chronicle
+Money Management
+PWM
+Vedomosti (33%)
+Pearson Education
+Pearson School
+Addison-Wesley
+Dorling Kindersley
+Heinemann (outside US)
+Modern Curriculum Press
+Prentice Hall
+Scott Foresman
+Silver Burdett
+York Notes
+Pearson
+Higher Education
+Addison-Wesley
+Allyn & Bacon
+Benjamin Cummings
+Longman
+Prentice Hall
+Propero
+Pearson
+Professional
+Addison-Wesley Professional
+Adobe Press
+Apple Certified
+Allyn & Bacon Professional
+Cisco Press
+FT Press
+IBM Press
+InformIT
+New York Institute of Finance
+Peachpit
+Pearson Assessment & Information
+Prentice Hall Professional
+SAMS Publishing
+Pearson VUE
+Wharton
+Other
+Edexcel
+Pearson College
+Pearson Language Tests
+Wall Street Institute
+Other
+80 Strand
+Glen Moreno
+Weetman Pearson, 1st Viscount Cowdray
+Marjorie Scardino
+Penguin Random House
+Category
+v
+t
+e
+Media in the United Kingdom
+Newspapers, magazines and other periodicals
+Newspapers
+(history)
+National
+Berliner
+The Guardian
+The Observer
+Broadsheet
+Financial Times
+The Daily Telegraph
+The Sunday Telegraph
+The Sunday Times
+Compact
+i
+The Times
+Middle-market
+Daily Express
+Daily Mail
+The Mail on Sunday
+Tabloid
+Daily Mirror
+Sunday Mirror
+Morning Star
+The Sunday People
+Daily Star
+Daily Star Sunday
+The Sun
+Sunday Sport
+Magazines and
+other periodicals
+List of magazines by circulation
+Radio
+National stations
+BBC
+Analogue/digital
+Radio 1
+Radio 2
+Radio 3
+Radio 4
+Radio 5 Live
+Digital
+Radio 1Xtra
+Radio 4 Extra
+Radio 5 Live Sports Extra
+Radio 6 Music
+Asian Network
+BBC National DAB (multiplex)
+Commercial
+Analogue/digital
+Absolute Radio
+Classic FM
+Talksport
+Digital
+Absolute 80s
+Absolute Radio 90s
+Absolute Radio Extra
+Amazing Radio
+BFBS Radio
+Digital One (multiplex)
+Jazz FM
+Planet Rock
+Premier Christian Radio
+Sound Digital (multiplex)
+Smooth Radio UK
+UCB UK
+Regional and
+local stations
+BBC
+List of BBC Local Radio stations
+List of BBC Regional Radio stations
+Commercial
+List of community radio stations
+List of local commercial radio stations
+List of semi-national analogue and digital stations
+Other stations
+List of hospital radio stations
+Pirate radio
+Restricted Service Licence
+List of RSL stations
+List of satellite radio stations
+List of student and schools radio
+Other
+Broadcasting House
+FM broadcasting
+The Studios, MediaCityUK
+Radio Academy
+Radio Academy Awards
+Radio Independents Group
+RAJAR
+Most-listened-to programs
+Television
+Principal channels
+(List)
+BBC
+BBC One
+BBC Two
+BBC Four
+BBC News
+BBC Parliament
+CBBC
+CBeebies
+Channel Four
+Channel 4
+E4
+Film4
+More4
+4seven
+Channel 5
+Channel 5
+5Star
+5 USA
+Spike
+ITV
+ITV, STV, UTV
+ITV2
+ITV3
+ITV4
+CITV
+ITV Encore
+ITVBe
+Sky
+Challenge
+Pick
+Real Lives
+Sky 1
+Sky 2
+Sky Arts
+Sky Atlantic
+Sky Cinema
+Sky Cinema Box Office
+Sky Living
+Sky News
+Sky Sports
+Sky Sports F1
+Sky Sports News HQ
+UKTV
+Alibi
+Dave
+Drama
+Eden
+Gold
+Good Food
+Home
+Really
+W
+Yesterday
+Services and
+platforms
+All 4
+Film4oD
+Analogue
+Analogue terrestrial (defunct)
+BBC iPlayer
+BBC Three (online)
+Blinkbox
+BT TV
+Cable
+Digital
+Digital terrestrial
+List of channels
+Freesat
+Freesat+
+Freeview
+Freewire
+High-definition
+List of channels
+ITV
+ITV Hub, STV Player
+Local television
+My5
+Real Digital
+Restricted Service Licence
+Satellite
+List of channels
+Sky
+Freesat from Sky
+On Demand
+Sky+
+Sky+ HD
+TalkTalk TV
+Top Up TV
+TVCatchup
+Virgin Media
+FilmFlex
+TiVo
+V+
+YouView
+Zattoo
+Studios
+BBC Elstree Centre
+BBC Pacific Quay
+BBC Television Centre
+Broadcasting House
+Broadcasting House, Cardiff
+Fountain Studios
+The Leeds Studios
+The London Studios
+MediaCityUK
+Gas Street Studios
+Granada Studios
+Osterley Television Centre
+Roath Lock
+Teddington Studios
+Television Centre, Southampton
+Other
+Defunct channels
+Edinburgh International Television Festival
+History
+List of years
+List of channels
+Student television
+Viewing statistics
+Most-watched broadcasts
+Companies and organisations
+Companies
+Major companies
+Archant
+Ascential
+Bauer Radio
+BBC
+Bloomsbury Publishing
+BT Group
+Channel Four
+Daily Mail and General Trust
+Dentsu Aegis Network
+Economist Group
+EMI Music Publishing
+Endemol UK
+Global Group
+Guardian Media Group
+Haymarket
+Informa
+ITN
+ITV
+Johnston Press
+Mecom Group
+News UK
+Newsquest
+Northern & Shell
+Origin Broadband
+Pearson
+Press Holdings
+Reed Elsevier
+Reuters
+Sky
+STV Group
+Syco
+TalkTalk Group
+Time Inc. UK
+Trinity Mirror
+UBM
+Virgin Media
+Wireless Group
+Other resources
+List of largest UK book publishers
+Government and
+regulatory bodies
+Advertising Standards Authority
+BBC Trust
+British Board of Film Classification
+British Film Institute
+Culture, Media and Sport Select Committee
+Department for Culture, Media and Sport
+Ofcom
+Press Complaints Commission
+S4C Authority
+UK Film Council
+Industry and
+trades bodies
+British Academy of Film and Television Arts
+British Phonographic Industry
+Broadcasting, Entertainment, Cinematograph and Theatre Union
+Clearcast
+Digital TV Group
+Digital UK
+Equity
+Federation Against Copyright Theft
+National Union of Journalists
+The Publishers Association
+Royal Television Society
+United Kingdom Independent Broadcasting
+Other
+BBC Academy
+National Film and Television School
+National Media Museum
+Regional and student media
+Regional media
+Media in England
+Birmingham
+London
+Manchester
+Media in Scotland
+Aberdeen
+Dundee
+Glasgow
+Media in Wales
+Cardiff
+Student media
+Student television
+Category
+v
+t
+e
+FTSE 100 companies of the United Kingdom FTSE 250
+3i
+Admiral Group
+Anglo American
+Antofagasta
+Ashtead Group
+Associated British Foods
+AstraZeneca
+Aviva
+BAE Systems
+BHP Billiton
+BP
+Babcock International
+Barclays
+Barratt Developments
+British American Tobacco
+British Land
+BT Group
+Bunzl
+Burberry
+Capita
+Carnival
+Centrica
+Coca-Cola HBC
+Compass Group
+CRH
+Croda International
+DCC
+Diageo
+Direct Line Group
+Dixons Carphone
+easyJet
+Experian
+Fresnillo
+GKN
+GlaxoSmithKline
+Glencore
+Hammerson
+Hargreaves Lansdown
+Hikma Pharmaceuticals
+HSBC
+Imperial Brands
+Informa
+InterContinental Hotels Group
+International Airlines Group
+Intertek
+Intu Properties
+ITV
+Johnson Matthey
+Kingfisher
+Land Securities Group
+Legal & General
+Lloyds Banking Group
+London Stock Exchange Group
+Marks & Spencer
+Mediclinic International
+Merlin Entertainments
+Micro Focus International
+Mondi
+Morrisons
+National Grid
+Next
+Old Mutual
+Paddy Power Betfair
+Pearson
+Persimmon
+Polymetal International
+Provident
+Prudential
+Randgold Resources
+Royal Bank of Scotland
+Reckitt Benckiser
+RELX Group
+Rio Tinto Group
+Rolls-Royce
+Royal Dutch Shell
+Royal Mail
+RSA Insurance Group
+Sage Group
+J Sainsbury
+Schroders
+Severn Trent
+Shire
+Sky
+Smith & Nephew
+Smiths Group
+SSE
+Standard Chartered
+Standard Life
+St. James's Place
+Taylor Wimpey
+Tesco
+Travis Perkins
+TUI
+Unilever
+United Utilities
+Vodafone
+Whitbread
+Wolseley
+Worldpay
+WPP
+Companies portal
+London portal
+Books portal
+NewPP limit report
+Parsed by mw1262
+Cached time: 20161119091359
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.572 seconds
+Real time usage: 0.679 seconds
+Preprocessor visited node count: 4356/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 294949/2097152 bytes
+Template argument size: 24745/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.239/10.000 seconds
+Lua memory usage: 6.15 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+545.320
+1 - -total
+42.57%
+232.121
+1 - Template:Reflist
+18.55%
+101.159
+25 - Template:Cite_web
+15.64%
+85.307
+1 - Template:Infobox_company
+13.76%
+75.040
+1 - Template:Media_in_the_United_Kingdom
+12.91%
+70.376
+1 - Template:Navbox_with_collapsible_groups
+12.14%
+66.219
+1 - Template:Infobox
+11.52%
+62.824
+14 - Template:Navbox
+11.03%
+60.141
+20 - Template:Cite_news
+10.90%
+59.457
+1 - Template:Merge
+Saved in parser cache with key enwiki:pcache:idhash:961917-0!*!0!!en!4!* and timestamp 20161119091358 and revision id 749714586
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pearson_PLC&oldid=749714586"
+Categories: Pearson PLCCompanies established in 1844Media companies of the United KingdomCompanies listed on the London Stock ExchangeCompanies listed on the New York Stock ExchangeCompanies based in LondonPan-European media companiesBritish brandsHidden categories: All articles with dead external linksArticles with dead external links from April 2011Webarchive template wayback linksArticles to be merged from November 2016All articles to be mergedUse British English from May 2012Use dmy dates from November 2015Pages using deprecated image syntaxPages using infobox company with unsupported parametersOpenCorporates groupings

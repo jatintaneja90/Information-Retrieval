@@ -1,0 +1,63 @@
+Sevcon
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2016) (Learn how and when to remove this template message)
+Sevcon
+Trading name
+Sevcon Inc. (former Tech/Ops Sevcon before 2011)
+Type
+Public
+Tradedas
+NASDAQ:SEV
+Industry
+Electric vehicles
+Founded
+Gateshead (April4,1961(1961-04-04))
+Founder
+Sir Horace William Heyman
+Headquarters
+Gateshead, NE11 0QA
+Area served
+Worldwide
+Products
+Microprocessor controls for electric vehicles
+Revenue
+$26.053 million (2010)
+Profit
+$329,000 (2010)
+Owner
+Tech/Ops, Inc.
+Number of employees
+101 (79 in the UK, 12 in USA)
+Website
+Sevcon
+Sevcon is an electrical engineering company based in Gateshead in the UK, that manufactures controls for electric vehicles.
+Contents
+1 History
+1.1 Worldwide
+1.2 Public company
+2 Structure
+3 Products
+4 References
+5 External links
+History[edit]
+It was founded in 1961 as Sevcon Engineering Ltd. The company was formed to develop technology originated by Horace William Heyman (13 March 1912 - 4 September 1998), who had been Managing Director of Smith Electric Vehicles from 1949 until 1964. It was the largest manufacturer of electric vehicles in Europe.
+His technology improved battery-life for frequent start-stop runs of electric vehicles at low speeds. There were always large electrical losses on starting an electric vehicle because of electrical resistances heating up. The technology allowed a 20% reduction in battery size for equivalent power, or increased battery length or power for a standard-sized battery.
+An electric vehicle would have had resistances to drop the voltage on the motor when starting, but this created heating. His technology employed semiconductor-controlled rectifiers, with a semiconductor oscillator, which provided pulses of electrical power to power the motor.
+It won the Queen's Award to Industry in April 1970, and the Queen's Awards for Export in April 1975. A new factory opened in June 1970 at Gateshead.
+Worldwide[edit]
+It opened its first subsidiary in 1968 in Paris. In 1969 it was bought by Tech/Ops of the USA.
+Public company[edit]
+In 1988 it was listed on the USA stock exchange, then joined the NASDAQ Capital Market in 2009.
+Structure[edit]
+The head office is situated opposite the automotive centre of Gateshead College. It outsources much of the manufacture of its components to Key Tronic of the USA. A UK site manufactures film capacitors.
+Its competitors include Danaher's Motion division, and General Electric. In 2010 it spent around 3 million in research and development at Gateshead.
+Products[edit]
+It makes microprocessor controllers for electric vehicles.
+References[edit]
+External links[edit]
+Sevcon
+Saved in parser cache with key enwiki:pcache:idhash:37809153-0!*!0!!en!4!* and timestamp 20161020235537 and revision id 735574413
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Sevcon&oldid=735574413"
+Categories: 1961 establishments in EnglandAutomotive companies of the United KingdomAutomotive electronicsCompanies based in Tyne and WearCompanies established in 1961Companies listed on NASDAQElectrical engineering companies of the United KingdomElectric vehiclesGatesheadHidden categories: Articles lacking sources from August 2016All articles lacking sources

@@ -1,0 +1,197 @@
+Waterelectrolysis
+From Wikipedia, the free encyclopedia
+(Redirected from Water electrolysis)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Simple setup for demonstration of electrolysis of water at home
+Electrolysis of water is the decomposition of water (H2O) into oxygen (O2) and hydrogen gas (H2) due to an electric current being passed through the water. The reaction has a standard potential of 1.23 V, meaning it ideally requires a potential difference of 1.23 volts to split water.
+This technique can be used to make hydrogen fuel (hydrogen gas) and breathable oxygen; though currently most industrial methods make hydrogen fuel from natural gas instead.
+Contents
+1 History
+2 Principle
+3 Equations
+4 Thermodynamics
+5 Electrolyte selection
+6 Techniques
+6.1 Fundamental demonstration
+6.2 Hofmann voltameter
+6.3 Industrial
+6.4 High pressure
+6.5 High-temperature
+6.6 Alkaline water
+6.7 Polymer electrolyte membrane
+6.8 Nickel/iron
+7 Applications
+8 Efficiency
+8.1 Industrial output
+8.2 Overpotential
+8.3 Thermodynamics
+9 See also
+10 References
+11 External links
+History[edit]
+Device invented by Johann Wilhelm Ritter to develop the electrolysis of water
+Jan Rudolph Deiman and Adriaan Paets van Troostwijk used, in 1789, an electrostatic machine to produce electricity which was discharged on gold electrodes in a Leyden jar with water.[1] In 1800 Alessandro Volta invented the voltaic pile, and a few weeks later William Nicholson and Anthony Carlisle used it for the electrolysis of water. When Znobe Gramme invented the Gramme machine in 1869 electrolysis of water became a cheap method for the production of hydrogen. A method of industrial synthesis of hydrogen and oxygen through electrolysis was developed by Dmitry Lachinov in 1888.[2]
+Principle[edit]
+A DC electrical power source is connected to two electrodes, or two plates (typically made from some inert metal such as platinum, stainless steel or iridium) which are placed in the water. Hydrogen will appear at the cathode (where electrons enter the water), and oxygen will appear at the anode.[3] Assuming ideal faradaic efficiency, the amount of hydrogen generated is twice the amount of oxygen, and both are proportional to the total electrical charge conducted by the solution.[4] However, in many cells competing side reactions occur, resulting in different products and less than ideal faradaic efficiency.
+Electrolysis of pure water requires excess energy in the form of overpotential to overcome various activation barriers. Without the excess energy the electrolysis of pure water occurs very slowly or not at all. This is in part due to the limited self-ionization of water. Pure water has an electrical conductivity about one millionth that of seawater. Many electrolytic cells may also lack the requisite electrocatalysts. The efficiency of electrolysis is increased through the addition of an electrolyte (such as a salt, an acid or a base) and the use of electrocatalysts.
+Currently the electrolytic process is rarely used in industrial applications since hydrogen can currently be produced more affordably from fossil fuels.[5]
+Equations[edit]
+Diagram showing the overall chemical equation.
+In pure water at the negatively charged cathode, a reduction reaction takes place, with electrons (e) from the cathode being given to hydrogen cations to form hydrogen gas (the half reaction balanced with acid):
+Reduction at cathode: 2 H+(aq) + 2e  H2(g)
+At the positively charged anode, an oxidation reaction occurs, generating oxygen gas and giving electrons to the anode to complete the circuit:
+Oxidation at anode: 2 H2O(l)  O2(g) + 4 H+(aq) + 4e
+The same half reactions can also be balanced with base as listed below. Not all half reactions must be balanced with acid or base. Many do, like the oxidation or reduction of water listed here. To add half reactions they must both be balanced with either acid or base.
+Cathode (reduction): 2 H2O(l) + 2e  H2(g) + 2 OH(aq)
+Anode (oxidation): 4 OH(aq)  O2(g) + 2 H2O(l) + 4 e
+Combining either half reaction pair yields the same overall decomposition of water into oxygen and hydrogen:
+Overall reaction: 2 H2O(l)  2 H2(g) + O2(g)
+The number of hydrogen molecules produced is thus twice the number of oxygen molecules. Assuming equal temperature and pressure for both gases, the produced hydrogen gas has therefore twice the volume of the produced oxygen gas. The number of electrons pushed through the water is twice the number of generated hydrogen molecules and four times the number of generated oxygen molecules.
+Thermodynamics[edit]
+Decomposition of pure water into hydrogen and oxygen at standard temperature and pressure is not favorable in thermodynamic terms.
+Anode (oxidation): 2 H2O(l)  O2(g) + 4 H+(aq) + 4e Eo
+ox = -1.23 V (Eo
+red = 1.23 )[6])
+Cathode (reduction): 2 H+(aq) + 2e  H2(g) Eo
+red = 0.00 V
+Thus, the standard potential of the water electrolysis cell is 1.23 V at 25C at pH 0 ([H+] = 1.0 M). At 25C with pH 7 ([H+] = 1.0107 M), the potential is unchanged based on the Nernst equation. The thermodynamic standard cell potential can be obtained from standard-state free energy calculations to find G and then using the equation: G= -nFE(where E is the cell potential). In practice when an electrochemical cell is "driven" toward completion by applying reasonable potential, it is kinetically controlled. Therefore, activation energy, ion mobility (diffusion) and concentration, wire resistance, surface hindrance including bubble formation (causes electrode area blockage), and entropy, require a greater applied potential to overcome these factors.
+Electrolyte selection[edit]
+Hoffman voltameter connected to a direct current power supply
+If the above described processes occur in pure water, H+ cations will accumulate at the cathode and OH anions will accumulate at the anode. This can be verified by adding a pH indicator to the water: the water near the cathode is acidic while the water near the anode is basic. The negative hydroxide ions that approach the anode mostly combine with the positive hydronium ions (H3O+) to form water. The positive hydronium ions that approach the cathode mostly combine with negative hydroxide ions to form water. Relatively few hydronium/hydroxide ions reach the cathode/anode. This can cause a concentration overpotential at both electrodes.
+Pure water is a fairly good insulator since it has a low autoionization, Kw = 1.01014 at room temperature and thus pure water conducts current poorly, 0.055 Scm1.[7] Unless a very large potential is applied to cause an increase in the autoionization of water the electrolysis of pure water proceeds very slowly limited by the overall conductivity.
+If a water-soluble electrolyte is added, the conductivity of the water rises considerably. The electrolyte disassociates into cations and anions; the anions rush towards the anode and neutralize the buildup of positively charged H+ there; similarly, the cations rush towards the cathode and neutralize the buildup of negatively charged OH there. This allows the continued flow of electricity.[8]
+Care must be taken in choosing an electrolyte, since an anion from the electrolyte is in competition with the hydroxide ions to give up an electron. An electrolyte anion with less standard electrode potential than hydroxide will be oxidized instead of the hydroxide, and no oxygen gas will be produced. A cation with a greater standard electrode potential than a hydrogen ion will be reduced in its stead, and no hydrogen gas will be produced.
+The following cations have lower electrode potential than H+ and are therefore suitable for use as electrolyte cations: Li+, Rb+, K+, Cs+, Ba2+, Sr2+, Ca2+, Na+, and Mg2+. Sodium and lithium are frequently used, as they form inexpensive, soluble salts.
+If an acid is used as the electrolyte, the cation is H+, and there is no competitor for the H+ created by disassociating water. The most commonly used anion is sulfate (SO2
+4), as it is very difficult to oxidize, with the standard potential for oxidation of this ion to the peroxydisulfate ion being 2.05 volts.
+Strong acids such as sulfuric acid (H2SO4), and strong bases such as potassium hydroxide (KOH), and sodium hydroxide (NaOH) are frequently used as electrolytes due to their strong conducting abilities.
+A solid polymer electrolyte can also be used such as Nafion and when applied with a special catalyst on each side of the membrane can efficiently split the water molecule with as little as 1.5 Volts. There are also a number of other solid electrolyte systems that have been trialled and developed with a number of electrolysis systems now available commercially that use solid electrolytes.[9]
+Techniques[edit]
+Main article: Water splitting
+Fundamental demonstration[edit]
+Two leads, running from the terminals of a battery, are placed in a cup of water with a quantity of electrolyte to establish conductivity in the solution. Using NaCl (table salt) in an electrolyte solution results in chlorine gas rather than oxygen due to a competing half-reaction. With the correct electrodes and correct electrolyte, such as baking soda (sodium bicarbonate), hydrogen and oxygen gases will stream from the oppositely charged electrodes. Oxygen will collect at the positively charged electrode (anode) and hydrogen will collect at the negatively charged electrode (cathode). Note that hydrogen is positively charged in the H2O molecule, so it ends up at the negative electrode. (And vice versa for oxygen.)
+Note that an aqueous solution of water with chloride ions, when electrolysed, will result in either OH if the concentration of Cl is low, or in chlorine gas being preferentially discharged if the concentration of Cl is greater than 25% by mass in the solution.
+Match test used to detect the presence of hydrogen gas
+Hofmann voltameter[edit]
+Main article: Hofmann voltameter
+The Hofmann voltameter is often used as a small-scale electrolytic cell. It consists of three joined upright cylinders. The inner cylinder is open at the top to allow the addition of water and the electrolyte. A platinum electrode is placed at the bottom of each of the two side cylinders, connected to the positive and negative terminals of a source of electricity. When current is run through the Hofmann voltameter, gaseous oxygen forms at the anode (positive) and gaseous hydrogen at the cathode (negative). Each gas displaces water and collects at the top of the two outer tubes, where it can be drawn off with a stopcock.
+Industrial[edit]
+Many industrial electrolysis cells are very similar to Hofmann voltameters, with complex platinum plates or honeycombs as electrodes. Generally the only time hydrogen is intentionally produced from electrolysis is for specific point of use application such as is the case with oxyhydrogen torches or when extremely high purity hydrogen or oxygen is desired. The vast majority of hydrogen is produced from hydrocarbons and as a result contains trace amounts of carbon monoxide among other impurities. The carbon monoxide impurity can be detrimental to various systems including many fuel cells.
+High pressure[edit]
+Main article: High pressure electrolysis
+High pressure electrolysis is the electrolysis of water with a compressed hydrogen output around 120200 Bar (17402900 psi).[10] By pressurising the hydrogen in the electrolyser, the need for an external hydrogen compressor is eliminated; the average energy consumption for internal compression is around 3%.[11]
+High-temperature[edit]
+Main article: High-temperature electrolysis
+High-temperature electrolysis (also HTE or steam electrolysis) is a method currently being investigated for water electrolysis with a heat engine. High temperature electrolysis may be preferable to traditional room-temperature electrolysis because some of the energy is supplied as heat, which is cheaper than electricity, and because the electrolysis reaction is more efficient at higher temperatures.[12][13]
+Alkaline water[edit]
+Main article: Alkaline water electrolysis
+Polymer electrolyte membrane[edit]
+Main article: Polymer electrolyte membrane electrolysis
+Nickel/iron[edit]
+In 2014, researchers announced an electrolysis system made of inexpensive, abundant nickel and iron rather than precious metal catalysts, such as platinum or iridium. The nickel-metal/nickel-oxide structure is more active than pure nickel metal or pure nickel oxide alone. The catalyst significantly lowers the required voltage.[14][15]
+Applications[edit]
+About five percent of hydrogen gas produced worldwide is created by electrolysis. The majority of this hydrogen produced through electrolysis is a side product in the production of chlorine and caustic soda. This is a prime example of a competing side reaction.
+2NaCl + 2H2O  Cl2 + H2 + 2NaOH
+The electrolysis of brine (saltwater), a water sodium chloride mixture, is only half the electrolysis of water since the chloride ions are oxidized to chlorine rather than water being oxidized to oxygen. The hydrogen produced from this process is either burned (converting it back to water), used for the production of specialty chemicals, or various other small-scale applications.
+Water electrolysis is also used to generate oxygen for the International Space Station.[16][17]
+Hydrogen may later be used in a fuel cell as a storage method of energy and water.[18]
+Efficiency[edit]
+Industrial output[edit]
+Efficiency of modern hydrogen generators is measured by energy consumed per standard volume of hydrogen (MJ/m3), assuming standard temperature and pressure of the H2. The lower the energy used by a generator, the higher would be its efficiency; a 100%-efficient electrolyser would consume 39.4 kilowatt-hours per kilogram (142MJ/kg) of hydrogen,[19] 12,749 joules per litre (12.75MJ/m3). Practical electrolysis (using a rotating electrolyser at 15 bar pressure) may consume 50 kilowatt-hours per kilogram (180MJ/kg), and a further 15 kilowatt-hours (54MJ) if the hydrogen is compressed for use in hydrogen cars.[20]
+Electrolyser vendors provide efficiencies based on enthalpy. To assess the claimed efficiency of an electrolyser it is important to establish how it was defined by the vendor (i.e. what enthalpy value, what current density, etc.).
+There are two main technologies available on the market, alkaline and proton exchange membrane (PEM) electrolysers. Alkaline electrolysers are cheaper in terms of investment (they generally use nickel catalysts), but less efficient; PEM electrolysers, conversely, are more expensive (they generally use expensive platinum-group metal catalysts) but are more efficient and can operate at higher current densities, and can therefore be possibly cheaper if the hydrogen production is large enough.
+Reported working efficiencies were for alkaline in 1996 lying in the 5060% range for the smaller electrolysers and around 6570% for the larger plants.[21] Theorical efficiency for PEM electrolysers are predicted up to 94%.[22] Ranges in 2014 were 4367% for the alkaline and 4067% for the PEM, they should progress in 2030 to 5370% for the alkaline and 6274% for the PEM.[19]
+Overpotential[edit]
+Real water electrolysers require higher voltages for the reaction to proceed. The part that exceeds 1.23 V[23] is called overpotential or overvoltage, and represents any kind of loss and nonideality in the electrochemical process.
+For a well designed cell the largest overpotential is the reaction overpotential for the four-electron oxidation of water to oxygen at the anode; electrocatalysts can facilitate this reaction, and platinum alloys are the state of the art for this oxidation. Developing a cheap, effective electrocatalyst for this reaction would be a great advance, and is a topic of current research; there are many approaches, among them a 30-year-old recipe for molybdenum sulfide,[24] graphene quantum dots,[25] carbon nanotubes,[15] perovskite,[26] and nickel/nickel-oxide.[27][28] The simpler two-electron reaction to produce hydrogen at the cathode can be electrocatalyzed with almost no overpotential by platinum, or in theory a hydrogenase enzyme. If other, less effective, materials are used for the cathode (e.g. graphite), large overpotentials will appear.
+Thermodynamics[edit]
+The electrolysis of water in standard conditions requires a theoretical minimum of 237 kJ of electrical energy input to dissociate each mole of water, which is the standard Gibbs free energy of formation of water. It also requires energy to overcome the change in entropy of the reaction. Therefore, the process cannot proceed below 286 kJ per mol if no external heat/energy is added.
+Since each mole of water requires two moles of electrons, and given that the Faraday constant F represents the charge of a mole of electrons (96485 C/mol), it follows that the minimum voltage necessary for electrolysis is about 1.23 V.[29] If electrolysis is carried out at high temperature, this voltage reduces. This effectively allows the electrolyser to operate at more than 100% electrical efficiency. In electrochemical systems this means that heat must be supplied to the reactor to sustain the reaction. In this way thermal energy can be used for part of the electrolysis energy requirement.[30] In a similar way the required voltage can be reduced (below 1 V) if fuels (such as carbon, alcohol, biomass) are reacted with water (PEM based electrolyzer in low temperature) or oxygen ions (solid oxide electrolyte based electrolyzer in high temperature). This results in some of the fuel's energy being used to "assist" the electrolysis process and can reduce the overall cost of hydrogen produced.[31]
+However, observing the entropy component (and other losses), voltages over 1.48 V are required for the reaction to proceed at practical current densities (the thermoneutral voltage).
+In the case of water electrolysis, Gibbs free energy represents the minimum work necessary for the reaction to proceed, and the reaction enthalpy is the amount of energy (both work and heat) that has to be provided so the reaction products are at the same temperature as the reactant (i.e. standard temperature for the values given above). Potentially, an electrolyser operating at 1.48 V would be 100% efficient.[citation needed]
+See also[edit]
+Electrochemistry
+Electrolysis
+Hydrogen production
+Noryl
+Gas cracker
+Photocatalytic water splitting
+Water purification
+Timeline of hydrogen technologies
+Electrochemical cell
+References[edit]
+^ Levie, R. de (October 1999). "The electrolysis of water". Journal of Electroanalytical Chemistry. 476 (1): 9293. doi:10.1016/S0022-0728(99)00365-4. Retrieved 30 December 2009.
+^ Lachinov Dmitry Aleksandrovich at Great Cyrill and Methodius Encyclopedia (Russian)
+^ Zumdahl, Steven S.; Zumdahl, Susan A. (2013-01-01). Chemistry (9th ed.). Cengage Learning. p.866. ISBN978-1-13-361109-7.
+^ Carmo, M; Fritz D; Mergel J; Stolten D (2013). "A comprehensive review on PEM water electrolysis". Journal of Hydrogen Energy. 38 (12): 4901. doi:10.1016/j.ijhydene.2013.01.151.
+^ "Hydrogen Basics Production". Florida Solar Energy Center. 2007. Retrieved 5 February 2008.
+^ standard electrode potential (data page)
+^ Light, Truman S.; Licht, Stuart; Bevilacqua, Anthony C.; Morash, Kenneth R. (2005-01-01). "The Fundamental Conductivity and Resistivity of Water". Electrochemical and Solid-State Letters. 8 (1): E16E19. doi:10.1149/1.1836121. ISSN1099-0062.
+^ Pauling, Linus (1970) General Chemistry, Section 15-2. San Francisco.
+^ Badwal, SPS; Giddey S; Munnings C (2012). "Hydrogen production via solid electrolytic routes". WIRES Energy and Environment. 2 (5): 473. doi:10.1002/wene.50.
+^ 2001-High pressure electrolysis  The key technology for efficient H.2[dead link]
+^ Ghosh, P.C; Emonts, B; Janen, H; Mergel, J; Stolten, D (2003). "Ten years of operational experience with a hydrogen-based renewable energy supply system" (PDF). Solar Energy. 75 (6): 469. doi:10.1016/j.solener.2003.09.006. Archived from the original on 27 March 2009. CS1 maint: Unfit url (link)
+^ "High temperature electrolysis using SOEC". Hi2h2. Retrieved 5 May 2016.
+^ "WELTEMP-Water electrolysis at elevated temperatures". Weltemp.eu. 31 December 2010. Retrieved 5 May 2016.
+^ "A low-cost water splitter that runs on an ordinary AAA battery". KurzweilAI. 22 August 2014.
+^ a b Gong, Ming; Zhou, Wu; Tsai, Mon-Che; Zhou, Jigang; Guan, Mingyun; Lin, Meng-Chang; Zhang, Bo; Hu, Yongfeng; Wang, Di-Yan; Yang, Jiang; Pennycook, Stephen J.; Hwang, Bing-Joe; Dai, Hongjie (2014). "Nanoscale nickel oxide/nickel heterostructures for active hydrogen evolution electrocatalysis". Nature Communications. 5: 4695. doi:10.1038/ncomms5695. PMID25146255.
+^ "Making Space Safer with Electrolysis". ASME. Retrieved 26 May 2012.
+^ "Breathing Easy on the Space Station". NASA Science. Retrieved 26 May 2012.
+^ "Solar Hydrogen Fuel Cell Water Heater (Educational Stand)". Scribd.
+^ a b Luca Bertuccioli; et al. (7 February 2014). "Development of water electrolysis in the European Union" (PDF). Client Fuel Cells and Hydrogen Joint Undertaking.
+^ Stensvold, Tore (26 January 2016). Coca-Cola-oppskrift kan gjre hydrogen til nytt norsk industrieventyr. Teknisk Ukeblad, .
+^ Werner Zittel; Reinhold Wurster (8 July 1996). "Chapter 3: Production of Hydrogen. Part 4: Production from electricity by means of electrolysis". HyWeb: Knowledge  Hydrogen in the Energy Sector. Ludwig-Blkow-Systemtechnik GmbH. Archived from the original on 7 February 2007.
+^ Bjrnar Kruse; Sondre Grinna; Cato Buch (13 February 2002). "HydrogenStatus and Possibilities" (PDF). The Bellona Foundation. p.20. Archived from the original on 16 September 2013. CS1 maint: Unfit url (link)
+^ 1.23 V is the standard potential; in non-standard conditions it may be different, in particular it decreases with temperature.
+^ Kibsgaard, Jakob; Jaramillo, Thomas F.; Besenbacher, Flemming (2014). "Building an appropriate active-site motif into a hydrogen-evolution catalyst with thiomolybdate [Mo3S13]2 clusters". Nature Chemistry. 6 (3): 248253. doi:10.1038/nchem.1853. PMID24557141.
+^ Fei, Huilong; Ye, Ruquan; Ye, Gonglan; Gong, Yongji; Peng, Zhiwei; Fan, Xiujun; Samuel, Errol L. G.; Ajayan, Pulickel M.; Tour, James M. (2014). "Boron- and Nitrogen-Doped Graphene Quantum Dots/Graphene Hybrid Nanoplatelets as Efficient Electrocatalysts for Oxygen Reduction". ACS Nano. 8 (10): 141001091116007. doi:10.1021/nn504637y.
+^ Luo, J.; Im, J.-H.; Mayer, M. T.; Schreier, M.; Nazeeruddin, M. K.; Park, N.-G.; Tilley, S. D.; Fan, H. J.; Gratzel, M. (2014). "Water photolysis at 12.3% efficiency via perovskite photovoltaics and Earth-abundant catalysts". Science. 345 (6204): 15931596. doi:10.1126/science.1258307. PMID25258076.
+^ Shwartz, Mark (22 August 2014). "Stanford scientists develop water splitter that runs on ordinary AAA battery". News.stanford.edu. Retrieved 5 May 2016.
+^ "Scientists develop a water splitter that runs on an ordinary AAA battery". Technology.org. 25 August 2014. Retrieved 5 May 2016.
+^ Hyman D. Gesser (2002). Applied Chemistry. Springer. pp.16. ISBN978-0-306-46700-4. Retrieved 18 December 2011.
+^ Badwal, Sukhvinder P.S.; Giddey, Sarbjit; Munnings, Christopher (September 2013). "Hydrogen production via solid electrolytic routes". Wiley Interdisciplinary Reviews: Energy and Environment. 2 (5): 473487. doi:10.1002/wene.50.
+^ Badwal, Sukhvinder P. S.; Giddey, Sarbjit S.; Munnings, Christopher; Bhatt, Anand I.; Hollenkamp, Anthony F. (24 September 2014). "Emerging electrochemical energy conversion and storage technologies (open access)". Frontiers in Chemistry. 2. doi:10.3389/fchem.2014.00079.
+External links[edit]
+Wikimedia Commons has media related to Water electrolysis.
+"Electrolysis of Water". Experiments on Electrochemistry. Retrieved 20 November 2005.
+"Electrolysis of Water". Do Chem 044. Retrieved 20 November 2005.
+EERE 2008  100 kgH2/day Trade Study
+NREL 2006  Electrolysis technical report
+v
+t
+e
+Articles related to electrolysis / Standard electrode potential
+Electrolytic processes
+Betts electrolytic process
+Castner process
+CastnerKellner process
+Chloralkali process
+Downs cell
+Electrolysis of water
+Electrowinning
+HallHroult process
+Hofmann voltameter
+Kolbe electrolysis
+Materials produced by electrolysis
+Aluminium (extraction)
+Calcium metal
+Chlorine
+Copper
+Electrolysed water
+Fluorine
+Hydrogen
+Lithium metal
+Magnesium metal
+Potassium metal
+Sodium metal
+Sodium hydroxide
+Zinc
+See also
+Electrochemistry
+Gas cracker
+Standard electrode potential (data page)
+Electrology
+Saved in parser cache with key enwiki:pcache:idhash:3206764-0!*!0!!en!4!* and timestamp 20161112081519 and revision id 748872978
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Electrolysis_of_water&oldid=748872978"
+Categories: ElectrolysisHydrogen productionIndustrial gasesWater chemistryHidden categories: Articles with Russian-language external linksAll articles with dead external linksArticles with dead external links from May 2016CS1 maint: Unfit urlUse dmy dates from May 2016All articles with unsourced statementsArticles with unsourced statements from January 2016Commons category with local link same as on Wikidata

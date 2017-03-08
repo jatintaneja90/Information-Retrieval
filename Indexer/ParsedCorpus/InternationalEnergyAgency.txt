@@ -1,0 +1,464 @@
+InternationalEnergyAgency
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+International Energy Agency (IEA)
+IEA member states.
+Secretariat
+Paris, France
+Membership
+29 member states
+Leaders
+
+Executive Director
+Fatih Birol
+
+Deputy Executive Director
+Paul Simons
+Establishment
+1974
+Website
+www.iea.org
+The International Energy Agency (IEA) (French: Agence internationale de l'nergie) is a Paris-based autonomous intergovernmental organization established in the framework of the Organisation for Economic Co-operation and Development (OECD) in 1974 in the wake of the 1973 oil crisis. The IEA was initially dedicated to responding to physical disruptions in the supply of oil, as well as serving as an information source on statistics about the international oil market and other energy sectors.
+The IEA acts as a policy adviser to its member states, but also works with non-member countries, especially China, India, and Russia. The Agency's mandate has broadened to focus on the "3Es" of effectual energy policy: energy security, economic development, and environmental protection.[1] The latter has focused on mitigating climate change.[2] The IEA has a broad role in promoting alternate energy sources (including renewable energy), rational energy policies, and multinational energy technology co-operation.
+IEA member countries are required to maintain total oil stock levels equivalent to at least 90 days of the previous year's net imports. At the end of July 2009, IEA member countries held a combined stockpile of almost 4.3 billion barrels (680,000,000 m3) of oil.
+On 1 September 2015, Fatih Birol took office as the new Executive Director, succeeding in this position former Dutch Minister of Economic Affairs, Maria van der Hoeven.[3]
+Contents
+1 History
+2 Member states
+3 Critics
+4 IEA Bioenergy
+4.1 IEA Bioenergy Tasks
+4.1.1 Promotion of renewable energy - Photovoltaic Power Systems Programme
+5 Development and promotion of energy storage technologies
+6 Carbon capture
+7 Energy efficiency
+8 See also
+9 References
+10 Bibliography
+11 External links
+History[edit]
+The IEA was established to meet the industrial countries' energy organization needs in the wake of the 19731974 oil crisis. Although the OECD had structures such as the Council, the Executive Committee, the Oil Committee, and the Energy Committee that could potentially deal with energy questions, it could not respond effectively to the crisis. The OECD had adopted the Oil Apportionment Decision [C(72)201(Final)], laying out procedures to be carried out in the event of an oil supply emergency in Europe, but these procedures were not implemented during the crisis. In addition, the OECD had adopted recommendations on oil stockpiling in Europe, but due to their limited scope, these measures could have only a limited role in an oil supply emergency.[4]
+Establishment of the new organization was proposed by United States Secretary of State Henry Kissinger in his address to the Pilgrims Society in London on 12 December 1973. Also in December 1973, at the summit of the European Communities in Copenhagen, Danish Prime Minister Anker Jrgensen, who chaired the summit, declared that the summit found it "useful to study with other oil-consuming countries within the framework of the OECD ways of dealing with the common short and long term energy problems of consumer countries."
+At the Washington Energy Conference on 1113 February 1974, the ministers of thirteen principal oil consumer countries stated "the need for a comprehensive action program to deal with all facets of the world energy situation by cooperative measures. In so doing they will build on the work of the OECD."[5]
+While creating a new energy organization, it was decided to utilize the framework of the OECD, as it had experience in dealing with oil and other energy questions, had expertise in economic analysis and statistics, had established staff, physical facilities, legal status and privileges and immunities, and was the principal organization of the industrial countries. However, the OECD has a rule of unanimity, and not all member states were ready to participate. Therefore, instead of an integrated approach, an autonomous approach was chosen.[6]
+The IEA was created on 18 November 1974 by the Agreement on an International Energy Program (I.E.P. Agreement).[7]
+During its history, the IEA has intervened in oil markets three times by releasing oil stocks  in 1991 during the Gulf War, in 2005 by releasing 2 million barrels per day (32010^3m3/d) for a month after Hurricane Katrina affected US production, and most recently in 2011 to offset continued disruption to oil supplies as a result of the 2011 Libyan civil war.[8]
+In April 2001, the IEA, in collaboration with five other international organisations (APEC, Eurostat, OLADE, OPEC, UNSD) launched the Joint Oil Data Exercise, which in 2005 became the Joint Organisations Data Initiative (JODI).
+In June 2014 in its World Energy Outlook report, the IAE warned US$48 trillion in investment and credible long term policy planning would be required between 2014 and 2035 to secure sufficient energy supplies for that period. "The reliability and sustainability of our future energy system depends on investment. But this won't materialize unless there are credible policy frameworks in place as well as stable access to long-term sources of finance. Neither of these conditions should be taken for granted," van der Hoeven said in a statement accompanying the report.[9]
+Member states[edit]
+Only the OECD member states can become members of the IEA. Except for Chile, Iceland, Israel, Mexico, and Slovenia, all OECD member states are members of the IEA. In 2014, Estonia joined the IEA and became its 29th member.[10]
+Australia
+Austria
+Belgium
+Canada
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Japan
+South Korea
+Luxembourg
+Netherlands
+New Zealand
+Norway
+Poland
+Portugal
+Slovakia
+Spain
+Sweden
+Switzerland
+Turkey
+United Kingdom
+United States
+Critics[edit]
+Ahead of the launch of the 2009 World Energy Outlook, the British daily newspaper The Guardian, referring to an unidentified senior IEA official, alleged that the agency was deliberately downplaying the risk of peak oil under pressures from the USA. According to a second unidentified former senior IEA official it was "imperative not to anger the Americans" and that the world has already entered the "peak oil zone".[11]
+The Guardian also referred to a team of scientists from Uppsala University in Sweden who studied the 2008 World Energy Outlook and concluded the forecasts of the IEA were unattainable. According to their peer-reviewed report, oil production in 2030 would not exceed 75 million barrels per day (11.910^6m3/d) while the IEA forecasts a production of 105 million barrels per day (16.710^6m3/d). The lead author of the report, Dr. Kjell Aleklett, has claimed that IEA's reports are "political documents".[12]
+The anticorruption NGO Global Witness wrote in its report Heads in the Sand that "Global Witness' analysis demonstrates that the Agency continues to retain an overly-optimistic, and therefore misleading, view about potential future oil production." According to Global Witness, "the Agency's over-confidence, despite credible data, external analysis and underlying fundamentals all strongly suggesting a more precautionary approach, has had a disastrous global impact."[13]
+In the past, the IEA has been criticized by environmental groups for underplaying the role of renewable energy technologies in favor of nuclear and fossil-fuels.[14] In 2009, Guy Pearse stated that the IEA has consistently underestimated the potential for renewable energy alternatives.[15]
+The Energy Watch Group (EWG), a coalition of scientists and politicians which analyses official energy industry predictions, claims that the IEA has had an institutional bias towards traditional energy sources and has been using "misleading data" to undermine the case for renewable energy, such as wind and solar. A 2008 EWG report compares IEA projections about the growth of wind power capacity and finds that it has consistently underestimated the amount of energy the wind power industry can deliver.[16]
+For example, in 1998, the IEA predicted global wind electricity generation would total 47.4 GW by 2020, but EWG's report states that this level was reached by the end of 2004.[17] The report also said that the IEA has not learned the lesson of previous underestimates, and last year net additions of wind power globally were four times greater than the average IEA estimate from its 1995-2004 predictions.[16]
+Amid discontent from across the renewables sector at the IEA's performance as a global energy watchdog, the International Renewable Energy Agency was formed on January 26, 2009. The aim is to have the agency fully operational by 2010 with an initial annual budget of 25m.[18]
+IEA Bioenergy[edit]
+IEA Bioenergy was set up in 1978 by the International Energy Agency (IEA) with the aim of improving cooperation and information exchange between countries that have national programmes in bioenergy research, development and deployment.
+The International Energy Agency acts as energy policy advisor to 28 Member Countries plus the European Commission, in their effort to ensurereliable, affordable, and clean energy for their citizens. Founded during the oil crisis of 1973-74, the IEAs initial role was to co-ordinate measures in times of oil supply emergencies. As energy markets have changed, so has the IEA. Its mandate has broadened to incorporate the Three Es of balanced energy policy making: energy security, economic development, and environmental protection. Current work focuses on climate change policies, market reform, energy technology collaboration and outreach to the rest of the world, especially major producers and consumers of energy like China, India, Russia and the OPEC countries.
+Activities are set up under Implementing Agreements. These are independent bodies operating in a framework provided by the IEA. There are 42 currently active Implementing Agreements, one of which is IEA Bioenergy.
+Twenty two countries plus the European Commission participate in IEA Bioenergy: Australia, Austria, Belgium, Brazil, Canada, Croatia, Denmark, European Commission, Finland, France, Germany, Ireland, Italy, Japan, Korea, Netherlands, New Zealand, Norway, South Africa, Sweden, Switzerland, United Kingdom, and USA.
+IEA Bioenergy Tasks[edit]
+The work of IEA Bioenergy is structured in a number of Tasks, which have well defined objectives, budgets, and time frames. The collaboration which earlier was focused on Research, Development and Demonstration is now increasingly also emphasising Deployment on a large-scale and worldwide. Each participating country pays a modest financial contribution toward administrative requirements, shares the costs of managing the Tasks and provides in-kind contributions to fund participation of national personnel in the Tasks. The scope of the work undertaken within IEA Bioenergy is shown in the graphic.
+Each Task is led by one of the participating countries (Operating Agent) with technical effort co-ordinated by a Task Leader. The work is directed by the Executive Committee. For the period 2013-2015, there are 10 Tasks. All of the Tasks have a common duration of three years.
+Current Tasks:
+Task 32 Biomass Combustion and Co-firing
+Task 33 Thermal Gasification of Biomass
+Task 34 Pyrolysis of Biomass
+Task 36 Integrating Energy Recovery into Solid Waste Management
+Task 37 Energy from Biogas
+Task 38 Climate Change Effects of Biomass and Bioenergy Systems
+Task 39 Commercialising Conventional and Advanced Liquid Biofuels from Biomass
+Task 40 Sustainable International Bioenergy Trade: Securing Supply and Demand
+Task 42 Biorefining Sustainable Processing of Biomass into a Spectrum of Marketable Biobased Products and Bioenergy
+Task 43 Biomass Feedstocks for Energy Markets
+Promotion of renewable energy - Photovoltaic Power Systems Programme[edit]
+The IEA Photovoltaic Power Systems Programme (PVPS) is one of the collaborative R&D Agreements established within the IEA and, since its establishment in 1993, the PVPS participants have been conducting a variety of joint projects in the application of photovoltaic conversion of solar energy into electricity.
+In 2011, IEA chief economist Fatih Birol said the current US$409 billion equivalent of fossil fuel subsidies are encouraging a wasteful use of energy, and that the cuts in subsidies is the biggest policy item that would help renewable energies get more market share and reduce CO2 emissions.[19]
+In November 2011, an IEA report entitled Deploying Renewables 2011 said "renewable energy technology is becoming increasingly cost competitive and growth rates are in line to meet levels required of a sustainable energy future". The report also said "subsidies in green energy technologies that were not yet competitive are justified in order to give an incentive to investing into technologies with clear environmental and energy security benefits". The renewable electricity sector has "grown rapidly in the past five years and now provides nearly 20 percent of the world's power generation", the IEA said.[14] The IEA's report disagreed with claims that renewable energy technologies are only viable through costly subsidies and not able to produce energy reliably to meet demand. "A portfolio of renewable energy technologies is becoming cost-competitive in an increasingly broad range of circumstances, in some cases providing investment opportunities without the need for specific economic support," the IEA said, and added that "cost reductions in critical technologies, such as wind and solar, are set to continue."[14]
+In 2011, the International Energy Agency said that:
+the development of affordable, inexhaustible and clean solar energy technologies will have huge longer-term benefits. It will increase countries energy security through reliance on an indigenous, inexhaustible and mostly import-independent resource, enhance sustainability, reduce pollution, lower the costs of mitigating climate change, and keep fossil fuel prices lower than otherwise. These advantages are global. Hence the additional costs of the incentives for early deployment should be considered learning investments; they must be wisely spent and need to be widely shared".[20]
+For the first time in 2012, an annual medium-term report which analyses the renewable energy sector will be published by the IEA. This publication on renewable energy - "which is now the fastest growing sector of the energy mix and accounts for almost a fifth of all electricity produced worldwide - will join annual medium-term reports on oil, gas and coal, which the IEA already produces". With this report, "renewable energy takes its rightful seat at the table alongside the other major energy sources".[21]
+IEA-PVPS members
+As of 2015, there are 28 members, including Australia, Austria, Belgium, Canada, China, Denmark, France, Germany, Israel, Italy, Japan, Korea, Malaysia, Mexico, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, Thailand, Turkey, United States, as well as EPIA, European Union, International Copper Association, SEIA and SEPA.[22]
+Development and promotion of energy storage technologies[edit]
+The IEA's Energy Conservation through Energy Storage (ECES) Programme[23][24] has completed 20 developmental annexes covering seasonal thermal energy storage as sensible heat (or cold), as well as storage of latent heat and electrical energy.[25] Six other annexes are on-going[26] and three are in planning.[27]
+The ECES programme has held triennial global energy conferences since 1981. The conferences originally focused exclusively on STES, but now that those technologies are mature and other kinds of energy storage technology are now also included. Since 1985 each conference has had "stock" (for storage) at the end of its name; e.g. Ecostock, Thermastock.[28] They are held at various locations around the world. Most recent was Innostock 2012 (the 12th International Conference on Thermal Energy Storage) in Lleida, Spain.[29] Greenstock 2015 will be held in Beijing.[30]
+Carbon capture[edit]
+IEA promotes reduction of CO2 emissions for both conventional fossil-fuel CCS and for bioenergy with CCS (BECCS) by working with member and partner nations on development of cost effective and efficient international and national energy policies including carbon capture and storage (CCS), trading mechanisms and clean low-carbon technologies. The 2012 IEA report entitled "A Policy Strategy for Carbon Capture and Storage" argues for comprehensive policy mechanisms that include setting a market price on CO2 emissions as key to reduction of CO2 emissions. "[I]n contrast to renewable energy or applications of energy efficiency, CCS generates no revenue, nor other market benefits, so long as there is no price on CO2 emissions. It is both costly to install and, once in place, has increased operating costs. Effective, well-designed policy support is essential in overcoming these barriers and the subsequent deployment of CCS technology."[31]
+Energy efficiency[edit]
+Main article: International Partnership for Energy Efficiency Cooperation
+At the Heiligendamm Summit in June 2007, the G8 acknowledged an EU proposal for an international initiative on energy efficiency tabled in March 2007, and agreed to explore, together with the International Energy Agency, the most effective means to promote energy efficiency internationally. A year later, on 8 June 2008, the G8 countries, China, India, South Korea and the European Community decided to establish the International Partnership for Energy Efficiency Cooperation, at the Energy Ministerial meeting hosted by Japan in the frame of the 2008 G8 Presidency, in Aomori.[32]
+See also[edit]
+Energy portal
+Renewable Energy portal
+Sustainable development portal
+Air Infiltration and Ventilation Centre
+Economics
+IEA Bioenergy
+IEA Solar Heating & Cooling
+IEA-ECBCS Heat Pumping and Reversible Air Conditioning
+International Atomic Energy Agency
+International Partnership for Energy Efficiency Cooperation
+International Renewable Energy Agency
+Nuclear Energy Agency
+One Watt Initiative
+Organization of the Petroleum Exporting Countries
+Renewable Energy Policy Network (REN21)
+SolarPACES
+References[edit]
+^ "IEA Energy Scenarios: Change We Have to Believe In". Allianz Knowledge. 2008-06-23. Retrieved 2008-07-03.
+^ "Environment". OECD/IEA. Retrieved 2007-12-23.
+^ "Fatih Birol ushers in new era for IEATakes office as Executive Director of global energy authority". IEA. 1 September 2015.
+^ Scott (1994), pp.3436
+^ Scott (1994), pp.4345
+^ Scott (1994), pp.4142
+^ Scott (1994), p.20
+^ McManus, Bryan (2011-06-23). "Libya unrest forces IEA oil draw down". Agence France-Presse. Retrieved 2011-06-23.
+^ "IEA estimates $48tn investments till 2035 to meet global energy demands". Bloomberg News. Retrieved 4 June 2014.
+^ International Energy Agency membership list
+^ Terry Macalister (2009-11-09). "Key oil figures were distorted by US pressure, says whistleblower". The Guardian. Retrieved 2010-01-23.
+^ Terry Macalister (2009-11-12). "Oil: future world shortages are being drastically underplayed, say experts". The Guardian. Retrieved 2010-01-23.
+^ "Heads in the Sand: Governments Ignore the Oil Supply Crunch and Threaten the Climate" (PDF). Global Witness. October 2009: 4547. Retrieved 2011-02-19.
+^ a b c Henning Gloystein (2011-11-23). "Renewable energy becoming cost competitive, IEA says". Reuters.
+^ Guy Pearse (2009). "Quarry Vision", Quarterly Essay, Issue 33, p. 93.
+^ a b IEA accused of "deliberately" undermining global renewables industry
+^ Wind Power in Context  A clean Revolution in the Energy Sector p. 10.
+^ International Renewable Energy Agency launches today
+^ "Renewable Energy Being Held Back by Fossil Fuel Subsidies - IEA". Oilprice.com. 1 November 2011.
+^ "Solar Energy Perspectives: Executive Summary" (PDF). International Energy Agency. 2011. Archived from the original on 2011-12-03.
+^ The International Energy Agency (2012-02-23). "IEA recognizes ascent of renewable energy market with new report".
+^ http://www.iea-pvps.org "WHO WE ARE"
+^ IEA ECES Programme (2009). "Homepage".
+^ Paksoy, S. (2012-09-18). "International Energy Agency Energy Conservation through Energy Storage Programme since 1978" (PDF). IEA ECES.
+^ IEA-ECES website. Annexes: Completed Annexes
+^ IEA-ECES website. Annexes: On-going Annexes
+^ IEA-ECES website. Annexes: Planned Annexes
+^ Nordell, Bo; Gehlin, S. (2009), 30 years of thermal energy storage  a review of the IEA ECES stock conferences (PDF), IEA ECES
+^ IEA ECES Programme (2012). "Innostock 2012".
+^ IEA ECES Programme (2013). "2015 --13th ECES Conference Introduction".
+^ International Energy Agency (IEA) (2012). A Policy Strategy for Carbon Capture and Storage (PDF) (Report). Retrieved 2012-07-28.
+^ Rapid - Press Releases - EUROPA
+Bibliography[edit]
+Scott, Richard (1994). History of the IEA: The First 20 Years (PDF). Volume I: Origins and Structure. OECD/IEA. ISBN92-64-14059-X. Archived from the original (PDF) on 2007-04-15.
+External links[edit]
+Wikimedia Commons has media related to International Energy Agency.
+International Energy Agency
+History and decision establishing an International Energy Agency
+World Energy Outlook
+IEA's Database of Energy Efficiency Policies and Measures
+IEA's Database of Climate Change Policies and Measures
+IEA Energy in Buildings and Communities Programme (EBC, formerly ECBCS)
+IEA Wind
+v
+t
+e
+Petroleum industry
+Petroleum
+Primary energy
+Benchmarks
+Argus Sour
+Bonny Light
+Brent
+Dubai
+Indonesian
+Isthmus-34 Light
+Japan Cocktail
+OPEC Reference Basket
+Tapis
+Urals
+Western Canadian Select
+West Texas Intermediate
+Data
+Natural gas
+Consumption
+Production
+Reserves
+Imports
+Exports
+Price
+Petroleum
+Consumption
+Production
+Reserves
+Imports
+Exports
+Price(of gasoline and diesel)
+Exploration
+Core sampling
+Geophysics
+Integrated asset modelling
+Petroleum engineering
+Reservoir simulation
+Seismic to simulation
+Petroleum geology
+Petrophysics
+Reflection seismology(Seismic inversion)
+Seismic source
+Drilling
+Blowout
+Completion(Squeeze job)
+Differential sticking
+Directional drilling(Geosteering)
+Drilling engineering
+Drilling fluid(invasion)
+Drill stem test
+Lost circulation
+Measurement
+Tracers
+Underbalanced drilling
+Well logging
+Production
+Petroleum fiscal regime
+Concessions
+Production sharing agreements
+Artificial lift
+Pumpjack
+Submersible pump (ESP)
+Gas lift
+Downstream
+Enhanced oil recovery (EOR)
+Steam injection
+Gas reinjection
+Midstream
+Petroleum product
+Pipeline transport
+Refining
+Upstream
+Water injection
+Well intervention
+XT
+History
+1967 Oil Embargo
+1973 oil crisis
+1979 energy crisis
+1980s oil glut
+1990 oil price shock
+2000s energy crisis
+2010s oil glut
+Founders
+History of the petroleum industry
+Nationalization
+OPEC
+Seven Sisters
+Standard Oil
+Oil market timelines
+Provinces
+and fields
+List of natural gas fields
+List of oil fields
+East Midlands Oil Province
+East Texas
+Gulf of Mexico
+Niger Delta
+North Sea
+Persian Gulf
+Prudhoe Bay Oil Field
+Russia
+Venezuela
+Western Canadian Sedimentary Basin
+Other topics
+Acronyms
+Peak oil
+mitigation
+timing
+People
+Petrocurrency
+Petrodollar recycling
+Shale gas
+Swing producer
+Unconventional oil
+heavy crude
+oil sands
+oil shale
+Companies and organisations
+Major petroleum
+companies
+Supermajors
+BP
+Chevron
+ConocoPhillips
+ExxonMobil
+Royal Dutch Shell
+Total
+National oil
+companies
+ADNOC (UAE)
+CNOOC (China)
+CNPC (China)
+Ecopetrol (Colombia)
+Gazprom (Russia)
+Iraq National Oil Company
+Indian Oil Corporation
+Kuwait Petroleum Corporation
+Lotos (Poland)
+Nigerian National Petroleum Corporation
+NIOC (Iran)
+NISOC (Iran)
+OGDCL (Pakistan)
+ONGC (India)
+PDVSA (Venezuela)
+PKN Orlen (Poland)
+Pemex (Mexico)
+Pertamina (Indonesia)
+Petrobras (Brazil)
+PetroChina
+Petronas (Malaysia)
+Petrovietnam
+PTT (Thailand)
+Qatar Petroleum
+Rosneft (Russia)
+Saudi Aramco (Saudi Arabia)
+Sinopec (China)
+SOCAR (Azerbaijan)
+Sonangol (Angola)
+Sonatrach (Algeria)
+Statoil (Norway)
+YPF (Argentina)
+Energy trading
+Glencore
+Gunvor
+Mercuria
+Naftiran Intertrade
+Trafigura
+Vitol
+Other
+Anadarko
+Apache
+BG Group
+Cenovus Energy
+Compaa Espaola de Petrleos
+Devon
+Eni
+Galp Energia
+Hess
+Husky Energy
+Imperial Oil
+Lukoil
+Marathon Oil
+Nippon Oil
+Occidental
+OMV
+Port Harcourt Refining Company
+Reliance Industries
+Repsol
+Suncor Energy
+Surgutneftegas
+TNK-BP
+Tullow Oil
+Tpra
+Major services
+companies
+Amec Foster Wheeler
+Baker Hughes
+Cameron
+CGG
+CH2M Hill
+Chicago Bridge & Iron Company
+China Oilfield Services
+Enbridge
+Ensco
+GE Oil & Gas
+Halliburton
+Naftiran Intertrade
+National Oilwell Varco
+Petrofac
+Saipem
+Schlumberger
+Snam
+Subsea 7
+Technip
+TransCanada
+Transocean
+Weatherford
+Wood Group
+Other
+International Association of Oil & Gas Producers
+International Energy Agency
+International Petroleum Exchange
+OPEC
+Society of Petroleum Engineers
+World Petroleum Council
+Category
+Commons
+NewPP limit report
+Parsed by mw1274
+Cached time: 20161119174128
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.396 seconds
+Real time usage: 0.510 seconds
+Preprocessor visited node count: 4193/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 151167/2097152 bytes
+Template argument size: 17426/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Lua time usage: 0.139/10.000 seconds
+Lua memory usage: 6.11 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+399.086
+1 - -total
+34.93%
+139.406
+1 - Template:Reflist
+19.21%
+76.655
+11 - Template:Cite_web
+12.49%
+49.851
+29 - Template:Flag
+11.74%
+46.833
+1 - Template:Petroleum_industry
+11.47%
+45.763
+1 - Template:Infobox_geopolitical_organization
+10.96%
+43.751
+1 - Template:Navbox_with_collapsible_groups
+7.09%
+28.295
+3 - Template:Convert
+5.82%
+23.219
+1 - Template:Commons_category
+5.55%
+22.166
+1 - Template:Lang-fr
+Saved in parser cache with key enwiki:pcache:idhash:285292-0!*!0!!en!4!* and timestamp 20161119174128 and revision id 748935391
+Retrieved from "https://en.wikipedia.org/w/index.php?title=International_Energy_Agency&oldid=748935391"
+Categories: International Energy AgencyInternational energy organizationsPetroleum politicsEnergy economicsEnergy policyOrganizations based in ParisOrganizations established in 1974Intergovernmental organizations established by treatyHidden categories: Articles containing French-language textCommons category with local link same as on Wikidata

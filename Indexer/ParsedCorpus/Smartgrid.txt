@@ -1,0 +1,972 @@
+Smartgrid
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article may be too long to read and navigate comfortably. Please consider splitting content into sub-articles, condensing it, or adding or removing subheadings. (February 2016)
+This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (February 2016) (Learn how and when to remove this template message)
+(Learn how and when to remove this template message)
+Public infrastructure
+Grand Coulee Dam
+Assets and facilities
+Airports
+Bridges
+Broadband
+Canals
+Critical infrastructure
+Dams
+Electricity
+Energy
+Hazardous waste
+Hospitals
+Irrigation schemes
+Levees
+Lighthouses
+Parks
+Ports
+Mass transit
+Public housing
+State schools
+Public spaces
+Rail
+Roads
+Sewage
+Solid waste
+Telecommunication
+Utilities
+Water supply
+Wastewater
+Concepts
+Asset management
+Appropriation
+Lindahl tax
+Build-Operate-Transfer
+Design-Build
+Earmark
+Fixed cost
+Engineering contracts
+Externality
+Government debt
+Life cycle assessment
+Maintenance
+Monopoly
+Property tax
+Public-private partnership
+Public capital
+Public finance
+Public good
+Public sector
+Renovation
+Replacement (upgrade)
+Spillover effect
+Supply chain
+Taxation
+Issues and ideas
+Air traffic control
+Brownfield
+Carbon footprint
+Containerization
+Congestion pricing
+Ecotax
+Ethanol fuel
+Fuel tax
+Groundwater
+High-speed rail
+Hybrid vehicles
+Land-use planning
+Mobile data terminal
+Pork barrel
+Rapid bus transit
+Recycling
+Renewables
+Reverse osmosis
+Smart grid
+Smart growth
+Stormwater
+Urban sprawl
+Traffic congestion
+Transit-oriented development
+Vehicle efficiency
+Waste-to-energy
+Weatherization
+Wireless technology
+Fields of study
+Architecture
+Civil
+Electrical
+Mechanical engineering
+Public economics
+Public policy
+Urban planning
+Examples
+Akashi Kaiky Bridge
+Trans-Alaska pipeline
+Autobahn
+Brazilian energy independence
+Brooklyn Bridge
+Channel Tunnel
+Chicago wastewater
+China's high-speed rail
+Curtiba rapid bus transit
+Danish wind-power
+British offshore wind-power
+Nuclear power in France
+Solar power in Germany
+Hoover Dam
+Hong Kong Int'l Airport
+Intercity-Express
+Interstate highways
+Jamnagar Refinery
+Kansai Int'l Airport
+Panama Canal
+Port of Shanghai
+San Francisco Bay Bridge
+Three Gorges Dam
+Shinkansen
+Spanish high-speed rail
+French TGV rail
+Spanish autovias and autopistas
+Transcontinental Railroad
+Power transmission in the USA
+Infrastructure portal
+v
+t
+e
+A "smart grid" is an electrical grid which includes a variety of operational and energy measures including smart meters, smart appliances, renewable energy resources, and energy efficiency resources.[1] Electronic power conditioning and control of the production and distribution of electricity are important aspects of the smart grid.[2]
+Smart grid policy is organized in Europe as Smart Grid European Technology Platform.[3] Policy in the United States is described in 42 U.S.C. ch. 152, subch. IX  17381.
+Roll-out of smart grid technology also implies a fundamental re-engineering of the electricity services industry, although typical usage of the term is focused on the technical infrastructure.[4]
+Contents
+1 Background
+1.1 Historical development of the electricity grid
+1.2 Modernization opportunities
+1.3 Definition of "smart grid"
+1.4 Early technological innovations
+2 Features of the smart grid
+2.1 Reliability
+2.2 Flexibility in network topology
+2.3 Efficiency
+2.3.1 Load adjustment/Load balancing
+2.3.2 Peak curtailment/leveling and time of use pricing
+2.4 Sustainability
+2.5 Market-enabling
+2.5.1 Demand response support
+2.5.2 Platform for advanced services
+2.5.3 Provision megabits, control power with kilobits, sell the rest
+3 Technology
+4 Research
+4.1 Major programs
+4.2 Smart grid modelling
+5 Economics
+5.1 Market outlook
+5.2 General economics developments
+5.2.1 US and UK savings estimates and concerns
+6 Oppositions and concerns
+6.1 Security
+7 Other challenges to adoption
+7.1 Power Theft / Power Loss
+8 Deployments and attempted deployments
+8.1 OpenADR Implementations
+8.1.1 China
+8.1.2 United Kingdom
+8.1.3 United States
+9 Guidelines, standards and user groups
+10 See also
+11 References
+12 Bibliography
+13 External links
+Background[edit]
+Historical development of the electricity grid[edit]
+The first alternating current power grid system was installed in 1886 in Great Barrington, Massachusetts.[5] At that time, the grid was a centralized unidirectional system of electric power transmission, electricity distribution, and demand-driven control.
+In the 20th century local grids grew over time, and were eventually interconnected for economic and reliability reasons. By the 1960s, the electric grids of developed countries had become very large, mature and highly interconnected, with thousands of 'central' generation power stations delivering power to major load centres via high capacity power lines which were then branched and divided to provide power to smaller industrial and domestic users over the entire supply area. The topology of the 1960s grid was a result of the strong economies of scale: large coal-, gas- and oil-fired power stations in the 1 GW (1000 MW) to 3 GW scale are still found to be cost-effective, due to efficiency-boosting features that can be cost effective only when the stations become very large.
+Power stations were located strategically to be close to fossil fuel reserves (either the mines or wells themselves, or else close to rail, road or port supply lines). Siting of hydro-electric dams in mountain areas also strongly influenced the structure of the emerging grid. Nuclear power plants were sited for availability of cooling water. Finally, fossil fuel-fired power stations were initially very polluting and were sited as far as economically possible from population centres once electricity distribution networks permitted it. By the late 1960s, the electricity grid reached the overwhelming majority of the population of developed countries, with only outlying regional areas remaining 'off-grid'.
+Metering of electricity consumption was necessary on a per-user basis in order to allow appropriate billing according to the (highly variable) level of consumption of different users. Because of limited data collection and processing capability during the period of growth of the grid, fixed-tariff arrangements were commonly put in place, as well as dual-tariff arrangements where night-time power was charged at a lower rate than daytime power. The motivation for dual-tariff arrangements was the lower night-time demand. Dual tariffs made possible the use of low-cost night-time electrical power in applications such as the maintaining of 'heat banks' which served to 'smooth out' the daily demand, and reduce the number of turbines that needed to be turned off overnight, thereby improving the utilisation and profitability of the generation and transmission facilities. The metering capabilities of the 1960s grid meant technological limitations on the degree to which price signals could be propagated through the system.
+Through the 1970s to the 1990s, growing demand led to increasing numbers of power stations. In some areas, supply of electricity, especially at peak times, could not keep up with this demand, resulting in poor power quality including blackouts, power cuts, and brownouts. Increasingly, electricity was depended on for industry, heating, communication, lighting, and entertainment, and consumers demanded ever higher levels of reliability.
+Towards the end of the 20th century, electricity demand patterns were established: domestic heating and air-conditioning led to daily peaks in demand that were met by an array of 'peaking power generators' that would only be turned on for short periods each day. The relatively low utilisation of these peaking generators (commonly, gas turbines were used due to their relatively lower capital cost and faster start-up times), together with the necessary redundancy in the electricity grid, resulted in high costs to the electricity companies, which were passed on in the form of increased tariffs. In the 21st century, some developing countries like China, India and Brazil were seen as pioneers of smart grid deployment.[6]
+Modernization opportunities[edit]
+Since the early 21st century, opportunities to take advantage of improvements in electronic communication technology to resolve the limitations and costs of the electrical grid have become apparent. Technological limitations on metering no longer force peak power prices to be averaged out and passed on to all consumers equally. In parallel, growing concerns over environmental damage from fossil-fired power stations has led to a desire to use large amounts of renewable energy. Dominant forms such as wind power and solar power are highly variable, and so the need for more sophisticated control systems became apparent, to facilitate the connection of sources to the otherwise highly controllable grid.[7] Power from photovoltaic cells (and to a lesser extent wind turbines) has also, significantly, called into question the imperative for large, centralised power stations. The rapidly falling costs point to a major change from the centralised grid topology to one that is highly distributed, with power being both generated and consumed right at the limits of the grid. Finally, growing concern over terrorist attack in some countries has led to calls for a more robust energy grid that is less dependent on centralised power stations that were perceived to be potential attack targets.[8]
+Definition of "smart grid"[edit]
+The first official definition of Smart Grid was provided by the Energy Independence and Security Act of 2007 (EISA-2007), which was approved by the US Congress in January 2007, and signed to law by President George W. Bush in December 2007. Title XIII of this bill provides a description, with ten characteristics, that can be considered a definition for Smart Grid, as follows:
+"It is the policy of the United States to support the modernization of the Nation's electricity transmission and distribution system to maintain a reliable and secure electricity infrastructure that can meet future demand growth and to achieve each of the following, which together characterize a Smart Grid: (1) Increased use of digital information and controls technology to improve reliability, security, and efficiency of the electric grid. (2) Dynamic optimization of grid operations and resources, with full cyber-security. (3) Deployment and integration of distributed resources and generation, including renewable resources. (4) Development and incorporation of demand response, demand-side resources, and energy-efficiency resources. (5) Deployment of `smart' technologies (real-time, automated, interactive technologies that optimize the physical operation of appliances and consumer devices) for metering, communications concerning grid operations and status, and distribution automation. (6) Integration of `smart' appliances and consumer devices. (7) Deployment and integration of advanced electricity storage and peak-shaving technologies, including plug-in electric and hybrid electric vehicles, and thermal storage air conditioning. (8) Provision to consumers of timely information and control options. (9) Development of standards for communication and interoperability of appliances and equipment connected to the electric grid, including the infrastructure serving the grid. (10) Identification and lowering of unreasonable or unnecessary barriers to adoption of smart grid technologies, practices, and services."
+A common element to most definitions is the application of digital processing and communications to the power grid, making data flow and information management central to the smart grid. Various capabilities result from the deeply integrated use of digital technology with power grids. Integration of the new grid information is one of the key issues in the design of smart grids. Electric utilities now find themselves making three classes of transformations: improvement of infrastructure, called the strong grid in China; addition of the digital layer, which is the essence of the smart grid; and business process transformation, necessary to capitalize on the investments in smart technology. Much of the work that has been going on in electric grid modernization, especially substation and distribution automation, is now included in the general concept of the smart grid.
+Early technological innovations[edit]
+Smart grid technologies emerged from earlier attempts at using electronic control, metering, and monitoring. In the 1980s, automatic meter reading was used for monitoring loads from large customers, and evolved into the Advanced Metering Infrastructure of the 1990s, whose meters could store how electricity was used at different times of the day.[9] Smart meters add continuous communications so that monitoring can be done in real time, and can be used as a gateway to demand response-aware devices and "smart sockets" in the home. Early forms of such demand side management technologies were dynamic demand aware devices that passively sensed the load on the grid by monitoring changes in the power supply frequency. Devices such as industrial and domestic air conditioners, refrigerators and heaters adjusted their duty cycle to avoid activation during times the grid was suffering a peak condition. Beginning in 2000, Italy's Telegestore Project was the first to network large numbers (27 million) of homes using smart meters connected via low bandwidth power line communication.[10] Some experiments used the term broadband over power lines (BPL), while others used wireless technologies such as mesh networking promoted for more reliable connections to disparate devices in the home as well as supporting metering of other utilities such as gas and water.[7]
+Monitoring and synchronization of wide area networks were revolutionized in the early 1990s when the Bonneville Power Administration expanded its smart grid research with prototype sensors that are capable of very rapid analysis of anomalies in electricity quality over very large geographic areas. The culmination of this work was the first operational Wide Area Measurement System (WAMS) in 2000.[11] Other countries are rapidly integrating this technology China started having a comprehensive national WAMS system when the past 5-year economic plan completed in 2012.[12]
+The earliest deployments of smart grids include the Italian system Telegestore (2005), the mesh network of Austin, Texas (since 2003), and the smart grid in Boulder, Colorado (2008). See Deployments and attempted deployments below.
+Features of the smart grid[edit]
+The smart grid represents the full suite of current and proposed responses to the challenges of electricity supply. Because of the diverse range of factors there are numerous competing taxonomies and no agreement on a universal definition. Nevertheless, one possible categorisation is given here.
+Reliability[edit]
+The smart grid will make use of technologies, such as state estimation,[13] that improve fault detection and allow self-healing of the network without the intervention of technicians. This will ensure more reliable supply of electricity, and reduced vulnerability to natural disasters or attack.
+Although multiple routes are touted as a feature of the smart grid, the old grid also featured multiple routes. Initial power lines in the grid were built using a radial model, later connectivity was guaranteed via multiple routes, referred to as a network structure. However, this created a new problem: if the current flow or related effects across the network exceed the limits of any particular network element, it could fail, and the current would be shunted to other network elements, which eventually may fail also, causing a domino effect. See power outage. A technique to prevent this is load shedding by rolling blackout or voltage reduction (brownout).[citation needed]
+The economic impact of improved grid reliability and resilience is the subject of a number of studies and can be calculated using a US DOE funded methodology for US locations using at least one calculation tool.
+Flexibility in network topology[edit]
+Next-generation transmission and distribution infrastructure will be better able to handle possible bidirection energy flows, allowing for distributed generation such as from photovoltaic panels on building roofs, but also the use of fuel cells, charging to/from the batteries of electric cars, wind turbines, pumped hydroelectric power, and other sources.
+Classic grids were designed for one-way flow of electricity, but if a local sub-network generates more power than it is consuming, the reverse flow can raise safety and reliability issues.[14] A smart grid aims to manage these situations.[7]
+Efficiency[edit]
+Numerous contributions to overall improvement of the efficiency of energy infrastructure are anticipated from the deployment of smart grid technology, in particular including demand-side management, for example turning off air conditioners during short-term spikes in electricity price, reducing the voltage when possible on distribution lines through Voltage/VAR Optimization (VVO), eliminating truck-rolls for meter reading, and reducing truck-rolls by improved outage management using data from Advanced Metering Infrastructure systems. The overall effect is less redundancy in transmission and distribution lines, and greater utilization of generators, leading to lower power prices.
+Load adjustment/Load balancing[edit]
+The total load connected to the power grid can vary significantly over time. Although the total load is the sum of many individual choices of the clients, the overall load is not a stable, slow varying, increment of the load if a popular television program starts and millions of televisions will draw current instantly. Traditionally, to respond to a rapid increase in power consumption, faster than the start-up time of a large generator, some spare generators are put on a dissipative standby mode[citation needed]. A smart grid may warn all individual television sets, or another larger customer, to reduce the load temporarily[15] (to allow time to start up a larger generator) or continuously (in the case of limited resources). Using mathematical prediction algorithms it is possible to predict how many standby generators need to be used, to reach a certain failure rate. In the traditional grid, the failure rate can only be reduced at the cost of more standby generators. In a smart grid, the load reduction by even a small portion of the clients may eliminate the problem.
+Peak curtailment/leveling and time of use pricing[edit]
+To reduce demand during the high cost peak usage periods, communications and metering technologies inform smart devices in the home and business when energy demand is high and track how much electricity is used and when it is used. It also gives utility companies the ability to reduce consumption by communicating to devices directly in order to prevent system overloads. Examples would be a utility reducing the usage of a group of electric vehicle charging stations or shifting temperature set points of air conditioners in a city.[15] To motivate them to cut back use and perform what is called peak curtailment or peak leveling, prices of electricity are increased during high demand periods, and decreased during low demand periods.[7] It is thought that consumers and businesses will tend to consume less during high demand periods if it is possible for consumers and consumer devices to be aware of the high price premium for using electricity at peak periods. This could mean making trade-offs such as cycling on/off air conditioners or running dishwashers at 9pm instead of 5pm. When businesses and consumers see a direct economic benefit of using energy at off-peak times, the theory is that they will include energy cost of operation into their consumer device and building construction decisions and hence become more energy efficient. See Time of day metering and demand response.
+According to proponents of smart grid plans,[who?] this will reduce the amount of spinning reserve that atomic utilities have to keep on stand-by, as the load curve will level itself through a combination of "invisible hand" free-market capitalism and central control of a large number of devices by power management services that pay consumers a portion of the peak power saved by turning their device off.
+Sustainability[edit]
+The improved flexibility of the smart grid permits greater penetration of highly variable renewable energy sources such as solar power and wind power, even without the addition of energy storage. Current network infrastructure is not built to allow for many distributed feed-in points, and typically even if some feed-in is allowed at the local (distribution) level, the transmission-level infrastructure cannot accommodate it. Rapid fluctuations in distributed generation, such as due to cloudy or gusty weather, present significant challenges to power engineers who need to ensure stable power levels through varying the output of the more controllable generators such as gas turbines and hydroelectric generators. Smart grid technology is a necessary condition for very large amounts of renewable electricity on the grid for this reason.
+Market-enabling[edit]
+The smart grid allows for systematic communication between suppliers (their energy price) and consumers (their willingness-to-pay), and permits both the suppliers and the consumers to be more flexible and sophisticated in their operational strategies. Only the critical loads will need to pay the peak energy prices, and consumers will be able to be more strategic in when they use energy. Generators with greater flexibility will be able to sell energy strategically for maximum profit, whereas inflexible generators such as base-load steam turbines and wind turbines will receive a varying tariff based on the level of demand and the status of the other generators currently operating. The overall effect is a signal that awards energy efficiency, and energy consumption that is sensitive to the time-varying limitations of the supply. At the domestic level, appliances with a degree of energy storage or thermal mass (such as refrigerators, heat banks, and heat pumps) will be well placed to 'play' the market and seek to minimise energy cost by adapting demand to the lower-cost energy support periods. This is an extension of the dual-tariff energy pricing mentioned above.
+Demand response support[edit]
+Demand response support allows generators and loads to interact in an automated fashion in real time, coordinating demand to flatten spikes. Eliminating the fraction of demand that occurs in these spikes eliminates the cost of adding reserve generators, cuts wear and tear and extends the life of equipment, and allows users to cut their energy bills by telling low priority devices to use energy only when it is cheapest.[16]
+Currently, power grid systems have varying degrees of communication within control systems for their high-value assets, such as in generating plants, transmission lines, substations and major energy users. In general information flows one way, from the users and the loads they control back to the utilities. The utilities attempt to meet the demand and succeed or fail to varying degrees (brownout, rolling blackout, uncontrolled blackout). The total amount of power demand by the users can have a very wide probability distribution which requires spare generating plants in standby mode to respond to the rapidly changing power usage. This one-way flow of information is expensive; the last 10% of generating capacity may be required as little as 1% of the time, and brownouts and outages can be costly to consumers.
+Demand response can be provided by commercial, residential loads, and industrial loads.[17] For example, Alcoa's Warrick Operation is participating in MISO as a qualified Demand Response Resource,[18] and the Trimet Aluminium uses its smelter as a short-term mega-battery.[19]
+Latency of the data flow is a major concern, with some early smart meter architectures allowing actually as long as 24 hours delay in receiving the data, preventing any possible reaction by either supplying or demanding devices.[20]
+Platform for advanced services[edit]
+As with other industries, use of robust two-way communications, advanced sensors, and distributed computing technology will improve the efficiency, reliability and safety of power delivery and use. It also opens up the potential for entirely new services or improvements on existing ones, such as fire monitoring and alarms that can shut off power, make phone calls to emergency services, etc.
+Provision megabits, control power with kilobits, sell the rest[edit]
+The amount of data required to perform monitoring and switching one's appliances off automatically is very small compared with that already reaching even remote homes to support voice, security, Internet and TV services. Many smart grid bandwidth upgrades are paid for by over-provisioning to also support consumer services, and subsidizing the communications with energy-related services or subsidizing the energy-related services, such as higher rates during peak hours, with communications. This is particularly true where governments run both sets of services as a public monopoly. Because power and communications companies are generally separate commercial enterprises in North America and Europe, it has required considerable government and large-vendor effort to encourage various enterprises to cooperate. Some, like Cisco, see opportunity in providing devices to consumers very similar to those they have long been providing to industry.[21] Others, such as Silver Spring Networks[22] or Google,[23][24] are data integrators rather than vendors of equipment. While the AC power control standards suggest powerline networking would be the primary means of communication among smart grid and home devices, the bits may not reach the home via Broadband over Power Lines (BPL) initially but by fixed wireless.
+Technology[edit]
+The bulk of smart grid technologies are already used in other applications such as manufacturing and telecommunications and are being adapted for use in grid operations.[25]
+Integrated communications: Areas for improvement include: substation automation, demand response, distribution automation, supervisory control and data acquisition (SCADA), energy management systems, wireless mesh networks and other technologies, power-line carrier communications, and fiber-optics.[7] Integrated communications will allow for real-time control, information and data exchange to optimize system reliability, asset utilization, and security.[26]
+Sensing and measurement: core duties are evaluating congestion and grid stability, monitoring equipment health, energy theft prevention,[27] and control strategies support. Technologies include: advanced microprocessor meters (smart meter) and meter reading equipment, wide-area monitoring systems, dynamic line rating (typically based on online readings by Distributed temperature sensing combined with Real time thermal rating (RTTR) systems), electromagnetic signature measurement/analysis, time-of-use and real-time pricing tools, advanced switches and cables, backscatter radio technology, and Digital protective relays.
+Smart meters.
+Phasor measurement units. Many in the power systems engineering community believe that the Northeast blackout of 2003 could have been contained to a much smaller area if a wide area phasor measurement network had been in place.[28]
+Distributed power flow control: power flow control devices clamp onto existing transmission lines to control the flow of power within. Transmission lines enabled with such devices support greater use of renewable energy by providing more consistent, real-time control over how that energy is routed within the grid. This technology enables the grid to more effectively store intermittent energy from renewables for later use.[29]
+Smart power generation using advanced components: smart power generation is a concept of matching electricity generation with demand using multiple identical generators which can start, stop and operate efficiently at chosen load, independently of the others, making them suitable for base load and peaking power generation.[30] Matching supply and demand, called load balancing,[15] is essential for a stable and reliable supply of electricity. Short-term deviations in the balance lead to frequency variations and a prolonged mismatch results in blackouts. Operators of power transmission systems are charged with the balancing task, matching the power output of all the generators to the load of their electrical grid. The load balancing task has become much more challenging as increasingly intermittent and variable generators such as wind turbines and solar cells are added to the grid, forcing other producers to adapt their output much more frequently than has been required in the past. First two dynamic grid stability power plants utilizing the concept has been ordered by Elering and will be built by Wrtsil in Kiisa, Estonia (Kiisa Power Plant). Their purpose is to "provide dynamic generation capacity to meet sudden and unexpected drops in the electricity supply." They are scheduled to be ready during 2013 and 2014, and their total output will be 250 MW.[31]
+Power system automation enables rapid diagnosis of and precise solutions to specific grid disruptions or outages. These technologies rely on and contribute to each of the other four key areas. Three technology categories for advanced control methods are: distributed intelligent agents (control systems), analytical tools (software algorithms and high-speed computers), and operational applications (SCADA, substation automation, demand response, etc.). Using artificial intelligence programming techniques, Fujian power grid in China created a wide area protection system that is rapidly able to accurately calculate a control strategy and execute it.[32] The Voltage Stability Monitoring & Control (VSMC) software uses a sensitivity-based successive linear programming method to reliably determine the optimal control solution.[33]
+Research[edit]
+Major programs[edit]
+IntelliGrid Created by the Electric Power Research Institute (EPRI), IntelliGrid architecture provides methodology, tools, and recommendations for standards and technologies for utility use in planning, specifying, and procuring IT-based systems, such as advanced metering, distribution automation, and demand response. The architecture also provides a living laboratory for assessing devices, systems, and technology. Several utilities have applied IntelliGrid architecture including Southern California Edison, Long Island Power Authority, Salt River Project, and TXU Electric Delivery. The IntelliGrid Consortium is a public/private partnership that integrates and optimizes global research efforts, funds technology R&D, works to integrate technologies, and disseminates technical information.[34]
+Grid 2030 Grid 2030 is a joint vision statement for the U.S. electrical system developed by the electric utility industry, equipment manufacturers, information technology providers, federal and state government agencies, interest groups, universities, and national laboratories. It covers generation, transmission, distribution, storage, and end-use.[35] The National Electric Delivery Technologies Roadmap is the implementation document for the Grid 2030 vision. The Roadmap outlines the key issues and challenges for modernizing the grid and suggests paths that government and industry can take to build America's future electric delivery system.[36]
+Modern Grid Initiative (MGI) is a collaborative effort between the U.S. Department of Energy (DOE), the National Energy Technology Laboratory (NETL), utilities, consumers, researchers, and other grid stakeholders to modernize and integrate the U.S. electrical grid. DOE's Office of Electricity Delivery and Energy Reliability (OE) sponsors the initiative, which builds upon Grid 2030 and the National Electricity Delivery Technologies Roadmap and is aligned with other programs such as GridWise and GridWorks.[37]
+GridWise A DOE OE program focused on developing information technology to modernize the U.S. electrical grid. Working with the GridWise Alliance, the program invests in communications architecture and standards; simulation and analysis tools; smart technologies; test beds and demonstration projects; and new regulatory, institutional, and market frameworks. The GridWise Alliance is a consortium of public and private electricity sector stakeholders, providing a forum for idea exchanges, cooperative efforts, and meetings with policy makers at federal and state levels.[38]
+GridWise Architecture Council (GWAC) was formed by the U.S. Department of Energy to promote and enable interoperability among the many entities that interact with the nations electric power system. The GWAC members are a balanced and respected team representing the many constituencies of the electricity supply chain and users. The GWAC provides industry guidance and tools to articulate the goal of interoperability across the electric system, identify the concepts and architectures needed to make interoperability possible, and develop actionable steps to facilitate the inter operation of the systems, devices, and institutions that encompass the nation's electric system. The GridWise Architecture Council Interoperability Context Setting Framework, V 1.1 defines necessary guidelines and principles.[39]
+GridWorks A DOE OE program focused on improving the reliability of the electric system through modernizing key grid components such as cables and conductors, substations and protective systems, and power electronics. The program's focus includes coordinating efforts on high temperature superconducting systems, transmission reliability technologies, electric distribution technologies, energy storage devices, and GridWise systems.[40]
+Pacific Northwest Smart Grid Demonstration Project. - This project is a demonstration across five Pacific Northwest states-Idaho, Montana, Oregon, Washington, and Wyoming. It involves about 60,000 metered customers, and contains many key functions of the future smart grid.[41]
+Solar Cities - In Australia, the Solar Cities programme included close collaboration with energy companies to trial smart meters, peak and off-peak pricing, remote switching and related efforts. It also provided some limited funding for grid upgrades.[42]
+Smart grid modelling[edit]
+Many different concepts have been used to model intelligent power grids. They are generally studied within the framework of complex systems. In a recent brainstorming session,[43] the power grid was considered within the context of optimal control, ecology, human cognition, glassy dynamics, information theory, microphysics of clouds, and many others. Here is a selection of the types of analyses that have appeared in recent years.
+Protection systems that verify and supervise themselves
+Pelqim Spahiu and Ian R. Evans in their study introduced the concept of a substation based smart protection and hybrid Inspection Unit.[44][45]
+Kuramoto oscillators
+The Kuramoto model is a well-studied system. The power grid has been described in this context as well.[46][47] The goal is to keep the system in balance, or to maintain phase synchronization (also known as phase locking). Non-uniform oscillators also help to model different technologies, different types of power generators, patterns of consumption, and so on. The model has also been used to describe the synchronization patterns in the blinking of fireflies.[46]
+Bio-systems
+Power grids have been related to complex biological systems in many other contexts. In one study, power grids were compared to the dolphin social network.[48] These creatures streamline or intensify communication in case of an unusual situation. The intercommunications that enable them to survive are highly complex.
+Random fuse networks
+In percolation theory, random fuse networks have been studied. The current density might be too low in some areas, and too strong in others. The analysis can therefore be used to smooth out potential problems in the network. For instance, high-speed computer analysis can predict blown fuses and correct for them, or analyze patterns that might lead to a power outage.[49] It is difficult for humans to predict the long term patterns in complex networks, so fuse or diode networks are used instead.
+Neural networks
+Neural networks have been considered for power grid management as well. Electric power systems can be classified in multiple different ways: non-linear, dynamic, discrete, random, and/or stochastic. Artificial Neural Networks (ANNs) attempt to solve the most difficult of these problems, the non-linear problems.
+Demand Forecasting
+One application of ANNs is in demand forecasting. In order for grids to operate economically and reliably, demand forecasting is essential, because it is used to predict the amount of power that will be consumed by the load. This is dependent on weather conditions, type of day, random events, incidents, etc. For non-linear loads though, the load profile isn't smooth and as predictable, resulting in higher uncertainty and less accuracy using the traditional Artificial Intelligence models. Some factors that ANNs consider when developing these sort of models: classification of load profiles of different customer classes based on the consumption of electricity, increased responsiveness of demand to predict real time electricity prices as compared to conventional grids, the need to input past demand as different components, such as peak load, base load, valley load, average load, etc. instead of joining them into a single input, and lastly, the dependence of the type on specific input variables. An example of the last case would be given the type of day, whether its weekday or weekend, that wouldn't have much of an effect on Hospital grids, but it'd be a big factor in resident housing grids' load profile.[50][51][52][53][54]
+Markov processes
+As wind power continues to gain popularity, it becomes a necessary ingredient in realistic power grid studies. Off-line storage, wind variability, supply, demand, pricing, and other factors can be modelled as a mathematical game. Here the goal is to develop a winning strategy. Markov processes have been used to model and study this type of system.[55]
+Maximum entropy
+All of these methods are, in one way or another, maximum entropy methods, which is an active area of research.[56][57] This goes back to the ideas of Shannon, and many other researchers who studied communication networks. Continuing along similar lines today, modern wireless network research often considers the problem of network congestion,[58] and many algorithms are being proposed to minimize it, including game theory,[59] innovative combinations of FDMA, TDMA, and others.
+Economics[edit]
+Market outlook[edit]
+In 2009, the US smart grid industry was valued at about $21.4 billion  by 2014, it will exceed at least $42.8 billion. Given the success of the smart grids in the U.S., the world market is expected to grow at a faster rate, surging from $69.3 billion in 2009 to $171.4 billion by 2014. With the segments set to benefit the most will be smart metering hardware sellers and makers of software used to transmit and organize the massive amount of data collected by meters.[60] Recently, the World Economic Forum reported a transformational investment of more than $7.6 trillion is needed over the next 25 years (or $300 billion per year) to modernize, expand, and decentralize the electricity infrastructure with technical innovation as key to the transformation.[61]
+General economics developments[edit]
+As customers can choose their electricity suppliers, depending on their different tariff methods, the focus of transportation costs will be increased. Reduction of maintenance and replacements costs will stimulate more advanced control.
+A smart grid precisely limits electrical power down to the residential level, network small-scale distributed energy generation and storage devices, communicate information on operating status and needs, collect information on prices and grid conditions, and move the grid beyond central control to a collaborative network.[62]
+US and UK savings estimates and concerns[edit]
+One United States Department of Energy study calculated that internal modernization of US grids with smart grid capabilities would save between 46 and 117 billion dollars over the next 20 years.[63] As well as these industrial modernization benefits, smart grid features could expand energy efficiency beyond the grid into the home by coordinating low priority home devices such as water heaters so that their use of power takes advantage of the most desirable energy sources. Smart grids can also coordinate the production of power from large numbers of small power producers such as owners of rooftop solar panels an arrangement that would otherwise prove problematic for power systems operators at local utilities.
+One important question is whether consumers will act in response to market signals. The U.S. Department of Energy (DOE) as part of the American Recovery and Reinvestment Act Smart Grid Investment Grant and Demonstrations Program funded special consumer behavior studies to examine the acceptance, retention, and response of consumers subscribed to time-based utility rate programs that involve advanced metering infrastructure and customer systems such as in-home displays and programmable communicating thermostats.
+Another concern is that the cost of telecommunications to fully support smart grids may be prohibitive. A less expensive communication mechanism is proposed[citation needed] using a form of "dynamic demand management" where devices shave peaks by shifting their loads in reaction to grid frequency. Grid frequency could be used to communicate load information without the need of an additional telecommunication network, but it would not support economic bargaining or quantification of contributions.
+Although there are specific and proven smart grid technologies in use, smart grid is an aggregate term for a set of related technologies on which a specification is generally agreed, rather than a name for a specific technology. Some of the benefits of such a modernized electricity network include the ability to reduce power consumption at the consumer side during peak hours, called demand side management; enabling grid connection of distributed generation power (with photovoltaic arrays, small wind turbines, micro hydro, or even combined heat power generators in buildings); incorporating grid energy storage for distributed generation load balancing; and eliminating or containing failures such as widespread power grid cascading failures. The increased efficiency and reliability of the smart grid is expected to save consumers money and help reduce CO2 emissions.[64]
+Oppositions and concerns[edit]
+Most opposition and concerns have centered on smart meters and the items (such as remote control, remote disconnect, and variable rate pricing) enabled by them. Where opposition to smart meters is encountered, they are often marketed as "smart grid" which connects smart grid to smart meters in the eyes of opponents. Specific points of opposition or concern include:
+consumer concerns over privacy, e.g. use of usage data by law enforcement
+social concerns over "fair" availability of electricity
+concern that complex rate systems (e.g. variable rates) remove clarity and accountability, allowing the supplier to take advantage of the customer
+concern over remotely controllable "kill switch" incorporated into most smart meters
+social concerns over Enron style abuses of information leverage
+concerns over giving the government mechanisms to control the use of all power using activities
+concerns over RF emissions from smart meters
+Security[edit]
+There is also concern on the security of the infrastructure, primarily that involving communications technology. Concerns chiefly center around the communications technology at the heart of the smart grid. Designed to allow real-time contact between utilities and meters in customers' homes and businesses, there is a risk that these capabilities could be exploited for criminal or even terrorist actions.[7] One of the key capabilities of this connectivity is the ability to remotely switch off power supplies, enabling utilities to quickly and easily cease or modify supplies to customers who default on payment. This is undoubtedly a massive boon for energy providers, but also raises some significant security issues.[65] Cybercriminals have infiltrated the U.S. electric grid before on numerous occasions.[66] Aside from computer infiltration, there are also concerns that computer malware like Stuxnet, which targeted SCADA systems which are widely used in industry, could be used to attack a smart grid network.
+Electricity theft is a concern in the U.S. where the smart meters being deployed use RF technology to communicate with the electricity transmission network.[citation needed] People with knowledge of electronics can devise interference devices to cause the smart meter to report lower than actual usage.[citation needed] Similarly, the same technology can be employed to make it appear that the energy the consumer is using is being used by another customer, increasing their bill.[citation needed]
+Other challenges to adoption[edit]
+Before a utility installs an advanced metering system, or any type of smart system, it must make a business case for the investment. Some components, like the power system stabilizers (PSS)[clarification needed] installed on generators are very expensive, require complex integration in the grid's control system, are needed only during emergencies, and are only effective if other suppliers on the network have them. Without any incentive to install them, power suppliers don't.[67] Most utilities find it difficult to justify installing a communications infrastructure for a single application (e.g. meter reading). Because of this, a utility must typically identify several applications that will use the same communications infrastructure  for example, reading a meter, monitoring power quality, remote connection and disconnection of customers, enabling demand response, etc. Ideally, the communications infrastructure will not only support near-term applications, but unanticipated applications that will arise in the future. Regulatory or legislative actions can also drive utilities to implement pieces of a smart grid puzzle. Each utility has a unique set of business, regulatory, and legislative drivers that guide its investments. This means that each utility will take a different path to creating their smart grid and that different utilities will create smart grids at different adoption rates.[citation needed]
+Some features of smart grids draw opposition from industries that currently are, or hope to provide similar services. An example is competition with cable and DSL Internet providers from broadband over powerline internet access. Providers of SCADA control systems for grids have intentionally designed proprietary hardware, protocols and software so that they cannot inter-operate with other systems in order to tie its customers to the vendor.[68]
+Power Theft / Power Loss[edit]
+Various "smart grid" systems have dual functions. This includes Advanced Metering Infrastructure systems which, when used with various software can be used to detect power theft and by process of elimination, detect where equipment failures have taken place. These are in addition to their primary functions of eliminating the need for human meter reading and measuring the time-of-use of electricity.
+The worldwide power loss including theft is estimated at approximately two-hundred billion dollars annually.[69]
+Electricity theft also represents a major challenge when providing reliable electrical service in developing countries.[27]
+Deployments and attempted deployments[edit]
+Enel. The earliest, and one of the largest, example of a smart grid is the Italian system installed by Enel S.p.A. of Italy. Completed in 2005, the Telegestore project was highly unusual in the utility world because the company designed and manufactured their own meters, acted as their own system integrator, and developed their own system software. The Telegestore project is widely regarded as the first commercial scale use of smart grid technology to the home, and delivers annual savings of 500 million euro at a project cost of 2.1 billion euro.[10]
+US Dept. of Energy - ARRA Smart Grid Project: One of the largest deployment programs in the world to-date is the U.S. Dept. of Energy's Smart Grid Program funded by the American Recovery and Reinvestment Act of 2009. This program required matching funding from individual utilities. A total of over $9 billion in Public/Private funds were invested as part of this program. Technologies included Advanced Metering Infrastructure, including over 65 million Advanced "Smart" Meters, Customer Interface Systems, Distribution & Substation Automation, Volt/VAR Optimization Systems, over 1,000 Synchrophasors, Dynamic Line Rating, Cyber Security Projects, Advanced Distribution Management Systems, Energy Storage Systems, and Renewable Energy Integration Projects. This program consisted of Investment Grants (matching), Demonstration Projects, Consumer Acceptance Studies, and Workforce Education Programs. Reports from all individual utility programs as well as overall impact reports will be completed by the second quarter of 2015.
+Austin, Texas. In the US, the city of Austin, Texas has been working on building its smart grid since 2003, when its utility first replaced 1/3 of its manual meters with smart meters that communicate via a wireless mesh network. It currently manages 200,000 devices real-time (smart meters, smart thermostats, and sensors across its service area), and expects to be supporting 500,000 devices real-time in 2009 servicing 1 million consumers and 43,000 businesses.[70]
+Boulder, Colorado completed the first phase of its smart grid project in August 2008. Both systems use the smart meter as a gateway to the home automation network (HAN) that controls smart sockets and devices. Some HAN designers favor decoupling control functions from the meter, out of concern of future mismatches with new standards and technologies available from the fast moving business segment of home electronic devices.[71]
+Hydro One, in Ontario, Canada is in the midst of a large-scale Smart Grid initiative, deploying a standards-compliant communications infrastructure from Trilliant. By the end of 2010, the system will serve 1.3 million customers in the province of Ontario. The initiative won the "Best AMR Initiative in North America" award from the Utility Planning Network.[72]
+The City of Mannheim in Germany is using realtime Broadband Powerline (BPL) communications in its Model City Mannheim "MoMa" project.[73]
+Adelaide in Australia also plans to implement a localised green Smart Grid electricity network in the Tonsley Park redevelopment.[74]
+Sydney also in Australia, in partnership with the Australian Government implemented the Smart Grid, Smart City program.[75][76]
+vora. InovGrid is an innovative project in vora, Portugal that aims to equip the electricity grid with information and devices to automate grid management, improve service quality, reduce operating costs, promote energy efficiency and environmental sustainability, and increase the penetration of renewable energies and electric vehicles. It will be possible to control and manage the state of the entire electricity distribution grid at any given instant, allowing suppliers and energy services companies to use this technological platform to offer consumers information and added-value energy products and services. This project to install an intelligent energy grid places Portugal and EDP at the cutting edge of technological innovation and service provision in Europe.[77][78]
+E-Energy - In the so-called E-Energy projects several German utilities are creating first nucleolus in six independent model regions. A technology competition identified this model regions to carry out research and development activities with the main objective to create an "Internet of Energy."[79]
+Massachusetts. One of the first attempted deployments of "smart grid" technologies in the United States was rejected in 2009 by electricity regulators in the Commonwealth of Massachusetts, a US state.[80] According to an article in the Boston Globe, Northeast Utilities' Western Massachusetts Electric Co. subsidiary actually attempted to create a "smart grid" program using public subsidies that would switch low income customers from post-pay to pre-pay billing (using "smart cards") in addition to special hiked "premium" rates for electricity used above a predetermined amount.[80] This plan was rejected by regulators as it "eroded important protections for low-income customers against shutoffs".[80] According to the Boston Globe, the plan "unfairly targeted low-income customers and circumvented Massachusetts laws meant to help struggling consumers keep the lights on".[80] A spokesman for an environmental group supportive of smart grid plans and Western Massachusetts' Electric's aforementioned "smart grid" plan, in particular, stated "If used properly, smart grid technology has a lot of potential for reducing peak demand, which would allow us to shut down some of the oldest, dirtiest power plants... Its a tool."[80]
+The eEnergy Vermont consortium[81] is a US statewide initiative in Vermont, funded in part through the American Recovery and Reinvestment Act of 2009, in which all of the electric utilities in the state have rapidly adopted a variety of Smart Grid technologies, including about 90% Advanced Metering Infrastructure deployment, and are presently evaluating a variety of dynamic rate structures.
+In the Netherlands a large-scale project (>5000 connections, >20 partners) was initiated to demonstrate integrated smart grids technologies, services and business cases.[82]
+LIFE Factory Microgrid (LIFE13 ENV / ES / 000700) is a demonstrative project that is part of the LIFE+ 2013 program (European Commission), whose main objective is to demonstrate, through the implementation of a full-scale industrial smartgrid that microgrids can become one of the most suitable solutions for energy generation and management in factories that want to minimize their environmental impact.
+OpenADR Implementations[edit]
+Certain deployments utilize the OpenADR standard for load shedding and demand reduction during higher demand periods.
+China[edit]
+The smart grid market in China is estimated to be $22.3 billion with a projected growth to $61.4 billion by 2015. Honeywell is developing a demand response pilot and feasibility study for China with the State Grid Corp. of China using the OpenADR demand response standard. The State Grid Corp., the Chinese Academy of Science, and General Electric intend to work together to develop standards for Chinas smart grid rollout.[83][84]
+United Kingdom[edit]
+The OpenADR standard was demonstrated in Bracknell, England, where peak use in commercial buildings was reduced by 45 percent. As a result of the pilot, the Scottish and Southern Energy (SSE) said it would connect up to 30 commercial and industrial buildings in Thames Valley, west of London, to a demand response program.[85]
+United States[edit]
+In 2009, the US Department of Energy awarded an $11 million grant to Southern California Edison and Honeywell for a demand response program that automatically turns down energy use during peak hours for participating industrial customers.[86][87] The Department of Energy awarded an $11.4 million grant to Honeywell to implement the program using the OpenADR standard.[88]
+Hawaiian Electric Co. (HECO) is implementing a two-year pilot project to test the ability of an ADR program to respond to the intermittence of wind power. Hawaii has a goal to obtain 70 percent of its power from renewable sources by 2030. HECO will give customers incentives for reducing power consumption within 10 minutes of a notice.[89]
+Guidelines, standards and user groups[edit]
+Part of the IEEE Smart Grid Initiative,[90] IEEE 2030.2 represents an extension of the work aimed at utility storage systems for transmission and distribution networks. The IEEE P2030 group expects to deliver early 2011 an overarching set of guidelines on smart grid interfaces. The new guidelines will cover areas including batteries and supercapacitors as well as flywheels. The group has also spun out a 2030.1 effort drafting guidelines for integrating electric vehicles into the smart grid.
+IEC TC57 has created a family of international standards that can be used as part of the smart grid. These standards include IEC61850 which is an architecture for substation automation, and IEC 61970/61968  the Common Information Model (CIM). The CIM provides for common semantics to be used for turning data into information.
+OpenADR is an open-source smart grid communications standard used for demand response applications.[91] It is typically used to send information and signals to cause electrical power-using devices to be turned off during periods of higher demand.
+MultiSpeak has created a specification that supports distribution functionality of the smart grid. MultiSpeak has a robust set of integration definitions that supports nearly all of the software interfaces necessary for a distribution utility or for the distribution portion of a vertically integrated utility. MultiSpeak integration is defined using extensible markup language (XML) and web services.
+The IEEE has created a standard to support synchrophasors  C37.118.[92]
+The UCA International User Group discusses and supports real world experience of the standards used in smart grids.
+A utility task group within LonMark International deals with smart grid related issues.
+There is a growing trend towards the use of TCP/IP technology as a common communication platform for smart meter applications, so that utilities can deploy multiple communication systems, while using IP technology as a common management platform.[93][94]
+IEEE P2030 is an IEEE project developing a "Draft Guide for Smart Grid Interoperability of Energy Technology and Information Technology Operation with the Electric Power System (EPS), and End-Use Applications and Loads".[95][96]
+NIST has included ITU-T G.hn as one of the "Standards Identified for Implementation" for the Smart Grid "for which it believed there was strong stakeholder consensus".[97] G.hn is standard for high-speed communications over power lines, phone lines and coaxial cables.
+OASIS EnergyInterop' An OASIS technical committee developing XML standards for energy interoperation. Its starting point is the California OpenADR standard.
+Under the Energy Independence and Security Act of 2007 (EISA), NIST is charged with overseeing the identification and selection of hundreds of standards that will be required to implement the Smart Grid in the U.S. These standards will be referred by NIST to the Federal Energy Regulatory Commission (FERC). This work has begun, and the first standards have already been selected for inclusion in NIST's Smart Grid catalog.[98] However, some commentators have suggested that the benefits that could be realized from Smart Grid standardization could be threatened by a growing number of patents that cover Smart Grid architecture and technologies.[99] If patents that cover standardized Smart Grid elements are not revealed until technology is broadly distributed throughout the network ("locked-in"), significant disruption could occur when patent holders seek to collect unanticipated rents from large segments of the market.
+See also[edit]
+Energy portal
+Sustainable development portal
+Grid friendly
+Large-scale energy storage
+List of energy storage projects
+Net metering
+Open smart grid protocol
+Smart grids by country
+Smart villages in Asia
+Super grid
+Vehicle-to-grid (V2G)
+Virtual power plant
+Wide area synchronous grid
+References[edit]
+^ "Federal Energy Regulatory Commission Assessment of Demand Response & Advanced Metering" (PDF). United States Federal Energy Regulatory Commission. United States Federal Energy Regulatory Commission.
+^ "Federal Energy Regulatory Commission Assessment of Demand Response & Advanced Metering" (PDF).
+^ "Smart Grids European Technology Platform | www.smartgrids.eu". smartgrids.eu. 2011. Retrieved 2011-10-11.
+^ J. Torriti, Demand Side Management for the European Supergrid Energy Policy, vol. 44, pp. 199-206, 2012.
+^ "The History of Electrification: The Birth of our Power Grid". Edison Tech Center. Retrieved November 6, 2013.
+^ Mohsen Fadaee Nejad, AminMohammad Saberian and Hashim Hizam (June 3, 2013). "Application of smart power grid in developing countries". 7th International Power Engineering and Optimization Conference (PEOCO). IEEE. doi:10.1109/PEOCO.2013.6564586. CS1 maint: Uses authors parameter (link)
+^ a b c d e f Berger, Lars T.; Iniewski, Krzysztof, eds. (April 2012). Smart Grid - Applicacions, Communications and Security. John Wiley and Sons. ISBN978-1-1180-0439-5.
+^ Smart Grid Working Group (June 2003). "Challenge and Opportunity: Charting a New Energy Future, Appendix A: Working Group Reports" (PDF). Energy Future Coalition. Retrieved 2008-11-27.
+^ Federal Energy Regulatory Commission staff report (August 2006). "Assessment of Demand Response and Advanced Metering (Docket AD06-2-000)" (PDF). United States Department of Energy: 20. Retrieved 2008-11-27.
+^ a b National Energy Technology Laboratory (August 2007). "NETL Modern Grid Initiative Powering Our 21st-Century Economy" (PDF). United States Department of Energy Office of Electricity Delivery and Energy Reliability: 17. Retrieved 2008-12-06.
+^ "Gridwise History: How did GridWise start?". Pacific Northwest National Laboratory. 2007-10-30. Archived from the original on 2008-10-27. Retrieved 2008-12-03.
+^ Qixun Yang, Board Chairman, Beijing Sifang Automation Co. Ltd., China and .Bi Tianshu, Professor, North China Electric Power University, China. (2001-06-24). "WAMS Implementation in China and the Challenges for Bulk Power System Protection" (PDF). Panel Session: Developments in Power Generation and Transmission Infrastructures in China, IEEE 2007 General Meeting, Tampa, FL, USA, 2428 June 2007 Electric Power, ABB Power T&D Company, and Tennessee Valley Authority. Institute of Electrical and Electronics Engineers. Retrieved 2008-12-01. CS1 maint: Multiple names: authors list (link)
+^ Yih-Fang Huang; Werner, S.; Jing Huang; Kashyap, N.; Gupta, V., "State Estimation in Electric Power Grids: Meeting New Challenges Presented by the Requirements of the Future Grid," Signal Processing Magazine, IEEE , vol.29, no.5, pp.33,43, Sept. 2012
+^ Tomoiag, B.; Chindri, M.; Sumper, A.; Sudria-Andreu, A.; Villafafila-Robles, R. Pareto Optimal Reconfiguration of Power Distribution Systems Using a Genetic Algorithm Based on NSGA-II. Energies 2013, 6, 1439-1455.
+^ a b c N. A. Sinitsyn. S. Kundu, S. Backhaus (2013). "Safe Protocols for Generating Power Pulses with Heterogeneous Populations of Thermostatically Controlled Loads". Energy Conversion and Management. 67: 297308. arXiv:1211.0248. doi:10.1016/j.enconman.2012.11.021.
+^ Energy Future Coalition, "Challenge and Opportunity: Charting a New Energy Future," Appendix A: Working Group Reports, Report of the Smart Grid Working Group. http://web.archive.org/web/20080910051559/http://www.energyfuturecoalition.org/pubs/app_smart_grid.pdf
+^ Zhang, Xiao; Hug, G.; Kolter, Z.; Harjunkoski, I. (2015-10-01). "Industrial demand response by steel plants with spinning reserve provision". North American Power Symposium (NAPS), 2015: 16. doi:10.1109/NAPS.2015.7335115.
+^ Zhang, X.; Hug, G. (2015-02-01). "Bidding strategy in energy and spinning reserve markets for aluminum smelters' demand response". Innovative Smart Grid Technologies Conference (ISGT), 2015 IEEE Power Energy Society: 15. doi:10.1109/ISGT.2015.7131854.
+^ "Storing Power in Molten Aluminum Lakes".
+^ Why the Smart Grid Won't Have the Innovations of the Internet Any Time Soon: Cleantech News and Analysis . Earth2tech.com (2009-06-05). Retrieved on 2011-05-14.
+^ Cisco's Latest Consumer Play: The Smart Grid: Cleantech News and Analysis . Earth2tech.com Retrieved on 2011-05-14.
+^ Silver Spring Networks: The Cisco of Smart Grid?: Cleantech News and Analysis . Earth2tech.com (2008-05-01). Retrieved on 2011-05-14.
+^ Utility Perspective: Why Partner With Google PowerMeter?: Cleantech News and Analysis . Earth2tech.com (2009-05-20). Retrieved on 2011-05-14.
+^ E-Commerce News: Deals: Utility Companies Plug In to Google PowerMeter. Ecommercetimes.com. Retrieved on 2011-05-14.
+^ U.S. Department of Energy, National Energy Technology Laboratory, Modern Grid Initiative, http://www.netl.doe.gov/moderngrid/opportunity/vision_technologies.html Archived July 11, 2007, at the Wayback Machine.
+^ F.R. Yu, P. Zhang, W. Xiao, and P. Choudhury, "Communication Systems for Grid Integration of Renewable Energy Resources," IEEE Network, vol. 25, no. 5, pp. 22-29, Sept. 2011.
+^ a b Buevich, Maxim; Zhang, Xiao; Schnitzer, Dan; Escalada, Tristan; Jacquiau-Chamski, Arthur; Thacker, Jon; Rowe, Anthony (2015-01-01). "Short Paper: Microgrid Losses: When the Whole is Greater Than the Sum of Its Parts". Proceedings of the 2Nd ACM International Conference on Embedded Systems for Energy-Efficient Built Environments. BuildSys '15. New York, NY, USA: ACM: 9598. doi:10.1145/2821650.2821676. ISBN9781450339810.
+^ Patrick Mazza (2005-04-27). "Powering Up the Smart Grid: A Northwest Initiative for Job Creation, Energy Security, and Clean, Affordable Electricity." (doc). Climate Solutions: 7. Retrieved 2008-12-01.
+^ "Smart Wire Grid Distributed Power Flow Control". arpa-e.energy.gov. Retrieved 2014-07-25.
+^ Klimstra, Jakob; Hotakainen, Markus (2011). Smart Power Generation (PDF). Helsinki: Avain Publishers. ISBN9789516928466.
+^ Toomas Hbemgi, Baltic Business News
+^ "Wide Area Protection System for Stability" (PDF). Nanjing Nari-Relays Electric Co., Ltd. 2008-04-22: 2. Archived from the original (PDF) on 2009-03-18. Retrieved 2008-12-12. Examples are given of two events, one stabilizing the system after a fault on a 1 gigawatt HVDC feed, with response timed in milliseconds.
+^ Zhao, Jinquan; Huang, Wenying; Fang, Zhaoxiong; Chen, Feng; Li, Kewen; Deng, Yong (2007-06-24). "2007 IEEE Power Engineering Society General Meeting". Proceedings, Power Engineering Society General Meeting, 2007. (PDF)|format= requires |url= (help). Tampa, FL, USA: IEEE: 1. doi:10.1109/PES.2007.385975. ISBN1-4244-1296-X. Lay summary. |chapter= ignored (help)
+^ Electric Power Research Institute, IntelliGrid Program
+^ U.S. Department of Energy, Office of Electric Transmission and Distribution, "Grid 2030" A National Vision for Electricity's Second 100 Years, July 2003
+^ U.S. Department of Energy, Office of Electric Transmission and Distribution, "National Electric Delivery Technologies Roadmap"
+^ U.S. Department of Energy, National Energy Technology Laboratory
+^ U.S. Department of Energy, Office of Electricity Delivery and Energy Reliability; GridWise Program fact sheet; and GridWise Alliance.
+^ http://www.gridwiseac.org/pdfs/interopframework_v1_1.pdf
+^ U.S. Department of Energy, Office of Electricity Delivery and Energy Reliability, Gridworks
+^ Pacific Northwest Smart Grid Demonstration Project
+^ Australia Department of the Environment Solar Cities Programme
+^ Paul Bourgine; David Chavalarias; Edith Perrier; Frederic Amblard; Francois Arlabosse; Pierre Auger; Jean-Bernard Baillon; Olivier Barreteau; Pierre Baudot (2009). "French Roadmap for complex Systems 20082009". arXiv:0907.2221 [nlin.AO].
+^ 1 Protection Systems that verify and supervise themselves, Pelqim Spahiu, Ian R. Evans  IEEE ISGT Innovative Smart Grid Technologies Europe 2011
+^ 2 IED based Protection & Control equipment with Non-Standard primary system arrangements  An approach to application, Pelqim Spahiu, Namita Uppal  10th IET International Conference on DPSP in Manchester, April 2010
+^ a b Giovanni Filatrella; Arne Hejde Nielsen; Niels Falsig Pedersen (2008). "Analysis of a power grid using the Kuramoto-like model". European Physical Journal B. 61 (4): 485491. arXiv:0705.1305. doi:10.1140/epjb/e2008-00098-8.
+^ Florian Dorfler; Francesco Bullo (2009). "Synchronization and Transient Stability in Power Networks and Non-Uniform Kuramoto Oscillators". arXiv:0910.5673 [math.OC].
+^ David Lusseau (2003). "The emergent properties of a dolphin social network". Proceedings of the Royal Society of London B. 270: S186S188. arXiv:cond-mat/0307439. doi:10.1098/rsbl.2003.0057.
+^ Olaf Stenull; Hans-Karl Janssen (2001). "Nonlinear random resistor diode networks and fractal dimensions of directed percolation clusters". Phys. Rev. E. 64. arXiv:cond-mat/0104532. doi:10.1103/PhysRevE.64.016135.
+^ Werbos (2006). "Using Adaptive Dynamic Programming to Understand and Replicate Brain Intelligence: the Next Level Design". arXiv:q-bio/0612045 [q-bio.NC].
+^ Claire Christensen; Reka Albert (2006). "Using graph concepts to understand the organization of complex systems". arXiv:q-bio.OT/0609036 [q-bio.OT].
+^ Vito Latora; Massimo Marchiori (2002). "Economic Small-World Behavior in Weighted Networks". European Physical Journal B. 32 (2): 249263. arXiv:cond-mat/0204089. doi:10.1140/epjb/e2003-00095-5.
+^ Vito Latora; Massimo Marchiori (2002). "The Architecture of Complex Systems". arXiv:cond-mat/0205649 [cond-mat].
+^ Balantrapu, Satish (November 2, 2010). "Artificial Neural Networks in Microgrid". Energy Central. Retrieved 8 December 2015.
+^ Miao He; Sugumar Murugesan; Junshan Zhang (2010). "Multiple Timescale Dispatch and Scheduling for Stochastic Reliability in Smart Grids with Wind Generation Integration". arXiv:1008.3932 [cs.SY].
+^ Barreiro; Julijana Gjorgjieva; Fred Rieke; Eric Shea-Brown (2010). "When are feedforward microcircuits well-modeled by maximum entropy methods?". arXiv:1011.2797 [q-bio.NC].
+^ Jianxin Chen; Zhengfeng Ji; Mary Beth Ruskai; Bei Zeng; Duanlu Zhou (2010). "Principle of Maximum Entropy and Ground Spaces of Local Hamiltonians". arXiv:1010.2739 [quant-ph].
+^ Sahand Haji Ali Ahmad; Mingyan Liu; Yunnan Wu (2009). "Congestion games with resource reuse and applications in spectrum sharing". arXiv:0910.4214 [cs.GT].
+^ Sahand Ahmad; Cem Tekin; Mingyan Liu; Richard Southwell; Jianwei Huang (2010). "Spectrum Sharing as Spatial Congestion Games". arXiv:1011.5384 [cs.GT].
+^ "Report: Smart Grid Market Could Double in Four Years". Zpryme Smart Grid Market.
+^ "Future of Electricity Report Calls for Huge Investments".
+^ Patrick Mazza (2004-05-21). "The Smart Energy Network: Electricity's Third Great Revolution" (PDF). Climate Solutions: 2. Retrieved 2008-12-05.
+^ L. D. Kannberg; M. C. Kintner-Meyer; D. P. Chassin; R. G. Pratt; J. G. DeSteese; L. A. Schienbein; S. G. Hauser; W. M. Warwick (November 2003). "GridWise: The Benefits of a Transformed Energy System" (PDF)|format= requires |url= (help). Pacific Northwest National Laboratory under contract with the United States Department of Energy: 25. arXiv:nlin/0409035.
+^ Smart Grid and Renewable Energy Monitoring Systems, SpeakSolar.org 03rd September 2010
+^ "U.S. Infrastructure: Smart Grid". Renewing America. Council on Foreign Relations. 16 December 2011. Retrieved 20 January 2012.
+^ Gorman, Siobahn (6 April 2008). "Electricity Grid in U.S. Penetrated by Spies". Wall Street Journal. Retrieved 20 January 2012.
+^ Fernando Alvarado, University of Wisconsin, Shmuel Oren University of California at Berkeley (May 2002). "Transmission System Operation and Interconnection" (PDF). National Transmission Grid Study. United States Department of Energy: 25. Retrieved 2008-12-01. CS1 maint: Multiple names: authors list (link)
+^ Rolf Carlson (April 2002). "Sandia SCADA Program High-Security SCADA LDRD Final Report" (PDF). National Transmission Grid Study. Sandia National Laboratories for the United States Department of Energy: 15. Retrieved 2008-12-06.
+^ James Grundvig (2013-04-15). "Detecting Power Theft by Sensors and the Cloud: Awesense Smart System for the Grid". Huffington Post. Huffington Post: 2. Retrieved 2013-06-05.
+^ "Building for the future: Interview with Andres Carvallo, CIO Austin Energy Utility". Next Generation Power and Energy. GDS Publishing Ltd.... (244). Retrieved 2008-11-26.
+^ Betsy Loeff (March 2008). "AMI Anatomy: Core Technologies in Advanced Metering". Ultrimetrics Newsletter. Automatic Meter Reading Association (Utilimetrics).
+^ Betsy Loeff, Demanding standards: Hydro One aims to leverage AMI via interoperability, PennWell Corporation
+^ "E-Energy Project Model City Mannheim". MVV Energie. 2011. Retrieved May 16, 2011.
+^ SA Government
+^ [1]
+^ [2]
+^ vora InovCity - Smart Energy Living
+^ Portuguese Smart City
+^ E-Energy: Startseite. E-energy.de. Retrieved on 2011-05-14.
+^ a b c d e Massachusetts rejects utility's prepayment plan for low income customers, The Boston Globe, 2009-07-23
+^ http://publicservice.vermont.gov/topics/electric/smart_grid/eenergyvt
+^ Smart Energy Collective. Smartenergycollective.nl. Retrieved on 2011-05-14.
+^ Enbysk, Liz (April 20, 2011). "China Smart Grid Playbook: Should we steal a page or two?". SmartGridNews. Retrieved December 1, 2011.
+^ John, Jeff (February 28, 2011). "Open Source Smart Grid Goes to China, Courtesy of Honeywell". Giga Om. Retrieved December 1, 2011.
+^ Lundin, Barbara (January 24, 2012). "Honeywell builds on smart grid success in England". Fierce SmartGrid. Retrieved March 7, 2012.
+^ "Honeywell and Southern California Edison Team up to Curb Electricity Demand". The Wall Street Journal. March 27, 2007.
+^ John, Jeff (November 17, 2009). "Honeywell's OpenADR Plans for SoCal Edison". Greentechgrid. Retrieved January 25, 2012.
+^ Richman, Gerald (February 23, 2010). "Smart Grid: The Devil Is In the Details". New America Foundation. Retrieved November 29, 2011.
+^ John, Jeff (February 2, 2012). "Balancing Hawaiian Wind Power with Demand Response". GreenTechMedia. Retrieved March 7, 2012.
+^ IEEE Standards Association. "2030-2011 IEEE Guide for Smart Grid Interoperability of Energy Technology and Information Technology Operation with the Electric Power System (EPS), and End-Use Applications and Loads". IEEE Smart Grid. Retrieved 2013-01-28.
+^ John, Jeff (February 28, 2011). "Open Source Smart Grid Goes to China, Courtesy of Honeywell". GigaOm. Retrieved April 16, 2012.
+^ http://web.archive.org/web/20081227010910/http://ieeexplore.ieee.org/xpl/standardstoc.jsp?isnumber=33838
+^ Cisco Outlines Strategy for Highly Secure, 'Smart Grid' Infrastructure -> Cisco News. Newsroom.cisco.com (2009-05-18). Retrieved on 2011-05-14.
+^ DS2 Blog: Why the Smart Grid must be based on IP standards. Blog.ds2.es (2009-05-20). Retrieved on 2011-05-14.
+^ IEEE P2030 Official Website
+^ IEEE, conference drive smart grids. Eetimes.com (2009-03-19). Retrieved on 2011-05-14.
+^ Commerce Secretary Unveils Plan for Smart Grid Interoperability. Nist.gov. Retrieved on 2011-05-14.
+^ SGIP Catalog of Standards
+^ Jorge L. Contreras, "Gridlock or Greased Lightning: Intellectual Property, Government Involvement and the Smart Grid" (presented at American Intellectual Property Law Assn. (AIPLA) 2011 Annual Meeting (Oct. 2011, Washington D.C.))
+Bibliography[edit]
+Hans Glavitsch (November 1974). "Computer Control of Electric-Power Systems". Scientific American. Nature Publishing Group. 231 (5).
+External links[edit]
+Smart Grids (European Commission)
+The NIST Smart Grid Collaboration Site NIST's public wiki for Smart Grid
+Emerging Smart Multi-Use Grids Multiple use scalable wireless network of networks
+Video Lecture: Computer System Security: Technical and Social Challenges in Creating a Trustworthy Power Grid, University of Illinois at Urbana-Champaign
+Wiley: Smart Grid Applications, Communications, and Security
+Video Lecture: Smart Grid: Key to a Sustainable Energy Infrastructure, University of Illinois at Urbana-Champaign
+Smart High Voltage Substation Based on IEC 61850 Process Bus and IEEE 1588 Time Synchronization
+Energy To Smart Grid (E2SG), one of the major European Smart Grid research projects
+Smart Grid: Communication-Enabled Intelligence for the Electric Power Grid
+LIFE Factory Microgrid: Smart Grid project funded by the European Commission
+v
+t
+e
+Modernizing the Electrical grid
+Proposals
+EU
+SuperSmart Grid
+Smartgrids Technology Platform
+USA
+Unified Smart Grid
+Pickens plan super grid
+Electranet
+Efficient energy use
+Smart grid
+Smart meter
+Nonintrusive load monitoring
+Demand response
+Demand management
+Dynamic demand
+Negawatts
+Other technologies/
+concepts
+HVDC bulk transmission
+FACTS
+Power line communication
+Phasor measurement unit
+Load following
+Load control
+Peak demand
+Power-to-X
+Policies
+Renewable energy policy
+Feed-in Tariff
+Net metering
+Renewable Energy Certificates
+Renewable energy payments
+Soft energy path
+Carbon capture and storage
+Related Issues
+Energy security
+Climate change
+United States energy independence
+Peak oil
+Energy crisis
+Renewable energy commercialization
+Rural electrification
+Categories
+Energy policy
+Electricity economics
+Portals
+Energy
+Renewable energy
+Sustainable development
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+v
+t
+e
+Emerging technologies
+Technology
+Fields
+Agriculture
+Agricultural robot
+Closed ecological systems
+Cultured meat
+Genetically modified food
+Precision agriculture
+Vertical farming
+Architecture
+Arcology
+Building printing
+Contour crafting
+D-Shape
+Domed city
+Biomedical
+Artificial uterus
+Ampakine
+Brain transplant
+Cryonics
+Cryoprotectant
+Cryopreservation
+Vitrification
+Suspended animation
+De-extinction
+Genetic engineering
+Gene therapy
+Head transplant
+Isolated brain
+Life extension
+Strategies for Engineered Negligible Senescence
+Nanomedicine
+Nanosensors
+Personalized medicine
+Regenerative medicine
+Stem-cell therapy
+Tissue engineering
+Robot-assisted surgery
+Synthetic biology
+Synthetic genomics
+Virotherapy
+Oncolytic virus
+Tricorder
+Whole genome sequencing
+Displays
+Next generation
+FED
+FLCD
+iMoD
+Laser
+LPD
+OLED
+OLET
+QD-LED
+SED
+TPD
+TDEL
+TMOS
+Screenless
+Bionic contact lens
+Head-mounted display
+Head-up display
+Optical head-mounted display
+Virtual retinal display
+Other
+Autostereoscopy
+Flexible display
+Holographic display
+Computer-generated holography
+Multi-primary color display
+Ultra HD
+Volumetric display
+Electronics
+Electronic nose
+E-textiles
+Flexible electronics
+Molecular electronics
+Nanoelectromechanical systems
+Memristor
+Spintronics
+Thermal copper pillar bump
+Energy
+Production
+Airborne wind turbine
+Artificial photosynthesis
+Biofuels
+Carbon-neutral fuel
+Concentrated solar power
+Fusion power
+Home fuel cell
+Hydrogen economy
+Methanol economy
+Molten salt reactor
+Nantenna
+Photovoltaic pavement
+Space-based solar power
+Vortex engine
+Storage
+Beltway battery
+Compressed air energy storage
+Flywheel energy storage
+Grid energy storage
+Lithiumair battery
+Molten salt battery
+Nanowire battery
+Research in lithium-ion batteries
+Siliconair battery
+Thermal energy storage
+Ultracapacitor
+Other
+Smart grid
+Wireless power
+IT and
+communications
+Ambient intelligence
+Internet of Things
+Artificial intelligence
+Applications of artificial intelligence
+Progress in artificial intelligence
+Machine translation
+Machine vision
+Semantic Web
+Speech recognition
+Atomtronics
+Carbon nanotube field-effect transistor
+Cybermethodology
+Fourth-generation optical discs
+3D optical data storage
+Holographic data storage
+GPGPU
+Memory
+CBRAM
+FRAM
+Millipede
+MRAM
+NRAM
+PRAM
+Racetrack memory
+RRAM
+SONOS
+Optical computing
+Quantum computing
+Quantum cryptography
+RFID
+Chipless RFID
+Software-defined radio
+Three-dimensional integrated circuit
+Manufacturing
+3D printing
+Claytronics
+Molecular assembler
+Utility fog
+Materials science
+Aerogel
+Amorphous metal
+Artificial muscle
+Conductive polymer
+Femtotechnology
+Fullerene
+Graphene
+High-temperature superconductivity
+High-temperature superfluidity
+Linear acetylenic carbon
+Metamaterials
+Metamaterial cloaking
+Metal foam
+Multi-function structures
+Nanotechnology
+Carbon nanotubes
+Molecular nanotechnology
+Nanomaterials
+Picotechnology
+Programmable matter
+Quantum dots
+Silicene
+Superalloy
+Synthetic diamond
+Military
+Antimatter weapon
+Caseless ammunition
+Directed-energy weapon
+Laser
+Maser
+Particle-beam weapon
+Sonic weapon
+Coilgun
+Railgun
+Plasma weapon
+Pure fusion weapon
+Stealth technology
+Vortex ring gun
+Neuroscience
+Artificial brain
+Blue Brain Project
+Braincomputer interface
+Electroencephalography
+Mind uploading
+Brain-reading
+Neuroinformatics
+Neuroprosthetics
+Bionic eye
+Brain implant
+Exocortex
+Retinal implant
+Robotics
+Domotics
+Nanorobotics
+Powered exoskeleton
+Self-reconfiguring modular robot
+Swarm robotics
+Uncrewed vehicle
+Space science
+Launch
+Fusion rocket
+Non-rocket spacelaunch
+Mass driver
+Orbital ring
+Space elevator
+Space fountain
+Space tether
+Reusable launch system
+Propulsion
+Beam-powered propulsion
+Ion thruster
+Laser propulsion
+Plasma propulsion engine
+Helicon thruster
+VASIMR
+Project Orion
+Nuclear pulse propulsion
+Solar sail
+Other
+Interstellar travel
+Propellant depot
+Transport
+Aerial
+Adaptive compliant wing
+Aeroscraft
+Backpack helicopter
+Delivery drone
+Flying car
+High-altitude platform
+Jet pack
+Pulse detonation engine
+Scramjet
+Spaceplane
+Skylon
+Supersonic transport
+Land
+Airless tire
+Tweel
+Alternative fuel vehicle
+Hydrogen vehicle
+Driverless car
+Ground effect train
+Maglev train
+Personal rapid transit
+Vactrain
+ET3 Global Alliance
+Hyperloop
+Vehicular communication systems
+Pipeline
+Pneumatic transport
+Automated vacuum collection
+Foodtubes
+Other
+Anti-gravity
+Cloak of invisibility
+Digital scent technology
+Force field
+Plasma window
+Immersive virtual reality
+VirtuSphere
+Magnetic refrigeration
+Phased-array optics
+Quantum technology
+Quantum teleportation
+Topics
+Collingridge dilemma
+Differential technological development
+Ephemeralization
+Exploratory engineering
+Fictional technology
+Proactionary principle
+Technological change
+Technological unemployment
+Technological convergence
+Technological evolution
+Technological paradigm
+Technology forecasting
+Accelerating change
+Moore's law
+Technological singularity
+Technology scouting
+Technology readiness level
+Technology roadmap
+Transhumanism
+Category
+List
+Authority control
+NDL: 01206037
+NewPP limit report
+Parsed by mw1187
+Cached time: 20161120161247
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.780 seconds
+Real time usage: 0.887 seconds
+Preprocessor visited node count: 5776/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 313538/2097152 bytes
+Template argument size: 11378/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 9/500
+Lua time usage: 0.358/10.000 seconds
+Lua memory usage: 5.87 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+685.926
+1 - -total
+47.81%
+327.955
+1 - Template:Reflist
+14.24%
+97.703
+8 - Template:Fix
+13.45%
+92.277
+7 - Template:Citation_needed
+12.76%
+87.546
+23 - Template:Cite_journal
+11.20%
+76.855
+9 - Template:Navbox
+10.42%
+71.498
+14 - Template:Cite_web
+10.27%
+70.465
+9 - Template:Delink
+10.01%
+68.675
+3 - Template:Ambox
+8.10%
+55.556
+1 - Template:Multiple_issues
+Saved in parser cache with key enwiki:pcache:idhash:13201685-0!*!0!!en!4!* and timestamp 20161120161246 and revision id 749003946
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Smart_grid&oldid=749003946"
+Categories: Smart gridEmerging technologiesHidden categories: CS1 maint: Uses authors parameterCS1 maint: Multiple names: authors listWebarchive template wayback linksPages using citations with format and no URLCS1 errors: chapter ignoredArticles that may be too long from February 2016Articles that may contain original research from February 2016All articles that may contain original researchAll articles with unsourced statementsArticles with unsourced statements from March 2009Articles with unsourced statements from January 2009All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from May 2009Articles with unsourced statements from September 2011Articles with unsourced statements from October 2013Articles with unsourced statements from December 2012Wikipedia articles needing clarification from October 2011

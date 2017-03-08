@@ -1,0 +1,434 @@
+Microturbines
+From Wikipedia, the free encyclopedia
+(Redirected from Microturbines)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"Microturbine" redirects here. For turbines in electricity, see Wind turbine. For turbines in general, see Turbine.
+Examples of gas turbine configurations: (1) turbojet, (2) turboprop, (3) turboshaft (electric generator), (4) high-bypass turbofan, (5) low-bypass afterburning turbofan
+A gas turbine, also called a combustion turbine, is a type of internal combustion engine. It has an upstream rotating compressor coupled to a downstream turbine, and a combustion chamber in between.
+The basic operation of the gas turbine is similar to that of the steam power plant except that air is used instead of water. Fresh atmospheric air flows through a compressor that brings it to higher pressure. Energy is then added by spraying fuel into the air and igniting it so the combustion generates a high-temperature flow. This high-temperature high-pressure gas enters a turbine, where it expands down to the exhaust pressure, producing a shaft work output in the process. The turbine shaft work is used to drive the compressor and other devices such as an electric generator that may be coupled to the shaft. The energy that is not used for shaft work comes out in the exhaust gases, so these have either a high temperature or a high velocity. The purpose of the gas turbine determines the design so that the most desirable energy form is maximized. Gas turbines are used to power aircraft, trains, ships, electrical generators, and tanks.[1]
+Contents
+1 History
+2 Theory of operation
+2.1 Creep
+3 Types
+3.1 Jet engines
+3.2 Turboprop engines
+3.3 Aeroderivative gas turbines
+3.4 Amateur gas turbines
+3.5 Auxiliary power units
+3.6 Industrial gas turbines for power generation
+3.7 Industrial gas turbines for mechanical drive
+3.7.1 Compressed air energy storage
+3.8 Turboshaft engines
+3.9 Radial gas turbines
+3.10 Scale jet engines
+3.11 Microturbines
+4 External combustion
+5 In surface vehicles
+5.1 Passenger road vehicles (cars, bikes, and buses)
+5.1.1 Concept cars
+5.1.2 Racing cars
+5.1.3 Buses
+5.1.4 Motorcycles
+5.2 Trains
+5.3 Tanks
+5.4 Marine applications
+5.4.1 Naval
+5.4.2 Civilian maritime
+6 Advances in technology
+7 Advantages and disadvantages
+7.1 Advantages
+7.2 Disadvantages
+8 Testing
+9 See also
+10 References
+11 Further reading
+12 External links
+History[edit]
+Sketch of John Barber's gas turbine, from his patent
+50: Hero's Engine (aeolipile) Apparently, Hero's steam engine was taken to be no more than a toy, and thus its full potential not realized for centuries.
+1000: The "Trotting Horse Lamp" (Chinese: ) was used by the Chinese at lantern fairs as early as the Northern Song dynasty. When the lamp is lit, the heated airflow rises and drives an impeller with horse-riding figures attached on it, whose shadows are then projected onto the outer screen of the lantern.[2]
+1500: The "Chimney Jack" was drawn by Leonardo da Vinci: Hot air from a fire rises through a single-stage axial turbine rotor mounted in the exhaust duct of the fireplace and turning the roasting spit by gear/ chain connection.
+1629: Jets of steam rotated an impulse turbine that then drove a working stamping mill by means of a bevel gear, developed by Giovanni Branca.
+1678: Ferdinand Verbiest built a model carriage relying on a steam jet for power.
+1791: A patent was given to John Barber, an Englishman, for the first true gas turbine. His invention had most of the elements present in the modern day gas turbines. The turbine was designed to power a horseless carriage.[3][4]
+1861: British patent no. 1633 was granted to Marc Antoine Francois Mennons for a "Caloric engine". The patent shows that it was a gas turbine and the drawings show it applied to a locomotive.[5] Also named in the patent was Nicolas de Telescheff (otherwise Nicholas A. Teleshov), a Russian aviation pioneer.[6]
+1872: A gas turbine engine was designed by Franz Stolze, but the engine never ran under its own power.
+1894: Sir Charles Parsons patented the idea of propelling a ship with a steam turbine, and built a demonstration vessel, the Turbinia, easily the fastest vessel afloat at the time. This principle of propulsion is still of some use.
+1895: Three 4-ton 100kW Parsons radial flow generators were installed in Cambridge Power Station, and used to power the first electric street lighting scheme in the city.
+1899: Charles Gordon Curtis patented the first gas turbine engine in the USA ("Apparatus for generating mechanical power", Patent No. US635,919).[7][8][9]
+1900: Sanford Alexander Moss submitted a thesis on gas turbines. In 1903, Moss became an engineer for General Electric's Steam Turbine Department in Lynn, Massachusetts.[10] While there, he applied some of his concepts in the development of the turbosupercharger. His design used a small turbine wheel, driven by exhaust gases, to turn a supercharger.[10]
+1903: A Norwegian, gidius Elling, was able to build the first gas turbine that was able to produce more power than needed to run its own components, which was considered an achievement in a time when knowledge about aerodynamics was limited. Using rotary compressors and turbines it produced 11hp (massive for those days).[11]
+1906: The Armengaud-Lemale turbine engine in France with water-cooled combustion chamber.
+1910: Holzwarth impulse turbine (pulse combustion) achieved 150 kilowatts.
+1913: Nikola Tesla patents the Tesla turbine based on the boundary layer effect.[12]
+1920s The practical theory of gas flow through passages was developed into the more formal (and applicable to turbines) theory of gas flow past airfoils by A. A. Griffith resulting in the publishing in 1926 of An Aerodynamic Theory of Turbine Design. Working testbed designs of axial turbines suitable for driving a propellor were developed by the Royal Aeronautical Establishment proving the efficiency of aerodynamic shaping of the blades in 1929.[citation needed]
+1930: Having found no interest from the RAF for his idea, Frank Whittle patented[13] the design for a centrifugal gas turbine for jet propulsion. The first successful use of his engine was in April 1937.[citation needed]
+1932: BBC Brown, Boveri & Cie of Switzerland starts selling axial compressor and turbine turbosets as part of the turbocharged steam generating Velox boiler. Following the gas turbine principle, the steam evaporation tubes are arranged within the gas turbine combustion chamber; the first Velox plant was erected in Mondeville, France.[14]
+1934: Ral Pateras de Pescara patented the free-piston engine as a gas generator for gas turbines.[citation needed]
+1936: Hans von Ohain and Max Hahn in Germany were developing their own patented engine design.[citation needed]
+1936 Whittle with others backed by investment forms Power Jets Ltd[citation needed]
+1937 The first Power Jets engine runs, and impresses Henry Tizard such that he secures government funding for its further development.[15]
+1939: First 4 MW utility power generation gas turbine from BBC Brown, Boveri & Cie. for an emergency power station in Neuchtel, Switzerland.[16]
+1946 National Gas Turbine Establishment formed from Power Jets and the RAE turbine division bring together Whittle and Hayne Constant's work[citation needed]. In Beznau, Switzerland the first commercial reheated/recuperated unit generating 27 MW was commissioned.[17]
+1963 Pratt and Whitney introduce the GG4/FT4 which is the first commercial aeroderivative gas turbine.[18][19]
+2011 Mitsubishi Heavy Industries tests the first >60% efficiency gas turbine (the M501J) at its Takasago works.[20][21]
+Theory of operation[edit]
+In an ideal gas turbine, gases undergo three thermodynamic processes: an isentropic compression, an isobaric (constant pressure) combustion and an isentropic expansion. Together, these make up the Brayton cycle.
+Brayton cycle
+In a real gas turbine, mechanical energy is changed irreversibly (due to internal friction and turbulence) into pressure and thermal energy when the gas is compressed (in either a centrifugal or axial compressor). Heat is added in the combustion chamber and the specific volume of the gas increases, accompanied by a slight loss in pressure. During expansion through the stator and rotor passages in the turbine, irreversible energy transformation once again occurs.
+If the engine has a power turbine added to drive an industrial generator or a helicopter rotor, the exit pressure will be as close to the entry pressure as possible with only enough energy left to overcome the pressure losses in the exhaust ducting and expel the exhaust. For a turboprop engine there will be a particular balance between propeller power and jet thrust which gives the most economical operation. In a jet engine only enough pressure and energy is extracted from the flow to drive the compressor and other components. The remaining high pressure gases are accelerated to provide a jet to propel an aircraft.
+The smaller the engine, the higher the rotation rate of the shaft(s) must be to attain the required blade tip speed. Blade-tip speed determines the maximum pressure ratios that can be obtained by the turbine and the compressor. This, in turn, limits the maximum power and efficiency that can be obtained by the engine. In order for tip speed to remain constant, if the diameter of a rotor is reduced by half, the rotational speed must double. For example, large jet engines operate around 10,000 rpm, while micro turbines spin as fast as 500,000 rpm.[22]
+Mechanically, gas turbines can be considerably less complex than internal combustion piston engines. Simple turbines might have one main moving part, the compressor/shaft/turbine rotor assembly (see image above), with other moving parts in the fuel system. However, the precision manufacture required for components and the temperature resistant alloys necessary for high efficiency often make the construction of a simple gas turbine more complicated than a piston engine.
+More advanced gas turbines (such as those found in modern jet engines) may have 2 or 3 shafts (spools), hundreds of compressor and turbine blades, movable stator blades, and extensive external tubing for fuel, oil and air systems.
+Thrust bearings and journal bearings are a critical part of design. Traditionally, they have been hydrodynamic oil bearings, or oil-cooled ball bearings. These bearings are being surpassed by foil bearings, which have been successfully used in micro turbines and auxiliary power units.[citation needed]
+Creep[edit]
+A major challenge facing turbine design is reducing the creep that is induced by the high temperatures. Because of the stresses of operation, turbine materials become damaged through these mechanisms. As temperatures are increased in an effort to improve turbine efficiency, creep becomes more significant. To limit creep, thermal coatings and superalloys with solid-solution strengthening and grain boundary strengthening are used in blade designs. Protective coatings are used to reduce the thermal damage and to limit oxidation. These coatings are often stabilized zirconium dioxide-based ceramics. Using a thermal protective coating limits the temperature exposure of the nickel superalloy. This reduces the creep mechanisms experienced in the blade. Oxidation coatings limit efficiency losses caused by a buildup on the outside of the blades, which is especially important in the high-temperature environment.[23] The nickel-based blades are alloyed with aluminum and titanium to improve strength and creep resistance. The microstructure of these alloys is composed of different regions of composition. A uniform dispersion of the gamma-prime phase  a combination of nickel, aluminum, and titanium  promotes the strength and creep resistance of the blade due to the microstructure.[24] Refractory elements such as rhenium and ruthenium can be added to the alloy to improve creep strength. The addition of these elements reduces the diffusion of the gamma prime phase, thus preserving the fatigue resistance, strength, and creep resistance.[25]
+Types[edit]
+Jet engines[edit]
+typical axial-flow gas turbine turbojet, the J85, sectioned for display. Flow is left to right, multistage compressor on left, combustion chambers center, two-stage turbine on right
+Airbreathing jet engines are gas turbines optimized to produce thrust from the exhaust gases, or from ducted fans connected to the gas turbines.[26] Jet engines that produce thrust from the direct impulse of exhaust gases are often called turbojets, whereas those that generate thrust with the addition of a ducted fan are often called turbofans or (rarely) fan-jets.
+Gas turbines are also used in many liquid propellant rockets, the gas turbines are used to power a turbopump to permit the use of lightweight, low pressure tanks, which reduce the empty weight of the rocket.
+Turboprop engines[edit]
+A turboprop engine is a turbine engine which drives an aircraft propeller using a reduction gear. Turboprop engines are used on small aircraft such as the general-aviation Cessna 208 Caravan and Embraer EMB 312 Tucano military trainer, medium-sized commuter aircraft such as the Bombardier Dash 8 and large aircraft such as the Airbus A400M transport and the 60 year-old Tupolev Tu-95 strategic bomber.
+Aeroderivative gas turbines[edit]
+Diagram of a high-pressure film cooled turbine blade
+Aeroderivatives are also used in electrical power generation due to their ability to be shut down, and handle load changes more quickly than industrial machines. They are also used in the marine industry to reduce weight. The General Electric LM2500, General Electric LM6000, Rolls-Royce RB211 and Rolls-Royce Avon are common models of this type of machine.[citation needed]
+Amateur gas turbines[edit]
+Increasing numbers of gas turbines are being used or even constructed by amateurs.
+In its most straightforward form, these are commercial turbines acquired through military surplus or scrapyard sales, then operated for display as part of the hobby of engine collecting.[27][28] In its most extreme form, amateurs have even rebuilt engines beyond professional repair and then used them to compete for the Land Speed Record.
+The simplest form of self-constructed gas turbine employs an automotive turbocharger as the core component. A combustion chamber is fabricated and plumbed between the compressor and turbine sections.[29]
+More sophisticated turbojets are also built, where their thrust and light weight are sufficient to power large model aircraft.[30] The Schreckling design[30] constructs the entire engine from raw materials, including the fabrication of a centrifugal compressor wheel from plywood, epoxy and wrapped carbon fibre strands.
+Several small companies now manufacture small turbines and parts for the amateur. Most turbojet-powered model aircraft are now using these commercial and semi-commercial microturbines, rather than a Schreckling-like home-build.[31]
+Auxiliary power units[edit]
+APUs are small gas turbines designed to supply auxiliary power to larger, mobile, machines such as an aircraft. They supply:
+compressed air for air conditioning and ventilation,
+compressed air start-up power for larger jet engines,
+mechanical (shaft) power to a gearbox to drive shafted accessories or to start large jet engines, and
+electrical, hydraulic and other power-transmission sources to consuming devices remote from the APU.
+Industrial gas turbines for power generation[edit]
+GE H series power generation gas turbine: in combined cycle configuration, this 480-megawatt unit has a rated thermal efficiency of 60%
+Industrial gas turbines differ from aeronautical designs in that the frames, bearings, and blading are of heavier construction. They are also much more closely integrated with the devices they power often an electric generatorand the secondary-energy equipment that is used to recover residual energy (largely heat).
+They range in size from portable mobile plants to large, complex systems weighing more than a hundred tonnes housed in purpose-built buildings. When the gas turbine is used solely for shaft power, its thermal efficiency is about 30%. However, it may be cheaper to buy electricity than to generate it. Therefore, many engines are used in CHP (Combined Heat and Power) configurations that can be small enough to be integrated into portable container configurations.
+Gas turbines can be particularly efficient when waste heat from the turbine is recovered by a heat recovery steam generator to power a conventional steam turbine in a combined cycle configuration.[32] The 605 MW General Electric 9HA achieved a 62.22% efficiency rate with temperatures as high as 1,540C (2,800F).[33] Aeroderivative gas turbines can also be used in combined cycles, leading to a higher efficiency, but it will not be as high as a specifically designed industrial gas turbine. They can also be run in a cogeneration configuration: the exhaust is used for space or water heating, or drives an absorption chiller for cooling the inlet air and increase the power output, technology known as Turbine Inlet Air Cooling.
+Another significant advantage is their ability to be turned on and off within minutes, supplying power during peak, or unscheduled, demand. Since single cycle (gas turbine only) power plants are less efficient than combined cycle plants, they are usually used as peaking power plants, which operate anywhere from several hours per day to a few dozen hours per yeardepending on the electricity demand and the generating capacity of the region. In areas with a shortage of base-load and load following power plant capacity or with low fuel costs, a gas turbine powerplant may regularly operate most hours of the day. A large single-cycle gas turbine typically produces 100 to 400megawatts of electric power and has 3540% thermal efficiency.[34]
+Industrial gas turbines for mechanical drive[edit]
+Industrial gas turbines that are used solely for mechanical drive or used in collaboration with a recovery steam generator differ from power generating sets in that they are often smaller and feature a dual shaft design as opposed to single shaft. The power range varies from 1 megawatt up to 50 megawatts.[citation needed] These engines are connected directly or via a gearbox to either a pump or compressor assembly. The majority of installations are used within the oil and gas industries. Mechanical drive applications increase efficiency by around 2%.
+Oil and Gas platforms require these engines to drive compressors to inject gas into the wells to force oil up via another bore, or to compress the gas for transportation. They're also often used to provide power for the platform. These platforms don't need to use the engine in collaboration with a CHP system due to getting the gas at an extremely reduced cost (often free from burn off gas). The same companies use pump sets to drive the fluids to land and across pipelines in various intervals.
+Compressed air energy storage[edit]
+Main article: Compressed air energy storage
+One modern development seeks to improve efficiency in another way, by separating the compressor and the turbine with a compressed air store. In a conventional turbine, up to half the generated power is used driving the compressor. In a compressed air energy storage configuration, power, perhaps from a wind farm or bought on the open market at a time of low demand and low price, is used to drive the compressor, and the compressed air released to operate the turbine when required.
+Turboshaft engines[edit]
+Turboshaft engines are often used to drive compression trains (for example in gas pumping stations or natural gas liquefaction plants) and are used to power almost all modern helicopters. The primary shaft bears the compressor and the high speed turbine (often referred to as the Gas Generator), while a second shaft bears the low-speed turbine (a power turbine or free-wheeling turbine on helicopters, especially, because the gas generator turbine spins separately from the power turbine). In effect the separation of the gas generator, by a fluid coupling (the hot energy-rich combustion gases), from the power turbine is analogous to an automotive transmission's fluid coupling. This arrangement is used to increase power-output flexibility with associated highly-reliable control mechanisms.
+Radial gas turbines[edit]
+Main article: Radial turbine
+In 1963, Jan Mowill initiated the development at Kongsberg Vpenfabrikk in Norway. Various successors have made good progress in the refinement of this mechanism. Owing to a configuration that keeps heat away from certain bearings the durability of the machine is improved while the radial turbine is well matched in speed requirement.[citation needed]
+Scale jet engines[edit]
+Scale jet engines are scaled down versions of this early full scale engine
+Also known as miniature gas turbines or micro-jets.
+With this in mind the pioneer of modern Micro-Jets, Kurt Schreckling, produced one of the world's first Micro-Turbines, the FD3/67.[30] This engine can produce up to 22 newtons of thrust, and can be built by most mechanically minded people with basic engineering tools, such as a metal lathe.[30]
+Microturbines[edit]
+Also known as:
+Turbo alternators
+Turbogenerator
+Microturbines are becoming widespread in distributed power and combined heat and power applications, and are very promising for powering hybrid electric vehicles. They range from hand held units producing less than a kilowatt, to commercial sized systems that produce tens or hundreds of kilowatts. Basic principles of microturbine are based on micro-combustion.[further explanation needed]
+Part of their claimed success is said to be due to advances in electronics, which allows unattended operation and interfacing with the commercial power grid. Electronic power switching technology eliminates the need for the generator to be synchronized with the power grid. This allows the generator to be integrated with the turbine shaft, and to double as the starter motor.
+Microturbine systems have many claimed advantages over reciprocating engine generators, such as higher power-to-weight ratio, low emissions and few, or just one, moving part. Advantages are that microturbines may be designed with foil bearings and air-cooling operating without lubricating oil, coolants or other hazardous materials. Nevertheless, reciprocating engines overall are still cheaper when all factors are considered.[original research?] Microturbines also have a further advantage of having the majority of the waste heat contained in the relatively high temperature exhaust making it simpler to capture, whereas the waste heat of reciprocating engines is split between its exhaust and cooling system.[35]
+However, reciprocating engine generators are quicker to respond to changes in output power requirement and are usually slightly more efficient, although the efficiency of microturbines is increasing. Microturbines also lose more efficiency at low power levels than reciprocating engines.
+Reciprocating engines typically use simple motor oil (journal) bearings. Full-size gas turbines often use ball bearings. The 1000C temperatures and high speeds of microturbines make oil lubrication and ball bearings impractical; they require air bearings or possibly magnetic bearings.[36]
+When used in extended range electric vehicles the static efficiency drawback is irrelevant, since the gas turbine can be run at or near maximum power, driving an alternator to produce electricity either for the wheel motors, or for the batteries, as appropriate to speed and battery state. The batteries act as a "buffer" (energy storage) in delivering the required amount of power to the wheel motors, rendering throttle response of the gas turbine completely irrelevant.
+There is, moreover, no need for a significant or variable-speed gearbox; turning an alternator at comparatively high speeds allows for a smaller and lighter alternator than would otherwise be the case. The superior power-to-weight ratio of the gas turbine and its fixed speed gearbox, allows for a much lighter prime mover than those in such hybrids as the Toyota Prius (which utilised a 1.8 litre petrol engine) or the Chevrolet Volt (which utilises a 1.4 litre petrol engine). This in turn allows a heavier weight of batteries to be carried, which allows for a longer electric-only range. Alternatively, the vehicle can use heavier types of batteries such as lead acid batteries (which are cheaper to buy) or safer types of batteries such as Lithium-Iron-Phosphate.
+When gas turbines are used in extended-range electric vehicles, like those planned[when?] by Land-Rover/Range-Rover in conjunction with Bladon, or by Jaguar also in partnership with Bladon, the very poor throttling response (their high moment of rotational inertia) does not matter,[citation needed] because the gas turbine, which may be spinning at 100,000 rpm, is not directly, mechanically connected to the wheels. It was this poor throttling response that so bedevilled the 1950 Rover gas turbine-powered prototype motor car, which did not have the advantage of an intermediate electric drive train to provide sudden power spikes when demanded by the driver.[further explanation needed]
+Gas turbines accept most commercial fuels, such as petrol, natural gas, propane, diesel, and kerosene as well as renewable fuels such as E85, biodiesel and biogas. However, when running on kerosene or diesel, starting sometimes requires the assistance of a more volatile product such as propane gas - although the new kero-start technology can allow even microturbines fuelled on kerosene to start without propane.
+Microturbine designs usually consist of a single stage radial compressor, a single stage radial turbine and a recuperator. Recuperators are difficult to design and manufacture because they operate under high pressure and temperature differentials. Exhaust heat can be used for water heating, space heating, drying processes or absorption chillers, which create cold for air conditioning from heat energy instead of electric energy.
+Typical microturbine efficiencies are 25 to 35%. When in a combined heat and power cogeneration system, efficiencies of greater than 80%[citation needed] are commonly achieved.
+MIT started its millimeter size turbine engine project in the middle of the 1990s when Professor of Aeronautics and Astronautics Alan H. Epstein considered the possibility of creating a personal turbine which will be able to meet all the demands of a modern person's electrical needs, just as a large turbine can meet the electricity demands of a small city.[citation needed]
+Problems have occurred with heat dissipation and high-speed bearings in these new microturbines. Moreover, their expected efficiency is a very low 5-6%. According to Professor Epstein, current commercial Li-ion rechargeable batteries deliver about 120-150 Wh/kg. MIT's millimeter size turbine will deliver 500-700 Wh/kg in the near term, rising to 1200-1500 Wh/kg in the longer term.[37]
+A similar microturbine built in Belgium has a rotor diameter of 20mm and is expected to produce about 1000 W.[36]
+External combustion[edit]
+Most gas turbines are internal combustion engines but it is also possible to manufacture an external combustion gas turbine which is, effectively, a turbine version of a hot air engine. Those systems are usually indicated as EFGT (Externally Fired Gas Turbine) or IFGT (Indirectly Fired Gas Turbine).
+External combustion has been used for the purpose of using pulverized coal or finely ground biomass (such as sawdust) as a fuel. In the indirect system, a heat exchanger is used and only clean air with no combustion products travels through the power turbine. The thermal efficiency is lower in the indirect type of external combustion; however, the turbine blades are not subjected to combustion products and much lower quality (and therefore cheaper) fuels are able to be used.
+When external combustion is used, it is possible to use exhaust air from the turbine as the primary combustion air. This effectively reduces global heat losses, although heat losses associated with the combustion exhaust remain inevitable.
+Closed-cycle gas turbines based on helium or supercritical carbon dioxide also hold promise for use with future high temperature solar and nuclear power generation.
+In surface vehicles[edit]
+The 1967 STP Oil Treatment Special on display at the Indianapolis Motor Speedway Hall of Fame Museum, with the Pratt & Whitney gas turbine shown
+A 1968 Howmet TX, the only turbine-powered race car to have won a race
+Gas turbines are often used on ships, locomotives, helicopters, tanks, and to a lesser extent, on cars, buses, and motorcycles.
+A key advantage of jets and turboprops for aeroplane propulsion - their superior performance at high altitude compared to piston engines, particularly naturally aspirated ones - is irrelevant in most automobile applications. Their power-to-weight advantage, though less critical than for aircraft, is still important.
+Gas turbines offer a high-powered engine in a very small and light package. However, they are not as responsive and efficient as small piston engines over the wide range of RPMs and powers needed in vehicle applications. In series hybrid vehicles, as the driving electric motors are mechanically detached from the electricity generating engine, the responsiveness, poor performance at low speed and low efficiency at low output problems are much less important. The turbine can be run at optimum speed for its power output, and batteries and ultracapacitors can supply power as needed, with the engine cycled on and off to run it only at high efficiency. The emergence of the continuously variable transmission may also alleviate the responsiveness problem.
+Turbines have historically been more expensive to produce than piston engines, though this is partly because piston engines have been mass-produced in huge quantities for decades, while small gas turbine engines are rarities; however, turbines are mass-produced in the closely related form of the turbocharger.
+The turbocharger is basically a compact and simple free shaft radial gas turbine which is driven by the piston engine's exhaust gas. The centripetal turbine wheel drives a centrifugal compressor wheel through a common rotating shaft. This wheel supercharges the engine air intake to a degree that can be controlled by means of a wastegate or by dynamically modifying the turbine housing's geometry (as in a VGT turbocharger). It mainly serves as a power recovery device which converts a great deal of otherwise wasted thermal and kinetic energy into engine boost.
+Turbo-compound engines (actually employed on some trucks) are fitted with blow down turbines which are similar in design and appearance to a turbocharger except for the turbine shaft being mechanically or hydraulically connected to the engine's crankshaft instead of to a centrifugal compressor, thus providing additional power instead of boost. While the turbocharger is a pressure turbine, a power recovery turbine is a velocity one.
+Passenger road vehicles (cars, bikes, and buses)[edit]
+A number of experiments have been conducted with gas turbine powered automobiles, the largest by Chrysler.[38][39] More recently, there has been some interest in the use of turbine engines for hybrid electric cars. For instance, a consortium led by micro gas turbine company Bladon Jets has secured investment from the Technology Strategy Board to develop an Ultra Lightweight Range Extender (ULRE) for next generation electric vehicles. The objective of the consortium, which includes luxury car maker Jaguar Land Rover and leading electrical machine company SR Drives, is to produce the worlds first commercially viable - and environmentally friendly - gas turbine generator designed specifically for automotive applications.[40]
+The common turbocharger for gasoline or diesel engines is also a turbine derivative.
+Concept cars[edit]
+The first serious investigation of using a gas turbine in cars was in 1946 when two engineers, Robert Kafka and Robert Engerstein of Carney Associates, a New York engineering firm, came up with the concept where a unique compact turbine engine design would provide power for a rear wheel drive car. After an article appeared in Popular Science, there was no further work, beyond the paper stage.[41]
+The 1950 Rover JET1
+In 1950, designer F.R. Bell and Chief Engineer Maurice Wilks from British car manufacturers Rover unveiled the first car powered with a gas turbine engine. The two-seater JET1 had the engine positioned behind the seats, air intake grilles on either side of the car, and exhaust outlets on the top of the tail. During tests, the car reached top speeds of 140km/h (87mph), at a turbine speed of 50,000rpm. The car ran on petrol, paraffin (kerosene) or diesel oil, but fuel consumption problems proved insurmountable for a production car. It is on display at the London Science Museum.
+A French turbine powered car, the Socema-Gregoire, was displayed at the October 1952 Paris Auto Show. It was designed by the French engineer Jean-Albert Grgoire.[citation needed]
+Firebird I
+The first turbine powered car built in the US was the GM Firebird I which began evaluations in 1953. While photos of the Firebird I may suggest that the jet turbine's thrust propelled the car like an aircraft, the turbine in fact drove the rear wheels. The Firebird 1 was never meant as a serious commercial passenger car and was solely built for testing & evaluation as well as public relation purposes.[42]
+Engine compartment of a Chrysler 1963 Turbine car
+Starting in 1954 with a modified Plymouth,[43] the American car manufacturer Chrysler demonstrated several prototype gas turbine-powered cars from the early 1950s through the early 1980s. Chrysler built fifty Chrysler Turbine Cars in 1963 and conducted the only consumer trial of gas turbine-powered cars.[44] Each of their turbines employed a unique rotating recuperator, referred to as a regenerator that increased efficiency.[43]
+In 1954 FIAT unveiled a concept car with a turbine engine, called Fiat Turbina. This vehicle, looking like an aircraft with wheels, used a unique combination of both jet thrust and the engine driving the wheels. Speeds of 282km/h (175mph) were claimed.[45]
+The original General Motors Firebird was a series of concept cars developed for the 1953, 1956 and 1959 Motorama auto shows, powered by gas turbines.
+As a result of the U.S. Clean Air Act Amendments of 1970, research was funded to developing automotive gas turbine technology.[46] Design concepts and vehicles were conducted by Chrysler, General Motors, Ford (in collaboration with AiResearch), and American Motors (in conjunction with Williams Research).[47] Long-term tests were conducted evaluate comparable cost efficiency.[48] Several AMC Hornets were powered by a small Williams regenerative gas turbines weighing 250lb (113kg) and producing 80hp (60kW; 81PS) at 4450rpm.[49][50][51]
+Toyota demonstrated several gas turbine powered concept cars, such as the Century gas turbine hybrid in 1975, the Sports 800 Gas Turbine Hybrid in 1979 and the GTV in 1985. No production vehicles were made. The GT24 engine was exhibited in 1977 without a vehicle.
+In the early 1990s Volvo introduced the Volvo Environmental Concept Car(ECC) which was a gas turbine powered hybrid car.[52]
+In 1993 General Motors introduced the first commercial gas turbine powered hybrid vehicleas a limited production run of the EV-1 series hybrid. A Williams International 40kW turbine drove an alternator which powered the battery-electric powertrain. The turbine design included a recuperator. Later on in 2006 GM went into the EcoJet concept car project with Jay Leno.
+At the 2010 Paris Motor Show Jaguar demonstrated its Jaguar C-X75 concept car. This electrically powered supercar has a top speed of 204mph (328km/h) and can go from 0 to 62mph (0 to 100km/h) in 3.4 seconds. It uses Lithium-ion batteries to power 4 electric motors which combine to produce some 780bhp. It will do 68 miles (109km) on a single charge of the batteries, but in addition it uses a pair of Bladon Micro Gas Turbines to re-charge the batteries extending the range to 560 miles (900km).[53]
+Racing cars[edit]
+The first race car (in concept only) fitted with a turbine was in 1955 by a US Air Force group as a hobby project with a turbine loaned them by Boeing and a race car owned by Firestone Tire & Rubber company.[54] The first race car fitted with a turbine for the goal of actual racing was by Rover and the BRM Formula One team joined forces to produce the Rover-BRM, a gas turbine powered coupe, which entered the 1963 24 Hours of Le Mans, driven by Graham Hill and Richie Ginther. It averaged 107.8mph (173.5km/h) and had a top speed of 142mph (229km/h). American Ray Heppenstall joined Howmet Corporation and McKee Engineering together to develop their own gas turbine sports car in 1968, the Howmet TX, which ran several American and European events, including two wins, and also participated in the 1968 24 Hours of Le Mans. The cars used Continental gas turbines, which eventually set six FIA land speed records for turbine-powered cars.[55]
+For open wheel racing, 1967's revolutionary STP-Paxton Turbocar fielded by racing and entrepreneurial legend Andy Granatelli and driven by Parnelli Jones nearly won the Indianapolis 500; the Pratt & Whitney ST6B-62 powered turbine car was almost a lap ahead of the second place car when a gearbox bearing failed just three laps from the finish line. The next year the STP Lotus 56 turbine car won the Indianapolis 500 pole position even though new rules restricted the air intake dramatically. In 1971 Lotus principal Colin Chapman introduced the Lotus 56B F1 car, powered by a Pratt & Whitney STN 6/76 gas turbine. Chapman had a reputation of building radical championship-winning cars, but had to abandon the project because there were too many problems with turbo lag.
+Buses[edit]
+The arrival of the Capstone Microturbine has led to several hybrid bus designs, starting with HEV-1 by AVS of Chattanooga, Tennessee in 1999, and closely followed by Ebus and ISE Research in California, and DesignLine Corporation in New Zealand (and later the United States). AVS turbine hybrids were plagued with reliability and quality control problems, resulting in liquidation of AVS in 2003. The most successful design by Designline is now operated in 5 cities in 6 countries, with over 30 buses in operation worldwide, and order for several hundred being delivered to Baltimore, and NYC.
+Brescia Italy is using serial hybrid buses powered by microturbines on routes through the historical sections of the city.[56]
+Motorcycles[edit]
+The MTT Turbine Superbike appeared in 2000 (hence the designation of Y2K Superbike by MTT) and is the first production motorcycle powered by a turbine engine - specifically, a Rolls-Royce Allison model 250 turboshaft engine, producing about 283kW (380bhp). Speed-tested to 365km/h or 227mph (according to some stories, the testing team ran out of road during the test), it holds the Guinness World Record for most powerful production motorcycle and most expensive production motorcycle, with a price tag of US$185,000.
+Trains[edit]
+Main articles: Gas turbine-electric locomotive and Gas turbine train
+Several locomotive classes have been powered by gas turbines, the most recent incarnation being Bombardier's JetTrain.
+Tanks[edit]
+Marines from 1st Tank Battalion load a Honeywell AGT1500 multi-fuel turbine back into an M1 Abrams tank at Camp Coyote, Kuwait, February 2003
+The German Army's development division, the Heereswaffenamt (Army Ordnance Board), studied a number of gas turbine engines for use in tanks starting in mid-1944. The first gas turbine engines used for armoured fighting vehicle GT 101 was installed in the Panther tank.[57] The second use of a gas turbine in an armoured fighting vehicle was in 1954 when a unit, PU2979, specifically developed for tanks by C. A. Parsons & Co., was installed and trialled in a British Conqueror tank.[58] The Stridsvagn 103 was developed in the 1950s and was the first mass-produced main battle tank to use a turbine engine. Since then, gas turbine engines have been used as APUs in some tanks and as main powerplants in Soviet/Russian T-80s and U.S. M1 Abrams tanks, among others. They are lighter and smaller than diesels at the same sustained power output but the models installed to date are less fuel efficient than the equivalent diesel, especially at idle, requiring more fuel to achieve the same combat range. Successive models of M1 have addressed this problem with battery packs or secondary generators to power the tank's systems while stationary, saving fuel by reducing the need to idle the main turbine. T-80s can mount three large external fuel drums to extend their range. Russia has stopped production of the T-80 in favour of the diesel-powered T-90 (based on the T-72), while Ukraine has developed the diesel-powered T-80UD and T-84 with nearly the power of the gas-turbine tank. The French Leclerc MBT's diesel powerplant features the "Hyperbar" hybrid supercharging system, where the engine's turbocharger is completely replaced with a small gas turbine which also works as an assisted diesel exhaust turbocharger, enabling engine RPM-independent boost level control and a higher peak boost pressure to be reached (than with ordinary turbochargers). This system allows a smaller displacement and lighter engine to be used as the tank's powerplant and effectively removes turbo lag. This special gas turbine/turbocharger can also work independently from the main engine as an ordinary APU.
+A turbine is theoretically more reliable and easier to maintain than a piston engine, since it has a simpler construction with fewer moving parts but in practice turbine parts experience a higher wear rate due to their higher working speeds. The turbine blades are highly sensitive to dust and fine sand, so that in desert operations air filters have to be fitted and changed several times daily. An improperly fitted filter, or a bullet or shell fragment that punctures the filter, can damage the engine. Piston engines (especially if turbocharged) also need well-maintained filters, but they are more resilient if the filter does fail.
+Like most modern diesel engines used in tanks, gas turbines are usually multi-fuel engines.
+Marine applications[edit]
+Main article: Marine propulsion
+Naval[edit]
+The Gas turbine from MGB 2009
+Gas turbines are used in many naval vessels, where they are valued for their high power-to-weight ratio and their ships' resulting acceleration and ability to get underway quickly.
+The first gas-turbine-powered naval vessel was the Royal Navy's Motor Gun Boat MGB 2009 (formerly MGB 509) converted in 1947. Metropolitan-Vickers fitted their F2/3 jet engine with a power turbine. The Steam Gun Boat Grey Goose was converted to Rolls-Royce gas turbines in 1952 and operated as such from 1953.[59] The Bold class Fast Patrol Boats Bold Pioneer and Bold Pathfinder built in 1953 were the first ships created specifically for gas turbine propulsion.[60]
+The first large scale, partially gas-turbine powered ships were the Royal Navy's Type 81 (Tribal class) frigates with combined steam and gas powerplants. The first, HMSAshanti was commissioned in 1961.
+The German Navy launched the first Kln-class frigate in 1961 with 2 Brown, Boveri & Cie gas turbines in the world's first combined diesel and gas propulsion system.
+The Danish Navy had 6 Slven-class torpedo boats (the export version of the British Brave class fast patrol boat) in service from 1965 to 1990, which had 3 Bristol Proteus (later RR Proteus) Marine Gas Turbines rated at 9,510kW (12,750shp) combined, plus two General Motors Diesel engines, rated at 340kW (460shp), for better fuel economy at slower speeds.[61] And they also produced 10 Willemoes Class Torpedo / Guided Missile boats (in service from 1974 to 2000) which had 3 Rolls Royce Marine Proteus Gas Turbines also rated at 9,510kW (12,750shp), same as the Slven-class boats, and 2 General Motors Diesel Engines, rated at 600kW (800shp), also for improved fuel economy at slow speeds.[62]
+The Swedish Navy produced 6 Spica-class torpedo boats between 1966 and 1967 powered by 3 Bristol Siddeley Proteus 1282 turbines, each delivering 3,210kW (4,300shp). They were later joined by 12 upgraded Norrkping class ships, still with the same engines. With their aft torpedo tubes replaced by antishipping missiles they served as missile boats until the last was retired in 2005.[63]
+The Finnish Navy commissioned two Turunmaa-class corvettes, Turunmaa and Karjala, in 1968. They were equipped with one 16,410kW (22,000shp) Rolls-Royce Olympus TM1 gas turbine and three Wrtsil marine diesels for slower speeds. They were the fastest vessels in the Finnish Navy; they regularly achieved speeds of 35 knots, and 37.3 knots during sea trials. The Turunmaas were paid off in 2002. Karjala is today a museum ship in Turku, and Turunmaa serves as a floating machine shop and training ship for Satakunta Polytechnical College.
+The next series of major naval vessels were the four Canadian Iroquois-class helicopter carrying destroyers first commissioned in 1972. They used 2ft-4 main propulsion engines, 2ft-12 cruise engines and 3 Solar Saturn 750kW generators.
+An LM2500 gas turbine on USSFord
+The first U.S. gas-turbine powered ship was the U.S. Coast Guard's Point Thatcher, a cutter commissioned in 1961 that was powered by two 750kW (1,000shp) turbines utilizing controllable-pitch propellers.[64] The larger Hamilton-class High Endurance Cutters, was the first class of larger cutters to utilize gas turbines, the first of which (USCGCHamilton) was commissioned in 1967. Since then, they have powered the U.S. Navy's Oliver Hazard Perry-classfrigates, Spruance and Arleigh Burke-class destroyers, and Ticonderoga-class guided missile cruisers. USSMakin Island, a modified Wasp-class amphibious assault ship, is to be the Navy's first amphibious assault ship powered by gas turbines. The marine gas turbine operates in a more corrosive atmosphere due to presence of sea salt in air and fuel and use of cheaper fuels.
+Civilian maritime[edit]
+Up to the late 1940s much of the progress on marine gas turbines all over the world took place in design offices and engine builder's workshops and development work was led by the British Royal Navy and other Navies. While interest in the gas turbine for marine purposes, both naval and mercantile, continued to increase, the lack of availability of the results of operating experience on early gas turbine projects limited the number of new ventures on seagoing commercial vessels being embarked upon. In 1951, the Diesel-electric oil tanker Auris, 12,290 Deadweight tonnage (DWT) was used to obtain operating experience with a main propulsion gas turbine under service conditions at sea and so became the first ocean-going merchant ship to be powered by a gas turbine. Built by Hawthorn Leslie at Hebburn-on-Tyne, UK, in accordance with plans and specifications drawn up by the Anglo-Saxon Petroleum Company and launched on the UK's Princess Elizabeth's 21st birthday in 1947, the ship was designed with an engine room layout that would allow for the experimental use of heavy fuel in one of its high-speed engines, as well as the future substitution of one of its diesel engines by a gas turbine.[65] The Auris operated commercially as a tanker for three-and-a-half years with a diesel-electric propulsion unit as originally commissioned, but in 1951 one of its four 824kW (1,105bhp) diesel engines  which were known as "Faith", "Hope", "Charity" and "Prudence" - was replaced by the worlds first marine gas turbine engine, a 890kW (1,200bhp) open-cycle gas turbo-alternator built by British Thomson-Houston Company in Rugby. Following successful sea trials off the Northumbrian coast, the Auris set sail from Hebburn-on-Tyne in October 1951 bound for Port Arthur in the US and then Curacao in the southern Caribbean returning to Avonmouth after 44 days at sea, successfully completing her historic trans-Atlantic crossing. During this time at sea the gas turbine burnt diesel fuel and operated without an involuntary stop or mechanical difficulty of any kind. She subsequently visited Swansea, Hull, Rotterdam, Oslo and Southampton covering a total of 13,211 nautical miles. The Auris then had all of its power plants replaced with a 3,910kW (5,250shp) directly coupled gas turbine to become the first civilian ship to operate solely on gas turbine power.
+Despite the success of this early experimental voyage the gas turbine was not to replace the diesel engine as the propulsion plant for large merchant ships. At constant cruising speeds the diesel engine simply had no peer in the vital area of fuel economy. The gas turbine did have more success in Royal Navy ships and the other naval fleets of the world where sudden and rapid changes of speed are required by warships in action.[66]
+The United States Maritime Commission were looking for options to update WWII Liberty ships, and heavy-duty gas turbines were one of those selected. In 1956 the John Sergeant was lengthened and equipped with a General Electric 4,900kW (6,600shp) HD gas turbine with exhaust-gas regeneration, reduction gearing and a variable-pitch propeller. It operated for 9,700 hours using residual fuel(Bunker C) for 7,000 hours. Fuel efficiency was on a par with steam propulsion at 0.318kg/kW (0.523lb/hp) per hour,[67] and power output was higher than expected at 5,603kW (7,514shp) due to the ambient temperature of the North Sea route being lower than the design temperature of the gas turbine. This gave the ship a speed capability of 18 knots, up from 11 knots with the original power plant, and well in excess of the 15 knot targeted. The ship made its first transatlantic crossing with an average speed of 16.8 knots, in spite of some rough weather along the way. Suitable Bunker C fuel was only available at limited ports because the quality of the fuel was of a critical nature. The fuel oil also had to be treated on board to reduce contaminants and this was a labor-intensive process that was not suitable for automation at the time. Ultimately, the variable-pitch propeller, which was of a new and untested design, ended the trial, as three consecutive annual inspections revealed stress-cracking. This did not reflect poorly on the marine-propulsion gas-turbine concept though, and the trial was a success overall. The success of this trial opened the way for more development by GE on the use of HD gas turbines for marine use with heavy fuels.[68] The John Sergeant was scrapped in 1972 at Portsmouth PA.
+Boeing Jetfoil 929-100-007 Urzela of TurboJET
+Boeing launched its first passenger-carrying waterjet-propelled hydrofoil Boeing 929, in April 1974. Those ships were powered by twin Allison gas turbines of the KF-501 series.[citation needed]
+Between 1971 and 1981, Seatrain Lines operated a scheduled container service between ports on the eastern seaboard of the United States and ports in northwest Europe across the North Atlantic with four container ships of 26,000 tonnes DWT. Those ships were powered by twin Pratt & Whitney gas turbines of the FT 4 series. The four ships in the class were named Euroliner, Eurofreighter, Asialiner and Asiafreighter. Following the dramatic Organization of the Petroleum Exporting Countries (OPEC) price increases of the mid-1970s, operations were constrained by rising fuel costs. Some modification of the engine systems on those ships was undertaken to permit the burning of a lower grade of fuel (i.e., marine diesel). Reduction of fuel costs was successful using a different untested fuel in a marine gas turbine but maintenance costs increased with the fuel change. After 1981 the ships were sold and refitted with, what at the time, was more economical diesel-fueled engines but the increased engine size reduced cargo space.[citation needed]
+The first passenger ferry to use a gas turbine was the GTS Finnjet, built in 1977 and powered by two Pratt & Whitney FT 4C-1 DLF turbines, generating 55,000kW (74,000shp) and propelling the ship to a speed of 31knots. However, the Finnjet also illustrated the shortcomings of gas turbine propulsion in commercial craft, as high fuel prices made operating her unprofitable. After four years of service additional diesel engines were installed on the ship to reduce running costs during the off-season. The Finnjet was also the first ship with a Combined diesel-electric and gas propulsion. Another example of commercial usage of gas turbines in a passenger ship is Stena Line's HSS class fastcraft ferries. HSS 1500-class Stena Explorer, Stena Voyager and Stena Discovery vessels use combined gas and gas setups of twin GE LM2500 plus GE LM1600 power for a total of 68,000kW (91,000shp). The slightly smaller HSS 900-class Stena Carisma, uses twin ABBSTAL(sv) GT35 turbines rated at 34,000kW (46,000shp) gross. The Stena Discovery was withdrawn from service in 2007, another victim of too high fuel costs.[citation needed]
+In July 2000 the Millennium became the first cruise ship to be propelled by gas turbines, in a Combined Gas and Steam Turbine configuration. The liner RMS Queen Mary 2 uses a Combined Diesel and Gas Turbine configuration.[69]
+In marine racing applications the 2010 C5000 Mystic catamaran Miss GEICO uses two Lycoming T-55 turbines for its power system.[citation needed]
+Advances in technology[edit]
+Gas turbine technology has steadily advanced since its inception and continues to evolve. Development is actively producing both smaller gas turbines and more powerful and efficient engines. Aiding in these advances are computer based design (specifically CFD and finite element analysis) and the development of advanced materials: Base materials with superior high temperature strength (e.g., single-crystal superalloys that exhibit yield strength anomaly) or thermal barrier coatings that protect the structural material from ever-higher temperatures. These advances allow higher compression ratios and turbine inlet temperatures, more efficient combustion and better cooling of engine parts.
+Computational Fluid Dynamics (CFD) has contributed to substantial improvements in the performance and efficiency of Gas Turbine engine components through enhanced understanding of the complex viscous flow and heat transfer phenomena involved. For this reason, CFD is one of the key computational tool used in Design & development of gas [70] turbine engines.
+The simple-cycle efficiencies of early gas turbines were practically doubled by incorporating inter-cooling, regeneration (or recuperation), and reheating. These improvements, of course, come at the expense of increased initial and operation costs, and they cannot be justified unless the decrease in fuel costs offsets the increase in other costs. The relatively low fuel prices, the general desire in the industry to minimize installation costs, and the tremendous increase in the simple-cycle efficiency to about 40 percent left little desire for opting for these modifications.[71]
+On the emissions side, the challenge is to increase turbine inlet temperatures while at the same time reducing peak flame temperature in order to achieve lower NOx emissions and meet the latest emission regulations. In May 2011, Mitsubishi Heavy Industries achieved a turbine inlet temperature of 1,600C on a 320 megawatt gas turbine, and 460 MW in gas turbine combined-cycle power generation applications in which gross thermal efficiency exceeds 60%.[72]
+Compliant foil bearings were commercially introduced to gas turbines in the 1990s. These can withstand over a hundred thousand start/stop cycles and have eliminated the need for an oil system. The application of microelectronics and power switching technology have enabled the development of commercially viable electricity generation by micro turbines for distribution and vehicle propulsion.
+Advantages and disadvantages[edit]
+The following are advantages and disadvantages of gas-turbine engines:[73]
+Advantages[edit]
+Very high power-to-weight ratio, compared to reciprocating engines
+Smaller than most reciprocating engines of the same power rating
+Moves in one direction only, with far less vibration than a reciprocating engine
+Fewer moving parts than reciprocating engines implies lower maintenance cost.
+Greater reliability, particularly in applications where sustained high power output is required
+Waste heat is dissipated almost entirely in the exhaust. This results in a high temperature exhaust stream that is very usable for boiling water in a combined cycle, or for cogeneration
+Low operating pressures
+High operation speeds
+Low lubricating oil cost and consumption
+Can run on a wide variety of fuels
+Very low toxic emissions of CO and HC due to excess air, complete combustion and no "quench" of the flame on cold surfaces
+Disadvantages[edit]
+Cost is very high
+Less efficient than reciprocating engines at idle speed
+Longer startup than reciprocating engines
+Less responsive to changes in power demand compared with reciprocating engines
+Characteristic whine can be hard to suppress
+Testing[edit]
+British, German, other national and international test codes are used to standardize the procedures and definitions used to test gas turbines. Selection of the test code to be used is an agreement between the purchaser and the manufacturer, and has some significance to the design of the turbine and associated systems. In the United States, ASME has produced several performance test codes on gas turbines. This includes ASME PTC 22-2014. These ASME performance test codes have gained international recognition and acceptance for testing gas turbines. The single most important and differentiating characteristic of ASME performance test codes, including PTC 22, is that the test uncertainty of the measurement indicates the quality of the test and is not to be used as a commercial tolerance.
+See also[edit]
+Air-start system
+Axial compressor
+Balancing machine
+Centrifugal compressor
+Distributed generation
+Gas turbine-electric locomotive
+Gas turbine locomotive
+Gas turbine modular helium reactor
+Non-Intrusive Stress Measurement System
+Pneumatic motor
+Steam turbine
+Turbine engine failure
+Wind turbine
+References[edit]
+^ Introduction to Engineering Thermodynamics, Richard E. Sonntag, Claus Borrgnakke 2007. Retrieved 2013-03-13.
+^ B. Zhang (2014-12-14). Lu, Yongxiang, ed. A History of Chinese Science and Technology: Volume 3. Springer Berlin Heidelberg. pp.308310. ISBN3662441624. 'For trotting horse lamp, make paper-cut as wheel-like objects and the candle will heat the air which will rise and push the paper-cut to move, and the shadows of paper-cut will be cast by the candle light on the screen.' ...Judgment from the records of the Song dynasty shows that invention of China's trotting horse lamp was not later than 1000 AD. ...Obviously, the trotting horse lamp has already had the rudiment of a gas turbine.
+^ "Massachusetts Institute of Technology Gas Turbine Lab". Web.mit.edu. 1939-08-27. Retrieved 2012-08-13.
+^ UK patent no. 1833  Obtaining and Applying Motive Power, & c. A Method of Rising Inflammable Air for the Purposes of Procuring Motion, and Facilitating Metallurgical Operations
+^ "Original document: GB186101633 (A)  1861-12-18 caloric engines". Worldwide.espacenet.com. Retrieved 2016-03-13.
+^ "  " [Teleshov Nikolai Afanasievich]. Maria Online (in Russian). Retrieved 2016-01-12.
+^ "Patent US0635919" (PDF). Freepatentsonline.com. Retrieved 2012-08-13.
+^ "History - Biographies, Landmarks, Patents". ASME. 1905-03-10. Retrieved 2012-08-13.
+^ https://patents.google.com/patent/US635919A
+^ a b Leyes, p.231-232.
+^ Bakken, Lars E et al, p.83-88. "Centenary of the First Gas Turbine to Give Net Power Output: A Tribute to gidius Elling". ASME. 2004
+^ U.S. Patent US1,061,206
+^ http://www.frankwhittle.co.uk/content.php?act=viewDoc&docId=4&docFatherId=1&level=sub
+^ "University of Bochum "In Touch Magazine 2005", p. 5" (PDF). Retrieved 2012-08-13.
+^ John Golley. 1996. "Jet: Frank Whittle and the invention of the jet engine". ISBN 978-1-907472-00-8
+^ Eckardt, D. and Rufli, P. "Advanced Gas Turbine Technology - ABB/ BBC Historical Firsts", ASME J. Eng. Gas Turb. Power, 2002, p. 124, 542-549
+^ Eckardt, D. "Gas Turbine Powerhouse". 2014. ISBN 978-3-11-035962-6
+^ Owens, Brandon. "The Rise Of Distributed Power" (PDF). Retrieved 2015-10-15.
+^ Travis R. Doom. "Aeroderivative Gas Turbines" (PDF). Retrieved 2015-10-15.
+^ SATOSHI HADA; et al. "Test Results of the World's First 1,600C J-series Gas Turbine" (PDF). Retrieved 2015-10-15.
+^ "Gas Turbines breaking the 60% efficiency barrier". 2010-01-05. Retrieved 2015-10-15.
+^ Waumans, T.; Vleugels, P.; Peirs, J.; Al-Bender, F.; Reynaerts, D. (2006). Rotordynamic behaviour of a micro-turbine rotor on air bearings: modelling techniques and experimental verication, p. 182 (PDF). ISMA. International Conference on Noise and Vibration Engineering. Retrieved 2013-01-07.
+^ Tamarin, Y. Protective Coatings for Turbine Blades. 2002. ASM International. pp 3-5
+^ H. K. D. H. Bhadeshia. Nickel Based Superalloys. University of Cambridge. http://www.msm.cam.ac.uk/phase-trans/2003/Superalloys/superalloys.html
+^ Latief, F. H.; Kakehi, K. (2013) Effects of Re content and crystallographic orientation on creep behavior of aluminized Ni-based single crystal superalloys. Materials & Design 49: 485-492
+^ Dick, Erik (2015). "Thrust Gas Turbines". Fundamentals of Turbomachines. Dordrecht: Springer. 109.
+^ "Vulcan APU startup" (video).[dead link]
+^ "Bristol Siddeley Proteus". Internal Fire Museum of Power. 1999. Archived from the original on 2009-01-18.
+^ "Jet Racer". Scrapheap Challenge. Season 6. UK. 2003. Retrieved 2016-03-13.
+^ a b c d Schreckling, Kurt (1994). Gas Turbines for Model Aircraft. ISBN0-9510589-1-6.
+^ Kamps, Thomas (2005). Model Jet Engines. Traplet Publications. ISBN1-900371-91-X.
+^ Lee S. Langston. "Efficiency by the Numbers".
+^ Kellner, Tomas (2016-06-17). "Here's Why The Latest Guinness World Record Will Keep France Lit Up Long After Soccer Fans Leave" (Press release). General Electric. Retrieved 2016-06-21.
+^ Ratliff, Phil; Garbett, Paul; Fischer, Willibald (September 2007). "The New Siemens Gas Turbine SGT5-8000H for More Customer Benefit" (PDF). VGB PowerTech. Siemens Power Generation. Retrieved 2010-07-17.
+^ Prime Movers in CHP - Steam Turbines, Gas Turbines, Reciprocating Engines, Spark Ignition Archived 26 June 2011 at the Wayback Machine.
+^ a b Jan Peirs. Katholieke Universiteit Leuven, Department of Mechanical Engineering. "Ultra micro gas turbine generator" 2008.
+^ Genuth, Iddo (2007-02-07). "Engine on a Chip". The Future of Things. Retrieved 2016-06-21.
+^ "History of Chrysler Corporation Gas Turbine Vehicles" published by the Engineering Section 1979
+^ "Chrysler Corp., Exner Concept Cars 1940 to 1961" undated, retrieved on 2008-05-11.
+^ Bladon Jets And Jaguar Land Rover Win Funding For Gas Turbine Electric Vehicle Project Archived 13 March 2012 at the Wayback Machine.
+^ "Gas Turbines For Autos". Popular Science. 146 (8): 121. May 1946. Retrieved 2016-03-13.
+^ "Gas Turbine Auto". Popular Mechanics. 101 (3): 90. March 1954. Retrieved 2016-03-13.
+^ a b "Turbo Plymouth Threatens Future of Standard". Popular Science. 165 (1): 102. July 1954. Retrieved 2016-03-13.
+^ "Chrysler turbine engines and cars". Allpar.com. Retrieved 2016-03-13.
+^ "Italy's Turbo Car Hits 175 m.p.h.". Popular Mechanics. 165 (1): 120. July 1954. Retrieved 2016-03-13.
+^ Linden, Lawrence H.; Kumar, Subramanyam; Samuelson, Paul R. (December 1977). Issues in Federally Supported Research on Advanced Automotive Power Systems. Division of Policy Research and Analysis, National Science Foundation. p.49. Retrieved 2016-03-13.
+^ Linden, page 53.
+^ Verrelli, L. D.; Andary, C. J. (May 1972). "Exhaust Emission Analysis of the Williams Research Gas Turbine AMC Hornet". National Technical Information Service. PB218687. Retrieved 2016-03-13.
+^ Norbye, Jan P. (March 1971). "Tiny 80-HP gas turbine to power compact car". Popular Science. 198 (3): 34. Retrieved 2016-03-13.
+^ Ludvigsen, Karl (November 1971). "Williams Turbine Takes the Road". Motor Trend. 23 (11).
+^ Norbye, Jan P.; Dunne, Jim (September 1973). "Gas turbine car: it's now or never". Popular Science. 302 (3): 59. Retrieved 2016-03-13.
+^ 10/31/2007 (2007-10-31). "Article in Green Car". Greencar.com. Archived from the original on 13 August 2012. Retrieved 2012-08-13.
+^ Nagy, Chris (2010-10-01). "The Electric Cat: Jaguar C-X75 Concept Supercar". Automoblog.net. Retrieved 2016-03-13.
+^ "Turbine Drives Retired Racing Car." Popular Science, June 1955, p. 89.
+^ "The history of the Howmet TX turbine car of 1968, still the world's only turbine powered race winner". Pete Stowe Motorsport History. June 2006. Archived from the original on 2008-03-02. Retrieved 31 January 2008.
+^ "Serial Hybrid Busses for a Public Transport scheme in Brescia (Italy)". Draft.fgm-amor.at. Retrieved 2012-08-13.
+^ Kay, Antony, German Jet Engine and Gas Turbine Development 1930-1945, Airlife Publishing, 2002
+^ Richard M Ogorkiewicz, Jane's - The Technology of Tanks, Jane's Information Group, p.259
+^ Walsh, Philip P.; Paul Fletcher (2004). Gas Turbine Performance (2nd ed.). John Wiley and Sons. p.25. ISBN978-0-632-06434-2.
+^ "''The first marine gas turbine, 1947''". Scienceandsociety.co.uk. 2008-04-23. Retrieved 2012-08-13.
+^ Slven class torpedoboat, 1965 Archived 15 November 2011 at the Wayback Machine.
+^ Willemoes class torpedo/guided missile boat, 1974 Archived 20 August 2011 at the Wayback Machine.
+^ Fast missile boat
+^ "US Coast Guard Historian's website, USCGC ''Point Thatcher'' (WPB-82314)" (PDF). Retrieved 2012-08-13.
+^ (1954), Operation of a Marine Gas Turbine Under Sea Conditions. Journal of the American Society for Naval Engineers, 66: 457466. doi: 10.1111/j.1559-3584.1954.tb03976.x
+^ Future Ship Powering Options: Exploring alternative methods of ship propulsion. Royal Academy of Engineering Prince Philip House. ISBN9781909327016.
+^ Naval Education and Training Program Development Center Introduction to Marine Gas Turbines (1978) Naval Education and Training Support Command pp.3
+^ National Research Council (U.S.) Innovation in the Maritime Industry (1979) Maritime Transportation Research Board pp.127-131
+^ "GE - Aviation: GE Goes from Installation to Optimized Reliability for Cruise Ship Gas Turbine Installations". Geae.com. 2004-03-16. Retrieved 2012-08-13.
+^ "CFD for Aero Engines" (PDF). HCL Technologies. April 2011. Retrieved 2016-03-13.
+^ engel, Yunus A., and Michael A. Boles. "9-8." Thermodynamics: An Engineering Approach. 7th ed. New York: McGraw-Hill, 2011. 510. Print.
+^ "MHI Achieves 1,600C Turbine Inlet Temperature in Test Operation of World's Highest Thermal Efficiency "J-Series" Gas Turbine". Mitsubishi Heavy Industries. 26 May 2011. Archived from the original on 13 November 2013.
+^ Brain, Marshall (2000-04-01). "How Gas Turbine Engines Work". Science.howstuffworks.com. Retrieved 2016-03-13.
+Further reading[edit]
+Stationary Combustion Gas Turbines including Oil & Over-Speed Control System description
+"Aircraft Gas Turbine Technology" by Irwin E. Treager, McGraw-Hill, Glencoe Division, 1979, ISBN 0-07-065158-2.
+"Gas Turbine Theory" by H.I.H. Saravanamuttoo, G.F.C. Rogers and H. Cohen, Pearson Education, 2001, 5th ed., ISBN 0-13-015847-X.
+Leyes II, Richard A.; William A. Fleming (1999). The History of North American Small Gas Turbine Aircraft Engines. Washington, DC: Smithsonian Institution. ISBN1-56347-332-1.
+R. M. "Fred" Klaass and Christopher DellaCorte, "The Quest for Oil-Free Gas Turbine Engines," SAE Technical Papers, No. 2006-01-3055, available at: http://www.sae.org/technical/papers/2006-01-3055.
+"Model Jet Engines" by Thomas Kamps ISBN 0-9510589-9-1 Traplet Publications
+Aircraft Engines and Gas Turbines, Second Edition by Jack L. Kerrebrock, The MIT Press, 1992, ISBN 0-262-11162-4.
+"Forensic Investigation of a Gas Turbine Event [1]" by John Molloy, M&M Engineering
+"Gas Turbine Performance, 2nd Edition" by Philip Walsh and Paul Fletcher, Wiley-Blackwell, 2004, ISBN 978-0-632-06434-2 http://eu.wiley.com/WileyCDA/WileyTitle/productCd-063206434X.html
+External links[edit]
+Wikimedia Commons has media related to Gas turbines.
+Gas turbine at DMOZ
+"New Era In Power To Turn Wheels" Popular Science, December 1939, early article on operations of gas turbine power plants, cutaway drawings
+Technology Speed of Civil Jet Engines
+MIT Gas Turbine Laboratory
+MIT Microturbine research
+California Distributed Energy Resource guide - Microturbine generators
+Introduction to how a gas turbine works from "how stuff works.com"
+Aircraft gas turbine simulator for interactive learning
+An online handbook on stationary gas turbine technologies compiled by the US DOE.
+v
+t
+e
+Heat engines
+Carnot engine
+Fluidyne
+Gas turbine
+Hot air
+Jet
+Minto wheel
+Photo-Carnot engine
+Piston
+Pistonless (Rotary)
+Rijke tube
+Rocket
+Split-single
+Steam (reciprocating)
+Steam turbine
+Stirling
+Thermoacoustic
+Beale number
+West number
+Timeline of heat engine technology
+Thermodynamic cycle
+Authority control
+LCCN: sh85053352
+GND: 4019416-4
+BNF: cb119796275 (data)
+NewPP limit report
+Parsed by mw1303
+Cached time: 20161117235425
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.892 seconds
+Real time usage: 0.995 seconds
+Preprocessor visited node count: 6768/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 135691/2097152 bytes
+Template argument size: 12698/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 11/500
+Lua time usage: 0.492/10.000 seconds
+Lua memory usage: 7.66 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+827.562
+1 - -total
+39.44%
+326.430
+1 - Template:Reflist
+30.07%
+248.809
+23 - Template:Fix
+28.62%
+236.828
+18 - Template:Citation_needed
+18.28%
+151.291
+22 - Template:Delink
+14.02%
+115.987
+25 - Template:Cite_web
+10.18%
+84.242
+42 - Template:Category_handler
+7.26%
+60.044
+27 - Template:Convert
+6.30%
+52.166
+7 - Template:Cite_book
+5.39%
+44.597
+10 - Template:Cite_journal
+Saved in parser cache with key enwiki:pcache:idhash:58664-0!*!0!!en!4!* and timestamp 20161117235424 and revision id 749971073
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Gas_turbine&oldid=749971073#Microturbines"
+Categories: Gas turbinesEnginesTurbinesMarine propulsionHidden categories: CS1 Russian-language sources (ru)All articles with dead external linksArticles with dead external links from March 2016Webarchive template wayback linksPages using ISBN magic linksArticles containing Chinese-language textAll articles with unsourced statementsArticles with unsourced statements from December 2012Wikipedia articles needing clarification from February 2011All articles that may contain original researchArticles that may contain original research from February 2013Vague or ambiguous time from April 2014Articles with unsourced statements from April 2014Wikipedia articles needing clarification from July 2012Articles with unsourced statements from October 2014Interlanguage link template link numberCommons category with local link different than on WikidataArticles with DMOZ linksUse dmy dates from March 2011Wikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers

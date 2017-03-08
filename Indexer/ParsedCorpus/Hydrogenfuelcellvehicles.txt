@@ -1,0 +1,874 @@
+Hydrogenfuelcellvehicles
+From Wikipedia, the free encyclopedia
+(Redirected from Hydrogen fuel cell vehicles)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+The 2015 Toyota Mirai is one of the first hydrogen fuel cell vehicles to be sold commercially. The Mirai is based on the Toyota FCV concept car (shown).[1]
+A hydrogen vehicle is a vehicle that uses hydrogen as its onboard fuel for motive power. Hydrogen vehicles include hydrogen fueled space rockets, as well as automobiles and other transportation vehicles. The power plants of such vehicles convert the chemical energy of hydrogen to mechanical energy either by burning hydrogen in an internal combustion engine, or by reacting hydrogen with oxygen in a fuel cell to run electric motors. Widespread use of hydrogen for fueling transportation is a key element of a proposed hydrogen economy.[2]
+As of 2014, 95% of hydrogen is made from methane. It can be produced using renewable sources, but that is an expensive process.[3] Integrated wind-to-hydrogen (power to gas) plants, using electrolysis of water, are exploring technologies to deliver costs low enough, and quantities great enough, to compete with traditional energy sources.[4]
+Many companies are working to develop technologies that might efficiently exploit the potential of hydrogen energy for use in motor vehicles. As of November 2013[update] there are demonstration fleets of hydrogen fuel cell vehicles undergoing field testing including the Chevrolet Equinox Fuel Cell, Honda FCX Clarity, Hyundai ix35 FCEV and Mercedes-Benz B-Class F-Cell.[5] The drawbacks of hydrogen use are high carbon emissions intensity when produced from natural gas, capital cost burden, low energy content per unit volume, low performance of fuel cell vehicles compared with gasoline vehicles, production and compression of hydrogen, and the large investment in infrastructure that would be required to fuel vehicles.[5][6][7]
+Contents
+1 Vehicles
+1.1 Automobiles
+1.2 Buses
+1.3 Trams
+1.4 Bicycles
+1.5 Motorcycles and scooters
+1.6 Quads and tractors
+1.7 Airplanes
+1.8 Fork trucks
+1.9 Rockets
+2 Internal combustion vehicle
+3 Fuel cell
+3.1 Fuel cell cost
+3.2 Freezing conditions
+3.3 Service life
+4 Hydrogen
+4.1 Production
+4.2 Storage
+4.3 Infrastructure
+4.4 Codes and standards
+5 Official support
+5.1 US initiatives
+5.2 Other efforts
+6 Criticism
+7 Comparison with other types of alternative fuel vehicle
+7.1 Plug-in hybrids
+7.2 Natural gas
+7.3 All-electric vehicles
+8 See also
+9 References
+10 External links
+Vehicles[edit]
+Honda FCX Clarity, a hydrogen fuel cell demonstration vehicle introduced in 2008
+Further information: Fuel cell vehicle
+Buses, trains, PHB bicycles, canal boats, cargo bikes, golf carts, motorcycles, wheelchairs, ships, airplanes, submarines, and rockets can already run on hydrogen, in various forms. NASA used hydrogen to launch Space Shuttles into space. A working toy model car runs on solar power, using a regenerative fuel cell to store energy in the form of hydrogen and oxygen gas. It can then convert the fuel back into water to release the solar energy.[8] Since the advent of hydraulic fracturing the key concern for environmentalists with hydrogen fuel cell vehicles is consumer and public policy confusion that could result adoption of natural gas powered hydrogen vehicles with heavy hidden emissions to the detriment of environmentally friendly transportation.[7]
+The current land speed record for a hydrogen-powered vehicle is 286.476 miles per hour (461.038km/h) set by Ohio State University's Buckeye Bullet 2, which achieved a "flying-mile" speed of 280.007 miles per hour (450.628km/h) at the Bonneville Salt Flats in August 2008. For production-style vehicles, the current record for a hydrogen-powered vehicle is 207.297 miles per hour (333.612km/h) set by a prototype Ford Fusion Hydrogen 999 Fuel Cell Race Car at Bonneville Salt Flats in Wendover, Utah, in August 2007. It was accompanied by a large compressed oxygen tank to increase power.[9]
+Automobiles[edit]
+The Hyundai ix35 FCEV production car
+The Chevrolet Sequel hydrogen fuel cell-powered concept SUV vehicle
+As of 2016[update], there are 3 hydrogen cars publicly available in select markets; the Toyota Mirai, the Hyundai ix35 FCEV, and the Honda Clarity.[10]
+Toyota launched its first production fuel cell vehicle, the Mirai, in Japan at the end of 2014 and began sales in California, mainly the Los Angeles area, in 2015.[11] The car has a range of 312mi (502km) and takes about five minutes to refill its hydrogen tank. The initial sale price in Japan was about 7 million yen ($69,000).[12] Former European Parliament President Pat Cox estimates that Toyota will initially lose about $100,000 on each Mirai sold.[13] Many automobile companies have introduced demonstration models in limited numbers (see list of fuel cell vehicles).[14][15] One disadvantage of hydrogen compared to other automobile fuels is its low density.[16][17][18]
+Several manufacturers are collaborating on hydrogen technology development, with 2013 announcements of BMW leasing technology from Toyota, and another group formed by Ford Motor Company, Daimler AG, and Nissan.[19]
+Buses[edit]
+Main article: fuel cell bus
+Toyota FCHV-BUS at the Expo 2005.
+Fuel cell buses (as opposed to hydrogen fueled buses) are being trialed by several manufacturers in different locations. The Fuel Cell Bus Club is a global fuel cell bus testing collaboration.[citation needed]
+Trams[edit]
+In March 2015, China South Rail Corporation (CSR) demonstrated the world's first hydrogen fuel cell-powered tramcar at an assembly facility in Qingdao. The chief engineer of the CSR subsidiary CSR Sifang Co Ltd., Liang Jianying, said that the company is studying how to reduce the running costs of the tram.[20] A total of 83 miles of tracks for the new vehicle have been built in seven Chinese cities. China plans to spend 200 billion yuan ($32 billion) over the next five years to increase tram tracks to more than 1,200 miles.[21]
+Bicycles[edit]
+Main article: PHB (bicycle)
+Hydrogen bicycle
+Pearl Hydrogen Power Sources of Shanghai, China, unveiled a hydrogen bicycle at the 9th China International Exhibition on Gas Technology, Equipment and Applications in 2007.
+Motorcycles and scooters[edit]
+ENV develops electric motorcycles powered by a hydrogen fuel cell, including the Crosscage and Biplane. Other manufacturers as Vectrix are working on hydrogen scooters.[22] Finally, hydrogen fuel cell-electric hybrid scooters are being made such as the Suzuki Burgman fuel cell scooter.[23] and the FHybrid.[24] The Burgman received "whole vehicle type" approval in the EU.[25] The Taiwanese company APFCT conducted a live street test with 80 fuel cell scooters for Taiwans Bureau of Energy.[26]
+Quads and tractors[edit]
+Autostudi S.r.l's H-Due[27] is a hydrogen-powered quad, capable of transporting 1-3 passengers. A concept for a hydrogen powered tractor has been proposed.[28]
+Airplanes[edit]
+For more details on this topic, see Hydrogen planes.
+The Boeing Fuel Cell Demonstrator powered by a hydrogen fuel cell
+Companies such as Boeing, Lange Aviation, and the German Aerospace Center pursue hydrogen as fuel for manned and unmanned airplanes. In February 2008 Boeing tested a manned flight of a small aircraft powered by a hydrogen fuel cell. Unmanned hydrogen planes have also been tested.[29] For large passenger airplanes however, The Times reported that "Boeing said that hydrogen fuel cells were unlikely to power the engines of large passenger jet airplanes but could be used as backup or auxiliary power units onboard."[30]
+In July 2010 Boeing unveiled its hydrogen powered Phantom Eye UAV, powered by two Ford internal combustion engines that have been converted to run on hydrogen.[31]
+In Britain, the Reaction Engines A2 has been proposed to use the thermodynamic properties of liquid hydrogen to achieve very high speed, long distance (antipodal) flight by burning it in a precooled jet engine.
+Fork trucks[edit]
+A HICE forklift or HICE lift truck is a hydrogen fueled, internal combustion engine-powered industrial forklift truck used for lifting and transporting materials. The first production HICE forklift truck based on the Linde X39 Diesel was presented at an exposition in Hannover on May 27, 2008. It used a 2.0 litre, 43kW (58hp) diesel internal combustion engine converted to use hydrogen as a fuel with the use of a compressor and direct injection.[32][33]
+A fuel cell forklift (also called a fuel cell lift truck or a fuel cell forklift) is a fuel cell powered industrial forklift truck. In 2013 there were over 4,000 fuel cell forklifts used in material handling in the US.[34] Only 500 of these received funding from DOE in 2012.[35][36] The global market is 1 million fork lifts per year.[37] As of 2013[update], fuel cell fleets are being operated by several of companies, including Sysco Foods, FedEx Freight, GENCO (at Wegmans, Coca-Cola, Kimberly Clark, and Whole Foods), and H-E-B Grocers.[38] A total of 30 fuel cell forklifts with Hylift were demonstrated in Europe and extended it with HyLIFT-EUROPE to 200 units.[39] With other projects in France[40][41] and Austria.[42] Pike Research stated in 2011 that fuel-cell-powered forklifts will be the largest driver of hydrogen fuel demand by 2020.[43]
+Most companies in Europe and the US do not use petroleum powered forklifts, as these vehicles work indoors where emissions must be controlled and instead use electric forklifts.[37][44] Fuel-cell-powered forklifts can provide benefits over battery powered forklifts as they can work for a full 8-hour shift on a single tank of hydrogen and can be refueled in 3 minutes. Fuel cell-powered forklifts can be used in refrigerated warehouses, as their performance is not degraded by lower temperatures. The FC units are often designed as drop-in replacements.[45][46]
+Rockets[edit]
+Many large rockets use liquid hydrogen as fuel, with liquid oxygen as an oxidizer. An advantage of hydrogen rocket fuel is the high effective exhaust velocity compared to kerosene/LOX or UDMH/NTO engines. According to the Tsiolkovsky rocket equation, a rocket with higher exhaust velocity needs less propellant mass to achieve a given change of speed. Before combustion, the hydrogen runs through cooling pipes around the exhaust nozzle to protect the nozzle from damage by the hot exhaust gases.[47] Also the energy content or energy density of hydrogen calculated from weight is the best compared to any other chemical energy storage.[48] In combination with an oxidizer such as liquid oxygen, liquid hydrogen yields the highest specific impulse, or efficiency in relation to the amount of propellant consumed, of any known rocket propellant.[49]
+A disadvantage of LH2/LOX engines are the low density and low temperature of liquid hydrogen, which means bigger and insulated and thus heavier fuel tanks are needed. This increases the rocket's structural mass which reduces its delta-v significantly. Another disadvantage is the poor storability of LH2/LOX-powered rockets: Due to the constant hydrogen boil-off, the rocket can only be fueled shortly before launch, which makes cryogenic engines unsuitable for ICBMs and other rocket applications with the need for short launch preparations.
+Overall, the delta-v of a hydrogen stage is typically not much different from that of a dense fuelled stage, however, the weight of a hydrogen stage is much less, which makes it particularly effective for upper stages, since they are carried by the lower stages. For first stages, dense fuelled rockets in studies may show a small advantage, due to the smaller vehicle size and lower air drag.[50]
+Liquid hydrogen and oxygen were also used in the Space Shuttle to run the fuel cells that power the electrical systems.[51] The byproduct of the fuel cell is water, which is used for drinking and other applications that require water in space.
+Internal combustion vehicle[edit]
+Main articles: Hydrogen internal combustion engine vehicle and List of hydrogen internal combustion engine vehicles
+Hydrogen internal combustion engine cars are different from hydrogen fuel cell cars. The hydrogen internal combustion car is a slightly modified version of the traditional gasoline internal combustion engine car. These hydrogen engines burn fuel in the same manner that gasoline engines do; the main difference is the exhaust product. Gasoline combustion results in carbon dioxide and water vapour, while the only exhaust product of hydrogen combustion is water vapour.
+In 1807 Francois Isaac de Rivaz designed the first hydrogen-fueled internal combustion engine.[52] In 1965, Roger Billings, then a high school student, converted a Model A to run on hydrogen.[53] In 1970 Paul Dieges patented a modification to internal combustion engines which allowed a gasoline-powered engine to run on hydrogen US 3844262.
+Mazda has developed Wankel engines burning hydrogen.[citation needed] The advantage of using an internal combustion engine, like Wankel and piston engines, is the lower cost of retooling for production.[citation needed]
+HICE forklift trucks have been demonstrated[54] based on converted diesel internal combustion engines with direct injection.[33]
+Fuel cell[edit]
+For more details on this topic, see Fuel cell.
+Fuel cell cost[edit]
+Hydrogen fuel cells are relatively expensive to produce, as their designs require rare substances such as platinum as a catalyst,[55] In 2014, Toyota said it would introduce its Toyota Mirai in Japan for less than $70,000 in 2015.[12][56] Former European Parliament President Pat Cox estimates that Toyota will initially lose about $100,000 on each Mirai sold.[13]
+Freezing conditions[edit]
+The problems in early fuel cell designs at low temperatures concerning range and cold start capabilities have been addressed so that they "cannot be seen as show-stoppers anymore".[57] Users in 2014 said that their fuel cell vehicles perform flawlessly in temperatures below zero, even with the heaters blasting, without significantly reducing range.[58]
+Service life[edit]
+The service life of fuel cells is comparable to that of other vehicles.[59] PEM service life is 7,300 hours under cycling conditions.[60]
+Hydrogen[edit]
+Hydrogen does not come as a pre-existing source of energy like fossil fuels, but is first produced and then stored as a carrier,[61] much like a battery. A suggested benefit of large-scale deployment of hydrogen vehicles is that it could lead to decreased emissions of greenhouse gases and ozone precursors.[62] However, as of 2014, 95% of hydrogen is made from methane. It can be produced using renewable sources, but that is an expensive process.[3][63] Integrated wind-to-hydrogen (power to gas) plants, using electrolysis of water, are exploring technologies to deliver costs low enough, and quantities great enough, to compete with traditional energy sources.[64]
+According to Ford Motor Company, "when FCVs are run on hydrogen reformed from natural gas using this process, they do not provide significant environmental benefits on a well-to-wheels basis (due to GHG emissions from the natural gas reformation process)."[65] While methods of hydrogen production that do not use fossil fuel would be more sustainable,[66] currently renewable energy represents only a small percentage of energy generated, and power produced from renewable sources can be used in electric vehicles and for non-vehicle applications.[67]
+The challenges facing the use of hydrogen in vehicles include production, storage, transport and distribution. The well-to-wheel efficiency for hydrogen is less than 25%.[7][68][69][70] A study sponsored by the U.S. Department of Energy said in 2004 that the well-to-wheel efficiency of gasoline or diesel powered vehicles is even less.[71]
+Production[edit]
+For more details on this topic, see Hydrogen production.
+The molecular hydrogen needed as an on-board fuel for hydrogen vehicles can be obtained through many thermochemical methods utilizing natural gas, coal (by a process known as coal gasification), liquefied petroleum gas, biomass (biomass gasification), by a process called thermolysis, or as a microbial waste product called biohydrogen or Biological hydrogen production. 95% of hydrogen is produced using natural gas,[72] and 85% of hydrogen produced is used to remove sulfur from gasoline. Hydrogen can also be produced from water by electrolysis at working efficiencies in the 5060% range for the smaller electrolysers and around 6570% for the larger plants.[73] Hydrogen can also be made by chemical reduction using chemical hydrides or aluminum.[74] Current technologies for manufacturing hydrogen use energy in various forms, totaling between 25 and 50 percent of the higher heating value of the hydrogen fuel, used to produce, compress or liquefy, and transmit the hydrogen by pipeline or truck.[75]
+Environmental consequences of the production of hydrogen from fossil energy resources include the emission of greenhouse gases, a consequence that would also result from the on-board reforming of methanol into hydrogen.[68] Analyses comparing the environmental consequences of hydrogen production and use in fuel-cell vehicles to the refining of petroleum and combustion in conventional automobile engines do not agree on whether a net reduction of ozone and greenhouse gases would result.[7][62] Hydrogen production using renewable energy resources would not create such emissions, but the scale of renewable energy production would need to be expanded to be used in producing hydrogen for a significant part of transportation needs.[76] As of 2015, 33 percent of U.S. electricity was produced from renewable sources (including 7% from hydro and 20% from nuclear).[77] In a few countries, renewable sources are being used more widely to produce energy and hydrogen. For example, Iceland is using geothermal power to produce hydrogen,[78] and Denmark is using wind.[79]
+Storage[edit]
+For more details on this topic, see Hydrogen storage.
+Compressed hydrogen storage mark
+Hydrogen has a very low volumetric energy density at ambient conditions, equal to about one-third that of methane. Even when the fuel is stored as liquid hydrogen in a cryogenic tank or in a compressed hydrogen storage tank, the volumetric energy density (megajoules per liter) is small relative to that of gasoline.[16][17][18][55] Hydrogen has a three times higher specific energy by mass compared to gasoline (143 MJ/kg versus 46.9 MJ/kg). In 2011, scientists at Los Alamos National Laboratory and University of Alabama, working with the U.S. Department of Energy, found a single-stage method for recharging ammonia borane, a hydrogen storage compound.[80][81]
+The DOE has studied hydrogen storage methods, focusing on on-board vehicular hydrogen storage systems that will allow for a driving range of 300+ miles.[82] Compressed hydrogen in hydrogen tanks at 350 bar (5,000 psi) and 700 bar (10,000 psi) is used for hydrogen tank systems in vehicles, based on type IV carbon-composite technology.[83]
+Infrastructure[edit]
+Hydrogen car fueling
+Hydrogen fueling
+For more details on this topic, see Hydrogen infrastructure.
+For more details on this topic, see Hydrogen highway.
+The hydrogen infrastructure consists mainly of industrial hydrogen pipeline transport and hydrogen-equipped filling stations like those found on a hydrogen highway. Hydrogen stations which are not situated near a hydrogen pipeline can obtain supply via hydrogen tanks, compressed hydrogen tube trailers, liquid hydrogen tank trucks or dedicated onsite production.
+According to GM, 70% of the U.S. population lives near a hydrogen-generating facility but has little access to hydrogen, despite its wide availability for commercial use.[84] The distribution of hydrogen fuel for vehicles throughout the U.S. would require new hydrogen stations that would cost, by some estimates approximately 20 billion dollars[85] and 4.6 billion in the EU.[86] Other estimates place the cost as high as half trillion dollars in the United States alone.[7][87]
+As of 2016[update], there are 23 publicly accessible hydrogen refueling stations in the USA, 20 of which are located in California.[88][89] They are mainly sourced by natural gas.[90]
+Codes and standards[edit]
+Hydrogen codes and standards, as well as codes and technical standards for hydrogen safety and the storage of hydrogen, have been identified as an institutional barrier to deploying hydrogen technologies and developing a hydrogen economy. To enable the commercialization of hydrogen in consumer products, new codes and standards must be developed and adopted by federal, state and local governments.[91]
+Official support[edit]
+US initiatives[edit]
+In 2003, George W. Bush announced an initiative to promote hydrogen powered vehicles.[92] In 2009, President Obama and his Department of Energy Secretary Steven Chu stripped the funding of fuel cell technology due to their belief that the technology was still decades away. Under heavy criticism, the funding was partially restored.[93][94] In 2014 the Obama administration announced they want to speed up production and development of hydrogen powered vehicles. The press release states that, by partnering with a private sector, the Obama administration thinks that it can create success stories and help speed up the process. The Department of Energy is spreading a $7.2 million investment to the states of Georgia, Kansas, Pennsylvania, and Tennessee to support projects that fuel vehicles and support power systems. Companies like The Center for Transportation and The Environment, Fed Ex Express, Air Products and Chemicals, and Sprint are invested in the development of these fuel cells. Fuel cells could also be used in handling equipment such as forklifts as well as telecommunications infrastructure.[95]
+Senator Byron L. Dorgan stated in 2013: The Energy and Water Appropriations bill makes investments in our nations efforts to develop safe, homegrown energy sources that will reduce our reliance on foreign oil. And, because ongoing research and development is necessary to develop game-changing technologies, this bill also restores funding for Hydrogen energy research. Much work has been done in developing these fuel cell cars. The U.S. Department of Energy supports next generation fuel cell systems and they are the nations lead innovative clean energy technologies. In June 2013 the DOE gave 9 million dollars in grants to speed up the technology and another 4.5 million for advanced fuel cell membranes, $3 million for Minnesota-based 3M to work on membranes with improved durability and performance, and 1.5 million for the Colorado School of Mines for work on simpler and more affordable fuel cell membranes.[96]
+Other efforts[edit]
+Japan has a strategy for using hydrogen in transport. The hydrogen is mainly to be sourced from outside Japan.[61][97]
+Norway plans a series of hydrogen refueling stations along the main roads.[98][99]
+Criticism[edit]
+Critics claim the time frame for overcoming the technical and economic challenges to implementing wide-scale use of hydrogen cars is likely to last for at least several decades, and hydrogen vehicles may never become broadly available.[67][100] They claim that the focus on the use of the hydrogen car is a dangerous detour from more readily available solutions to reducing the use of fossil fuels in vehicles.[101] In May 2008, Wired News reported that "experts say it will be 40 years or more before hydrogen has any meaningful impact on gasoline consumption or global warming, and we can't afford to wait that long. In the meantime, fuel cells are diverting resources from more immediate solutions."[102]
+K. G. Duleep commented that "a strong case exists for continuing fuel-efficiency improvements from conventional technology at relatively low cost."[103] Critiques of hydrogen vehicles are presented in the 2006 documentary, Who Killed the Electric Car?. According to former U.S. Department of Energy official Joseph Romm, "A hydrogen car is one of the least efficient, most expensive ways to reduce greenhouse gases." Asked when hydrogen cars will be broadly available, Romm replied: "Not in our lifetime, and very possibly never."[103] The Los Angeles Times wrote, in February 2009, "Hydrogen fuel-cell technology won't work in cars. ... Any way you look at it, hydrogen is a lousy way to move cars."[104]
+The Economist magazine, in September 2008, quoted Robert Zubrin, the author of Energy Victory, as saying: "Hydrogen is 'just about the worst possible vehicle fuel'".[105] The magazine noted the withdrawal of California from earlier goals: "In March [2008] the California Air Resources Board, an agency of California's state government and a bellwether for state governments across America, changed its requirement for the number of zero-emission vehicles (ZEVs) to be built and sold in California between 2012 and 2014. The revised mandate allows manufacturers to comply with the rules by building more battery-electric cars instead of fuel-cell vehicles."[105] The magazine also noted that most hydrogen is produced through steam reformation, which creates at least as much emission of carbon per mile as some of today's gasoline cars. On the other hand, if the hydrogen could be produced using renewable energy, "it would surely be easier simply to use this energy to charge the batteries of all-electric or plug-in hybrid vehicles."[105]
+The Washington Post asked in November 2009, "But why would you want to store energy in the form of hydrogen and then use that hydrogen to produce electricity for a motor, when electrical energy is already waiting to be sucked out of sockets all over America and stored in auto batteries"?.[72] A December 2009 study at UC Davis, published in the Journal of Power Sources, found that, over their lifetimes, hydrogen vehicles will emit more carbon than gasoline vehicles.[106] This agrees with a 2014 analysis.[7] The Motley Fool stated in 2013 that "there are still cost-prohibitive obstacles [for hydrogen cars] relating to transportation, storage, and, most importantly, production."[107]
+Volkswagen's Rudolf Krebs said in 2013 that "no matter how excellent you make the cars themselves, the laws of physics hinder their overall efficiency. The most efficient way to convert energy to mobility is electricity." He elaborated: "Hydrogen mobility only makes sense if you use green energy", but ... you need to convert it first into hydrogen "with low efficiencies" where "you lose about 40 percent of the initial energy". You then must compress the hydrogen and store it under high pressure in tanks, which uses more energy. "And then you have to convert the hydrogen back to electricity in a fuel cell with another efficiency loss". Krebs continued: "in the end, from your original 100 percent of electric energy, you end up with 30 to 40 percent."[108] The Business Insider commented:
+Pure hydrogen can be industrially derived, but it takes energy. If that energy does not come from renewable sources, then fuel-cell cars are not as clean as they seem. ... Another challenge is the lack of infrastructure. Gas stations need to invest in the ability to refuel hydrogen tanks before FCEVs become practical, and it's unlikely many will do that while there are so few customers on the road today. ... Compounding the lack of infrastructure is the high cost of the technology. Fuel cells are "still very, very expensive".[109]
+In 2014, Joseph Romm devoted three articles to updating his critiques of hydrogen vehicles. He states that FCVs still have not overcome the following issues: high cost of the vehicles, high fueling cost, and a lack of fuel-delivery infrastructure. "It would take several miracles to overcome all of those problems simultaneously in the coming decades."[110] Most importantly, he says, "FCVs aren't green" because of escaping methane during natural gas extraction and when hydrogen is produced, as 95% of it is, using the steam reforming process. He concludes that renewable energy cannot economically be used to make hydrogen for an FCV fleet "either now or in the future."[111] GreenTech Media's analyst reached similar conclusions in 2014.[112] In 2015, Clean Technica listed some of the disadvantages of hydrogen fuel cell vehicles.[113] So did Car Throttle.[114] Another Clean Technica writer concluded, "while hydrogen may have a part to play in the world of energy storage (especially seasonal storage), it looks like a dead end when it comes to mainstream vehicles."[115] A 2016 study in the November issue of the journal Energy by scientists at Stanford University and the Technical University of Munich concluded that, even assuming local hydrogen production,"investing in all-electric battery vehicles is a more economical choice for reducing carbon dioxide emissions, primarily due to their lower cost and significantly higher energy efficiency."[116]
+Comparison with other types of alternative fuel vehicle[edit]
+Hydrogen vehicles compete with various proposed alternatives to the modern fossil fuel powered vehicle infrastructure.[55]
+Plug-in hybrids[edit]
+This section needs to be updated. Please update this article to reflect recent events or newly available information.
+Last update: No content is presented about series production PHEVs launched starting with the BYD F3DM and the Chevrolet Volt. Figures presented do not reflect current technology available. (November 2013)
+Main article: Plug-in hybrid
+Plug-in hybrid electric vehicles, or PHEVs, are hybrid vehicles that can be plugged into the electric grid and contain an electric motor and also an internal combustion engine. The PHEV concept augments standard hybrid electric vehicles with the ability to recharge their batteries from an external source, enabling increased use of the vehicle's electric motors while reducing their reliance on internal combustion engines. The infrastructure required to charge PHEVs is already in place,[117] and transmission of power from grid to car is about 93% efficient.[118] This, however, is not the only energy loss in transferring power from grid to wheels. AC/DC conversion must take place from the grids AC supply to the PHEV's DC. This is roughly 98% efficient.[119] The battery then must be charged. As of 2007, the Lithium iron phosphate battery was between 80-90% efficient in charging/discharging.[120] The battery needs to be cooled; the GM Volt's battery has 4 coolers and two radiators.[121] As of 2009, "the total well-to-wheels efficiency with which a hydrogen fuel cell vehicle might utilize renewable electricity is roughly 20% (although that number could rise to 25% or a little higher with the kind of multiple technology breakthroughs required to enable a hydrogen economy). The well-to-wheels efficiency of charging an onboard battery and then discharging it to run an electric motor in a PHEV or EV, however, is 80% (and could be higher in the future)four times more efficient than current hydrogen fuel cell vehicle pathways."[70] A 2006 article in Scientific American argued that PHEVs, rather than hydrogen vehicles, would become standard in the automobile industry.[122][123] A December 2009 study at UC Davis found that, over their lifetimes, PHEVs will emit less carbon than current vehicles, while hydrogen cars will emit more carbon than gasoline vehicles.[106]
+Natural gas[edit]
+Main article: Natural gas vehicle
+ICE-based CNG, HCNG or LNG vehicles (Natural gas vehicles or NGVs) use methane (Natural gas or Biogas) directly as a fuel source. Natural gas has a higher energy density than hydrogen gas. NGVs using biogas are nearly carbon neutral.[124] Unlike hydrogen vehicles, CNG vehicles have been available for many years, and there is sufficient infrastructure to provide both commercial and home refueling stations. Worldwide, there were 14.8 million natural gas vehicles by the end of 2011.[125]
+All-electric vehicles[edit]
+Main article: electric car
+A 2008 Technology Review article stated, "Electric carsand plug-in hybrid carshave an enormous advantage over hydrogen fuel-cell vehicles in utilizing low-carbon electricity. That is because of the inherent inefficiency of the entire hydrogen fueling process, from generating the hydrogen with that electricity to transporting this diffuse gas long distances, getting the hydrogen in the car, and then running it through a fuel cellall for the purpose of converting the hydrogen back into electricity to drive the same exact electric motor you'll find in an electric car."[126] Thermodynamically, each additional step in the conversion process decreases the overall efficiency of the process.[127][128]
+A 2013 comparison of hydrogen and battery electric vehicles agreed with the 25% figure from Ulf Bossel in 2006 and stated that the cost of an electric vehicle battery "is rapidly coming down, and the gap will widen further", while there is little "existing infrastructure to transport, store and deliver hydrogen to vehicles and would cost billions of dollars to put into place, everyone's household power sockets are "electric vehicle refueling" station and the "cost of electricity (depending on the source) is at least 75% cheaper than hydrogen."[129] In 2013 the National Academy of Sciences[130] and DOE stated that even under optimistic conditions by 2030 the price for the battery is not expected to go below $17,000 ($200$250/kWh) on 300 miles of range.[131] In 2013 Matthew Mench, from the University of Tennessee stated "If we are sitting around waiting for a battery breakthrough that will give us four times the range than we have now, we are going to be waiting for a long time".[132] Navigant Research, (formerly Pike research), on the other hand, forecasts that lithium-ion costs, which are tipping the scales at about $500 per kilowatt hour now, could fall to $300 by 2015 and to $180 by 2020.[133] In 2013 Takeshi Uchiyamada, a designer of the Toyota Prius stated: "Because of its shortcomings  driving range, cost and recharging time  the electric vehicle is not a viable replacement for most conventional cars".[134]
+Many electric car designs offer limited driving range causing range anxiety. For example, the 2013 Nissan Leaf has a range of 75mi (121km),[135] the 2014 Mercedes-Benz B-Class Electric Drive has an estimated range of 115mi (185km)[136] and the Tesla Model S has a range of up to 265mi (426km).[137] However, most US commutes are 3040 miles (4864km) miles per day round trip[138] and in Europe most commutes are around 20 kilometres (12mi) round-trip[139]
+In 2013, The New York Times stated that there are only 10 publicly accessible hydrogen filling stations in the U.S., eight of which are in Southern California, and that BEVs' cost-per-mile expense in 2013 is one-third as much as hydrogen cars, when comparing electricity from the grid and hydrogen at a filling station. The Times commented: "By the time Toyota sells its first fuel-cell sedan, there will be about a half-million plug-in vehicles on the road in the United States  and tens of thousands of E.V. charging stations."[5] In 2013 John Swanton of the California Air Resources Board, who sees them as complementary technologies, stated that EVs have the jump on fuel-cell autos, which "are like electric vehicles were 10 years ago. EVs are for real consumers, no strings attached. With EVs you have a lot of infrastructure in place.[140] The Business Insider, in 2013 commented that if the energy to produce hydrogen "does not come from renewable sources, then fuel-cell cars are not as clean as they seem. ... Gas stations need to invest in the ability to refuel hydrogen tanks before FCEVs become practical, and it's unlikely many will do that while there are so few customers on the road today. ... Compounding the lack of infrastructure is the high cost of the technology. Fuel cells are "still very, very expensive", even compared to battery-powered EVs.[109]
+See also[edit]
+Alternative fuel car
+Bivalent engine
+Electric vehicle
+Hell and High Water
+Sustainable development portal
+Hydrogen economy
+Proton exchange membrane fuel cell
+The Hype about Hydrogen
+Tribrid vehicle
+World Green Car
+References[edit]
+^ "Toyota Unveils 2015 Fuel Cell Sedan, Will Retail in Japan For Around 7 Million". transportevolved.com. 2014-06-25. Retrieved 2014-06-26.
+^ A portfolio of power-trains for Europe: a fact-based analysis
+^ a b Romm, Joseph. Tesla Trumps Toyota: Why Hydrogen Cars Cant Compete With Pure Electric Cars", ThinkProgress, August 5, 2014.
+^ "Wind-to-Hydrogen Project". Hydrogen and Fuel Cells Research. Golden, CO: National Renewable Energy Laboratory, U.S. Department of Energy. September 2009. Retrieved 7 January 2010.. See also Energy Department Launches Public-Private Partnership to Deploy Hydrogen Infrastructure, US Dept. of Energy, accessed November 15, 2014
+^ a b c Berman, Bradley (2013-11-22). "Fuel Cells at Center Stage". The New York Times. Retrieved 2013-11-26.
+^ Davies, Alex (2013-11-22). "Honda Is Working On Hydrogen Technology That Will Generate Power Inside Your Car". The Business Insider. Retrieved 2013-11-26.
+^ a b c d e f Cox, Julian. "Time To Come Clean About Hydrogen Fuel Cell Vehicles", CleanTechnica.com, June 4, 2014
+^ Thames & Kosmos kit, Other educational materials, and many more demonstration car kits.
+^ "New Hydrogen-Powered Land Speed Record from Ford". Motorsportsjournal.com. Retrieved 2010-12-12.
+^ "Global Hydrogen Fuel Cell Electric Vehicle Market Buoyed as OEMs Will Launch 17 Vehicle Models by 2027, IHS Says". IHS Inc. 4 May 2016. Retrieved 13 May 2016.
+^ Voelcker, John. "Decades Of Promises: 'Dude, Where's My Hydrogen Fuel-Cell Car?'", Yahoo.com, March 31, 2015
+^ a b "Toyota to Offer $69,000 Car After Musk Pans 'Fool Cells'". 2014-06-25. Retrieved 2014-06-27.
+^ a b Ayre, James. "Toyota To Lose $100,000 On Every Hydrogen FCV Sold?", CleanTechnica.com, November 19, 2014; and Blanco, Sebastian. "Bibendum 2014: Former EU President says Toyota could lose 100,000 euros per hydrogen FCV sedan", GreenAutoblog.com, November 12, 2014
+^ Whoriskey, Peter. "The Hydrogen Car Gets Its Fuel Back", Washington Post, October 17, 2009
+^ Riversimple plans to lease a vehicle to the public by 2018 "Hydrogen Car You Can Actually Afford", TopGear.com
+^ a b Lanz, Walter (December 2001). "Hydrogen Properties" (PDF). U.S. Department of Energy. College of the Desert. Energy Density. Retrieved 2015-10-05. On this basis, hydrogens energy density is poor (since it has such low density) although its energy to weight ratio is the best of all fuels (because it is so light).
+^ a b Zubrin, Robert (2007). Energy Victory: Winning the War on Terror by Breaking Free of Oil. Amherst, New York: Prometheus Books. p.121. ISBN978-1-59102-591-7. In order for hydrogen to be used as fuel in a car, it has to be stored in the car. As at the station, this could be done either in the form of super-cold liquid hydrogen or as highly compressed gas. In either case, we come up against serious problems caused by the low density of hydrogen.
+^ a b Olah, George A.; Goeppert, Alain; Prakash, G. K. Surya (2006). Beyond Oil and Gas: The Methanol Economy. Weinheim, Germany: Wiley-VCH. p.155. ISBN3-527-31275-7. Despite the advantages of hydrogen ICE, the problem of on-board hydrogen storage, which presently limits the driving range, also remains.
+^ https://www.technologyreview.com/s/510416/ford-daimler-and-nissan-commit-to-fuel-cells/
+^ "China Presents the World's First Hydrogen-Fueled Tram".
+^ "China's Hydrogen-Powered Future Starts in Trams, Not Cars".
+^ "Hydrogen scooter by vectrix". Jalopnik.com. 2007-07-13. Retrieved 2010-12-12.
+^ "Suzuki Burgman fuel-cell scooter". Hydrogencarsnow.com. 2009-10-27. Retrieved 2010-12-12.
+^ "Fhybrid fuel cell-electric hybrid scooter". Io.tudelft.nl. Retrieved 2010-12-12.
+^ "SUZUKI - BURGMAN Fuel-Cell Scooter". Retrieved 30 May 2015.
+^ APFCT won Taiwan BOE project contract for 80 FC scooters fleet demonstration
+^ "Autostudi S.r.l. H-Due". Ecofriend.org. 2008-04-15. Retrieved 2010-12-12.
+^ New Holland Wins Gold for Energy Independent Farm Concept or Hydrogen-powered tractor in an Energy Independent Farm
+^ "Ion tiger hydrogen UAV". Sciencedaily.com. 2009-10-15. Retrieved 2010-12-12.
+^ David Robertson (3 April 2008). "Boeing tests first hydrogen powered plane". London: The Times.
+^ "oeing's 'Phantom Eye' Ford Fusion powered stratocraft". The Register. 2010-07-13. Retrieved 2010-07-143. Check date values in: |access-date= (help)
+^ "Hydrogen engines get a lift". Accessmylibrary.com. 2008-10-01. Retrieved 2010-12-12.
+^ a b HyICE
+^ Press release: "Fuel Cell Forklifts Gain Ground", fuelcells.org, July 9, 2013
+^ Fuel cell technologies program overview
+^ Economic Impact of Fuel Cell Deployment in Forklifts and for Backup Power under the American Recovery and Reinvestment Act
+^ a b "Global and Chinese Forklift Industry Report, 2014-2016", Research and Markets, November 6, 2014
+^ "Fact Sheet: Materials Handling and Fuel Cells"
+^ "HyLIFT - Clean Efficient Power for Materials Handling". Retrieved 30 May 2015.
+^ "First Hydrogen Station for Fuel Cell Forklift Trucks in France, for IKEA". Retrieved 30 May 2015.
+^ "Technologie HyPulsion: des piles pour vhicules de manutention - Horizon Hydrogne nergie". Retrieved 30 May 2015.
+^ "HyGear Delivers Hydrogen System for Fuel Cell Based Forklift Trucks". Retrieved 30 May 2015.
+^ "Hydrogen Fueling Stations Could Reach 5,200 by 2020". Environmental Leader: Environmental & Energy Management News, 20 July 2011, accessed 2 August 2011
+^ Full Fuel-Cycle Comparison of Forklift Propulsion Systems
+^ "Fuel cell technology". Retrieved 30 May 2015.
+^ "Creating Innovative Graphite Solutions for Over 125 Years". GrafTech International. Retrieved 30 May 2015.
+^ "Rocket propulsion". Braeunig.us. Retrieved 2010-12-12.
+^ College of the Desert, Module 1, Hydrogen Properties, Revision 0, December 2001 Hydrogen Properties. Retrieved 2015-10-05.
+^ http://www.nasa.gov/topics/technology/hydrogen/hydrogen_fuel_of_choice.html
+^ Sutton, George P. and Oscar Biblarz. Rocket Propulsion Elements, Seventh edition, John Wiley & Sons (2001), p. 257, ISBN 0-471-32642-9
+^ "Fuel cell use in the Space Shuttle". NASA. Retrieved 2012-02-17.
+^ "H2Mobility - Hydrogen Vehicles - netinform". Retrieved 30 May 2015.
+^ "Hydrogen Fuel Cars 18071986", Hydrogen Cars Now, accessed April 7, 2016
+^ "Error 404". Retrieved 30 May 2015.
+^ a b c Eberle, Ulrich; Mueller, Bernd; von Helmolt, Rittmar (2012-07-15). "Fuel cell electric vehicles and hydrogen infrastructure: status 2012". Royal Society of Chemistry. Retrieved 2013-01-08.
+^ "Toyota's Approach to Fuel Cell Vehicles". Toyota. 2014-06-25. p.33. Retrieved 2014-06-27.
+^ Telias, Gabriela et al. RD&D cooperation for the development of fuel cell hybrid and electric vehicles, NREL.gov, November 2010, accessed September 1, 2014
+^ LeSage, Jon. Toyota says freezing temps pose zero problems for fuel cell vehicles, Autoblog.com, February 6, 2014
+^ "EERE Service life 5000 hours" (PDF). Retrieved 2010-12-12.
+^ "Fuel Cell School Buses: Report to Congress" (PDF). Retrieved 2010-12-12.
+^ a b David Z. Morris. "Why Japan wants to transform into a 'hydrogen society'" Fortune (magazine), 21 October 2015. Quote: "Unlike gasoline, solar, or nuclear, hydrogen isnt an energy sourcejust a method of energy storage. Hydrogen is an energy carrier in the same sense that electricity is, says David Keith"
+^ a b Schultz, M.G., Thomas Diehl, Guy P. Brasseur, and Werner Zittel. "Air Pollution and Climate-Forcing Impacts of a Global Hydrogen Economy", Science, October 24, 2003 302: 624-627
+^ [1]
+^ "Wind-to-Hydrogen Project". Hydrogen and Fuel Cells Research. Golden, CO: National Renewable Energy Laboratory, U.S. Department of Energy. September 2009. Retrieved 7 January 2010.
+^ "Hydrogen Fuel Cell Vehicles (FCVs)", Ford Motor Company, accessed November 15, 2014
+^ F. Kreith, "Fallacies of a Hydrogen Economy: A Critical Analysis of Hydrogen Production and Utilization" in Journal of Energy Resources Technology (2004), 126: 249257.
+^ a b "From TechnologyReview.com "Hell and Hydrogen", March 2007". Technologyreview.com. Retrieved 2011-01-31.
+^ a b Bossel, Ulf. "Does a Hydrogen Economy Make Sense?" Proceedings of the IEEE, Vol. 94, No. 10, October 2006
+^ Heetebrij, Jan. "A vision on a sustainable electric society supported by Electric Vehicles", Olino Renewable Energy, June 5, 2009
+^ a b Romm, Joseph. "Climate and hydrogen car advocate gets almost everything wrong about plug-in cars", The Energy Collective, October 6, 2009
+^ "Comparing Apples to Apples: Well-to-Wheel Analysis of Current ICE and Fuel Cell Vehicle Technologies" (PDF). Argonne National Laboratory. 10 March 2004. Retrieved 4 July 2014.
+^ a b Suplee, Curt. "Don't bet on a hydrogen car anytime soon". Washington Post, November 17, 2009
+^ Werner Zittel; Reinhold Wurster (8 July 1996). "Chapter 3: Production of Hydrogen. Part 4: Production from electricity by means of electrolysis". HyWeb: Knowledge  Hydrogen in the Energy Sector. Ludwig-Blkow-Systemtechnik GmbH. Archived from the original on 7 February 2007.
+^ L. Soler, J. Macans, M. Muoz, J. Casado. Journal of Power Sources 169 (2007) 144-149
+^ F. Kreith (2004). "Fallacies of a Hydrogen Economy: A Critical Analysis of Hydrogen Production and Utilization". Journal of Energy Resources Technology 126: 249257.
+^ "US Energy Information Administration, "World Primary Energy Production by Source, 19702004"". Eia.doe.gov. Retrieved 2010-12-12.
+^ "Frequently Asked Questions", US Energy Information Administration, April 1, 2016
+^ Iceland's hydrogen buses zip toward oil-free economy. Retrieved 17-July-2007.
+^ First Danish Hydrogen Energy Plant Is Operational. Retrieved 17-July-2007.
+^ Hydrazine fuels hydrogen power hopes. ChemistryWorld.com, March 2011.
+^ The Drive Toward Hydrogen Vehicles Just Got Shorter. ChemNews.com, March 2011.
+^ "DOE Hydrogen and Fuel Cells Program: Background". Retrieved 30 May 2015.
+^ Eberle, Ulrich; Mueller, Bernd; von Helmolt, Rittmar. "Fuel cell electric vehicles and hydrogen infrastructure: status 2012". Energy & Environmental Science. Retrieved 2014-12-19.
+^ Henry, Jim (October 29, 2007). "GM's Fuel-Cell Hedge". BusinessWeek. Retrieved 9 May 2008.
+^ Gardner, Michael (November 22, 2004). "Is 'hydrogen highway' the answer?". San Diego Union-Tribune. Retrieved 9 May 2008.
+^ Stanley, Dean. "Shell Takes Flexible Approach to Fueling the Future". hydrogenforecast.com. Archived from the original on January 21, 2008. Retrieved 9 May 2008.
+^ Romm, Joseph (2004). The Hype about Hydrogen, Fact and Fiction in the Race to Save the Climate. New York: Island Press. ISBN1-55963-703-X. (ISBN 1-55963-703-X), Chapter 5
+^ Alternative Fueling Station Counts by State, Alternative Fuels Data Center, accessed March 18, 2016
+^ Jones, Nicola. "Whatever happened to the hydrogen highway?", Pique, February 9, 2012, accessed March 17, 2016
+^ http://www.motherjones.com/environment/2003/05/hydrogens-dirty-secret
+^ "DOE codes and standards". Hydrogen.energy.gov. Retrieved 2011-01-31.
+^ http://www1.eere.energy.gov/hydrogenandfuelcells/pdfs/benefits.pdf
+^ http://www.treehugger.com/cars/obama-kills-hydrogen-car-funding.html
+^ http://www.autoblog.com/2009/05/08/obama-doe-slash-hydrogen-fuel-cell-funding-in-new-budget/
+^ Ken Silverstein. "Obama Administration Wants to Speed Up Hydrogen-Powered Vehicles". Retrieved 30 May 2015.
+^ Jon LeSage. "DOE funds more hydrogen fuel cell research with $4.5m investment". Autoblog. Retrieved 30 May 2015.
+^ http://www.meti.go.jp/english/press/2014/pdf/0624_04a.pdf
+^ http://www.fornybar.no/prosjekteksempler/andre-teknologier/hydrogenveien-hynor/hydrogenveien-hynor
+^ http://www.scandinavianhydrogen.org/sv/nextmove/news/hyop-as-overtar-statoils-hydrogenstasjoner
+^ Meyers, Jeremy P. "Getting Back Into Gear: Fuel Cell Development After the Hype". The Electrochemical Society Interface, Winter 2008, pp. 3639, accessed August 7, 2011
+^ White, Charlie. "Hydrogen fuel cell vehicles are a fraud" Dvice TV, July 31, 2008
+^ Squatriglia, Chuck. "Hydrogen Cars Won't Make a Difference for 40 Years", Wired, May 12, 2008
+^ a b Boyd, Robert S. (May 15, 2007). "Hydrogen cars may be a long time coming". McClatchy Newspapers. Retrieved 9 May 2008.
+^ Neil, Dan (February 13, 2009). "Honda FCX Clarity: Beauty for beauty's sake". Los Angeles Times. Retrieved 11 March 2009.
+^ a b c Wrigglesworth, Phil. "The car of the perpetual future"' September 4, 2008, retrieved on September 15, 2008
+^ a b "Hydrogen Cars' Lifecycle Emits More Carbon Than Gas Cars, Study Says", Digital Trends, January 1, 2010
+^ Chatsko, Maxx. "1 Giant Obstacle Keeping Hydrogen Fuel Out of Your Gas Tank", The Motley Fool, November 23, 2013
+^ Blanco, Sebastian. "VW's Krebs talks hydrogen, says 'most efficient way to convert energy to mobility is electricity'", AutoblogGreen, November 20, 2013
+^ a b Davies, Alex. "Honda Is Working On Hydrogen Technology That Will Generate Power Inside Your Car", The Business Insider, November 22, 2013
+^ Romm, Joseph. "Tesla Trumps Toyota Part II: The Big Problem With Hydrogen Fuel Cell Vehicles", CleanProgress.com, August 13, 2014 and "Tesla Trumps Toyota 3: Why Electric Vehicles Are Beating Hydrogen Cars Today", CleanProgress.com, August 25, 2014
+^ Romm, Joseph. "Tesla Trumps Toyota: Why Hydrogen Cars Cant Compete With Pure Electric Cars", CleanProgress.com, August 5, 2014
+^ Hunt, Tam. "Should California Reconsider Its Policy Support for Fuel-Cell Vehicles?", GreenTech Media, July 10, 2014
+^ Brown, Nicholas. "Hydrogen Cars Lost Much of Their Support, But Why?", Clean Technica, June 26, 2015
+^ "Engineering Explained: 5 Reasons Why Hydrogen Cars Are Stupid", Car Throttle, October 8, 2015
+^ Meyers, Glenn. "Hydrogen Economy: Boom or Bust?", Clean Technica, March 19, 2015
+^ "Battery electric cars are a better choice for emissions reduction", PVBuzz.com, November 15, 2016
+^ "US government news release". Pnl.gov. 2006-12-11. Retrieved 2011-01-31.
+^ "Domestic Energy use in the UK". Powerwatch. Retrieved 2011-01-31.
+^ "CR4 - Blog Entry: Transformer Efficiency Standards Proposed". Google.co.uk. 6 November 2006. Retrieved 19 September 2009.
+^ "Plug-in Hybrid Electric Vehicle 2007 Conference - Home" (PDF). Retrieved 30 May 2015.
+^ Stewart, Ben (4 April 2008). "Chevy Volt Plug-in Car Batteries Ready for 2010 - GM Technical Center". Popular Mechanics. Retrieved 19 September 2009.
+^ Romm, Joseph and Prof. Andrew A. Frank. "Hybrid Vehicles Gain Traction", Scientific American (April 2006)
+^ "Plug-in Hybrid Advocacy Group". Pluginpartners.org. Retrieved 2011-01-31.
+^ "Car Fueled With Biogas From Cow Manure: WWU Students Convert Methane Into Natural Gas". Retrieved 30 May 2015.
+^ "Worldwide NGV Statistics". NGV Journal. Retrieved 2012-04-24.
+^ "The Last Car You Would Ever Buy  Literally: Why we shouldn't get excited by the latest hydrogen cars", Technology Review, June 18, 2008
+^ "Efficiency of Hydrogen PEFC, Diesel-SOFC-Hybrid and Battery Electric Vehicles" (PDF). 15 July 2003. Retrieved January 7, 2009.
+^ "Information from". cta.ornl.gov. Retrieved 2011-01-31.
+^ Dansie, Mark. "Hydrogen vs Electric", revolution-green.com, July 4, 2013
+^ "Transitions to Alternative Vehicles and Fuels - The National Academies Press". Retrieved 30 May 2015.
+^ Katie Spence (16 November 2013). "Toyota's Hydrogen vs. Tesla's Batteries: Which Car Will Win?". Retrieved 30 May 2015.
+^ Los Angeles Times (18 November 2013). "L.A. Auto Show: Will fuel cells make battery electric cars obsolete?". latimes.com. Retrieved 30 May 2015.
+^ King, Danny. Li-ion battery prices still headed way, way down, to $180/kWh by 2020, AutoblogGreen, November 8, 2013
+^ "Insight: Electric cars head toward another dead end". Reuters. Retrieved 30 May 2015.
+^ "2013 Nissan Leaf Gets Fuel Economy, Range Improvement, Says EPA", Edmunds.com, May 3, 2013
+^ Jablansky, Jeffrey. "First ride: 2014 Mercedes-Benz B-Class Electric Drive will beat Nissan Leaf in range, boasts Tesla-built battery", New York Daily News, October 29, 2013
+^ Welsh, Jonathan. "Is Tesla Model S the Cure for 'Range Anxiety?'", Wall Street Journal, November 24, 2013
+^ "2009 National Household Travel Survey", US Department of Transportation, 12 August 2014,
+^ EEA Survey. European Environment Agency
+^ Scauzillo, Steve. "L.A. Auto Show drives new green-car market", The Trentonian, November 23, 2013
+External links[edit]
+Wikimedia Commons has media related to Hydrogen vehicles.
+California Fuel Cell Partnership homepage
+Fuel Cell Today - Market-based intelligence on the fuel cell industry
+Clean Energy Partnership
+U.S. Dept. of Energy hydrogen pages
+Toronto Star article on hydrogen trains dated October 21, 2007
+NOVA  Video on Fuel Cell Cars (aired on PBS, July 26, 2005)
+Sandia Corporation  Hydrogen internal combustion engine description
+Inside world's first hydrogen-powered production car BBC News, 14 September 2010
+v
+t
+e
+Alternative fuel vehicles
+Compressed-air engine
+Compressed air car
+Compressed-air vehicle
+Electric motor
+Battery-electric locomotive
+Battery electric vehicle
+Cater MetroTrolley
+Electric aircraft
+Electric bicycle
+Pedelec
+Electric boat
+Electric car
+Electric platform truck
+Electric vehicle
+Electric motorcycles and scooters
+Gyro flywheel locomotive
+Hybrid electric vehicle
+Hybrid train
+Motorized bicycle
+Neighborhood Electric Vehicle
+Plug-in electric vehicle
+Plug-in hybrid electric vehicle
+Solar vehicle
+Biofuel ICE
+Alcohol fuel
+Biodiesel
+Biogas
+Butanol fuel
+Common ethanol fuel mixtures
+E85
+Ethanol fuel
+Flexible-fuel vehicle
+Methanol economy
+Methanol fuel
+Wood gas
+Hydrogen
+Fuel cell vehicle
+Hydrogen economy
+Hydrogen vehicle
+Hydrogen internal combustion engine vehicle
+Others
+Autogas
+Hybrid electric vehicle
+Liquid nitrogen vehicle
+Natural gas vehicle
+Propane
+Steam car
+Multiple-fuel
+Bi-fuel vehicle
+Flexible-fuel vehicle
+Hybrid vehicle
+Multifuel
+Plug-in hybrid
+Documentaries
+Who Killed the Electric Car?
+What Is the Electric Car?
+Revenge of the Electric Car
+See also
+Wind-powered land vehicle
+Zero-emissions vehicle
+v
+t
+e
+Emerging technologies
+Technology
+Fields
+Agriculture
+Agricultural robot
+Closed ecological systems
+Cultured meat
+Genetically modified food
+Precision agriculture
+Vertical farming
+Architecture
+Arcology
+Building printing
+Contour crafting
+D-Shape
+Domed city
+Biomedical
+Artificial uterus
+Ampakine
+Brain transplant
+Cryonics
+Cryoprotectant
+Cryopreservation
+Vitrification
+Suspended animation
+De-extinction
+Genetic engineering
+Gene therapy
+Head transplant
+Isolated brain
+Life extension
+Strategies for Engineered Negligible Senescence
+Nanomedicine
+Nanosensors
+Personalized medicine
+Regenerative medicine
+Stem-cell therapy
+Tissue engineering
+Robot-assisted surgery
+Synthetic biology
+Synthetic genomics
+Virotherapy
+Oncolytic virus
+Tricorder
+Whole genome sequencing
+Displays
+Next generation
+FED
+FLCD
+iMoD
+Laser
+LPD
+OLED
+OLET
+QD-LED
+SED
+TPD
+TDEL
+TMOS
+Screenless
+Bionic contact lens
+Head-mounted display
+Head-up display
+Optical head-mounted display
+Virtual retinal display
+Other
+Autostereoscopy
+Flexible display
+Holographic display
+Computer-generated holography
+Multi-primary color display
+Ultra HD
+Volumetric display
+Electronics
+Electronic nose
+E-textiles
+Flexible electronics
+Molecular electronics
+Nanoelectromechanical systems
+Memristor
+Spintronics
+Thermal copper pillar bump
+Energy
+Production
+Airborne wind turbine
+Artificial photosynthesis
+Biofuels
+Carbon-neutral fuel
+Concentrated solar power
+Fusion power
+Home fuel cell
+Hydrogen economy
+Methanol economy
+Molten salt reactor
+Nantenna
+Photovoltaic pavement
+Space-based solar power
+Vortex engine
+Storage
+Beltway battery
+Compressed air energy storage
+Flywheel energy storage
+Grid energy storage
+Lithiumair battery
+Molten salt battery
+Nanowire battery
+Research in lithium-ion batteries
+Siliconair battery
+Thermal energy storage
+Ultracapacitor
+Other
+Smart grid
+Wireless power
+IT and
+communications
+Ambient intelligence
+Internet of Things
+Artificial intelligence
+Applications of artificial intelligence
+Progress in artificial intelligence
+Machine translation
+Machine vision
+Semantic Web
+Speech recognition
+Atomtronics
+Carbon nanotube field-effect transistor
+Cybermethodology
+Fourth-generation optical discs
+3D optical data storage
+Holographic data storage
+GPGPU
+Memory
+CBRAM
+FRAM
+Millipede
+MRAM
+NRAM
+PRAM
+Racetrack memory
+RRAM
+SONOS
+Optical computing
+Quantum computing
+Quantum cryptography
+RFID
+Chipless RFID
+Software-defined radio
+Three-dimensional integrated circuit
+Manufacturing
+3D printing
+Claytronics
+Molecular assembler
+Utility fog
+Materials science
+Aerogel
+Amorphous metal
+Artificial muscle
+Conductive polymer
+Femtotechnology
+Fullerene
+Graphene
+High-temperature superconductivity
+High-temperature superfluidity
+Linear acetylenic carbon
+Metamaterials
+Metamaterial cloaking
+Metal foam
+Multi-function structures
+Nanotechnology
+Carbon nanotubes
+Molecular nanotechnology
+Nanomaterials
+Picotechnology
+Programmable matter
+Quantum dots
+Silicene
+Superalloy
+Synthetic diamond
+Military
+Antimatter weapon
+Caseless ammunition
+Directed-energy weapon
+Laser
+Maser
+Particle-beam weapon
+Sonic weapon
+Coilgun
+Railgun
+Plasma weapon
+Pure fusion weapon
+Stealth technology
+Vortex ring gun
+Neuroscience
+Artificial brain
+Blue Brain Project
+Braincomputer interface
+Electroencephalography
+Mind uploading
+Brain-reading
+Neuroinformatics
+Neuroprosthetics
+Bionic eye
+Brain implant
+Exocortex
+Retinal implant
+Robotics
+Domotics
+Nanorobotics
+Powered exoskeleton
+Self-reconfiguring modular robot
+Swarm robotics
+Uncrewed vehicle
+Space science
+Launch
+Fusion rocket
+Non-rocket spacelaunch
+Mass driver
+Orbital ring
+Space elevator
+Space fountain
+Space tether
+Reusable launch system
+Propulsion
+Beam-powered propulsion
+Ion thruster
+Laser propulsion
+Plasma propulsion engine
+Helicon thruster
+VASIMR
+Project Orion
+Nuclear pulse propulsion
+Solar sail
+Other
+Interstellar travel
+Propellant depot
+Transport
+Aerial
+Adaptive compliant wing
+Aeroscraft
+Backpack helicopter
+Delivery drone
+Flying car
+High-altitude platform
+Jet pack
+Pulse detonation engine
+Scramjet
+Spaceplane
+Skylon
+Supersonic transport
+Land
+Airless tire
+Tweel
+Alternative fuel vehicle
+Hydrogen vehicle
+Driverless car
+Ground effect train
+Maglev train
+Personal rapid transit
+Vactrain
+ET3 Global Alliance
+Hyperloop
+Vehicular communication systems
+Pipeline
+Pneumatic transport
+Automated vacuum collection
+Foodtubes
+Other
+Anti-gravity
+Cloak of invisibility
+Digital scent technology
+Force field
+Plasma window
+Immersive virtual reality
+VirtuSphere
+Magnetic refrigeration
+Phased-array optics
+Quantum technology
+Quantum teleportation
+Topics
+Collingridge dilemma
+Differential technological development
+Ephemeralization
+Exploratory engineering
+Fictional technology
+Proactionary principle
+Technological change
+Technological unemployment
+Technological convergence
+Technological evolution
+Technological paradigm
+Technology forecasting
+Accelerating change
+Moore's law
+Technological singularity
+Technology scouting
+Technology readiness level
+Technology roadmap
+Transhumanism
+Category
+List
+v
+t
+e
+Car design
+Car classification
+Antique
+City car
+Classic
+Compact
+Compact executive
+Compact MPV
+Compact SUV
+Crossover SUV
+Custom
+Hot rod
+Lead sled
+Lowrider
+Street rod
+T-bucket
+Economy
+Executive
+Family car (large)
+Full-size
+Grand tourer
+Hot hatch
+Kei
+Leisure activity vehicle
+Luxury
+Microcar
+Mid-size
+Mini MPV
+Mini SUV
+Minivan / Multi-purpose vehicle (MPV)
+Muscle
+luxury
+Pony
+Sport compact
+Sport utility vehicle (SUV)
+Sports car
+Subcompact
+Supercar
+Supermini
+Truck
+Ute
+Van
+Voiturette
+Body styles
+2+2
+Baquet
+Barchetta
+Berlinetta
+Brougham
+Cabrio coach
+Cabriolet / Convertible
+Coup
+Coup de Ville
+Coup utility
+Drophead coupe (Convertible)
+Fastback
+Hardtop
+Hatchback
+Landaulet
+Liftback
+Limousine
+Multi-stop truck
+Notchback
+Panel van
+Phaeton
+Pickup truck
+Quad coup
+Retractable hardtop
+Roadster
+Runabout
+Saloon / Sedan
+Sedan delivery
+Sedanca de Ville (Coup de Ville)
+Shooting-brake
+Spider / Spyder (Roadster)
+Station wagon
+Targa top
+Torpedo
+Touring car
+Town car (Coup de Ville)
+T-top
+Vis--vis
+Specialized vehicles
+Amphibious
+Driverless (autonomous)
+Hearse
+Gyrocar
+Roadable aircraft
+Taxicab
+Tow truck
+Propulsion
+Alternative fuel
+Autogas
+Biodiesel
+Diesel
+Electric(battery
+NEV)
+Ethanol(E85)
+Fuel cell
+Gasoline/ petrol(direct injection)
+Homogeneous charge compression ignition
+Hybrid(plug-in)
+Hydrogen
+Internal combustion
+Liquid nitrogen
+Steam
+Drive wheels
+Front-wheel
+Rear-wheel
+Two-wheel
+Four-wheel
+Six-wheel
+Eight-wheel
+Twelve-wheel
+Engine position
+Front
+Mid
+Rear
+Layout (engine/ drive)
+Front/ front
+Front mid/ front
+Rear/ front
+Front/ rear
+Rear mid/ rear
+Rear/ rear
+Front/ four-wheel
+Mid/ four-wheel
+Rear/ four-wheel
+Engine configuration
+(internal combustion)
+Boxer
+Flat
+Four-stroke
+H-block
+Inline
+Reciprocating
+Single-cylinder
+Straight
+Two-stroke
+V (Vee)
+W engine
+Wankel
+Portal
+Category
+NewPP limit report
+Parsed by mw1237
+Cached time: 20161119150847
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.764 seconds
+Real time usage: 0.874 seconds
+Preprocessor visited node count: 5524/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 259563/2097152 bytes
+Template argument size: 4907/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 6/500
+Lua time usage: 0.317/10.000 seconds
+Lua memory usage: 8.12 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+665.214
+1 - -total
+52.09%
+346.517
+1 - Template:Reflist
+32.68%
+217.412
+58 - Template:Cite_web
+9.79%
+65.135
+8 - Template:Navbox
+8.41%
+55.912
+3 - Template:Cn
+7.50%
+49.870
+3 - Template:Fix
+4.99%
+33.182
+10 - Template:Convert
+4.30%
+28.634
+2 - Template:As_of
+4.19%
+27.882
+1 - Template:Emerging_technologies
+3.97%
+26.432
+4 - Template:DMCA
+Saved in parser cache with key enwiki:pcache:idhash:188545-0!*!0!!en!4!* and timestamp 20161119150846 and revision id 749819197
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Hydrogen_vehicle&oldid=749819197"
+Categories: Hydrogen vehiclesAutomotive technologiesSustainable technologiesGreen vehiclesHydrogen technologiesHydrogen economyEmerging technologiesHidden categories: CS1 errors: datesPages using ISBN magic linksArticles containing potentially dated statements from November 2013All articles containing potentially dated statementsArticles containing potentially dated statements from 2016All articles with unsourced statementsArticles with unsourced statements from July 2016Articles containing potentially dated statements from 2013Articles with unsourced statements from June 2016Wikipedia articles in need of updating from November 2013All Wikipedia articles in need of updating

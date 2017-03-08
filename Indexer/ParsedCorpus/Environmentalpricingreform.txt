@@ -1,0 +1,114 @@
+Environmentalpricingreform
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Part of a series about
+Environmental economics
+Concepts
+Green accounting
+Green economy
+Green trading
+Eco commerce
+Green job
+Environmental enterprise
+Fiscal environmentalism
+Environmental finance
+Renewable energy
+Policies
+Sustainable tourism
+Ecotax
+Environmental tariff
+Net metering
+Environmental pricing reform
+Pigovian tax
+Dynamics
+Renewable energy commercialization
+Marginal abatement cost
+Green paradox
+Green politics
+Pollution haven hypothesis
+Carbon related
+Low-carbon economy
+Carbon neutral fuel
+Carbon neutrality
+Carbon pricing
+Emissions trading
+Carbon credit
+Carbon offset
+Carbon emission trading
+Personal carbon trading
+Carbon tax
+Carbon finance
+Feed-in tariff
+Carbon diet
+Food miles
+2000-watt society
+Carbon footprint
+v
+t
+e
+Environmental pricing reform (EPR) is the process of adjusting market prices to include environmental costs and benefits.[1]
+An externality (a type of market failure) exists where a market price omits environmental costs and/or benefits. In such a situation, rational (self-interested) economic decisions can lead to environmental harm, as well as to economic distortions and inefficiencies.[2]
+Environmental pricing reform can be economy-wide, or more focused (e.g. specific to a sector (such as electric power generation or mining) or a particular environmental issue (such as climate change). A "market based instruments" or "economic instrument for environmental protection" is an individual instance of Environmental Pricing Reform. Examples include green tax-shifting (ecotaxation), tradeable pollution permits, or the creation of markets for ecological services.
+A similar term, "ecological fiscal reform" differs in more narrowly dealing with fiscal (i.e. tax) policies as opposed to using non-fiscal regulations to achieve the government's environmental goals.[3]
+See also[edit]
+Environmental accounting
+Environmental economics
+Environmental enterprise
+Environmental finance
+References[edit]
+^ Thompson, David (May 2010). "The Power of Prices and the Failure of Markets" (PDF). The Edmonton Sustainability Papers. City of Edmonton. Retrieved 3 January 2015.
+^ Mankiw, Gregory N. (2012). Principles of Economics (6th ed.). Mason: South-Western Cengage Learning. p.196.
+^ Beauregard-Tellier, Frdric (17 March 2006). "Ecological Fiscal Reform". Parliament of Canada. Retrieved 3 January 2015.
+External links[edit]
+Redefining Progress
+Sustainable Prosperity
+Green Budget Germany
+OECD/EEA database on instruments used for environmental policy and natural resources management
+This environment-related article is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+NewPP limit report
+Parsed by mw1269
+Cached time: 20161119194440
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.072 seconds
+Real time usage: 0.094 seconds
+Preprocessor visited node count: 280/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 14065/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.030/10.000 seconds
+Lua memory usage: 2.01 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+77.844
+1 - -total
+56.27%
+43.806
+1 - Template:Reflist
+42.34%
+32.959
+2 - Template:Cite_web
+27.13%
+21.122
+1 - Template:Green_economics_sidebar
+25.05%
+19.497
+1 - Template:Sidebar
+12.45%
+9.693
+1 - Template:Environment-stub
+11.05%
+8.605
+1 - Template:Asbox
+4.59%
+3.573
+1 - Template:Cite_book
+Saved in parser cache with key enwiki:pcache:idhash:13729760-0!*!0!!*!4!* and timestamp 20161119194440 and revision id 747886811
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Environmental_pricing_reform&oldid=747886811"
+Categories: Economy and the environmentMarket-based environmental policy instrumentsEnvironment stubsHidden categories: All stub articles

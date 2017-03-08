@@ -1,0 +1,319 @@
+Demandresponse
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about the electrical concept. For the transport concept, see Demand responsive transport.
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (July 2011) (Learn how and when to remove this template message)
+A clothes dryer using a demand response switch to reduce peak demand
+Daily load diagram; Blue shows real load usage and green shows ideal load.
+Demand response is a change in the power consumption of an electric utility customer to better match the demand for power with the supply. Electric energy can not be easily stored, so utilities have traditionally matched demand and supply by throttling the production rate of their power plants, taking generating units on or off line, or importing power from other utilities. There are limits to what can be achieved on the supply side, because some generating units can take a long time to come up to full power, some units may be very expensive to operate, and demand can at times be greater than the capacity of all the available power plants put together. Demand response seeks to adjust the demand for power instead of adjusting the supply.
+Utilities may signal demand requests to their customers in a variety of ways, including simple off-peak metering, in which power is cheaper at certain times of the day, and smart metering, in which explicit requests or changes in price can be communicated to customers.
+The customer may adjust power demand by postponing some tasks that require large amounts of electric power, or may decide to pay a higher price for their electricity. Some customers may switch part of their consumption to alternate sources, such as on-site diesel generators.
+In many respects, demand response can be put simply as a technology-enabled economic rationing system for electric power supply. In demand response, voluntary rationing is accomplished by price incentivesoffering lower net unit pricing in exchange for reduced power consumption in peak periods. The direct implication is that users of electric power capacity not reducing usage (load) during peak periods will pay "surge" unit prices, whether directly, or factored into general rates.
+Involuntary rationing, if employed, would be accomplished via rolling blackouts during peak load periods. Practically speaking, summer heat waves and winter deep freezes might be characterized by planned power outages for consumers and businesses if voluntary rationing via incentives fail to reduce load adequately to match total power supply.
+Contents
+1 Background
+2 Smart grid application
+3 Electricity pricing
+4 Electricity grids and peak demand response
+5 Load shedding
+6 Incentives to shed loads
+7 Technologies for demand reduction
+8 Industrial customers
+9 Short-term inconvenience for long-term benefits
+9.1 Importance for the operation of electricity markets
+10 US Energy Policy Act regarding demand response
+11 Demand reduction and the use of diesel generators in the UK National Grid
+12 See also
+13 References
+Background[edit]
+According to the Federal Energy Regulatory Commission, demand response (DR) is defined as:[1] Changes in electric usage by end-use customers from their normal consumption patterns in response to changes in the price of electricity over time, or to incentive payments designed to induce lower electricity use at times of high wholesale market prices or when system reliability is jeopardized. DR includes all intentional modifications to consumption patterns of electricity of induce customers that are intended to alter the timing, level of instantaneous demand, or the total electricity consumption.[2] It is expected that demand response programs will be designed to decrease electricity consumption or shift it from on-peak to off-peak periods depending on consumers preferences and lifestyles.[3] Demand Response can be defined as "a wide range of actions which can be taken at the customer side of the electricity meter in response to particular conditions within the electricity system (such as peak period network congestion or high prices)".[4] Demand response is a reduction in demand designed to reduce peak demand or avoid system emergencies. Hence, demand response can be a more cost-effective alternative than adding generation capabilities to meet the peak and or occasional demand spikes. The underlying objective of DR is to actively engage customers in modifying their consumption in response to pricing signals. The goal is to reflect supply expectations through consumer price signals or controls and enable dynamic changes in consumption relative to price.[5]
+In electricity grids, DR is similar to dynamic demand mechanisms to manage customer consumption of electricity in response to supply conditions, for example, having electricity customers reduce their consumption at critical times or in response to market prices.[6] The difference is that demand response mechanisms respond to explicit requests to shut off, whereas dynamic demand devices passively shut off when stress in the grid is sensed. Demand response can involve actually curtailing power used or by starting on-site generation which may or may not be connected in parallel with the grid.[7] This is a quite different concept from energy efficiency, which means using less power to perform the same tasks, on a continuous basis or whenever that task is performed. At the same time, demand response is a component of smart energy demand, which also includes energy efficiency, home and building energy management, distributed renewable resources, and electric vehicle charging.[8]
+Current demand response schemes are implemented with large and small commercial as well as residential customers, often through the use of dedicated control systems to shed loads in response to a request by a utility or market price conditions. Services (lights, machines, air conditioning) are reduced according to a preplanned load prioritization scheme during the critical time frames. An alternative to load shedding is on-site generation of electricity to supplement the power grid. Under conditions of tight electricity supply, demand response can significantly decrease the peak price and, in general, electricity price volatility.
+Demand response is generally used to refer to mechanisms used to encourage consumers to reduce demand, thereby reducing the peak demand for electricity. Since electrical generation and transmission systems are generally sized to correspond to peak demand (plus margin for forecasting error and unforeseen events), lowering peak demand reduces overall plant and capital cost requirements. Depending on the configuration of generation capacity, however, demand response may also be used to increase demand (load) at times of high production and low demand. Some systems may thereby encourage energy storage to arbitrage between periods of low and high demand (or low and high prices).
+There are three types of demand response - emergency demand response, economic demand response and ancillary services demand response.[9] Emergency demand response is employed to avoid involuntary service interruptions during times of supply scarcity. Economic demand response is employed to allow electricity customers to curtail their consumption when the productive or convenience of consuming that electricity is worth less to them than paying for the electricity. Ancillary services demand response consists of a number of specialty services that are needed to ensure the secure operation of the transmission grid and which have traditionally been provided by generators.
+Smart grid application[edit]
+Smart grid applications improve the ability of electricity producers and consumers to communicate with one another and make decisions about how and when to produce and consume electrical power.[8][10] This emerging technology will allow customers to shift from an event-based demand response where the utility requests the shedding of load, towards a more 24/7-based demand response where the customer sees incentives for controlling load all the time. Although this back-and-forth dialogue increases the opportunities for demand response, customers are still largely influenced by economic incentives and are reluctant to relinquish total control of their assets to utility companies.[11]
+One advantage of a smart grid application is time-based pricing. Customers who traditionally pay a fixed rate for consumed energy (kWh) and requested peak load can set their threshold and adjust their usage to take advantage of fluctuating prices. This may require the use of an energy management system to control appliances and equipment and can involve economies of scale. Another advantage, mainly for large customers with generation, is being able to closely monitor, shift, and balance load in a way that allows the customer to save peak load and not only save on kWh and kW/month but be able to trade what they have saved in an energy market. Again this involves sophisticated energy management systems, incentives, and a viable trading market.
+Smart grid applications increase the opportunities for demand response by providing real time data to producers and consumers, but the economic and environmental incentives remain the driving force behind the practice.
+Electricity pricing[edit]
+Explanation of demand response effects on a quantity (Q) - price (P) graph. Under inelastic demand (D1) extremely high price (P1) may result on a strained electricity market.
+If demand response measures are employed the demand becomes more elastic (D2). A much lower price will result in the market (P2).
+It is estimated[12] that a 5% lowering of demand would result in a 50% price reduction during the peak hours of the California electricity crisis in 2000/2001. The market also becomes more resilient to intentional withdrawal of offers from the supply side.
+In most electric power systems, some or all consumers pay a fixed price per unit of electricity independent of the cost of production at the time of consumption. The consumer price may be established by the government or a regulator, and typically represents an average cost per unit of production over a given timeframe (for example, a year). Consumption therefore is not sensitive to the cost of production in the short term (e.g. on an hourly basis). In economic terms, consumers' usage of electricity is inelastic in short time frames since the consumers do not face the actual price of production; if consumers were to face the short run costs of production they would be more inclined to change their use of electricity in reaction to those price signals. A pure economist might extrapolate the concept to hypothesize that consumers served under these fixed rate tariffs are endowed with theoretical "call options" on electricity, though in reality, like any other business the customer is simply buying what is on offer at the agreed price.[13] A customer in a department store buying a $10 item at 9.00 am might notice 10 sales staff on the floor but only one occupied serving him or her, while at 3.00 pm the customer could buy the same $10 article and notice all 10 sales staff occupied. In a similar manner, the department store cost of sales at 9.00 am might therefore be 5-10 times that of its cost of sales at 3.00 pm, but it would be far-fetched to claim that the customer, by not paying significantly more for the article at 9.00 am than at 3.00 pm, had a 'call option' on the $10 article.
+In virtually all power systems electricity is produced by generators that are dispatched in merit order, i.e., generators with the lowest marginal cost (lowest variable cost of production) are used first, followed by the next cheapest, etc., until the instantaneous electricity demand is satisfied. In most power systems the wholesale price of electricity will be equal to the marginal cost of the highest cost generator that is injecting energy, which will vary with the level of demand. Thus the variation in pricing can be significant: for example, in Ontario between August and September 2006, wholesale prices (in Canadian Dollars) paid to producers ranged from a peak of $318 per MWh to a minimum of - (negative) $3.10 per MWh.[14][15] It is not unusual for the price to vary by a factor of two to five due to the daily demand cycle. A negative price indicates that producers were being charged to provide electricity to the grid (and consumers paying real-time pricing may have actually received a rebate for consuming electricity during this period). This generally occurs at night when demand falls to a level where all generators are operating at their minimum output levels and some of them must be shut down. The negative price is the inducement to bring about these shutdowns in a least-cost manner.
+Two Carnegie Mellon studies in 2006 looked at the importance of demand response for the electricity industry in general terms[16] and with specific application of real-time pricing for consumers for the PJM Interconnection Regional Transmission authority.[17] The latter study found that even small shifts in peak demand would have a large effect on savings to consumers and avoided costs for additional peak capacity: a 1% shift in peak demand would result in savings of 3.9%, billions of dollars at the system level. An approximately 10% reduction in peak demand (achievable depending on the elasticity of demand) would result in systems savings of between $8 to $28 billion.
+In a discussion paper, Ahmad Faruqui, a principal with the Brattle Group, estimates that a 5 percent reduction in US peak electricity demand could produce approximately $35 billion in cost savings over a 20-year period, exclusive of the cost of the metering and communications needed to implement the dynamic pricing needed to achieve these reductions. While the net benefits would be significantly less than the claimed $35 billion, they would still be quite substantial.[18] In Ontario, Canada, the Independent Electricity System Operator has noted that in 2006, peak demand exceeded 25,000 megawatts during only 32 system hours (less than 0.4% of the time), while maximum demand during the year was just over 27,000 megawatts. The ability to "shave" peak demand based on reliable commitments would therefore allow the province to reduce built capacity by approximately 2,000 megawatts.[19]
+Electricity grids and peak demand response[edit]
+The upper reservoir (Llyn Stwlan) and dam of the Ffestiniog Pumped Storage Scheme in north Wales
+In an electricity grid, electricity consumption and production must balance at all times; any significant imbalance could cause grid instability or severe voltage fluctuations, and cause failures within the grid. Total generation capacity is therefore sized to correspond to total peak demand with some margin of error and allowance for contingencies (such as plants being off-line during peak demand periods). Operators will generally plan to use the least expensive generating capacity (in terms of marginal cost) at any given period, and use additional capacity from more expensive plants as demand increases. Demand response in most cases is targeted at reducing peak demand to reduce the risk of potential disturbances, avoid additional capital cost requirements for additional plants, and avoid use of more expensive and/or less efficient operating plants. Consumers of electricity will also pay higher prices if generation capacity is used from a higher-cost source of power generation.
+Demand response may also be used to increase demand during periods of high supply and/or low demand. Some types of generating plant must be run at close to full capacity (such as nuclear), while other types may produce at negligible marginal cost (such as wind and solar). Since there is usually limited capacity to store energy, demand response may attempt to increase load during these periods to maintain grid stability. For example, in the province of Ontario in September 2006, there was a short period of time when electricity prices were negative for certain users. Energy storage such as Pumped-storage hydroelectricity is a way to increase load during periods of low demand for use during later periods. Use of demand response to increase load is less common, but may be necessary or efficient in systems where there are large amounts of generating capacity that cannot be easily cycled down.
+Some grids may use pricing mechanisms that are not real-time, but easier to implement (users pay higher prices during the day and lower prices at night, for example) to provide some of the benefits of the demand response mechanism with less demanding technological requirements. For example, in 2006 Ontario began implementing a "Smart Meter" program that implements "Time-of-Use" (TOU) pricing, which tiers pricing according to on-peak, mid-peak and off-peak schedules. During the winter, on-peak is defined as morning and early evening, mid-peak as mid-day to late afternoon, and off-peak as night-time; during the summer, the on-peak and mid-peak periods are reversed, reflecting air conditioning as the driver of summer demand. As of May 1, 2015, most Ontario electrical utilities have completed converting all customers to "smart meter" time-of-use billing with on-peak rates about 200% and mid-peak rates about 150% of the off-peak rate per kWh.
+Load shedding[edit]
+Electrical generation and transmission systems may not always meet peak demand requirements the greatest amount of electricity required by all utility customers within a given region. In these situations, overall demand must be lowered, either by turning off service to some devices or cutting back the supply voltage (brownouts), in order to prevent uncontrolled service disruptions such as power outages (widespread blackouts) or equipment damage. Utilities may impose load shedding on service areas via rolling blackouts or by agreements with specific high-use industrial consumers to turn off equipment at times of system-wide peak demand.
+Incentives to shed loads[edit]
+Energy consumers need some incentive to respond to such a request from a Demand Response Provider (see list of Providers below). Demand Response incentives can be formal or informal. For example, the utility might create a tariff-based incentive by passing along short-term increases in the price of electricity. Or they might impose mandatory cutbacks during a heat wave for selected high-volume users, who are compensated for their participation. Other users may receive a rebate or other incentive based on firm commitments to reduce power during periods of high demand,[20] almost never referred to as negawatts.[19]
+Commercial and industrial power users might impose load shedding on themselves, without a request from the utility. Some businesses generate their own power and wish to stay within their energy production capacity to avoid buying power from the grid. Some utilities have commercial tariff structures that set a customer's power costs for the month based on the customer's moment of highest use, or peak demand. This encourages users to flatten their demand for energy, known as energy demand management, which sometimes requires cutting back services temporarily.
+Smart metering has been implemented in some jurisdictions to provide real-time pricing for all types of users, as opposed to fixed-rate pricing throughout the demand period. In this application, users have a direct incentive to reduce their use at high-demand, high-price periods. Many users may not be able to effectively reduce their demand at various times, or the peak prices may be lower than the level required to induce a change in demand during short time periods (users have low price sensitivity, or elasticity of demand is low). Automated control systems exist, which, although effective, may be too expensive to be feasible for some applications.
+Technologies for demand reduction[edit]
+Further information: Load control switch
+Technologies are available, and more are under development, to automate the process of demand response. Such technologies detect the need for load shedding, communicate the demand to participating users, automate load shedding, and verify compliance with demand-response programs. GridWise and EnergyWeb are two major federal initiatives in the United States to develop these technologies. Universities and private industry are also doing research and development in this arena. Scalable and comprehensive software solutions for DR enable business and industry growth.
+Some utilities are considering and testing automated systems connected to industrial, commercial and residential users that can reduce consumption at times of peak demand, essentially delaying draw marginally. Although the amount of demand delayed may be small, the implications for the grid (including financial) may be substantial, since system stability planning often involves building capacity for extreme peak demand events, plus a margin of safety in reserve. Such events may only occur a few times per year.
+The process may involve turning down or off certain appliances or sinks (and, when demand is unexpectedly low, potentially increasing usage). For example, heating may be turned down or air conditioning or refrigeration may be turned up (turning up to a higher temperature uses less electricity), delaying slightly the draw until a peak in usage has passed.[21] In the city of Toronto, certain residential users can participate in a program (Peaksaver AC[22]) whereby the system operator can automatically control hot water heaters or air conditioning during peak demand; the grid benefits by delaying peak demand (allowing peaking plants time to cycle up or avoiding peak events), and the participant benefits by delaying consumption until after peak demand periods, when pricing should be lower. Although this is an experimental program, at scale these solutions have the potential to reduce peak demand considerably. The success of such programs depends on the development of appropriate technology, a suitable pricing system for electricity, and the cost of the underlying technology. Bonneville Power experimented with direct-control technologies in Washington and Oregon residences, and found that the avoided transmission investment would justify the cost of the technology.[23]
+Other methods to implementing demand response approach the issue of subtly reducing duty cycles rather than implementing thermostat setbacks.[24] These can be implemented using customized building automation systems programming, or through swarm-logic methods coordinating multiple loads in a facility (e.g. REGEN Energy's EnviroGrid controllers).[25][26][27]
+It was recently announced that electric refrigerators will be sold in the UK sensing dynamic demand which will delay or advance the cooling cycle based on monitoring grid frequency.[28]
+Industrial customers[edit]
+Industrial customers are also providing demand response. Compared with commercial and residential loads, industrial loads have the following advantages:[29] the magnitude of power consumption by an industrial manufacturing plant and the change in power it can provide are generally very large; besides, the industrial plants usually already have the infrastructures for control, communication and market participation, which enables the provision of demand response; moreover, some industrial plants such as the aluminum smelter[30] are able to offer fast and accurate adjustments in their power consumption. For example, Alcoa's Warrick Operation is participating in MISO as a qualified Demand Response Resource,[31] and the Trimet Aluminium uses its smelter as a short-term mega-battery.[32]
+Short-term inconvenience for long-term benefits[edit]
+Shedding loads during peak demand is important because it reduces the need for new power plants. To respond to high peak demand, utilities build very capital-intensive power plants and lines. Peak demand happens just a few times a year, so those assets run at a mere fraction of their capacity. Electric users pay for this idle capacity through the prices they pay for electricity. According to the Demand Response Smart Grid Coalition, 10%20% of electricity costs in the United States are due to peak demand during only 100 hours of the year.[33] DR is a way for utilities to reduce the need for large capital expenditures, and thus keep rates lower overall; however, there is an economic limit to such reductions because consumers lose the productive or convenience value of the electricity not consumed. Thus, it is misleading to only look at the cost savings that demand response can produce without also considering what the consumer gives up in the process.
+Importance for the operation of electricity markets[edit]
+It is estimated[12] that a 5% lowering of demand would have resulted in a 50% price reduction during the peak hours of the California electricity crisis in 20002001. With consumers facing peak pricing and reducing their demand, the market should become more resilient to intentional withdrawal of offers from the supply side.
+Residential and commercial electricity use often vary drastically during the day, and demand response attempts to reduce the variability based on pricing signals. There are three underlying tenets to these programs:
+Unused electrical production facilities represent a less efficient use of capital (little revenue is earned when not operating).
+Electric systems and grids typically scale total potential production to meet projected peak demand (with sufficient spare capacity to deal with unanticipated events).
+By "smoothing" demand to reduce peaks, less investment in operational reserve will be required, and existing facilities will operate more frequently.
+In addition, significant peaks may only occur rarely, such as two or three times per year, requiring significant capital investments to meet infrequent events.
+US Energy Policy Act regarding demand response[edit]
+The United States Energy Policy Act of 2005 has mandated the Secretary of Energy to submit to the US Congress "a report that identifies and quantifies the national benefits of demand response and makes a recommendation on achieving specific levels of such benefits by January 1, 2007." Such a report was published in February 2006.[34]
+The report estimates that in 2004 potential demand response capability equaled about 20,500 megawatts (MW), 3% of total U.S. peak demand, while actual delivered peak demand reduction was about 9,000 MW (1.3% of peak), leaving ample margin for improvement. It is further estimated that load management capability has fallen by 32% since 1996. Factors affecting this trend include fewer utilities offering load management services, declining enrollment in existing programs, the changing role and responsibility of utilities, and changing supply/demand balance.
+To encourage the use and implementation of demand response in the United States, the Federal Energy Regulatory Commission (FERC) issued Order No. 745 in March 2011, which requires a certain level of compensation for providers of economic demand response that participate in wholesale power markets.[35] The order is highly controversial and has been opposed by a number of energy economists, including Professor William W. Hogan at Harvard University's Kennedy School. Professor Hogan asserts that the order overcompensates providers of demand response, thereby encouraging the curtailment of electricity whose economic value exceeds the cost of producing it. Professor Hogan further asserts that Order No. 745 is anticompetitive and amounts to an application of regulatory authority to enforce a buyers cartel.[36] Several affected parties, including the State of California, have filed suit in federal court challenging the legality of Order 745.[37] A debate regarding the economic efficiency and fairness of Order 745 appeared in a series of articles published in The Electricity Journal.[38][39][40]
+On May 23, 2014, the D.C. Circuit Court of Appeals vacated Order 745 in its entirety.[41] On May 4, 2015, the United States Supreme Court agreed to review the DC Circuit's ruling, addressing two questions:
+Whether the Federal Energy Regulatory Commission reasonably concluded that it has authority under the Federal Power Act, 16 U. S. C. 791a et seq., to regulate the rules used by operators of wholesale electricity markets to pay for reductions in electricity consumption and to recoup those payments through adjustments to wholesale rates.
+Whether the Court of Appeals erred in holding that the rule issued by the Federal Energy Regulatory Commission is arbitrary and capricious.[42]
+On January 25, 2016, the United States Supreme Court in a 6-2 decision in FERC v. Electric Power Supply Ass'n concluded that the Federal Energy Regulatory Commission acted within its authority to ensure "just and reasonable" rates in the wholesale energy market.[43]
+Demand reduction and the use of diesel generators in the UK National Grid[edit]
+As of December 2009 UK National Grid had 2369MW contracted to provide Demand Response, known as STOR, the demand side provides 839MW (35%) from 89 sites. Of this 839MW approximately 750MW is back-up generation with the remaining being load reduction.[44] A paper based on extensive half-hourly demand profiles and observed electricity demand shifting for different commercial and industrial buildings in the UK shows that only a small minority engaged in load shifting and demand turn-down, while the majority of Demand Response is provided by stand-by generators.[45]
+See also[edit]
+Energy portal
+Brittle Power
+Calculating the cost of the UK Transmission network: cost per kWh of transmission
+Calculating the cost of back up: See spark spread
+Control of the National Grid
+Diesel-electric transmission
+Dynamic Demand power - Demand response without smart grid
+Dumsor
+Economics of new nuclear power plants (for cost comparisons)
+Energy conservation
+Energy Demand Management
+Energy intensity
+Energy security and renewable technology
+Energy use and conservation in the United Kingdom
+High-voltage direct current
+Intermittent energy source
+List of power outages
+Load bank
+Load management
+Load profile
+Motor-generator
+National Grid Reserve Service
+Northeast Blackout of 2003
+Potential energy
+Relative cost of electricity generated by different sources
+Three-phase electric power
+Wet stacking
+Energy Reduction Assets
+References[edit]
+^ Balijepalli, Murthy; Pradhan, Khaparde (2011). "Review of Demand Response under Smart Grid Paradigm". IEEE PES Innovative Smart Grid Technologies.
+^ Albadi, M. H.; E. F. El-Saadany (2007). "Demand Response in Electricity Markets: An Overview". IEEE.
+^ Sianaki, O.A.; Masoum, M.A.S., "A fuzzy TOPSIS approach for home energy management in smart grid with considering householders' preferences," Innovative Smart Grid Technologies (ISGT), 2013 IEEE PES , vol., no., pp.1,6, 24-27 Feb. 2013, doi: 10.1109/ISGT.2013.6497819, http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6497819&isnumber=6497783
+^ Torriti, Jacopo (2016) "Peak energy demand and Demand Side Response" (Routledge): https://www.routledge.com/products/9781138016255
+^ Sianaki, O.A.; Hussain, O.; Dillon, T.; Tabesh, A.R., "Intelligent Decision Support System for Including Consumers' Preferences in Residential Energy Consumption in Smart Grid," Computational Intelligence, Modelling and Simulation (CIMSiM), 2010 Second International Conference on , vol., no., pp.154,159, 28-30 Sept. 2010 doi: 10.1109/CIMSiM.2010.84;URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5701838&isnumber=5701812
+^ [1] Description of French EJP demand reduction tariff
+^ Load management using diesel generators - talk at Open University - Dave Andrews Claverton Energy Group
+^ a b Berger, Lars T.; Iniewski, Krzysztof, eds. (April 2012). Smart Grid - Applicacions, Communications and Security. John Wiley and Sons. ISBN978-1-1180-0439-5.
+^ "Description of the two types of demand response". Archived from the original on 2011-08-19.
+^ Siano, Pierluigi (2014). "Demand response and smart grids - A survey". Renewable and Sustainable Energy Reviews. 30: 461478. doi:10.1016/j.rser.2013.10.022.
+^ Giordano V.; Meletiou, A.; Covrig, C. F.; Mengolini, A.; Ardelean, M.; Fulli, G; Jimnez, M. S.; Filiou, C. (2013). "Smart Grid Projects in Europe: Lessons learned and current developments" (PDF). JRC Scientific and Policy Report. Retrieved 3 May 2014.
+^ a b The Power to Choose - Enhancing Demand Response in Liberalised Electricity Markets Findings of IEA Demand Response Project, Presentation 2003
+^ Borlick, Robert L., Pricing Negawatts - DR design flaws create perverse incentives, PUBLIC UTILITIES FORTNIGHTLY, August 2010.
+^ Monthly Market Report - July 2006
+^ http://www.ieso.ca/imoweb/pubs/marketReports/monthly/2006sep.pdf
+^ CEIC Working Paper Abstract
+^ CEIC Working Paper Abstract
+^ The Brattle Group, The Power of Five Percent, How Dynamic Pricing Can Save $35 Billion in Electricity Costs, May 16, 2007.
+^ a b Tyler Hamilton (August 6, 2007). "A megawatt saved is a 'negawatt' earned". The Toronto Star.
+^ Description of French EJP tariff - Claverton Energy Group
+^ N. A. Sinitsyn. S. Kundu, S. Backhaus (2013). "Safe Protocols for Generating Power Pulses with Heterogeneous Populations of Thermostatically Controlled Loads". Energy Conversion and Management. 67: 297308. arXiv:1211.0248. doi:10.1016/j.enconman.2012.11.021.
+^ Peaksaver
+^ Demand-Side Management Technology Avoids Grid Construction for Bonneville Power (Case Study) April, 2006
+^ Smart Grid: Taking our cue from nature
+^ Katie Fehrenbacher. "Is Smart Energy Poised to Swarm California?". Businessweek.com.
+^ MIT Technology Review: Managing Energy with Swarm Logic, Feb 04 2009
+^ EnviroGrid Controllers employ Swarm Logic for Smart Grid Applications
+^ "BBC talks about Dynamic Demand (smart fridges) and Smart Metering.".
+^ Zhang, Xiao; Hug, G.; Kolter, Z.; Harjunkoski, I. (2015-10-01). "Industrial demand response by steel plants with spinning reserve provision". North American Power Symposium (NAPS), 2015: 16. doi:10.1109/NAPS.2015.7335115.
+^ Zhang, X.; Hug, G. (2014-07-01). "Optimal regulation provision by aluminum smelters". 2014 IEEE PES General Meeting | Conference Exposition: 15. doi:10.1109/PESGM.2014.6939343.
+^ Zhang, X.; Hug, G. (2015-02-01). "Bidding strategy in energy and spinning reserve markets for aluminum smelters' demand response". Innovative Smart Grid Technologies Conference (ISGT), 2015 IEEE Power Energy Society: 15. doi:10.1109/ISGT.2015.7131854.
+^ "Storing Power in Molten Aluminum Lakes".
+^ "How Smart Is The Smart Grid?". NPR.org. 7 July 2010.
+^ Benefits of demand response in electricity markets and recommendations for achieving them United States DOE Report to the Congress, February 2006
+^ "FERC: News Release: FERC approves market-based demand response compensation rule". 15 March 2011.
+^ Hogan, William W., Implications for Consumers of the NOPRs Proposal to Pay the LMP for All Demand Response, Statement submitted on behalf of the Electric Power Supply Association in FERC Docket No. RM10-17-000, May 12, 2010.
+^ Electric Power Supply Association, et al, JOINT REQUEST FOR REHEARING OF THE ELECTRIC POWER SUPPLY ASSOCIATION, THE AMERICAN PUBLIC POWER ASSOCIATION, THE ELECTRIC POWER GENERATION ASSOCIATION AND THE NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION, FERC Docket No. RM10-17-001, April 14, 2011, California Public Utilities Commission, Demand Response Compensation in Organized Wholesale Energy Markets, Docket No. RM10-17-000, Request For Clarification or, in theAlternative, Request for Rehearing of the Public Utilities Commission of the State of California, April 14, 2011.
+^ Jonathan Falk, Paying For Demand Response at the Wholesale Level, The Electricity Journal, November 2010, Vol. 23, Issue 9, pp. 13-18.
+^ Robert Borlick, Paying For Demand Response at the Wholesale Level: The Small Consumer's Perspective, The Electricity Journal, November 2011, Vol. 24, Issue 9, pp. 13-19.
+^ Constantine Gonatas, Areas of Congruence, Yes, But 'Pseudo-Agreement' on LMP, The Electricity Journal, Jan./Feb. 2012, Vol. 25, Issue 1, pp. 1-4
+^ Electric Power Supply Ass'n v. FERC, 753 F.3d 216 (D.C. Cir. 2014).
+^ http://www.supremecourt.gov/orders/courtorders/050415zor_7648.pdf
+^ http://www.supremecourt.gov/opinions/15pdf/14-840_k537.pdf
+^ http://www.claverton-energy.com/commercial-opportunities-for-back-up-generation-and-load-reduction-via-national-grid-the-national-electricity-transmission-system-operator-netso-for-england-scotland-wales-and-offshore.html Commercial Opportunities for Back-Up Generation and Load Reduction via National Grid, the National Electricity Transmission System Operator (NETSO) for England, Scotland, Wales and Offshore
+^ Grunewald, P.; J. Torriti (2013). "Demand response from the non-domestic sector: Early UK experiences and future opportunities". Energy Policy. 61: 423429. doi:10.1016/j.enpol.2013.06.051.
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1241
+Cached time: 20161119074551
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.248 seconds
+Real time usage: 0.301 seconds
+Preprocessor visited node count: 1748/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 58321/2097152 bytes
+Template argument size: 1189/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 2/500
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 4.26 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+231.404
+1 - -total
+56.48%
+130.701
+1 - Template:Reflist
+22.66%
+52.441
+8 - Template:Cite_journal
+12.31%
+28.474
+7 - Template:Cite_web
+10.69%
+24.735
+2 - Template:Navbox
+10.63%
+24.599
+1 - Template:More_footnotes
+10.14%
+23.473
+1 - Template:Electricity_generation
+9.15%
+21.183
+1 - Template:Ambox
+7.00%
+16.202
+1 - Template:About
+4.28%
+9.910
+1 - Template:Navbox_subgroup
+Saved in parser cache with key enwiki:pcache:idhash:2696466-0!*!0!!en!4!* and timestamp 20161119074550 and revision id 748152567
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Demand_response&oldid=748152567"
+Categories: Electricity economicsElectrical gridHidden categories: Articles lacking in-text citations from July 2011All articles lacking in-text citations

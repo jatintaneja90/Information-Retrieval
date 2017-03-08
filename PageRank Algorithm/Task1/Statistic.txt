@@ -1,0 +1,12 @@
+For G1, number of pages with no inlinks are 1
+and number of pages with no outlinks are 26
+Total number of links in G1 are 1000
+So proportion of pages with no inlinks is 0.001
+And proportion of pages with no outlinks are 0.026
+
+
+For G2, number of pages with no inlinks are 14350
+and number of pages with no outlinks are 66175
+Total number of links in G1 are 183811
+So proportion of pages with no inlinks is 0.078
+And proportion of pages with no outlinks are 0.36

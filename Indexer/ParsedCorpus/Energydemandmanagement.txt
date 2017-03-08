@@ -1,0 +1,280 @@
+Energydemandmanagement
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Energy demand management, also known as demand-side management (DSM) or demand-side response (DSR),[1] is the modification of consumer demand for energy through various methods such as financial incentives[2] and behavioral change through education. Usually, the goal of demand side management is to encourage the consumer to use less energy during peak hours, or to move the time of energy use to off-peak times such as nighttime and weekends.[3] Peak demand management does not necessarily decrease total energy consumption, but could be expected to reduce the need for investments in networks and/or power plants for meeting peak demands. An example is the use of energy storage units to store energy during off-peak hours and discharge them during peak hours.[4] A newer application for DSM is to aid grid operators in balancing intermittent generation from wind and solar units, particularly when the timing and magnitude of energy demand does not coincide with the renewable generation.[5]
+The term DSM was coined following the time of the 1973 energy crisis and 1979 energy crisis.[6] Governments of many countries mandated performance of various programs for demand management. An early example is the National Energy Conservation Policy Act of 1978 in the U.S., preceded by similar actions in California and Wisconsin. Demand Side Management was introduced publicly by Electric Power Research Institute (EPRI) in the 1980s.[7] Nowadays, DSM technologies become increasingly feasible due to the integration of information and communications technology and the power system, resulting in a new term: smart grid.
+Contents
+1 Operation
+2 Logical foundations
+3 Types
+4 Scale
+4.1 National Scale
+4.2 Utility Scale
+4.3 Community Scale
+4.4 Household Scale
+5 Examples
+5.1 Queensland, Australia
+5.2 Toronto, Canada
+5.3 California, US
+5.4 Indiana, US
+5.5 Brazil
+6 Problems
+7 See also
+8 Notes
+9 References
+9.1 Works cited
+10 External links
+Operation[edit]
+Electricity use can vary dramatically on short and medium time frames, largely dependent on weather patterns. Generally the wholesale electricity system adjusts to changing demand by dispatching additional or less generation. However, during peak periods, the additional generation is usually supplied by less efficient ("peaking") sources. Unfortunately, the instantaneous financial and environmental cost of using these "peaking" sources is not necessarily reflected in the retail pricing system. In addition, the ability or willingness of electricity consumers to adjust to price signals by altering demand (elasticity of demand) may be low, particularly over short time frames. In many markets, consumers (particularly retail customers) do not face real-time pricing at all, but pay rates based on average annual costs or other constructed prices.
+Energy demand management activities attempt to bring the electricity demand and supply closer to a perceived optimum, and helps give electricity end users more direct price signals to adjust their usage or automated signals to change load depending on system conditions. These system conditions could be peak times, or in areas with levels of variable renewable energy, during times when demand must be adjusted upward to avoid overgeneration or downward to help with ramping needs.
+Adjustments to demand can occur in various ways: through responses to price signals, such as permanent differential rates for evening and day times or occasional highly priced usage days, behavioral changes achieved through home area networks, automated controls such as with remotely controlled air-conditioners, or with permanent load adjustments with energy efficient appliances.
+Logical foundations[edit]
+Demand for any commodity can be modified by actions of market players and government (regulation and taxation). Energy demand management implies actions that influence demand for energy. DSM is originally adopted in electricity, today DSM is applied widely to utility including water and gas as well.
+Reducing energy demand is contrary to what both energy suppliers and governments have been doing during most of the modern industrial history. Whereas real prices of various energy forms have been decreasing during most of the industrial era, due to economies of scale and technology, the expectation for the future is the opposite. Previously, it was not unreasonable to promote energy use as more copious and cheaper energy sources could be anticipated in the future or the supplier had installed excess capacity that would be made more profitable by increased consumption.
+In centrally planned economies subsidizing energy was one of the main economic development tools. Subsidies to the energy supply industry are still common in some countries.
+Contrary to the historical situation, energy prices and availability are expected to deteriorate. Governments and other public actors, if not the energy suppliers themselves, are tending to employ energy demand measures that will increase the efficiency of energy consumption.
+Types[edit]
+Energy Efficiency: Using less power to perform the same tasks. This involves a permanent reduction of demand by using more efficient load-intensive appliances such as water heaters, refrigerators, or washing machines.
+Demand Response: Any reactive or preventative method to reduce, flatten or shift demand. Historically, demand response programs have focused on peak reduction to defer the high cost of constructing generation capacity. However, demand response programs are now being looked to assist with changing the net load shape as well, load minus solar and wind generation, to help with integration of variable renewable energy.[8] Demand response includes all intentional modifications to consumption patterns of electricity of end user customers that are intended to alter the timing, level of instantaneous demand, or the total electricity consumption.[9] Demand response refers to a wide range of actions which can be taken at the customer side of the electricity meter in response to particular conditions within the electricity system (such as peak period network congestion or high prices).[10]
+Dynamic Demand: Advance or delay appliance operating cycles by a few seconds to increase the diversity factor of the set of loads. The concept is that by monitoring the power factor of the power grid, as well as their own control parameters, individual, intermittent loads would switch on or off at optimal moments to balance the overall system load with generation, reducing critical power mismatches. As this switching would only advance or delay the appliance operating cycle by a few seconds, it would be unnoticeable to the end user. In the United States, in 1982, a (now-lapsed) patent for this idea was issued to power systems engineer Fred Schweppe.[11] This type of dynamic demand control is frequently used for air-conditioners. One example of this is through the SmartAC program in California.
+Scale[edit]
+Broadly, demand side management can be classified into four categories, national scale, utility scale, community scale, and individual household scale.
+National Scale[edit]
+Energy efficiency improvement is one of the most important demand side management strategies. Efficiency improvements can be implemented nationally through legislation and standards in housing, building, appliances, transport, machinaries etc.
+Utility Scale[edit]
+During peak demand time, utilities are able to control storage water heaters and pool pumps in large areas to reduce peak demand, e.g. Australia and Switzerland. One of the common technologies is ripple control: high frequency signal (e.g. 1000Hz) is superimposed to normal electricity (50 or 60Hz) to switch on or off devices.
+Community Scale[edit]
+Other names can be neighborhood, precinct, or district. Community central heating systems have been existing for many decades in regions of cold winters. Demand side management can be implemented in community scale to reduce peak demand for heating or cooling. Another aspect is to achieve Net Zero Energy community.
+Household Scale[edit]
+In areas of Australia, more than 30% (2016) of households have rooftop photo-voltaic systems. It is useful for them to use free energy from the sun to reduce energy import from the grid. Further, demand side management can be helpful when a systematic approach is considered: the operation of photovoltaic, air conditioner, battery energy storage systems, storage water heaters, building performance and energy efficiency measures.
+Examples[edit]
+Queensland, Australia[edit]
+The utility companies in the state of Queensland, Australia have devices fitted onto certain household appliances such as air conditioners or into household meters to control water heater, pool pumps etc. These devices would allow energy companies to remotely cycle the use of these items during peak hours. Their plan also includes improving the efficiency of energy-using items, encouraging the use of oil instead of electricity, and giving financial incentives to consumers who use electricity during off-peak hours, when it is less expensive for energy companies to produce.[12]
+Another example is that with demand side management, Southeast Queensland households can use electricity from rooftop photo-voltaic system to heat up water.[13]
+Toronto, Canada[edit]
+In 2007, Toronto Hydro, the monopoly energy distributor of Ontario, had over 40,000 people signed up to have remote devices attached to air conditioners which energy companies use to offset spikes in demand. Spokeswoman Tanya Bruckmueller says that this program can reduce demand by 40 megawatts during emergency situations.[14]
+California, US[edit]
+California has several demand side management programs, including automated and critical peak pricing demand response programs for commercial and industrial customers as well as residential consumers, energy efficiency rebates, non-event based time-of-use pricing, special electric vehicle charging rates, and distributed storage. Some of these programs are slated to be added into the wholesale electricity market to be bid as "supply side" resources that can be dispatched by the system operator. Demand side management in the state will be increasingly important as the level of renewable generation approaches 33% by 2020, and is expected to be increased beyond that level in the long-term.
+Indiana, US[edit]
+The Aloca's Warrick Operation is participating in MISO as a qualified demand response resource, which means it is providing demand response in terms of energy, spinning reserve, and regulation service.[15][16]
+Brazil[edit]
+Demand-side management can apply to electricity system based on thermal power plants or to systems where renewable energy, as hydroelectricity, is predominant but with a complementary thermal generation, for instance, in Brazil.
+In Brazils case, despite the generation of hydroelectric power corresponds to more than 80% of the total, to achieve a practical balance in the generation system, the energy generated by hydroelectric plants supplies the consumption below the peak demand. Peak generation is supplied by the use of fossil-fuel power plants. In 2008, Brazilian consumers paid more than U$1 billion[17] for complementary thermoelectric generation not previously programmed.
+In Brazil, the consumer pays for all the investment to provide energy, even if a plant sits idle. For most fossil-fuel thermal plants, the consumers pay for the "fuels" and others operation costs only when these plants generate energy. The energy, per unit generated, is more expensive from thermal plants than from hydroelectric. Only a few of the Brazilian's thermoelectric plants use natural gas, so they pollute significantly more. The power generated to meet the peak demand has higher costsboth investment and operating costsand the pollution has a significant environmental cost and potentially, financial and social liability for its use. Thus, the expansion and the operation of the current system is not as efficient as it could be using demand side management. The consequence of this inefficiency is an increase in energy tariffs ... passed on to the consumers.
+Moreover, because electric energy is generated and consumed almost instantaneously, all the facilities, as transmission lines and distribution nets, are built for peak consumption. During the non-peak periods their full capacity is not utilized.
+The reduction of peak consumption can benefit the efficiency of the electric systems, like the Brazilian system, in some senses: as deferring new investments in distribution and transmission networks, and reducing the necessity of complementary thermal power operation during peak periods, which can diminish both the payment for investment in new power plants to supply only during the peak period and the environmental impact associated with greenhouse gas emission.
+Problems[edit]
+Some people argue that demand-side management has been ineffective because it has often resulted in higher utility costs for consumers and less profit for utilities.[18]
+One of the main goals of demand side management is to be able to charge the consumer based on the true price of the utilities at that time. If consumers could be charged less for using electricity during off-peak hours, and more during peak hours, then supply and demand would theoretically encourage the consumer to use less electricity during peak hours, thus achieving the main goal of demand side management.
+Another problem of DSM is privacy: The consumers have to provide some information about their usage of electricity to their electricity company. This is less of a problem now as people are used to suppliers noting purchasing patterns through mechanisms such as "loyalty cards".
+See also[edit]
+Energy portal
+Alternative fuel
+Battery-to-grid
+Dynamic demand (electric power)
+Demand response
+Duck curve
+Energy conservation
+Energy intensity
+Energy Storage as a Service (ESaaS)
+Grid energy storage
+GridLAB-D
+List of energy storage projects
+Load profile
+Load management
+Time of Use
+Notes[edit]
+^ "Electricity system flexibility". Ofgem. Government of United Kingdom. Retrieved 7 September 2016.
+^ Wei-Yu Chiu; Hongjian Sun; H.V. Poor (June 2013). "Energy Imbalance Management Using a Robust Pricing Scheme". IEEE Transactions on Smart Grid. 4 (2): 896904. doi:10.1109/TSG.2012.2216554. ISSN1949-3053.
+^ "Demand Management". Office of Energy. Government of Western Australia. Retrieved 30 November 2010.
+^ Wei-Yu Chiu; Hongjian Sun; H.V. Poor (November 2012). "Demand-side energy storage system management in smart grid". 2012 IEEE Third International Conference on Smart Grid Communications (SmartGridComm): 73, 78, 58. doi:10.1109/SmartGridComm.2012.6485962.
+^ Jeffery Greenblatt; Jane Long (September 2012). "California's Energy Future: Portraits of Energy Systems for Meeting Greenhouse Gas Reduction Targets" (PDF). California Council on Science and Technology: 4647.
+^ Torriti, Jacopo (2016). Peak energy demand and Demand Side Response. Routledge. ISBN9781138016255.
+^ Balijepalli, Murthy; Pradhan, Khaparde (2011). "Review of Demand Response under Smart Grid Paradigm". IEEE PES Innovative Smart Grid Technologies.
+^ Sila Kiliccote; Pamela Sporborg; Imran Sheikh; Erich Huffaker; and Mary Ann Piette; "Integrating Renewable Resources in California and the Role of Automated Demand Response," Lawrence Berkeley National Lab (Environmental Energy Technologies Division), Nov. 2010
+^ Albadi, M. H.; E. F. El-Saadany (2007). "Demand Response in Electricity Markets: An Overview". IEEE.
+^ Torriti; et al. (2010). "Demand response experience in Europe: policies, programmes and implementation". Energy. 35 (4): 15751583. doi:10.1016/j.energy.2009.05.021.
+^ US-Patent No. 4,317,049: Frequency adaptive, power-energy re-scheduler
+^ "Energy Conservation and Demand Management Program" (PDF). Queensland Government. Queensland Government. Retrieved 2 December 2010.
+^ Aaron Lei Liu; Gerard Ledwich; Wendy Miller (2015). Single household domestic water heater design and control utilising PV energy: The untapped energy storage solution. IEEE. doi:10.1109/APPEEC.2015.7381047.
+^ Bradbury, Danny (5 November 2007). "Volatile energy prices demand new form of management". businessGreen. Association of Online Publishers. Retrieved 2 December 2010.
+^ "Providing Reliability Services through Demand Response: A Preliminary Evaluation of the Demand Response Capabilities of Alcoa Inc." (PDF).
+^ Zhang, X.; Hug, G. (2015-02-01). "Bidding strategy in energy and spinning reserve markets for aluminum smelters' demand response". Innovative Smart Grid Technologies Conference (ISGT), 2015 IEEE Power Energy Society: 15. doi:10.1109/ISGT.2015.7131854.
+^ CCEE (2008). "Relatrio de Informaes ao Pblico" (PDF). Anlise Anual.
+^ Katz, Myron. "Demand Side Management: Reflections of an Irreverent Regulator." ScienceDirect. Oregon Public Utility Commission, 01 Apr 2002. Web. 3 Dec 2010.
+References[edit]
+Loughran; David S. & Jonathan Kulick (2004). "Demand-Side Management and Energy Efficiency in the United States". The Energy Journal. 25 (1): 1943. doi:10.5547/issn0195-6574-ej-vol25-no1-2. ISSN0195-6574.
+Dunn, Rodney (23 June 2002). "Electric Utility Demand-Side Management 1999". US Energy Information Administration. Retrieved 9 November 2010..
+"Demand-Side Management". Pacificorp: A Midamerican Energy Holdings Company. 2010. Retrieved 9 November 2010.
+Sarkar, Ashok & Singh, Jas (October 2009). "Financing Energy Efficiency in Developing Countries  Lessons Learned and Remaining Challenges" (PDF). United States Energy Association. The World Bank. Archived from the original (PDF) on 13 August 2010. Retrieved 9 November 2010..
+Simmons, Daniel (20 May 2010). "Demand-Side Management: Government Planning, Not Market Conservation (Testimony of Dan Simmons Before the Georgia Public Service Commission)". MasterResource. Retrieved 9 November 2010.
+Works cited[edit]
+Assessment of Long Term, System Wide Potential for Demand-Side and Other Supplemental Resources (PDF). PacificCorp (Report). 1 (Final Report ed.). Portland: Quantec. 2006. Retrieved 7 November 2010.
+Brennan, Timothy J (2010). "Optimal Energy Efficiency Policies and Regulatory Demand-side Management Tests: How Well Do They Match?" (PDF). Energy Policy. Environmental Sciences and Pollution Mgmt. 38 (8). Retrieved 7 November 2010.
+Moura, Pedro S. & Anibal T. De Almeida (2010). "The Role of Demand-side Management in the Grid Integration of Wind Power". Applied Energy. Environmental Sciences and Pollution Mgmt. 87 (8): 2581588. doi:10.1016/j.apenergy.2010.03.019. Retrieved 7 November 2010.
+Primer on Demand-Side Management (PDf) (Report) (Rep. no. D06090 ed.). Oakland: Charles River Associates. 2005.
+External links[edit]
+Demand-Side Management Programme IEA
+Energy subsidies in the European Union: A brief overview
+Managing Energy Demand seminar Bern, nov 4 2009
+Demand Side Management for the European Supergrid
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1183
+Cached time: 20161119065347
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.192 seconds
+Real time usage: 0.228 seconds
+Preprocessor visited node count: 1521/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 69297/2097152 bytes
+Template argument size: 788/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.092/10.000 seconds
+Lua memory usage: 3.16 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+169.454
+1 - -total
+55.43%
+93.930
+1 - Template:Reflist
+27.32%
+46.303
+8 - Template:Cite_web
+25.54%
+43.272
+12 - Template:Cite_journal
+14.52%
+24.597
+2 - Template:Navbox
+14.42%
+24.427
+1 - Template:Electricity_generation
+9.75%
+16.521
+1 - Template:Portal
+5.10%
+8.637
+1 - Template:Navbox_subgroup
+4.48%
+7.587
+2 - Template:Cite_report
+2.48%
+4.201
+1 - Template:Cite_conference
+Saved in parser cache with key enwiki:pcache:idhash:1595817-0!*!0!!en!4!* and timestamp 20161119065347 and revision id 749436850
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Energy_demand_management&oldid=749436850"
+Categories: Market failureElectric power distribution

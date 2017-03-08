@@ -1,0 +1,12 @@
+Energysavinglamp
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Energy saving lamps are sources of artificial light that employ advanced technology to reduce the amount of electricity used to generate light, relative to traditional filament-burning light bulbs.
+Examples of energy saving lamps include:
+Fluorescent lamps; i.e. regular and compact
+a Light-emitting diode bulb
+a Light-emitting Electrochemical Cell
+Magnetic induction lamps
+Saved in parser cache with key enwiki:pcache:idhash:17669754-0!*!0!*!*!*!* and timestamp 20161028070357 and revision id 702439006
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Energy_saving_lamp&oldid=702439006"
+Categories: Energy-saving lighting

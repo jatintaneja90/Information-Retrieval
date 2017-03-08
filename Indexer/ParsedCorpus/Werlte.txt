@@ -1,0 +1,166 @@
+Werlte
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Werlte
+Coat of arms
+Werlte
+Location of Werlte within Emsland district
+Coordinates: 5251N 0741E / 52.850N 7.683E / 52.850; 7.683Coordinates: 5251N 0741E / 52.850N 7.683E / 52.850; 7.683
+Country
+Germany
+State
+Lower Saxony
+District
+Emsland
+Municipal assoc.
+Werlte
+Government
+Mayor
+Willfried Lbs (CDU)
+Area
+Total
+63.75km2 (24.61sqmi)
+Population (2015-12-31)[1]
+Total
+10,077
+Density
+160/km2 (410/sqmi)
+Time zone
+CET/CEST (UTC+1/+2)
+Postal codes
+49757
+Dialling codes
+0 59 51
+Vehicle registration
+EL
+Website
+www.werlte.de
+Werlte is a municipality in the Emsland district, in Lower Saxony, Germany.
+Werlte was a host city of the 2008 Team Long Track World Championship. The championship was won by Germany.
+Twin towns  Sister cities[edit]
+Werlte is twinned with:
+Lidzbark Warmiski, Poland (2005)
+References[edit]
+^ Landesbetrieb fr Statistik und Kommunikationstechnologie Niedersachsen, 102 Bevlkerung - Basis Zensus 2011, Stand 31. Dezember 2015 (Tabelle K1020014)
+v
+t
+e
+Towns and municipalities in Emsland (district)
+Andervenne
+Bawinkel
+Beesten
+Bockhorst
+Brger
+Breddenberg
+Dersum
+Dohren
+Drpen
+Emsbren
+Esterwegen
+Freren
+Fresenburg
+Geeste
+Gersten
+Gro Beren
+Handrup
+Haren
+Haselnne
+Heede
+Herzlake
+Hilkenbrook
+Hven
+Klein Beren
+Kluse
+Lhden
+Lahn
+Langen
+Lathen
+Lehe
+Lengerich
+Lingen
+Lorup
+Lnne
+Meppen
+Messingen
+Neubrger
+Neulehe
+Niederlangen
+Oberlangen
+Papenburg
+Rastdorf
+Renkenberge
+Rhede
+Salzbergen
+Schapen
+Sgel
+Spahnharrensttte
+Spelle
+Stavern
+Surwold
+Sustrum
+Thuine
+Twist
+Vrees
+Walchum
+Werlte
+Werpeloh
+Wettrup
+Wippingen
+Authority control
+WorldCat Identities
+VIAF: 147868067
+GND: 4393894-2
+This Emsland district location article is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+NewPP limit report
+Parsed by mw1216
+Cached time: 20161119170748
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.324 seconds
+Real time usage: 0.408 seconds
+Preprocessor visited node count: 9054/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 51703/2097152 bytes
+Template argument size: 5933/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 9/500
+Lua time usage: 0.079/10.000 seconds
+Lua memory usage: 2.55 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+372.680
+1 - -total
+91.99%
+342.814
+1 - Template:Infobox_German_location
+85.32%
+317.983
+1 - Template:Infobox_settlement
+75.09%
+279.855
+2 - Template:Infobox
+23.40%
+87.192
+1 - Template:Geobox_coor
+22.44%
+83.624
+7 - Template:Population_Germany
+14.30%
+53.296
+7 - Template:Metadata_Population_DE-NI
+9.16%
+34.146
+1 - Template:Imagemap_Germany_district_EL
+7.18%
+26.775
+12 - Template:Str_left
+6.56%
+24.456
+5 - Template:Schlsselconverter
+Saved in parser cache with key enwiki:pcache:idhash:11918277-0!*!0!!*!4!* and timestamp 20161119170748 and revision id 668013596
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Werlte&oldid=668013596"
+Categories: Municipalities in Lower SaxonyEmslandEmsland district geography stubsHidden categories: Coordinates on WikidataWikipedia articles with VIAF identifiersWikipedia articles with GND identifiersAll stub articles

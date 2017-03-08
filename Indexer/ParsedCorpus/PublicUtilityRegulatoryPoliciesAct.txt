@@ -1,0 +1,94 @@
+PublicUtilityRegulatoryPoliciesAct
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Public Utility Regulatory Policies Act
+Long title
+An Act to suspend until the close of June 30, 1980, the duty on certain doxorubicin hydrochloride antibiotics.
+Acronyms (colloquial)
+PURPA
+Nicknames
+Public Utility Regulatory Policies Act of 1978
+Enactedby
+the 95th United States Congress
+Effective
+November 9, 1978
+Citations
+Public law
+95-617
+Statutes at Large
+92Stat.3117
+Codification
+Titles amended
+16 U.S.C.: Conservation
+U.S.C. sections created
+16 U.S.C. ch. 46 2601 et seq.
+Legislative history
+Introduced in the House as H.R. 4018 by Thomas B. Evans, Jr. (RDE) on February 24, 1977
+Committee consideration by House Ways and Means, Senate Finance
+Passed the House on July 18, 1977(passed voice vote)
+Passed the Senate on October 6, 1977(86-7, in lieu of S. 2114 and H.R. 8444)
+Reported by the joint conference committee on October 6, 1978; agreed to by the Senate on October 9, 1978(77-14) and by the House on October 14, 1978(237-174)
+Signed into law by President Jimmy Carter on November 9, 1978
+The Public Utility Regulatory Policies Act (PURPA, Pub.L. 95617, 92Stat.3117, enacted November9, 1978) is a United States Act passed as part of the National Energy Act. It was meant to promote energy conservation (reduce demand) and promote greater use of domestic energy and renewable energy (increase supply). The law was created in response to the 1973 energy crisis, and one year in advance of a second energy crisis.
+Upon entering the White House, President Jimmy Carter made energy policy a top priority. The law started the energy industry on the road to restructuring.[1]
+Contents
+1 Law
+2 Non-utility power producers
+3 Ending Promotional Rate Structure
+4 Cogeneration
+5 Renewable Energy and Hydropower
+6 Implementation
+7 Legacy
+8 Amendment proposals and new legislation
+9 See also
+10 References
+11 External links
+Law[edit]
+The Public Utility Regulatory Policies Act of 1978 (PURPA) encouraged
+creating a market for power from non-utility power producers
+increased efficiency by making use of cogeneration
+ending promotional rate structures
+encouraging the development of hydroelectric power
+the conservation of electric energy and natural gas
+Non-utility power producers[edit]
+Energy companies were classified as natural monopolies, and for this reason, most were established with vertically integrated structures (that is, they undertook all the functions of generating, transmitting, and distributing electricity to the customer). Utilities became protected as regulated monopolies because it was thought that a company could produce power more efficiently and economically as one company than as several.
+PURPA started the industry on the road to restructuring and is one of the first laws that began the deregulation of energy companies. The provision which enabled non-utility generators ("NUGs") to produce power for use by customers attached to a utility's grid broke the previous monopoly in the generation function.[2]
+Ending Promotional Rate Structure[edit]
+Utilities offered customers a "rate structure" that decreased the cost per kWh price of electricity with increasing usage, with subsequent increments costing less per unit. PURPA eliminated promotional rate structures except when they could be justified by the cost structure of utility companies.[2]
+Cogeneration[edit]
+One provision of PURPA is the requirement for increased use of energy cogeneration. The law forced electric utilities to buy power from other more efficient producers, such as cogeneration plants, if that cost was less than the utility's own "avoided cost" rate to the consumer; the avoided cost rate was the additional costs that the electric utility would incur if it generated the required power itself, or if available, could purchase its demand requirements from another source. At the time generally, where demand was growing, this "avoided cost" was considered to be the construction and fossil fuel costs incurred in the operation of another thermal power plant.
+As an effect, the number of cogeneration plants, which produce electric power and steam, increased. These plants are encouraged by the law, on the basis that they harness thermal energy (in the form of usable steam) that would be otherwise wasted if electricity alone was produced. PURPA also became the basic legislation that enabled renewable energy providers to gain a toehold in the market, particularly in California, where state authorities were more aggressive in their interpretation of the statute. The portion of the act dealing with cogeneration and small power production appears in US code in Title 16  Conservation, Chapter 12  Federal Regulation and Development of Power, Subchapter II  Regulation of Electric Utility Companies Engaged in Interstate Commerce, Sec 824a-3  Cogeneration and Small Power Production.
+This led to the establishment of a new class of generating facilities, which would receive special rate and regulatory treatment. Generating facilities in this group are known as qualifying facilities (QFs), and fall into two categories: qualifying small power production facilities and qualifying cogeneration facilities.[3]
+Renewable Energy and Hydropower[edit]
+PURPA provided favorable terms to companies that produced electricity from renewable (non-fossil-fuel) resources.[2]
+Implementation[edit]
+Although a Federal law, PURPA's implementation was left to the individual states, because needs varied; a variety of regulatory regimes developed in states where renewable power resources were needed, available for development, or the generated power could be transmitted. Little was done in many states where such resources were unavailable, where the demand growth was slower or previously accommodated in planning.
+Legacy[edit]
+PURPA is becoming less important, as many of the contracts made under it during the 1980s are expiring.[citation needed] Another reason for PURPA's reduced significance is that electric deregulation and open access to electricity transportation by utilities has created a vast market for the purchase of energy and State regulatory agencies have therefore stopped forcing utilities to give contracts to developers of non-utility power projects. However, it is still an important piece of legislation promoting renewable energy because it exempts the developers of such projects from numerous State and Federal regulatory regimes.
+This free market approach presented investment opportunity and government encouragement for more development of environment-friendly, renewable energy projects and technologies; the law created a market in which non-utility Independent Power Producers developed, and some energy market players failed.
+Critics of PURPA cited that power producers signed multi-year cost of electricity contracts at a time when energy prices were high. When oil prices went down, utilities had to honor the rates of those contracts, leading to high power prices.[4]
+PURPA was the only existing federal law that requires competition in the utility industry and the only law that encourages renewables, if it is cost competitive with conventional polluting resources.[4]
+Amendment proposals and new legislation[edit]
+In February 2005, Senator Jim Jeffords from Vermont introduced an amendment to PURPA calling for a Renewable portfolio standard.
+PURPA was amended in 2005 by the Energy Policy Act of 2005 by sections 1251 through 1254. There is pending legislation[when?] in the US Senate that would amend PURPA to require FERC to develop standards for interconnection of distributed generation facilities, and that would require electric utilities meeting the PURPA size requirement (retail sales of more than 500 million kw hrs) to implement those standards.[citation needed]
+One proposed law that would amend PURPA is the Hydropower Regulatory Efficiency Act of 2013 (H.R. 267). The bill was introduced into the United States House of Representatives of the 113th United States Congress on January 15, 2013, and it passed the House on February 13, 2013 by a vote of 422-0. If enacted, the bill would change some of the regulations in the United States surrounding hydropower by making it easier for smaller hydropower stations to be created. According to the bill's proponents, current regulations are unwieldy and represent a significant hurdle to creating more hydropower plants. H.R. 267 would alter those regulations to make it easier for smaller plants to get approval quickly. Section 3 of H.R. 267 amends the Public Utility Regulatory Policies Act of 1978 (PURPA) to increase from 5,000 to 10,000 kilowatts the size of small hydroelectric power projects which the Federal Energy Regulatory Commission (FERC) may exempt from its license requirements.[5]
+See related energy policy contained in 42 USC Chapter 134  Energy Policy.
+See also[edit]
+Public Utility Holding Company Act of 1935
+Energy Policy Act of 2005
+Energy Policy Act of 1992
+References[edit]
+^ "The Public Utility Regulatory Policies Act". Smithsonian Museum of American History. Retrieved 12 Apr 2014.
+^ a b c "Restructuring or Deregulation?". Smithsonian Museum of American History. Retrieved 12 Apr 2014.
+^ Link text, additional text.
+^ a b "Public Utility Regulatory Policy Act (PURPA)". Union of Concerned Scientists. Retrieved 12 Apr 2014.
+^ "Bill Text  H.R. 267  113th Congress". Library of Congress. Retrieved 4 April 2013.
+External links[edit]
+PURPA at U.S. Code
+PURPA at Union of Concerned Scientists
+EnergyVortex.com
+Michaels, Robert J. (2008). "Electricity and Its Regulation". In David R. Henderson (ed.). Concise Encyclopedia of Economics (2nd ed.). Indianapolis: Library of Economics and Liberty. ISBN978-0865976658. OCLC237794267.
+Saved in parser cache with key enwiki:pcache:idhash:1588980-0!*!0!!en!4!* and timestamp 20161109202851 and revision id 728227335
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Public_Utility_Regulatory_Policies_Act&oldid=728227335"
+Categories: 1978 in American law95th United States CongressUnited States federal energy legislationRenewable energy policyPublic utilitiesHidden categories: All articles with unsourced statementsArticles with unsourced statements from August 2009Vague or ambiguous time from August 2009Law articles needing an infobox

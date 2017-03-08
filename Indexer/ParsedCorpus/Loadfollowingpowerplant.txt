@@ -1,0 +1,235 @@
+Loadfollowingpowerplant
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2016) (Learn how and when to remove this template message)
+A load following power plant, regarded as producing mid-merit or mid-priced electricity, is a power plant that adjusts its power output as demand for electricity fluctuates throughout the day.[1] Load following plants are typically in-between base load and peaking power plants in efficiency, speed of start up and shut down, construction cost, cost of electricity and capacity factor.
+Contents
+1 Base load and peaking power plants
+2 Load following power plants
+2.1 Gas turbine power plants
+2.2 Diesel and gas engine power plants
+2.3 Hydroelectric power plants
+2.4 Coal based power plants
+2.5 Nuclear power plants
+2.5.1 Boiling water reactors
+2.5.2 Pressurized water reactors
+3 Solar and wind power plants
+4 See also
+5 References
+Base load and peaking power plants[edit]
+Base load power plants operate at maximum output. They shut down or reduce power only to perform maintenance or repair. Base load power plants include coal, fuel oil, almost all nuclear, geothermal, hydroelectric, biomass and combined cycle natural gas plants.
+Peaking power plants operate only during times of peak demand. In countries with widespread air conditioning, demand peaks around the middle of the afternoon, so a typical peaking power plant may start up a couple of hours before this point and shut down a couple of hours after. However, the duration of operation for peaking plants varies from a good portion of the waking day to only a couple dozen hours per year. Peaking power plants include hydroelectric and gas turbine power plants. Many gas turbine power plants can be fuelled with natural gas or diesel. Most plants burn natural gas, but a supply of diesel is sometimes kept on hand in case the gas supply is interrupted. Other gas turbines can only burn either diesel or natural gas.
+Load following power plants[edit]
+Load following power plants run during the day and early evening. They either shut down or greatly curtail output during the night and early morning, when the demand for electricity is the lowest. The exact hours of operation depend on numerous factors. One of the most important factors for a particular plant is how efficiently it can convert fuel into electricity. The most efficient plants, which are almost invariably the least costly to run per kilowatt-hour produced, are brought online first. As demand increases, the next most efficient plants are brought on line and so on. The status of the electrical grid in that region, especially how much base load generating capacity it has, and the variation in demand are also very important. An additional factor for operational variability is that demand does not vary just between night and day. There are also significant variations in the time of year and day of the week. A region that has large variations in demand will require a large load following or peaking power plant capacity because base load power plants can only cover the capacity equal to that needed during times of lowest demand.
+Load following power plants can be hydroelectric power plants, diesel and gas engine power plants, combined cycle gas turbine power plants and steam turbine power plants that run on natural gas or heavy fuel oil, although heavy fuel oil plants make up a very small portion of the energy mix. A relatively efficient model of gas turbine that runs on natural gas can also make a decent load following plant.
+Gas turbine power plants[edit]
+Gas turbine power plants are the most flexible in terms of adjusting power level, but are also among the most expensive to operate. Therefore, they are generally used as "peaking" units at times of maximum power demand. Gas turbines find only limited application as prime movers for power generation; one such use is power generation at remote military facilities, mine sites and rural or isolated communities. This is because gas turbine generators typically have significantly higher heat loss rates than steam turbine or diesel power plants; their higher fuel costs quickly outweigh their initial advantages in most applications. Applications to be evaluated include:
+Supplying relatively large power requirements in a facility where space is at a significant premium, such as hardened structures.
+Mobile, temporary or difficult access site such as isolated communities, isolated mine sites, or troop support or line-of-sight stations.
+Peak shaving, in conjunction with a more-efficient generating station.
+Emergency power, where a gas turbines lightweight and relatively vibration-free operation are of greater importance than fuel consumption over short periods of operation. However, the starting time of gas turbines may not be suitable for a given application.
+Combined cycle or cogeneration power plants where turbine exhaust waste heat can be economically used to generate additional power and thermal energy for process or space heating.
+Diesel and gas engine power plants[edit]
+Diesel and gas engine power plants can be used for base load to stand-by power production due to their high overall flexibility. Such power plants can be started rapidly to meet the grid demands. These engines can be operated efficiently on a wide variety of fuels, adding to their flexibility.
+Some applications are: base load power generation, wind-diesel, load following, cogeneration and trigeneration.
+Hydroelectric power plants[edit]
+Hydroelectric power plants can operate as base load, load following or peaking power plants. They have the ability to start within minutes, and in some cases seconds. How the plant operates depends heavily on its water supply as many plants do not have enough water to operate anywhere near their full capacity on a continuous basis.
+Lakes and man made reservoirs used for hydropower come in all sizes, holding enough water for as little as a one-day supply, or as much as a whole year's supply. A plant with a reservoir that holds less than the annual river flow may change its operating style depending on the season of the year. For example, the plant may operate as a peaking plant during the dry season, as a base load plant during the wet season and as a load following plant between seasons. A plant with a large reservoir may operate independently of wet and dry seasons, such as operating at maximum capacity during peak heating or cooling seasons.
+When electrical generation supplying the grid and the consumption or load on the electrical grid are in balance, the frequency of the alternating current is at its normal rate (either 50 or 60 cycles per second). Hydro electric power plants can be utilized for making extra revenue in an electric grid with erratic grid frequency. When grid frequency is above normal (ex; Indian grid frequency is exceeding the rated 50Hz for most of the duration in a month/day[2]), the extra power available can be consumed by adding extra load (say agriculture water pumps) to the grid and this new energy draw is available at nominal price or no price. However, there may not be a guarantee of continued supply at that price when the grid frequency falls below normal, which would then call for a higher price.
+To arrest the fall of frequency below normal, the available hydro power plants are kept in no load/nominal load operation and the load is automatically ramped up or down strictly following the grid frequency (i.e. the hydro units would run at no load condition when frequency is above 50Hz and generate power up to full load in case the grid frequency is below 50Hz). Thus a utility can draw two or more times energy from the grid by loading the hydro units less than 50% of the duration and the effective use of available water is enhanced more than twice the conventional peak load operation.[3]
+Coal based power plants[edit]
+Large size coal fired thermal power plants can also be used as load following / variable load power stations. These power plants are generally incorporated with following features to achieve this flexibility techno economically.
+Sliding pressure operation: Sliding pressure operation of the steam generator allows the power plant to generate electricity without much deterioration in fuel efficiency at part load operation up to 75% of the nameplate capacity.
+Over loading capability: The power plants are generally designed to run at 5 to 7% above the name plate rating for 5% duration in a year
+Frequency follow governor controls: The load generation can be automatically varied to suit the grid frequency needs.
+Two shift daily operation for five days in a week: The needed warm and hot start up of these power stations are designed to take lesser time to achieve full load operation. Thus these power plants are not strictly base load power generation units.
+HP/LP steam bypass systems: This feature allows the steam turbo generator to reduce the load quickly and allows the steam generator to adjust to the load requirement with a lag.
+Nuclear power plants[edit]
+Load following is the potential for a power plant to adjust its power output as demand and price for electricity fluctuates throughout the day. In nuclear power plants, this is done by inserting control rods into the reactor pressure vessel. This operation is very inefficient as nuclear power generation is composed almost entirely of fixed and sunk costs; therefore, lowering the power output doesn't significantly reduce generating costs and the plant is thermo-mechanical stressed.[4] Older nuclear (and coal) power plants may take many hours, if not days, to achieve a steady state power output[citation needed]. In general it is not economical for large thermal installations such as nuclear power plants to practice load following[citation needed].
+Modern nuclear plants with light water reactors are designed to have strong manoeuvring capabilities. Nuclear power plants in France and in Germany operate in load-following mode and so participate in the primary and secondary frequency control. Some units follow a variable load programme with one or two large power changes per day. Some designs allow for rapid changes of power level around rated power, a capability that is usable for frequency regulation.[5] A more efficient solution is to maintain the primary circuit at full power and to use the excess power for cogeneration.[6]
+Boiling water reactors[edit]
+Boiling water reactors (BWR) and Advanced Boiling Water Reactors can use a combination of control rods and the speed of recirculation water flow to quickly reduce their power level down to under 60% of rated power, making them useful for overnight load-following. In markets such as Chicago, Illinois where half of the local utility's fleet is BWRs, it is common to load-follow (although less economic to do so).
+Pressurized water reactors[edit]
+Pressurized water reactors (PWR) use a chemical shim in the moderator/coolant (see nuclear reactor technology) to control power level, and so normally do not load follow. (In most PWRs, control rods are either fully withdrawn or fully inserted - variable control is difficult, partly due to the large bundle sizes.)
+In France, however, nuclear power plants use load following. French PWRs use "grey" control rods made of boron steel, in order to replace chemical shim, without introducing a large perturbation of the power distribution. These plants have the capability to make power changes between 30% and 100% of rated power, with a slope of 5% of rated power per minute. Their licensing permits them to respond very quickly to the grid requirements.
+Solar and wind power plants[edit]
+For countries that are trending away from coal fired baseload plants and towards intermittent energy sources such as wind and solar, there is a corresponding increase in the need for peaking or load following power plants and the use of a grid intertie.
+The infirm or unreliable secondary power from the renewable energy such as solar and wind power plants can be used to follow the load or stabilise the grid frequency with the help of battery storage units economically.[7][citation needed] When the grid frequency is below the desired or rated value, the power being generated (if any) and the stored battery power is fed to the grid to raise the grid frequency. When the grid frequency is above the desired or rated value, the power being generated is fed or surplus grid power is drawn (in case cheaply available) to the battery units for energy storage. The grid frequency keeps on fluctuating 50 to 100 times in a day above and below the rated value depending on the type of load encountered and the type of generating plants in the electrical grid.[8] Recently, the cost of battery units, solar power plants, etc. have come down drastically to utilise secondary power for power grid stabilization as an on line spinning reserve.[9][citation needed]
+See also: Availability-based tariff, Solar inverter, and Tesla Powerwall
+See also[edit]
+Grid energy storage
+Relative cost of electricity generated by different sources
+Economics of new nuclear power plants (for more cost comparisons)
+Base load power plant
+Peaking power plant
+References[edit]
+^ Renewable and Efficient Electric Power Systems By Gilbert M. Masters p.140
+^ "page 13, Operational Performance Report for the Month of March 2015, NLDC" (PDF). Retrieved 25 April 2015.
+^ "Load acceptance criteria for hydro electric power plants, CEA, India" (PDF). Retrieved 25 August 2014.
+^ Locatelli, Giorgio; Boarin, Sara; Pellegrino, Francesco; Ricotti, Marco E. (2015-02-01). "Load following with Small Modular Reactors (SMR): A real options analysis". Energy. 80: 4154. doi:10.1016/j.energy.2014.11.040.
+^ Nuclear Development, June 2011, page 10 from http://www.oecd-nea.org/
+^ Locatelli, Giorgio; Boarin, Sara; Pellegrino, Francesco; Ricotti, Marco E. (2015-02-01). "Load following with Small Modular Reactors (SMR): A real options analysis". Energy. 80: 4154. doi:10.1016/j.energy.2014.11.040.
+^ "Big step for energy programme: Storage battery at 750-MW Andhra Pradesh solar plant likely". 10 February 2016.
+^ "Frequency Profile, NLDC, GoI". Retrieved 6 August 2015.
+^ Russell, Jon (April 30, 2015). "Tesla's $3,000 Powerwall Will Let Households Run Entirely On Solar Energy".
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1214
+Cached time: 20161118224658
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.172 seconds
+Real time usage: 0.226 seconds
+Preprocessor visited node count: 1447/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 48418/2097152 bytes
+Template argument size: 2771/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 3.64 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+186.786
+1 - -total
+30.94%
+57.785
+4 - Template:Citation_needed
+30.31%
+56.621
+1 - Template:Reflist
+28.20%
+52.672
+4 - Template:Fix
+20.39%
+38.081
+1 - Template:Refimprove
+17.13%
+31.994
+3 - Template:Cite_web
+16.55%
+30.912
+4 - Template:Delink
+13.19%
+24.638
+1 - Template:Ambox
+12.32%
+23.006
+2 - Template:Navbox
+11.66%
+21.785
+1 - Template:Electricity_generation
+Saved in parser cache with key enwiki:pcache:idhash:9028960-0!*!0!!en!4!* and timestamp 20161118224658 and revision id 749893913
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Load_following_power_plant&oldid=749893913"
+Categories: Power station technologyHidden categories: Articles needing additional references from June 2016All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from November 2013Articles with unsourced statements from November 2016

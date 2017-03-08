@@ -1,0 +1,64 @@
+Powerusageeffectiveness
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Power usage effectiveness (PUE) is a measure of how efficiently a computer data center uses energy; specifically, how much energy is used by the computing equipment (in contrast to cooling and other overhead).
+PUE is the ratio of total amount of energy used by a computer data center facility [1][2][3][4][5][6][7][8] to the energy delivered to computing equipment.
+PUE was developed by a consortium called The Green Grid. PUE is the inverse of data center infrastructure efficiency (DCIE). An ideal PUE is 1.0. Anything that isn't considered a computing device in a data center (i.e. lighting, cooling, etc.) falls into the category of facility energy consumption.
+P
+U
+E
+=
+Total Facility Energy
+IT Equipment Energy
+{\displaystyle \mathrm {PUE} ={{\mbox{Total Facility Energy}} \over {\mbox{IT Equipment Energy}}}}
+Contents
+1 Issues and problems with the power usage effectiveness
+2 Benefits and limitation
+3 Notably efficient companies
+4 See also
+5 References
+Issues and problems with the power usage effectiveness[edit]
+The PUE metric is the most popular method of calculating energy efficiency. Although it is the most effective in comparison to other metrics, the Power Usage Effectiveness comes with its share of flaws. This is the most frequently used metric for operators, facility technicians, and building architects to determine how energy efficient their data center buildings are.[9] Some professionals even brag about their Power Usage Effectiveness being lower than others. Naturally, it is not a surprise that in some cases an operator may accidentally not count the energy used for lighting, resulting in lower Power Usage Effectiveness. This problem is more linked to a human mistake, rather than an issue with the Power Usage Effectiveness metric system itself.
+One real problem is PUE does not account for the climate within the cities the data centers are built. In particular, it does not account for different normal temperatures outside the data center. For example, a data center located in Alaska cannot be effectively compared to a data center in Miami. A colder climate results in a lesser need for a massive cooling system. Cooling systems account for roughly 30 percent of consumed energy in a facility, while the data center equipment accounts for nearly 50 percent.[9] Due to this, the Miami data center may have a final Power Usage Effectiveness of 1.8 and the data center in Alaska may have a ratio of 1.7, but the Miami data center may be running overall more efficiently. In particular, if it happened to be in Alaska, it may get a better result.
+Additionally, according to a case study on Science Direct, "an estimated PUE is practically meaningless unless the IT is working at full capacity".[10]
+All in all, finding simple, yet recurring issues such as the problems associated with the effect of varying temperatures in cities and learning how to properly calculate all the facility energy consumption is very essential. By doing so, continuing to reduce these problems ensures that further progress and higher standards are always being pushed to improve the success of the Power Usage Effectiveness for future data center facilities.[9]
+Benefits and limitation[edit]
+PUE was introduced in 2006 and promoted by the Green Grid (a non-profit organization of IT professionals) in 2007, and has become the most commonly used metric for reporting the energy efficiency of data centres.[10] Although it is named 'power usage effectiveness', it actually measures the energy use of the data centre.[10]
+The PUE metric is helpful because it has several important benefits. First, the companies using the way the metric is calculated can be repeated over time, allowing a company to view their efficiency changes during seasonal changes and historically. Second, companies can gauge how more efficient practices (such as powering down idle hardware) affects their overall usage. Finally, the PUE metric creates competition, driving efficiencies up as advertised PUE values become lower".[10] Companies can then use PUE as a marketing tool.
+However, there are some issues with the PUE metric. Rather than the issues mentioned in last paragraph, some other issues are the efficiency of the power supply network and calculating the accurate IT load. According to the sensitivity analysis by Gemma,[10] "Total energy consumption is equal to the total amount of energy used by the equipment and infrastructure in the facility (WT) plus the energy losses due to inefficiencies in the power delivery network (WL), hence: PUE=(WT+WL)/WIT." Based on the equation, the inefficiencies of the power delivery network (WL) will increase the total energy consumption of the data center. The PUE value goes up as the data center becomes less efficient. IT load is another important issue of the PUE metric. "It is crucial that an accurate IT load is used for the PUE, and that it is not based upon the rated power use of the equipment. Accuracy in the IT load is one of the major factors affecting the measurement of the PUE metric, as utilization of the servers has an important effect on IT energy consumption and hence the overall PUE value".[10] For example, a data center with high PUE value and high server utilization could be more efficient than a data center with low PUE value and low server utilization.[10] There is also some concern within the industry of PUE as a marketing tool [11] leading some to use the term 'PUE Abuse'.[12]
+Notably efficient companies[edit]
+In October 2008, Google's Data center was noted to have a ratio of 1.21 PUE across all 6 of its centers, which at the time was considered as close to perfect as possible. Right behind Google, was Microsoft, which had another notable PUE ratio of 1.22 [13]
+Through proprietary innovations in liquid cooling systems, French hosting company OVH has managed to attain a PUE ratio of 1.09 in its data centers in Europe and North America.[14]
+Since 2015, Switch, the developer of SUPERNAP data centers, has had a third-party audited colocation PUE of 1.18 for its SUPERNAP 7 Las Vegas Nevada facility, with an average cold aisle temp of 69F and average humidity of 40.3%. This is attributed to Switchs patented hot aisle containment and HVAC technologies.[15]
+In October 2015, Allied Control has a claimed PUE ratio of 1.02 [16] through the use of 3M Novec 7100 fluid.
+As of the end of Q2 2015, Facebook's Prineville data center had a power usage effectiveness (PUE) of 1.078 and its Forest City data center had a PUE of 1.082.[17]
+In January 2016, the Green IT Cube in Darmstadt was dedicated with a 1.07 PUE.[18] It uses cold water cooling through the rack doors.
+See also[edit]
+Data center infrastructure efficiency
+Performance per watt
+Green power usage effectiveness
+Green computing
+IT energy management
+WUE
+References[edit]
+^ SearchDataCenter.com - power usage effectiveness (PUE)
+^ Digital Realty Trust- PUE Data Center Efficiency Metric
+^ Engineered Systems - Optimizing Power Usage Effectiveness In Data Centers
+^ The Green Grid - The Green Grid Data Center Power Efficiency Metrics: PUE and DCiE
+^ Google - Efficient Computing - Data Centers - Efficiency: How we do it?
+^ Dell - Best Practices for Increasing Data Center Energy Efficiency
+^ Cisco Systems - Cisco Energywise
+^ Google Data Center Optimization - [1]
+^ a b c Jumie Yuventi, Roshan Mehdizadeh. A critical analysis of Power Usage Effectiveness and its use in communicating data center energy consumption. Energy and Building 64 (2013) 90-94: Web. 17 November 2014.
+^ a b c d e f g Brady, Gemma, Nikil Kapur, Jonathan Summers, and Harvey Thompson. "A Case Study and Critical Assessment in Calculating Power Usage Effectiveness for a Data Centre." Energy Conversion & Management, 76 (2013): 155-161.
+^ Romonet website, Blogs, 'Look at the size of my PUE!'
+^ Datacenterdynamics.com. 'PUE ABUSE BEYOND THE PALE?'
+^ Tuf, Steve. "Power Usage Effectiveness." It.toolbox. Toolbox, n.d. Web. 17 Nov. 2014.
+^ https://www.ovh.com/ca/en/about-us/green-it.xml
+^ Miller, Rich. Inside SUPERNAP 8: Switchs Tier IV Data Fortress. Data Center Knowledge. Feb. 11, 2014
+^ "Two-Phase Immersion Cooling" http://multimedia.3m.com/mws/media/1127920O/2-phase-immersion-coolinga-revolution-in-data-center-efficiency.pdf
+^ "Energy Efficiency". Open Compute Project. Open Compute Project. Retrieved 18 March 2016.
+^ "Green IT Cube: Hocheffizientes Supercomputer-Domizil eingeweiht". 2016-01-23. Retrieved 2016-01-24.
+Saved in parser cache with key enwiki:pcache:idhash:22657974-0!*!0!!en!*!*!math=5 and timestamp 20161023043653 and revision id 724739748
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Power_usage_effectiveness&oldid=724739748"
+Categories: Computer benchmarksEnergy conservationElectric power

@@ -1,0 +1,368 @@
+LeadershipinEnergyandEnvironmentalDesign
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Tower at PNC Plaza in Pittsburgh, opened in October 2015, is the greenest Skyrise ever built and exceeds the current criteria for a LEED Platinum certified building.
+The Gold and Platinum rating of David L. Lawrence Convention Center in Pittsburgh, is the first convention center in the world to have such certifications.[1]
+1225 Connecticut Avenue, in Washington, D.C., is the first redeveloped office building on the U.S. East Coast to receive LEED Platinum status.[2]
+Phipps Conservatory & Botanical Gardens in Pittsburgh has multiple LEED certifications, including the world's only Platinum-certified greenhouse[3] and a Platinum-certified and net-zero energy Center for Sustainable Landscapes.[4]
+The University of Texas at Dallas Student Services Building is the first academic building in Texas to receive LEED Platinum status.[5]
+Shearer's Foods plant in Massillon, Ohio is the first food manufacturing plant to receive LEED Platinum status.[6]
+Grapevines and photovoltaic panels (r.) rely on the sun at Cooper Vineyards in Louisa, Virginia, the first winery on the East Coast and the second in the country awarded the fourth and highest, Platinum certification by Leadership in Energy and Environmental Design (LEED)
+Leadership in Energy and Environmental Design (LEED) is one of the most popular green building certification programs used worldwide.[7] Developed by the non-profit U.S. Green Building Council (USGBC) it includes a set of rating systems for the design, construction, operation, and maintenance of green buildings, homes, and neighborhoods[8] that aims to help building owners and operators be environmentally responsible and use resources efficiently.
+Contents
+1 History
+2 Rating systems
+2.1 LEED 2009
+2.1.1 Certification level
+2.1.2 Goal of the credit system
+2.1.3 Prerequisites
+2.1.4 Credit weighting process
+2.1.5 LEED for Homes
+2.2 LEED Canada
+2.3 Process
+2.3.1 LEED energy modeling
+2.3.2 LEED for Homes Rating System
+3 LEED Performance
+3.1 Energy performance research
+3.2 Water performance research
+3.3 IEQ performance research
+3.4 Sustainable sites research
+3.5 Materials and resources research
+3.6 Innovation in design research
+3.7 Other related research notes
+3.8 Directory of LEED-certified projects
+4 Professional accreditation
+5 Benefits and disadvantages
+6 Incentive programs
+7 Notable LEED buildings
+8 See also
+9 References
+10 External links
+History[edit]
+From 1994 to 2015, LEED grew from one standard for new construction to a comprehensive system of interrelated standards covering aspects from the design and construction to the maintenance and operation of buildings. LEED also has grown from six volunteers on one committee to 119,924 staff, volunteers and professionals.[9] LEED standards have been applied to approximately 83,452 registered and certified LEED projects worldwide, covering around 13.8 billion square feet (1.28 billion square meters).[10]
+Many U.S. federal agencies and states and local governments require or reward LEED certification. However, four states (Alabama, Georgia, Maine, and Mississippi) have effectively banned the use of LEED in new public buildings, preferring other industry standards that the USGBC considers too lax.[11]
+Unlike model building codes, such as the International Building Code, only members of the USGBC and specific "in-house" committees may add to, subtract from, or edit the standard, subject to an internal review process. Proposals to modify the LEED standards are offered and publicly reviewed by USGBC's member organizations, which number almost 12,216.[9]
+USGBC's Green Business Certification Inc. (GBCI) offers various accreditation to people who demonstrate knowledge of the LEED rating system, including LEED Accredited Professional (LEED AP), LEED Green Associate,[12] and since 2011, LEED Fellows, the highest designation for LEED professionals. GBCI also certifies projects pursuing LEED.
+Rating systems[edit]
+LEED has evolved since 1998 to more accurately represent and incorporate emerging green building technologies. The pilot version, LEED New Construction (NC) v1.0, led to LEED NCv2.0, LEED NCv2.2 in 2005, and LEED 2009 (previously named LEED v3) in 2009. LEED v4 was introduced in November, 2013. Until October 31, 2016, new projects may choose between LEED 2009 and LEED v4. New projects registering after October 31, 2016 must use LEED v4.[13]
+LEED 2009 encompasses ten rating systems for the design, construction and operation of buildings, homes and neighborhoods.[8] Five overarching categories correspond to the specialties available under the LEED professional program. That suite currently consists of:
+Green Building Design & Construction
+LEED for New Construction
+LEED for Core & Shell
+LEED for Schools
+LEED for Retail: New Construction and Major Renovations
+LEED for Healthcare
+Green Interior Design & Construction
+LEED for Commercial Interiors
+LEED for Retail: Commercial Interiors
+Green Building Operations & Maintenance
+LEED for Existing Buildings: Operations & Maintenance
+Green Neighborhood Development
+LEED for Neighborhood Development[8]
+Green Home Design and Construction
+LEED for Homes (The LEED for Homes rating system is different from LEED v3, with different point categories and thresholds that reward efficient residential design.[citation needed])
+LEED also forms the basis for other sustainability rating systems such as the Environmental Protection Agency's Labs21.
+To make it easier to follow LEED requirements, in 2009 USGBC helped BuildingGreen develop LEEDuser, a guide to the LEED certification process and applying for LEED credits written by professionals in the field.[14]
+LEED 2009[edit]
+Abad Nucleus Mall, at Maradu, Kochi, is India's first LEED certified gold-rated green mall.
+Taipei 101, the tallest and largest green building of LEED Platinum certification in the world since 2011.
+After four years of development, aligning credits across all LEED rating systems and weighting credits based on environmental priority, USGBC launched LEED v3,[15] which consists of a new continuous development process, a new version of LEED Online, a revised third-party certification program and a new suite of rating systems known as LEED 2009.
+Under LEED 2009, there are 100 possible base points distributed across six credit categories: Sustainable Sites, Water Efficiency, Energy and Atmosphere, Materials and Resources, Indoor Environmental Quality, Innovation in Design. Up to 10 additional points may be earned: four additional points may be received for Regional Priority Credits, and six additional points for Innovation in Design (which includes exemplary performance credits for existing credit categories).
+Certification level[edit]
+Buildings can qualify for four levels of certification:
+Certified: 4041 points
+Silver: 42-43 points
+Gold: 44-45 points
+Platinum: 46 points and above
+Goal of the credit system[edit]
+The LEED 2009 performance credit system aims to allocate points "based on the potential environmental impacts and human benefits of each credit." These are weighed using the environmental impact categories of the United States Environmental Protection Agency's Tools for the Reduction and Assessment of Chemical and Other Environmental Impacts (TRACI).[16] and the environmental-impact weighting scheme developed by the National Institute of Standards and Technology (NIST).
+Prerequisites[edit]
+To participate in LEED 2009, a building must comply with environmental laws and regulations, occupancy scenarios, building permanence and pre-rating completion, site boundaries and area-to-site ratios. Its owner must share data on the building's energy and water use for five years after occupancy (for new construction) or date of certification (for existing buildings).[17]
+Each of the performance categories also have mandatory measures in each category, which receive no points.
+Credit weighting process[edit]
+The weighting process has three steps:[18]
+A collection of reference buildings are used to estimate the environmental impacts of any building seeking LEED certification in a designated rating scheme.
+NIST weightings are used to judge the relative importance of these impacts in each category.
+Data regarding actual impacts on environmental and human health are used to assign points to individual categories and measures.
+This system results in a weighted average for each rating scheme based upon actual impacts and the relative importance of those impacts to human health and environmental quality.
+The LEED council also appears to have assigned credit and measure weighting based upon the market implications of point allocation.[18]
+From 2010, buildings can use carbon offsets to achieve Green Power Credits for LEED-NC (New Construction Certification):[19]
+LEED for Homes[edit]
+Additional performance categories in the LEED for Homes rating system are Locations and Linkages (recognizing the importance of transportation access, open space, and physical activity outdoors) and Awareness and Education (recognizing the need for buildings and settlements to educate occupants).
+LEED Canada[edit]
+In 2003, the Canada Green Building Council received permission to create LEED Canada-NC v1.0, which was based upon LEED-NC 2.0.[20][21] Many buildings in Canada are LEED certified in part due to their Rainwater harvesting practices.
+Process[edit]
+LEED certification is granted by the Green Building Certification Institute (GBCI), which handles the third-party verification of a project's compliance with the LEED requirements.
+The certification process for design teams is made up of two consecutive applications: one including design credits, and one including construction credits. All of the LEED credits in each rating system are assigned to either the design application or the construction application. The design credits include those that are the purview of the architect and the engineer, and are documented in the official construction drawings. The construction credits include those that are predominantly under the purview of the contractor, and are documented during the construction and commissioning of the building.
+A fee is required to register the building, and to submit the design and construction applications. Total fees are assessed based on building area. Fees range from a minimum of $2,900 to over $1 million for a large project.[22] "Soft" costs, i.e., added costs to the building project to quality for LEED certification, range from 1% to 6% of the total project cost. The average cost increase was about 2%, or an extra $3$5 per square foot.[23]
+The application review and certification process is handled on LEED Online, USGBC's web-based service that employs a series of active PDF forms to allow project teams to fill out credit forms and upload supporting documentation online. The GBCI also utilizes LEED Online to conduct their reviews.
+LEED energy modeling[edit]
+Design teams have the option of achieving points under the Optimize Energy Performance credit by building an energy model. This energy model must follow the modeling methodologies outlined in Appendix G of the ASHRAE 90.1 building energy standard. The guidelines in Appendix G require that the team make two energy models: one representing the building as designed, and a second baseline building. The baseline building must be modeled in the same location, and have the same geometry and occupancy as the design building. Depending on location (climate) and building size, the standard provides requirements for HVAC system type, and wall and window definitions. The goal of this methodology is to provide a baseline building to use as a reference point to compare the design building against. It is a way to standardize the baseline, while putting weight on important factors that heavily influence building energy consumption (e.g., location, geometry, and occupancy patterns). The number of points achieved in this credit is correlated with the percent predicted energy cost savings demonstrated by the difference between the design and baseline energy models.
+This method of energy modeling has been criticized for inaccurately predicting actually energy usage of LEED-certified buildings. The USGBC admits that "current information indicates that most buildings do not perform as well as design metrics indicate. As a result, building owners might not obtain the benefits promised."[24]
+LEED for Homes Rating System[edit]
+Today, Increasing demand towards environment safety, force LEED certification to play major role. The process of the LEED for Homes Rating System, available in the USA,[25] Canada and Sweden[26] is significantly different from the LEED NC rating system. LEED for Homes projects are low rise residential and are required to work with either an American Provider Organization[27] or a Canadian Provider Organization[28] and a Green Rater. A Provider Organization helps the project through the process while overseeing the Green Raters. Green Raters are individuals that conduct the two mandatory LEED for Homes site inspections; the Thermal Bypass Inspection and the Final Inspection. Although LEED for Homes is typically viewed by the construction industry as a simpler rating system especially when compared to LEED NC, LEED NC does not require an on-site inspection. The Provider and the Green Rater do not certify the project, but rather assist in the certification process.
+LEED Performance[edit]
+Research papers provide most of what is known about the performance and effectiveness of LEED in two credit category areas  energy and indoor environment quality. In one study of 953 NYC office buildings, 21 LEED certified buildings collectively showed no energy savings compared with non-LEED buildings, although LEED Gold buildings "outperformed other NYC office buildings by 20%".[29] IEQ-related studies provide two contrasting results - the first used occupant survey results in 65 LEED buildings and 79 non-LEED buildings and it concluded that occupants of LEED certified buildings have equal satisfaction with the building overall and with the workspace than occupants of non-LEED rated buildings[30] and the second used occupant interviews and physical site measurements at 12 LEED buildings to report superior indoor environment performance compared with similar 12 conventional buildings (non-LEED).[31] Buildings certified under LEED do not have to prove energy or water efficiency in practice to receive LEED certification points, but instead LEED uses modeling software to predict future energy use based on intended use. This has led to criticism of LEEDs ability to accurately determine the efficiency of buildings. The USGBC itself says that, Buildings have a poor track record for performing as predicted during design.[24]
+Energy performance research[edit]
+In 2009 Newsham et al. analyzed a database of 100 LEED-certified buildings.[32] In this study, each building was paired with a conventional "twin" building within the Commercial Building Energy Consumption Survey (CBECS) database according to building type and occupancy.[32] On average, LEED buildings consumed 18 to 39% less energy than their conventional "twin" building, although 28 to 35% of LEED-certified buildings used more energy than their "twin.[32] The paper found no correlation between the number of energy points achieved or LEED certification level and measured building performance.[32]
+In 2009 Scofield published an article in response to Newsham et al., analyzing the same database of LEED buildings and arriving at different conclusions.[33] In his analysis, Scofield considered source energy (accounting for energy losses during generation and transmission) as well as site energy, and used area-weighted energy use intensities, or EUIs (energy per unit area per year), when comparing LEED and non-LEED buildings to account for the fact that larger buildings tend to have larger EUIs.[33] Scofield concluded that, collectively, the LEED-certified buildings showed no significant source energy consumption savings or greenhouse gas emission reductions when compared to non-LEED buildings, although they did consume 10-17% less site energy.[33] Scofield in 2013 analyzed 21 LEED-certified buildings in New York City.[29] He found that buildings that had achieved LEED Gold used, on average, 20% less source energy than did conventional buildings. Buildings with LEED Silver or LEED Certified ratings actually used 11 to 15% more source energy, on average, than did their conventional counterparts.[29]
+Stoppel and Leite[34] developed a study in 2013 to evaluate the predicted and actual energy consumption of two twin buildings using the energy model process documented during the LEED design phase and the utility meter data after 12 months of occupancy. The authors found that energy model predicted 14% and 25% more energy consumption for each building compared to the actual buildings energy use. The studys results suggests that mechanical systems turnover and occupancy assumptions significantly differing from predicted to actual values.
+In 2014, Fuertes and Schiavon[35] developed the first study that analyzes plug loads using LEED documented data from certified projects. The study compared plug load assumptions made by 92 energy modeling practitioners against ASHRAE and Title 24 requirements, as well as, the evaluation of the plug loads calculation methodology used by 660 LEED-CI and 429 LEED-NC certified projects. In general, energy modelers considered the energy consumption of plug loads of equipment that are constantly running (such as refrigerators) as well as monitors and computes predictable. Overall the results suggested a disconnection between energy modelers assumptions and the actual performance of buildings. The study also shows that there was no consistency on the method used by LEED-CI and NC projects, while one is based on the power and percentage of ENERGY STAR equipment installed in the building the other one is based on a whole-building-design energy model. In conclusion, the study suggests LEED or ASHRAE to develop guidelines for plug loads calculations.
+Water performance research[edit]
+This section needs expansion. You can help by adding to it. (December 2015)
+IEQ performance research[edit]
+The Center for Disease Control defines Indoor Environmental Quality (IEQ) as "the quality of a buildings environment in relation to the health and wellbeing of those who occupy space within it."[36] The USGBC includes the following considerations for attaining IEQ credits: indoor air quality, the level of volatile organic compounds, lighting, thermal comfort, and daylighting and views. In consideration of a building's indoor environmental quality, published studies have also included factors such as: acoustics, building cleanliness and maintenance, colors and textures, workstation size, ceiling height, window access and shading, surface finishes, and furniture adjustability and comfort.[30][31]
+In 2013, a paper published by S. Schiavon and S. Altomonte studied LEED verses non-LEED buildings in relation to occupant IEQ satisfaction.[30] Using occupant surveys from the Center for the Built Environment at Berkeley database,[37] 65 LEED-certified and 79 non-LEED buildings were studied to provide an analysis of 15 IEQ-related factors in the overall building and specific workspaces. These factors include the ease of interaction, building cleanliness, the comfort of furnishing, the amount of light, building maintenance, colors and textures, workplace cleanliness, the amount of space, furniture adjustability, visual comfort, air quality, visual privacy, noise, temperature, and sound privacy. The results showed occupants tend to be slightly more satisfied in LEED buildings for the air quality and slightly more dissatisfied with the amount of light. The overall finding was that there was no significant influence of LEED certification on occupant satisfaction in consideration of the overall building and workspace ratings.[30] The "Limitations and Further Studies" section states that the data may not be representative of the entire building stock and a randomized approach was not used in the data assessment. Furthermore, an analysis across the various certification types (e.g. New Construction, Existing Buildings, etc.) by version release (e.g. 2.1) is recommended.
+Based on similar dataset (21,477 occupants), in 2013, Schiavon and Altomonte,[38] found that occupants have equivalent satisfaction levels in LEED and non-LEED buildings when evaluated independently from the following nine factors: (1) office type, (2) spatial layout, (3) distance from windows, (4) building size, (5) gender, (6) age, (7) type of work, (8) time at workspace, and (9) weekly working hours.
+Conversely, in 2015, a study on indoor environmental quality and the potential health benefits of green certified buildings was developed by Allen et al.[39] showing that green buildings provide better indoor environmental quality with direct benefits to human health of occupants of those buildings in comparison to non-green buildings. One of the limitations of the study was the use of subjective health performance indicators since there is a lack of definition on such indicators by current studies.
+G. Newsham et al. published a detailed study on IEQ and LEED buildings in August 2013.[31] Field studies and Post-Occupancy Evaluations (POE) were performed in 12 green and 12 conventional buildings across Canada and the northern United States. On-site, 974 workstations were measured for thermal conditions, air quality, acoustics, lighting, workstation size, ceiling height, window access and shading, and surface finishes. Responses were positive in the areas of environmental satisfaction, satisfaction with thermal conditions, satisfaction with view from the outside, aesthetic appearance, reduced disturbance from heating, ventilation and air-conditioning noise, workplace image, night-time sleep quality, mood, physical symptoms, and reduced number of airborne particulates. The results showed green buildings exhibited superior performance compared with similar conventional buildings.[31]
+For LEED BD+C v4 credit, the IEQ category addresses thermal, visual, and acoustic comfort as well as indoor air quality. The thermal comfort credit applies one point to the following certification types: New Construction, Schools, Retail, Data Centers, Warehouses and Distribution Centers, Hospitality, and Healthcare. The intent of this credit is to "promote occupants' productivity, comfort, and well-being by providing thermal comfort."[40] Occupants' satisfaction and performance is directly affected by a building's thermal conditions as shown by laboratory and field research.[41] Energy reduction goals can be supported while improving thermal satisfaction. For example, research has shown providing occupants control over the thermostat or operable window allows for comfort across a wider range of temperatures.[42][43]
+The following steps are guidelines provided by the USGBC for LEED credit in thermal comfort.[40] First, thermal comfort goals must be established by determining if indoor thermal variation is acceptable (or if it must be tightly controlled) and if natural conditioning is a benefit desired by the occupants. Based on those goals, a system must be chosen that considers if natural conditioning can fit the project. Then thermal controls should be established that give the occupant control over air speed, operative temperature, radiant temperature, and humidity such as ceiling fans, thermostats, operable windows, underfloor diffusers, etc.[40] Finally, a standard must be chosen that best fits the project from ASHRAE Standard 55-2013,[44] ISO 7730-2005,[45] or EN15251-2007.[40][46]
+The daylight credit was updated in LEED v4 to include a simulation option for daylight analysis that uses Spatial Daylight Autonomy (SDA) and Annual Sunlight Exposure (ASE) metrics to evaluate daylight quality in LEED projects. SDA is a metric that measures the annual sufficiency of daylight levels in interior spaces and ASE describes the potential for visual discomfort by direct sunlight and glare. These metrics are approved by IES and described at the LM-83-12 standard.[47] LEED recommend a minimum of 300 lux for at least 50% of total occupied hours of the year for 55% or more square meters (square feet) of the floor occupied area. The threshold recommended by LEED for ASE is that no more than 10% of regularly occupied floor area can be exposed to more than 1000 lux of direct sunlight for more than 250 hours per year. Additionally, LEED requires window shades to be closed when more than 2% of a space is subject to direct sunlight above 1000 lux. According to Reinhart[48] the direct sunlight requirement is a very stringent approach that can disable good daylight design from achieving this credit. Reinhart propose the application of the direct sunlight criterion only in spaces that require stringent control of sunlight (e.g. desks, white boards and etc.).
+Sustainable sites research[edit]
+This section needs expansion. You can help by adding to it. (November 2014)
+Materials and resources research[edit]
+This section needs expansion. You can help by adding to it. (November 2014)
+Innovation in design research[edit]
+This section needs expansion. You can help by adding to it. (November 2014)
+Other related research notes[edit]
+A 2003 analysis of the savings from green building found from a review of 60 LEED buildings that the buildings were, on average, 25-30% more energy efficient. However, it also attributed substantial benefits to the increased productivity from the better ventilation, temperature control, lighting control, and reduced indoor air pollution.[49]
+As of 2008, LEED (and similar Energy Star) buildings had mostly been evaluated by case studies. From a purely financial perspective, in 2008 several studies found that LEED for-rent office spaces generally charged higher rent and had higher occupancy rates. CoStar collects data on properties. The extra cost for the minimum benefit has been estimated at 3%, with an additional 2.5% for silver.[50] More recent studies have confirmed these earlier findings in that certified buildings achieve significantly higher rents, sale prices and occupancy rates as well as lower capitalization rates potentially reflecting lower investment risk.[51][52][53]
+LEED focuses on the design of the building and not on its actual energy consumption, and therefore it has suggested that LEED buildings should be tracked to discover whether the potential energy savings from the design are being used in practice.[54]
+Directory of LEED-certified projects[edit]
+The U.S. Green Building Council provides an online directory of U.S. LEED-certified projects.[9]
+The Canada Green Building Council provides an online directory[55] of LEED Canada-certified projects.
+In 2012 the USGBC launched GBIG, the Green Building Information Gateway,[56] in an effort to connect green building efforts and projects from all over the world. It provides searchable access to a database of activities, buildings, places and collections of green building-related information from many sources and programs, as well as, specifically provides information about LEED projects.
+Professional accreditation[edit]
+The Green Building Certification Institute describes Professional Accreditation as follows: "LEED Professional Credentials demonstrate current knowledge of green building technologies, best practices, and the rapidly evolving LEED Rating Systems. They show differentiation in a growing and competitive industry, and they allow for varied levels of specialization. A LEED Professional Credential provides employers, policymakers, and other stakeholders with assurances of an individual's level of competence and is the mark of the most qualified, educated, and influential green building professionals in the marketplace."[57] Credentials include the LEED Green Associate and the various types of specialized LEED Accredited Professionals (AP).
+Benefits and disadvantages[edit]
+Real estate developers have begun to use LEED certification and a building's green status as selling points
+LEED certified buildings are intended to use resources more efficiently when compared to conventional buildings simply built to code. However, analysis of energy and water use data from New York City shows that LEED certification does not necessarily make a building more energy or water efficient.[58]
+Often, when a LEED rating is pursued, the cost of initial design and construction rises. There may be a lack of abundant availability of manufactured building components that meet LEED specifications. Pursuing LEED certification for a project is an added cost in itself as well. This added cost comes in the form of USGBC correspondence, LEED design-aide consultants, and the hiring of the required Commissioning Authority (CxA)all of which would not necessarily be included in an environmentally responsible project, unless it also sought a LEED rating.[citation needed]
+However, these higher initial costs can be effectively mitigated by the savings incurred over time due to the lower-than-industry-standard operational costs typical of a LEED certified building. This Life cycle costing is a method for assessing the total cost of ownership, taking into account all costs of acquiring, owning and operating, and the eventual disposal of a building. Additional economic payback may come in the form of employee productivity gains incurred as a result of working in a healthier environment. Studies suggest that an initial up-front investment of 2% extra yields over ten times that initial investment over the life cycle of the building.[59]
+Further, the USGBC has stated support for the Architecture 2030, an effort that has set a goal of using no fossil-fuel, greenhouse-gas-emitting energy to operate by 2030.[60]
+In the progression of sustainable design from simply meeting local buildings codes to USGBC LEED[61] (Certified, Silver, Gold and Platinum) to the Architecture 2030 Challenge,[62] the Living Building Challenge is currently the most stringent sustainable design protocol. The LBC[63] sets 20 imperatives that compel building owners, designers, operators and tenants beyond current USGBC[64] LEED rating levels.
+LEED is a design tool and not a performance measurement tool. It is also not yet climate-specific, although the newest version hopes to address this weakness partially. Because of this, designers may make materials or design choices that garner a LEED point, even though they may not be the most site- or climate-appropriate choice available. On top of this, LEED is also not energy-specific. Since it only measures the overall performances, builders are free to choose how to achieve points under various categories. A USA TODAY review showed that 7,100 certified commercial building projects targeted easy and cheap green points, such as creating healthy spaces and providing educational displays in the building.[65] Few builders would really adopt renewable energy because the generators for those energy resources, such as solar photovoltaic, are costly. Builders game the rating system and use certain performances to compensate for the others, making energy conservation the weakest part in the overall evaluation.
+LEED is a measurement tool for green building in the United States and it is developed and continuously modified by workers in the green building industry, especially in the ten largest metro areas in the U.S.; however, LEED certified buildings have been slower to penetrate small and mid-major markets.[66] Also, some criticism suggests that the LEED rating system is not sensitive and does not vary enough with regard to local environmental conditions. For instance, a building in Maine would receive the same credit as a building in Arizona for water conservation, though the principle is more important in the latter case. Another complaint is that its certification costs require money that could be used to make the building in question even more sustainable. Many critics have noted that compliance and certification costs have grown faster than staff support from the USGBC.
+For existing buildings LEED has developed LEED-EB. Research has demonstrated that buildings that can achieve LEED-EB equivalencies can generate a tremendous ROI[citation needed]. In a 2008 white paper by the Leonardo Academy comparing LEED-EB buildings vs. data from BOMA's Experience Exchange Report 2007 demonstrated LEED-EB certified buildings achieved superior operating cost savings in 63% of the buildings surveyed ranging from $4.94 to $15.59 per square foot of floor space, with an average valuation of $6.68 and a median valuation of $6.07.[67]
+In addition the overall cost of LEED-EB implementation and certification ranged from $0.00 to $6.46 per square foot of floor space, with an average of $2.43 per square foot demonstrating that implementation is not expensive, especially in comparison to cost savings. These costs should be significantly reduced if automation and technology are integrated into the implementation.
+Incentive programs[edit]
+Many federal, state, and local governments and school districts have adopted various types of LEED initiatives and incentives. A full listing of government and school LEED initiatives can be found online[68] and is updated regularly.
+Some areas have implemented or are considering incentives for LEED-certified buildings.
+The city of Cincinnati, Ohio adopted a measure providing an automatic 100% real property tax exemption of the assessed property value for newly constructed or rehabilitated commercial or residential properties that earn a minimum of LEED Certified.[69]
+In the state of Nevada construction materials for a qualifying LEED building are exempt from local taxes. Pieces of construction that are deemed "inseparable" parts, such as concrete or drywall, qualify.
+The state of Maryland passed its High Performance Buildings Act in 2008, requiring all new public construction and renovation of buildings greater than 7,500 square feet to meet at least the LEED Silver standard, or two Green Globes. Between 2009 and 2014, the state is required to fund half of the required additional cost for public school construction or renovation to attain that standard.[70]
+The state of Michigan is considering tax-based incentives for LEED buildings.[71]
+Many local governments have adopted LEED incentive programs. Program incentives include tax credits, tax breaks, density bonuses, reduced fees, priority or expedited permitting, free or reduced-cost technical assistance, grants and low-interest loans.[72]
+In June 2013, the USGBC announced a program called LEED Earth that refunds LEED certification fees to the first LEED-certified project in the countries that so far lack one.[73][74]
+Notable LEED buildings[edit]
+Sota Construction Corporate Headquarters in Pittsburgh earned LEED Platinum in 2012.
+The Philip Merrill Environmental Center is recognized as one of the "greenest" buildings ever constructed in the United States at the time when it was built. Sustainability issues ranging from energy use to material selection were given serious consideration throughout design and construction of this facility. It was the first building to receive a Platinum rating through the U.S. Green Building Council's LEED Rating System, version 1.0.[75]
+When it opened in 2003, Pittsburgh's 1,500,000-square-foot (140,000m2) David L. Lawrence Convention Center was the first Gold LEED-certified convention center and largest "green" building in the world.[76] The convention center subsequently earned Platinum certification in 2012, becoming the only convention center in the world with certifications for both the original building and new construction.[1] In October 2011 Apogee Stadium on the campus of the University of North Texas became the first newly built stadium in the country to achieve Platinum-level certification. In Pittsburgh, Phipps Conservatory & Botanical Gardens visitors center has received a Silver certification,[77] its Center for Sustainable Landscapes has received a Platinum certification along with fulfilling the Living Building Challenge for net-zero energy,[4] and its greenhouse production facility has received Platinum certification, the first and only greenhouse so certified.[3] Also in Pittsburgh, Sota Construction Services completed construction on its new 7,500 sq. ft. corporate headquarters,[78] which features a super-efficient thermal envelope using cob walls, along with other energy-saving features like a geothermal well, radiant heat flooring, roof-mounted solar panel array, and daylighting features. It earned a LEED Platinum rating in 2012 and received one of the highest scores by percentage of total points earned in any LEED category, making it the "greenest" building in Pennsylvania and in the top ten greenest in the world.[79]
+Around 20092010, the Empire State Building was undergoing a $550million renovation, with $120million spent in an effort to transform the building into a more energy efficient and eco-friendly structure.[80] Receiving a gold LEED rating in September 2011, the Empire State Building was at the time the tallest LEED-certified building in the United States.[81]
+The Coastal Maine Botanical Gardens Bosarge Family Education Center completed in 2011 achieved LEED Platinum certification and has become known as Maine's "greenest building."[82]
+In May 2012, Soldier Field in Chicago became the first National Football League stadium certified LEED.[83]
+In July 2014, the San Francisco 49ers' Levi's Stadium in San Francisco became the first venue in the United States to earn a LEED Gold certification, setting the bar and expectations for future NFL stadiums. The Minnesota Vikings look to match and exceed the expectations set by the 49ers when they open U.S. Bank Stadium in 2016.
+The Cashman Equipment building is the first construction equipment dealership to receive LEED certification. It is the largest LEED industrial complex in Nevada. Caterpillar corporate has rewritten their development guidelines for new facilities based on this building.[84]
+The Letterman Digital Arts Center in San Francisco's Presidio, the headquarters for various Lucasfilm companies, including visual effects house Industrial Light and Magic, earned a Gold certification. It was built almost entirely from the recycled remains of the building it replaced, the Letterman Army Hospital.[85]
+The Cuyahoga County Public Library system is building newer branches so that they could be LEED Certified. In the construction of the Garfield Heights, Ohio new branch, the library used green materials, the lighting of Garfield Heights Branch lightens or dims when there is ample daylight. The glass windows have light sensors that work with lights inside the library. Also, the library uses a raised floor and has recyclable carpet tiles.
+Opening in September 2012, Siemens' The Crystal became the world's first building awarded LEED Platinum and BREEAM Outstanding status.[86] Generating its own energy, using solar power and ground source heat pumps, no fossil fuels are burnt within the building. Its extensive use of KNX technologies to automate the building's environmental controls has set the benchmark for sustainable buildings.[87]
+When it received LEED Platinum in 2012, Manitoba Hydro Place in downtown Winnipeg, Manitoba was the most energy efficient office tower in North America and the only office tower in Canada to receive the Platinum rating. The office tower employs south facing winter gardens to capture the maximum amount of solar energy during the harsh Manitoba winters, and uses glass extensively to maximise natural light.[88]
+See also[edit]
+Leadership in Energy and Environmental Design (LEED) at U.S. Green Building Council
+Sustainable development portal
+Building enclosure commissioning
+BREEAM
+Center for Environmental Innovation in Roofing
+Code for Sustainable Homes
+Design Impact Measures
+Ecological footprint
+Energy conservation
+Estidama
+Environmental design
+Green Globes
+High-Performance Green Buildings
+Living Building Challenge
+NAHBGreen
+Passive house
+QSAS
+Renewable energy
+SmartCode
+Sustainable architecture
+U.S. Green Building Council
+Center for the Built Environment
+References[edit]
+Notes
+^ a b Belko, Mark (May 11, 2012). "Convention center earns highest 'green' cred: platinum LEED rating". Pittsburgh Post-Gazette.
+^ Plumb, Tierney (October 8, 2009). "1225 Connecticut Avenue gets LEED Platinum". Washington Business Journal.
+^ a b Raulerson, Josh (July 5, 2012). "Phipps Production Greenhouse Attains LEED Platinum". WESA.fm. First Green Bank opened its LEED Platinum headquarters in Mount Dora, Florida on November 14, 2011.
+^ a b Moore, Andrew (May 23, 2012). "Development News: Phipps' Center for Sustainable Landscapes opens today, to be greenest building in the world". Pop City.
+^ "UT Dallas Building Awarded Highest Green Status" (Press release). University of Texas at Dallas. February 10, 2011.
+^ Staley, Doug (March 14, 2011). "Shearer's, Fresh Mark, Drummond are success stories". IndeOnline.com. Ohio, United States.
+^ "Green Building Facts | U.S. Green Building Council". www.usgbc.org. Retrieved 2015-11-24.
+^ a b c Boeing; et al. (2014). "LEED-ND and Livability Revisited". Berkeley Planning Journal. 27: 3155. Retrieved 2015-04-15.
+^ a b c "LEED Projects Directory". US Green Building Council. Retrieved 27 February 2014.
+^ "About LEED | U.S. Green Building Council". www.usgbc.org. Retrieved 2015-11-21.
+^ "Why Are Some States Trying to Ban LEED Green Building Standards?". CityLab. Retrieved 2015-11-21.
+^ "LEED Green Associate Exam Prep - GreenEDU.com". www.greenedu.com. Retrieved 2015-11-21.
+^ "USGBC Announces Extension of LEED 2009". USGBC.org. Retrieved 2014-12-18.
+^ "LEED Update December 2009". US Green Building Council. Retrieved 5 March 2010.
+^ "LEEDv3". US Green Building Council. Retrieved 20 February 2010.
+^ http://www.usgbc.org/ShowFile.aspx?DocumentID=8868
+^ http://www.usgbc.org/ShowFile.aspx?DocumentID=6715
+^ a b http://www.usgbc.org/ShowFile.aspx?DocumentID=8868 p. xii.
+^ "LEED Certification | The CarbonNeutral Company US". Us.carbonneutral.com. Retrieved 2012-08-13.
+^ https://www.cagbc.org/
+^ http://www.cagbc.org/cagbcdocs/LEED_Canada_NC-Comparison-2009_to_v1_100621.pdf
+^ Hughes, Timothy. (2011-01-01) The True Cost of LEED-Certified Green Buildings | Archive content from HPAC Engineering. Hpac.com. Retrieved on 2014-06-23.
+^ http://www.josre.org/wp-content/uploads/2012/09/Cost_of_LEED_Analysis_of_Construction_Costs-JOSRE_v3-131.pdf
+^ a b "A National Green Building Research Agenda" (PDF).
+^ "LEED rating systems | U.S. Green Building Council". Usgbc.org. Retrieved 2013-10-16.
+^ LEED Retrieved 16-03-2015. (Swedish)
+^ "U.S. Green Building Council | U.S. Green Building Council". Usgbc.org. Retrieved 2013-10-16.
+^ [1] Archived January 30, 2012, at the Wayback Machine.
+^ a b c Scofield, John H. (2013). "Efcacy of LEED-certication in reducing energy consumption and greenhouse gas emission for large New York City ofce buildings". Energy and Buildings. 67: 517524. doi:10.1016/j.enbuild.2013.08.032.
+^ a b c d Schiavon, Stefano; Altomonte, Sergio (2013). "Occupant satisfaction in LEED and non-LEED certified buildings". Buildings and Environment. 68: 6676. doi:10.1016/j.buildenv.2013.06.008. Retrieved 23 November 2013.
+^ a b c d Newsham, Guy R.; Birt, Benjamin J.; Arsenault, Chantal; Thompson, Alexandra J.L.; Veitch, Jennifer A.; Mancini, Sandra; Galasiu, Anca D.; Gover, Bradford N.; Macdonald, lain A.; Burns, Gregory J. (2013). "Do 'green' buildings have better indoor environments? New evidence". Building Research and Information. 41 (4): 415434. doi:10.1080/09613218.2013.789951. Retrieved 23 November 2013.
+^ a b c d Newsham, Guy R.; Mancini, Sandra; Birt J., Benjamin (2009). "Do LEED-certified buildings save energy? Yes, but". Energy and Buildings. 41 (8): 897905. doi:10.1016/j.enbuild.2009.03.014.
+^ a b c Scofield, John H. (2009). "Do LEED-certified buildings save energy? Not really..". Energy and Buildings. 41 (12): 13861390. doi:10.1016/j.enbuild.2009.08.006.
+^ Stoppel, Christopher. M.; Leite, Fernanda (2013-10-01). "Evaluating building energy model performance of LEED buildings: Identifying potential sources of error through aggregate analysis". Energy and Buildings. 65: 185196. doi:10.1016/j.enbuild.2013.04.016.
+^ "Plug Load Energy Analysis: The Role of Plug Loads in LEED Certification". eScholarship. Retrieved 2015-11-23.
+^ "Workplace Safety and Health Topics, Indoor Environment Quality". Center for Disease Control Main Website. CDC. Retrieved 23 November 2013.
+^ Frontczak, M.; Schiavon, S.; Goins, J.; Arens, E.; Zhang, H.; Wargocki, P. (2012-04-01). "Quantitative relationships between occupant satisfaction and satisfaction aspects of indoor environmental quality and building design". Indoor Air. 22 (2): 119131. doi:10.1111/j.1600-0668.2011.00745.x. ISSN1600-0668.
+^ Schiavon, Stefano; Altomonte, Sergio (2014-07-01). "Influence of factors unrelated to environmental quality on occupant satisfaction in LEED and non-LEED certified buildings". Building and Environment. 77: 148159. doi:10.1016/j.buildenv.2014.03.028.
+^ Allen, Joseph G.; MacNaughton, Piers; Laurent, Jose Guillermo Cedeno; Flanigan, Skye S.; Eitland, Erika Sita; Spengler, John D. (2015-07-10). "Green Buildings and Health". Current Environmental Health Reports. 2 (3): 250258. doi:10.1007/s40572-015-0063-y. ISSN2196-5412. PMC4513229. PMID26231502.
+^ a b c d LEED v4 Reference Guide for Building Design and Construction. Washington, DC: USGBC. 2013. pp.695710.
+^ Fisk, W (2001). "Estimates of Potential Nationwide Productivity and Health Benefits from Better Indoor Environments: An Update". Indoor Air Quality Handbook. New York: McGraw Hill.
+^ Brager, Gail; Paliaga, Gwelen; de Dear, Richard (2004). "Operable windows, personal control and occupant comfort". ASHRAE Transactions (2 ed.). 110.
+^ Hellwig, Runa (2015). "Perceived control in indoor environments: a conceptual approach". Building Research & Information. 43 (3): 302315. doi:10.1080/09613218.2015.1004150.
+^ "Thermal Environmental Conditions for Human Occupancy". ASHRAE Standard 55. 2013.
+^ "Ergonomics of the thermal environment - analytical determination and interpretation of thermal comfort using calculation of the PMV and PPD indices and local thermal comfort criteria". ISO 7730. 2005.
+^ "Indoor environmental input parameters for design and assessment of energy performance of buildings addressing indoor air quality, thermal environment, lighting, and acoustics". EN15251. 2007.
+^ "IES - Illuminating Engineering Society". www.ies.org. Retrieved 2015-11-17.
+^ Reinhart, Christoph (2015-06-01). "Opinion: Climate-based daylighting metrics in LEEDv4  A fragile progress". Lighting Research and Technology. 47 (4): 388388. doi:10.1177/1477153515587613. ISSN1477-1535.
+^ Kats, Greg (2003). "Green building costs and financial benefits" (PDF). Massachusetts Technology Collaborative.
+^ N. Miller; J. Spivey; A. Florance (2008). "Does Green Pay Off?" (PDF). Journal of Real Estate Portfolio Management.
+^ Fuerst, Franz; McAllister, Pat (2009). "Green Noise or Green Value? Measuring the Effects of Environmental Certification on Office Property Values". Papers.ssrn.com. Retrieved November 5, 2010.
+^ Pivo, Gary; Fisher, Jeffrey D. (2009). "Investment Returns from Responsible Property Investments: Energy Efficient, Transit-oriented and Urban Regeneration Office Properties in the US from 1998-2008" (PDF). Responsibleproperty.net. Retrieved November 5, 2010.
+^ Fuerst, Franz; McAllister, Pat (2009). "An Investigation of the Effect of Eco-Labeling on Office Occupancy Rates" (PDF). Costar.com. Retrieved November 5, 2010.
+^ Appelbaum, A. (2010-05-19). "Don't LEED Us Astray". New York Times.
+^ "Canada Builds Green Directory". Canada Green Building Council. Retrieved 27 November 2013.
+^ "GBIG Green Building Information Gateway". USGBC.org. Retrieved 2013-11-17.
+^ "LEED Professional Credentials". GBCI. Retrieved 2012-08-13.
+^ "Green Building LEED Certification". USA Today. 2012-10-24. Retrieved 2013-12-08.
+^ Greg Kats; Leon Alevantis; Adam Berman; Evan Mills; Jeff Perlman (2003). "The Costs and Financial Benefits of Green Buildings: A Report to California's Sustainable Building Task Force" (PDF). Retrieved 2008-10-30.
+^ "The 2030 Challenge". Architecture2030.org.
+^ "U.S. Green Building Council | U.S. Green Building Council". Usgbc.org. Retrieved 2013-10-16.
+^ "The 2030 Challenge". Architecture 2030. Retrieved 2013-10-16.
+^ http://living-future.org/lbc
+^ "usgbc.org". usgbc.org. Retrieved 2013-10-16.
+^ "In U.S. building industry, is it too easy to be green?". USA Today. 2012-10-24.
+^ Burr, Andrew C. (April 23, 2008). "LEED's Big Market Bias". CoStar Group. Retrieved 2008-04-27.
+^ "Cost Analysis of LEED-EB" (PDF). Retrieved 2014-02-14.
+^ "Tax Deductions and Incentives. The Vinyl Roofing Division of the Chemical Fabrics and Film Association.".
+^ "LEED Initiatives in Government and Schools".
+^ "Maryland Enacts Green Building Standards for Public Buildings | Center for Climate and Energy Solutions". C2es.org. 2008-04-24. Retrieved 2013-06-14.
+^ "LEED Tax Credits Coming?".
+^ "Summary of Government LEED Incentives".
+^ Roberts, Tristan (2013-06-05). "First-in-Country Projects to Get Free LEED Certification". Retrieved 2013-07-30.
+^ "LEED Earth Rules and Regulations". USGBC. 2013-06-04. Retrieved 2013-07-30.
+^ "Clark Construction".
+^ Gonchar, Joann (October 2012). "David L. Lawrence Convention Center". Architectural Record. McGraw-Hill. Retrieved January 24, 2013.
+^ "Phipps Conservatory and Botanical Garden". U.S. Green Building Council. Retrieved January 24, 2013.
+^ "Sota Construction Services, Inc. - Sota Construction Corporate Offices". Sotaconstruction.com. Retrieved 2013-11-28.
+^ "Sota Construction Office Expansion". U.S. Green Building Council. Retrieved 2013-11-28.
+^ "2009 ULI Fall Meeting & Urban Land Expo  Green Retrofit: What Is Making This the Wave of the Future?". Archived from the original (PDF) on November 22, 2010. Retrieved October 11, 2010.
+^ Dailey, Jessica (2011-09-14). "Empire State Building Achieves LEED Gold Certification". Inhabitat.com. Retrieved 2013-07-30.
+^ Turkel, Tux (14 July 2011). "Portland Press Herald". Maines greenest building is designed to educate. Retrieved 7 August 2014.
+^ "Soldier Field earns top building honor". Chicagobears. 2012-05-31. Retrieved 2012-08-13.
+^ "Cashman Turns Green to Gold". Retrieved December 1, 2009.
+^ "Letterman Digital Arts Center". Onelettermandrive.com. Retrieved 2013-10-16.
+^ LEED Platinum certification for the Crystal
+^ "Crystal Clear - Inside Siemens' The Crystal". Abtecbt.com. 2013-12-16. Retrieved 2014-02-14.
+^ "Urban Ecology  Description | CMHC". Cmhc-schl.gc.ca. Retrieved 2014-02-27.
+Bibliography
+Green Building Facts [Data file]. (n.d.). US Green Building Council. Retrieved June 27, 2009.
+Kats, G., Alevantis, L., Berman, A., Mills, E., & Perlman, J. (2003). The Costs and Financial Benefeits of Green Buildings: A Report to California's Sustainable Building Task Force [Report]. U.S. Green Building Council.
+Lucuik, M., Trusty, W., Larsson, N., & Charette, R. (2005). A Business Case for Green Building in Canada: Presented to Industry Canada [Report]. U.S. Green Building Council.
+U.S. Green Building Council. (2006, August). Foundations of the Leadership in Energy and Environmental Design, Environmental Rating System, A Tool for Market Transformation [Policy Manual].
+External links[edit]
+About LEED by the U.S. Green Building Council
+Going green with LEED by the Canada Green Building Council
+Profile - LEED Green Building Certification System
+v
+t
+e
+U.S. Green Building Council
+Centers
+Green Business Certification Inc.
+World Green Building Council
+LEED
+Leadership in Energy and Environmental Design
+LEED Green Associate
+LEED AP
+LEED Fellow
+Rating Systems
+LEED for New Construction
+LEED for Core & Shell
+LEED for Schools
+LEED for Retail: New Construction and Major Renovations
+LEED for Healthcare
+LEED for Commercial Interiors
+LEED for Retail: Commercial Interiors
+LEED for Existing Buildings: Operations & Maintenance
+LEED for Neighborhood Development
+LEED for Homes
+People
+Rick Fedrizzi
+Robert K. Watson
+NewPP limit report
+Parsed by mw1168
+Cached time: 20161120004457
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.892 seconds
+Real time usage: 1.032 seconds
+Preprocessor visited node count: 3914/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 146744/2097152 bytes
+Template argument size: 1550/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 6/500
+Lua time usage: 0.457/10.000 seconds
+Lua memory usage: 7.79 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+829.343
+1 - -total
+61.99%
+514.092
+1 - Template:Reflist
+24.69%
+204.756
+47 - Template:Cite_web
+16.70%
+138.525
+3 - Template:Citation_needed
+12.21%
+101.231
+3 - Template:Fix
+10.94%
+90.696
+18 - Template:Cite_journal
+8.30%
+68.804
+10 - Template:Cite_news
+6.06%
+50.292
+3 - Template:Delink
+5.12%
+42.435
+7 - Template:Category_handler
+4.52%
+37.523
+1 - Template:Convert
+Saved in parser cache with key enwiki:pcache:idhash:3923230-0!*!0!!en!4!* and timestamp 20161120004456 and revision id 750481838
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Leadership_in_Energy_and_Environmental_Design&oldid=750481838"
+Categories: Sustainable building in the United StatesBuilding energy ratingEnvironment of the United StatesBuilding engineeringEnergy in the United StatesEnvironmental designHidden categories: Articles with Swedish-language external linksWebarchive template wayback linksAll articles with unsourced statementsArticles with unsourced statements from November 2013Articles to be expanded from December 2015All articles to be expandedArticles using small message boxesArticles to be expanded from November 2014Articles with unsourced statements from December 2008Articles with unsourced statements from May 2010

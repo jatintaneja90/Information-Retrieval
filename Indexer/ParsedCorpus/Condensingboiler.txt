@@ -1,0 +1,318 @@
+Condensingboiler
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2011) (Learn how and when to remove this template message)
+Condensing boilers are water heaters fueled by gas or oil. They achieve high efficiency (typically greater than 90% on the higher heating value) by condensing water vapour in the exhaust gases and so recovering its latent heat of vaporisation, which would otherwise have been wasted. This condensed vapour leaves the system in liquid form, via a drain. In many countries, the use of condensing boilers is compulsory or encouraged with financial incentives.
+Contents
+1 Principles of work
+2 Usage
+3 Efficiency
+4 Control
+5 Reliability
+6 Building Research Establishment
+7 Exhaust
+8 Cost
+9 Gallery
+10 See also
+11 References
+12 External links
+Principles of work[edit]
+In a conventional boiler, fuel is burned and the hot gases produced pass through a heat exchanger where much of their heat is transferred to water, thus raising the water's temperature.
+One of the hot gases produced in the combustion process is water vapour (steam), which arises from burning the hydrogen content of the fuel. A condensing boiler extracts additional heat from the waste gases by condensing this water vapour to liquid water, thus recovering its latent heat of vaporization. A typical increase of efficiency can be as much as 10-12%.[citation needed] While the effectiveness of the condensing process varies depending on the temperature of the water returning to the boiler, it is always at least as efficient as a non-condensing boiler.
+The condensate produced is slightly acidic (3-5 pH), so suitable materials must be used in areas where liquid is present. Aluminium alloys and stainless steel are most commonly used at high temperatures. In low temperature areas, plastics are most cost effective (e.g., uPVC and polypropylene).[1] The production of condensate also requires the installation of a heat exchanger condensate drainage system. In a typical installation, this is the only difference between a condensing and non-condensing boiler.
+To economically manufacture a condensing boiler's heat exchanger (and for the appliance to be manageable at installation), the smallest practical size for its output is preferred. This approach has resulted in heat exchangers with high combustion side resistance, often requiring the use of a combustion fan to move the products through narrow passageways. This has also had the benefit of providing the energy for the flue system as the expelled combustion gases are usually below 100C (212F) and as such, have a density close to air, with little buoyancy. The combustion fan helps to pump exhaust gas to the outside.
+Usage[edit]
+Condensing boilers are now largely replacing earlier, conventional designs in powering domestic central heating systems in Europe and, to a lesser degree, in North America. The Netherlands was the first country to adopt them broadly.[2][3] In Europe, their installation is strongly advocated by pressure groups and government bodies concerned with reducing energy use. In the United Kingdom, for example, all new gas central-heating boilers fitted in England and Wales since 2005 must be high-efficiency condensing boilers unless there are exceptional circumstances; the same regulations apply to oil-fired boilers from April 2007 (warm air central heating systems are exempt from these regulations). In the United States, there is a Federal tax credit for the installation of condensing boilers and additional rebates from power companies in some states. In Western Canada, energy suppliers now offer energy rebates when these systems are installed in multi-unit dwellings. The decrease in natural gas prices in North America has resulted in[citation needed] increased retrofitting of existing boiler installations with condensing equipment.
+Efficiency[edit]
+Condensing boiler manufacturers claim that up to 98% thermal efficiency can be achieved,[4] compared to 70%-80% with conventional designs (based on the higher heating value of fuels). Typical models offer efficiencies around 90%, which brings most brands of condensing gas boiler in to the highest available categories for energy efficiency. In the UK, this is a SEDBUK (Seasonal Efficiency of Domestic Boilers in the UK)[5] Band A efficiency rating, while in North America they typically receive an Eco Logo and/or Energy Star Certification.
+Boiler performance is based on the efficiency of heat transfer and highly dependent on boiler size/output and emitter size/output. System design and installation are critical. Matching the radiation to the Btu/Hr output of the boiler and consideration of the emitter/radiator design temperatures determines the overall efficiency of the space and domestic water heating system.
+One reason for an efficiency drop is because the design and/or implementation of the heating system gives return water (heat transfer fluid) temperatures at the boiler of over 55C (131F), which prevents significant condensation in the heat exchanger.[6] Better education of both installers and owners could be expected to raise efficiency towards the reported laboratory values. Natural Resources Canada[7] also suggests ways to make better use of these boilers, such as combining space and water heating systems. Some boilers (e.g. Potterton) can be switched between two flow temperatures such as 63C (145F) and 84C (183F), only the former being "fully condensing." However, boilers are normally installed with higher flow temperature by default because a domestic hot water cylinder is generally heated to 60C (140F), and this takes too long to achieve with a flow temperature only three degrees higher. Nevertheless, even partial condensing is more efficient than a traditional boiler.
+Most non-condensing boilers could be forced to condense through simple control changes. Doing so would reduce fuel consumption considerably, but would quickly destroy any mild steel or cast-iron components of a conventional high-temperature boiler due to the corrosive nature of the condensate. For this reason, most condensing boiler heat-exchangers are made from stainless steel or aluminum/silicon alloy. External stainless steel economizers can be retrofitted to non-condensing boilers to allow them to achieve condensing efficiencies. Temperature control valves are used to blend hot supply water into the return to avoid thermal shock or condensation inside of the boiler.
+The lower the return temperature to the boiler the more likely it will be in condensing mode. If the return temperature is kept below approximately 55C (131F), the boiler should still be in condensing mode making low temperature applications such as radiant floors and even old cast iron radiators a good match for the technology.
+Most manufacturers of new domestic condensing boilers produce a basic "fit all" control system that results in the boiler running in condensing mode only on initial heat-up, after which the efficiency drops off. This approach should still exceed that of older models (see the following three documents published by the Building Research Establishment: Information Papers 10-88 and 19-94; General Information Leaflet 74; Digest 339. See also Application Manual AM3 1989: Condensing Boilers by Chartered Institute of Building Services Engineers).
+Control[edit]
+The control of the domestic condensing boiler is crucial to ensuring that it operates in the most economic and fuel efficient way.
+Almost all have modulating burners. The burners are usually controlled by an embedded system with built-in logic to control the output of the burner to match the load and give best performance.
+Reliability[edit]
+Condensing boilers are claimed to have a reputation for being less reliable and may also suffer if worked on by installers and plumbers who may not understand their operation.[8] Claims of unreliability have been contradicted by research carried out by the UK-based Building Research Establishment (see Myths below.)
+In particular, the problem of 'pluming' arose with early installations of condensing boilers, in which a white plume of condensed vapour (as minuscule droplets) becomes visible at the outlet flue. Although unimportant to boiler operation, visible pluming was an aesthetic issue that caused much opposition to condensing boilers.
+A more significant issue is the slight acidity of the condensate liquid. Where this is in direct contact with the boiler's heat exchanger, particularly for thin aluminium sheet, it may give rise to more rapid corrosion than for traditional non-condensing boilers. Older boilers may also have used thick cast heat exchangers, rather than sheet, which had slower time constants for their response but were also resistant, by their sheer mass, to any corrosion. The acidity of the condensate means that only some materials may be used: stainless steel and aluminium are suitable, mild steel, copper or cast iron are not.[9] Poor design or construction standards may have made the heat exchangers of some early condensing boilers less long-lived.
+Initial testing and annual monitoring of the heat transfer fluid in condensing boilers with aluminium or stainless steel heat exchangers is highly recommended. Maintenance of a slightly alkaline (pH 8 to 9) liquid with anti-corrosion and buffering agents reduces corrosion of the aluminium heat exchanger. Some professionals believe that the condensate produced on the combustion side of the heat exchanger may corrode an aluminium heat exchanger and shorten boiler life. Statistical evidence is not yet available since condensing boilers with aluminium heat exchangers have not been in use long enough.
+Building Research Establishment[edit]
+The Building Research Establishment, which is the UK's major research body for the building industry, produced a leaflet on domestic condensing boilers. According to the Building Research Establishment:
+modern condensing boilers are as reliable as standard boilers
+condensing boilers are no more difficult to service, nor do they require more frequent servicing
+servicing is not expensive; the only (minor) additional task is to check the correct function of the condensate drain
+condensing boilers are not difficult to install
+under all operating conditions, condensing boilers are always more efficient than standard boilers[10]
+Exhaust[edit]
+The condensate expelled from a condensing boiler is acidic, with a pH between 3 and 4. Condensing boilers require a drainpipe for the condensate produced during operation. This consists of a short length of polymer pipe with a vapour trap to prevent exhaust gases from being expelled into the building. The acidic nature of the condensate may be corrosive to cast iron plumbing, waste pipes and concrete floors but poses no health risk to occupants. A neutralizer, typically consisting of a plastic container filled with marble or limestone aggregate or "chips" (alkaline) can be installed to raise the pH to acceptable levels. If a gravity drain is not available, then a small condensate pump must also be installed to lift it to a proper drain.
+The primary and secondary heat exchangers are constructed of materials that will withstand this acidity, typically aluminum or stainless steel. Since the final exhaust from a condensing boiler has a lower temperature than the exhaust from an atmospheric boiler 38C (100F) vs. 204C (400F) a mechanical fan is always required to expel it, with the additional benefit of allowing the use of low-temperature exhaust piping (typically PVC in domestic applications) without insulation or conventional chimney requirements. Indeed, the use of conventional masonry chimney, or metal flue is specifically prohibited due to the corrosive nature of the flue products, with the notable exception of specially rated stainless steel and aluminum in certain models. The preferred/common vent material for most condensing boilers available in North America is PVC, followed by ABS and CPVC. Polymer venting allows for the added benefit of flexibility of installation location including sidewall venting saving unnecessary penetrations of the roof.
+Cost[edit]
+Condensing boilers are up to 50% more expensive to buy and install than conventional types in the UK and the US. However, as of 2006[update], at UK prices the extra cost of installing a condensing instead of conventional boiler should be recovered in around 25 years through lower fuel use (for verification, see the following three documents published by the Building Research Establishment: Information Papers 10-88 and 19-94; General Information Leaflet 74; Digest 339; see also Case studies in Application Manual AM3 1989: Condensing Boilers by Chartered Institute of Building Services Engineers), and 25 years[citation needed] at US prices. Exact figures will depend on the efficiency of the original boiler installation, boiler utilisation patterns, the costs associated with the new boiler installation, and how frequently the system is used. The cost of these boilers is dropping as the mass takeup enforced by government takes effect and the manufacturers withdraw older, less efficient models, but production cost is higher than older types as condensing boilers are more complex.
+The increased complexity of condensing boilers is as follows:
+increased size of heat exchanger, or the addition of a second heat exchanger (it is important that the heat exchangers are designed to be resistant to acid attack from the "wet" flue gases)
+The necessity of a fan-assisted flue (as cooler flue gases have less buoyancy). Many non-condensing boilers also have this feature, however
+as the cooler flue gases produce condensate, this needs to be drained, and so the boilers are plumbed into a waste or drain
+With respect to modern boilers, there are no other differences between condensing and non-condensing boilers.
+Reliability, as well as initial cost and efficiency, affects total cost of ownership. One major independent UK firm of plumbers stated sarcastically in 2005 that it had made thousands of call-outs to mend condensing boilers, and that the greenhouse gas emissions from its vans were probably greater than the savings made by the shift to eco-conscious boilers.[8] However, the same article points out that the Heating and Hotwater Information Council, together with some installers, have found that modern condensing boilers are just as reliable as standard boilers.
+Gallery[edit]
+Condensing boiler
+Condensing boiler exhaust vapour
+Condensing boiler
+Stainless steel exhaust with condensate
+See also[edit]
+Energy efficiency in British housing
+OpenTherm
+References[edit]
+^ Day, Anthony; et al. (2003). "Flues for condensing boilers". Heating systems: plant and control. Oxford, England: Blackwell. p.161. ISBN0-632-05937-0.
+^ Application of condensing boilers in the Netherlands
+^ Nefit B.V.
+^ Viessmann Gas Fired Boilers
+^ Sedbuk
+^ Carbon Trust Micro-CHP Accelerator
+^ Office of Energy Efficiency, Natural Resources Canada
+^ a b Guardian newspaper: The new boiler that's causing a heated row. 2 April 2005
+^ Jason R. Funk. "Boiler Basics" (PDF). Hughes Machinery. pp.5051.
+^ "GIL74 - Domestic Condensing Boilers: the benefits and the myths" (PDF). Building Research Establishment.
+External links[edit]
+European Patent Office Patent for drain free elimination of condensate.
+Condensing boilers page on the website of the UK National Energy Foundation
+Comparisons of different boiler systems available in North America on the Natural Resources Canada website
+Exploded diagram of condensing boiler (Malvern Boilers 30) (pdf file - 71KB)
+On the design of residential condensing gas boilers (pdf file - 1.28MB)
+v
+t
+e
+Heating, ventilation and air conditioning
+Fundamental concepts
+Air changes per hour
+Building envelope
+Convection
+Dilution
+Domestic energy consumption
+Enthalpy
+Fluid dynamics
+Gas compressor
+Heat pump and refrigeration cycle
+Heat transfer
+Humidity
+Infiltration
+Latent heat
+Noise control
+Particulates
+Psychrometrics
+Sensible heat
+Stack effect
+Thermal comfort
+Thermal destratification
+Thermodynamics
+Vapor pressure of water
+Technology
+Absorption refrigerator
+Air barrier
+Air conditioning
+Antifreeze
+Automobile air conditioning
+Autonomous building
+Building insulation materials
+Central heating
+Central solar heating
+Chilled beam
+Chilled water
+Constant air volume (CAV)
+Coolant
+Dedicated outdoor air system (DOAS)
+Deep water source cooling
+Demand-controlled ventilation (DCV)
+Displacement ventilation
+District cooling
+District heating
+Electric heating
+Energy recovery ventilation (ERV)
+Forced-air
+Forced-air gas
+Free cooling
+Heat recovery ventilation (HRV)
+Hydronics
+HVAC
+Ice storage air conditioning
+Kitchen ventilation
+Mixed-mode ventilation
+Microgeneration
+Natural ventilation
+Passive cooling
+Passive house
+Radiant cooling
+Radiant heating
+Radon mitigation
+Refrigeration
+Renewable heat
+Room air distribution
+Solar air heat
+Solar combisystem
+Solar cooling
+Solar heating
+Thermal insulation
+Thermal mass
+Thermal wheel
+Underfloor air distribution
+Underfloor heating
+Vapor barrier
+Vapor-compression refrigeration (VCRS)
+Variable air volume (VAV)
+Variable refrigerant flow (VRF)
+Ventilation
+Components
+Air conditioner inverter
+Air door
+Air filter
+Air handler
+Air ionizer
+Air-mixing plenum
+Air purifier
+Air source heat pumps
+Back boiler
+Barrier pipe
+Blast damper
+Boiler
+Centrifugal fan
+Chiller
+Condensate pump
+Condenser
+Condensing boiler
+Convection heater
+Cooling tower
+Damper
+Dehumidifier
+Duct
+Durable elbow support
+Economizer
+Electrostatic precipitator
+Evaporative cooler
+Evaporator
+Exhaust hood
+Expansion tank
+Fan coil unit
+Fan heater
+Fire damper
+Fireplace
+Fireplace insert
+Firestop
+Freeze stat
+Flue
+Freon
+Fume hood
+Furnace
+Furnace room
+Gas compressor
+Gas heater
+Geothermal heat pump
+Grease duct
+Grille
+Ground-coupled heat exchanger
+Heat exchanger
+Heat pipe
+Heat pump
+Heating film
+Heating system
+High efficiency glandless circulating pump
+High-efficiency particulate air (HEPA)
+High pressure cut off switch
+Humidifier
+Hybrid heat
+Infrared heater
+Inverter compressor
+Louver
+Mechanical fan
+Mechanical room
+Oil heater
+Packaged terminal air conditioner
+Plenum space
+Pressurisation ductwork
+Radiator
+Radiator reflector
+Recuperator
+Refrigerant
+Register
+Reversing valve
+Run-around coil
+Scroll compressor
+Solar chimney
+Solar-assisted heat pump
+Space heater
+Smoke exhaust ductwork
+Thermal expansion valve
+Thermal wheel
+Thermosiphon
+Thermostatic radiator valve
+Trickle vent
+Trombe wall
+Turning vanes
+Ultra-low particulate air (ULPA)
+Whole-house fan
+Windcatcher
+Wood-burning stove
+Measurement and control
+Air flow meter
+Aquastat
+BACnet
+Blower door
+Building automation
+Clean Air Delivery Rate (CADR)
+Gas sensor
+Home energy monitor
+Humidistat
+HVAC control system
+Intelligent buildings
+LonWorks
+Minimum efficiency reporting value (MERV)
+OpenTherm
+Programmable communicating thermostat
+Programmable thermostat
+Psychrometrics
+Room temperature
+Smart thermostat
+Thermostat
+Thermostatic radiator valve
+Professions, trades, and services
+Architectural acoustics
+Architectural engineering
+Architectural technologist
+Building services engineering
+Building information modeling (BIM)
+Deep energy retrofit
+Duct leakage testing
+Environmental engineering
+Hydronic balancing
+Kitchen exhaust cleaning
+Mechanical engineering
+Mechanical, electrical, and plumbing
+Mold growth, assessment, and remediation
+Refrigerant reclamation
+Testing, adjusting, balancing
+Industry organizations
+ACCA
+AMCA
+ASHRAE
+ASTM International
+BRE
+BSRIA
+CIBSE
+LEED
+SMACNA
+Health and safety
+Indoor air quality (IAQ)
+Passive smoking
+Sick building syndrome (SBS)
+See also
+ASHRAE Handbook
+Building science
+Fireproofing
+Glossary of HVAC terms
+Template:Home automation
+Template:Solar energy
+Saved in parser cache with key enwiki:pcache:idhash:4277518-0!*!0!!en!4!* and timestamp 20161113093958 and revision id 742411187
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Condensing_boiler&oldid=742411187"
+Categories: BoilersResidential heating appliancesHidden categories: Articles needing additional references from June 2011All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from February 2012Articles with unsourced statements from June 2014Articles containing potentially dated statements from 2006All articles containing potentially dated statementsArticles with unsourced statements from November 2007Use dmy dates from June 2011

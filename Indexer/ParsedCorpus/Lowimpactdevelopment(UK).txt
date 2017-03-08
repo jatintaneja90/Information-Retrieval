@@ -1,0 +1,386 @@
+Lowimpactdevelopment(UK)
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about the UK meaning of LID. For the Canadian/US usage, see Low-impact development (Canada/US).
+Low-impact development (LID) has been defined as "development which through its low negative environmental impact either enhances or does not significantly diminish environmental quality".[1][2][3]
+The interplay between would-be developers and the UK planning authorities since the 1980s has led to a diversity of unique, locally adapted developments, often making use of natural, local and reclaimed materials in delivering highly affordable, low or zero carbon housing. These LIDs often strive to be self-sufficient in terms of waste management, energy, water and other needs.[4]
+There are numerous examples of LIDs throughout the UK, and local and national authorities have come to recognise the need for the concept to be incorporated into planning strategies.
+Contents
+1 Definition
+2 Examples
+2.1 England
+2.2 Scotland
+2.3 Wales
+3 Benefits
+4 Constraints
+5 Government policy
+6 See also
+7 References
+8 Further reading
+9 External links
+9.1 Low-impact developments
+9.2 Supporting organisations and resources
+Definition[edit]
+Low-impact development (LID), in the UK sense of the term, was described by Simon Fairlie, a former editor of The Ecologist magazine, in 1996 as: "development that through its low impact either enhances or does not significantly diminish environmental quality."[5] Fairlie later wrote:
+"Neither the term nor the concept was new. People have been living low impact lifestyles in low impact buildings for centuries; indeed until very recently the majority of people in the world lived that way."[6]
+In 2009 Fairlie revised his definition of a LID as: "development which, by virtue of its low or benign environmental impact, may be allowed in locations where conventional development is not permitted."[6] He explained:
+"I prefer this revised definition because wrapped up in it is the main argument; that low impact buildings need not be bound by the restrictions necessary to protect the countryside from 'conventional' high impact development  a.k.a. suburban sprawl. There are two other principle arguments in favour of LID: (i) that some form of exception policy is necessary because conventional housing in a countryside protected from sprawl becomes too expensive for the people who work there; and (ii) soon we will all have to live more sustainable low impact lifestyles, so pioneers should be encouraged."[6]
+Others have expanded on the definition. A study by the University of West England acknowledged that: "LID is usually integrally connected with land management and as much as describing physical development, LID also describes a form of livelihood."[7] However, it also states that as LID is a "multi featured and intrinsically integrated form of development," a simple definition cannot capture the meaning of LID and goes on to develop "a detailed themed definition with detailed criteria."[7]
+Dr Larch Maxey[8] in 2013 held the main features of LID to be:
+locally adapted, diverse and unique
+based on renewable resources
+of an appropriate scale
+visually unobtrusive
+enhances biodiversity
+increases public access to open space
+generates little traffic
+linked to sustainable livelihoods
+co-ordinated by a management plan
+Examples[edit]
+England[edit]
+Whisky Barrel House, Findhorn
+That Roundhouse, Pembrokeshire
+English LID examples include the Hockerton Housing Project (Nottinghamshire), Michael Buck's cob house in Oxfordshire,[9] Landmatters (Devon)[10] and Tinker's Bubble (Somerset).[11][12]
+Transition Homes, currently under development in Transition Town Totnes, Devon, is an attempt to scale-up and mainstream LID by providing around 25 low cost, low carbon homes designed along permaculture principles.[13][14][15] Residents will be allocated from the local housing needs register.[14] Similarly, LILAC built in 2013 a 'Low Impact Living Affordable Community' of 20 homes and a common house in Bramley, Leeds,[16][17][18] which was visited by Kevin McCloud and Mark Prisk, Minister of State for Housing and Local Government.[19]
+BedZED (London) is another example of a larger scale LID, which was built in 20002002 and has 82 homes, however it is not as affordable as many of the above examples as it was partly designed to attract urban professionals.
+Scotland[edit]
+Findhorn Ecovillage has won a number of international awards. Steve James's Straw House, Dumfries was built for 4,000.[20]
+Wales[edit]
+The House of the Future, Cardiff, completed in 2000, was originally a showcase of the latest green building technologies, and later transformed into an education centre.[21] In West Wales, Lammas Ecovillage (near Crymych, Pembrokeshire) is a community of independent, off-grid households begun in 2009.[22][23][24] Nearby Pwll Broga roundhouse is a development that was built without planning permission in 2012, refused retrospective planning permission in 2014,[25][26] but granted permission in July 2015, having met the requirements of the Welsh government's One Planet Development policy.[27] That Roundhouse (Brithdir Mawr, Newport, Pembrokeshire) was granted planning permission in 2008 with a review in 3 years.
+Benefits[edit]
+Substantial research has concluded that LID represents some of the most innovative and sustainable development in the UK.[7][28][29]
+LIDs have innovated and demonstrated sustainable solutions including low/zero carbon housing design, rainwater harvesting, renewable energy generation, waste minimisation and innovative forms of land management, including No/low-till farming, permaculture and agroforestry.
+LID has also shown a capacity to enhance local biodiversity and public access to local space, and to produce traffic movements far below the national average. This has been attributed to lift-sharing, to residents' greater use of public transport, walking and cycling and to the integration of local land based employment with other household activities.[30] As the Welsh Assembly Government has noted, such "...Development therefore is not just describing a physical development. It is describing a way of living differently where there is a symbiotic relationship between people and land, making a reduction in environmental impacts possible".[31]
+Constraints[edit]
+Over the years, there have been various struggles with planning authorities over LID in the UK. Tony Wrench spent over a decade fighting the planning authorities until he was granted planning permission for That Roundhouse.[32][33][34][35] As Lisa Lewinsohn points out in her MSc thesis on LID, Tony Wrench and his partner Jane Faith have been "enforced against, fined, refused planning permission several times"[3] while Lammas has "probably spent about 50,000 on the application process."[3] Similarly, since 1986 Tir Penrhos Isaf has tried several times to get planning permission[36] and only succeeded in December 2006, twenty years after their first planning application was submitted.[37]
+The residents of Tir Penrhos Isaf consider:
+"that current planning and building legislation represent some of the greatest obstacles to developing sustainable systems in Britain. The legislation favours those who already have land and property, actively encourages the squandering of resources and environmental degradation and actively discourages movements towards low impact, sustainable development."[36]
+Government policy[edit]
+The extensive research interest in LID, backed up by the practical examples of the existing LIDs, has led to a growing number of planning policies in the UK designed to allow for LIDs.[38] These include the Dartmoor National Park Authority's emerging plan on low impact dwellings in the countryside,[39] the Pembrokeshire Low Impact Development Policy (Policy 52)[40] and the Welsh Assembly Governments One Planet Development policy (OPD)[41][2][42] which is supported by the independent One Planet Council.[43] The first development to receive permanent planning permission under the One Planet scheme was Nant-y-Cwm, near Caerphilly.[44] The criteria for OPD in Wales include the requirement that 65% of all subsistence, or 30% of food and 35% of livelihood, come from the land.[45]
+See also[edit]
+Degrowth
+Diggers and Dreamers
+Ecovillage
+Radical Routes
+References[edit]
+^ Maxey, Larch (December 2012). "Proof of Evidence of Dr Larch Maxey in relation to appeals APP/Y1138/ A/12/2181807, APP/Y1138/ A/12/2181808, and APP/Y1138/ A/12/2181821, evidence submitted to Mid Devon District Council planning inquiry" (PDF). Retrieved 7 March 2013.
+^ a b Pickerill, J.; Maxey, L. (eds.). "What is Low Impact Development?". Low Impact Development: The Future in our Hands (PDF).
+^ a b c Lewinsohn, Lisa (July 2008). "Planning Policy and Low Impact Developments  What are the planning barriers to low impact developments in rural areas in Britain and how might they be overcome?" (PDF). MSc Thesis, Advanced Environmental and Energy Studies, CAT. Retrieved 6 March 2013.
+^ Woolley, Tom (2013). Low Impact Building: Housing using Renewable Materials. Wiley-Blackwell. ISBN978-1-4443-3660-3.
+^ Fairlie, Simon (1996). Low impact development: planning and people in a sustainable countryside (Repr. with minor rev. 1997. ed.). Charlbury: Jon Carpenter. p.xiv. ISBN1897766254.
+^ a b c Pickerill, Jenny; Maxey, L. (2009). Low impact development: the future in our hands (PDF). [Leicester: University of Leicester, Dept. of Geography]. p.1. ISBN1870474368.
+^ a b c University of the West of England; Land Use Consultants (December 2002). "Low Impact Development  Planning Policy and Practice: Report to the Countryside Council for Wales" (PDF). Retrieved 7 March 2013.
+^ Maxey, Larch (2009). "The Future in Our Hands: Low Impact Development and Sustainability Transitions". Convergence on Zero Conference, Washington DC. Retrieved 7 April 2013.
+^ Wilkes, David (25 November 2013). "The 150 hobbit hole: Farmer builds a cosy cob home using materials he recycled from skips... and the tenant pays the rent in MILK". Daily Mail. Retrieved 26 November 2013.
+^ "Landmatters Coop gets planning approval!". Indymedia. 25 August 2007. Retrieved 7 March 2013.
+^ Monbiot, George (23 August 2004). "Living with the Age of Entropy". The Guardian. Retrieved 21 May 2013.
+^ Economads. "Tinker's Bubble". Retrieved 7 March 2013.
+^ "Transition and Permaculture". 1 March 2013. Retrieved 7 March 2013.
+^ a b "Transition Homes". Retrieved 7 March 2013.
+^ "Transition Homes: Pudhaven Field Site Visit Feb 2013 (video)". Retrieved 7 March 2013.
+^ "LILAC means Low Impact Living Affordable Community". December 2012. Retrieved 7 March 2013.
+^ Brown Bread Films. "LILAC Cohousing Documentary (video)". Retrieved 7 March 2013.
+^ Norwood, Graham (February 2013). "Co-housing: a lifestyle with community spirit built into the foundations". The Observer. Retrieved 7 March 2013.
+^ "Housing Minister and Kevin McCloud visit LILAC". Lindum Group. 1 April 2013. Retrieved 11 April 2013.
+^ Hill, Vicki (20 February 2008). "How I built my house for 4,000". The Independent. Retrieved 24 March 2013.
+^ Abby Alford (6 July 2009). "It's back to the future at St Fagans' hi-tech house". Wales Online. Retrieved 2016-03-09.
+^ Heydon Prowse; Tom Bell (22 March 2011). "Lammas: The eco-village that lives off the grid (video)". The Guardian. Retrieved 7 March 2013.
+^ "Family's roundhouse plans unanimously backed". Western Telegraph. 10 November 2014. Retrieved 10 November 2014.
+^ "Our 3,000 Hobbit house: The family home dug from a hillside and built with scraps scavenged from skips". Daily Mail. 22 September 2011. Retrieved 7 March 2013.
+^ "'Hobbit home' to be demolished after Pembrokeshire vote". BBC. 1 August 2014. Retrieved 2 August 2014.
+^ "North Pembrokeshire family fight to keep roundhouse they built without permission". Western Telegraph. 22 March 2013. Retrieved 24 March 2013.
+^ "Couple win appeal to save 'hobbit home' in Crymych". BBC. 14 July 2015. Retrieved 17 July 2015.
+^ Baker Associates (February 2004). "Low Impact Development  Further Research, report to the Pembrokeshire Coast National Park Authority" (PDF). Retrieved 7 March 2013.
+^ Various. "Index of Low Impact Documents on Lammas website". Retrieved 7 March 2013.
+^ Lammas (2010). "Annual Monitoring Report For Tir y Gafel Ecovillage: August 2009  January 2011" (PDF). Retrieved 7 March 2013.
+^ "Welsh Government's One Planet Development policy Development Practice Guidance". October 2012. Retrieved 7 March 2013.
+^ "Roundhouse approved after decade". BBC News. 15 September 2008. Retrieved 6 March 2013.
+^ "10-year Pembrokeshire eco-battle ends". WalesOnline. 15 September 2008. Retrieved 6 March 2013.
+^ Barkham, Patrick (25 September 2008). "Round the houses". The Guardian. Retrieved 6 March 2013.
+^ Salkeld, Luke (17 September 2008). "Lost middle-class tribe's 'secret' eco-village in Wales spotted in aerial photograph taken by plane". Daily Mail. Retrieved 6 March 2013.
+^ a b Dixon, Chris. "Planning History at Tir Penrhos Isaf". Retrieved 7 March 2013.
+^ Dixon, Chris (October 2009). "Planning latest at Tir Penrhos Isaf". Retrieved 7 March 2013.
+^ Fairlie, Simon (2009). Low Impact Development: Planning and People in a Sustainable Countryside. Jon Carpenter Publishing. Retrieved 7 March 2013.
+^ Dartmoor National Park Authority (February 2012). "Policy DMD30: Low impact dwellings in the open countryside" (PDF). p.60.
+^ Pembrokeshire County Council (June 2006). "Supplementary Planning Guidance: Low Impact Development  Making a Positive Contribution". Retrieved 7 March 2013.
+^ Welsh Assembly Government (July 2010). "Technical Advice Note 6: Planning for Sustainable Rural Communities  Section 4.15 One Planet Development" (PDF). Retrieved 6 March 2013.
+^ Welsh Government (January 2011). "Technical Advice Note 6  Planning for Sustainable Rural Communities (2010)". Retrieved 6 March 2013.
+^ "One Planet Council". Retrieved 7 March 2015.
+^ "One Planet Council: Nant-y-Cwm - a first for Wales". Retrieved 7 March 2015.
+^ "Owners of Pembrokeshire's threatened hobbit house plan one final throw of the dice to save their home". Wales Online. 14 May 2015. Retrieved 15 May 2015.
+Further reading[edit]
+Bird, Chris. Local Sustainable Homes  How to make them happen in your community. Green Books, 2010 [1] ISBN 9781900322768
+Cotterell, Jane & Dadeby, Adam. The Passivhaus Handbook: A practical guide to constructing and retrofitting buildings for ultra-low-energy performance. Green Books, 2012. [2] ISBN 9780857840196
+Evans, Ianto; Smith, Michael; Smiley, Linda. The Hand Sculpted House: A Practical and Philosophical Guide to Building a Cob Cottage. Green Books, 2010 [3] ISBN 9781890132347
+Jones, Barbara. Building with Straw Bales: A Practical Guide for the UK and Ireland. Green Books, 2009. [4] ISBN 9781900322515
+Wimbush, Paul. Experience, Implications and Potential of Low Impact Development In Wales. University of Wales, Newport [5]
+Wrench, Tony. Building a Low Impact Roundhouse. Permanent Publications, 2007. [6] ISBN 9781856230421
+External links[edit]
+Low-impact developments[edit]
+The Landmatters co-operative, Devon
+LILAC  Low-Impact Living Affordable Community, Yorkshire
+Tir Penrhos Isaf, Permaculture holding, Gwyedd, Wales
+Simon Dale's houses, Wales
+Steward Community Woodland, Devon
+Cae Mabon, Eco Retreat Centre, Snowdonia
+Keveral Farm, Cornwall
+Down to Earth, Gower
+LAND Centres, Permaculture Association  a list of publicly accessible land-based Permaculture projects in the UK
+A map of LAND Centres in the UK  maintained by Permaculture Magazine
+Supporting organisations and resources[edit]
+The Ecological Land Co-operative  supporting and enabling low-impact development in the UK
+LILI  The Low Impact Living Initiative  a non-profit network of those involved with LID
+One Wales: One Planet: The Sustainable Development Scheme of the Welsh Assembly Government
+Does Welsh National Planning Policy effectively address Low Impact Development in the open countryside?  Paper by Louise Kulbicki
+The Role of Scientific Knowledge and Other knowledge Types in Grassroots Sustainability Initiatives: An Exploratory Case Study of a Low Impact Development Eco-village in Wales  MSc thesis by Karolina Rietzler
+The Land Magazine
+Permaculture Magazine
+Living in the Future  50-minute documentary film telling the story of the "UK's first planned ecoVillage, Lammas."
+Living in the Future website  A video series about Ecovillages  community and low impact living
+v
+t
+e
+Simple living
+Practices
+Barter
+DIY ethic
+Downshifting
+Dry toilet
+Forest gardening
+Freeganism
+Frugality
+Gift economy
+Intentional community
+Local currency
+Low-impact development
+Minimalism
+No frills
+Off-the-grid
+Permaculture
+Self-sufficiency
+Subsistence agriculture
+Sustainable living
+Sustainable sanitation
+Veganism
+Vegetarianism
+War tax resistance
+WWOOF
+Religious and spiritual
+Asceticism
+Aparigraha
+Cynicism
+Detachment
+Distributism
+Jesus movement
+Mendicant
+Mindfulness
+Monasticism
+New Monasticism
+Plain dress
+Plain people
+Quakers
+Rastafari movement
+Temperance
+Testimony of simplicity
+Tolstoyan movement
+Secular movements
+Back-to-the-land
+Car-free
+Compassionate living
+Environmental
+Hippie
+Slow
+Small house
+Transition town
+Open Source Ecology
+Notable writers
+Wendell Berry
+Ernest Callenbach
+G.K. Chesterton
+Duane Elgin
+Mahatma Gandhi
+Richard Gregg
+Tom Hodgkinson
+Harlan Hubbard
+Satish Kumar
+Helen Nearing
+Scott Nearing
+Peace Pilgrim
+Vicki Robin
+Nick Rosen
+Dugald Semple
+E. F. Schumacher
+Henry David Thoreau
+Leo Tolstoy
+Modern-day adherents
+Mark Boyle
+Jim Merkel
+Suelo
+Thomas
+Media
+"Anekdote zur Senkung der Arbeitsmoral"
+Escape from Affluenza
+The Good Life
+The Moon and the Sledgehammer
+Mother Earth News
+The Power of Half
+Small Is Beautiful
+Walden
+Related topics
+Affluenza
+Agrarianism
+Anarcho-primitivism
+Anti-consumerism
+Appropriate technology
+Bohemianism
+Deep ecology
+Degrowth
+Ecological footprint
+Food miles
+Green anarchism
+The good life
+Global warming
+Hedonophobia
+Intentional living
+Itinerant
+Low-technology
+Nonviolence
+Peak oil
+Sustainability
+Worklife balance
+v
+t
+e
+Sustainability
+Principles
+Ecological modernization
+Environmentalism
+Human impact on the environment
+Planetary boundaries
+Social sustainability
+Stewardship
+Sustainable development
+Consumption
+Anthropization
+Anti-consumerism
+Ecological footprint
+Ethical
+Over-consumption
+Simple living
+Sustainability advertising
+Sustainability brand
+Sustainability marketing myopia
+Sustainable
+Systemic change resistance
+Tragedy of the commons
+Population
+Birth control
+Family planning
+Control
+Overpopulation
+Zero growth
+Technology
+Appropriate
+Environmental
+Sustainable
+Biodiversity
+Biosecurity
+Biosphere
+Conservation biology
+Deep ecology
+Endangered species
+Holocene extinction
+Invasive species
+Energy
+Carbon footprint
+Climate change mitigation
+Conservation
+Descent
+Efficiency
+Emissions trading
+Fossil-fuel phase-out
+Peak oil
+Renewable
+Energy poverty
+Food
+Forest gardening
+Local
+Permaculture
+Security
+Sustainable agriculture
+Sustainable fishery
+Urban horticulture
+Water
+Conservation
+Crisis
+Efficiency
+Footprint
+Accountability
+Sustainability accounting
+Sustainability measurement
+Sustainability metrics and indices
+Sustainability reporting
+Standards and certification
+Sustainable yield
+Applications
+Advertising
+Architecture
+Art
+Business
+City
+College programs
+Community
+Design
+Ecovillage
+Education for Sustainable Development
+Fashion
+Gardening
+Geopark
+Green marketing
+Industries
+Landscape architecture
+Living
+Low-impact development
+Sustainable market
+Organizations
+Packaging
+Practices
+Procurement
+Tourism
+Transport
+Urban drainage systems
+Urban infrastructure
+Urbanism
+Management
+Environmental
+Fisheries
+Forest
+Materials
+Natural resource
+Planetary
+Waste
+Agreements
+UN Conference on the Human Environment (Stockholm 1972)
+Brundtlandt Commission Report (1983)
+Our Common Future (1987)
+Earth Summit (1992)
+Rio Declaration on Environment and Development
+Agenda 21 (1992)
+Convention on Biological Diversity (1992)
+ICPD Programme of Action (1994)
+Earth Charter
+Lisbon Principles
+UN Millennium Declaration (2000)
+Earth Summit 2002 (Rio+10, Johannesburg)
+United Nations Conference on Sustainable Development (Rio+20, 2012)
+Sustainable Development Goals
+Category
+Lists
+Outline
+Portal
+Science
+Studies
+Degrees
+Saved in parser cache with key enwiki:pcache:idhash:38731998-0!*!0!!en!4!* and timestamp 20161113133730 and revision id 749280204
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Low-impact_development_(UK)&oldid=749280204"
+Categories: Simple livingSustainable architectureLow-energy building in the United KingdomHousing in EnglandMixed-use developments in the United KingdomEcovillagesEnvironmental impact in the United KingdomEnvironmental mitigationHidden categories: Use dmy dates from April 2013Pages using ISBN magic links

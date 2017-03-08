@@ -1,0 +1,456 @@
+Utilitypole
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Utility pole supporting wires for electrical power distribution, coaxial cable for cable television, and telephone cable. A pair of shoes can be seen hanging from the wires (center-left, far right).
+A utility pole is a column or post used to support overhead power lines and various other public utilities, such as cable, fibre optic cable, and related equipment such as transformers and street lights. It can be referred to as a transmission pole, telephone pole, telecommunication pole, power pole, hydro pole,[1] telegraph pole, or telegraph post, depending on its application. A stobie pole is a multi-purpose pole made of two steel joists held apart by a slab of concrete in the middle, generally found in South Australia.
+Electrical wires and cables are routed overhead on utility poles as an inexpensive way to keep them insulated from the ground and out of the way of people and vehicles. Utility poles can be made of wood, metal, concrete, or composites like fiberglass. They are used for two different types of power lines; subtransmission lines which carry higher voltage power between substations, and distribution lines which distribute lower voltage power to customers.
+Utility poles were first used in the mid-19th century with telegraph systems, starting with Samuel Morse who attempted to bury a line between Baltimore and Washington, D.C., but moved it aboveground when this system proved faulty. Today, underground distribution lines are increasingly used as an alternative to utility poles in residential neighborhoods, due to poles' perceived ugliness.
+Play media
+(video) Three aerial work platform trucks work together on utility poles, in Bunky, Japan.
+Contents
+1 Use
+2 Description
+2.1 Pole materials
+2.2 Power distribution wires and equipment
+2.3 Communication cables
+2.4 Other equipment
+3 Pole attachment hardware
+3.1 Attachment hardware by pole type
+4 Access
+5 Dead-end poles
+6 History
+7 Markings
+7.1 Pole brandings
+7.2 Coordinates on pole tags
+8 Pole route
+9 Environmental impact
+10 See also
+11 References
+12 External links
+Use[edit]
+Utility poles are commonly used to carry two types of electric power lines:[2] distribution lines (or "feeders") and subtransmission lines. Distribution lines carry power from local substations to customers. They generally carry voltages from 4.6 to 33 kilovolts (kV) for distances up to 30 miles, and include transformers to step the voltage down from the primary voltage to the lower secondary voltage used by the customer. A service drop carries this lower voltage to the customer's premises.
+Subtransmission lines carry higher voltage power from regional substations to local substations. They usually carry 46 kV, 69 kV, or 115 kV for distances up to 60 miles. 230kV lines are often supported on H-shaped towers made with two or three poles. Transmission lines carrying voltages of above 230kV are usually not supported by poles, but by metal pylons (known as transmission towers in the US).
+For economic or practical reasons, such as to save space in urban areas, a distribution line is often carried on the same poles as a subtransmission line but mounted under the higher voltage lines; a practice called "underbuild". Telecommunication cables are usually carried on the same poles that support power lines; poles shared in this fashion are known as joint-use poles, but may have their own dedicated poles.
+Description[edit]
+The standard utility pole in the United States is about 40ft (12m) long and is buried about 6ft (2m) in the ground.[3] However, poles can reach heights of 120ft (37m) or more to satisfy clearance requirements. They are typically spaced about 125ft (38m) apart in urban areas, or about 300ft (91m) in rural areas, but distances vary widely based on terrain. Joint-use poles are usually owned by one utility, which leases space on it for other cables. In the United States, the National Electrical Safety Code, published by the Institute of Electrical and Electronics Engineers (IEEE) (not to be confused with the National Electrical Code published by the National Fire Protection Association [NFPA]), sets the standards for construction and maintenance of utility poles and their equipment.
+Pole materials[edit]
+Steel utility pole in Darwin, Australia.
+Most utility poles are made of wood, pressure-treated with some type of preservative for protection against rot, fungi and insects. Southern yellow pine is the most widely used species in the United States; however, many species of long straight trees are used to make utility poles, including Douglas fir, jack pine, lodgepole pine, western red cedar, and Pacific silver fir.
+Traditionally, the preservative used was creosote, but due to environmental concerns, alternatives such as pentachlorophenol, copper naphthenate and borates are becoming widespread in the United States. In the United States, standards for wood preservative materials and wood preservation processes, along with test criteria, are set by ANSI, ASTM, and American Wood Protection Association (AWPA) specifications. Despite the preservatives, wood poles decay and have a life of approximately 25 to 50 years depending on climate and soil conditions, therefore requiring regular inspection and remedial preservative treatments.[4][5][6] Woodpecker damage to wood poles is the most significant cause of pole deterioration in the U.S.[7]
+Other common utility pole materials are steel and concrete, with composites (such as fibreglass) also becoming more prevalent. One particular patented utility pole variant used in Australia is the Stobie pole, made up of two vertical steel posts with a slab of concrete between them.
+In southern Switzerland along various lakes, telephone poles are made of granite. Starting in the early 1900s, these 18-foot (5 m) poles were originally used for telegraph wires and later for telephone wires. Because they are made of granite, the poles last indefinitely.[8]
+Standard utility pole in the United States. Electrical wires and transformer seen on top and cable/telephone wires lower down, demonstrating the worker safety zone for telephone/cable company workers.
+Power distribution wires and equipment[edit]
+On poles carrying both, the electric power distribution lines and associated equipment are mounted at the top of the pole above the communication cables, for safety. The vertical space on the pole reserved for this equipment is called the supply space.[3] The wires themselves are usually uninsulated, and supported by insulators, commonly mounted on a horizontal crossarm. Power is transmitted using the three-phase system, with three wires, or phases, labeled "A", "B", and "C".
+Subtransmission lines comprise only these 3 wires, plus sometimes an overhead ground wire (OGW), also called a "static line" or a "neutral", suspended above them. The OGW acts like a lightning rod, providing a low resistance path to ground thus protecting the phase conductors from lightning.
+A joint-use utility pole in China.
+Distribution lines use two systems, either grounded-wye ("Y" on electrical schematics) or delta (Greek letter "" on electrical schematics). A delta system requires only a conductor for each of the three phases. A grounded-wye system requires a fourth conductor, the neutral, whose source is the center of the "Y" and is grounded. However, "spur lines" branching off the main line to provide power to side streets often carry only one or two phase wires, plus the neutral. A wide range of standard distribution voltages are used, from 2,400 V to 34,500 V. On poles near a service drop, there is a cylindrical pole-mounted step-down transformer to provide the required mains voltage, usually 240/120 V split-phase for residential and light commercial service in the United States. The transformer's primary is connected to the distribution line through protective devices called fuse cutouts. In the event of an overload, the fuse melts and the device pivots open to provide a visual indication of the problem. They can also be opened manually by linemen using a long insulated rod called a hot stick to disconnect the transformer from the line.
+Single-phase distribution transformer with center-tapped secondary for "split-phase" service. Note use of a grounded conductor as one leg of the primary feeder.
+The pole may be grounded with a heavy bare copper or copper-clad steel wire running down the pole, attached to the metal pin supporting each insulator, and at the bottom connected to a metal rod driven into the ground. Some countries ground every pole while others only ground every fifth pole and any pole with a transformer on it. This provides a path for leakage currents across the surface of the insulators to get to ground, preventing the current from flowing through the wooden pole which could cause a fire or shock hazard.[2][3] It provides similar protection in case of flashovers and lightning strikes. A surge arrester (also called a lightning arrester) may also be installed between the line (ahead of the cutout) and the ground wire for lightning protection. The purpose of the device is to conduct extremely high voltages present on the line directly to ground.
+If uninsulated conductors touch due to wind or fallen trees, the resultant sparks can start wildfires. To reduce this problem, aerial bundled conductors are being introduced.
+Communication cables[edit]
+The communications cables are attached below the electric power lines, in a vertical space along the pole designated the communications space.[3] The communications space is separated from the lowest electrical conductor by the communication worker safety zone, which provides room for workers to maneuver safely while servicing the communication cables, avoiding contact with the power lines.[3]
+The most common communication cables found on utility poles are copper or fibre optic cable (FOC) for telephone lines and coaxial cable for cable television (CATV). Coaxial or optical fibre cables linking computer networks are also increasingly found on poles in urban areas. The cable linking the telephone exchange to local customers is a thick cable lashed to a thin supporting cable, containing hundreds of twisted pair subscriber lines. Each twisted pair line provides a single telephone circuit or local loop to a customer. There may also be fibre optic cables interconnecting telephone exchanges. Like electrical distribution lines, communication cables connect to service drops when used to provide local service to customers.
+Other equipment[edit]
+Utility poles may also carry other equipment such as street lights, supports for traffic lights and overhead electric trolley wires, and cellular network antennas. They can also carry fixtures and decorations specific for certain holidays or events specific to the city where they are located.
+Solar panels mounted on utility poles may power auxiliary equipment where the expense of a power line connection is unwanted.
+Streetlights and holiday fixtures are powered directly from secondary distribution.
+Pole attachment hardware[edit]
+Standard arrangement for telephone poles
+The primary purpose of pole attachment hardware is to secure the cable and associated aerial plant facilities to poles and to help facilitate necessary plant rearrangements. An aerial plant network requires high-quality reliable hardware to
+Structurally support the distribution cable plant
+Provide directional guying to accommodate lateral stresses created on the pole by pole line configurations and pole loading configuration
+Provide the physical support and protection for drop cable plant from the pole to the customer premises
+Transition cable plant from the aerial network to underground and buried plant
+Provide the means for safe and effective grounding, bonding, and isolation connections for the metallic and dielectric components of the network.
+Functional performance requirements common to pole line hardware for utility poles made of wood, steel, concrete, or Fiber-Reinforced Composite (FRC) materials are contained in Telcordia GR-3174, Generic Requirements for Hardware Attachments for Utility Poles.[9]
+Attachment hardware by pole type[edit]
+Wood poles
+The traditional wood pole material provides great flexibility during placement of hardware and cable apparatus. Holes are easily drilled to fit the exact hardware needs and requirements. In addition, fasteners such as lags and screws are easily applied to wood structures to support outside plant (OSP) apparatus.
+Non-wood poles
+There are three main non-wood pole materials and structures on which the attachment hardware may be mounted: concrete, steel, and fiber-reinforced composite (FRC). Each material has intrinsic characteristics that need to be considered during the design and manufacture of the attachment hardware.
+Concrete poles
+The most widespread use of concrete poles is in marine environments and coastal zones where excellent corrosion resistance is required to reduce the impact of sea water, salt fog, and corrosive soil conditions (e.g., marsh). Their heavy weight also helps the concrete poles resist the high winds possible in coastal areas.
+The various designs for concrete poles include tapered structures and round poles made of solid concrete; pre-stressed concrete (spun-cast or statically cast); and a hybrid of concrete and steel.
+The drilling of installed concrete poles is not feasible. Users may wish to have the attachment hardware cast into the concrete during the pole manufacture. As a result of these operational difficulties, banded hardware has become the more popular means to attach cable plant to concrete poles.
+Design criteria and requirements for concrete poles can be derived from various industry documents including, but not limited to, ASCE-111, ACI-318, ASTM C935, and ASTM C1089.
+Steel poles
+Steel poles can provide advantages for high-voltage lines, where taller poles are required for enhanced clearances and longer span requirements. Tubular steel poles are typically made from 11-gauge galvanized steel, with thicker 10- or 7-gauge materials used for some taller poles because of their higher strength and rigidity. For tall tower-type structures, 5-gauge materials are used.
+Although steel poles can be drilled on-site with a annular drill bit or standard twist drill, it is not a recommended practice. As with concrete poles, bolt holes could be built into the steel pole during manufacture for use as general attachment points or places for steps to be bolted into the pole.
+Welding of attachment hardware or attachment ledges to steel poles may be a feasible alternate approach to help provide reliable attachment points. However, operational and practical hazards of welding in the field may make this process undesirable or uneconomical.
+Steel poles should meet industry specifications such as: TIA/EIA-222-G, Structural Standard for Antenna Supporting Structures and Antennas (current); TIA/EIA-222; Structural Standards for Steel; and TIA/EIA-RS-222, or an equivalent requirement set to help ensure a robust and good quality pole is being used.
+Fiber-reinforced composite (FRC) poles
+FRC poles cover a family of pole materials that combine fiberglass (fiber) strength members with a cross-linked polyester resin and a variety of chemical additives to produce a lightweight, weather-resistant structure. FRC poles are hollow and similar to the tubular steel poles, with a typical wall thickness of 1/4 to 1/2 inch with an outer polyurethane coating that is ~0.002-inch thin.
+As with all the other non-wood poles, FRC poles cannot be mounted with the traditional climbing hardware of hooks and gaffs. FRC poles can be pre-drilled by the manufacturer, or holes can be drilled on site. Attachments using lag bolts, teeth, nails, and staples are unacceptable for FRC poles. Through-bolts are used instead of lag bolts for maximum bonding to the pole and to avoid loosening of hardware.
+The relevant industry documents covering FRC poles include: ASTM D4923, ANSI C136.20, OPCS-03-02, and Telcordia GR-3159, Generic Requirements for Fiber-Reinforced Composite (FRC), Concrete, and Steel Utility Poles.[10]
+Access[edit]
+In some countries, such as the United Kingdom, utility poles have sets of brackets arranged in a standard pattern up the pole to act as hand and foot holds so that maintenance and repair workers can climb the pole to work on the lines. In the United States, such steps have been determined to be a public hazard and are no longer allowed on new poles.[citation needed] Linemen may use climbing spikes called gaffs to ascend wooden poles without steps on them. In the UK, boots fitted with steel loops that go around the pole (known as "Scandinavian Climbers") are also used for climbing poles. In the US, linemen use bucket trucks for the vast majority of poles that are accessible by vehicle.
+Dead-end poles[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2012) (Learn how and when to remove this template message)
+Example of dead-end riser poles
+The poles at the end of a straight section of utility line where the line ends or angles off in another direction are called dead-end poles in the United States. Elsewhere they may be referred to as anchor or termination poles. These must carry the lateral tension of the long straight sections of wire. They are usually made with heavier construction. The power lines are attached to the pole by horizontal strain insulators, either placed on crossarms (which are either doubled, tripled, or replaced with a steel crossarm, to provide more resistance to the tension forces) or attached directly to the pole itself.
+Dead-end and other poles that support lateral loads have guy-wires to support them. The guys always have strain insulators inserted in their length to prevent any high voltages caused by electrical faults from reaching the lower portion of the cable that is accessible by the public. In populated areas, guy wires are often encased in a yellow plastic or wood tube reflector attached to their lower end, so that they can be seen more easily, reducing the chance of people and animals walking into them or vehicles crashing into them.
+Another means of providing support for lateral loads is a push brace pole, a second shorter pole that is attached to the side of the first and runs at an angle to the ground. If there is no space for a lateral support, a stronger pole, e.g. a construction of concrete or iron, is used.
+History[edit]
+In 1844, the United States Congress granted Samuel Morse $30,000 to build a 40-mile telegraph line between Baltimore, Maryland and Washington, D.C. Morse began by having a lead-sheathed cable made. After laying seven miles underground, he tested it. He found so many faults with this system that he dug up his cable, stripped off its sheath, bought poles and strung his wires overhead. On February 7, 1844, Morse inserted the following advertisement in the Washington newspaper: "Sealed proposals will be received by the undersigned for furnishing 700 straight and sound chestnut posts with the bark on and of the following dimensions to wit: 'Each post must not be less than eight inches in diameter at the butt and tapering to five or six inches at the top. Six hundred and eighty of said posts to be 24 feet in length, and 20 of them 30 feet in length.'"
+One of the early Bell System lines was the Washington DCNorfolk line which was, for the most part, square-sawn tapered poles of yellow pine probably treated to refusal with creosote. "Treated to refusal" means that the manufacturer forces preservatives into the wood, until it refuses to accept more, but performance is not guaranteed.[11] Some of these were still in service after 80 years.[12] The building of pole lines was resisted in some urban areas in the late 19th century,[13] and political pressure for undergrounding remains powerful in many countries.
+In Eastern Europe, Russia, and third world countries, many utility poles still carry bare communication wires mounted on insulators not only along railway lines, but also along roads and sometimes even in urban areas. Errant traffic being uncommon on railways, their poles are usually less tall. In the United States electricity is predominately carried on unshielded aluminum conductors wound around a solid steel core and affixed to rated insulators made from glass, ceramic, or poly. Telephone, CATV, and fibre optic cables are generally attached directly to the pole without insulators.
+In the United Kingdom, much of the rural electricity distribution system is carried on wooden poles. These normally carry electricity at 11 or 33 kV (three phases) from 132 kV substations supplied from pylons to distribution substations or pole-mounted transformers. Wooden poles have been used for 132kv for a number of years from the early 1980s one is called the trident they are usually used on short sections, though the line from Melbourne, Cambs to near Buntingford, Herts is quite long. The conductors on these are bare metal connected to the posts by insulators. Wood poles can also be used for low voltage distribution to customers.
+Poles in Ottawa, Canada.
+Today, utility poles may hold much more than the uninsulated copper wire that they originally supported. Thicker cables holding many twisted pair, coaxial cable, or even fibre-optic, may be carried. Simple analogue repeaters or other outside plant equipment have long been mounted against poles, and often new digital equipment for multiplexing/demultiplexing or digital repeaters may now be seen. In many places, as seen in the illustration, providers of electricity, television, telephone, street light, traffic signal and other services share poles, either in joint ownership or by renting space to each other. In the United States, ANSI standard 05.1.2008[14] governs wood pole sizes and strength loading. Utilities that fall under the Rural Electrification Act must also follow the guidelines set forth in RUS Bulletin 1724E-150[15] (from the US Department of Agriculture) for pole strength and loading.
+Steel utility poles are becoming more prevalent in the United States thanks to improvements in engineering and corrosion prevention coupled with lowered production costs. However, premature failure due to corrosion is a concern when compared to wood.[16] The National Association of Corrosion Engineers or NACE is developing inspection, maintenance, and prevention procedures similar to those used on wood utility poles to identify and prevent decay.
+Markings[edit]
+Pole brandings[edit]
+Markings on a BT post
+British Telecom posts are usually marked with the following information:[citation needed]
+This list is incomplete; you can help by expanding it.
+'BT' - to mark it as a British Telecom UK Pole (This can also be PO (Post Office) or GPO (General Post Office) depending on the age of the pole)
+a horizontal line marking 3 metres from the bottom of the pole
+the pole length and size (e.g. 9L implies a 9 metres long, light pole)
+Other poles in use are 7, 10, 11, 13 and 15 metre, as well as 'M' (Medium) and 'S' (Stout)
+the year of treatment and therefore generally the year of installation (e.g. the pole in the picture was treated in 2003)
+the batch and type of wood used
+The date on the pole is applied by the manufacturer and refers to the date the pole was "preserved" (treated to withstand the elements).
+Brandings on a pole in Salisbury, Maryland, United States.
+In the United States, utility poles are marked with information concerning the manufacturer, pole height, ANSI strength class, wood species, original preservative, and year manufactured[17] (vintage) in accordance with ANSI standard O5.1.2008.[18] This is called branding, as it is usually burned into the surface; the resulting mark is sometimes called the "birth mark". Although the position of the brand is determined by ANSI specification, it is essentially just below "eye level" after installation. A rule of thumb for understanding a pole's brand is the manufacturer's name or logo at the top with a 2-digit date beneath (sometimes preceded by a month).
+Below the date is a 2-character wood species abbreviation and 1- to 3-character preservative. Some wood species may be "SP" for southern pine, "WC" for western cedar, and "DF" for Douglas fir. Common preservative abbreviations are "C" for creosote, "P" for pentachlorophenol, and "SK" for chromated copper arsenate (originally referred to salts type K). The next line of the brand is usually the pole's ANSI class, used to determine maximum load; this number ranges from 10 to H6 with a smaller number meaning higher strength. The pole's height (from butt to top) in 5-foot increments is usually to the right of the class separated by a hyphen, although it is not uncommon for older brands to have the height on a separate line. The pole brand is sometimes an aluminum tag nailed in place.
+Before the practice of branding, many utilities would set a 2- to 4-digit date nail into the pole upon installation. The use of date nails went out of favor during World War II due to war shortages but is still used by a few utilities. These nails are considered valuable to collectors, with older dates being more valuable, and unique markings such as the utilities' name also increasing the value. However, regardless of the value to collectors, all attachments on a utility pole are the property of the utility company, and unauthorized removal is a felony.[citation needed]
+Coordinates on pole tags[edit]
+The tags on a subtransmission pole located in Crisfield, Maryland, United States. The faded tag says "733".
+A practice in some areas is to place poles on coordinates upon a grid. The pole at right is located in a rural area of the state of Maryland in the United States. The lower two tags are the "X" and "Y" coordinates along said grid. Just as in a coordinate plane used in geometry, X increases as one travels east and Y increases as one travels north. The upper two tags are specific to the subtransmission section of the pole; the first refers to the route number, the second to the specific pole along the route.
+However, not all power lines follow the road. In the British region of East Anglia, EDF Energy Networks often add the Ordnance Survey Grid Reference coordinates of the pole or substation to the name sign.
+In some areas, utility pole name plates may provide valuable coordinate information; a poor man's GPS.[19][20][21]
+A utility pole replacement in Saugus, Massachusetts, United States.
+Pole route[edit]
+Telegraph pole with spars, insulators and open wires on a now decommissioned Railway Pole Route, Eccles Road, Norfolk, United Kingdom.
+A pole route (or pole line in the US) is a telephone link or electrical power line between two or more locations by way of multiple uninsulated wires suspended between wooden utility poles. This method of link is common especially in rural areas where burying the cables would be expensive. Another situation in which pole routes were extensively used were on the railways to link signal boxes. Traditionally, prior to around 1965, pole routes were built with open wires along non-electrical operated railways; this necessitated insulation when the wire passed over the pole, thus preventing the signal from becoming attenuated.
+At electrical operated railways, pole routes were usually not built as too much jamming from the overhead wire would occur. To accomplish this, cables were separated using spars with insulators spaced along them; in general four insulators were used per spar. Only one such pole route still exists on the UK rail network, in the highlands of Scotland. There was also a long section in place between Wymondham, Norfolk and Brandon in Suffolk, United Kingdom; however, this was de-wired and removed during March 2009.
+A railway telegraph pole beside a railway bridge on the former railway line between Portadown and Dungannon in Northern Ireland.
+Environmental impact[edit]
+Utility pole Steps of Antti by Antti Nurmesniemi in Helsinki, Finland.
+This section needs expansion. You can help by adding to it. (August 2012)
+White storks (Ciconia ciconia) in their nest on a utility pole in Romania
+Utility poles are used by birds for nesting and to rest on. Utility poles and related structures are regarded by some to be a form of visual pollution. Many lines are placed underground for this reason, in places of high population density or scenic beauty that justify the expense. Architects design some pylons to be pretty, thus avoiding visual pollution.
+Some chemicals used to preserve wood poles including creosote and pentachlorophenol are toxic and have been found in the environment.
+Historically, pole-mounted transformers were filled with a polychlorinated biphenyl (PCB) liquid. PCBs persist in the environment and have adverse effects on animals.
+See also[edit]
+Public utility
+Caber toss, a sport involving the throwing of large poles.
+Oppenheimer pole
+References[edit]
+^ Barber, Katherine, ed. (1998). The Canadian Oxford dictionary. Toronto; New York: Oxford University Press. p.695. ISBN0-19-541120-X.
+^ a b Grigsby, Leonard L. (2001). The Electric Power Engineering Handbook. USA: CRC Press. ISBN0-8493-8578-4.
+^ a b c d e "What's on a utility pole?". Consumer Assistance. Florida Public Service Commission. 2008. Retrieved 2008-10-24.
+^ http://www.pmcpole.com/cms/AWPA_poleMaintenance_paper.pdf
+^ http://www.pmcpole.com/cms/groundlineTreatmentSP.pdf
+^ http://www.pmcpole.com/cms/rus_bulletin_1730B_121.pdf
+^ Graham, Rex (July 24, 2014). "Resilient Woodpeckers hard to knock  or stop". Birdsnews.com. Retrieved July 25, 2014.
+^ "Granite Telegraph Poles in Switzerland." Popular Mechanics, December 1911, p. 851.
+^ GR-3174, Generic Requirements for Hardware Attachments for Utility Poles
+^ GR-3159, Generic Requirements for Fiber-Reinforced Composite (FRC), Concrete, and Steel Utility Poles
+^ ""Treated to refusal" does not meet the requirements of the international building codes" (PDF). Western Wood Preserver's Institute. Retrieved October 13, 2016.
+^ James A. Taylor Timber Products Specialist Rural Electrification Administration U.S. Department of Agriculture Washington, D.C. (1978). "Pole Maintenance-Its Need and Its Effectiveness" (PDF). American Wood Preservers' Association.
+^ Vieth, Erich (2 February 2009). "The American War against Telephone Poles". Retrieved 2 February 2015.
+^ Standard specifications for wood poles US Department of Agriculture, Forest Products Laboratory
+^ http://www.usda.gov/rus/electric/bulletins.htm
+^ http://www.pmcpole.com/cms/CorrosionManagementDocument.pdf
+^ http://www.pmcpole.com/cms/AWPAPoleBrands.pdf
+^ http://www.ansi.org/
+^ http://wiki.osgeo.org/wiki/Taiwan_Power_Company_grid
+^ "Understanding coordinates on utility pole numbers". A Taiwan Power Company example; zh:
+^ "How to read those little metal plates on Hydro pol". A British Columbia, Canada example;
+External links[edit]
+Wikimedia Commons has media related to Utility pole.
+Article on Utility-Telecom Joint Use of Poles
+Lots of photographs
+Photographs of Various U.S. Utility Poles
+Hungarian Telephone Poles
+Utility Poles @ Ann's Garden
+Wood Utility Pole Inspection Methods
+Wood Utility Pole Life Cycle
+A photo collection of pole routes throughout the UK and abroad
+American Wood Protection Association
+USDA Rural Development's Electric Programs
+Performance criteria and preservative requirements for wooden utility poles
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+v
+t
+e
+Wood products
+Lumber/
+timber
+Batten
+Beam
+Bressummer
+Cruck
+Flitch beam
+Flooring
+Joist
+Lath
+Molding
+Panelling
+Plank
+Plate
+Post
+Purlin
+Rafter
+Railroad ties
+Reclaimed
+Shingle
+Siding
+Sill
+Stud
+Timber truss
+Treenail
+Truss
+Utility pole
+Engineered
+wood
+Glued laminated timber
+veneer
+LVL
+parallel strand
+I-joist
+Fiberboard
+hardboard
+Masonite
+MDF
+Oriented strand board
+Oriented structural straw board
+Particle board
+Plywood
+Structural insulated panel
+Wood-plastic composite
+lumber
+Fuelwood
+Charcoal
+biochar
+Firelog
+Firewood
+Pellet fuel
+Wood fuel
+Fibers
+Cardboard
+Corrugated fiberboard
+Paper
+Paperboard
+Pulp
+Pulpwood
+Rayon
+Derivatives
+Birch-tar
+Cellulose
+nano
+Hemicellulose
+Cellulosic ethanol
+Dyes
+Lignin
+Lye
+Methanol
+Pyroligneous acid
+Pine tar
+Pitch
+Sandalwood oil
+Tannin
+Wood gas
+By-products
+Barkdust
+Black liquor
+Ramial chipped wood
+Sawdust
+Tall oil
+Wood flour
+Wood wool
+Woodchips
+Historical
+Axe ties
+Clapboard
+Dugout canoe
+Potash
+Sawdust brandy
+Split-rail fence
+Tanbark
+Timber framing
+Wooden masts
+See also
+Biomass
+Certified wood
+Destructive distillation
+Dry distillation
+Engineered bamboo
+Forestry
+List of woods
+Mulch
+Non-timber forest products
+Papermaking
+Wood drying
+Wood preservation
+Wood processing
+Woodworking
+Forestry portal
+Trees portal
+Category
+Commons
+WikiProject Forestry
+Authority control
+NDL: 00561471
+NewPP limit report
+Parsed by mw1244
+Cached time: 20161118223129
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.292 seconds
+Real time usage: 0.390 seconds
+Preprocessor visited node count: 2135/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 75089/2097152 bytes
+Template argument size: 2668/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 6/500
+Lua time usage: 0.115/10.000 seconds
+Lua memory usage: 6 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+270.425
+1 - -total
+24.11%
+65.204
+1 - Template:Reflist
+21.70%
+58.677
+3 - Template:Citation_needed
+19.70%
+53.277
+3 - Template:Fix
+15.86%
+42.878
+3 - Template:Navbox
+12.70%
+34.344
+5 - Template:Convert
+9.82%
+26.544
+2 - Template:Cite_book
+9.32%
+25.199
+3 - Template:Delink
+9.27%
+25.063
+6 - Template:Category_handler
+8.55%
+23.127
+1 - Template:Wood_products
+Saved in parser cache with key enwiki:pcache:idhash:1324296-0!*!0!!en!4!* and timestamp 20161118223129 and revision id 744895757
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Utility_pole&oldid=744895757"
+Categories: Electric power distributionStreet furniturePylonsElectric power infrastructureTelephony equipmentTelecommunications equipmentTelecommunications infrastructureHidden categories: All articles with unsourced statementsArticles with unsourced statements from September 2012Articles needing additional references from August 2012All articles needing additional referencesArticles with unsourced statements from November 2010Incomplete lists from August 2008Articles with unsourced statements from November 2015Articles to be expanded from August 2012All articles to be expandedArticles using small message boxesCommons category with local link same as on WikidataArticles containing video clips

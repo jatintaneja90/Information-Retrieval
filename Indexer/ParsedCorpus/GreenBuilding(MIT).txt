@@ -1,0 +1,202 @@
+GreenBuilding(MIT)
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}See also: Campus of the Massachusetts Institute of Technology
+Green Building, Massachusetts Institute of Technology.
+The Cecil and Ida Green Building, also called the Green Building or Building 54, is an academic and research building at the Massachusetts Institute of Technology, Cambridge, Massachusetts, United States. It was designed by Araldo Cossutta and I. M. Pei.[1] Pei, among the world's most noted architects, had received his bachelor's degree from MIT in 1940. Principal donor Cecil Howard Green received a bachelor's degree and master's degree from MIT and was a co-founder of Texas Instruments.
+Contents
+1 Architecture
+2 Occupancy
+3 Problems
+4 Hacks
+4.1 Pumpkin Drop
+5 Art
+6 See also
+7 References
+8 External links
+Architecture[edit]
+The Green Building was constructed during 1962-1964, in reinforced concrete. It has 18 floors, equivalent to 21 stories or 295 feet (90m) tall, with a concrete facade that more or less matches the limestone and concrete of the older MIT buildings near it. The basement of the building is below sea level[citation needed] and connects to the MIT tunnel system. Three elevators operate in the Green Building. There are staircases at both the east and west sides, whose exterior facades present a vast windowless expanse relieved only by one-story tall concrete recessed panels. On the "LL" level (actually one story above ground level), is Room 54-100, a large lecture hall. The second floor formerly housed the Lindgren Library, part of MIT's library system, but this separate facility was consolidated into another library in 2009.
+The Green Building is the tallest building in Cambridge.[2][3] When it was built, there was a limit on the number of floors.[citation needed] Thus, it was designed to be on stilts, with the first occupied floor approximately 30 feet above grade in order to "circumvent" this law.[citation needed] The footprint of every floor measures only 60 by 120 feet (18 by 36m), which research groups quickly outgrew, forcing some of them to disperse elsewhere on campus.[4]
+The tower's height has some functional purpose, since its roof supports meteorological instruments and radio communications equipment, plus a white spherical radome enclosing long-distance weather radar apparatus. This technical equipment all requires a line-of-sight vantage point for optimum range and accuracy, and would have required construction of some kind of tower to function as intended. To minimize interference with radio signals, other buildings on MIT's central campus are less than half the height of the Green Building, and the dormitory towers of Eastgate, Westgate, and MacGregor House are at least 1500feet (450m) away.[5]
+Occupancy[edit]
+The Green Building is the main facility of the Department of Earth, Atmospheric, and Planetary Science (EAPS), also known as Course 12. The departmental headquarters is on the 9th floor of the building. The lower floors of the building contain the Planetary Science section. The middle floors have the Earth Science section (Geology, Geophysics, and Geochemistry). The upper floors house the Atmospheric Science section (which also includes Oceanography and Climatology).
+Problems[edit]
+When the Green Building was first opened, the isolated prominence of the building and its relative proximity to the Charles River basin increased wind speeds in the high open archway at its base, preventing people from entering or leaving the building through the hinged main doors on windy days, necessitating use of a tunnel connecting to the other buildings.[6] Large wood panels were temporarily erected in the open concourse to block the wind, and revolving doors were later installed at the ground floor entries to amend this problem somewhat.[6] Several windows cracked, and at least one large pane popped out on upper stories, at least in part due to the effects of wind, eventually requiring all the windows to be replaced.[6] A few years later, a similar-appearing problem was repeated in Boston's John Hancock Tower located in Back Bay across the river, a 60-story skyscraper which happened to be designed by the same architectural firm.
+It is incorrectly rumored that Alexander Calder's monumental sculpture The Big Sail, was situated in front of the building to deflect the high winds. The sculpture is located too far from the building entryway to have much effect on wind velocities there.[7]
+Hacks[edit]
+Because of its height and visibility from the Boston Back Bay neighborhood across the Charles River Basin, plus its rectangular grid of large 6-by-8-foot (1.8m 2.4m) upright rectangular single-pane windows forming a crude 9 x 18 dot-matrix display, the Green Building has been the site of many hacks or pranks.[8] In 1993, one widely viewed hack repurposed the nine top-floor windows as an enormous digital VU meter for the traditional Fourth of July concert of the Boston Pops orchestra.[9] Several other simpler hacks have used the entire window array for stationary displays; this practice is sufficiently commonplace to have acquired the term greenspeak[10][11] (which should not be confused with the famously obscure Delphic pronouncements[12][13] of former Federal Reserve Bank chairman Alan Greenspan).
+In September 2011, hackers installed 153 (= 9 x 17) custom-made wirelessly controlled color-changing high-power LED lights into every window above the first floor. They displayed a waving American flag throughout the evening of September 11, 2011 in remembrance of the September 11 attacks of 2001. For a short time in the early morning of September 12, the lights displayed a Tetris game, thus realizing a long-standing hack proposal, the "Holy Grail" of hacks. The display hardware had occasional glitches, and was removed as of September 13. The hardware and software designs were further developed and refined for better reliability. On April 20, 2012, MIT hackers successfully turned the Green Building into a huge, playable Tetris game, operated from a wireless control podium at a comfortable viewing distance in front of the building. Visitors to Campus Preview Weekend (a gathering for admitted prospective freshman students) were invited to play the game on the colossal 80-by-250-foot (24m 76m) display grid, which was claimed to be the second-largest full-color video display in the US.[14][15][16]
+Instead of a one-shot temporary installation, the hackers have designed and built a permanent facility that can be re-used repeatedly by the MIT community. An understanding has been reached with the Department of Earth, Atmospheric and Planetary Sciences (EAPS), which is headquartered in the Green Building, to allow the light display hardware to remain installed in each window. To avoid annoying the occupants and to allow late-working staff to "opt out", each light display is equipped with a manual override button, which will disable the pixel lighting for that window for several hours after it is pressed. In addition, the hackers have released Open Source software tools used to develop new display patterns, so that others can design and deploy new stationary or animated images, in cooperation with the hacker engineers.[14]
+On the night after the bombings of the Boston marathon of April 15, 2013, the Green Building lighting displayed an American flag pattern.[17][18] After the shooting death of MIT Campus Patrolman Sean Collier by the alleged bombers a few days later, a 250 foot (76m) black ribbon pattern was displayed in his memory.[17]
+As a prototype feasibility demonstration, the Tech Model Railroad Club (located in Building N52) had years earlier added a scale model of the Green Building to its HO scale model railroad layout. Passersby inside Building N52 can view the model building and railway layout through a large window and play a monochromatic version of Tetris via remote control, accompanied by authentic-sounding music, even when the facility is closed.[19]
+Other hacks utilize the height of the building, such as a 1974 failed attempt to operate a giant yoyo from the roof of the tower.[20][21] Launching of projectiles from the roof is strongly discouraged, due to the unpredictable high wind gusts, posing a serious danger to passersby, and residents of nearby East Campus dormitory.
+Pumpkin Drop[edit]
+At midnight on the last Saturday of October, 1West (the smallest hall in the East Campus dorm) drops a large number of pumpkins (up to the low hundreds) off the roof of the Green Building. Students come to watch, but the area around the foot of the building is quarantined off, to prevent anyone from being hit.[22][23][24][25]
+Art[edit]
+The Green Building faces McDermott Court (also known as the dot).[26] This grassy area is flanked by the 33-ton metal sculpture La Grande Voile (The Big Sail), one of Alexander Calder's "stabile" artworks.[27][28]
+In May 2011, a temporary artwork was installed in the arched "breezeway" at the base of the Green Building, to take advantage of its legendary wind gusts. Designed by Meejin Yoon, an Associate Professor of Architecture, Wind Screen was an array of wind-driven micro-turbine generators that would light up whenever there was enough air movement.[29] This installation was featured in the FAST (Festival of Art, Science, and Technology) celebration, part of the MIT 150 commemoration of MIT's 150th anniversary.
+On May 18th, 2013, a night-time projection on the radome on the rooftop of the Green Building by artist David Yann Robert beamed the image of Bengali polymath and biophysicist Sir Jagadish Chandra Bose during a lecture-performance on plant signaling and behavior.
+See also[edit]
+List of tallest buildings and structures in Cambridge, Massachusetts
+References[edit]
+^ Shrock, Robert Rakes (1982). Geology at MIT 1865-1965: A History of the First Hundred Years of Geology at Massachusetts Institute of Technology. MIT Press. p.166. ISBN9780262192118.
+^ Bushra B. Makiya (1999-10-05). "This Week in MIT History". The Tech. 119 (47). Retrieved 2014-05-29.
+^ "Tallest buildings in Cambridge". Emporis. Retrieved 2015-06-07.
+^ Simha, O. Robert (2001). "MIT Campus Planning 1960-2000: An Annotated Chronology". Cambridge, MA: MIT Office of the Executive Vice President: 3234. ISBN0262692945.
+^ "Welcome to the MIT Campus Map". MIT Campus Map. MIT. Retrieved 2011-05-12.
+^ a b c Interviewer: Susan Crowley (February 9, 2005). "William R. Dickson Oral History Project" (PDF) (Interview). MIT Institute Archives & Special Collection. Retrieved 2014-05-29.
+^ "List Curators Discuss Evolving Face of Public Art by Benjamin P. Gleitzman". The Tech. 126 (36). Sep 8, 2006. Retrieved 2014-05-29. Interview with curators Bill Arning and Patricia Fuller.
+^ "Hacks on The Green Building (54)". MIT IHFTP Hack Gallery. Retrieved 2011-05-08.
+^ "The Green Building Sound (VU) Meter". MIT IHTFP Hack Gallery. Retrieved 2011-05-08.
+^ Institute Historian T.F. Peterson (2011). Nightwork: a history of hacks and pranks at MIT (Revised 2011 ed.). Cambridge, Mass.: MIT Press / MIT Museum. p.78. ISBN978-0-262-51584-9. Greenspeak spoken here
+^ "Red Sox Greenspeak". MIT IHTFP Hack Gallery. Retrieved 2011-05-08.
+^ "Greenspeak". UVa Writing Program Instructor Site. University of Virginia. Retrieved 2011-05-08.
+^ "Greenspeak". FRB Dallas [website]. Federal Reserve Bank of Dallas. Retrieved 2011-05-08.
+^ a b Pourian, Jessica J. (May 1, 2012). "The 'holy grail' of hacks: The construction of one of the most anticipated hacks of all time". The Tech. 132 (22). Retrieved 2012-05-06.
+^ Parker, Brock (April 24, 2012). "Hackers convert MIT building in giant Tetris video game". Boston Globe. Retrieved 2012-05-06.
+^ "Tetris on the Green Building". MIT IHTFP Hack Gallery. Retrieved 2012-05-06.
+^ a b MIT News Office (April 21, 2013). "MIT's Green Building pays tribute to the week's events". MIT News Office. Retrieved 28 April 2013.
+^ Kennedy, Shred. "Famous MIT Green Building Displays American Flag Lights After Bombing". The Awesome Boston. The Awesome Boston. Retrieved 28 April 2013.
+^ "Green Building". Tmrc.mit.edu. Retrieved 2011-03-12.
+^ Moore, Barb (January 16, 1974). "Unusual Activities" (PDF). The Tech. 93 (56). p.3. Retrieved 2011-05-12.
+^ "Front page photo caption" (PDF). The Tech. 94 (5). February 22, 1974. pp.1, 4. Retrieved 2011-05-12.
+^ Lydia K. '14 (Oct 31, 2011). "Pumpkin Drop". MIT Admissions. Retrieved 2014-05-30.
+^ Michael C. '16 (Oct 28, 2012). "MIT PUMPKIN DROP 2012!". MIT Admissions. Retrieved 2014-05-30.
+^ Hao, Ziwei (2010-10-29). "How to get wicked this weekend". The Tech. 130 (49). Retrieved 2014-05-30.
+^ Jared L. Wong; Mark Fayngersh; Miho Kitagawa (2011-11-01). "Photo Gallery". The Tech. 131 (49). Retrieved 2014-05-30.
+^ Matthew Palmer (2000-04-28). "McDermott Building Plan Altered". The Tech. 170 (23). Retrieved 2009-01-19.
+^ "La Grande Voile (The Big Sail)". MIT List Visual Arts Center: Collections. MIT Council for the Arts. Retrieved 2011-05-12.
+^ "'The Big Sail (La Grande Voile)' by Alexander Calder". Virtual Globetrotting. 2007-05-10. Retrieved 2011-01-19.
+^ "Meejin Yoon: Wind Screen". Arts at MIT [website]. MIT Council for the Arts. Retrieved 2011-05-08.
+External links[edit]
+EAPS Website
+Photos of the Green Building
+Green Building at Structurae
+Coordinates: 422138N 710521W / 42.360431N 71.089109W / 42.360431; -71.089109
+v
+t
+e
+Massachusetts Institute of Technology
+Academics
+Academics
+School of Architecture and Planning
+School of Engineering
+School of Humanities, Arts, and Social Sciences
+School of Science
+MIT Sloan School of Management
+Division of Health Sciences and Technology
+OpenCourseWare
+Mathematics Department
+MIT-SUTD Collaboration
+Research
+Broad Institute
+Center for Information Systems Research
+Center for Theoretical Physics
+Computer Science and Artificial Intelligence Laboratory
+Koch Institute
+Laboratory for Electromagnetic and Electronic Systems
+Laboratory for Information and Decision Systems
+MIT Libraries
+MIT Lincoln Laboratory
+McGovern Institute
+Media Laboratory
+Picower Institute
+Plasma Science and Fusion Center
+Research Laboratory of Electronics
+MIT Senseable City Lab
+MIT Nuclear Reactor Lab
+Whitehead Institute
+MIT Center for International Studies
+Center for Bits and Atoms
+Institute for Medical Engineering and Science
+People
+Alumni
+Faculty
+Presidents
+Institute Professors
+William Barton Rogers
+Culture
+History
+List Visual Arts Center
+Traditions and activities
+MIT in popular culture
+MIT Press
+MIT Technology Review
+Athena
+Brass Rat
+Hacks
+MIT Science Fiction Society (MITSFS)
+The Tech
+Student Information Processing Board
+Tech Model Railroad Club
+Tech Squares
+MIT $100K
+Mystery Hunt
+Smoot
+LemelsonMIT Prize
+Campus
+Campus
+Building 20
+Chapel
+Fraternities and sororities
+Graduate residences
+Green Building
+Infinite Corridor
+Kresge Auditorium
+Libraries
+MIT Museum
+Police
+Stata Center
+Undergraduate residences
+Wiesner building
+Athletics
+Engineers
+NewPP limit report
+Parsed by mw1243
+Cached time: 20161117215345
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.365 seconds
+Preprocessor visited node count: 1741/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 71323/2097152 bytes
+Template argument size: 1587/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.171/10.000 seconds
+Lua memory usage: 6.7 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+316.336
+1 - -total
+45.97%
+145.407
+1 - Template:Reflist
+18.99%
+60.070
+3 - Template:Citation_needed
+17.35%
+54.892
+3 - Template:Fix
+13.27%
+41.975
+15 - Template:Cite_web
+10.53%
+33.319
+10 - Template:Cite_news
+9.00%
+28.462
+4 - Template:Convert
+8.92%
+28.223
+2 - Template:Cite_book
+8.34%
+26.378
+1 - Template:MIT
+8.18%
+25.866
+3 - Template:Delink
+Saved in parser cache with key enwiki:pcache:idhash:2621926-0!*!0!!en!4!* and timestamp 20161117215345 and revision id 747504401
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Green_Building_(MIT)&oldid=747504401"
+Categories: Buildings and structures completed in 1964Massachusetts Institute of Technology buildingsI. M. Pei buildingsHidden categories: All articles with unsourced statementsArticles with unsourced statements from January 2011Structurae ID not in WikidataCoordinates on Wikidata

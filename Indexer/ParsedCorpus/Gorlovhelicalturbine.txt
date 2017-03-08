@@ -1,0 +1,92 @@
+Gorlovhelicalturbine
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+quietrevolution QR5 wind turbine
+The Gorlov helical turbine (GHT) is a water turbine evolved from the Darrieus turbine design by altering it to have helical blades/foils. It was patented in a series of patents from September 19, 1995[1] to July 3, 2001[2] and won 2001 ASME Thomas A. Edison Patent Award. GHT was invented by Professor Alexander M. Gorlov of Northeastern University.
+A.M.Gorlov with his turbine.
+The physical principles of the GHT work[3] are the same as for its main prototype, the Darrieus turbine, and for the family of similar Vertical axis wind turbines which includes also Turby wind turbine Quietrevolution wind turbine Urban Green Energy. GHT, turby and quietrevolution solved pulsatory torque issues by using the helical twist of the blades.
+Contents
+1 Fluid performance
+2 Turbine axis-orientation
+3 Airfoil / hydrofoil
+4 Environmental issues
+5 How it works
+6 Commercial use
+7 See also
+8 References
+9 External links
+Fluid performance[edit]
+The term "foil" is used to describe the shape of the blade cross-section at a given point, with no distinction for the type of fluid, (thus referring to either an "airfoil" or "hydrofoil"). In the helical design, the blades curve around the axis, which has the effect of evenly distributing the foil sections throughout the rotation cycle, so there is always a foil section at every possible angle of attack. In this way, the sum of the lift and drag forces on each blade do not change abruptly with rotation angle. The turbine generates a smoother torque curve, so there is much less vibration and noise than in the Darrieus design. It also minimizes peak stresses in the structure and materials, and facilitates self-starting of the turbine. In testing environments the GHT has been observed to have up to 35% efficiency in energy capture reported by several groups.[4][5][6] "Among the other vertical-axis turbine systems, the Davis Hydro turbine, the EnCurrent turbine, and the Gorlov Helical turbine have all undergone scale testing at laboratory or sea. Overall, these technologies represent the current norm of tidal current development."[7]
+Turbine axis-orientation[edit]
+The main difference between the Gorlov helical turbine and conventional turbines is the orientation of the axis in relation to current flow. The GHT is a vertical-axis turbine which means the axis is positioned perpendicular to current flow, whereas traditional turbines are horizontal-axis turbines which means the axis is positioned parallel to the flow of the current. Fluid flows, such as wind, will naturally change direction, however they will still remain parallel to the ground. So in all vertical-axis turbines, the flow remains perpendicular to the axis, regardless of the flow direction, and the turbines always rotate in the same direction. This is one of the main advantages of vertical-axis turbines.
+If the direction of the water flow is fixed, then the Gorlov turbine axis could be vertical or horizontal, the only requirement is orthogonality to the flow.[8]
+Airfoil / hydrofoil[edit]
+The GHT operates under a lift-based concept (see airfoil). The foil sections on the GHT are symmetrical, both top-to-bottom and also from the leading-to-trailing edge. The GHT can actually spin equally well in either direction. The GHT works under the same principle as the Darrieus turbine; that is, it relies upon the movement of the foils in order to change the apparent direction of the flow relative to the foils, and thus change the (apparent) "angle of attack" of the foil.
+Environmental issues[edit]
+A GHT is proposed[8] for low-head micro hydro installations, when construction of a dam is undesirable. The GHT is an example of damless hydro technology. The technology may potentially offer cost and environmental benefits over dam-based micro-hydro systems.
+Some advantages of damless hydro are that it eliminates the potential for failure of a dam, which improves public safety. It also eliminates the initial cost of dam engineering, construction and maintenance, reduces the environmental and ecological complications, and potentially simplifies the regulatory issues put into law specifically to mitigate the problems with dams.
+In general, a major ecological issue with hydropower installations is their actual and perceived risk to aquatic life. It is claimed that a GHT spins slowly enough that fish can see it soon enough to swim around it.[9][10] From preliminary tests in 2001, it was claimed that if a fish swims between the slowly moving turbine blades, the fish will not be harmed. Also it would be difficult for a fish to become lodged or stuck in the turbine, because the open spaces between the blades are larger than even the largest fish living in a small river. A fish also would not be tumbled around in a vortex, because the GHT does not create a lot of turbulence, so small objects would be harmlessly swept through with the current.
+How it works[edit]
+Current flow to the left.
+Induced flow component created by clockwise rotation of turbine.
+In this example the direction of the fluid flow is to the left.
+As the turbine rotates, in this case in a clockwise direction, the motion of the foil through the fluid changes the apparent velocity and angle of attack (speed and direction) of the fluid with respect to the frame of reference of the foil. The combined effect of these two flow components (i.e. the vector sum), yields the net total "Apparent flow velocity" as shown in the next figure.
+Apparent flow velocity of turbine blade, and angle made with current flow over ground (in degrees).
+Net force vectors.
+The action of this apparent flow on each foil section generates both a lift and drag force, the sum of which is shown in the figure above titled "Net force vectors". Each of these net force vectors can be split into two orthogonal vectors: a radial component and a tangential component, shown here as "Normal force" and "Axial force" respectively. The normal forces are opposed by the rigidity of the turbine structure and do not impart any rotational force or energy to the turbine. The remaining force component propels the turbine in the clockwise direction, and it is from this torque that energy can be harvested.
+[With regards to the figure above left "Apparent flow velocity...", Lucid Energy Technologies, rights holder to the patent to the Gorlov Helical Turbine, notes that this diagram, with no apparent velocity at an azimuth angle of 180 degrees (blade at its point in rotation where it is instantaneously moving in downstream direction), may be subject to misinterpretation. This is because a zero apparently flow velocity could occur only at a tip speed ratio of unity (i.e. TSR=1, where the current flow induced by rotation equals the current flow). The GHT generally operates at a TSR substantially greater than unity.]
+(The diagrams "Net Force Vectors" and "Normal Force Vectors" are partially incorrect. The downwind segments should show the vectors outside the circles. Otherwise there would be no net sideways loading on the turbine.) M Koester 2015.
+Normal force vectors.
+Axial force vectors.
+Commercial use[edit]
+Helical turbines in water stream generate mechanical power independent on direction of the water flow. Then electric generators assembled upon the common shaft transfer the power into electricity for the commercial use.
+Chain of Horizontal Gorlov Turbines. TideGen by Ocean Renewable Power Company  possibility for shallow waters. (US Patents 5,451,137, Sep. 1995 and 5,642,984, Jul. 1997)
+Chain of Horizontal Gorlov turbines being installed in Cobscook Bay, Maine, USA
+Tidal Power Station with Gorlov Helical Turbines before deployment in the ocean. USA, Cobscook Bay, Maine, September, 2012.
+Chain of Horizontal Gorlov turbines being installed in South Korea - general view
+Chain of Horizontal Gorlov turbines being installed in South Korea - close view
+Gorlov Helical Turbines in South Korea, 1997-1998. Installation in shallow waters.
+See also[edit]
+Distributed generation
+Darrieus wind turbine
+References[edit]
+^ A.M. Gorlov, Unidirectional helical reaction turbine operable under reversible fluid flow for power systems, United States Patent 5,451,137, Sept. 19, 1995.
+^ A.M. Gorlov, Method for maintaining flotation using a helical turbine assembly, United States Patent 6,253,700, July 3, 2001.
+^ M.J. Khan, G. Bhuyan, M.T. Iqbal, and J.E. Quaicoe, Hydrokinetic energy conversion systems and assessment of horizontal and vertical axis turbines for river and tidal applications: A technology status review, Applied Energy, Volume 86, Issue 10, October 2009, Pages 1823-1835. doi:10.1016/j.apenergy.2009.02.017
+^ Gorlov, A. M., 1998, Helical turbines for the Gulf Stream, Marine Technology, 35, No 3, pp. 175182.
+^ Gorban' A.N., Gorlov A.M., Silantyev V.M., Limits of the Turbine Efficiency for Free Fluid Flow, Journal of Energy Resources Technology - December 2001 - Volume 123, Issue 4, pp. 311-317.
+^ Han, Sang-Hun; Lee, Kwang-Soo; Yum, Ki-Dai; Park, Woo-Sun; Park, Jin-Soon, Evaluation of helical turbine efficiency for tidal current power plant based on in-situ experiment, Proceedings of the 5th International Conference on Asian and Pacific Coasts, Singapore, Oct 13-18, 2009, Vol 4, 315-321.
+^ J. Khan and G. Bhuyan (2009). Ocean Energy: Global Technology Development Status, Report prepared by Powertech Labs for the IEA-OES. [Online], Available: www.iea-oceans.org
+^ a b Gorlov A.M., Development of the helical reaction hydraulic turbine. Final Technical Report, The US Department of Energy, August 1998, The Department of Energy's (DOE) Information Bridge: DOE Scientific and Technical Information.
+^ Davis Jill, Alexander's Marvelous Machine, OnEarth, Spring 2005.
+^ Petkewich Rachel, Technology Solutions: Creating electricity with undammed hydropower, Environ. Sci. Technol., 2004, 38 (3), pp 55A56A, doi:10.1021/es0403716
+External links[edit]
+The Gorlov Helical Turbine
+Northeastern University's Alexander Gorlov wins prestigious Edison Patent Award for helical turbine invention
+Double & Triple helix
+Onearth 2005
+Thomas A. Edison Patent Award
+v
+t
+e
+Hydropower
+Hydroelectricity generation
+Dam
+List of conventional hydroelectric power stations
+Pumped-storage hydroelectricity
+Small hydro
+Micro hydro
+Pico hydro
+Hydroelectricity equipment
+Francis turbine
+Kaplan turbine
+Tyson turbine
+Gorlov helical turbine
+Pelton wheel
+Turgo turbine
+Banki turbine
+Water wheel
+Saved in parser cache with key enwiki:pcache:idhash:8148752-0!*!0!!en!4!* and timestamp 20161102132625 and revision id 671745474
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Gorlov_helical_turbine&oldid=671745474"
+Categories: Water turbinesVertical axis wind turbines

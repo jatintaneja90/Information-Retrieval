@@ -1,0 +1,3537 @@
+Phasechangematerial
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article's lead section may not adequately summarize key points of its contents. Please consider expanding the lead to provide an accessible overview of all important aspects of the article. Please discuss this issue on the article's talk page. (September 2012)
+A sodium acetate heating pad. When the sodium acetate solution crystallises, it becomes warm.
+Play media
+A video showing a heating pad in action
+A phase-change material (PCM) is a substance with a high heat of fusion which, melting and solidifying at a certain temperature, is capable of storing and releasing large amounts of energy. Heat is absorbed or released when the material changes from solid to liquid and vice versa; thus, PCMs are classified as latent heat storage (LHS) units.
+Contents
+1 Characteristics and classification
+1.1 Organic PCMs
+1.2 Inorganic
+1.3 Eutectics
+1.4 Hygroscopic materials
+2 Selection criteria
+3 Thermophysical properties
+3.1 Common PCMs
+3.2 Commercially available PCMs near room temperature
+4 Technology, development and encapsulation
+5 Thermal composites
+6 Applications
+7 Fire and safety issues
+8 See also
+9 References
+10 Further reading
+Characteristics and classification[edit]
+Latent heat storage can be achieved through liquid>solid, solid>liquid, solid>gas and liquid>gas phase changes. However, only solid>liquid and liquid>solid phase changes are practical for PCMs. Although liquidgas transitions have a higher heat of transformation than solidliquid transitions, liquid->gas phase changes are impractical for thermal storage because large volumes or high pressures are required to store the materials in their gas phase. Solidsolid phase changes are typically very slow and have a relatively low heat of transformation.
+Initially, solidliquid PCMs behave like sensible heat storage (SHS) materials; their temperature rises as they absorb heat. Unlike conventional SHS materials, however, when PCMs reach the temperature at which they change phase (their melting temperature) they absorb large amounts of heat at an almost constant temperature. The PCM continues to absorb heat without a significant rise in temperature until all the material is transformed to the liquid phase. When the ambient temperature around a liquid material falls, the PCM solidifies, releasing its stored latent heat. A large number of PCMs are available in any required temperature range from 5 up to 190C.[1] Within the human comfort range between 2030C, some PCMs are very effective. They store 5 to 14 times more heat per unit volume than conventional storage materials such as water, masonry or rock.[2]
+Organic PCMs[edit]
+Paraffin (CnH2n+2) and fatty acids (CH3(CH2)2nCOOH)[3]
+Advantages
+Freeze without much undercooling
+Ability to melt congruently
+Self nucleating properties
+Compatibility with conventional material of construction
+No segregation
+Chemically stable
+High heat of fusion
+Safe and non-reactive
+Recyclable
+Disadvantages
+Low thermal conductivity in their solid state. High heat transfer rates are required during the freezing cycle
+Volumetric latent heat storage capacity is low
+Flammable. This can be partially alleviated by specialist containment
+To obtain reliable phase change points, most manufacturers use technical grade paraffins which are essentially paraffin mixture(s) and are completely refined of oil, resulting in high costs
+Inorganic[edit]
+Salt hydrates (MnH2O)[4]
+Advantages
+High volumetric latent heat storage capacity
+Availability and low cost
+Sharp melting point
+High thermal conductivity
+High heat of fusion
+Non-flammable
+Disadvantages
+Change of volume is very high
+Super cooling is major problem in solidliquid transition
+Nucleating agents are needed and they often become inoperative after repeated cycling
+Eutectics[edit]
+c-inorganic, inorganic-inorganic compounds
+Advantages
+Eutectics have sharp melting point similar to pure substance
+Volumetric storage density is slightly above organic compounds
+Extra water principle can be used to avoid phase change dedragation, involveing dissolving the anhydrous salt during melting to result in a thickening of the liquid material so that it melts to a gel form
+Disadvantages
+Only limited data is available on thermo-physical properties as the use of these materials are relatively new to thermal storage application
+Hygroscopic materials[edit]
+Many natural building materials are hygroscopic, that is they can absorb (water condenses) and release water (water evaporates). The process is thus:
+Condensation (gas to liquid) H<0; enthalpy decreases (exothermic process) gives off heat.
+Vaporization (liquid to gas) H>0; enthalpy increases (endothermic process) absorbs heat (or cools).
+Whilst this process liberates a small quantity of energy, large surfaces area allows significant (12C) heating or cooling in buildings. The corresponding materials are wool insulation, earth/clay render finishes,.
+Selection criteria[edit]
+Thermodynamic properties. The phase change material should possess:[5]
+Melting temperature in the desired operating temperature range
+High latent heat of fusion per unit volume
+High specific heat, high density and high thermal conductivity
+Small volume changes on phase transformation and small vapor pressure at operating temperatures to reduce the containment problem
+Congruent melting
+Kinetic properties
+High nucleation rate to avoid supercooling of the liquid phase
+High rate of crystal growth, so that the system can meet demands of heat recovery from the storage system
+Chemical properties
+Chemical stability
+Complete reversible freeze/melt cycle
+No degradation after a large number of freeze/melt cycle
+Non-corrosiveness, non-toxic, non-flammable and non-explosive materials
+Economic properties
+Low cost
+Availability
+Thermophysical properties[edit]
+Common PCMs[edit]
+Material
+Organic
+PCM
+Melting
+point
+oC
+Heat of
+fusion
+kJkg1
+Heat of
+fusion
+MJm3
+Specific heat, cp
+solid
+kJkg1K1
+Specific heat, cp
+liquid
+kJkg1K1
+Density, 
+solid
+kgm3
+Density, 
+liquid
+kgm3
+Thermal conductivity, k
+solid
+Wm1K1
+VHC
+solid
+kJm3K1
+VHC
+liquid
+kJm3K1
+Thermal effusivity, e
+solid
+Jm2K1s1/2
+Cost
+USDkg1
+Water
+No
+50000000000000000000
+7002333600000000000333.6
+7002319800000000000319.8
+70002050099999999992.05
+70004186000000000004.186
+7002917000000000000917
+70031000000000000001,000
+70001910000000000001.6[6]-2.22[7]
+70031880000000000001,880
+70034186000000000004,186
+70031890000000000001,890
+69973125000000000000.003125[8]
+Sodium sulfate (Na2SO410H2O)
+No
+700132400000000000032.4
+7002252000000000000252
+0.05 [9]
+NaClNa2SO410H2O
+No
+700118000000000000018
+7002286000000000000286
+0.05 [9]
+Lauric acid
+Yes[10][11]
+700144200000000000044.2[12]
+7002211600000000000211.6
+7002197700000000000197.7
+70001760000000000001.76
+70002270000000000002.27
+70031007000000000001,007
+7002862000000000000862
+70031772000000000001,772
+70031957000000000001,957
+70001600000000000001.6 [13][14]
+TME(63%w/w)+H2O(37%w/w)
+Yes[10][11]
+700129800000000000029.8
+7002218000000000000218.0
+7002240900000000000240.9
+70002750000000000002.75
+70003580000000000003.58
+70031120000000000001,120
+70031090000000000001,090
+70033080000000000003,080
+70033902000000000003,902
+Mn(NO3)26H2O+MnCl24H2O(4%w/w)
+No[15][16]
+70012000000000000001525
+7002125900000000000125.9
+7002221800000000000221.8
+70002340000000000002.34
+70002779900000999992.78
+70031795000000000001,795
+70031728000000000001,728
+70034200000000000004,200
+70034804000000000004,804
+Na2SiO35H2O
+No[15][16]
+700172200000000000072.20
+7002267000000000000267.0
+7002364500000000000364.5
+70003830000000000003.83
+70004570000000000004.57
+70031450000000000001,450
+70031280000000000001,280
+69991155000000000000.1030.128[17]
+70035554000000000005,554
+70035850000000000005,850
+7002801000000000000801
+70008039999999999998.04[18]
+Aluminium
+No
+7002660320000000000660.32
+7002396900000000000396.9
+70031007200000000001,007.2
+69998969000000000000.8969
+70032700000000000002,700
+70032375000000000002,375
+7002237000000000000237[19][20]
+70032422000000000002,422
+?
+700423960000000000023,960
+70002046260000000002.04626[21]
+Copper
+No
+70031084620000999991,084.62
+7002208700000000000208.7
+70031769500000000001,769.5
+69993846000000000000.3846
+70038940000000000008,940
+70038020000000000008,020
+7002401000000000000401[22]
+70033438000000000003,438
+?
+700437130000000000037,130
+70006812560000000006.81256[23]
+Gold
+No
+70031064180000000001,064.18
+700163720000000000063.72
+70031166300000000001,166.3
+69991290000000000000.129
+700419300000000000019,300
+700417310000000000017,310
+7002318000000000000318[24]
+70032491000000000002,491
+700428140000000000028,140
+700434297800000000034,297.8[23]
+Iron
+No
+70031538000000000001,538
+7002247300000000000247.3
+70031836600000000001,836.6
+69994495000000000000.4495
+70037874000000000007,874
+70036980000000000006,980
+700180400000000000080.4[25]
+70033539000000000003,539
+700416870000000000016,870
+69993247900000000000.3248[26]
+Lead
+No
+7002327450000000000327.46
+700123020000000000023.02
+7002253200000000000253.2
+69991286000000999990.1286
+700411340000000000011,340
+700410660000000000010,660
+700135300999990000035.3[27]
+70031459000000000001,459
+70037180000000000007,180
+70002115100000000002.1151[23]
+Lithium
+No
+7002180540000000000180.54
+7002432200000000000432.2
+7002226000000000000226.0
+70003581600000000003.5816
+7002534000000000000534
+7002512000000000000512
+700184800000000000084.8[28]
+70031913000000000001,913
+700412740000000000012,740
+700162216400000000062.2164[29]
+Silver
+No
+7002961780000000000961.78
+7002104600000000000104.6
+70031035800000000001,035.8
+69992350000000000000.235
+700410490000000000010,490
+70039320000000000009,320
+7002429000000000000429[30]
+70032465000000000002,465
+700432520000000000032,520
+7002492524000000000492.524[23]
+Titanium
+No
+70031668000000000001,668
+7002295600000000000295.6
+70031273500000000001,273.5
+69995235000000999990.5235
+70034506000000000004,506
+70034110000000000004,110
+700121900000000000021.9[31]
+70032359000000000002,359
+70037190000000000007,190
+70008046900000000008.0469[32]
+Zinc
+No
+7002419539999900000419.53
+7002112000000000000112.0
+7002767500000000000767.5
+69993896000000000000.3896
+70037140000000000007,140
+70036570000000000006,570
+7002116000000000000116[33]
+70032782000000000002,782
+700417960000000000017,960
+70002157350000000002.15735[23]
+NaNO
+3
+{\displaystyle {\ce {NaNO3}}}
+No
+7002310000000000000310
+7002174000000000000174
+[34]
+NaNO
+2
+{\displaystyle {\ce {NaNO2}}}
+No
+7002282000000000000282
+7002212000000000000212
+[34]
+NaOH
+No
+7002318000000000000318
+7002158000000000000158
+[34]
+KNO
+3
+{\displaystyle {\ce {KNO3}}}
+No
+7002337000000000000337
+7002116000000000000116
+[34]
+KOH
+No
+7002360000000000000360
+7002167000000000000167
+[34]
+NaOH/
+Na
+2
+CO
+3
+{\displaystyle {\ce {Na2CO3}}}
+(7.2%)
+No
+7002283000000000000283
+7002340000000000000340
+[34]
+NaCl(26.8%)/NaOH
+No
+7002370000000000000370
+7002370000000000000370
+[34]
+NaCl/KCL(32.4%)/LiCl(32.8%)
+No
+7002346000000000000346
+7002281000000000000281
+[34]
+NaCl(5.7%) /
+NaNO
+3
+{\displaystyle {\ce {NaNO3}}}
+(85.5%) /
+Na
+2
+SO
+4
+{\displaystyle {\ce {Na2SO4}}}
+No
+7002287000000000000287
+7002176000000000000176
+[34]
+NaCl /
+NaNO
+3
+{\displaystyle {\ce {NaNO3}}}
+(5.0%)
+No
+7002284000000000000284
+7002171000000000000171
+[34]
+NaCl(5.0%)/
+NaNO
+3
+{\displaystyle {\ce {NaNO3}}}
+No
+7002282000000000000282
+7002212000000000000212
+[34]
+NaCl(42.5%)/KCl(20.5)/
+MgCl
+2
+{\displaystyle {\ce {MgCl2}}}
+No
+7002389000000000000385-393
+7002410000000000000410
+[34]
+KNO
+3
+(
+10
+% %
+)
+/
+NaNO
+3
+{\displaystyle {\ce {KNO3(10\%)/NaNO3}}}
+No
+7002290000000000000290
+7002170000000000000170
+[34]
+KNO
+3
+{\displaystyle {\ce {KNO3}}}
+/KCl(4.5%)
+No
+7002320000000000000320
+7002150000000000000150
+[34]
+KNO
+3
+{\displaystyle {\ce {KNO3}}}
+/KBr(4.7%)/KCl(7.3%)
+No
+7002342000000000000342
+7002140000000000000140
+[34]
+Paraffin 14-Carbons [35]
+Yes
+5.5
+228
+Paraffin 15-Carbons [35]
+Yes
+10
+205
+Paraffin 16-Carbons [35]
+Yes
+16.7
+237.1
+Paraffin 17-Carbons [35]
+Yes
+21.7
+213
+Paraffin 18-Carbons [35]
+Yes
+28
+244
+Paraffin 19-Carbons [35]
+Yes
+32
+222
+Paraffin 20-Carbons [35]
+Yes
+36.7
+246
+Paraffin 21-Carbons [35]
+Yes
+40.2
+200
+Paraffin 22-Carbons [35]
+Yes
+44
+249
+Paraffin 23-Carbons [35]
+Yes
+47.5
+232
+Paraffin 24-Carbons [35]
+Yes
+50.6
+255
+Paraffin 25-Carbons [35]
+Yes
+49.4
+238
+Paraffin 26-Carbons [35]
+Yes
+56.3
+256
+Paraffin 27-Carbons [35]
+Yes
+58.8
+236
+Paraffin 28-Carbons [35]
+Yes
+61.6
+253
+Paraffin 29-Carbons [35]
+Yes
+63.4
+240
+Paraffin 30-Carbons [35]
+Yes
+65.4
+251
+Paraffin 31-Carbons [35]
+Yes
+68
+242
+Paraffin 32-Carbons [35]
+Yes
+69.5
+170
+Paraffin 33-Carbons [35]
+Yes
+73.9
+268
+Paraffin 34-Carbons [35]
+Yes
+75.9
+269
+Formic acid [35]
+Yes
+7.8
+247
+Caprilic acid [35]
+Yes
+16.3
+149
+Glycerin [35]
+Yes
+17.9
+198.7
+p-Lattic acid [35]
+Yes
+26
+184
+Methyl palmitate [35]
+Yes
+29
+205
+Camphenilone [35]
+Yes
+39
+205
+Docasyl bromide [35]
+Yes
+40
+201
+Caprylone [35]
+Yes
+40
+259
+Phenol [35]
+Yes
+41
+120
+Heptadecanone [35]
+Yes
+41
+201
+1-Cyclohexylooctadecane [35]
+Yes
+41
+218
+4-Heptadacanone [35]
+Yes
+41
+197
+p-Joluidine [35]
+Yes
+43.3
+167
+Cyanamide [35]
+Yes
+44
+209
+Methyl eicosanate [35]
+Yes
+45
+230
+3-Heptadecanone [35]
+Yes
+48
+218
+2-Heptadecanone [35]
+Yes
+48
+218
+Hydrocinnamic acid [35]
+Yes
+48
+118
+Cetyl acid [35]
+Yes
+49.3
+141
+-Nepthylamine [35]
+Yes
+59
+93
+Camphene [35]
+Yes
+50
+238
+O-Nitroaniline [35]
+Yes
+50
+93
+9-Heptadecanone [35]
+Yes
+51
+213
+Thymol [35]
+Yes
+51.5
+115
+Methyl behenate [35]
+Yes
+52
+234
+Diphenyl amine [35]
+Yes
+52.9
+107
+p-Dichlorobenzene [35]
+Yes
+53.1
+121
+Oxolate [35]
+Yes
+54.3
+178
+Hypophosphoric acid [35]
+Yes
+55
+213
+O-Xylene dichloride [35]
+Yes
+55
+121
+-Chloroacetic acid [35]
+Yes
+56
+147
+Chloroacetic acid [35]
+Yes
+56
+130
+Nitro napthalene [35]
+Yes
+56.7
+103
+Trimyristin [35]
+Yes
+33
+201
+Heptaudecanoic acid [35]
+Yes
+60.6
+189
+-Chloroacetic acid [35]
+Yes
+61.2
+130
+Bees wax [35]
+Yes
+61.8
+177
+Glyolic acid [35]
+Yes
+63
+109
+Glycolic acid [35]
+Yes
+63
+109
+p-Bromophenol [35]
+Yes
+63.5
+86
+Azobenzene [35]
+Yes
+67.1
+121
+Acrylic acid [35]
+Yes
+68
+115
+Dinto toluent (2,4) [35]
+Yes
+70
+111
+Phenylacetic acid [35]
+Yes
+76.7
+102
+Thiosinamine [35]
+Yes
+77
+140
+Bromcamphor [35]
+Yes
+77
+174
+Durene [35]
+Yes
+79.3
+156
+Methly brombenzoate [35]
+Yes
+81
+126
+Alpha napthol [35]
+Yes
+96
+163
+Glautaric acid [35]
+Yes
+97.5
+156
+p-Xylene dichloride [35]
+Yes
+100
+138.7
+Catechol [35]
+Yes
+104.3
+207
+Quinone [35]
+Yes
+115
+171
+Actanilide [35]
+Yes
+118.9
+222
+Succinic anhydride [35]
+Yes
+119
+204
+Benzoic acid [35]
+Yes
+121.7
+142.8
+Stibene [35]
+Yes
+124
+167
+Benzamide [35]
+Yes
+127.2
+169.4
+Acetic acid [35]
+Yes
+16.7
+184
+Polyethylene glycol 600 [35]
+Yes
+20
+146
+Capric acid [35]
+Yes
+36
+152
+Eladic acid [35]
+Yes
+47
+218
+Pentadecanoic acid [35]
+Yes
+52.5
+178
+Tristearin [35]
+Yes
+56
+191
+Myristic acid [35]
+Yes
+58
+199
+Palmatic acid [35]
+Yes
+55
+163
+Stearic acid [35]
+Yes
+69.4
+199
+Acetamide [35]
+Yes
+81
+241
+Methyl fumarate [35]
+Yes
+102
+242
+Volumetric heat capacity (VHC) Jm3K1
+V
+H
+C
+=
+ 
+c
+p
+{\displaystyle \mathrm {VHC} =\rho c_{p}}
+Thermal inertia (I) = Thermal effusivity (e) Jm2K1s1/2
+I
+=
+k
+ 
+c
+p
+=
+e
+=
+(
+k
+ 
+c
+p
+)
+1
+2
+{\displaystyle I={\sqrt {k\rho c_{p}}}=e={(k\rho c_{p})}^{\frac {1}{2}}}
+Commercially available PCMs near room temperature[edit]
+Material
+Supplier
+Type
+Form
+Melting
+temperature, Tm
+oC
+Melting
+temperature, Tm
+oF
+Latent heat
+of fusion, L
+kJ/kg
+Density, 
+kg/m3
+Liquid Thermal
+conductivity, k W/mK
+Solid Thermal
+conductivity, k
+W/mK
+Specific
+heat, cp
+kJ/kgK
+18 C Infinite R Energy Sheet
+Insolcorp[36]
+Inorganic
+Macro-encapsulated
+18
+64.4
+200
+1540
+0.54
+1.09
+3.14
+21 C Infinite R Energy Sheet
+Insolcorp[36]
+Inorganic
+Macro-encapsulated
+21
+69.8
+200
+1540
+0.54
+1.09
+3.14
+23 C Infinite R Energy Sheet
+Insolcorp[36]
+Inorganic
+Macro-encapsulated
+23
+73.4
+200
+1540
+0.54
+1.09
+3.14
+25 C Infinite R Energy Sheet
+Insolcorp[36]
+Inorganic
+Macro-encapsulated
+25
+77
+200
+1540
+0.54
+1.09
+3.14
+29 C Infinite R Energy Sheet
+Insolcorp[36]
+Inorganic
+Macro-encapsulated
+29
+84.2
+200
+1540
+0.54
+1.09
+3.14
+savE [37] HS 33N[38]
+Pluss[39]
+Inorganic
+Bulk
+-30
+-22
+224
+1425
+savE HS 26N[40]
+Pluss
+Inorganic
+Bulk
+-24
+-11.2
+222
+1200
+3.6
+savE HS 23N[41]
+Pluss
+Inorganic
+Bulk
+-20
+-4
+210
+1140
+0.7
+4.9
+3.4
+savE HS 18N[42]
+Pluss
+Inorganic
+Bulk
+-18
+-0.4
+242
+1095
+0.44
+savE HS 15N[43]
+Pluss
+Inorganic
+Bulk
+-15
+5
+280
+1070
+0.53
+5.26
+3.4
+savE HS 10N[44]
+Pluss
+Inorganic
+Bulk
+-10
+14
+230
+1125
+0.60
+4.25
+0.96
+savE HS 7N[45]
+Pluss
+Inorganic
+Bulk
+-6
+21.2
+230
+1120
+0.55
+1.76
+3.2
+savE Frost/HS 01[46]
+Pluss
+Inorganic
+Bulk
+1
+33.8
+290
+1010
+0.55
+2.2
+3.9
+savE OM 03[47]
+Pluss
+Organic
+Bulk
+3.5
+38.3
+240
+835
+0.146
+0.22
+3
+savE FS 03[48]
+Pluss
+Organic
+Bulk
+3.6
+38.48
+214
+0.16
+savE OM 05[49]
+Pluss
+Organic
+Bulk
+5.5
+41.9
+130
+845
+0.135
+0.3
+2.37
+savE FS 05[50]
+Pluss
+Organic
+Bulk
+5.9
+42.62
+110
+0.134
+savE OM 08[51]
+Pluss
+Organic
+Bulk
+9
+48.2
+220
+1050
+0.168
+0.235
+3.1
+savE OM 11[52]
+Pluss
+Organic
+Bulk
+9.5
+49.1
+240
+1060
+0.118
+0.235
+savE OM 21[53]
+Pluss
+Organic
+Bulk
+21
+69.8
+250
+924
+0.14
+0.21
+2.6
+savE FS 21[54]
+Pluss
+Organic
+Bulk
+21
+69.8
+130
+0.3
+savE HS 21[55]
+Pluss
+Inorganic
+Bulk
+22
+71.6
+185
+1400
+0.59
+0.82
+3.4
+savE HS 22[56]
+Pluss
+Inorganic
+Bulk
+23
+73.4
+185
+1540
+0.56
+1.13
+3.04
+savE HS 24[57]
+Pluss
+Inorganic
+Bulk
+25
+77
+185
+1510
+0.55
+1.05
+2.3
+savE HS 29[58]
+Pluss
+Inorganic
+Bulk
+29
+84.2
+190
+1530
+0.382
+0.478
+2.3
+savE OM 29[59]
+Pluss
+Organic
+Bulk
+29
+84.2
+229
+870
+0.172
+0.293
+3.9
+savE FS 29[60]
+Pluss
+Organic
+Bulk
+29
+84.2
+189
+0.45
+savE OM 30[61]
+Pluss
+Organic
+Bulk
+31
+87.8
+200
+878
+0.123
+0.185
+2.6
+savE FS 30[62]
+Pluss
+Organic
+Bulk
+31
+87.8
+170
+0.496
+savE OM 32[63]
+Pluss
+Organic
+Bulk
+32
+89.6
+200
+870
+0.145
+0.219
+savE HS 34[64]
+Pluss
+Inorganic
+Bulk
+35
+95
+150
+1850
+0.47
+0.5
+2.4
+savE OM 35[65]
+Pluss
+Organic
+Bulk
+37
+98.6
+197
+870
+0.16
+0.2
+savE OM 37[66]
+Pluss
+Organic
+Bulk
+37
+98.6
+210
+860
+0.13
+0.16
+savE OM 46[67]
+Pluss
+Organic
+Bulk
+46
+114.8
+250
+880
+0.1
+0.2
+savE OM 48[68]
+Pluss
+Organic
+Bulk
+48
+118.4
+275
+875
+0.12
+0.2
+savE OM 50[69]
+Pluss
+Organic
+Bulk
+50.3
+122.54
+250
+850
+0.14
+0.21
+3.05
+savE OM 55[70]
+Pluss
+Organic
+Bulk
+55
+131
+210
+840
+0.1
+0.16
+3.05
+savE OM 65[71]
+Pluss
+Organic
+Bulk
+67
+152.6
+183
+924
+0.33
+0.19
+2.38
+savE FSM 65[72]
+Pluss
+Organic
+Bulk
+67
+152.6
+150
+845
+0.25
+savE HS 89[73]
+Pluss
+Inorganic
+Bulk
+87
+188.6
+180
+1630
+PureTemp -37
+PureTemp [74]
+Organic
+Bulk
+-37
+-35
+147
+880
+1.39
+PureTemp -23
+PureTemp
+Organic
+Bulk
+-23
+-9
+145
+860
+2.11
+PureTemp -21
+PureTemp
+Organic
+Bulk
+-21
+-6
+240
+1060
+1.83
+PureTemp -17
+PureTemp
+Organic
+Bulk
+-17
+1
+145
+860
+1.74
+PureTemp -15
+PureTemp
+Organic
+Bulk
+-15
+5
+286
+1030
+1.84
+PureTemp -12
+PureTemp
+Organic
+Bulk
+-12
+10
+168
+870
+1.86
+PureTemp -5
+PureTemp
+Organic
+Bulk
+-5
+23
+150
+860
+1.66
+PureTemp 1
+PureTemp
+Organic
+Bulk
+1
+34
+300
+1000
+2.32
+PureTemp 4
+PureTemp
+Organic
+Bulk
+4
+39
+195
+880
+2.44
+PureTemp 6
+PureTemp
+Organic
+Bulk
+6
+43
+170
+860
+1.56
+PureTemp 8
+PureTemp
+Organic
+Bulk
+8
+46
+180
+860
+1.85
+PureTemp 12
+PureTemp
+Organic
+Bulk
+12
+54
+185
+860
+1.76
+PureTemp 15
+PureTemp
+Organic
+Bulk
+15
+59
+165
+860
+2.25
+PureTemp 18
+PureTemp
+Organic
+Bulk
+18
+64
+189
+860
+1.47
+PureTemp 20
+PureTemp
+Organic
+Bulk
+20
+68
+180
+860
+2.59
+PureTemp 23
+PureTemp
+Organic
+Bulk
+23
+73
+203
+830
+1.84
+PureTemp 24
+PureTemp
+Organic
+Bulk
+24
+75
+185
+860
+2.85
+PureTemp 25
+PureTemp
+Organic
+Bulk
+25
+77
+185
+860
+1.99
+PureTemp 27
+PureTemp
+Organic
+Bulk
+27
+81
+200
+860
+2.46
+PureTemp 28
+PureTemp
+Organic
+Bulk
+29
+84
+205
+860
+2.34
+PureTemp 29
+PureTemp
+Organic
+Bulk
+29
+84
+189
+850
+1.77
+PureTemp 33
+PureTemp
+Organic
+Bulk
+33
+91
+185
+850
+2.34
+PureTemp 35
+PureTemp
+Organic
+Bulk
+35
+95
+180
+850
+2.44
+PureTemp 37
+PureTemp
+Organic
+Bulk
+38
+100
+222
+840
+2.21
+PureTemp 48
+PureTemp
+Organic
+Bulk
+52
+126
+245
+820
+2.1
+PureTemp 53
+PureTemp
+Organic
+Bulk
+53
+127
+225
+990
+2.36
+PureTemp 58
+PureTemp
+Organic
+Bulk
+58
+136
+237
+810
+2.47
+PureTemp 60
+PureTemp
+Organic
+Bulk
+61
+142
+230
+870
+2.04
+PureTemp 63
+PureTemp
+Organic
+Bulk
+63
+145
+199
+840
+1.99
+PureTemp 68
+PureTemp
+Organic
+Bulk
+68
+154
+198
+870
+1.85
+PureTemp 103
+PureTemp
+Organic
+Bulk
+103
+217
+157
+1220
+2.09
+PureTemp 151
+PureTemp
+Organic
+Bulk
+151
+304
+170
+1360
+2.06
+Astorstat HA 17
+Honey well [75]
+Organic
+Bulk
+21.7
+71
+Astorstat HA 18
+Honey well
+Organic
+Bulk
+27.2
+81
+RT26
+Rubitherm GmbH [76]
+Organic
+Bulk
+24
+75
+232
+RT27
+Rubitherm GmbH
+Organic
+Bulk
+28
+82
+206
+Climsel C -21
+Climator [77]
+Inorganic
+Bulk
+-21
+-6
+288
+1300
+0.6
+3.6
+Climsel C -18
+Climator
+Inorganic
+Bulk
+-18
+0
+288
+1300
+0.6
+3.6
+Climsel C 7
+Climator
+Inorganic
+Bulk
+7
+45
+126
+1400
+0.6
+3.6
+Climsel C 10
+Climator
+Inorganic
+Bulk
+10.5
+51
+126
+1400
+0.6
+3.6
+Climsel C 21
+Climator
+Inorganic
+Bulk
+21
+70
+112
+1380
+0.6
+3.6
+Climsel C24
+Climator
+Inorganic
+Bulk
+24
+75
+151.3
+1380
+0.6
+3.6
+Climsel C28
+Climator
+Inorganic
+Bulk
+28
+82
+162.3
+1420
+0.6
+3.6
+Climsel C32
+Climator
+Inorganic
+Bulk
+32
+90
+162.3
+1420
+0.6
+3.6
+Climsel C48
+Climator
+Inorganic
+Bulk
+48
+118
+180
+1360
+0.6
+3.6
+Climsel C58
+Climator
+Inorganic
+Bulk
+58
+136
+288.5
+1460
+0.6
+1.89
+Climsel C70
+Climator
+Inorganic
+Bulk
+70
+158
+282.9
+1400
+0.6
+3.6
+STL27
+Mitsubishi Chemicals [78]
+Inorganic
+Bulk
+27
+81
+213
+S27
+Cristopia [79]
+Inorganic
+Bulk
+27
+81
+207
+TH 29
+TEAP [80]
+Inorganic
+Bulk
+29
+84
+188
+RT 20
+Rubitherm GmbH
+Organic
+Bulk
+22
+72
+172
+Climsel C23
+Climator
+Inorganic
+Bulk
+23
+73
+148
+32
+RT 26
+Rubitherm GmbH
+Organic
+Bulk
+25
+77
+131
+STL 27
+Mitsubishi Chemicals
+Inorganic
+Bulk
+27
+81
+213
+RT 30
+Rubitherm GmbH
+Organic
+Bulk
+28
+82
+206
+RT 32
+Rubitherm GmbH
+Organic
+Bulk
+21
+70
+130
+DS 5000
+Micronal [81]
+Micro-encapsulated
+26
+79
+45
+DS 5007
+Micronal
+Micro-encapsulated
+23
+73
+41
+DS 5030
+Micronal
+Micro-encapsulated
+21
+70
+37
+DS 5001
+Micronal
+Micro-encapsulated
+26
+79
+110
+DS 5008
+Micronal
+Micro-encapsulated
+23
+73
+100
+DS 5029
+Micronal
+Micro-encapsulated
+21
+70
+90
+RT -9 HC
+Rubitherm GmbH
+Organic
+Bulk
+-9
+16
+260
+RT -4
+Rubitherm GmbH
+Organic
+Bulk
+-4
+25
+179
+RT 0
+Rubitherm GmbH
+Organic
+Bulk
+0
+32
+225
+RT 2 HC
+Rubitherm GmbH
+Organic
+Bulk
+2
+36
+205
+RT 3
+Rubitherm GmbH
+Organic
+Bulk
+3
+37
+198
+RT 3 HC
+Rubitherm GmbH
+Organic
+Bulk
+3
+37
+250
+RT 4
+Rubitherm GmbH
+Organic
+Bulk
+4
+39
+182
+RT 5
+Rubitherm GmbH
+Organic
+Bulk
+5
+41
+180
+RT 5 HC
+Rubitherm GmbH
+Organic
+Bulk
+5
+41
+240
+RT 6
+Rubitherm GmbH
+Organic
+Bulk
+6
+43
+175
+RT 8
+Rubitherm GmbH
+Organic
+Bulk
+8
+46
+180
+RT 9
+Rubitherm GmbH
+Organic
+Bulk
+9
+48
+160
+RT 10
+Rubitherm GmbH
+Organic
+Bulk
+10
+50
+150
+RT 10 HC
+Rubitherm GmbH
+Organic
+Bulk
+10
+50
+195
+RT 11 HC
+Rubitherm GmbH
+Organic
+Bulk
+11
+52
+190
+RT 12
+Rubitherm GmbH
+Organic
+Bulk
+12
+54
+150
+RT 15
+Rubitherm GmbH
+Organic
+Bulk
+15
+59
+140
+RT 18 HC
+Rubitherm GmbH
+Organic
+Bulk
+18
+64
+250
+RT 21
+Rubitherm GmbH
+Organic
+Bulk
+21
+70
+160
+RT 21 HC
+Rubitherm GmbH
+Organic
+Bulk
+21
+70
+190
+RT 22 HC
+Rubitherm GmbH
+Organic
+Bulk
+22
+72
+200
+RT 24
+Rubitherm GmbH
+Organic
+Bulk
+24
+75
+150
+RT 25
+Rubitherm GmbH
+Organic
+Bulk
+25
+77
+148
+RT 25 HC
+Rubitherm GmbH
+Organic
+Bulk
+25
+77
+230
+RT 27
+Rubitherm GmbH
+Organic
+Bulk
+27
+81
+179
+RT 28 HC
+Rubitherm GmbH
+Organic
+Bulk
+28
+82
+245
+RT 31
+Rubitherm GmbH
+Organic
+Bulk
+31
+88
+170
+RT 35
+Rubitherm GmbH
+Organic
+Bulk
+35
+95
+170
+RT 35 HC
+Rubitherm GmbH
+Organic
+Bulk
+35
+95
+240
+RT 42
+Rubitherm GmbH
+Organic
+Bulk
+42
+108
+174
+RT 44 HC
+Rubitherm GmbH
+Organic
+Bulk
+44
+111
+255
+RT 47
+Rubitherm GmbH
+Organic
+Bulk
+47
+117
+170
+RT 50
+Rubitherm GmbH
+Organic
+Bulk
+50
+122
+168
+RT 52
+Rubitherm GmbH
+Organic
+Bulk
+52
+126
+173
+RT 55
+Rubitherm GmbH
+Organic
+Bulk
+55
+131
+172
+RT 58
+Rubitherm GmbH
+Organic
+Bulk
+58
+136
+160
+RT 60
+Rubitherm GmbH
+Organic
+Bulk
+60
+140
+144
+RT 62
+Rubitherm GmbH
+Organic
+Bulk
+62
+144
+146
+RT 65
+Rubitherm GmbH
+Organic
+Bulk
+65
+149
+152
+RT 70 HC
+Rubitherm GmbH
+Organic
+Bulk
+70
+158
+230
+RT 80 HC
+Rubitherm GmbH
+Organic
+Bulk
+79
+174
+240
+RT 82
+Rubitherm GmbH
+Organic
+Bulk
+82
+180
+176
+RT 90 HC
+Rubitherm GmbH
+Organic
+Bulk
+90
+194
+200
+S117
+PlusICE [82]
+Inorganic
+Bulk
+117
+243
+160
+1450
+0.7
+2.61
+S89
+PlusICE
+Inorganic
+Bulk
+89
+192
+151
+1550
+0.67
+2.48
+S83
+PlusICE
+Inorganic
+Bulk
+83
+181
+141
+1600
+0.62
+2.31
+S72
+PlusICE
+Inorganic
+Bulk
+72
+162
+127
+1666
+0.58
+2.13
+S70
+PlusICE
+Inorganic
+Bulk
+70
+158
+110
+1680
+0.57
+2.1
+S58
+PlusICE
+Inorganic
+Bulk
+58
+136
+145
+1505
+0.69
+2.55
+S50
+PlusICE
+Inorganic
+Bulk
+50
+122
+100
+1601
+0.43
+1.59
+S46
+PlusICE
+Inorganic
+Bulk
+46
+115
+210
+1587
+0.45
+2.41
+S44
+PlusICE
+Inorganic
+Bulk
+44
+111
+100
+1584
+0.43
+1.61
+S34
+PlusICE
+Inorganic
+Bulk
+34
+93
+115
+2100
+0.52
+2.1
+S32
+PlusICE
+Inorganic
+Bulk
+32
+90
+200
+1460
+0.51
+1.91
+S30
+PlusICE
+Inorganic
+Bulk
+30
+86
+190
+1304
+0.48
+1.9
+S27
+PlusICE
+Inorganic
+Bulk
+27
+81
+183
+1530
+0.54
+2.2
+S25
+PlusICE
+Inorganic
+Bulk
+25
+77
+180
+1530
+0.54
+2.2
+S23
+PlusICE
+Inorganic
+Bulk
+23
+73
+175
+1530
+0.54
+2.2
+S21
+PlusICE
+Inorganic
+Bulk
+22
+72
+170
+1530
+0.54
+2.2
+S19
+PlusICE
+Inorganic
+Bulk
+19
+66
+160
+1520
+0.43
+1.9
+S17
+PlusICE
+Inorganic
+Bulk
+17
+63
+160
+1525
+0.43
+1.9
+S15
+PlusICE
+Inorganic
+Bulk
+15
+59
+160
+1510
+0.43
+1.9
+S13
+PlusICE
+Inorganic
+Bulk
+13
+55
+160
+1515
+0.43
+1.9
+S10
+PlusICE
+Inorganic
+Bulk
+10
+50
+155
+1470
+0.43
+1.9
+S8
+PlusICE
+Inorganic
+Bulk
+8
+46
+150
+1475
+0.44
+1.9
+S7
+PlusICE
+Inorganic
+Bulk
+7
+45
+150
+1700
+0.4
+1.85
+A164
+PlusICE
+Organic
+Bulk
+164
+327
+290
+1500
+2.42
+A155
+PlusICE
+Organic
+Bulk
+155
+311
+100
+900
+0.23
+2.2
+A144
+PlusICE
+Organic
+Bulk
+144
+291
+115
+880
+0.23
+2.2
+A133
+PlusICE
+Organic
+Bulk
+133
+271
+126
+880
+0.23
+2.2
+A118
+PlusICE
+Organic
+Bulk
+118
+244
+340
+1450
+2.7
+A95
+PlusICE
+Organic
+Bulk
+95
+203
+205
+900
+0.22
+2.2
+A82
+PlusICE
+Organic
+Bulk
+82
+180
+155
+850
+0.22
+2.21
+A70
+PlusICE
+Organic
+Bulk
+70
+158
+173
+890
+0.23
+2.2
+A62
+PlusICE
+Organic
+Bulk
+62
+144
+145
+910
+0.22
+2.2
+A60H
+PlusICE
+Organic
+Bulk
+60
+140
+212
+800
+0.18
+2.15
+A60H
+PlusICE
+Organic
+Bulk
+60
+140
+145
+910
+0.22
+2.22
+A58H
+PlusICE
+Organic
+Bulk
+58
+136
+243
+820
+0.18
+2.85
+A58
+PlusICE
+Organic
+Bulk
+58
+136
+132
+910
+0.22
+2.22
+A55
+PlusICE
+Organic
+Bulk
+55
+131
+135
+905
+0.22
+2.22
+A53H
+PlusICE
+Organic
+Bulk
+53
+127
+166
+810
+0.18
+2.02
+A53H
+PlusICE
+Organic
+Bulk
+53
+127
+130
+910
+0.22
+2.22
+A52
+PlusICE
+Organic
+Bulk
+52
+126
+222
+810
+0.18
+2.15
+A50
+PlusICE
+Organic
+Bulk
+50
+122
+218
+810
+0.18
+2.15
+A48
+PlusICE
+Organic
+Bulk
+48
+118
+234
+810
+0.18
+2.85
+A46
+PlusICE
+Organic
+Bulk
+46
+115
+155
+910
+0.22
+2.22
+A44
+PlusICE
+Organic
+Bulk
+44
+111
+242
+805
+0.18
+2.15
+A43
+PlusICE
+Organic
+Bulk
+43
+109
+165
+780
+0.18
+2.37
+A42
+PlusICE
+Organic
+Bulk
+42
+108
+105
+905
+0.21
+2.22
+A40
+PlusICE
+Organic
+Bulk
+40
+104
+230
+810
+0.18
+2.43
+A39
+PlusICE
+Organic
+Bulk
+39
+102
+105
+900
+0.22
+2.22
+A37
+PlusICE
+Organic
+Bulk
+37
+99
+235
+810
+0.18
+2.85
+A36
+PlusICE
+Organic
+Bulk
+36
+97
+217
+790
+0.18
+2.37
+A32
+PlusICE
+Organic
+Bulk
+32
+90
+130
+845
+0.21
+2.2
+A29
+PlusICE
+Organic
+Bulk
+29
+84
+225
+810
+0.18
+2.15
+A28
+PlusICE
+Organic
+Bulk
+28
+82
+155
+789
+0.21
+2.22
+A26
+PlusICE
+Organic
+Bulk
+26
+79
+150
+790
+0.21
+2.22
+A25H
+PlusICE
+Organic
+Bulk
+25
+77
+226
+810
+0.18
+2.15
+A25
+PlusICE
+Organic
+Bulk
+25
+77
+150
+785
+0.18
+2.26
+A24
+PlusICE
+Organic
+Bulk
+24
+75
+145
+790
+0.18
+2.22
+A23
+PlusICE
+Organic
+Bulk
+23
+73
+145
+785
+0.18
+2.22
+A22H
+PlusICE
+Organic
+Bulk
+22
+72
+216
+820
+0.18
+2.85
+A22
+PlusICE
+Organic
+Bulk
+22
+72
+145
+785
+0.18
+2.22
+A17
+PlusICE
+Organic
+Bulk
+17
+63
+150
+785
+0.18
+2.22
+A16
+PlusICE
+Organic
+Bulk
+16
+61
+213
+760
+0.18
+2.37
+A15
+PlusICE
+Organic
+Bulk
+15
+59
+130
+790
+0.18
+2.26
+A9
+PlusICE
+Organic
+Bulk
+9
+48
+140
+775
+0.21
+2.16
+A8
+PlusICE
+Organic
+Bulk
+8
+46
+150
+773
+0.21
+2.16
+A6
+PlusICE
+Organic
+Bulk
+6
+43
+150
+770
+0.21
+2.17
+A4
+PlusICE
+Organic
+Bulk
+4
+39
+200
+766
+0.21
+2.18
+A3
+PlusICE
+Organic
+Bulk
+3
+37
+200
+765
+0.21
+2.2
+A2
+PlusICE
+Organic
+Bulk
+2
+36
+200
+765
+0.21
+2.2
+E0
+PlusICE
+Eutectic
+Bulk
+0
+32
+332
+1000
+0.58
+4.19
+E-2
+PlusICE
+Eutectic
+Bulk
+-2
+28
+306
+1070
+0.58
+3.8
+E-3
+PlusICE
+Eutectic
+Bulk
+-3.7
+25
+312
+1060
+0.6
+3.84
+E-6
+PlusICE
+Eutectic
+Bulk
+-6
+21
+275
+1110
+0.56
+3.83
+E-10
+PlusICE
+Eutectic
+Bulk
+-10
+14
+286
+1140
+0.56
+3.33
+E-11
+PlusICE
+Eutectic
+Bulk
+-11.6
+11
+301
+1090
+0.57
+3.55
+E-12
+PlusICE
+Eutectic
+Bulk
+-12.3
+10
+250
+1110
+0.56
+3.47
+E-14
+PlusICE
+Eutectic
+Bulk
+-14.8
+5
+243
+1220
+0.53
+3.51
+E-15
+PlusICE
+Eutectic
+Bulk
+-15
+5
+303
+1060
+0.53
+3.87
+E-19
+PlusICE
+Eutectic
+Bulk
+-18.7
+-2
+282
+1125
+0.58
+3.29
+E-21
+PlusICE
+Eutectic
+Bulk
+-20.6
+-5
+263
+1240
+0.51
+3.13
+E-22
+PlusICE
+Eutectic
+Bulk
+-22
+-8
+234
+1180
+0.57
+3.34
+E-26
+PlusICE
+Eutectic
+Bulk
+-26
+-15
+260
+1250
+0.58
+3.67
+E-29
+PlusICE
+Eutectic
+Bulk
+-29
+-20
+222
+1420
+0.64
+3.69
+E-32
+PlusICE
+Eutectic
+Bulk
+-32
+-26
+243
+1290
+0.56
+2.95
+E-34
+PlusICE
+Eutectic
+Bulk
+-33.6
+-28
+240
+1205
+0.54
+3.05
+E-37
+PlusICE
+Eutectic
+Bulk
+-36.5
+-34
+213
+1500
+0.54
+3.15
+E-50
+PlusICE
+Eutectic
+Bulk
+-49.8
+-58
+218
+1325
+0.56
+3.28
+E-75
+PlusICE
+Eutectic
+Bulk
+-75
+-103
+102
+902
+0.17
+2.43
+E-78
+PlusICE
+Eutectic
+Bulk
+-78
+-108
+115
+880
+0.14
+1.96
+E-90
+PlusICE
+Eutectic
+Bulk
+-90
+-130
+90
+786
+0.14
+2.56
+E-114
+PlusICE
+Eutectic
+Bulk
+-114
+-173
+107
+782
+0.17
+2.39
+PCM-HS26N
+SAVENRG [83]
+Inorganic
+Bulk
+-26
+-15
+205
+1200
+PCM-HS23N
+SAVENRG
+Inorganic
+Bulk
+-23
+-9
+200
+1180
+PCM-HS10N
+SAVENRG
+Inorganic
+Bulk
+-10
+14
+220
+1100
+PCM-HS07N
+SAVENRG
+Inorganic
+Bulk
+-7
+19
+230
+1120
+PCM-HS01P
+SAVENRG
+Inorganic
+Bulk
+0
+32
+290
+1010
+PCM-OM05P
+SAVENRG
+Organic
+Bulk
+5
+41
+198
+770
+PCM-0M06P
+SAVENRG
+Organic
+Bulk
+5.5
+42
+260
+735
+PCM-0M08P
+SAVENRG
+Organic
+Bulk
+8
+46
+190
+1050
+PCM-0M11P
+SAVENRG
+Organic
+Bulk
+11
+52
+260
+1060
+PCM-0M21P
+SAVENRG
+Organic
+Bulk
+21
+70
+120
+1050
+PCM-H22P
+SAVENRG
+Inorganic
+Bulk
+22
+72
+185
+1540
+PCM-HS24P
+SAVENRG
+Inorganic
+Bulk
+24
+75
+185
+1540
+PCM-HS29P
+SAVENRG
+Inorganic
+Bulk
+29
+84
+190
+1550
+PCM-OM32P
+SAVENRG
+Organic
+Bulk
+32
+90
+235
+870
+PCM-OM35P
+SAVENRG
+Organic
+Bulk
+35
+95
+197
+870
+PCM-HS34P
+SAVENRG
+Inorganic
+Bulk
+34
+93
+150
+1850
+PCM-OM37P
+SAVENRG
+Organic
+Bulk
+37
+99
+218
+880
+PCM-OM46P
+SAVENRG
+Organic
+Bulk
+46
+115
+245
+860
+PCM-OM48P
+SAVENRG
+Organic
+Bulk
+48
+118
+255
+980
+PCM-OM53P
+SAVENRG
+Organic
+Bulk
+53
+127
+192
+860
+PCM-OM65P
+SAVENRG
+Organic
+Bulk
+65
+149
+210
+840
+PCM-HS89P
+SAVENRG
+Inorganic
+Bulk
+89
+192
+180
+1540
+MPCM -30
+Microtek [84]
+Organic
+Micro-encapsulated
+-30
+-22
+145
+MPCM -30D
+Microtek
+Organic
+Micro-encapsulated
+-30
+-22
+145
+MPCM -10
+Microtek
+Organic
+Micro-encapsulated
+-9.5
+15
+155
+MPCM -10D
+Microtek
+Organic
+Micro-encapsulated
+-9.5
+15
+155
+MPCM 6
+Microtek
+Organic
+Micro-encapsulated
+6
+43
+162
+MPCM 6D
+Microtek
+Organic
+Micro-encapsulated
+6
+43
+162
+MPCM 18
+Microtek
+Organic
+Micro-encapsulated
+18
+64
+168
+MPCM 18D
+Microtek
+Organic
+Micro-encapsulated
+18
+64
+168
+MPCM 28
+Microtek
+Organic
+Micro-encapsulated
+28
+82
+187.5
+MPCM 28D
+Microtek
+Organic
+Micro-encapsulated
+28
+82
+187.5
+MPCM28D-IR
+Microtek
+Organic
+Micro-encapsulated
+56
+133
+170
+MPCM 37
+Microtek
+Organic
+Micro-encapsulated
+37
+99
+195
+MPCM 37D
+Microtek
+Organic
+Micro-encapsulated
+37
+99
+195
+MPCM 43D
+Microtek
+Organic
+Micro-encapsulated
+43
+109
+195
+MPCM 56D
+Microtek
+Organic
+Micro-encapsulated
+56
+133
+170
+Latest 29 T
+TEAP
+Inorganic
+Bulk
+28
+82
+175
+1490
+1
+2
+Latest 25 T
+TEAP
+Inorganic
+Bulk
+24
+75
+175
+1490
+1
+2
+Latest 20 T
+TEAP
+Inorganic
+Bulk
+19
+66
+175
+1490
+1
+2
+Latest 18 T
+TEAP
+Inorganic
+Bulk
+17
+63
+175
+1490
+1
+2
+CrodaTherm 5
+Croda International Plc [85]
+Organic
+Bulk
+5
+41
+191
+CrodaTherm 6.5
+Croda International Plc
+Organic
+Bulk
+6.8
+44
+184
+CrodaTherm 15
+Croda International Plc
+Organic
+Bulk
+15
+59
+177
+CrodaTherm 21
+Croda International Plc
+Organic
+Bulk
+21
+70
+176
+CrodaTherm 29
+Croda International Plc
+Organic
+Bulk
+29
+84
+207
+CrodaTherm 53
+Croda International Plc
+Organic
+Bulk
+53
+127
+226
+The above dataset is also available as an Excel spreadsheet from UCLA Engineering
+Technology, development and encapsulation[edit]
+The most commonly used PCMs are salt hydrates, fatty acids and esters, and various paraffins (such as octadecane). Recently also ionic liquids were investigated as novel PCMs.
+As most of the organic solutions are water-free, they can be exposed to air, but all salt based PCM solutions must be encapsulated to prevent water evaporation or uptake. Both types offer certain advantages and disadvantages and if they are correctly applied some of the disadvantages becomes an advantage for certain applications.
+They have been used since the late 19th century as a medium for the thermal storage applications. They have been used in such diverse applications as refrigerated transportation[86] for rail[87] and road applications[88] and their physical properties are, therefore, well known.
+Unlike the ice storage system, however, the PCM systems can be used with any conventional water chiller both for a new or alternatively retrofit application. The positive temperature phase change allows centrifugal and absorption chillers as well as the conventional reciprocating and screw chiller systems or even lower ambient conditions utilizing a cooling tower or dry cooler for charging the TES system.
+The temperature range offered by the PCM technology provides a new horizon for the building services and refrigeration engineers regarding medium and high temperature energy storage applications. The scope of this thermal energy application is wide ranging of solar heating, hot water, heating rejection, i.e. cooling tower and dry cooler circuitry thermal energy storage applications.
+Since PCMs transform between solidliquid in thermal cycling, encapsulation[89] naturally become the obvious storage choice.
+Encapsulation of PCMs
+Macro-encapsulation: Early development of macro-encapsulation with large volume containment failed due to the poor thermal conductivity of most PCMs. PCMs tend to solidify at the edges of the containers preventing effective heat transfer.
+Micro-encapsulation: Micro-encapsulation on the other hand showed no such problem. It allows the PCMs to be incorporated into construction materials, such as concrete, easily and economically. Micro-encapsulated PCMs also provide a portable heat storage system. By coating a microscopic sized PCM with a protective coating, the particles can be suspended within a continuous phase such as water. This system can be considered a phase change slurry (PCS).
+Molecular-encapsulation is another technology, developed by Dupont de Nemours that allows a very high concentration of PCM within a polymer compound. It allows storage capacity up to 515kJ/m2 for a 5mm board (103MJ/m3). Molecular-encapsulation allows drilling and cutting through the material without any PCM leakage.
+As phase change materials perform best in small containers, therefore they are usually divided in cells. The cells are shallow to reduce static head  based on the principle of shallow container geometry. The packaging material should conduct heat well; and it should be durable enough to withstand frequent changes in the storage material's volume as phase changes occur. It should also restrict the passage of water through the walls, so the materials will not dry out (or water-out, if the material is hygroscopic). Packaging must also resist leakage and corrosion. Common packaging materials showing chemical compatibility with room temperature PCMs include stainless steel, polypropylene and polyolefin.
+Thermal composites[edit]
+Thermal-composites is a term given to combinations of phase change materials (PCMs) and other (usually solid) structures. A simple example is a copper-mesh immersed in a paraffin-wax. The copper-mesh within parraffin-wax can be considered a composite material, dubbed a thermal-composite. Such hybrid materials are created to achieve specific overall or bulk properties.
+Thermal conductivity is a common property which is targeted for maximisation by creating thermal composites. In this case the basic idea is to increase thermal conductivity by adding a highly conducting solid (such as the copper-mesh) into the relatively low conducting PCM thus increasing overall or bulk (thermal) conductivity. If the PCM is required to flow, the solid must be porous, such as a mesh.
+Solid composites such as fibre-glass or kevlar-pre-preg for the aerospace industry usually refer to a fibre (the kevlar or the glass) and a matrix (the glue which solidifies to hold fibres and provide compressive strength). A thermal composite is not so clearly defined, but could similarly refer to a matrix (solid) and the PCM which is of course usually liquid and/or solid depending on conditions. They are also meant to discover minor elements in the earth.
+Applications[edit]
+Phase-change material being employed in the treatment of neonates with birth asphyxia[90][91]
+Applications[1][92] of phase change materials include, but are not limited to:
+Thermal energy storage
+Cold Energy Battery
+Conditioning of buildings, such as 'ice-storage'
+Cooling of heat and electrical engines
+Cooling: food, beverages, coffee, wine, milk products, green houses
+Medical applications: transportation of blood, operating tables, hot-cold therapies, treatment of birth asphyxia[90]
+Human body cooling under bulky clothing or costumes.
+Waste heat recovery
+Off-peak power utilization: Heating hot water and Cooling
+Heat pump systems
+Passive storage in bioclimatic building/architecture (HDPE, paraffin)
+Smoothing exothermic temperature peaks in chemical reactions
+Solar power plants
+Spacecraft thermal systems
+Thermal comfort in vehicles
+Thermal protection of electronic devices
+Thermal protection of food: transport, hotel trade, ice-cream, etc.
+Textiles used in clothing
+Computer cooling
+Turbine Inlet Chilling with thermal energy storage
+Telecom shelters in tropical regions. They protect the high-value equipment in the shelter by keeping the indoor air temperature below the maximum permissible by absorbing heat generated by power-hungry equipment such as a Base Station Subsystem. In case of a power failure to conventional cooling systems, PCMs minimize use of diesel generators, and this can translate into enormous savings across thousands of telecom sites in tropics.
+Fire and safety issues[edit]
+Some phase change materials are suspended in water, and are relatively nontoxic. Others are hydrocarbons or other flammable materials, or are toxic. As such, PCMs must be selected and applied very carefully, in accordance with fire and building codes and sound engineering practices. Because of the increased fire risk, flamespread, smoke, potential for explosion when held in containers, and liability, it may be wise not to use flammable PCMs within residential or other regularly occupied buildings. Phase change materials are also being used in thermal regulation of electronics.
+See also[edit]
+Heat pipe
+References[edit]
+^ a b Kenisarin, M; Mahkamov, K (2007). "Solar energy storage using phase change materials". Renewable and Sustainable Energy Reviews. 11 (9): 19131965. doi:10.1016/j.rser.2006.05.005.
+^ Sharma, Atul; Tyagi, V.V.; Chen, C.R.; Buddhi, D. (2009). "Review on thermal energy storage with phase change materials and applications". Renewable and Sustainable Energy Reviews. 13 (2): 318345. doi:10.1016/j.rser.2007.10.005.
+^ "Heat storage systems" (PDF) by Mary Anne White, brings a list of advantages and disadvantages of Paraffin heat storage. A more complete list can be found in AccessScience website from McGraw-Hill, DOI 10.1036/1097-8542.YB020415, last modified: March 25, 2002 based on 'Latent heat storage in concrete II, Solar Energy Materials, Hawes DW, Banu D, Feldman D, 1990, 21, pp.6180.
+^ See above: 'Heat Storage Systems' (Mary Anne White), page 2
+^ Pasupathy, A; Velraj, R; Seeniraj, R (2008). "Phase change material-based building architecture for thermal management in residential and commercial establishments". Renewable and Sustainable Energy Reviews. 12: 3964. doi:10.1016/j.rser.2006.05.010.
+^ HyperPhysics, most from Young, Hugh D., University Physics, 7th Ed., Addison Wesley, 1992. Table 15-5. (most data should be at 293K (20 C; 68 F))
+^ Ice  Thermal Properties. Engineeringtoolbox.com. Retrieved on 2011-06-05.
+^ AAP (April 21, 2009). "Melburnians face 60pc water cost rise - MELBURNIANS face paying up to 60 per cent more for water and sewerage under proposals announced today by the state's economic regulator.". The Australian. Retrieved 2010-02-24.
+^ a b "Sodium Sulfate-Sodium Sulfate Manufacturers, Suppliers and Exporters on Alibaba.comSulphate".
+^ a b Sar, A (2002). "Thermal and heat transfer characteristics in a latent heat storage system using lauric acid". Energy Conversion and Management. 43 (18): 24932507. doi:10.1016/S0196-8904(01)00187-X.
+^ a b H. Kakuichi et al., IEA annex 10 (1999)
+^ Beare-Rogers, J.; Dieffenbacher, A.; Holm, J.V. (2001). "Lexicon of lipid nutrition (IUPAC Technical Report)". Pure and Applied Chemistry. 73 (4): 685744. doi:10.1351/pac200173040685.
+^ "lauric acid Q/MHD002-2006 lauric acid CN;SHN products". Alibaba.com. Retrieved 2010-02-24.
+^ "Fatty Acids  Fractioned (Asia Pacific) Price Report  Chemical pricing information". ICIS Pricing. Retrieved 2010-03-10.
+^ a b Nagano, K (2003). "Thermal characteristics of manganese (II) nitrate hexahydrate as a phase change material for cooling systems". Applied Thermal Engineering. 23 (2): 229241. doi:10.1016/S1359-4311(02)00161-8.
+^ a b Yinping, Zhang; Yi, Jiang; Yi, Jiang (1999). "A simple method, the -history method, of determining the heat of fusion, specific heat and thermal conductivity of phase-change materials". Measurement Science and Technology. 10 (3): 201205. Bibcode:1999MeScT..10..201Y. doi:10.1088/0957-0233/10/3/015.
+^ Kalapathy, Uruthira; Proctor, Andrew; Shultz, John (2002-12-10). "Silicate Thermal Insulation Material from Rice Hull Ash". Industrial & Engineering Chemistry Research. 42 (1): 4649. doi:10.1021/ie0203227.
+^ Sodium Silicate (Water Glass). Sheffield-pottery.com. Retrieved on 2011-06-05.
+^ Hukseflux Thermal Sensors. Hukseflux.com. Retrieved on 2011-06-05.
+^ Aluminium. Goodefellow. Web.archive.org (2008-11-13). Retrieved on 2011-06-05.
+^ "Aluminum Prices, London Metal Exchange (LME) Aluminum Alloy Prices, COMEX and Shanghai Aluminum Prices". 23 February 2010. Retrieved 2010-02-24.
+^ Copper. Goodfellow. Web.archive.org (2008-11-16). Retrieved on 2011-06-05.
+^ a b c d e "Metal Prices and News". 23 February 2010. Retrieved 2010-02-24.
+^ Gold. Goodfellow. Web.archive.org (2008-11-15). Retrieved on 2011-06-05.
+^ Iron. Goodfellow. Web.archive.org (2008-11-18). Retrieved on 2011-06-05.
+^ "Iron Page". 7 December 2007. Retrieved 2010-02-24.
+^ Lead. Goodfellow. Web.archive.org (2008-11-18). Retrieved on 2011-06-05.
+^ Lithium. Goodfellow. Web.archive.org (2008-11-18). Retrieved on 2011-06-05.
+^ "Historical Price Query". August 14, 2009. Retrieved 2010-02-24.
+^ Silver. Goodfellow. Web.archive.org (2008-11-17). Retrieved on 2011-06-05.
+^ Titanium. Goodfellow. Web.archive.org (2008-11-15). Retrieved on 2011-06-05.
+^ "Titanium Page". 28 December 2007. Retrieved 2010-02-24.
+^ Zinc. Goodfellow. Web.archive.org (2008-11-18). Retrieved on 2011-06-05.
+^ a b c d e f g h i j k l m n o Tamme, Rainer (February 20, 2003). "Phase Change - Storage Systems" (PDF).
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af ag ah ai aj ak al am an ao ap aq ar as at au av aw ax ay az ba bb bc bd be bf bg bh bi bj bk bl bm bn bo bp bq br bs bt bu bv bw bx by bz ca cb cc cd ce cf cg ch ci cj ck cl "Review on thermal energy storage with phase change materials and applications". Renewable and Sustainable Energy Reviews. 13: 318345. doi:10.1016/j.rser.2007.10.005.
+^ a b c d e "Infinite R | Phase Change Materials | Thermal Storage | Insolcorp, Inc  Phase Change Materials for Buildings & Environment". Retrieved 2016-08-31.
+^ "Pluss".
+^ "TECHNICAL DATA SHEET OF HS 33N" (PDF).
+^ "Pluss".
+^ "TECHNICAL DATA SHEET  savE HS 26N" (PDF).
+^ "TECHNICAL DATA SHEET OF savE HS23N" (PDF).
+^ (PDF) http://pluss.co.in/downloads/TDS/Doc%20318%20TDS_HS%2018N.pdf. Missing or empty |title= (help)
+^ "TECHNICAL DATA SHEET OF savE HS15N" (PDF).
+^ (PDF) http://pluss.co.in/downloads/TDS/Doc404%20TDS_HS10N.pdf. Missing or empty |title= (help)
+^ "TECHNICAL DATA SHEET  savE HS 7N" (PDF).
+^ (PDF) http://pluss.co.in/downloads/TDS/Doc%20431_TDS%20HS%2001.pdf. Missing or empty |title= (help)
+^ "TECHNICAL DATA SHEET  savE OM 03" (PDF).
+^ (PDF) http://pluss.co.in/downloads/TDS/Doc%20471_TDS%20FS03.pdf. Missing or empty |title= (help)
+^ "TECHNICAL DATA SHEET  savE OM 05" (PDF).
+^ (PDF) http://pluss.co.in/downloads/TDS/Doc%20473_TDS%20FS05.pdf. Missing or empty |title= (help)
+^ "TECHNICAL DATA SHEET  savE OM 08" (PDF).
+^ "TECHNICAL DATA SHEET  savE OM 11" (PDF).
+^ "TECHNICAL DATA SHEET  savE OM 21" (PDF).
+^ (PDF) http://pluss.co.in/downloads/TDS/Doc%20353%20TDS_FS21.pdf. Missing or empty |title= (help)
+^ "TECHNICAL DATA SHEET  savE HS 21" (PDF).
+^ "TECHNICAL DATA SHEET  savE HS 22" (PDF).
+^ "TECHNICAL DATA SHEET  savE HS 24" (PDF).
+^ "TECHNICAL DATA SHEET  savE HS 29" (PDF).
+^ (PDF) http://pluss.co.in/downloads/TDS/Doc%20457%20TDS_OM%2029.pdf. Missing or empty |title= (help)
+^ (PDF) http://pluss.co.in/downloads/TDS/Doc%20456%20TDS_FS29.pdf. Missing or empty |title= (help)
+^ (PDF) http://pluss.co.in/downloads/TDS/Doc%20470_TDS%20OM30.pdf. Missing or empty |title= (help)
+^ (PDF) http://pluss.co.in/downloads/TDS/Doc%20469%20TDS_FS30.pdf. Missing or empty |title= (help)
+^ "TECHNICAL DATA SHEET  savE OM 32" (PDF).
+^ "TECHNICAL DATA SHEET  savE HS 34" (PDF).
+^ "TECHNICAL DATA SHEET  savE OM 35a" (PDF).
+^ (PDF) http://pluss.co.in/technical-datasheets/Doc%20385%20TDS_OM37.pdf. Missing or empty |title= (help)
+^ (PDF) http://pluss.co.in/technical-datasheets/Doc%20383%20TDS_OM46.pdf. Missing or empty |title= (help)
+^ (PDF) http://pluss.co.in/technical-datasheets/Doc%20395_TDS%20OM48.pdf. Missing or empty |title= (help)
+^ (PDF) http://pluss.co.in/technical-datasheets/Doc%20445_TDS%20OM%2050.pdf. Missing or empty |title= (help)
+^ (PDF) http://pluss.co.in/technical-datasheets/Doc%20418%20TDS_OM55.pdf. Missing or empty |title= (help)
+^ (PDF) http://pluss.co.in/technical-datasheets/Doc%20426_TDS%20OM65.pdf. Missing or empty |title= (help)
+^ (PDF) http://pluss.co.in/technical-datasheets/Doc%20419_TDS%20FSM65.pdf. Missing or empty |title= (help)
+^ (PDF) http://pluss.co.in/technical-datasheets/Doc307-TDS-HS-89.pdf. Missing or empty |title= (help)
+^ PureTemp. "Technology".
+^ "Honeywell, Inc.".
+^ "Rubitherm GmbH".
+^ "Climator - Home".
+^ "Mitsubishi Chemical Corporation".
+^ "CRISTOPIA Energy Systems".
+^ "PCM Phase Change Material Materials Manufacturers".
+^ "Phase Change Materials - BASF Dispersions & Pigments".
+^ "Phase Change Materials: Thermal Management Solutions".
+^ "Phase Change Materials (PCM) - Macro-encapsulated PCM manufacturing & supply".
+^ "Microtek Laboratories - Microencapsulation Technology".
+^ Croda International Plc. "Croda Phase Change Materials:: Products - Products".
+^ Frederik Tudor the Ice King on ice transport during the 19th century
+^ Richard Trevithick's steam locomotive ran in 1804
+^ Amde Bolle created steam cars beginning at 1873
+^ Tyagi, Vineet Veer; Buddhi, D. (2007). "PCM thermal storage in buildings: A state of art". Renewable and Sustainable Energy Reviews. 11 (6): 11461166. doi:10.1016/j.rser.2005.10.002.
+^ a b "How two low-cost, made-in-India innovations MiraCradle & Embrace Nest are helping save the lives of newborns". timesofindia-economictimes.
+^ "MiraCradle - Neonate Cooler". C1 control character in |title= at position 11 (help)
+^ Omer, A (2008). "Renewable building energy systems and passive human comfort solutions". Renewable and Sustainable Energy Reviews. 12 (6): 15621587. doi:10.1016/j.rser.2006.07.010.
+Further reading[edit]
+Raoux, S. (2009). "Phase Change Materials". Annual Review of Materials Research. 39: 2548. Bibcode:2009AnRMS..39...25R. doi:10.1146/annurev-matsci-082908-145405.
+NewPP limit report
+Parsed by mw1234
+Cached time: 20161120095255
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.864 seconds
+Real time usage: 0.951 seconds
+Preprocessor visited node count: 18813/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 168199/2097152 bytes
+Template argument size: 12438/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Lua time usage: 0.222/10.000 seconds
+Lua memory usage: 4.13 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+708.201
+1 - -total
+42.90%
+303.841
+1 - Template:Reflist
+32.83%
+232.516
+172 - Template:Nts
+21.93%
+155.302
+62 - Template:Cite_web
+21.20%
+150.122
+172 - Template:Number_table_sorting/Qno/Fyes/Sno/0
+9.36%
+66.310
+12 - Template:Cite_journal
+5.65%
+39.993
+1 - Template:Lead_too_short
+3.99%
+28.227
+24 - Template:Rnd
+3.69%
+26.103
+1 - Template:Ambox
+1.04%
+7.357
+4 - Template:Ntsh
+Saved in parser cache with key enwiki:pcache:idhash:1799584-0!*!0!!en!4!*!math=5 and timestamp 20161120095310 and revision id 750533244
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Phase-change_material&oldid=750533244"
+Categories: Building engineeringPhysical chemistrySustainable buildingHidden categories: Pages with citations lacking titlesPages with citations having bare URLsCS1 errors: invisible charactersWikipedia introduction cleanup from September 2012All pages needing cleanupArticles covered by WikiProject Wikify from September 2012All articles covered by WikiProject Wikify

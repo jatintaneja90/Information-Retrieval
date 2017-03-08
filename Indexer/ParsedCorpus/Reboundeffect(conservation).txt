@@ -1,0 +1,158 @@
+Reboundeffect(conservation)
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about the conservation effect. For the pharmacological term, see rebound effect.
+In conservation and energy economics, the rebound effect (or take-back effect, RE) is the reduction in expected gains from new technologies that increase the efficiency of resource use, because of behavioral or other systemic responses. These responses usually tend to offset the beneficial effects of the new technology or other measures taken. While the literature on the rebound effect generally focuses on the effect of technological improvements on energy consumption, the theory can also be applied to the use of any natural resource or other input, such as labor. The rebound effect is generally expressed as a ratio of the lost benefit compared to the expected environmental benefit when holding consumption constant.[1]
+For instance, if a 5% improvement in vehicle fuel efficiency results in only a 2% drop in fuel use, there is a 60% rebound effect (since (5-2)5 = 60%).[2] The 'missing' 3% might have been consumed by driving faster or further than before.
+The existence of the rebound effect is uncontroversial. However, debate continues as to the magnitude and impact of the effect in real world situations.[3] Depending on the magnitude of the rebound effect, there are five different rebound effect types:[4]
+Super conservation (RE < 0): the actual resource savings are higher than expected savings  the rebound effect is negative. This occurs if the increase in efficiency reduces costs.
+Zero rebound (RE = 0): The actual resource savings are equal to expected savings  the rebound effect is zero.
+Partial rebound (0 < RE < 1): The actual resource savings are less than expected savings  the rebound effect is between 0% and 100%. This is sometimes known as 'take-back', and is the most common result of empirical studies on individual markets.
+Full rebound (RE = 1): The actual resource savings are equal to the increase in usage  the rebound effect is at 100%.
+Backfire (RE > 1): The actual resource savings are negative because usage increased beyond potential savings  the rebound effect is higher than 100%. This situation is commonly known as the Jevons paradox.
+In order to avoid the rebound effect, environmental economists have suggested that any cost savings from efficiency gains be taxed in order to keep the cost of use the same.[5]
+Contents
+1 History
+1.1 Khazzoom-Brookes postulate
+2 Types of effects
+2.1 Direct and indirect effects
+2.2 Indirect effects from conservation
+2.3 Economy wide effects
+2.4 Income level variation
+2.5 Rebounds with respect to time
+3 Suggested solutions
+4 See also
+5 Notes
+6 See also
+History[edit]
+See also: Jevons paradox and Khazzoom-Brookes postulate
+The rebound effect was first described by William Stanley Jevons in his 1865 book The Coal Question, where he observed that the invention in Britain of a more efficient steam engine meant that the use of coal became economically viable for many new uses. This ultimately led to increased coal demand and much increased coal consumption, even as the amount of coal required for any particular use fell. According to Jevons, "It is a confusion of ideas to suppose that the economical use of fuel is equivalent to diminished consumption. The very contrary is the truth."[6]
+However, most contemporary authors credit Daniel Khazzoom for the re-emergence of the rebound effect in the research literature. Although Khazzoom did not use the term, he raised the idea that there is a less than one-to-one correlation between gains in energy efficiency and reductions in energy use, because of a change in the 'price content' of energy in the provision of the final consumer product.[7] His study was based on energy efficiency gains in home appliances, but the principle applies throughout the economy. A commonly studied example is that of a more fuel-efficient car. As each kilometre of travel becomes cheaper, there will be an increase in driving speed and/or kilometres driven, as long as the price elasticity of demand for car travel is not zero. Other examples might include the growth in garden lighting after the introduction of energy-saving compact fluorescent lamps or the increasing size of houses driven partly by higher fuel efficiency in home heating technologies. If the rebound effect is larger than 100%, all gains from the increased fuel efficiency would be wiped out by increases in demand (the Jevons paradox).
+Khazzoom's thesis was criticized heavily by Michael Grubb[1] and Amory Lovins[8] who dismissed any disconnection between energy efficiency improvements in an individual market, and an economy-wide reduction in energy consumption. Developing Khazzoom's idea further, and prompting heated debate in the Energy Policy journal at that time, Len Brookes wrote of the fallacies in the energy-efficiency solution to greenhouse gas emissions.[9] His analysis showed that any economically justified improvements in energy efficiency would in fact stimulate economic growth and increase total energy use. For improvements in energy efficiency to contribute to a reduction in economy-wide energy consumption, the improvement must come at a greater economic cost. Commenting in regard to energy efficiency advocates, he concludes that, "the present high profile of the topic seems to owe more to the current tide of green fervor than to sober consideration of the facts, and the validity and cost of solutions."[9]
+Khazzoom-Brookes postulate[edit]
+In 1992, economist Harry Saunders coined the term "Khazzoom-Brookes postulate" to describe the idea that energy efficiency gains paradoxically result in increases in energy use (the modern day equivalent of the Jevons paradox). He modeled energy efficiency gains using a variety of neo-classical growth models, and showed that the postulate is true over a wide range of assumptions. In the conclusion of his paper, Saunders stated that:[10]
+In the absence of efficiency gains, energy use will grow in lock step with economic growth (energy intensity will stay fixed) when energy prices are fixed.  Energy efficiency gains can increase energy consumption by two means: by making energy appear effectively cheaper than other inputs; and by increasing economic growth, which pulls up energy use.  These results, while by no means proving the Khazzoom-Brookes postulate, call for prudent energy analysts and policy makers to pause a long moment before dismissing it.
+This work provided a theoretical grounding for empirical studies and played an important role in framing the problem of the rebound effect. It also reinforced an emerging ideological divide between energy economists on the extent of the yet to be named effect. The two tightly held positions are:
+Technological improvements in energy efficiency enable economic growth that was otherwise impossible without the improvement; as such, energy efficiency improvements will usually back-fire in the long term.
+Technological improvements in energy efficiency may result in a small take-back. However, even in the long term, energy efficiency improvements usually result in large overall energy savings.
+Even though many studies have been undertaken in this area, neither position has yet claimed a consensus view in the academic literature. Recent studies have demonstrated that direct rebound effects are significant (about 30% for energy), but that there is not enough information about indirect effects to know whether or how often back-fire occurs. Economists tend to the first position, but most governments, businesses, and environmental groups adhere to the second. Governments and environmental groups often advocate further research into fuel efficiency and radical increases in the efficient use of energy as the primary means for reducing energy use and reducing greenhouse gas emissions (to alleviate the impacts of climate change). However, if the first position more accurately reflects economic reality, current efforts to invent fuel-efficient technologies may not much reduce energy use, and may in fact paradoxically increase oil and coal consumption, and greenhouse gas emissions, over the long run.[3][11]
+Types of effects[edit]
+The full rebound effect can be distinguished into three different economic reactions to technological changes:[12]
+Direct rebound effect: An increase in consumption of a good is caused by the lower cost of use. This is caused by the substitution effect.
+Indirect rebound effect: The lower cost of a service enables increased household consumption of other goods and services. For example, the savings from a more efficient cooling system may be put into another luxury good. This is caused by the income effect.
+Economy wide effect: The fall in service cost reduces the price of other goods, creates new production possibilities and increases economic growth.
+In the example of improved vehicle fuel efficiency, the direct effect would be the increased fuel use from more driving as driving becomes cheaper. The indirect effect would incorporate the increased consumption of other goods enabled by household cost savings from increased fuel efficiency. Since consumption of other goods increase, the embodied fuel used in the production of those goods would increase as well. Finally, the economy wide effect would include the long-term effect of the increase in vehicle fuel efficiency on production and consumption possibilities throughout the economy, including any effects on economic growth rates.
+Direct and indirect effects[edit]
+Direct and Indirect Effects
+For cost reducing resource efficiency, distinguishing between direct and indirect effects is shown in Figure 1 below. The horizontal axis shows units of consumption of the targets good (which could be for example clothes washing, and measured in terms of kilograms of clean clothes) with consumption of all other goods and services on the vertical axis. An economical technology change that enables each unit of washing to be produced with less electricity results in a reduction of the price per unit of washing. This shifts the household budget line rightwards. The result is a substitution effect because of the decreased relative price, but also an income effect due to the increased real income. The substitution effect increases consumption of washing from Q1 to QS, and the income effect from QS to Q2. The total increase in consumption of washing from Q1 to Q2 and the resulting increase in electricity consumption is the direct effect. The indirect effect comprises the increase in other consumption, from O1 to O2. The scale of each of these effects depends on the elasticity of demand for each of the goods, and the embodied resource or externality associated with each good. Indirect effects are difficult to measure empirically.[11] In the manufacturing sector, it has been estimated that there is about a 24% rebound effect due to increases in fuel efficiency.[11] A parallel effect will happen for cost saving efficient technologies for producers, where output and substitution effects will occur.
+The rebound effect can increase the difficulty of projecting the reduction in greenhouse emissions from an improvement in energy efficiency.[13] Estimation of the scale of direct effects on residential electricity, heating and motor fuel consumption has been common motivation for research of rebound effects.[3] Evaluation and econometric methods are the two approaches generally employed in estimating the size of this effect. Evaluation methods rely on quasi-experimental studies and measure the before and after changes to energy consumption from the implementation of energy efficient technology, while econometric methods utilize elasticity estimates to forecast the likely effects from changes in the effective price of energy services.
+Research has found that in developed countries, the direct rebound effect is usually small to moderate, ranging from roughly 5% to 40% in residential space heating and cooling.[13][14][15][16] Some of the direct rebound effect can be attributed to consumers who were previously unable to use a service.[17] However, the rebound effect may be more significant in the context of the undeveloped markets in developing economies.[18][19]
+Indirect effects from conservation[edit]
+Figure2: change in preferences of a household revealing indirect effects from conservation
+For conservation measures, indirect effects closely approximate the total economy wide effect. Conservation measures constitute a change in consumption patterns away from particular targeted goods towards other goods. Figure 2 shows that a change in preference of a household results in a new consumption pattern that has less of the target good (QT to QT`), and more of all other goods (QO to QO`). The resource consumption or externalities embodied in this other consumption is the indirect effect.
+Although a persuasive view has prevailed that indirect effects with respect to energy and greenhouse emissions should be very small due to energy directly comprising only a small component of household expenditure, this view is gradually being eroded.[8][20] Many recent studies based on life-cycle analysis show the energy consumed indirectly by households is often higher than consumed directly through electricity, gas, and motor fuel, and is a growing proportion.[21][22][23] This is evident in the results of recent studies that indicate indirect effects from household conservation can range from 10% to 200% depending on the scenario, with higher indirect rebounds from diet changes aiming to reduce food miles.[24]
+Economy wide effects[edit]
+Even if the direct and indirect rebound effects add up to less than 100%, technological improvements that increase efficiency may still result in economy wide effects that results in increased resource use for the economy as a whole. In particular, this would happen if resource efficiency enables an expansion of production in the economy, and an increase in the rate of economic growth. For example, for the case of energy use, more efficient technology is equivalent to a lower price for energy resources. It is well known that changes in energy costs have a large impact on economic growth rates. In the 1970s sharp increases in petroleum prices led to stagflation (recession and inflation) in the developed countries, whereas in the 1990s lower petroleum prices contributed to higher economic growth. An improvement in energy efficiency has the same effect as lower fuel prices, and leads to faster economic growth. Economists generally believe that especially for the case of energy use, more efficient technologies will lead to increased use, because of this growth effect.
+To model the scale of this effect, economists use computational general equilibrium (CGE) models. While CGE methodology is by no means perfect, results indicate that economy wide rebound effects are likely to be very high, with estimates above 100% rather common.[3] One simple CGE model has been made available online for use by economists.[25]
+Income level variation[edit]
+Research has shown that the direct rebound effects for energy services is lower at high income levels, due to less price sensitivity. Studies have found that own-price elasticity of gas consumption by UK households was two times greater for households in the lowest income decile when compared to the highest decile. Studies have also observed higher rebounds in low-income houses for improvements in heating technology.[26][27] Evaluation methods have also been used to assess the scale of rebound effects from efficient heating installations in lower income homes in the United Kingdom. This research found that direct effects are close to 100% in many cases.[28] High income households in developed countries are likely to set the temperature at the optimum comfort level, regardless of the cost  therefore any cost reduction does not result in increased heating, for it was already optimal. But low-income households are more price sensitive, and have made thermal sacrifices due to the cost of heating.[17] In this case, a high direct rebound is likely. This analogy can be extended to most household energy consumption.
+The size of the rebound effect is likely to be higher in developing countries according to macro-level assessments [19] and case studies. One case study was undertaken in rural India to evaluate the impact of an alternative energy scheme.[18] Households were given solar powered lighting in an attempt to reduce the use of kerosene for lighting to zero except for seasons with insufficient sunshine. The scheme was also designed to encourage a future willingness to pay for efficient lighting. The results were surprising, with high direct rebounds between 50 and 80%, and total direct and indirect rebound above 100%. Because the new lighting source was essentially zero cost, operating hours for lighting went up from an average of 2 to 6 per day, with new lighting consisting of a combination of both the no-cost solar lamps and also kerosene lamps. Also, more cooking was undertaken which enabled an increased trade of food with neighboring villages.
+Rebounds with respect to time[edit]
+The individual opportunity of cost is an often overlooked cause of rebound effect. Time is being substituted with an increase in demand for a service.[11][29][30] Research articles often examine increasingly convenient and more rapid modes of transportation to determine the rebound effect in energy demand. Because time cost forms a major part of the total cost of commuter transport, rapid modes will reduce real costs, but will also encourage longer commuting distances which will in turn increase energy consumption.[3][29] While important, it is almost impossible to estimate empirically the scale of such effects due to the subjective nature of the value of time. Time saved can either be used towards additional work or leisure which may have differing degrees of rebound effect. Labor time saved at work due to the increased labour productivity is likely to be spent on further labor time at higher productive rates. For leisure time saving, this may simply encourage people to diversify their leisure interests to fill their generally fixed period of leisure time.
+Suggested solutions[edit]
+In order to ensure that efficiency enhancing technological improvements actually reduce fuel use, the ecological economists Mathis Wackernagel and William Rees have suggested that any cost savings from efficiency gains be "taxed away or otherwise removed from further economic circulation. Preferably they should be captured for reinvestment in natural capital rehabilitation."[5] This can be achieved through, for example, the imposition of a green tax, a cap and trade program, higher fuel taxes or the proposed "restore" approach.[31] Policies can also directly address projected yearly consumption of energy rather than device efficiency, especially for systems where the use can be accurately projected, such as street lighting.[32]
+See also[edit]
+Le Chatelier's Principle
+Moral credential - the psychological phenomenon whereby a person who takes one ethical action may feel less inclined to take a different one in addition
+Risk compensation
+Notes[edit]
+^ a b Grubb, M.J. (1990). "Energy efficiency and economic fallacies". Energy Policy. 18: 783785. doi:10.1016/0301-4215(90)90031-x.
+^ Wang, Zhaohua; Han, Bai; Lu, Milin (2016). "Measurement of energy rebound effect in households: Evidence from residential electricity consumption in Beijing, China". Renewable and Sustainable Energy Reviews. 58: 852861. doi:10.1016/j.rser.2015.12.179.
+^ a b c d e Steven Sorrell (2007). "The rebound effect: An assessment of the evidence for economy-wide energy savings from improved energy efficiency". UK Energy Research Centre. Retrieved 2008-09-23.
+^ Saunders, Harry D. (2008). "Fuel conserving (and using) production functions". Energy Economics. 30 (5): 21842235. doi:10.1016/j.eneco.2007.11.006.
+^ a b Wackernagel, Mathis; Rees, William (1997). "Perceptual and structural barriers to investing in natural capital: economics from an ecological footprint perspective". Ecological Economics. 20 (3): 324. doi:10.1016/S0921-8009(96)00077-8.
+^ Jevons, William Stanley (1866). The Coal Question (2nd ed.). London: Macmillan and Co. Chapter VII. Retrieved 2008-07-21.
+^ Khazzoom, Daniel J. (1980). "Economic implications for mandated efficiency in standards for household appliances.". The Energy Journal. 1 (4): 2140. doi:10.5547/issn0195-6574-ej-vol1-no4-2.
+^ a b Lovins, Amory B. (1988). "Energy Saving Resulting from the Adoption of More Efficient Appliances: Another View". The Energy Journal. 9 (2). doi:10.5547/issn0195-6574-ej-vol9-no2-10. JSTOR41970456. And: Henly, John; Ruderman, Henry; Levine, Mark D. (1988). "Energy Saving Resulting from the Adoption of More Efficient Appliances: A Follow-up". The Energy Journal. 9 (2): 163170. JSTOR41970457.
+^ a b Brookes, L. (1990). "The greenhouse effect: the fallacies in the energy efficient solution". Energy Policy. 18: 199201. doi:10.1016/0301-4215(90)90145-t.
+^ Saunders, Harry (1992). "The Khazzom-Brookes Postulate and Neoclassical Growth". Energy Journal. 13: 131148. doi:10.5547/issn0195-6574-ej-vol13-no4-7.
+^ a b c d Herring, Horace; Roy, Robin (2007). "Technological innovation, energy efficient design and the rebound effect". Technovation. 27 (4): 194203. doi:10.1016/j.technovation.2006.11.004.
+^ Sorrell, Steve; Dimitropoulos, John (2008). "The rebound effect: Microeconomic definitions, limitations and extensions". Ecological Economics. 65 (3): 636649. doi:10.1016/j.ecolecon.2007.08.013.
+^ a b Gottron, Frank (2001). "Energy Efficiency and the Rebound Effect: Does Increasing Efficiency Decrease Demand?". Congressional Research Service reports. Archived from the original on 2007-12-28.
+^ Greening, Lorna A.; Greene, David L.; Difiglio, Carmen (2000). "Energy efficiency and consumption  the rebound effect  a survey". Energy Policy. 28 (6-7): 389401. doi:10.1016/S0301-4215(00)00021-5.
+^ Small, Kenneth A.; Van Dender, Kurt (21 September 2005). "The Effect of Improved Fuel Economy on Vehicle Miles Traveled: Estimating the Rebound Effect Using U.S. State Data, 1966-2001". University of California Energy Institute: Policy & Economics. Retrieved 2007-11-23.
+^ Freire-Gonzlez, J (2010). "Empirical evidence of direct rebound effect in Catalonia". Energy Policy. 38 (5): 23092314. doi:10.1016/j.enpol.2009.12.018.
+^ a b Sorrell, Steve; Dimitropoulos, John; Sommerville, Matt (2009). "Empirical estimates of the direct rebound effect: A review". Energy Policy. 37 (4): 13561371. doi:10.1016/j.enpol.2008.11.026.
+^ a b Roy, Joyashree (2000). "The rebound effect: some empirical evidence from India". Energy Policy. 28: 433438. doi:10.1016/S0301-4215(00)00027-6.
+^ a b Antal, Mikls; van den Bergh, Jeroen C.J.M. (2014). "Re-spending rebound: A macro-level assessment for OECD countries and emerging economies". Energy Policy. 68: 585590. doi:10.1016/j.enpol.2013.11.016.
+^ Schipper, Lee; Grubb, Michael (2000). "On the rebound? Feedback between energy intensities and energy uses in IEA countries". Energy Policy. 28 (6-7): 367388. doi:10.1016/s0301-4215(00)00018-5.
+^ Vringer, Kees; Blok, Kornelis (2000). "Long-term trends in direct and indirect household energy intensities: a factor in dematerialisation?". Energy Policy. 28 (10): 713727. doi:10.1016/s0301-4215(00)00050-1.
+^ Vringer, Kees; Aalbers, Theo; Blok, Kornelis (2007). "Household energy requirement and value patterns". Energy Policy. 35 (1): 553566. doi:10.1016/j.enpol.2005.12.025.
+^ Lenzen, Manfred; Dey, Christopher J. (2002). "Economic, energy and greenhouse emissions impacts of some consumer choice, technology and government outlay options". Energy Economics. 24 (4): 377403. doi:10.1016/s0140-9883(02)00007-5.
+^ Alfredsson, E. (2004). ""Green" consumption--no solution for climate change". Energy. 29: 513524. doi:10.1016/j.energy.2003.10.013.
+^ Saunders, Harry D (2005). "A Calculator for Energy Consumption Changes Arising from New Technologies". The B.E. Journal of Economic Analysis & Policy. 5 (1). doi:10.1515/1538-0653.1467.
+^ Baker, Paul; Blundell, Richard; Micklewright, John (1989). "Modelling Household Energy Expenditures Using Micro-Data". The Economic Journal. 99 (397): 720. doi:10.2307/2233767.
+^ Milne, Geoffrey; Boardman, Brenda (2000). "Making cold homes warmer: the effect of energy efficiency improvements in low-income homes. A report to the Energy Action Grants Agency Charitable Trust". Energy Policy. 28 (6-7): 411424. doi:10.1016/s0301-4215(00)00019-7.
+^ Hong, Sung H.; Oreszczyn, Tadj; Ridley, Ian (2006). "The impact of energy efficient refurbishment on the space heating fuel consumption in English dwellings". Energy and Buildings. 38 (10): 11711181. doi:10.1016/j.enbuild.2006.01.007.
+^ a b Binswanger, Mathias (2001). "Technological progress and sustainable development: what about the rebound effect?". Ecological Economics. 36 (1): 119132. doi:10.1016/S0921-8009(00)00214-7.
+^ Jalas, Mikko (2002). "A time use perspective on the materials intensity of consumption". Ecological Economics. 41: 101123. doi:10.1016/s0921-8009(02)00018-6.
+^ Bindewald, Eckart (2013). "An R of sustainability that can tame the "conundrum"". PeerJ PrePrints: 1:e46v1. doi:10.7287/peerj.preprints.46v1.
+^ Kyba, C. C. M.; Hnel, A.; Hlker, F. (2014). "Redefining efficiency for outdoor lighting". Energy & Environmental Science. 7 (6): 1806. doi:10.1039/C4EE00566J.
+See also[edit]
+Efficient (disambiguation)
+Encyclopedia of the Earth
+Authority control
+GND: 1037703324
+Economy portal
+Environment portal
+Sustainable development portal
+Energy portal
+NewPP limit report
+Parsed by mw1261
+Cached time: 20161120085503
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.354 seconds
+Preprocessor visited node count: 1730/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 62071/2097152 bytes
+Template argument size: 683/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.146/10.000 seconds
+Lua memory usage: 3.44 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+309.535
+1 - -total
+59.77%
+185.013
+1 - Template:Reflist
+41.67%
+128.970
+30 - Template:Cite_journal
+7.95%
+24.616
+1 - Template:Authority_control
+7.62%
+23.583
+1 - Template:About
+5.12%
+15.845
+1 - Template:Portal_bar
+4.84%
+14.981
+1 - Template:Use_dmy_dates
+3.44%
+10.647
+1 - Template:DMCA
+2.99%
+9.250
+1 - Template:Dated_maintenance_category
+2.31%
+7.164
+2 - Template:Cite_web
+Saved in parser cache with key enwiki:pcache:idhash:10386571-0!*!0!!en!4!* and timestamp 20161120085502 and revision id 746190422
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Rebound_effect_(conservation)&oldid=746190422"
+Categories: Energy conservationEconomics paradoxesIndustrial ecologyAlternative energy economyHidden categories: Use dmy dates from August 2016Wikipedia articles with GND identifiers

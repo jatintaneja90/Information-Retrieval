@@ -1,0 +1,1315 @@
+Peakoil
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+A 1956 world oil production distribution, showing historical data and future production, proposed by M. King Hubbert  it has a peak of 12.5 billion barrels per year in about the year 2000
+Hubbert's upper-bound prediction for US crude oil production (1956), and actual lower-48 states production through 2014
+Peak oil, an event based on M. King Hubbert's theory, is the point in time when the maximum rate of extraction of petroleum is reached, after which it is expected to enter terminal decline.[1] Peak oil theory is based on the observed rise, peak, fall, and depletion of aggregate production rate in oil fields over time. It is often confused with oil depletion; however, peak oil is the point of maximum production, while depletion refers to a period of falling reserves and supply.
+Some observers, such as petroleum industry experts Kenneth S. Deffeyes and Matthew Simmons, predict negative global economy implications following a post-peak production decline and subsequent oil price increase because of the high dependence of most modern industrial transport, agricultural, and industrial systems on the low cost and high availability of oil.[2][3] Predictions vary greatly as to what exactly these negative effects would be.
+Oil production forecasts on which predictions of peak oil are based are often made within a range which includes optimistic (higher production) and pessimistic (lower production) scenarios. Optimistic[4] estimations of peak production forecast the global decline will begin after 2020, and assume major investments in alternatives will occur before a crisis, without requiring major changes in the lifestyle of heavily oil-consuming nations. Pessimistic predictions of future oil production made after 2007 stated either that the peak had already occurred,[5][6][7][8] that oil production was on the cusp of the peak, or that it would occur shortly.[9][10]
+Hubbert's original prediction that US peak oil would be in about 1970 seemed accurate for a time, as US average annual production peaked in 1970 at 9.6 million barrels per day.[11] However, the successful application of massive hydraulic fracturing to additional tight reservoirs caused US production to rebound, challenging the inevitability of post-peak decline for the US oil production.[12] In addition, Hubbert's original predictions for world peak oil production proved premature.[4]
+Contents
+1 Modeling global oil production
+2 Demand
+2.1 Population
+2.2 Economic growth
+3 Supply
+3.1 Defining sources of oil
+3.2 Conventional sources
+3.3 Unconventional sources
+3.4 Discoveries
+3.5 Reserves
+3.5.1 Concerns over stated reserves
+3.5.2 Reserves of unconventional oil
+3.6 Production
+3.6.1 Anticipated production by major agencies
+3.6.2 Oil field decline
+3.7 Control over supply
+3.7.1 Nationalization of oil supplies
+3.7.2 OPEC influence on supply
+4 Predictions of peak oil
+5 Possible consequences
+5.1 Oil prices
+5.1.1 Historical oil prices
+5.1.2 Effects of historical oil price rises
+5.1.3 Agricultural effects and population limits
+5.2 Long-term effects on lifestyle
+5.3 Mitigation
+5.4 Positive aspects
+6 Criticisms
+6.1 General arguments
+6.2 Oil industry representatives
+6.3 Others
+7 See also
+7.1 Prediction
+7.2 Energy policy
+7.3 Economics
+7.4 Others
+8 Notes
+9 References
+10 Further information
+10.1 Books
+10.2 Articles
+10.3 Documentary films
+10.4 Podcasts
+11 External links
+Modeling global oil production[edit]
+Main article: Hubbert peak theory
+The idea that the rate of oil production would peak and irreversibly decline is an old one. In 1919, David White, chief geologist of the United States Geological Survey, wrote of US petroleum: "...the peak of production will soon be passed, possibly within 3 years."[13] In 1953, Eugene Ayers, a researcher for Gulf Oil, projected that if US ultimate recoverable oil reserves were 100 billion barrels, then production in the US would peak no later than 1960. If ultimate recoverable were to be as high as 200 billion barrels, which he warned was wishful thinking, US peak production would come no later than 1970. Likewise for the world, he projected a peak somewhere between 1985 (one trillion barrels ultimate recoverable) and 2000 (two trillion barrels recoverable). Ayers made his projections without a mathematical model. He wrote: "But if the curve is made to look reasonable, it is quite possible to adapt mathematical expressions to it and to determine, in this way, the peak dates corresponding to various ultimate recoverable reserve numbers"[14]
+By observing past discoveries and production levels, and predicting future discovery trends, the geoscientist M. King Hubbert used statistical modelling in 1956 to accurately[15] predict that United States oil production would peak between 1965 and 1971.[16] Hubbert used a semi-logistical curved model (sometimes incorrectly compared to a normal distribution). He assumed the production rate of a limited resource would follow a roughly symmetrical distribution. Depending on the limits of exploitability and market pressures, the rise or decline of resource production over time might be sharper or more stable, appear more linear or curved.[17] That model and its variants are now called Hubbert peak theory; they have been used to describe and predict the peak and decline of production from regions, countries, and multinational areas.[17] The same theory has also been applied to other limited-resource production.
+In a 2006 analysis of Hubbert theory, it was noted that uncertainty in real world oil production amounts and confusion in definitions increases the uncertainty in general of production predictions. By comparing the fit of various other models, it was found that Hubbert's methods yielded the closest fit over all, but that none of the models were very accurate.[17] In 1956 Hubbert himself recommended using "a family of possible production curves" when predicting a production peak and decline curve.[16]
+More recently, the term "peak oil" was popularized by Colin Campbell and Kjell Aleklett in 2002 when they helped form the Association for the Study of Peak Oil and Gas (ASPO).[18] In his publications, Hubbert used the term "peak production rate" and "peak in the rate of discoveries".[16]
+Demand[edit]
+Global consumption of oil 19802013 (Energy Information Administration)
+The demand side of peak oil over time is concerned with the total quantity of oil that the global market would choose to consume at various possible market prices and how this entire listing of quantities at various prices would evolve over time. Global demand for crude oil grew an average of 1.76% per year from 1994 to 2006, with a high growth of 3.4% in 20032004. After reaching a high of 85.6 million barrels (13,610,000m3) per day in 2007, world consumption decreased in both 2008 and 2009 by a total of 1.8%, despite fuel costs plummeting in 2008.[19] Despite this lull, world quantity-demanded for oil is projected to increase 21% over 2007 levels by 2030 (104 million barrels per day (16.510^6m3/d) from 86 million barrels (13.710^6m3)), or about 0.8% average annual growth, due in large part to increases in demand from the transportation sector.[20][21][22] According to projections by the International Energy Agency (IEA) in 2013, growth in global oil demand will be significantly outpaced by growth in production capacity over the next 5 years.[23][24] Developments in late 20142015 have seen an oversupply of global markets leading to a significant drop in the price of oil.[25]
+Oil consumption per capita (darker colors represent more consumption, gray represents no data)
+Energy demand is distributed amongst four broad sectors: transportation, residential, commercial, and industrial.[26][27] In terms of oil use, transportation is the largest sector and the one that has seen the largest growth in demand in recent decades. This growth has largely come from new demand for personal-use vehicles powered by internal combustion engines.[28] This sector also has the highest consumption rates, accounting for approximately 71% of the oil used in the United States in 2013.[29] and 55% of oil use worldwide as documented in the Hirsch report. Transportation is therefore of particular interest to those seeking to mitigate the effects of peak oil.
+Although demand growth is highest in the developing world,[30] the United States is the world's largest consumer of petroleum. Between 1995 and 2005, US consumption grew from 17,700,000 barrels per day (2,810,000m3/d) to 20,700,000 barrels per day (3,290,000m3/d), a 3,000,000 barrels per day (480,000m3/d) increase. China, by comparison, increased consumption from 3,400,000 barrels per day (540,000m3/d) to 7,000,000 barrels per day (1,100,000m3/d), an increase of 3,600,000 barrels per day (570,000m3/d), in the same time frame.[31] The Energy Information Administration (EIA) stated that gasoline usage in the United States may have peaked in 2007, in part because of increasing interest in and mandates for use of biofuels and energy efficiency.[32][33]
+As countries develop, industry and higher living standards drive up energy use, oil usage being a major component. Thriving economies, such as China and India, are quickly becoming large oil consumers.[34] For example, China surpassed the United States as the world's largest crude oil importer in 2015.[35] Oil consumption growth is expected to continue; however, not at previous rates, as China's economic growth is predicted to decrease from the high rates of the early part of the 21st century.[36] India's oil imports are expected to more than triple from 2005 levels by 2020, rising to 5 million barrels per day (790103 m3/d).[37]
+Population[edit]
+World population
+Another significant factor affecting petroleum demand has been human population growth. The United States Census Bureau predicts that world population in 2030 will be almost double that of 1980.[38] Oil production per capita peaked in 1979 at 5.5 barrels/year but then declined to fluctuate around 4.5 barrels/year since.[39] In this regard, the decreasing population growth rate since the 1970s has somewhat ameliorated the per capita decline.[38]
+Economic growth[edit]
+Some analysts argue that the cost of oil has a profound effect on economic growth due to its pivotal role in the extraction of resources and the processing, manufacturing, and transportation of goods.[40] As the industrial effort to extract new unconventional oil sources increases, this has a compounding negative effect on all sectors of the economy, leading to economic stagnation or even eventual contraction. Such a scenario would result in an inability for national economies to pay high oil prices, leading to declining demand and a price collapse.[41]
+Supply[edit]
+Global liquids production 2000-2015, indicating the component of US tight oil (Energy Information Administration)
+Our analysis suggests there are ample physical oil and liquid fuel resources for the foreseeable future. However, the rate at which new supplies can be developed and the break-even prices for those new supplies are changing.
+International Energy Agency[42]
+Defining sources of oil[edit]
+Oil may come from conventional or unconventional sources. The terms are not strictly defined, and vary within the literature as definitions based on new technologies tend to change over time.[43] As a result, different oil forecasting studies have included different classes of liquid fuels. Some use the terms "conventional" oil for what is included in the model, and "unconventional" oil for classes excluded.[44]
+In 1956, Hubbert confined his peak oil prediction to that crude oil "producible by methods now in use."[16] By 1962, however, his analyses included future improvements in exploration and production.[45] All of Hubbert's analyses of peak oil specifically excluded oil manufactured from oil shale or mined from oil sands. A 2013 study predicting an early peak excluded deepwater oil, tight oil, oil with API gravity less than 17.5, and oil close to the poles, such as that on the North Slope of Alaska, all of which it defined as non-conventional.[46] Some commonly used definitions for conventional and unconventional oil are detailed below.
+Conventional sources[edit]
+Conventional oil is extracted on land and offshore using standard techniques,[47] and can be categorized as light, medium, heavy, or extra heavy in grade. The exact definitions of these grades vary depending on the region from which the oil came.[48] Light oil flows naturally to the surface or can be extracted by simply pumping it out of the ground. Heavy refers to oil that has higher density and therefore lower API gravity.[49] It does not flow easily, and its consistency is similar to that of molasses. While some of it can be produced using conventional techniques, recovery rates are better using unconventional methods.[50]
+Unconventional sources[edit]
+Oil currently considered unconventional is derived from multiple sources.
+Tight oil is extracted from deposits of low-permeability rock, sometimes shale deposits but often other rock types, using hydraulic fracturing, or "fracking."[51] It is often confused with shale oil, which is oil manufactured from the kerogen contained in an oil shale (see below), Production of tight oil has led to a resurgence of US production in recent years. However, tight oil production peaked in 2015 and is not expected to increase again until there is a significant oil price recovery.[52]
+US Lower 48 oil production from 2012 and anticipated decline in production to the end of 2017, with rig count (Energy Information Administration)
+Oil shale is a common term for sedimentary rock such as shale or marl, containing kerogen, a waxy oil precursor that has not yet been transformed into crude oil by the high pressures and temperatures caused by deep burial. The term "oil shale" is somewhat confusing, because what is referred to in the U.S. as "oil shale" is not really oil and the rock it is found in is generally not shale.[53] Since it is close to the surface rather than buried deep in the earth, the shale or marl is typically mined, crushed, and retorted, producing synthetic oil from the kerogen.[54] Its net energy yield is much lower than conventional oil, so much so that estimates of the net energy yield of shale discoveries are considered extremely unreliable.[55][56]
+Oil sands are unconsolidated sandstone deposits containing large amounts of very viscous crude bitumen or extra-heavy crude oil that can be recovered by surface mining or by in-situ oil wells using steam injection or other techniques. It can be liquefied by upgrading, blending with diluent, or by heating; and then processed by a conventional oil refinery. The recovery process requires advanced technology but is more efficient than that of oil shale. The reason is that, unlike U.S. "oil shale", Canadian oil sands actually contain oil, and the sandstones they are found in are much easier to produce oil from than shale or marl. In the U.S. dialect of English, these formations are often called "tar sands", but the material found in them is not tar but an extra-heavy and viscous form of oil technically known as bitumen.[57]
+United States crude oil production exceeds imports for the first time since the early 1990s
+Coal liquefaction or gas to liquids product are liquid hydrocarbons that are synthesised from the conversion of coal or natural gas by the Fischer-Tropsch process, Bergius process, or Karrick process. Currently, two companies SASOL and Shell, have synthetic oil technology proven to work on a commercial scale. Sasol's primary business is based on CTL (coal-to-liquid) and GTL (natural gas-to-liquid) technology, producing US$4.40 billion in revenues (FY2009). Shell has used these processes to recycle waste flare gas (usually burnt off at oil wells and refineries) into usable synthetic oil. However, for CTL there may be insufficient coal reserves to supply global needs for both liquid fuels and electric power generation.[58]
+Minor sources include thermal depolymerization, as discussed in a 2003 article in Discover magazine, that could be used to manufacture oil indefinitely, out of garbage, sewage, and agricultural waste. The article claimed that the cost of the process was $15 per barrel.[59] A follow-up article in 2006 stated that the cost was actually $80 per barrel, because the feedstock that had previously been considered as hazardous waste now had market value.[60] A 2008 news bulletin published by Los Alamos Laboratory proposed that hydrogen (possibly produced using hot fluid from nuclear reactors to split water into hydrogen and oxygen) in combination with sequestered CO2 could be used to produce methanol (CH3OH), which could then be converted into gasoline.[61]
+Discoveries[edit]
+All the easy oil and gas in the world has pretty much been found. Now comes the harder work in finding and producing oil from more challenging environments and work areas.
+William J. Cummings, Exxon-Mobil company spokesman, December 2005[62]
+It is pretty clear that there is not much chance of finding any significant quantity of new cheap oil. Any new or unconventional oil is going to be expensive.
+Lord Ron Oxburgh, a former chairman of Shell, October 2008[63]
+World oil discoveries peaked in the 1960s
+The peak of world oilfield discoveries occurred in the 1960s[64] at around 55 billion barrels (8.7109m3)(Gb)/year.[65] According to the Association for the Study of Peak Oil and Gas (ASPO), the rate of discovery has been falling steadily since. Less than 10 Gb/yr of oil were discovered each year between 2002 and 2007.[66] According to a 2010 Reuters article, the annual rate of discovery of new fields has remained remarkably constant at 1520 Gb/yr.[67]
+Although US proved oil reserves grew by 3.8 billion barrels in 2011, even after deducting 2.07 billion barrels of production, only 8 percent of the 5.84 billion barrels of the newly booked oil was because of new field discoveries (U.S. EIA)
+But despite the fall-off in new field discoveries, and record-high production rates, the reported proved reserves of crude oil remaining in the ground in 2014, which totaled 1,490 billion barrels, not counting Canadian heavy oil sands, were more than quadruple the 1965 proved reserves of 354 billion barrels.[68] A researcher for the U.S. Energy Information Administration has pointed out that after the first wave of discoveries in an area, most oil and natural gas reserve growth comes not from discoveries of new fields, but from extensions and additional gas found within existing fields.[69]
+A report by the UK Energy Research Centre noted that "discovery" is often used ambiguously, and explained the seeming contradiction between falling discovery rates since the 1960s and increasing reserves by the phenomenon of reserve growth. The report noted that increased reserves within a field may be discovered or developed by new technology years or decades after the original discovery. But because of the practice of "backdating," any new reserves within a field, even those to be discovered decades after the field discovery, are attributed to the year of initial field discovery, creating an illusion that discovery is not keeping pace with production.[70]
+Reserves[edit]
+Main articles: Oil reserves and List of largest oil fields
+Proven oil reserves, 2013
+Total possible conventional crude oil reserves include crude oil with 90% certainty of being technically able to be produced from reservoirs (through a wellbore using primary, secondary, improved, enhanced, or tertiary methods); all crude with a 50% probability of being produced in the future (probable); and discovered reserves that have a 10% possibility of being produced in the future (possible). Reserve estimates based on these are referred to as 1P, proven (at least 90% probability); 2P, proven and probable (at least 50% probability); and 3P, proven, probable and possible (at least 10% probability), respectively.[71] This does not include liquids extracted from mined solids or gasses (oil sands, oil shale, gas-to-liquid processes, or coal-to-liquid processes).[72]
+Hubbert's 1956 peak projection for the United States depended on geological estimates of ultimate recoverable oil resources, but starting in his 1962 publication, he concluded that ultimate oil recovery was an output of his mathematical analysis, rather than an assumption. He regarded his peak oil calculation as independent of reserve estimates.[73][74][75]
+Many current 2P calculations predict reserves to be between 1150 and 1350 Gb, but some authors have written that because of misinformation, withheld information, and misleading reserve calculations, 2P reserves are likely nearer to 850900 Gb.[6][10] The Energy Watch Group wrote that actual reserves peaked in 1980, when production first surpassed new discoveries, that apparent increases in reserves since then are illusory, and concluded (in 2007): "Probably the world oil production has peaked already, but we cannot be sure yet."[6]
+Concerns over stated reserves[edit]
+[World] reserves are confused and in fact inflated. Many of the so-called reserves are in fact resources. They're not delineated, they're not accessible, they're not available for production.
+Sadad I. Al-Husseini, former VP of Aramco, presentation to the Oil and Money conference, October 2007.[7]
+Al-Husseini estimated that 300 billion barrels (4810^9m3) of the world's 1,200 billion barrels (19010^9m3) of proven reserves should be recategorized as speculative resources.[7]
+Graph of OPEC reported reserves showing jumps in stated reserves without associated discoveries, as well as the lack of depletion despite yearly production
+One difficulty in forecasting the date of peak oil is the opacity surrounding the oil reserves classified as "proven". In many major producing countries, the majority of reserves claims have not been subject to outside audit or examination.[62] Many worrying signs concerning the depletion of proven reserves have emerged in recent years.[76][77] This was best exemplified by the 2004 scandal surrounding the "evaporation" of 20% of Shell's reserves.[78]
+For the most part, proven reserves are stated by the oil companies, the producer states and the consumer states. All three have reasons to overstate their proven reserves: oil companies may look to increase their potential worth; producer countries gain a stronger international stature; and governments of consumer countries may seek a means to foster sentiments of security and stability within their economies and among consumers.
+Major discrepancies arise from accuracy issues with the self-reported numbers from the Organization of the Petroleum Exporting Countries (OPEC). Besides the possibility that these nations have overstated their reserves for political reasons (during periods of no substantial discoveries), over 70 nations also follow a practice of not reducing their reserves to account for yearly production. Analysts have suggested that OPEC member nations have economic incentives to exaggerate their reserves, as the OPEC quota system allows greater output for countries with greater reserves.[79]
+Kuwait, for example, was reported in the January 2006 issue of Petroleum Intelligence Weekly to have only 48 billion barrels (7.610^9m3) in reserve, of which only 24 were fully proven. This report was based on the leak of a confidential document from Kuwait and has not been formally denied by the Kuwaiti authorities. This leaked document is from 2001,[80] but excludes revisions or discoveries made since then. Additionally, the reported 1.5 billion barrels (24010^6m3) of oil burned off by Iraqi soldiers in the First Persian Gulf War[81] are conspicuously missing from Kuwait's figures.
+On the other hand, investigative journalist Greg Palast argues that oil companies have an interest in making oil look more rare than it is, to justify higher prices.[82] This view is contested by ecological journalist Richard Heinberg.[83] Other analysts argue that oil producing countries understate the extent of their reserves to drive up the price.[84]
+The EUR reported by the 2000 USGS survey of 2,300 billion barrels (37010^9m3) has been criticized for assuming a discovery trend over the next twenty years that would reverse the observed trend of the past 40 years. Their 95% confidence EUR of 2,300 billion barrels (37010^9m3) assumed that discovery levels would stay steady, despite the fact that new-field discovery rates have declined since the 1960s. That trend of falling discoveries has continued in the ten years since the USGS made their assumption. The 2000 USGS is also criticized for other assumptions, as well as assuming 2030 production rates inconsistent with projected reserves.[6]
+Reserves of unconventional oil[edit]
+Main articles: Unconventional oil, Heavy crude oil, Oil sands, Oil shale, and Fischer-Tropsch process
+Syncrude's Mildred Lake mine site and plant near Fort McMurray, Alberta
+As conventional oil becomes less available, it can be replaced with production of liquids from unconventional sources such as tight oil, oil sands, ultra-heavy oils, gas-to-liquid technologies, coal-to-liquid technologies, biofuel technologies, and shale oil.[85] In the 2007 and subsequent International Energy Outlook editions, the word "Oil" was replaced with "Liquids" in the chart of world energy consumption.[86][87] In 2009 biofuels was included in "Liquids" instead of in "Renewables".[88] The inclusion of natural gas liquids, a bi-product of natural gas extraction, in "Liquids" has been criticized as it is mostly a chemical feedstock which is generally not used as transport fuel.[89]
+Texas oil production declined since peaking in 1972 but has recently had a resurgence due to tight oil production
+Reserve estimates are based on the oil price. Hence, unconventional sources such as heavy crude oil, oil sands, and oil shale may be included as new techniques reduce the cost of extraction.[90] With rule changes by the SEC,[91] oil companies can now book them as proven reserves after opening a strip mine or thermal facility for extraction. These unconventional sources are more labor and resource intensive to produce, however, requiring extra energy to refine, resulting in higher production costs and up to three times more greenhouse gas emissions per barrel (or barrel equivalent) on a "well to tank" basis or 10 to 45% more on a "well to wheels" basis, which includes the carbon emitted from combustion of the final product.[92][93]
+While the energy used, resources needed, and environmental effects of extracting unconventional sources have traditionally been prohibitively high, major unconventional oil sources being considered for large-scale production are the extra heavy oil in the Orinoco Belt of Venezuela,[94] the Athabasca Oil Sands in the Western Canadian Sedimentary Basin,[95] and the oil shale of the Green River Formation in Colorado, Utah, and Wyoming in the United States.[96][97] Energy companies such as Syncrude and Suncor have been extracting bitumen for decades but production has increased greatly in recent years with the development of Steam Assisted Gravity Drainage and other extraction technologies.[98]
+Chuck Masters of the USGS estimates that, "Taken together, these resource occurrences, in the Western Hemisphere, are approximately equal to the Identified Reserves of conventional crude oil accredited to the Middle East."[99] Authorities familiar with the resources believe that the world's ultimate reserves of unconventional oil are several times as large as those of conventional oil and will be highly profitable for companies as a result of higher prices in the 21st century.[100] In October 2009, the USGS updated the Orinoco tar sands (Venezuela) recoverable "mean value" to 513 billion barrels (8.161010m3), with a 90% chance of being within the range of 380-652 billion barrels (103.710^9m3), making this area "one of the world's largest recoverable oil accumulations".[101]
+Unconventional resources are much larger than conventional ones[102]
+Despite the large quantities of oil available in non-conventional sources, Matthew Simmons argued in 2005 that limitations on production prevent them from becoming an effective substitute for conventional crude oil. Simmons stated "these are high energy intensity projects that can never reach high volumes" to offset significant losses from other sources.[103] Another study claims that even under highly optimistic assumptions, "Canada's oil sands will not prevent peak oil," although production could reach 5,000,000bbl/d (790,000m3/d) by 2030 in a "crash program" development effort.[104]
+Moreover, oil extracted from these sources typically contains contaminants such as sulfur and heavy metals that are energy-intensive to extract and can leave tailings, ponds containing hydrocarbon sludge, in some cases.[92][105] The same applies to much of the Middle East's undeveloped conventional oil reserves, much of which is heavy, viscous, and contaminated with sulfur and metals to the point of being unusable.[106] However, high oil prices make these sources more financially appealing.[79] A study by Wood Mackenzie suggests that by the early 2020s all the world's extra oil supply is likely to come from unconventional sources.[107]
+Production[edit]
+Main articles: Petroleum, Means of production, and Extraction of petroleum
+The point in time when peak global oil production occurs defines peak oil. Some adherents of 'peak oil' believe that production capacity will remain the main limitation of supply, and that when production decreases, it will be the main bottleneck to the petroleum supply/demand equation.[108] Others believe that the increasing industrial effort to extract oil will have a negative effect on global economic growth, leading to demand contraction and a price collapse,[40][109] thereby causing production decline as some unconventional sources become uneconomical. Yet others believe that the peak may be to some extent led by declining demand as new technologies and improving efficiency shift energy usage away from oil.
+Worldwide oil discoveries have been less than annual production since 1980.[6] World population has grown faster than oil production. Because of this, oil production per capita peaked in 1979 (preceded by a plateau during the period of 19731979).[110]
+Countries producing oil 2013, bbl/day (CIA World Factbook)
+Oil producing countries
+The increasing investment in harder-to-reach oil is a sign of oil companies' belief in the end of easy oil.[62] Also, while it is widely believed that increased oil prices spur an increase in production, an increasing number of oil industry insiders were reportedly coming to believe that even with higher prices, oil production was unlikely to increase significantly. Among the reasons cited were both geological factors as well as "above ground" factors that are likely to see oil production plateau.[111]
+An important concept with regard to declining "easy oil" is energy returned on energy invested, also referred to as EROEI. A 2008 Journal of Energy Security analysis of the energy return on drilling effort in the United States concluded that there was extremely limited potential to increase production of both gas and (especially) oil. By looking at the historical response of production to variation in drilling effort, the analysis showed very little increase of production attributable to increased drilling. This was because of a tight quantitative relationship of diminishing returns with increasing drilling effort: as drilling effort increased, the energy obtained per active drill rig was reduced according to a severely diminishing power law. The study concluded that even an enormous increase of drilling effort was unlikely to significantly increase oil and gas production in a mature petroleum region such as the United States.[112] However, contrary to the study's conclusion, since the analysis was published in 2008, US production of crude oil has increased 74%, and production of dry natural gas has increased 28% (2014 compared to 2008).[113]
+Anticipated production by major agencies[edit]
+Crude oil export treemap (2012) from Harvard Atlas of Economic Complexity[114]
+Average yearly gains in global supply from 1987 to 2005 were 1.2 million barrels per day (19010^3m3/d) (1.7%).[115] In 2005, the IEA predicted that 2030 production rates would reach 120,000,000 barrels per day (19,000,000m3/d), but this number was gradually reduced to 105,000,000 barrels per day (16,700,000m3/d). A 2008 analysis of IEA predictions questioned several underlying assumptions and claimed that a 2030 production level of 75,000,000 barrels per day (11,900,000m3/d) (comprising 55,000,000 barrels (8,700,000m3) of crude oil and 20,000,000 barrels (3,200,000m3) of both non-conventional oil and natural gas liquids) was more realistic than the IEA numbers.[8] More recently, the EIA's Annual Energy Outlook 2015 indicated no production peak out to 2040. However, this required a future Brent crude oil price of $US144/bbl (2013 dollars) "as growing demand leads to the development of more costly resources." [116] Whether the world economy can grow and maintain demand for such a high oil price remains to be seen.
+Oil field decline[edit]
+Alaska's oil production has declined 70% since peaking in 1988
+In a 2013 study of 733 giant oil fields, only 32% of the ultimately recoverable oil, condensate and gas remained.[117] Ghawar, which is the largest oil field in the world and responsible for approximately half of Saudi Arabia's oil production over the last 50years, was in decline before 2009.[118] The world's second largest oil field, the Burgan Field in Kuwait, entered decline in November 2005.[119]
+It is well established that once an oilfield reaches maximum production, it will decrease at a certain decline rate. For example, Mexico announced that production from its giant Cantarell Field began to decline in March 2006, reportedly at a rate of 13% per year.[120] Also in 2006, Saudi Aramco Senior Vice President Abdullah Saif estimated that its existing fields were declining at a rate of 5% to 12% per year.[121] According to a study of the largest 811 oilfields conducted in early 2008 by Cambridge Energy Research Associates, the average rate of field decline is 4.5% per year. The Association for the Study of Peak Oil and Gas agreed with their decline rates, but considered the rate of new fields coming online overly optimistic.[122] The IEA stated in November 2008 that an analysis of 800 oilfields showed the decline in oil production to be 6.7% a year for fields past their peak, and that this would grow to 8.6% in 2030.[123] A more rapid annual rate of decline of 5.1% in 800 of the world's largest oil fields weighted for production over their whole lives was reported by the International Energy Agency in their World Energy Outlook 2008.[124] The 2013 study of 733 giant fields mentioned previously had an average decline rate 3.83% which was described as "conservative."[117]
+Control over supply[edit]
+Entities such as governments or cartels can reduce supply to the world market by limiting access to the supply through nationalizing oil, cutting back on production, limiting drilling rights, imposing taxes, etc. International sanctions, corruption, and military conflicts can also reduce supply.[125]
+Nationalization of oil supplies[edit]
+Main article: Nationalization of oil supplies
+Another factor affecting global oil supply is the nationalization of oil reserves by producing nations. The nationalization of oil occurs as countries begin to deprivatize oil production and withhold exports. Kate Dourian, Platts' Middle East editor, points out that while estimates of oil reserves may vary, politics have now entered the equation of oil supply. "Some countries are becoming off limits. Major oil companies operating in Venezuela find themselves in a difficult position because of the growing nationalization of that resource. These countries are now reluctant to share their reserves."[126]
+According to consulting firm PFC Energy, only 7% of the world's estimated oil and gas reserves are in countries that allow companies like ExxonMobil free rein. Fully 65% are in the hands of state-owned companies such as Saudi Aramco, with the rest in countries such as Russia and Venezuela, where access by Western European and North American companies is difficult. The PFC study implies political factors are limiting capacity increases in Mexico, Venezuela, Iran, Iraq, Kuwait, and Russia. Saudi Arabia is also limiting capacity expansion, but because of a self-imposed cap, unlike the other countries.[127] As a result of not having access to countries amenable to oil exploration, ExxonMobil is not making nearly the investment in finding new oil that it did in 1981.[128]
+OPEC influence on supply[edit]
+Further information: Organization of the Petroleum Exporting Countries
+OPEC surplus crude oil production capacity (US EIA)
+OPEC is an alliance between 12 diverse oil producing countries (Algeria, Angola, Ecuador, Iran, Iraq, Kuwait, Libya, Nigeria, Qatar, Saudi Arabia, the United Arab Emirates, and Venezuela) to control the supply of oil. OPEC's power was consolidated as various countries nationalized their oil holdings, and wrested decision-making away from the "Seven Sisters," (Anglo-Iranian, Socony-Vacuum, Royal Dutch Shell, Gulf, Esso, Texaco, and Socal) and created their own oil companies to control the oil. OPEC tries to influence prices by restricting production. It does this by allocating each member country a quota for production. All 12 members agree to keep prices high by producing at lower levels than they otherwise would. There is no way to verify adherence to the quota, so every member faces the same incentive to "cheat" the cartel.[129] United States policy of selling arms and providing security to Saudi Arabia is often seen as an attempt to influence the Saudis to increase oil production. According to sociology professor Michael Schwartz, the purpose for the second Iraq war was to break the back of OPEC and return control of the oil fields to western oil companies.[130]
+Alternatively, commodities trader Raymond Learsy, author of Over a Barrel: Breaking the Middle East Oil Cartel, contends that OPEC has trained consumers to believe that oil is a much more finite resource than it is. To back his argument, he points to past false alarms and apparent collaboration.[84] He also believes that peak oil analysts are conspiring with OPEC and the oil companies to create a "fabricated drama of peak oil" to drive up oil prices and profits; oil had risen to a little over $30/barrel at that time. A counter-argument was given in the Huffington Post after he and Steve Andrews, co-founder of ASPO, debated on CNBC in June 2007.[131]
+Predictions of peak oil[edit]
+Main article: Predicting the timing of peak oil
+Pub.
+Made by
+Peak year/range
+Pub.
+Made by
+Peak year/range
+1972
+Esso
+About 2000
+1999
+Parker
+2040
+1972
+United Nations
+By 2000
+2000
+A. A. Bartlett
+2004 or 2019
+1974
+Hubbert
+19912000
+2000
+Duncan
+2006
+1976
+UK Dep. of Energy
+About 2000
+2000
+EIA
+20212067; 2037 most likely
+1977
+Hubbert
+1996
+2000
+EIA (WEO)
+Beyond 2020
+1977
+Ehrlich, et al.
+2000
+2001
+Deffeyes
+20032008
+1979
+Shell
+Plateau by 2004
+2001
+Goodstein
+2007
+1981
+World Bank
+Plateau around 2000
+2002
+Smith
+20102016
+1985
+J. Bookout
+2020
+2002
+Campbell
+2010
+1989
+Campbell
+1989
+2002
+Cavallo
+20252028
+1994
+L. F. Ivanhoe
+OPEC plateau 20002050
+2003
+Greene, et al.
+20202050
+1995
+Petroconsultants
+2005
+2003
+Laherrre
+20102020
+1997
+Ivanhoe
+2010
+2003
+Lynch
+No visible peak
+1997
+J. D. Edwards
+2020
+2003
+Shell
+After 2025
+1998
+IEA
+2014
+2003
+Simmons
+20072009
+1998
+Campbell & Laherrre
+2004
+2004
+Bakhitari
+20062007
+1999
+Campbell
+2010
+2004
+CERA
+After 2020
+1999
+Peter Odell
+2060
+2004
+PFC Energy
+20152020
+A selection of estimates of the year of peak world oil production, compiled by the United States Energy Information Administration
+In 1962, Hubbert predicted that world oil production would peak at a rate of 12.5 billion barrels per year, around the year 2000.[45] In 1974, Hubbert predicted that peak oil would occur in 1995 "if current trends continue."[132] Those predictions proved incorrect. However, a number of industry leaders and analysts believe that world oil production will peak between 2015 and 2030, with a significant chance that the peak will occur before 2020.[133] They consider dates after 2030 implausible.[134][135] By comparison, a 2014 analysis of production and reserve data predicted a peak in oil production about 2035.[136] Determining a more specific range is difficult due to the lack of certainty over the actual size of world oil reserves.[137] Unconventional oil is not currently predicted to meet the expected shortfall even in a best-case scenario.[134] For unconventional oil to fill the gap without "potentially serious impacts on the global economy", oil production would have to remain stable after its peak, until 2035 at the earliest.[138]
+Papers published since 2010 have been relatively pessimistic. A 2010 Kuwait University study predicted production would peak in 2014.[139] A 2010 Oxford University study predicted that production will peak before 2015,[10] but its projection of a change soon "...from a demand-led market to a supply constrained market..." was incorrect. A 2014 validation of a significant 2004 study in the journal Energy proposed that it is likely that conventional oil production peaked, according to various definitions, between 2005 and 2011. A set of models published in a 2014 Ph.D. thesis predicted that a 2012 peak would be followed by a drop in oil prices, which in some scenarios could turn into a rapid rise in prices thereafter.[140] According to energy blogger Ron Patterson, the peak of world oil production was probably around 2010.[12]
+Major oil companies hit peak production in 2005.[141][142] Several sources in 2006 and 2007 predicted that worldwide production was at or past its maximum.[5][6][7][9] Fatih Birol, chief economist at the International Energy Agency, also stated that "crude oil production for the world has already peaked in 2006."[143] However, in 2013 OPEC's figures showed that world crude oil production and remaining proven reserves were at record highs.[144] According to Matthew Simmons, former Chairman of Simmons & Company International and author of Twilight in the Desert: The Coming Saudi Oil Shock and the World Economy, "peaking is one of these fuzzy events that you only know clearly when you see it through a rear view mirror, and by then an alternate resolution is generally too late."[145]
+Possible consequences[edit]
+Further information: Hirsch Report and Malthusian catastrophe
+The wide use of fossil fuels has been one of the most important stimuli of economic growth and prosperity since the industrial revolution, allowing humans to participate in takedown, or the consumption of energy at a greater rate than it is being replaced. Some believe that when oil production decreases, human culture, and modern technological society will be forced to change drastically. The impact of peak oil will depend heavily on the rate of decline and the development and adoption of effective alternatives.
+In 2005, the United States Department of Energy published a report titled Peaking of World Oil Production: Impacts, Mitigation, & Risk Management.[146] Known as the Hirsch report, it stated, "The peaking of world oil production presents the U.S. and the world with an unprecedented risk management problem. As peaking is approached, liquid fuel prices and price volatility will increase dramatically, and, without timely mitigation, the economic, social, and political costs will be unprecedented. Viable mitigation options exist on both the supply and demand sides, but to have substantial impact, they must be initiated more than a decade in advance of peaking." Some of the information was updated in 2007.[147]
+Oil prices[edit]
+Main articles: World oil market chronology from 2003 and Price of petroleum
+Historical oil prices[edit]
+Long-term oil prices, 18612015 (top line adjusted for inflation)
+The oil price historically was comparatively low until the 1973 oil crisis and the 1979 energy crisis when it increased more than tenfold during that six-year timeframe. Even though the oil price dropped significantly in the following years, it has never come back to the previous levels. Oil price began to increase again during the 2000s until it hit historical heights of $143 per barrel (2007 inflation adjusted dollars) on 30 June 2008.[148] As these prices were well above those that caused the 1973 and 1979 energy crises, they contributed to fears of an economic recession similar to that of the early 1980s.[149]
+It is generally agreed that the main reason for the price spike in 20052008 was strong demand pressure.[150] For example, global consumption of oil rose from 30 billion barrels (4.810^9m3) in 2004 to 31 billion in 2005. The consumption rates were far above new discoveries in the period, which had fallen to only eight billion barrels of new oil reserves in new accumulations in 2004.[151]
+Asset write downs for oil companies 2015
+Oil price increases were partially fueled by reports that petroleum production is at[5][6][7] or near full capacity.[9][152][153] In June 2005, OPEC stated that they would 'struggle' to pump enough oil to meet pricing pressures for the fourth quarter of that year.[154] From 2007 to 2008, the decline in the U.S. dollar against other significant currencies was also considered as a significant reason for the oil price increases,[155] as the dollar lost approximately 14% of its value against the Euro from May 2007 to May 2008.
+Besides supply and demand pressures, at times security related factors may have contributed to increases in prices,[153] including the War on Terror, missile launches in North Korea,[156] the Crisis between Israel and Lebanon,[157] nuclear brinkmanship between the U.S. and Iran,[158] and reports from the U.S. Department of Energy and others showing a decline in petroleum reserves.[159]
+Depicts EIA projections for West Texas Intermediate crude oil price for 2016-2017
+More recently, between 2011 and 2014 the price of crude oil was relatively stable, fluctuating around $US100 per barrel. It dropped sharply in late 2014 to below $US70 where it remained for most of 2015. In early 2016 it traded at a low of $US27.[160] The price drop has been attributed to both oversupply and reduced demand as a result of the slowing global economy,[161] OPEC reluctance to concede market share,[162] and a stronger US dollar.[163] These factors may be exacerbated by a combination of monetary policy and the increased debt of oil producers, who may increase production to maintain liquidity.[164]
+This price drop has placed many US tight oil producers under considerable financial pressure.[165] As a result, there has been a reduction by oil companies in capital expenditure of over $US400 billion.[166] It is anticipated that this will have effects on global production in the longer term, leading to statements of concern by the International Energy Agency that governments should not be complacent about energy security.[167] Energy Information Agency projections anticipate market oversupply and prices below $US50 until late 2017.[168]
+Effects of historical oil price rises[edit]
+Main article: Effects of oil price
+World consumption of primary energy by energy type[169]
+In the past, the price of oil has led to economic recessions, such as the 1973 and 1979 energy crises. The effect the price of oil has on an economy is known as a price shock. In many European countries, which have high taxes on fuels, such price shocks could potentially be mitigated somewhat by temporarily or permanently suspending the taxes as fuel costs rise.[170] This method of softening price shocks is less useful in countries with much lower gas taxes, such as the United States. A baseline scenario for a recent IMF paper found oil production growing at 0.8% (as opposed to a historical average of 1.8%) would result in a small reduction in economic growth of 0.20.4%.[171]
+Researchers at the Stanford Energy Modeling Forum found that the economy can adjust to steady, gradual increases in the price of crude better than wild lurches.[172]
+Some economists predict that a substitution effect will spur demand for alternate energy sources, such as coal or liquefied natural gas. This substitution can be only temporary, as coal and natural gas are finite resources as well.[173]
+Prior to the run-up in fuel prices, many motorists opted for larger, less fuel-efficient sport utility vehicles and full-sized pickups in the United States, Canada, and other countries. This trend has been reversing because of sustained high prices of fuel. The September 2005 sales data for all vehicle vendors indicated SUV sales dropped while small cars sales increased. Hybrid and diesel vehicles are also gaining in popularity.[174]
+EIA published Household Vehicles Energy Use: Latest Data and Trends[175] in Nov 2005 illustrating the steady increase in disposable income and $2030 per barrel price of oil in 2004. The report notes "The average household spent $1,520 on fuel purchases for transport." According to CNBC that expense climbed to $4,155 in 2011.[176]
+In 2008, a report by Cambridge Energy Research Associates stated that 2007 had been the year of peak gasoline usage in the United States, and that record energy prices would cause an "enduring shift" in energy consumption practices.[177] The total miles driven in the U.S. peaked in 2006.[178]
+The Export Land Model states that after peak oil petroleum exporting countries will be forced to reduce their exports more quickly than their production decreases because of internal demand growth. Countries that rely on imported petroleum will therefore be affected earlier and more dramatically than exporting countries.[179] Mexico is already in this situation. Internal consumption grew by 5.9% in 2006 in the five biggest exporting countries, and their exports declined by over 3%. It was estimated that by 2010 internal demand would decrease worldwide exports by 2,500,000 barrels per day (400,000m3/d).[180]
+Canadian economist Jeff Rubin has stated that high oil prices are likely to result in increased consumption in developed countries through partial manufacturing de-globalisation of trade. Manufacturing production would move closer to the end consumer to minimise transportation network costs, and therefore a demand decoupling from gross domestic product would occur. Higher oil prices would lead to increased freighting costs and consequently, the manufacturing industry would move back to the developed countries since freight costs would outweigh the current economic wage advantage of developing countries.[181] Economic research carried out by the International Monetary Fund puts overall price elasticity of demand for oil at 0.025 short-term and 0.093 long term.[182]
+Agricultural effects and population limits[edit]
+Further information: Food vs fuel, 20072008 world food price crisis, Agriculture Energy and agriculture, and Food security
+Since supplies of oil and gas are essential to modern agriculture techniques, a fall in global oil supplies could cause spiking food prices and unprecedented famine in the coming decades.[183][note 1] Geologist Dale Allen Pfeiffer contends that current population levels are unsustainable, and that to achieve a sustainable economy and avert disaster the United States population would have to be reduced by at least one-third, and world population by two-thirds.[184][185]
+The largest consumer of fossil fuels in modern agriculture is ammonia production (for fertilizer) via the Haber process, which is essential to high-yielding intensive agriculture. The specific fossil fuel input to fertilizer production is primarily natural gas, to provide hydrogen via steam reforming. Given sufficient supplies of renewable electricity, hydrogen can be generated without fossil fuels using methods such as electrolysis. For example, the Vemork hydroelectric plant in Norway used its surplus electricity output to generate renewable ammonia from 1911 to 1971.[186]
+Iceland currently generates ammonia using the electrical output from its hydroelectric and geothermal power plants, because Iceland has those resources in abundance while having no domestic hydrocarbon resources, and a high cost for importing natural gas.[187]
+Long-term effects on lifestyle[edit]
+World transport energy use by fuel type 2012
+See also: peak car
+A majority of Americans live in suburbs, a type of low-density settlement designed around universal personal automobile use. Commentators such as James Howard Kunstler argue that because over 90% of transportation in the U.S. relies on oil, the suburbs' reliance on the automobile is an unsustainable living arrangement. Peak oil would leave many Americans unable to afford petroleum based fuel for their cars, and force them to use bicycles or electric vehicles. Additional options include telecommuting, moving to rural areas, or moving to higher density areas, where walking and public transportation are more viable options. In the latter two cases, suburbs may become the "slums of the future."[188][189] The issue of petroleum supply and demand is also a concern for growing cities in developing countries (where urban areas are expected to absorb most of the world's projected 2.3 billion population increase by 2050). Stressing the energy component of future development plans is seen as an important goal.[190]
+Rising oil prices, if they occur, would also affect the cost of food, heating, and electricity. A high amount of stress would then be put on current middle to low income families as economies contract from the decline in excess funds, decreasing employment rates. The Hirsch/US DoE Report concludes that "without timely mitigation, world supply/demand balance will be achieved through massive demand destruction (shortages), accompanied by huge oil price increases, both of which would create a long period of significant economic hardship worldwide."[191]
+Methods that have been suggested for mitigating these urban and suburban issues include the use of non-petroleum vehicles such as electric cars, battery electric vehicles, transit-oriented development, carfree cities, bicycles, new trains, new pedestrianism, smart growth, shared space, urban consolidation, urban villages, and New Urbanism.
+An extensive 2009 report on the effects of compact development by the United States National Research Council of the Academy of Sciences, commissioned by the United States Congress, stated six main findings.[192] First, that compact development is likely to reduce "Vehicle Miles Traveled" (VMT) throughout the country. Second, that doubling residential density in a given area could reduce VMT by as much as 25% if coupled with measures such as increased employment density and improved public transportation. Third, that higher density, mixed-use developments would produce both direct reductions in CO2 emissions (from less driving), and indirect reductions (such as from lower amounts of materials used per housing unit, higher efficiency climate control, longer vehicle lifespans, and higher efficiency delivery of goods and services). Fourth, that although short term reductions in energy use and CO2 emissions would be modest, that these reductions would become more significant over time. Fifth, that a major obstacle to more compact development in the United States is political resistance from local zoning regulators, which would hamper efforts by state and regional governments to participate in land-use planning. Sixth, the committee agreed that changes in development that would alter driving patterns and building efficiency would have various secondary costs and benefits that are difficult to quantify. The report recommends that policies supporting compact development (and especially its ability to reduce driving, energy use, and CO2 emissions) should be encouraged.
+An economic theory that has been proposed as a remedy is the introduction of a steady state economy. Such a system could include a tax shifting from income to depleting natural resources (and pollution), as well as the limitation of advertising that stimulates demand and population growth. It could also include the institution of policies that move away from globalization and toward localization to conserve energy resources, provide local jobs, and maintain local decision-making authority. Zoning policies could be adjusted to promote resource conservation and eliminate sprawl.[193][194]
+Mitigation[edit]
+Main article: Mitigation of peak oil
+To avoid the serious social and economic implications a global decline in oil production could entail, the Hirsch report emphasized the need to find alternatives, at least ten to twenty years before the peak, and to phase out the use of petroleum over that time.[146] This was similar to a plan proposed for Sweden that same year. Such mitigation could include energy conservation, fuel substitution, and the use of unconventional oil. The timing of mitigation responses is critical. Premature initiation would be undesirable, but if initiated too late could be more costly and have more negative economic consequences.[195]
+Positive aspects[edit]
+Permaculture sees peak oil as holding tremendous potential for positive change, assuming countries act with foresight. The rebuilding of local food networks, energy production, and the general implementation of "energy descent culture" are argued to be ethical responses to the acknowledgment of finite fossil resources.[196] Majorca is an island currently diversifying its energy supply from fossil fuels to alternative sources and looking back at traditional construction and permaculture methods.[197]
+The Transition Towns movement, started in Totnes, Devon[198] and spread internationally by "The Transition Handbook" (Rob Hopkins) and Transition Network, sees the restructuring of society for more local resilience and ecological stewardship as a natural response to the combination of peak oil and climate change.[199]
+Criticisms[edit]
+General arguments[edit]
+Opponents to the theory of peak oil often cite new oil reserves that have been found, which continue to forestall a peak oil event. In particular, some contend that oil production from these new oil reserves as well as from existing fields will continue to increase at a rate that outpaces demand, until alternate energy sources for our current fossil fuel dependence are found.[200][201] As of 2015, analysts in both the petroleum and financial industries were concluding that the "age of oil" had already reached a new stage where the excess supply that appeared in late 2014 may continue to prevail in the future.[202][203] A consensus appeared to be emerging that an international agreement will be reached to introduce measures to constrain the combustion of hydrocarbons in an effort to limit global temperature rise to the nominal 2C that is consensually predicted to limit environmental harm to tolerable levels.[204]
+Further criticism against peak oil is confidence in the various options and technologies for substituting oil.[205] And indeed there are some promising approaches that seem to have the potential to reduce or even counterbalance the effects of a peak oil situation. For example, US federal funding has increased for algae fuels since the year 2000 due to rising fuel prices.[206] Numerous more projects are being funded in Australia, New Zealand, Europe, the Middle East, and other parts of the world[207] and private companies are entering the field.[208]
+Oil industry representatives[edit]
+Oil industry representatives have criticised peak oil theory, at least as it has been presented by Matthew Simmons. The president of Royal Dutch Shell's U.S. operations John Hofmeister, while agreeing that conventional oil production would soon start to decline, criticized Simmons's analysis for being "overly focused on a single country: Saudi Arabia, the world's largest exporter and OPEC swing producer."[209] He also pointed to the large reserves at the US outer continental shelf, which held an estimated 100 billion barrels (1610^9m3) of oil and natural gas. However, only 15% of those reserves were currently exploitable, a good part of that off the coasts of Louisiana, Alabama, Mississippi, and Texas.[209] Hofmeister also contended that Simmons erred in excluding unconventional sources of oil such as the oil sands of Canada, where Shell was active. The Canadian oil sandsa natural combination of sand, water, and oil found largely in Alberta and Saskatchewanare believed to contain one trillion barrels of oil. Another trillion barrels are also said to be trapped in rocks in Colorado, Utah, and Wyoming,[210] but are in the form of oil shale. These particular reserves present major environmental, social, and economic obstacles to recovery.[211] Hofmeister also claimed that if oil companies were allowed to drill more in the United States enough to produce another 2 million barrels per day (32010^3m3/d), oil and gas prices would not be as high as they were in the later part of the 2000 to 2010 decade. He thought in 2008 that high energy prices would cause social unrest similar to the 1992 Rodney King riots.[212]
+In 2009, Dr. Christoph Rhl, chief economist of BP, argued against the peak oil hypothesis:[213]
+Physical peak oil, which I have no reason to accept as a valid statement either on theoretical, scientific or ideological grounds, would be insensitive to prices.... In fact the whole hypothesis of peak oil  which is that there is a certain amount of oil in the ground, consumed at a certain rate, and then it's finished  does not react to anything... Therefore there will never be a moment when the world runs out of oil because there will always be a price at which the last drop of oil can clear the market. And you can turn anything into oil into if you are willing to pay the financial and environmental price... (Global Warming) is likely to be more of a natural limit than all these peak oil theories combined.... Peak oil has been predicted for 150 years. It has never happened, and it will stay this way.
+According to Rhl, the main limitations for oil availability are "above ground" and are to be found in the availability of staff, expertise, technology, investment security, money and last but not least in global warming. The oil question is about price and not the basic availability. Rhl's views are shared by Daniel Yergin of CERA, who added that the recent high price phase might add to a future demise of the oil industry, not of complete exhaustion of resources or an apocalyptic shock but the timely and smooth setup of alternatives.[214]
+Clive Mather, CEO of Shell Canada, said the Earth's supply of bitumen hydrocarbons is "almost infinite", referring to hydrocarbons in oil sands.[215]
+Others[edit]
+Economist Robert L. Bradley, Jr. wrote in a 2007 article in The Review of Austrian Economics that, "[a]n Austrian institutional theory is more robust for explaining changes in mineral-resource scarcity than neoclassical depletionism[.]"[216] Using the writings of Erich Zimmermann and Julian Simon, Bradley also argued in 2012 that resources have subjective rather than objective existences in economics. He concluded that, "what resources come from the ground ultimately depend on the resources in the mind."[217]
+Attorney and mechanical engineer Peter W. Huber pointed out in 2006 that the world is just running out of "cheap oil." As oil prices rise, unconventional sources become economically viable. He predicted that, "[t]he tar sands of Alberta alone contain enough hydrocarbon to fuel the entire planet for over 100 years."[215]
+Industry blogger Steve Maley echoed some of the points of Yergin, Rhl, Mather and Hofmeister.[218]
+Environmental journalist George Monbiot responded to a 2012 report by Leonardo Maugeri[219] by proclaiming that there is more than enough oil (from unconventional sources) for capitalism to "deep-fry" the world with climate change.[220] Stephen Sorrell, senior lecturer Science and Technology Policy Research, Sussex Energy Group, and lead author of the UKERC Global Oil Depletion report, and Christophe McGlade, doctoral researcher at the UCL Energy Institute have criticized Maugeri's assumptions about decline rates.[221]
+See also[edit]
+Prediction[edit]
+Ecoflation
+Hubbert linearization
+Oil Storm
+Olduvai theory
+The Limits to Growth
+Energy policy[edit]
+Energy development
+Energy security
+Global strategic petroleum reserves
+Shale gas
+Soft energy path
+United States energy independence
+Economics[edit]
+2000s commodities boom
+Ecological economics
+Efficient energy use
+Kuznets curve
+List of countries by oil consumption
+List of countries by proven oil reserves
+Low-carbon economy
+Oil burden
+Renewable energy commercialization
+Stranded assets
+World oil market chronology from 2003
+Sustainable development portal
+Renewable energy portal
+Energy portal
+Others[edit]
+ACEGES
+Age of Oil
+Doomer
+Global catastrophic risk
+Oil Shockwave
+Overconsumption
+Overpopulation
+Overshoot
+Peak car
+Peak coal
+Peak copper
+Peak gas
+Peak gold
+Peak minerals
+Peak phosphorus
+Peak uranium
+Peak water
+Peak wheat
+Notes[edit]
+^ A list of over 20 published articles and books from government and journal sources supporting this thesis have been compiled at Dieoff.org in the section "Food, Land, Water, and Population."
+References[edit]
+^ Hirsch, Robert L.; et al. (2005). "PEAKING OF WORLD OIL PRODUCTION: IMPACTS, MITIGATION, & RISK MANAGEMENT" (PDF). US Department of Energy: 191. Retrieved 14 January 2016.
+^ Deffeyes, Kenneth S. (2005). Beyond Oil: The View from Hubbert's Peak. New York: Hill and Wang.
+^ Simmons, Matthew R. (2005). Twilight in the Desert: The Coming Saudi Oil Shock and the World Economy. Hoboken: John Wiley and Sons.
+^ a b Miller, R. G.; Sorrell, S. R. (2 December 2013). "The future of oil supply". Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences. 372 (2006): 2013017920130179. doi:10.1098/rsta.2013.0179. Retrieved 7 April 2014.
+^ a b c Deffeyes, Kenneth S (19 January 2007). "Current Events  Join us as we watch the crisis unfolding". Princeton University: Beyond Oil. Retrieved 27 July 2008.
+^ a b c d e f g Zittel, Werner; Schindler, Jorg (October 2007). "Crude Oil: The Supply Outlook" (PDF). Energy Watch Group. EWG-Series No 3/2007. Retrieved 27 July 2008.
+^ a b c d e Cohen, Dave (31 October 2007). "The Perfect Storm". Association for the Study of Peak Oil and Gas. Retrieved 27 July 2008.
+^ a b Kjell Aleklett; Mikael Hk; Kristofer Jakobsson; Michael Lardelli; Simon Snowden; Bengt Sderbergh (9 November 2009). "The Peak of the Oil Age" (PDF). Energy Policy. Archived from the original (PDF) on 26 July 2011. Retrieved 15 November 2009.
+^ a b c Koppelaar, Rembrandt H.E.M. (September 2006). "World Production and Peaking Outlook" (PDF). Peakoil Nederland. Retrieved 27 July 2008.
+^ a b c Nick A. Owen; Oliver R. Inderwildi; David A. King (2010). "The status of conventional world oil reservesHype or cause for concern?". Energy Policy. 38 (8): 4743. doi:10.1016/j.enpol.2010.02.026.
+^ "US Field Production of Crude Oil". Energy Information Administration.
+^ a b Patterson, Ron. "US Oil Production Nears Previous Peak". Peak Oil Barrel. Retrieved 4 September 2015.
+^ David White, "The unmined supply of petroleum in the United States," Transactions of the Society of Automotive Engineers, 1919, v.14, part 1, p.227.
+^ Eugene Ayers,"U.S. oil outlook: how coal fits in," Coal Age, August 1953, v58 n.8 p7073.
+^ Deffeyes, Kenneth S (2002). Hubbert's Peak: The Impending World Oil Shortage. Princeton University Press. ISBN 0-691-09086-6.
+^ a b c d Hubbert, Marion King (June 1956). Nuclear Energy and the Fossil Fuels 'Drilling and Production Practice' (PDF). Spring Meeting of the Southern District. Division of Production. American Petroleum Institute. San Antonio, Texas: Shell Development Company. pp.2227. Retrieved 18 April 2008.
+^ a b c Brandt, Adam R. (May 2007). "Testing Hubbert" (PDF). Energy Policy. Elsevier. 35 (5): 30743088. doi:10.1016/j.enpol.2006.11.004.
+^ Wakeford, Jeremy. "Peak oil is no myth". Engineering News. Retrieved 8 April 2014.
+^ BP, Statistical Review of World Energy 2010
+^ "World oil demand 'to rise by 37%'". BBC News. 20 June 2006. Retrieved 25 August 2008.
+^ "2007 International Energy Outlook, Ch.3. Petroleum and other liquid fuels" (PDF). United States Energy Information Administration. May 2007. Retrieved 11 July 2009.
+^ International Energy Outlook 2009
+^ "Supply shock from North American oil rippling through global markets". International Energy Agency. 14 May 2013.
+^ "The IEA Says Peak Oil Is Dead. That's Bad News for Climate Policy". Time Magazine. 15 May 2013.
+^ "Oil prices could keep falling due to oversupply, says IEA". The Guardian. Guardian News and Media. Retrieved 16 August 2015.
+^ "Annual Energy Review 2008" (PDF). United States Energy Information Administration. 29 June 2009. DOE/EIA-0384(2008). Retrieved 11 July 2009.
+^ "Global Oil Consumption". United States Energy Information Administration. Retrieved 27 July 2008.
+^ Wood, John H.; Long, Gary R.; Morehouse, David F. (18 August 2004). "Long-Term World Oil Supply Scenarios: The Future Is Neither as Bleak or Rosy as Some Assert". United States Energy Information Administration. Retrieved 27 July 2008.
+^ David, Evans. "Transport sector set to give big lift to oil demand". Reuters. Retrieved 18 November 2015.
+^ "International Petroleum (Oil) Consumption Data". United States Energy Information Administration. Retrieved 20 December 2007.
+^ "BP Statistical Review of Energy" (PDF). BP. June 2008. Retrieved 27 July 2008.
+^ Gold, Russell; Campoy, Ana (13 April 2009). "Oil Industry Braces for Drop in U.S. Thirst for Gasoline". The Wall Street Journal. Retrieved 21 April 2009.
+^ Associated Press (21 December 2010). "US Gas Demand on Long-Term Decline After Hitting '06 Peak (Obsolete link, page error 404 31.7.16)". Jakarta Globe. Retrieved 10 January 2011.
+^ "Oil price 'may hit $200 a barrel'". BBC News. 7 May 2008. Retrieved 11 July 2009.
+^ McSpadden, Kevin. "China Has Become the World's Biggest Crude Oil Importer for the First Time". TIME. Time Inc. Retrieved 16 August 2015.
+^ Davis, Bob. "IMF Warns of Slower China Growth Unless Beijing Speeds Up Reforms". The Wall Street Journal. News Corp. Retrieved 16 August 2015.
+^ Bush, Jason. "China And India: A Rage For Oil". Business Week. Boomberg L.P. Retrieved 25 July 2008.
+^ a b "Total Midyear Population for the World: 19502050". United States Census Bureau. 18 June 2008. Retrieved 20 December 2007.
+^ Nelder, Chris. "The 21st century population crash". ZDNet. Retrieved 16 August 2015.
+^ a b Tverberg, Gail. "How Economic Growth Fails". Our Finite World. Retrieved 10 January 2016.
+^ Tverberg, Gail. "What's Ahead? Lower Oil Prices, Despite Higher Extraction Costs". Our Finite World. Retrieved 10 January 2016.
+^ "FAQs Oil". IEA. Retrieved 11 June 2013.
+^ Steve Sorrell and others, Global Oil Depletion, UK Energy Research Centre, ISBN 1-903144-03-5, p.xiii, 9, 124.
+^ Colin J. Campbell and Jean H. Laherrere, The end of cheap oil, Scientific American, March 1998, p.7883
+^ a b M. King Hubbert, Energy Resources(Washington: National Academy of Sciences, 1962)Publication 1000-D, p.7375.
+^ Hallock, John L.; Wu, Wei; Hall, Charles A.S.; Jefferson, Michael (January 2014). "Forecasting the limits to the availability and diversity of global conventional oil supply: Validation". Energy. 64: 130153. doi:10.1016/j.energy.2013.10.075.
+^ "conventional oil definition from Canadian Association of Oil Producers". Crude Oil. 2014. Retrieved 4 December 2014.
+^ "API Gravity". An introduction to Petroleum. 2015. Retrieved 4 November 2015.
+^ "The Schlumberger Oilfield Glossary". Schlumberger. Retrieved 16 August 2015.
+^ "Heavy Crude Oil". An introduction to Petroleum. 2015. Retrieved 4 November 2015.
+^ "The Schlumberger Oilfield Glossary". Schlumberger. Retrieved 6 September 2015.
+^ Mushalik, Matt. "US shale oil peak in 2015". Crude Oil Peak. Retrieved 21 April 2016.
+^ "Oil Shale". An introduction to Petroleum. Retrieved 19 November 2015.
+^ "The Schlumberger Oilfield Glossary". Schlumberger. Retrieved 6 September 2015.
+^ McGlade, Christophe; Speirs, Jamie; Sorrell, Steve (September 2013). "Methods of estimating shale gas resources  Comparison, evaluation and implications". Energy. 59: 116125. doi:10.1016/j.energy.2013.05.031.
+^ Philipp, Richter (February 13, 2014). From Boom to Bust? A Critical Look at US Shale Gas Projections (pdf). IAEE International Conference. Lisbon. Retrieved 29 December 2014.
+^ "Bitumen and Oil Sands". An introduction to Petroleum. Retrieved 19 November 2015.
+^ Hook & Aleklett (30 July 2009). "A review on coal-to-liquid fuels and its coal consumption". International Journal of Energy Research. 34: 848864. doi:10.1002/er.1596.
+^ Lemley Brad (1 May 2003). "Anything Into Oil". Discover magazine. Retrieved 11 July 2009.
+^ Lemley Brad (2 April 2006). "Anything Into Oil". Discover magazine. Retrieved 11 July 2009.
+^ Ambrosiano, Nancy. "Synthetic fuel concept to steal CO2 from air". Los Alamos National Laboratory. Retrieved 16 November 2015.
+^ a b c Donnelly, John (11 December 2005). "Price rise and new deep-water technology opened up offshore drilling". Boston Globe. Retrieved 21 August 2008.
+^ "The Next Crisis: Prepare for Peak Oil". The Wall Street Journal. February 11, 2010.
+^ Campbell, C. J. (December 2000). "Peak Oil Presentation at the Technical University of Clausthal". energycrisis.org. Retrieved 21 August 2008.
+^ Longwell, Harry J. (2002). "The Future of the Oil and Gas Industry: Past Approaches, New Challenges" (PDF). World Energy Magazine. Loomis Publishing Services. 5 (3): 100104. Retrieved 21 August 2008.
+^ "The General Depletion Picture" (80). Ireland: [Association for the Study of Peak Oil and Gas]. 2007: 2. Archived from the original (PDF) on 28 November 2009. Retrieved 21 August 2008.
+^ Christopher Johnson (11 February 2010). "Oil exploration costs rocket as risks rise". Reuters. Retrieved 9 September 2010.
+^ OPEC, Annual Statistical/ Annual Statistical Bulletin 2014.
+^ David F. Morehouse, The intricate puzzle of oil and gas reserve growth, US Energy Information Administration, Natural Gas Monthly, July 1997.
+^ Steve Sorrell and others, Global Oil Depletion, UK Energy Research Centre, ISBN 1-903144-03-5, p.2425.
+^ Etherington, John; et al. "Comparison of Selected Reserves and Resource Classifications and Associated Definitions" (PDF). Society of Petroleum Engineers. Retrieved 26 September 2016. CS1 maint: Explicit use of et al. (link)
+^ Herbert, Jozef (16 July 2007). "Oil industry report says demand to outpace crude oil production". BLNZ. Associated Press. Retrieved 11 July 2009.
+^ M. King Hubbert, 1962, "Energy Resources," National Academy of Sciences, Publication 1000-D, p.60.
+^ M. King Hubbert, "National Academy of Sciences Report on Energy Resources: reply," AAPG Bulletin, Oct. 1965, v.49 n.10 p.1720-1727.
+^ M. King Hubbert, "Degree of advancement of petroleum exploration in United States," AAPG Bulletin, Nov. 1967, v.51 n.11 p.2207-2227.
+^ Boxell, James (10 October 2004). "Top Oil Groups Fail to Recoup Exploration". The New York Times. Energy Bulletin. Archived from the original on 21 May 2008. Retrieved 26 August 2008.
+^ Gerth, Jeff (24 February 2004). "Forecast of Rising Oil Demand Challenges Tired Saudi Fields". The New York Times. Archived from the original on 9 March 2008. Retrieved 26 August 2008.
+^ Morsfeld, Carl (10 October 2004). "How Shell blew a hole in a 100-year reputation". The Times. London. Retrieved 26 August 2008.
+^ a b Maass Peter (21 August 2005). "The Breaking Point". The New York Times. Retrieved 26 August 2008.
+^ "Kuwait reserves". Crude Oil Peak. Retrieved 16 November 2015.
+^ Javed, Ali (1 December 2000). "The Economic and Environmental Impact of the Gulf War on Kuwait and the Persian Gulf". American University Trade and Environment Database. Retrieved 18 November 2007.
+^ Palast, Greg (23 May 2006). "No Peaking: The Hubbert Humbug". Guerrilla News Network. Retrieved 14 July 2010.
+^ Heinberg, Richard (July 2006). "An Open Letter to Greg Palast on Peak Oil". Retrieved 14 July 2010.
+^ a b Learsy, Raymond J. (4 December 2003). "OPEC Follies  Breaking point". National Review. Archived from the original on 29 June 2008. Retrieved 26 August 2008.
+^ IEO 2004 pg. 37
+^ IEO 2006 Figure 3. pg. 2
+^ IEO 2007 Figure 3. pg. 2
+^ IEO 2009 Figure 2. pg. 1
+^ Mearns, Euan. "Global Oil and Other Liquid Fuels Production Update". Energy Matters. Retrieved 21 August 2015.
+^ Owen, Nick A.; et al. (2010). "The status of conventional world oil reservesHype or cause for concern?". Energy Policy. 38: 47434749. doi:10.1016/j.enpol.2010.02.026. Retrieved 24 September 2015.
+^ "Modernization of Oil and Gas Reporting" (PDF). 1 January 2010 (Rule changes effective). SEC. Retrieved 29 March 2010.
+^ a b Bob Weber. "Alberta's oilsands: well-managed necessity or ecological disaster?". Moose Jaw Herald, The Canadian Press. Retrieved 29 March 2010.
+^ Duarte, Joe (28 March 2006). "Canadian Tar Sands: The Good, the Bad, and the Ugly". RigZone. Retrieved 11 July 2009.
+^ Schenk, C.J.; et al. "An Estimate of Recoverable Heavy Oil Resources of the Orinoco Oil Belt, Venezuela" (PDF). United States Geological Survey. Retrieved 16 November 2015.
+^ Sexton, Matt (2003). "Tar Sands: A brief overview". Retrieved 11 July 2009.
+^ Dyni, John R. (2003). "Geology and resources of some world oil-shale deposits (Presented at Symposium on Oil Shale in Tallinn, Estonia, 1821 November 2002)" (PDF). Oil Shale. A Scientific-Technical Journal. Estonian Academy Publishers. 20 (3): 193252. ISSN0208-189X. Retrieved 17 June 2007.
+^ Johnson, Harry R.; Crawford, Peter M.; Bunger, James W. (2004). "Strategic significance of America's oil shale resource. Volume II: Oil shale resources, technology and economics" (PDF). Office of Deputy Assistant Secretary for Petroleum Reserves; Office of Naval Petroleum and Oil Shale Reserves; United States Department of Energy. Retrieved 23 June 2007.
+^ Evans, Jon.
+Sand banks: If unconventional sources of oil, such as oil sands, could be transformed into crude we could still have a 300-year supply left. The problem is extracting it.
+Chemistry and Industry 6 November 2006: 1836. Web. Gale Gerneral OneFile 5 October 2009.
+^ Kovarik, Bill. "The oil reserve fallacy: Proven reserves are not a measure of future supply". Retrieved 11 July 2009.
+^ Dusseault, Maurice (2002). "Emerging Technology for Economic Heavy Oil Development" (PDF). Alberta Department of Energy. Retrieved 24 May 2008.
+^ Christopher J. Schenk; Troy A. Cook; Ronald R. Charpentier; Richard M. Pollastro; Timothy R. Klett; Marilyn E. Tennyson; Mark A. Kirschbaum; Michael E. Brownfield & Janet K. Pitman. (11 January 2010). "An Estimate of Recoverable Heavy Oil Resources of the Orinoco Oil Belt, Venezuela" (PDF). USGS. Retrieved 23 January 2010.
+^ Alboudwarej, Hussein; et al. (Summer 2006). "Highlighting Heavy Oil" (PDF). Oilfield Review. Schlumberger. Retrieved 24 May 2008.
+^ Wood, Tim (5 November 2005). "Oil Doomsday is Nigh, Tar Sands Not a Substitute". Resource Investor. Retrieved 11 July 2009.
+^ Sderbergh, B.; Robelius, F.; Aleklett, K. (2007). "A crash programme scenario for the Canadian oil sands industry". Energy Policy (PDF)|format= requires |url= (help). Elsevier. 35 (3): 19311947. doi:10.1016/j.enpol.2006.06.007.
+^ Weissman, Jeffrey G.; Kessler, Richard V. (20 June 1996). "Downhole heavy crude oil hydroprocessing". Applied Catalysis A: General. 140 (1): 116. doi:10.1016/0926-860X(96)00003-8. ISSN0926-860X.
+^ Fleming, David (2000). "After Oil". Prospect Magazine. Retrieved 20 December 2009.
+^ Hoyos, Carola (18 February 2007). "Study sees harmful hunt for extra oil". Financial Times. Retrieved 11 July 2009.
+^ King D., Murray J. (2012). "Climate policy: Oil's tipping point has passed.". Nature. 481 (7382): 433435. doi:10.1038/481433a. Retrieved 23 September 2015.
+^ Tverberg, Gail. "What's Ahead? Lower Oil Prices, Despite Higher Extraction Costs". Our Finite World. Retrieved 10 January 2016.
+^ Duncan, Richard C (November 2001). "The Peak of World Oil Production and the Road to the Olduvai Gorge". Population and Environment. Springer Netherlands. 22 (5): 503522. doi:10.1023/A:1010793021451. ISSN1573-7810. Retrieved 11 July 2009.
+^ Mackey, Peg; Lawler, Alex (9 January 2008). "Tough to pump more oil, even at $100". Reuters. Retrieved 11 July 2009.
+^ Kailing, Timothy D (14 December 2008). "Can the United States Drill Its Way to Energy Security?". Journal of Energy Security. Institute for the Analysis of Global Security. Retrieved 11 July 2009.
+^ US Energy Information Administration, US crude oil production, accessed 16 May 2013.
+^ "Who exported Petroleum oils, crude in 2012?  The Atlas Of Economic Complexity". harvard.edu.
+^ "World oil supply and demand" (PDF). International Energy Agency. 18 January 2007. Retrieved 28 July 2009.
+^ "Annual Energy Outlook 2015" (PDF). EIA. Energy Information Administration. Retrieved 21 April 2016.
+^ a b Patterson, Ron. "JODI Data and Giant Field Depletion". Peak Oil Barrel. Retrieved 18 November 2015.
+^ Patterson, Ron. "A Closer Look at Saudi Arabia". Peak Oil Barrel. Retrieved 17 November 2015.
+^ Cordahi, James; Critchlow, Andy (9 November 2005). "Kuwait oil field, world's second largest, 'Exhausted'". Bloomberg. Retrieved 28 July 2009.
+^ Arai, Adriana (1 August 2006). "Mexico's Largest Oil Field Output Falls to 4-Year Low". Bloomberg. Retrieved 28 July 2009.
+^ "Country Analysis Briefs: Saudi Arabia". United States Energy Information Administration. August 2008. Archived from the original on 12 April 2007. Retrieved 4 September 2008.
+^ Aleklett, Kjell (2006). "Review: CERA's report is over-optimistic" (DOC). Association for the Study of Peak Oil and Gas. Retrieved 29 July 2009.
+^ "World Energy Outlook 2008" (PDF). International Energy Agency. Retrieved 16 November 2015.
+^ "World Energy Outlook 2008 Executive Summary" (PDF). International Energy Agency. 12 November 2008. Retrieved 24 November 2008.
+^ Bartos, John. "Assessing oil markets during oil supply disruptions" (PDF). International Energy Agency. Retrieved 16 November 2015.
+^ "Non-OPEC peak oil threat receding". Arabian Business. 6 July 2007.
+^ McNulty Sheila (9 May 2007). "Politics of oil seen as threat to supplies". Financial Times.
+^ Fox Justin (31 May 2007). "No More Gushers for ExxonMobil". Time magazine.
+^ Gaurav Sodhi (24 June 2008). "The myth of OPEC". Australian Financial Review. Retrieved 21 August 2008.
+^ Michael Schwartz (30 October 2007). "Why Did We Invade Iraq Anyway? Putting a Country in Your Tank". Global Policy. Retrieved 21 August 2008.
+^ "Rejecting the Real 'Snake Oil'". Huffington Post. 29 June 2007.
+^ Noel Grove; reporting M. King Hubbert (June 1974). "Oil, the Dwindling Treasure". National Geographic.
+^ Strahan, David. "Peak oil before 2020 a 'significant risk', say experts". Ecologist. Retrieved 26 August 2015.
+^ a b Madureira, Nuno Luis (2014). Key Concepts in Energy. London: Springer International Publishing. pp.1256. doi:10.1007/978-3-319-04978-6_6. ISBN978-3-319-04977-9.
+^ Sorrell, Steve; Miller, Richard; Bentley, Roger; Speirs, Jamie (September 2010). "Oil futures: A comparison of global supply forecasts". Energy Policy. 38 (9): 49905003. doi:10.1016/j.enpol.2010.04.020.
+^ Henke, Petter (2014). IEA and Oil: Track record analysis and assessment of oil supply scenarios in WEO 20002013 (Report). Digitala Vetenskapliga Arkivet.
+^ Chapman, Ian (January 2014). "The end of Peak Oil? Why this topic is still relevant despite recent denials". Energy Policy. 64: 93101. doi:10.1016/j.enpol.2013.05.010.
+^ Miller, R. G.; Sorrell, S. R. (2014). "The future of oil supply". Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences. 372 (2006): 2013017920130179. doi:10.1098/rsta.2013.0179. [W]e estimate that around 1115mb per day of non-conventional liquids production could be achieved in the next 20 years... If crude oil production falls, then total liquids production seems likely to fall as well, leading to significant price increases and potentially serious impacts on the global economy.
+^ Sami Nashawi, Adel Malallah & Mohammed Al-Bisharah. "Forecasting World Crude Oil Production Using Multicyclic Hubbert Model". Energy Fuels. 24 (3): 17881800. doi:10.1021/ef901240p.
+^ McGlade, Christophe (2014). Uncertainties in the outlook for oil and gas (Ph.D.). University College London.
+^ Auzanneau, Matthieu (17 March 2014). "Nouvelle chute en 2013 de la production de brut des " majors ", dsormais contraintes  dsinvestir". Le Monde. Retrieved 26 April 2014.
+^ Oil and Economic Growth: A Supply-Constrained View
+^ Inman, Mason (5 May 2011). "The World has Passed Peak Oil, says Top Economist". National Geographic (blog). Retrieved 13 November 2014.
+^ OPEC Annual Statistical Bulletin, 2014.
+^ K., Aleklett; Campbell C., Meyer J. (2627 May 2003). "Matthew Simmons Transcript". Proceedings of the 2nd International Workshop on Oil Depletion,. Paris, France: The Association for the Study of Peak Oil and Gas. Retrieved 24 May 2008.
+^ a b Hirsch, Robert L.; Bezdek, Roger; Wendling, Robert (February 2005). "Peaking of World Oil Production: Impacts, Mitigation, & Risk Management" (PDF). Science Applications International Corporation. Retrieved 28 November 2009.
+^ Hirsch, Robert L. (February 2007). "Peaking of World Oil Production: Recent Forecasts" (PDF). Science Applications International Corporation/U.S.Department of Energy, National Energy Technology Laboratory. Retrieved 16 February 2013.
+^ "What is driving oil prices so high?". BBC News. 5 November 2007.
+^ Bruno, Joe Bel (8 March 2008). "Oil Rally May Be Economy's Undoing". USA Today. Associated Press. Retrieved 11 July 2009.
+^ Hamilton, James D. "Historical oil shocks". The National Bureau of Economic Research. Retrieved 25 September 2015.
+^ "Oil Market Report  Demand" (PDF). International Energy Agency. 12 July 2006.
+^ Gold, Russell & Ann Davis (19 November 2007). "Oil Officials See Limit Looming on Production". The Wall Street Journal. Retrieved 28 January 2009.
+^ a b "Global oil prices jump to 11-month highs". Petroleum World. Agence France-Presse. 9 July 2007.
+^ "Oil prices rally despite OPEC output hike". MSNBC. 15 June 2005.
+^ Tokic, Damir (2010). "The 2008 oil bubble: Causes and consequences". Energy Policy. 38: 60096015. doi:10.1016/j.enpol.2010.05.056.
+^ "Missile tension sends oil surging". CNN. Retrieved 26 April 2011.
+^ "Oil hits $100 barrel". BBC News. 2 January 2008.
+^ Iran nuclear fears fuel oil price, BBC News
+^ "Record oil price sets the scene for $200 next year". AME. 6 July 2006. Retrieved 29 November 2007.
+^ "Oil price: 'remain wary of possible rallies'". The Week UK. March 3, 2016. Retrieved 4 March 2016.
+^ Baumeister and Kilian. "Understanding the Decline in the Price of Oil since June 2014". Social Science Research Network. CFS Working Paper No. 501. Retrieved 12 March 2016.
+^ McEndree, Dalan. "The Hidden Agenda Behind Saudi Arabia's Market Share Strategy". Oilprice.com. Retrieved 12 March 2016.
+^ Tokic, Damir (October 2015). "The 2014 oil bust: Causes and consequences". Energy Policy. 85: 162169. doi:10.1016/j.enpol.2015.06.005. Retrieved 12 March 2016.
+^ Caruana, Jaime (February 5, 2016). "Credit, commodities and currencies" (PDF). Bank of International Settlements. Retrieved 12 March 2016.
+^ "US shale boom may be over by end of 2015  OPEC". RT. Retrieved 27 November 2015.
+^ Ashton, Gary. "Is the Oil Industry Now Underinvesting? (OIL)". Investopedia. Retrieved 12 March 2016.
+^ "World Energy Outlook 2015 Facsheet" (PDF). International Energy Agency. Retrieved 12 March 2016.
+^ "Short - Term Energy Outlook March 2016 1 March 2016 Short - Term Energy Outlook (STEO)" (PDF). U.S. Energy Information Administration. Retrieved 12 March 2016.
+^ BP: Workbook of historical data (xlsx), London, 2012
+^ James Kanter (9 November 2007). "European politicians wrestle with high gasoline prices". International Herald Tribune.
+^ IMF study: Peak oil could do serious damage to the global economy
+^ Plumer, Brad (28 February 2012). "Rick Santorum thinks gas prices caused the recession. Is he right?". The Washington Post. Retrieved 29 February 2012.
+^ Brandt, A.R.; et al. (2013). "Peak oil demand: The role of fuel efficiency and alternative fuels in a global oil production decline.". Environmental Science & Technology. 47 (14): 80318041. doi:10.1021/es401419t.
+^ Fildes, M.; Nelson, S.; Sener, N.; Steiner, F.; Suntharasaj, P.; Tarman, R.T.; Harmon, R.R. (2007). "Marketing Opportunity Analysis for Daimler Chrysler's Sprinter Van Plug-in Hybrid Electric Vehicle". Management of Engineering and Technology, Portland International Center for: 17971810.
+^ "Household Vehicles Energy Use: Latest Data and Trends". US Government. Nov 2005.
+^ "Missing $4,155? It Went Into Your Gas Tank This Year". CNBC. Associated Press. 19 December 2011.
+^ Ana Campoy (20 June 2008). "Prices Curtail U.S. Gasoline Use". The Wall Street Journal. p.A4.
+^ Clifford Krauss (19 June 2008). "Driving Less, Americans Finally React to Sting of Gas Prices, a Study Says". The New York Times.
+^ Export Land Model discussion archive. TheOilDrum.com.
+^ Clifford Krauss (9 December 2007). "Oil-Rich Nations Use More Energy, Cutting Exports". The New York Times.
+^ Allan Gregg (13 November 2009). "Jeff Rubin on Oil and the End of Globalization". YouTube.
+^ International Monetary Fund (7 May 2011). "Oil Demand Price And Income Elasticities". The Oil Drum.
+^ Goodchild, Peter (29 October 2007). "Peak Oil And Famine:Four Billion Deaths". Countercurrents. Retrieved 21 August 2008.
+^ Pfeiffer, Dale Allen (2004). "Eating Fossil Fuels". From The Wilderness Publications. Retrieved 21 August 2008.
+^ P. Crabb, North Atlantic Treaty Organization. Scientific Affairs Division (2000). "Implementing ecological integrity: restoring regional and global environmental and human health". Springer. p.411. ISBN 0-7923-6351-5
+^ Bradley, David (6 February 2004). "A Great Potential: The Great Lakes as a Regional Renewable Energy Source" (PDF). Buffalo's Green Gold Development Corporation. Archived from the original (PDF) on 25 March 2009. Retrieved 4 October 2008.
+^ Hirsch, Tim (24 December 2001). "Iceland launches energy revolution". BBC News. Retrieved 23 March 2008.
+^ Kunstler, James Howard (1994). Geography of Nowhere: The Rise And Decline of America's Man-Made Landscape. New York: Simon & Schuster. ISBN 0-671-88825-0
+^ James Howard Kunstler (February 2004). The tragedy of suburbia. Monterey, CA: TED: Ideas worth sharing.
+^ Vittorio E. Pareto; Marcos P. Pareto. "The Urban Component of the Energy Crisis" (PDF). Retrieved 13 August 2008.
+^ Peak Oil UK  PowerSwitch Energy Awareness  Must read: The Hirsch/DoE report  full text
+^ Committee for the Study on the Relationships Among Development Patterns, Vehicle Miles Traveled, and Energy Consumption (2009). Driving the Built Environment: The Effects of Compact Development on Motorized Travel, Energy Use, and CO2 Emissions  Special Report 298. National Academies Press. ISBN0-309-14422-1. CS1 maint: Multiple names: authors list (link)
+^ Center for the Advancement of the Steady State Economy
+^ How to talk about the end of growth: Interview with Richard Heinberg
+^ Hirsch, Robert L.; et al. (2006). "Peaking of World Oil Production and Its Mitigation". AIChE Journal. 52 (1): 28. doi:10.1002/aic.10747.
+^ "Future Scenarios  Introduction". Retrieved 13 February 2009.
+^ "Islands of the Future" (video) (in English and Spanish). Vimeo. Retrieved 14 February 2014.
+^ Totnes | Transition Network
+^ "Rob Hopkins' Transition Handbook". Retrieved 7 March 2011.
+^ Business Insider  Death of peak oil  March 2013 -http://www.businessinsider.com/death-of-peak-oil-2013-3
+^ Golden, Mark (9 July 2013). "Stanford researchers say 'peak oil' concerns should ease". Stanford Report.
+^ Dale, Spencer (13 October 2015). New Economics of Oil (PDF) (Report). BP. Retrieved 6 November 2015.
+^ Shilling, A. Gary (20 August 2015). "A Funny Thing Happened on the Way to $80 Oil". Bloomberg News. Bloomberg L.P. Retrieved 6 November 2015.
+^ Kolbert, Elizabeth (24 August 2015). "The Weight of the World". The New Yorker. Cond Nast. Retrieved 6 November 2015.
+^ Forbes  No peak oil is really dead 17/07/2013 http://www.forbes.com/sites/modeledbehavior/2013/07/17/no-peak-oil-really-is-dead/
+^ "National Algal Biofuels Technology Roadmap" (PDF). US Department of Energy, Office of Energy Efficiency and Renewable Energy, Biomass Program. Retrieved 3 April 2014.
+^ Pienkos, P. T.; Darzins, A. (2009). "The promise and challenges of microalgal-derived biofuels". Biofuels, Bioproducts and Biorefining 3 (4): 431. doi:10.1002/bbb.159
+^ Darzins, A., 2008. Recent and current research & roadmapping activities: overview. National Algal Biofuels Technology Roadmap Workshop, University of Maryland.
+^ a b Stier, Kenneth. "The 'Peak Oil' Theory: Will Oil Reserves Run Dry?". CNBC News. Retrieved 16 November 2015.
+^ Kenneth Stier (20 March 2008). "The 'Peak Oil' Theory: Will Oil Reserves Run Dry?". CNBC. Retrieved 26 April 2011.
+^ John Laumer (26 December 2007). "A Return To Colorado Oil Shale?". TreeHugger.
+^ Charlie Rose. "A conversation with John Hofmeister". PBS.
+^ "BP: Preisschwankungen werden wahrscheinlich zunehmenen, Interview (in English) mit Dr. Christoph Rhl, Mittwoch 1". Euractiv. October 2008. Retrieved 11 July 2009.
+^ Financial Times Germany, 29 May 2008 Daniel Yergin: l am Wendepunkt (Oil at the turning point)
+^ a b "Myth: The World Is Running Out of Oil". ABC News. 12 May 2006. Retrieved 26 April 2011.
+^ Resourceship: An Austrian theory of mineral resources
+^ Resourceship: Expanding "Depletable" Resources
+^ Steve Maley (18 September 2011). "Hubbert's Peak or Yergin's Plateau?". Retrieved 19 September 2011.
+^ Maugeri, Leonardo. "Oil: The Next Revolution" Discussion Paper 201210, Belfer Center for Science and International Affairs, Harvard Kennedy School, June 2012. Retrieved 13 July 2012.
+^ Monbiot, George. "We were wrong on peak oil. There's enough to fry us all" The Guardian, 2 July 2012. Retrieved 13 July 2012.
+^ Mearns, Euan. "A Critical Appraisal of Leonardo Maugeri's Decline Rate Assumptions" The Oil Drum, 10 July 2012.
+Further information[edit]
+Books[edit]
+Aleklett,Kjel (2012). Peeking at Peak Oil. Springer Science. ISBN978-1-4614-3423-8.
+Campbell, Colin J (2004). The Essence of Oil & Gas Depletion. Multi-Science Publishing. ISBN0-906522-19-6.
+Campbell, Colin J (1997). The Coming Oil Crisis. Multi-Science Publishing. ISBN0-906522-11-0.
+Campbell, Colin J (2005). Oil Crisis. Multi-Science Publishing. ISBN0-906522-39-0.
+Deffeyes, Kenneth S (2002). Hubbert's Peak: The Impending World Oil Shortage. Princeton University Press. ISBN0-691-09086-6.
+Deffeyes, Kenneth S (2005). Beyond Oil: The View from Hubbert's Peak. Hill and Wang. ISBN0-8090-2956-1.
+Goodstein David (2005). Out of Gas: The End of the Age of Oil. WW Norton. ISBN0-393-05857-3.
+Greer, J. M. (2013). Not the Future We Ordered: The Psychology of Peak Oil and the Myth of Eternal Progress. Karnac Books. ISBN978-1-78049-088-5.
+Herold, D. M. (2012). Peak Oil. Hurstelung und Verlag. ISBN978-3-8448-0097-5.
+Heinberg Richard (2003). The Party's Over: Oil, War, and the Fate of Industrial Societies. New Society Publishers. ISBN0-86571-482-7.
+Heinberg, Richard (2004). Power Down: Options and Actions for a Post-Carbon World. New Society Publishers. ISBN0-86571-510-6.
+Heinberg, Richard (2006). The Oil Depletion Protocol: A Plan to Avert Oil Wars, Terrorism and Economic Collapse. New Society Publishers. ISBN0-86571-563-7.
+Heinberg, Richard & Lerch, Daniel (2010). The Post Carbon Reader: Managing the 21st Century's Sustainability Crises. Watershed Media. ISBN978-0-9709500-6-2.
+Herberg, Mikkal (2014). Energy Security and the Asia-Pacific: Course Reader. United States: The National Bureau of Asian Research.
+Huber Peter (2005). The Bottomless Well. Basic Books. ISBN0-465-03116-1.
+Kunstler James H (2005). The Long Emergency: Surviving the End of the Oil Age, Climate Change, and Other Converging Catastrophes. Atlantic Monthly Press. ISBN0-87113-888-3.
+Leggett Jeremy K (2005). The Empty Tank: Oil, Gas, Hot Air, and the Coming Financial Catastrophe. Random House. ISBN1-4000-6527-5.
+Leggett, Jeremy K (2005). Half Gone: Oil, Gas, Hot Air and the Global Energy Crisis. Portobello Books. ISBN1-84627-004-9.
+Leggett Jeremy K (2001). The Carbon War: Global Warming and the End of the Oil Era. Routledge. ISBN0-415-93102-9.
+Lovins Amory; et al. (2005). Winning the Oil Endgame: Innovation for Profit, Jobs and Security. Rocky Mountain Institute. ISBN1-881071-10-3.
+Pfeiffer Dale Allen (2004). The End of the Oil Age. Lulu Press. ISBN1-4116-0629-9.
+Newman Sheila (2008). The Final Energy Crisis (2nd ed.). Pluto Press. ISBN978-0-7453-2717-4. OCLC228370383.
+Roberts Paul (2004). The End of Oil. On the Edge of a Perilous New World. Boston: Houghton Mifflin. ISBN978-0-618-23977-1.
+Ruppert Michael C (2005). Crossing the Rubicon: The Decline of the American Empire at the End of the Age of Oil. New Society. ISBN978-0-86571-540-0.
+Simmons Matthew R (2005). Twilight in the Desert: The Coming Saudi Oil Shock and the World Economy. Hoboken, N.J.: Wiley & Sons. ISBN0-471-73876-X.
+Simon Julian L (1998). The Ultimate Resource. Princeton University Press. ISBN0-691-00381-5.
+Schneider-Mayerson Matthew (2015). Peak Oil: Apocalyptic Environmentalism and Libertarian Political Culture. University of Chicago Press. ISBN978-0-226-28543-6.
+Stansberry Mark A; Reimbold Jason (2008). The Braking Point. Hawk Publishing. ISBN978-1-930709-67-6.
+Tertzakian Peter (2006). A Thousand Barrels a Second. McGraw-Hill. ISBN0-07-146874-9.
+Vassiliou, Marius (2009). Historical Dictionary of the Petroleum Industry. Scarecrow Press (Rowman & Littlefield). ISBN0-8108-5993-9.
+Articles[edit]
+Appenzeller, Tim. "The end of cheap oil". National Geographic.
+Benner, Katie (7 December 2005). "Lawmakers: Will we run out of oil?". CNN.
+Benner, Katie (3 November 2004). "Oil: Is the end at hand?". CNN.
+Colin, Campbell, Laherrre Jean. "The end of cheap oil". Scientific American. CS1 maint: Multiple names: authors list (link)
+Cochrane, Troy (4 January 2008). "Peak oil?: Oil supply and accumulation". Cultural Shifts.
+De Young, R. (2014). "Some behavioral aspects of energy descent." Frontiers in Psychology, 5(1255).
+"The future of oil". Foreign Policy.
+Leonardo Maugeri (20 May 2004). "Oil: Never Cry WolfWhy the Petroleum Age Is Far from over". Science.
+Porter, Adam (10 June 2005). "'Peak oil' enters mainstream debate". BBC News. Retrieved 26 March 2010.
+Kuhlman, Alex (June 2006). "Peak oil and the collapse of commercial aviation" (PDF). Airways.
+Jaeon Kirby & Colin Campbell (30 May 2008). "Life at $200 a barrel". Maclean's.
+Stefan Schaller (28 September 2010). "The Theory behind Peak Oil".
+Ariel Schwartz (9 February 2011). "WikiLeaks May Have Just Confirmed That Peak Oil Is Imminent". Fast Company.
+Matthew Schneider-Mayerson (2013). "From politics to prophecy: environmental quiescence and the peak-oil movement" (PDF). Environmental Politics.
+Documentary films[edit]
+The End of Suburbia: Oil Depletion and the Collapse of the American Dream (2004)
+Crude Awakening: The Oil Crash (2006)
+The Power of Community: How Cuba Survived Peak Oil (2006)
+Crude Impact (2006)
+What a Way to Go: Life at the End of Empire (2007)
+Crude (2007) Australian Broadcasting Corporation documentary [3 x 30 minutes] about the formation of oil, and humanity's use of it
+PetroApocalypse Now? (2008)
+Blind Spot (2008)
+Gashole (2008)
+Collapse (2009)
+Oil Education TV: Series of video interviews with international oil industry experts
+Peak Oil: A Staggering Challenge to "Business As Usual"
+Podcasts[edit]
+Saudi America?  The U.S. Oil Boom in Perspective: https://energyx.org/saudi-america/
+KunstlerCast 275  Art Berman Clarifies Whatever Happened to Peak Oil: http://kunstler.com/podcast/kunstlercast-275-art-berman-clarifies-whatever-happened-to-peak-oil/
+External links[edit]
+Wikimedia Commons has media related to Peak oil.
+Association for the Study of Peak Oil International
+Eating Fossil Fuels FromTheWilderness.com
+Peak Oil Primer  Resilience.org; Peak Oil related articles  Resilience.org
+Not Running Out of Oil (Yet): Oil Reserves Overview  The Daily Fusion
+Evolutionary psychology and peak oil: A Malthusian inspired "heads up" for humanity An overview of peak oil, possible impacts, and mitigation strategies, by Dr. Michael Mills
+Energy Export Databrowser-Visual review of production and consumption trends for individual nations; data from the BP Annual Statistical Review
+Peak Oil For Dummies  concise quotes from renowned politicians, oil executives, and analysts
+Peak oil  EAA-PHEV Wiki Electric vehicles provide an opportunity to transition away from fueling our vehicles with petroleum fuels.
+v
+t
+e
+Peak oil
+Core issues
+Peak oil
+Mitigation of peak oil
+Predicting the timing of peak oil
+Hubbert peak theory
+Olduvai theory
+Results/responses
+Hirsch report
+Rimini protocol
+Price of petroleum
+2000s energy crisis
+Energy crisis
+Export Land Model
+Food vs. fuel
+Oil reserves
+Pickens Plan
+Simple living
+Swing producer
+Renewable energy commercialization
+Permaculture
+People
+Albert Allen Bartlett
+Colin J. Campbell
+John Michael Greer
+David Goodstein
+Richard Heinberg
+M. King Hubbert
+James Kunstler
+Jean Laherrre
+Jeremy Leggett
+Dale Allen Pfeiffer
+Richard Rainwater
+Michael C. Ruppert
+Matthew Simmons
+Richard C. Duncan
+Kenneth S. Deffeyes
+Books
+The End of Oil
+The Long Emergency
+Out of Gas
+The Party's Over
+Power Down
+Beyond Oil
+Twilight in the Desert
+Documentary films
+A Crude Awakening
+Collapse
+The End of Suburbia
+Oil Factor
+PetroApocalypse Now?
+How Cuba Survived Peak Oil
+What a Way to Go
+Gashole
+Fuel (film)
+Escape from Suburbia
+Crude (2007 film)
+Organizations
+The Oil Drum
+Energy Watch Group
+ODAC
+OPEC
+OAPEC
+IEA
+IRENA
+Post Carbon Institute
+REN21
+Transition town
+Other peaks
+Car
+Coal
+Copper
+Food
+Gas
+Gold
+Minerals
+Phosphorus
+Soil
+Uranium
+Water
+Wheat
+Wood
+v
+t
+e
+Petroleum industry
+Petroleum
+Primary energy
+Benchmarks
+Argus Sour
+Bonny Light
+Brent
+Dubai
+Indonesian
+Isthmus-34 Light
+Japan Cocktail
+OPEC Reference Basket
+Tapis
+Urals
+Western Canadian Select
+West Texas Intermediate
+Data
+Natural gas
+Consumption
+Production
+Reserves
+Imports
+Exports
+Price
+Petroleum
+Consumption
+Production
+Reserves
+Imports
+Exports
+Price(of gasoline and diesel)
+Exploration
+Core sampling
+Geophysics
+Integrated asset modelling
+Petroleum engineering
+Reservoir simulation
+Seismic to simulation
+Petroleum geology
+Petrophysics
+Reflection seismology(Seismic inversion)
+Seismic source
+Drilling
+Blowout
+Completion(Squeeze job)
+Differential sticking
+Directional drilling(Geosteering)
+Drilling engineering
+Drilling fluid(invasion)
+Drill stem test
+Lost circulation
+Measurement
+Tracers
+Underbalanced drilling
+Well logging
+Production
+Petroleum fiscal regime
+Concessions
+Production sharing agreements
+Artificial lift
+Pumpjack
+Submersible pump (ESP)
+Gas lift
+Downstream
+Enhanced oil recovery (EOR)
+Steam injection
+Gas reinjection
+Midstream
+Petroleum product
+Pipeline transport
+Refining
+Upstream
+Water injection
+Well intervention
+XT
+History
+1967 Oil Embargo
+1973 oil crisis
+1979 energy crisis
+1980s oil glut
+1990 oil price shock
+2000s energy crisis
+2010s oil glut
+Founders
+History of the petroleum industry
+Nationalization
+OPEC
+Seven Sisters
+Standard Oil
+Oil market timelines
+Provinces
+and fields
+List of natural gas fields
+List of oil fields
+East Midlands Oil Province
+East Texas
+Gulf of Mexico
+Niger Delta
+North Sea
+Persian Gulf
+Prudhoe Bay Oil Field
+Russia
+Venezuela
+Western Canadian Sedimentary Basin
+Other topics
+Acronyms
+Peak oil
+mitigation
+timing
+People
+Petrocurrency
+Petrodollar recycling
+Shale gas
+Swing producer
+Unconventional oil
+heavy crude
+oil sands
+oil shale
+Companies and organisations
+Major petroleum
+companies
+Supermajors
+BP
+Chevron
+ConocoPhillips
+ExxonMobil
+Royal Dutch Shell
+Total
+National oil
+companies
+ADNOC (UAE)
+CNOOC (China)
+CNPC (China)
+Ecopetrol (Colombia)
+Gazprom (Russia)
+Iraq National Oil Company
+Indian Oil Corporation
+Kuwait Petroleum Corporation
+Lotos (Poland)
+Nigerian National Petroleum Corporation
+NIOC (Iran)
+NISOC (Iran)
+OGDCL (Pakistan)
+ONGC (India)
+PDVSA (Venezuela)
+PKN Orlen (Poland)
+Pemex (Mexico)
+Pertamina (Indonesia)
+Petrobras (Brazil)
+PetroChina
+Petronas (Malaysia)
+Petrovietnam
+PTT (Thailand)
+Qatar Petroleum
+Rosneft (Russia)
+Saudi Aramco (Saudi Arabia)
+Sinopec (China)
+SOCAR (Azerbaijan)
+Sonangol (Angola)
+Sonatrach (Algeria)
+Statoil (Norway)
+YPF (Argentina)
+Energy trading
+Glencore
+Gunvor
+Mercuria
+Naftiran Intertrade
+Trafigura
+Vitol
+Other
+Anadarko
+Apache
+BG Group
+Cenovus Energy
+Compaa Espaola de Petrleos
+Devon
+Eni
+Galp Energia
+Hess
+Husky Energy
+Imperial Oil
+Lukoil
+Marathon Oil
+Nippon Oil
+Occidental
+OMV
+Port Harcourt Refining Company
+Reliance Industries
+Repsol
+Suncor Energy
+Surgutneftegas
+TNK-BP
+Tullow Oil
+Tpra
+Major services
+companies
+Amec Foster Wheeler
+Baker Hughes
+Cameron
+CGG
+CH2M Hill
+Chicago Bridge & Iron Company
+China Oilfield Services
+Enbridge
+Ensco
+GE Oil & Gas
+Halliburton
+Naftiran Intertrade
+National Oilwell Varco
+Petrofac
+Saipem
+Schlumberger
+Snam
+Subsea 7
+Technip
+TransCanada
+Transocean
+Weatherford
+Wood Group
+Other
+International Association of Oil & Gas Producers
+International Energy Agency
+International Petroleum Exchange
+OPEC
+Society of Petroleum Engineers
+World Petroleum Council
+Category
+Commons
+v
+t
+e
+Natural resources
+Air
+Pollution/ quality
+Ambient standards (USA)
+Index
+Indoor
+developing nations
+Law
+Clean Air Act (USA)
+Ozone depletion
+Emissions
+Airshed
+Trading
+Deforestation (REDD)
+Energy
+Law
+Resources
+Fossil fuels(peak oil)
+Geothermal
+Nuclear
+Solar
+sunlight
+shade
+Tidal
+Wave
+Wind
+Land
+Arable
+peak farmland
+Degradation
+Law
+property
+Management
+habitat conservation
+Minerals
+mining
+law
+sand
+peak
+rights
+Soil
+conservation
+fertility
+health
+resilience
+Use
+planning
+reserve
+Life
+Biodiversity
+Bioprospecting
+Biosphere
+Bushfood
+Bushmeat
+Fisheries
+law
+management
+Food
+Forests
+genetic resources
+law
+management
+Game
+law
+Gene bank
+Herbalist plants
+Marine conservation
+Non-timber forest products
+Rangeland
+Seed bank
+Wildlife
+conservation
+management
+Wood
+Water
+Types/ location
+Aquifer
+storage and recovery
+Drinking
+Fresh
+Groundwater
+pollution
+recharge
+remediation
+Hydrosphere
+Ice
+bergs
+glacial
+polar
+Irrigation
+Rain
+harvesting
+Stormwater
+Surface water
+Wastewater
+reclaimed
+Aspects
+Desalination
+Floods
+Law
+Leaching
+Sanitation
+Conflict
+Conservation
+Pollution
+Privatization
+Quality
+Right
+Resources
+management
+policy
+Related
+Common land
+common-pool
+enclosure
+global
+tragedy theory
+Economics
+ecological
+Ecosystem services
+Exploitation
+overexploitation
+Management
+adaptive
+Natural capital
+accounting
+Nature reserve
+Systems ecology
+Urban ecology
+Wilderness
+Resource
+Conflict (perpetuation)
+Curse
+Depletion
+Extraction
+Nationalism
+Renewable/ Non-renewable
+Portals
+Agriculture and agronomy
+Energy
+Environment
+Fishing
+Forestry
+Mining
+Water
+Wetlands
+Category
+agencies
+law
+management
+ministries
+organizations
+Colleges
+Natural resources
+v
+t
+e
+Simple living
+Practices
+Barter
+DIY ethic
+Downshifting
+Dry toilet
+Forest gardening
+Freeganism
+Frugality
+Gift economy
+Intentional community
+Local currency
+Low-impact development
+Minimalism
+No frills
+Off-the-grid
+Permaculture
+Self-sufficiency
+Subsistence agriculture
+Sustainable living
+Sustainable sanitation
+Veganism
+Vegetarianism
+War tax resistance
+WWOOF
+Religious and spiritual
+Asceticism
+Aparigraha
+Cynicism
+Detachment
+Distributism
+Jesus movement
+Mendicant
+Mindfulness
+Monasticism
+New Monasticism
+Plain dress
+Plain people
+Quakers
+Rastafari movement
+Temperance
+Testimony of simplicity
+Tolstoyan movement
+Secular movements
+Back-to-the-land
+Car-free
+Compassionate living
+Environmental
+Hippie
+Slow
+Small house
+Transition town
+Open Source Ecology
+Notable writers
+Wendell Berry
+Ernest Callenbach
+G.K. Chesterton
+Duane Elgin
+Mahatma Gandhi
+Richard Gregg
+Tom Hodgkinson
+Harlan Hubbard
+Satish Kumar
+Helen Nearing
+Scott Nearing
+Peace Pilgrim
+Vicki Robin
+Nick Rosen
+Dugald Semple
+E. F. Schumacher
+Henry David Thoreau
+Leo Tolstoy
+Modern-day adherents
+Mark Boyle
+Jim Merkel
+Suelo
+Thomas
+Media
+"Anekdote zur Senkung der Arbeitsmoral"
+Escape from Affluenza
+The Good Life
+The Moon and the Sledgehammer
+Mother Earth News
+The Power of Half
+Small Is Beautiful
+Walden
+Related topics
+Affluenza
+Agrarianism
+Anarcho-primitivism
+Anti-consumerism
+Appropriate technology
+Bohemianism
+Deep ecology
+Degrowth
+Ecological footprint
+Food miles
+Green anarchism
+The good life
+Global warming
+Hedonophobia
+Intentional living
+Itinerant
+Low-technology
+Nonviolence
+Peak oil
+Sustainability
+Worklife balance
+NewPP limit report
+Parsed by mw1267
+Cached time: 20161120041044
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 1.620 seconds
+Real time usage: 1.751 seconds
+Preprocessor visited node count: 10312/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 510408/2097152 bytes
+Template argument size: 15354/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Lua time usage: 0.854/10.000 seconds
+Lua memory usage: 7.86 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1445.175
+1 - -total
+60.37%
+872.520
+2 - Template:Reflist
+20.24%
+292.551
+81 - Template:Cite_web
+14.34%
+207.267
+44 - Template:Cite_journal
+11.97%
+173.026
+54 - Template:Cite_news
+7.63%
+110.271
+33 - Template:Cite_book
+4.04%
+58.413
+10 - Template:Navbox
+3.93%
+56.796
+29 - Template:Convert
+3.42%
+49.456
+1 - Template:Petroleum_industry
+3.10%
+44.782
+1 - Template:Navbox_with_collapsible_groups
+Saved in parser cache with key enwiki:pcache:idhash:849508-0!*!0!!en!4!* and timestamp 20161120041042 and revision id 745570471
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Peak_oil&oldid=745570471"
+Categories: Peak oilFuturologyPetroleum politicsHidden categories: CS1 maint: Explicit use of et al.Pages using citations with format and no URLCS1 maint: Multiple names: authors listCS1 Spanish-language sources (es)Pages using ISBN magic linksGood articlesCommons category with local link same as on WikidataUse dmy dates from January 2013

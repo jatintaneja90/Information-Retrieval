@@ -1,0 +1,179 @@
+Negawatt
+From Wikipedia, the free encyclopedia
+(Redirected from Negawatt)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+A "negawatt revolution" would involve the rapid deployment of electricity-saving technologies, such as compact fluorescent lamps.
+Negawatt power is a theoretical unit of power representing an amount of energy (measured in watts) saved. The energy saved is a direct result of energy conservation or increased energy efficiency. The term was coined by the chief scientist of the Rocky Mountain Institute and environmentalist Amory Lovins in 1985, within the article, "Saving Gigabucks with Negawatts," where he argued that utility customers dont want kilowatt-hours of electricity; they want energy services such as hot showers, cold beer, lit rooms, and spinning shafts, which can come more cheaply if electricity is used more efficiently.[1] Lovins felt an international behavioral change was necessary in order to decrease countries' dependence on excessive amounts of energy. The concept of a negawatt could influence a behavioral change in consumers by encouraging them to think about the energy that they spend.
+A negawatt market can be thought of as a secondary market, in which electricity is allocated from one consumer to another consumer within the energy market. In this market, negawatts could be treated as a commodity. Commodities have the ability to be traded across time and space, which would allow negawatts to be incorporated in the international trading system. Roughly 10% of all U.S. electrical generating capacity is in place to meet the last 1% of demand and there is where the immediate efficiency opportunity exists.[2]
+On March 15, 2011, the Federal Energy Regulatory Commission (FERC), the agency that regulates the U.S. electrical grid, approved a rule establishing the approach to compensation for demand response resources intended to benefit customers and help improve the operation and competitiveness of organized wholesale energy markets. This means that negawatts produced by reducing electrical use can demand the same market prices as real megawatts of generated electricity.[3]
+The incentives for a negawatt market include receiving money, reduction of national energy dependency, and the local electricity deregulation within certain nations or states. As for the cost incentive, those who produce negawatts or simply conserve energy can earn money by selling the saved energy. The negawatt market could help nations or states obtain a deregulated electricity system by creating another market to purchase electricity from.
+The negawatt market also has two main drawbacks. Currently, there is no way to precisely measure the amount of energy saved in negawatts, and electricity providers may not want customers to use less energy due to the loss of profit.
+An assortment of LED lamps commercially available as of 2010 as replacements for screw-in bulbs, including floodlight fixtures (left), reading light (center), household lamps (center right and bottom), and low-power accent light (right) applications
+Contents
+1 Definition
+2 Origin and development
+3 Market
+4 Implementation
+4.1 Government implementation
+4.2 Private implementation
+5 Advantages
+5.1 Cost
+5.2 Reduction of national energy dependency
+5.3 Local deregulation
+6 Drawbacks
+6.1 Difficulty in creating a negawatt market
+6.2 Expense of efficiency
+7 See also
+8 References
+8.1 Works cited
+9 External links
+Definition[edit]
+Negawatt power is a theoretical unit of power representing an amount of energy (measured in Watts) saved. Energy is saved by either increased efficiency or reduced energy consumption; the conserved energy is a "negawatt". The concept of a negawatt is simply a measure of power that is not used. Negawatts are a form of encouragement to motivate consumers to conserve energy.[4] Amory Lovins considers the concept of conservation "a change in behavior based on the attitude 'Do Less to Use Less.'" He makes a distinction between conservation and efficiency by defining efficiency as "the application of technologies and best practices to eliminate waste based on the attitude, 'Do the same or more with less.'"[5]
+Cost for negawatt power can be calculated using cost-effectiveness analysis or CEA. For energy efficiency investments a CEA calculation produces the value of saved energy or negawatts in $/kWh. Such a valuation allows comparing the price of negawatts with price of energy such as electricity from the grid or the cheapest renewable alternative. Specifically, Tuominen et al. have suggested using the dynamic generation cost type of CEA for energy efficiency investments as it includes the best accounting for the time value among the various CEA methods available.[6]
+Origin and development[edit]
+A negawatt is a unit in watts of energy saved. It is basically the opposite of a watt. The term negawatt is derived from megawatt and was created by Amory Lovins. Lovins saw a typo  "negawatt" instead of "megawatt"  in a Colorado Public Utilities Commission report in 1989.[7] He adopted the term to describe electricity that was not created using energy efficiency and conservation.[8] He was concerned with the large inefficiencies of energy use and came up with ways to remedy the problem. Lovins advocated for more efficient light bulbs and reflective metals that increase the intensity of light produced. He wanted consumers to use the energy produced in a smarter way by "wringing more work from the electricity we already have."[9] Lovins felt an international behavioral change was necessary in order to decrease countries' dependence on excessive amounts of energy. The concept of a negawatt could influence a behavioral change in consumers by encouraging them to think about the energy that they spend.
+According to Lovins, energy efficiency represents a profitable global market and American companies have at their disposal the technical innovations to lead the way. Not only should they "upgrade their plants and office buildings, but they should encourage the formation of negawatt markets".[10] Lovins sees negawatt markets as a win-win solution to many environmental problems. Because it is "now generally cheaper to save fuel than to burn it, global warming, acid rain, and urban smog can be reduced not at a cost but at a profit".[10]
+Lovins explains that many companies are already enjoying the financial and other rewards that come from saving electricity. Yet progress in converting to electricity saving technologies has been slowed by the indifference or outright opposition of some utilities.[1] A second obstacle to efficiency is that many electricity-using devices are purchased by people who wont be paying their running costs and thus have little incentive to consider efficiency. Lovins also believes that many customers "don't know what the best efficiency buys are, where to get them, or how to shop for them".[1]
+In 2003 in France under the guide of Thierry Salomon 23 scientists wrote "Le manifeste Ngawatt."[11][12] Megawatt and negawatt seem to be reminiscent to the larger concept of ecological footprint, handprint handprint, and by following this line of thought toward compatibility and comparability a second frame of concept seems appropriate: mindprint  the impact in another frame or setting where units or numbers can not be compared (see paradigm shift). See association ngaWatt.
+Market[edit]
+Amory Lovins has advocated a "negawatt revolution", arguing that utility customers dont want kilowatt-hours of electricity; they want energy services such as hot showers, cold beer, lit rooms, and spinning shafts, which can come more cheaply if electricity is used more efficiently.[1] Lovins, defines the negawatt market as a way to reduce the gap between the cost of making and saving electricity.[13]
+The negawatt market can be thought of as a secondary market where electricity is allocated from areas of less use to areas of greater use.[13] This would be a secondary market, due to the fact that it would reallocate electricity from one consumer to another within the already existing energy market. Some feel that to establish a viable market, legislation and cooperation between primary producers, distributors, traders and consumers, may be required. This proposal would encourage the market to have legislative regulations, while still allowing the market to work within itself to set prices and allocate resources.[14]
+A negawatt market would allow "demand side resources" to participate in wholesale energy markets. These markets are commonly referred to as a demand response. Demand response can be defined as "enrolling large users of energy in programs to lower their usage in return for compensation, which helps take pressure off the grid" [15] This market would help take pressure off the grid because electricity could "be treated as a commodity just like copper or sowbellies," and therefore traded to areas that need it more than others.[16] As any commodity, negawatts would have to be "tradable across time and space" to be an effective market.[17] Being able to trade negawatts across time and space would allow for an international trading system. To create a market for negawatts, energy companies will need to put more focus toward energy efficiency.[18] This shift in focus would require a new "business structure that will thrive in the 'negawatt market'", which has not yet been developed. Market possibilities are being implemented internationally, implying that one day an official negawatt market will become a reality.[19]
+Implementation[edit]
+Government implementation[edit]
+Negawatt power is being implemented in many states in the U.S. and is emerging as an international strategy to reduce energy consumption. "Test negawatt auctions began in 1999 in Connecticut and Georgia and more than a dozen utility exchanges were in existence" in 2000. In an effort to move toward energy efficiency, New York has created programs "supported through Energy $mart, which is run by the New York State Energy Research and Development Authority (NYSERDA), with money from a small surcharge on utility bills."[20] Negawatt power is implemented in California as well as Texas. "Some Texas congressmen and energy companies are trying to help California avert blackouts and utility price shocks this summer with [...] 'negawatts'.[21]
+On January 1, 2009, the states of South Australia and Victoria (Australia) became the first in Australia to offer "householders energy efficiency incentives programs delivered via local electricity retailers."[22]
+The UK is looking to balance the demand of electricity by proposing a bill in which "the government may pay major users for each negawatt of capacity they switch off" during high use. Payment may also be issued for supplying the grid.[23]
+Private implementation[edit]
+The negawatt market is being used by governments and companies. Aluminum manufacturers in the Pacific Northwest shut down their power plants and sold the unused energy because selling the negawatts was more profitable for the company than selling the aluminum product. This was possible because "The smelters hold power contracts with the federal Bonneville Power Administration that contain clauses allowing them to market the electricity."[24]
+The Associated Electric company in rural Missouri is implementing the usage and spreading the knowledge of negawatts by performing energy audits at their customer's homes to show them where they could be saving electricity. Rebates are being given to help cutomers pay for more energy-efficient, Energy Star appliances. Keith Hartner, the CEO of Associated Electric Cooperative Inc., feels that negawatts are generating savings for their customers and for the company as well: The goal of this program is to save money not only at the generator but also at the meter for the members.[25]
+Individual households can practice negawatts through using energy-efficient lighting and Energy Star appliances as well as simply reducing standby power. The resulting savings sometimes offset the investment in new high efficient light bulbs and appliances. These efficiencies can offset a portion of the cost of a residential photovoltaic system. Negawatts reduces the overall size of the photovoltaic system required for the household, because they are consuming less electricity. This results in a faster payback period for the photovoltaic system. The City of San Diego has created a negawatts initiative called "Reduce then Produce" to promote this idea.[26]
+Advantages[edit]
+Cost[edit]
+The most noteworthy advantage in creating a negawatt market is the cost incentive. As many will say, "The cheapest watt is the one that's never created."[27] In this market, the consumers who increase their home efficiency, or decrease their energy consumption, can earn money by selling the saved electricity. This is similar to an emissions trading or a cap-and-trade system, in which the energy that is not used can be bought from the consumers who saved the energy and sold to those who need to purchase the extra energy. Providers of electricity can encourage consumers to sell back their unused energy, or negawatts, especially during peak hours. A major question that electric companies need to ask themselves is whether it is less expensive to pay consumers to reduce consumption for a few instances a year or to build and maintain a side-supply resource that would only be used a few times a year. Many argue that the "cost of foregone consumption is less than the cost of increasing the supply of electricity."[13]
+If a consumer conserves a substantial amount of energy then there can even be an allowance for a tax deduction. According to the Negawatt Power Solutions Group,[28] a "building that achieved a 50% energy cost reduction may be eligible for tax deduction up to $1.80 per square foot."[29] Negawatts can help alleviate some of the costs of constructing new, efficient buildings. "The negawatt revolution now provides a way to cut construction costs, capture big returns on capital in renovations, [and] dramatically cut operating expenses."[30] Existing buildings can be made more efficient by renovating the insulation to cut back on electricity used for heating, installing more efficient light fixtures, and an upgraded HVAC design. Renovating a building to be more energy efficient will cost less than creating entirely new, more efficient buildings.
+Reduction of national energy dependency[edit]
+The reduction of the amount of energy that a region emits can slowly separate a nation from a high energy consumption of oil. The desire to become a less energy-dependent country may promote behavioral changes and a different societal outlook on energy usage. These potential societal perspective changes could lead to an overall more sustainable country. The reduced consumption of energy would also produce less greenhouse gases, which could have positive outcomes on the economy, political parties, and interest groups, such as environmentalists. According to Lovins, improvements in energy efficiency and conservation, due to a change in behavioral attitudes, have a huge potential to reduce a country's "long-term energy needs," such as the United States.[5]
+Local deregulation[edit]
+Some conservatives claim that the negawatt market could help nations or states have a deregulated electricity system. This would allow a nation or a state to experiment with "electricity deregulation," in which "demand reductions could be purchased with a minimum of disruption to businesses, workers and the economy."[21] In the United States, for instance, the negawatt market could assist California with rolling blackouts by making more power available from consumers who choose to conserve energy or increase their negawatts. California could achieve the goal of deregulation by allowing a deficit area to "purchase an emergency supply from anywhere within with West"[21] in which "the ultimate purpose of deregulation was to allow competition in the electricity market and consumer choice of electricity providers."[31] Negawatt power would allow the consumers in a country's economy to decide how the energy will be distributed: essentially benefiting regions that hope to have a deregulated electricity system.
+Drawbacks[edit]
+Difficulty in creating a negawatt market[edit]
+Currently, there is no way to precisely measure the amount of energy saved in negawatts; it can only be theoretically determined based on the consumers history of energy use. Visualizing has a very important role in enabling residents to understand and manage their energy use, which serves as a form of encouragement for consumers to conserve energy.[27] Without the visualization of the energy use, it is difficult to conceptualize negawatts because the consumer cannot see a precise value of the amount of saved energy. Smart meters are becoming a more developed technology to measure energy usage, but "consumers are calling on state regulators to move cautiously on smart meters, citing complaints in some states that the meters are raising electric bills rather than lowering them."[32]
+Some municipally owned utilities and cooperatives argue that negawatt power "lets consumers treat electricity as a property right rather than a service [...giving them] legal entitlement to power [that they] don't consume.[21] This would indicate that consumers would treat electricity as a property, not a service. Some people, including the senior vice president Joe Nipper from the American Public Power Association, oppose the idea that people would receive money for power that they did not even spend.
+Electricity price caps may also need to be implemented in order for the emerging negawatts market to function correctly.[24] To some, government limitations on markets are unfavorable. There is a current view that negawatts are worth pursuing, but that they are unlikely to satisfy the world's thirst for energy to the extent their advocates assume.[33]
+Expense of efficiency[edit]
+Saving energy by the negawatt and creating a negawatt market can present several drawbacks for manufacturers and electricity providers. Manufacturers are less inclined to make energy-efficient devices which meet a specific standard, such as Energy star's standard, because of increased time and cost, while receiving minimal profit. Overall, electricity providers may not want customers to use less energy due to the loss of profit. Some even argue that producing energy-efficient products, such as light bulbs, actually simulate more demand, resulting in more energy being purchased for conversion into light of the same strength.[34]
+Customers may also be less inclined to buy products that are more energy efficient due to the increase in cost and time spent. "Even when the information is known and, despite the overall long-term cost-saving potential, the price of energy is too low...for individuals to justify the initial cost of energy efficiency measures."[35] Not only are energy efficient devices more expensive, but "consumers are poorly informed about the savings on offer. Even when they can do the sums, the transaction costs are high: it is a time-consuming chore for someone to identify the best energy-saving equipment, buy it and get it installed."[33]
+The technology used to measure the amount of energy that a consumer uses and saves, known as smart meters, grid systems, or energy dashboards, require time for the consumer to understand. Some argue[who?] that people need to have access to simple yet effective information systems to help users understand their energy without having to become technology experts.[27] The current visual energy measuring devices could be made simpler and less expensive, which may encourage customers to save more energy, thus increasing their negawatts.
+The capital cost of energy-efficiency is erroneously argued by some to exceed the energy savings (energy required for raw materials, manufacture and transport to point of sale versus running costs). For instance they argue that the capital cost of buying a new energy efficient car will not be recouped unless the car runs for more than ten years. However increased energy efficiency leads to less usage and longer life.
+See also[edit]
+Energy and the environment
+Energy Globe Awards
+Energy hierarchy
+Energy park
+Energy Star
+Environmental issues with energy
+Hydrogen economy
+INFORSE, International Network for Sustainable Energy
+International Renewable Energy Agency
+Leadership in Energy and Environmental Design (LEED)
+List of energy storage projects
+REEEP, Renewable Energy and Energy Efficiency Partnership
+Renewable Energy (not the same)
+Smart grid
+U.S. Department of Energy Solar Decathlon
+Sustainable Energy for All initiative
+References[edit]
+^ a b c d Amory B. Lovins. The Negawatt Revolution Across the Board, Vol. XXVII No. 9, September 1990, pp. 21-22.
+^ Think Negawatts, Not Megawatts.
+^ [1] FERC approves market-based demand response compensation rule.
+^ Bartram, Rodgers, & Muise (2010).
+^ a b Knickerbocker. (2001).
+^ Tuominen, Pekka; Reda, Francesco; Dawoud, Waled; Elboshy, Bahaa; Elshafei, Ghada; Negm, Abdelazim (2015). "Economic Appraisal of Energy Efficiency in Buildings Using Cost-effectiveness Assessment". Procedia Economics and Finance. 21: 422430. doi:10.1016/S2212-5671(15)00195-1.
+^ (2008). "[2]"
+^ Kolbert, (2007). p.1-22
+^ Lovins, (1989). "The negawatt revolution-solving the co2 problem."
+^ a b Amory B. Lovins. The Negawatt Revolution Across the Board, Vol. XXVII No. 9, September 1990, p. 23.
+^ [3]
+^ [4]
+^ a b c "The Alchemy of Demand Response: Turning Demand into Supply". The Electricity Journal. 22: 1025. doi:10.1016/j.tej.2009.09.004.
+^ Fotopoulos, (2007).
+^ Gulyas, (2008).
+^ Fickett, Gellings, & Lovins, (1990). http://www.nature.com/scientificamerican/journal/v263/n3/pdf/scientificamerican0990-64.pdf.
+^ Lovins, (1989). "The negawatt revolution-solving the co2 problem."
+^ (2010, May). Generating "negawatts".
+^ Weinberg, (2001).
+^ Alliance for clean energy, New York. (2008). Energy Efficiency
+^ a b c d Jim, (2001).
+^ Energy Matters. (2008, December 31).
+^ (Airlie, 2010)
+^ a b Jim, (2001).
+^ McCarty, (2008)."[5]"
+^ CCSE Press Releases (2011), "[6]"
+^ a b c Bartram, Rodgers, & Muise, (2010). P. 8-14.
+^ http://gonegawatts.com/incentives.php
+^ NegaWatt Power Solutions Group. (2009). "http://gonegawatts.com/incentives.php"
+^ Lovins, & Browning, (1992) "Negawatts for buildings"
+^ "[7]".
+^ Peters, (2010). "Consumers wary of smart meters."
+^ a b Economist, (2008). P. 78.
+^ The Economist, (2010). "Energy Conservation: Not Such a Bright Idea."
+^ (2010). "Generating "negawatts"."
+Works cited[edit]
+Airlie, C. (2010, December 7). Uk plans payment for 'negawatt' to curb power use. Retrieved from http://www.bloomberg.com/news/2010-12-07/u-k-plans-payment-for-negawatt-to-curb-power-use-update1-.html
+Bartram, L., Rodgers, J., & Muise, K. (2010). Chasing the Negawatt: Visualization for Sustainable Living. IEEE Computer Graphics & Applications, 30(3), 8-14. Retrieved from Military & Government Collection database.
+Fickett, A, Gellings, C, & Lovins, A. (1990, September). Efficient use of electricity. Scientific American Retrieved December 2010, from http://www.nature.com/scientificamerican/journal/v263/n3/pdf/scientificamerican0990-64.pdf.
+Fotopoulos, T. (2007). Is degrowth compatible with a market economy?. The International Journal of Inclusive Democracy, 3(1), Retrieved from http://www.inclusivedemocracy.org/journal/vol3/vol3_no1_Takis_degrowth_PRINTABLE.htm
+Gulyas, C. (2008, May 8). Negawatts are creating a market for energy saving. Retrieved from http://cleantechnica.com/2008/05/08/negawatts-are-creating-a-market-for-energy-savings/
+H.R. 6--109th Congress: Energy Policy Act of 2005. (2005). In GovTrack.us (database of federal legislation). Retrieved November 2010, 2010, from http://www.govtrack.us/congress/bill.xpd?bill=h109-6
+Knickerbocker, B. (2001, May 29). Saving energy by the 'negawatt'. Christian Science Monitor, p.2. Retrieved from Academic Search Complete database.
+Kolbert, Elizabeth. (2007). "Mr. Green: Environmentalism's most optimistic guru." The New Yorker 1-22.
+Landers, Jim. (2001). Legislators push for bill to allow sale of "negawatts' to California. Dallas Morning News, The (TX), Retrieved from Newspaper Source Plus database.
+Lovins, Amory. (1989). The negawatt revolution-solving the co2 problem. Retrieved from http://www.ccnr.org/amory.html
+Lovins, A, & Browning, W. (1992, July). Negawatts for buildings. Urban Land, Retrieved from http://sustainca.org/files/BGPrUSACO-RMI_3_.pdf
+McCarty, J. (2008, April). Negawatts. Rural Missouri, Retrieved from http://www.ruralmissouri.org/08pages/08AprilWatts9.html
+Parfomak, P.; Lave, L. (1996). "How many kilowatts are in a Negawatt? Verifying ex post". Energy Journal. 17 (4): 59. doi:10.5547/issn0195-6574-ej-vol17-no4-3. ISSN0195-6574.
+Peters, Joey. "Consumers Wary of Smart Meters." (2010).http://www.stateline.org/live/details/story?contentId=500546
+Rochlin, C (2009). "The alchemy of demand response: turning demand into supply". The Electricity Journal. 22 (9): 1025. doi:10.1016/j.tej.2009.09.004.
+Weinberg, CJ. (2001). Keeping the lights on-sustainable scenarios for the future. Renewable Energy World, Retrieved from http://www.cleanenergystates.org/CaseStudies/Weinberg.pdf
+Alliance for clean energy, New York. (2008).http://www.aceny.org/clean-technologies/energy-efficiency.cfm Energy Efficieny
+"Energy Conservation: Not Such a Bright Idea." The Economist 10 Aug. 2010. Web. 9 Dec. 2010. <http://www.economist.com/node/16886228>
+Energy Matters, . (2008, December 31). Energy efficiency focus for australis in 2009. Retrieved from http://www.energymatters.com.au/index.php?main_page=news_article&article_id=265
+"Generating 'negawatts'". (2010, May). Retrieved from http://sri.dexia-am.com/LibrarySRI/ResearchPaper_Utilities_EnergyEfficiency_2010_UK.pdf
+NegaWatt Power Solutions Group (2009). Incentives. Retrieved from http://gonegawatts.com/incentives.php
+Presentation on European Green Paper on Energy Efficiency p.12
+The negawatts project: changing the paradigm of family energy consumption. (2010, August 6). Retrieved from http://www.mitportugal.org/research-highlights/the-negawatts-project-changing-the-paradigm-of-family-energy-consumption.html
+(2008). The elusive negawatt. Economist, 387(8579), 78. Retrieved from MasterFILE Premier database.
+(2008, March). http://www.loe.org/shows/segments.htm?programID=08-P13-00013&segmentID=4. "From Megawatts to Negawatts"
+http://www.lao.ca.gov/ballot/2005/050129.htm
+External links[edit]
+http://www.negawatt.org/english-presentation-p149.html (English translation of French official website)
+http://www.google.com/powermeter/about/index.html
+v
+t
+e
+Amory Lovins
+Hunter Lovins
+Hypercar
+Negawatt power
+Rocky Mountain Institute
+Soft energy path
+Soft energy technology
+Select
+bibliography
+Energy policy
+Reinventing Fire: Bold Business Solutions for the New Energy Era (2011)
+Winning the Oil Endgame: Innovation for Profit, Jobs and Security (2005)
+Small is Profitable: The Hidden Economic Benefits of
+Making Electrical Resources the Right Size (2003)
+Brittle Power: Energy Strategy for National Security (1982 re-released in 2001)
+Non-Nuclear Futures: The Case for an Ethical Energy Strategy (1980)
+Soft Energy Paths: Towards a Durable Peace (1977)
+Environment
+Natural Capitalism: Creating the Next Industrial Revolution (2000)
+Filmography
+Lovins on the Soft Path: An Energy Future with a Future (1982)
+Saved in parser cache with key enwiki:pcache:idhash:3010833-0!*!0!!en!4!* and timestamp 20161114091142 and revision id 749436600
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Negawatt_power&oldid=749436600"
+Categories: Energy conservationEnergy economicsUnits of energyHidden categories: All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from March 2016

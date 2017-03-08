@@ -1,0 +1,707 @@
+Netmetering
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Part of a series about
+Environmental economics
+Concepts
+Green accounting
+Green economy
+Green trading
+Eco commerce
+Green job
+Environmental enterprise
+Fiscal environmentalism
+Environmental finance
+Renewable energy
+Policies
+Sustainable tourism
+Ecotax
+Environmental tariff
+Net metering
+Environmental pricing reform
+Pigovian tax
+Dynamics
+Renewable energy commercialization
+Marginal abatement cost
+Green paradox
+Green politics
+Pollution haven hypothesis
+Carbon related
+Low-carbon economy
+Carbon neutral fuel
+Carbon neutrality
+Carbon pricing
+Emissions trading
+Carbon credit
+Carbon offset
+Carbon emission trading
+Personal carbon trading
+Carbon tax
+Carbon finance
+Feed-in tariff
+Carbon diet
+Food miles
+2000-watt society
+Carbon footprint
+v
+t
+e
+Part of a series about
+Sustainable energy
+Energy conservation
+Cogeneration
+Efficient energy use
+Green building
+Heat pump
+Low-carbon power
+Microgeneration
+Passive solar building design
+Renewable energy
+Anaerobic digestion
+Geothermal
+Hydroelectricity
+Solar
+Tidal
+Wind
+Sustainable transport
+Carbon-neutral fuel
+Electric vehicle
+Fossil fuel phase-out
+Green vehicle
+Plug-in hybrid
+Sustainable development portal
+Renewable energy portal
+Environment portal
+v
+t
+e
+Net metering (or net energy metering, NEM) allows consumers who generate some or all of their own electricity to use that electricity anytime, instead of when it is generated. This is particularly important with wind and solar, which are non-dispatchable. Monthly net metering allows consumers to use solar power generated during the day at night, or wind from a windy day later in the month. Annual net metering rolls over a net kilowatt credit to the following month, allowing solar power that was generated in July to be used in December, or wind power from March in August.
+Net metering policies can vary significantly by country and by state or province: if net metering is available, if and how long you can keep your banked credits, and how much the credits are worth (retail/wholesale). Most net metering laws involve monthly roll over of kWh credits, a small monthly connection fee,[1] require monthly payment of deficits (i.e. normal electric bill), and annual settlement of any residual credit. Unlike a feed-in tariff (FIT), which requires two meters, net metering uses a single, bi-directional meter and can measure current flowing in two directions.[2] Net metering can be implemented solely as an accounting procedure, and requires no special metering, or even any prior arrangement or notification.[3]
+Net metering is an enabling policy designed to foster private investment in renewable energy.
+Contents
+1 History
+2 Controversy
+2.1 Small scale viewpoint
+2.2 Large scale viewpoint
+3 Comparison
+4 Time of use metering
+5 Market rate net metering
+6 Excess generation
+7 Energy storage
+8 Australia
+9 Canada
+10 European Union
+11 United States
+11.1 Nevada
+11.2 Ohio
+11.3 Maine
+11.4 Missouri
+12 India
+13 Net purchase and sale
+14 Related technology
+15 Solar Guerrilla
+16 See also
+17 References
+History[edit]
+Net metering originated in the United States, where small wind turbines and solar panels were connected to the electrical grid, and consumers wanted to be able to use the electricity generated at a different time or date from when it was generated. Minnesota is commonly cited as passing the first net metering law, in 1983, and allowed anyone generating less than 40kW to either roll over any kilowatt credit to the next month, or be paid for the excess. In 2000 this was amended to compensation "at the average retail utility energy rate." This is the simplest and most general interpretation of net metering, and in addition allows small producers to sell electricity at the retail rate.[4]
+Utilities in Idaho adopted net metering in 1980, and in Arizona in 1981. Massachusetts adopted net metering in 1982. By 1998, 22 states or utilities therein had adopted net metering. Two California utilities initially adopted a monthly "net metering" charge, which included a "standby charge," until the PUC banned such charges.[5] In 2005, all U.S. utilities were required to offer net metering "upon request." Excess generation is not addressed. As of 2016 43 U.S. states have adopted net metering, as well as utilities in 3 of the remaining states, leaving only 4 states without any established procedures for implementing net metering.[6]
+Net metering was slow to be adopted in Europe, especially in the United Kingdom, because of confusion over how to address the value added tax (VAT). Only one utility company in Great Britain offers net metering.[7]
+The United Kingdom government is reluctant to introduce the net metering principle because of complications in paying and refunding the value added tax that is payable on electricity, but pilot projects are underway in some areas.
+In Canada, some provinces have net metering programs.
+In the Philippines, Net Metering scheme is governed by Republic Act 9513 (Renewable Energy Act of 2008) and it's implementing rules and regulation (IRR). The implementing body is the Energy Regulatory Commission (ERC) in consultation with the National Renewable Energy Board (NREB). Unfortunately, the scheme is not a true net metering scheme but in reality a net billing scheme. As the Dept of Energy's Net Metering guidelines say, "
+Net-metering allows customers of Distribution Utilities (DUs) to install an on-site Renewable Energy (RE) facility not exceeding 100 kilowatts (kW) in capacity so they can generate electricity for their own use. Any electricity generated that is not consumed by the customer is automatically exported to the DUs distribution system. The DU then gives a peso credit for the excess electricity received equivalent to the DUs blended generation cost, excluding other generation adjustments, and deducts the credits earned to the customers electric bill. [8]
+Thus Philippine consumers who generate their own electricity and sell their surplus to the utility are paid what is called the "generation cost" which is often less than 50% of the retail price of electricity.
+Controversy[edit]
+Net metering is controversial as it affects different interests on the grid.[9] A report prepared by Peter Kind of Energy Infrastructure Advocates for the trade association Edison Electric Institute stated that distributed generation systems, like rooftop solar, present unique challenges to the future of electric utilities.[10] Utilities in the United States have led a largely unsuccessful campaign to eliminate net metering[11]
+Small scale viewpoint[edit]
+Renewable advocates point out that while distributed solar and other energy efficiency measures do pose a challenge to electric utilities' existing business model, the benefits of distributed generation outweigh the costs, and those benefits are shared by all ratepayers.[12] Grid benefits of private distributed solar investment include reduced need for centralizing power plants and reduced strain on the utility grid. They also point out that, as a cornerstone policy enabling the growth of rooftop solar, net metering creates a host of societal benefits for all ratepayers that are generally not accounted for by the utility analysis, including: public health benefits, employment and downstream economic effects, market price impacts, grid security benefits, and water savings.[13]
+An independent report conducted by the consulting firm Crossborder Energy found that the benefits of California's net metering program outweigh the costs to ratepayers. Those net benefits will amount to more than US$92 million annually upon the completion of the current net metering program.[14]
+A 2012 report on the cost of net metering in the State of California, commissioned by the California Public Utilities Commission (CPUC), showed that those customers without distributed generation systems will pay US$287 in additional costs to use and maintain the grid every year by 2020. The report also showed the net cost will amount to US$1.1 billion by 2020.[15] Notably, the same report found that solar customers do pay more on their power bills than what it costs the utility to serve them (Table 5, page 10: average 103% of their cost of service across the three major utilities in 2011).[15]
+Large scale viewpoint[edit]
+Many electric utilities state that owners of generation systems do not pay the full cost of service to use the grid, thus shifting their share of the cost on to customers without distributed generation systems.[16] Most owners of rooftop solar or other types of distributed generation systems still rely on the grid to receive electricity from utilities at night or when their systems cannot generate sufficient power.[17]
+A 2014 report funded by the Institute for Electric Innovation[18] reveals that net metering in California produces excessively large subsidies for typical residential rooftop solar PV facilities. These subsidies must then be paid for by other residential customers, most of whom are less affluent than the rooftop solar PV customers. In addition, the report points out that most of these large subsidies go to the solar leasing companies, which accounted for about 75 percent of the solar PV facilities installed in 2013. The report concludes that changes are needed in California, ranging from the adoption of retail tariffs that are more cost-reflective to replacing net metering with a separate "Buy All - Sell All" arrangement that requires all rooftop solar PV customers to buy all of their consumed energy under the existing retail tariffs and separately sell all of their onsite generation to their distribution utilities at the utilities' respective avoided costs.[19]
+Comparison[edit]
+Net metering, unlike a feed-in tariff, requires only one meter, but it must be bi-directional.
+There is considerable confusion between the terms "net metering" and "feed-in tariff." In general there are three types of compensation for local, distributed generation:
+Feed-in tariff (FIT)
+Which is generally above retail, and reduces to retail as the percentage of adopters increases.
+Net metering
+Which is always at retail, and which is not technically compensation, although it may become compensation if there is excess generation and payments are allowed by the utility.
+Power purchase agreement
+Compensation which is generally below retail, also known as a "Standard Offer Program," and can be above retail, particularly in the case of solar, which tends to be generated close to peak demand.
+Net metering only requires one meter. A feed-in tariff requires two.
+Time of use metering[edit]
+Further information: Smart meter
+Time of use (TOU) net metering employs a special reversible smart (electric) meter that is programmed to determine electricity usage any time during the day. Time-of-use allows utility rates and charges to be assessed based on when the electricity was used (i.e., day/night and seasonal rates). Typically the generation cost of electricity is highest during the daytime peak usage period, and lowest at night. Time of use metering is a significant issue for renewable-energy sources, since, for example, solar power systems tend to produce energy during the daytime peak-price period, and produce little or no power during the night period, when price is low. Italy has installed so many photovoltaic cells that peak prices no longer are during the day, but are instead in the evening.[20] TOU net metering affects the apparent cost of net metering to a utility.[21]
+Market rate net metering[edit]
+Further information: Vehicle-to-grid
+In market rate net metering systems the user's energy use is priced dynamically according to some function of wholesale electric prices. The users' meters are programmed remotely to calculate the value and are read remotely. Net metering applies such variable pricing to excess power produced by a qualifying system.
+Market rate metering systems were implemented in California starting in 2006, and under the terms of California's net metering rules will be applicable to qualifying photovoltaic and wind systems. Under California law the payback for surplus electricity sent to the grid must be equal to the (variable, in this case) price charged at that time.
+Net metering enables small systems to result in zero annual net cost to the consumer provided that the consumer is able to shift demand loads to a lower price time, such as by chilling water at a low cost time for later use in air conditioning, or by charging a battery electric vehicle during off-peak times, while the electricity generated at peak demand time can be sent to the grid rather than used locally (see Vehicle-to-grid). No credit is given for annual surplus production.
+Excess generation[edit]
+Excess generation is a separate issue from net metering, but it is normally dealt with in the same rules, because it can arise. If local generation offsets a portion of the demand, net metering is not used. If local generation exceeds demand some of the time, for example during the day, net metering is used. If local generation exceeds demand for the billing cycle, best practices calls for a perpetual roll over of the kilowatt credits, although some regions have considered having any kilowatt credits expire after 36 months. The normal definition of excess generation is annually, although the term is equally applicable monthly. The treatment of annual excess generation (and monthly) ranges from lost, to compensation at avoided cost, to compensation at retail rate.[22] Left over kilowatt credits upon termination of service would ideally be paid at retail rate, from the consumer standpoint, and lost, from the utility standpoint, with avoided cost a minimum compromise. Some regions allow optional payment for excess annual generation,[23] which allows perpetual roll over or payment, at the customers choice. Both wind and solar are inherently seasonal, and it is highly likely to use up a surplus later, unless more solar panels or a larger wind turbine have been installed than needed.
+Energy storage[edit]
+Net metering systems can have energy storage integrated, to store some of the power locally (i.e. from the renewable energy source connected to the system) rather than selling everything back to the mains electricity grid. Often, the batteries used are industrial deep cycle batteries as these last for 10 to 20 years.[24] Lead-acid batteries are often also still used, but last much less long (5 years or so). Lithium-ion batteries are sometimes also used, but too have a relatively short lifespan. Finally, nickel-iron batteries[25] last the longest with a lifespan of up to 40 years.[26][27][28]
+Australia[edit]
+Main article: Feed-in tariffs in Australia
+In some Australian states, the "feed-in tariff" is actually net metering, except that it pays monthly for net generation at a higher rate than retail, with Environment Victoria Campaigns Director Mark Wakeham calling it a "fake feed-in tariff."[29] A feed-in tariff requires a separate meter, and pays for all local generation at a preferential rate, while net metering requires only one meter. The financial differences are very substantial.
+In Victoria, from 2009, householders were paid 60 cents for every excess kilowatt hour of energy fed back into the state electricity grid. This was around three times the retail price for electricity at that time. However, subsequent state governments reduced the feed-in in several updates, until in 2016 the feed-in is as low as 5 cents per kilowatt hour.
+In Queensland starting in 2008, the Solar Bonus Scheme pays 44 cents for every excess kilowatt hour of energy fed back into the state electricity grid. This is around three times the current retail price for electricity. However, from 2012, the Queensland feed in tariff has been reduced to 6-10 cents per kilowatt hour depending on which electricity retailer the customer has signed up with.
+Canada[edit]
+Ontario allows net metering for up to 500kW, however credits can only be carried for 12 consecutive months. Should a consumer establish a credit where they generate more than they consume for 8 months and use up the credits in the 10th month, then the 12-month period begins again from the date that the next credit is shown on an invoice. Any unused credits remaining at the end of 12 consecutive months of a consumer being in a credit situation are cleared at the end of that billing.[30]
+Areas of British Columbia serviced by BC Hydro are allowed net metering for up to 50kW. At each annual anniversary the customer was paid 8.16 cents[31] per KWh, if there is a net export of power after each 12-month period, which was increased to 9.99 cents/kWh, effective June 1, 2012. Systems over 50kW are covered under the Standing Offer Program.[32][33] FortisBC which serves an area in South Central BC also allows net-metering for up to 50kW. Customers are paid their existing retail rate for any net energy they produce.[34] The City of New Westminster, which has its own electrical utility, does not currently allow net metering.
+New Brunswick allows net metering for installations up to 100kW. Credits from excess generated power can be carried over until March at which time any excess credits are lost. [35]
+SaskPower allows net metering for installations up to 100kW. Credits from excess generated power can be carried over until the customer's annual anniversary date, at which time any excess credits are lost.
+European Union[edit]
+Denmark established net-metering for privately owned PV systems in mid-1998 for a pilot-period of four years. In 2002 the net-metering scheme was extended another four years up to end of 2006. Net-metering has proved to be a cheap, easy to administer and effective way of stimulating the deployment of PV in Denmark; however the relative short time window of the arrangement has so far prevented it from reaching its full potential. During the political negotiations in the fall of 2005 the net-metering for privately owned PV systems was made permanent.[36]
+The Netherlands has net-metering since 2004.[37] Initially there was a limit of 3000kWh per year. Later this limit was increased to 5000kWh. The limit was removed altogether on January 1, 2014.[38]
+Italy offers a support scheme, mixing net-metering and a well segmented premium FiT.[39]
+Slovenia has annual net-metering since January 2016 for up to 11 kVA. In a calendar year up to 10 MVA can be installed in the country.[40]
+In 2010 Spain, net-metering has been proposed by the Asociacin de la Industria Fotovoltaica (ASIF) to promote renewable electricity, without requiring additional economic support,[41] but net-metering for privately owned systems is not yet established.
+Some form of net metering is now proposed by lectricit de France. According to their website, energy produced by home-owners is bought at a higher price than what is charged as consumers. Hence, some recommend to sell all energy produced, and buy back all energy needed at a lower price. The price has been fixed for 20 years by the government.[42][43]
+United States[edit]
+Growth of net metering in the United States
+Net metering was pioneered in the United States as a way to allow solar and wind to provide electricity whenever available and allow use of that electricity whenever it was needed, beginning with utilities in Idaho in 1980, and in Arizona in 1981.[5] In 1983, Minnesota passed the first state net metering law.[4] As of March 2015, 44 states and Washington, D.C. have developed mandatory net metering rules for at least some utilities.[44]
+Net metering policies are determined by states, which have set policies varying on a number of key dimensions. The Energy Policy Act of 2005 required state electricity regulators to "consider" (but not necessarily implement) rules that mandate public electric utilities make available upon request net metering to their customers.[45] Several legislative bills have been proposed to institute a federal standard limit on net metering. They range from H.R. 729, which sets a net metering cap at 2% of forecasted aggregate customer peak demand, to H.R. 1945 which has no aggregate cap, but does limit residential users to 10kW, a low limit compared to many states, such as New Mexico, with an 80,000kW limit, or states such as Arizona, Colorado, New Jersey, and Ohio which limit as a percentage of load.[46]
+Arizona, California, Colorado, Connecticut, Delaware, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Ohio, Oregon, Pennsylvania, Utah, Vermont, and West Virginia are considered the most favorable states for net metering, as they are the only states to receive an "A" rating from Freeing the Grid in 2015.[47]
+Regulators in multiple states are acting as referees in debates between utility companies and advocates of distributed resources, such as solar panel arrays. In 2016 the National Association of Regulatory Utility Commissioners (NARUC) published the Manual on Distributed Energy Resources Compensation as a way to help states decide on rate structures dealing with homes and businesses that generate their own power and send excess power back to the electric grid. The intention behind the manual is to "provide a consistent framework for evaluating rate design decisions in the age of distributed energy resources."[48] The president of NARUC, when he commissioned the manual, said his instructions to the committee writing the manual were to write a "practical, expert and most importantly ideologically neutral guide that offers advice" to states.[48]
+The Edison Electric Institute and the Solar Energy Industries Association both supported the manual. However, the main point of contention between utility companies and the solar industry is the question of whether distributed generation systems represent cost shift from those with the systems (people with solar panels) to those without them (everyone else who uses electricity).[48]
+Phil Moeller of the Edison Electric Institute said, "We want to DER [distributed energy resources] but we want to make sure the rate structure is right to minimize cost shifts."[48] Moeller is a former member of the Federal Energy Regulatory Commission (FERC), a federal government regulatory agency. Sean Gallaher of the Solar Energy Industries Association said, "There seems to be an assumption that revenue erosion from DER results in an inadequacy of cost recovery for the utility andtherefyor a shift of costs to non-participating customers. You cant just assume that."[48]
+State
+Subscriber limit
+(% of peak)
+Power limit
+Res/Com(kW)
+Monthly
+rollover
+Annual
+compensation
+Alabama
+no limit
+100
+yes, can be indefinitely
+varies
+Alaska
+1.5
+25
+yes, indefinitely
+retail rate
+Arizona
+no limit
+125% of load
+yes, avoided-cost at end of billing year
+avoided cost
+Arkansas
+no limit
+25/300
+yes, until end of billing year
+retail rate
+California
+5
+1,000
+yes, can be indefinitely
+varies
+Colorado
+no limit
+120% of load or 10/25*
+yes, indefinitely
+varies*
+Connecticut
+no limit
+2,000
+yes, avoided-cost at end of billing year
+retail rate
+Delaware
+5
+25/500 or 2,000*
+yes, indefinitely
+retail rate
+District of Columbia
+no limit
+1,000
+yes, indefinitely
+retail rate
+Florida
+no limit
+2,000
+yes, avoided-cost at end of billing year
+retail rate
+Georgia
+0.2
+10/100
+no
+determined rate
+Hawaii
+none [49]
+50 or 100*
+yes, until end of billing year
+none[50]
+Idaho
+0.1
+25 or 25/100*
+no
+retail rate or avoided-cost*
+Illinois
+1
+40
+yes, until end of billing year
+retail rate
+Indiana
+1
+1000
+yes, indefinitely
+retail rate
+Iowa
+no limit
+500
+yes, indefinitely
+retail rate
+Kansas
+1
+25/200
+yes, until end of billing year
+retail rate
+Kentucky
+1
+30
+yes, indefinitely
+retail rate
+Louisiana
+no limit
+25/300
+yes, indefinitely
+avoided cost
+Maine
+no limit
+100 or 660*
+yes, until end of billing year
+retail rate
+Maryland
+1500 MW
+2,000
+yes, until end of billing year
+retail rate
+Massachusetts**
+6 peak demand
+4 private 5 public
+60, 1,000 or 2,000
+varies
+varies
+Michigan
+0.75
+150
+yes, indefinitely
+partial retail rate
+Minnesota
+no limit
+40
+no
+retail rate
+Mississippi
+N/A
+N/A
+N/A
+N/A
+Missouri
+5
+100
+yes, until end of billing year
+avoided-cost
+Montana
+no limit
+50
+yes, until end of billing year
+retail rate
+Nebraska
+1
+25
+yes, until end of billing year
+avoided-cost
+Nevada
+3
+1,000
+yes, indefinitely
+retail rate
+New Hampshire
+1
+100
+yes, indefinitely
+avoided-cost
+New Jersey
+no limit
+previous years consumption
+yes, avoided-cost at end of billing year
+retail rate
+New Mexico
+no limit
+80,000
+if under US$50
+avoided-cost
+New York
+1 or 0.3 (wind)
+10 to 2,000 or peak load
+varies
+avoided-cost or retail rate
+North Carolina
+no limit
+1000
+yes, until summer billing season
+retail rate
+North Dakota
+no limit
+100
+no
+avoided-cost
+Ohio
+no limit
+no explicit limit
+yes, until end of billing year
+generation rate
+Oklahoma
+no limit
+100 or 25,000/year
+no
+avoided-cost, but utility not required to purchase
+Oregon
+0.5 or no limit*
+10/25 or 25/2,000*
+yes, until end of billing year*
+varies
+Pennsylvania
+no limit
+50/3,000 or 5,000
+yes, until end of billing year.
+"price-to-compare" (generation and transmission cost)
+Rhode Island
+2
+1,650 for most, 2250 or 3500*
+optional
+slightly less than retail rate
+South Carolina
+0.2
+20/100
+yes, until summer billing season
+time-of-rate use or less
+South Dakota
+N/A
+N/A
+N/A
+N/A
+Tennessee
+N/A
+N/A
+N/A
+N/A
+Texas***
+no limit
+20 or 25
+no
+varies
+Utah
+varies*
+25/2,000 or 10*
+varies - credits expire annually with the March billing*
+avoided-cost or retail rate*
+Vermont
+15
+250
+yes, accumulated up to 12 months, rolling
+retail rate[51]
+Virginia
+1
+10/500
+yes, avoided-cost option at end of billing year
+retail rate
+Washington
+0.5
+100
+yes, until end of billing year
+retail rate
+West Virginia
+0.1
+25
+yes, up to twelve months
+retail rate
+Wisconsin
+no limit
+20
+no
+retail rate for renewables, avoided-cost for non-renewables
+Wyoming
+no limit
+25
+yes, avoided-cost at end of billing year
+retail rate
+Note: Some additional minor variations not listed in this table may apply. N/A = Not available. Lost = Excess electricity credit or credit not claimed is granted to utility. Retail rate = Final sale price of electricity. Avoided-cost = "Wholesale" price of electricity (cost to the utility).
+* = Depending on utility.
+** = Massachusetts distinguishes policies for different "classes" of systems.
+*** = Only available to customers of Austin Energy, CPS Energy, or Green Mountain Energy (Green Mountain Energy is not a utility but a retail electric provider; according to www.powertochoose.com).[52]
+Nevada[edit]
+The state of Nevada implemented net metering in 1997.[53] Up until 2016, utility companies in Nevada paid the retail electricity rate to net metering consumers.[54] Nevadas utilities pay net metering customers an average of $623 per year in southern Nevada and $471 per year in northern Nevada.[54] (The major utility company in Nevada is NV Energy.[53][55])
+The Nevada legislature passed legislation in 2015 that required the Nevada Public Utilities Commission to study the electric rate structure and come up with ways to shift costs.[56] In December 2015, the commission updated the regulations so that utility companies would pay the wholesale rate to net metering consumers.[55]
+The group Greenpeace and Senator Harry Reid, the Democratic leader in the U.S. Senate, expressed opposition to the commissions ruling.[55][57] On February 8, 2016, during a commission hearing, three individuals with guns attempted to enter the hearing. Security guards turned them back. The individuals said they would return to the next commission hearing and would be armed.[58]
+Ohio[edit]
+Recently, it has become a popular trend for utilities in several states to dramatically increase their consumers' fixed charges in order to account for the cost-shift created by the growing number of net metering customers who do not cover their share of grid upkeep costs, which, subsequently, places the burden onto non-solar panel customers. The average increase of fixed charges is estimated at 20 percent.
+In Ohio, American Electric Power (AEP) proposed to more than double its fixed charges from $8.40 per month to $18.40 per month, affecting nearly 1.5 million customers in order to accommodate for the increase costs due to net metering.[59]
+AEP was under investigation by the Public Utilities Commission of Ohio (PUCO) for allegedly double-charging their customers a total of $120 million to supposedly cover fuel costs for one of their power plants in Lawerenceburg, Indiana and for two other power plants operated by Ohio Valley Electric Corp.[60] The double-charge would have affected 67 percent or 1 million customers who had opted out of an alternate supplier. In 2014, PUCO enlisted an outside firm to conduct an audit focusing on their consumers' charges. The findings concluded that the customers were indeed overpaying. At the same time, AEP was being reimbursed for their fuel costs twice in a period from 2013-2015.
+The Office of the Ohio Consumer's Council, under the auditor's advice, requested AEP to disclose additional records, which was, in turn, denied by a PUCO administrative law judge, who agreed with AEP's stance that their confidentiality be protected until the audit process was resolved.[60] Pablo Vegas, the president and chief operating officer of AEP Ohio, insisted at the time that rates are based on actual costs of system operations, solidifying the company's claim that no deceptive action had taken place.[60]
+Maine[edit]
+In Maine, solar companies and major utility companies came to a legislative agreement in 2016 over net metering issues. The two sides said that their deal might increase solar power in Maine "tenfold in five years."[61] In response, several national solar companies paid for lobbyists to travel to Maine and attempt to persuade state legislators to stop the deal. The legislation would replace net metering with a concept referred to as "next metering." Under next metering, regulators would set the rates that utilities pay residential solar customers for the customers' excess energy. (Under normal net metering, utilities would pay the wholesale rate). The legislation includes a grandfather clause for existing solar customers.[61]
+Missouri[edit]
+In the spring of 2016, the city of Mt. Vernon, Missouri created a local net metering program. The local board of aldermen passed a measure on May 16, 2016 that allows for residents and businesses to apply to "generate their own electricity while staying connected to the Mt. Vernon power grid."[62] The board took up the issue after city residents asked about regulations regarding hooking up their own solar panels. The towns program would allow net metering, but consumers must pay for their own equipment including a bi-directional meter. Participants would pay for power from the city at the regular rate that any other city consumer would pay. Participants who create excess power would receive a credit on their utility bill, equal to what the city pays for the electricity at a wholesale rate from the distributor Empire.[62]
+India[edit]
+Indian states of Tamil Nadu, Karnataka, and Andhra Pradesh have started implementation of net metering, and the policy has been announced by the respective state electricity boards in 2014. Feasibility study will be done by the electricity boards, and after inspection the meters will be replaced by bidirectional ones and will be installed. Applications are taken up for up to 30% of the distribution transformer capacity on a first-come, first-served basis and technical feasibility.[63]
+Net purchase and sale[edit]
+Net purchase and sale is a different method of providing power to the electricity grid that does not offer the price symmetry of net metering, making this system a lot less profitable for home users of small renewable electricity systems.
+Under this arrangement, two uni-directional meters are installedone records electricity drawn from the grid, and the other records excess electricity generated and fed back into the grid. The user pays retail rate for the electricity they use, and the power provider purchases their excess generation at its avoided cost (wholesale rate). There may be a significant difference between the retail rate the user pays and the power provider's avoided cost.[64]
+Germany, Spain, Ontario (Canada), some states in the USA, and other countries, on the other hand, have adopted a price schedule, or feed-in tariff (FIT), whereby customers get paid for any electricity they generate from renewable energy on their premises. The actual electricity being generated is counted on a separate meter, not just the surplus they feed back to the grid. In Germany, for the solar power generated, a feed-in tariff is being paid in order to boost solar power (figure from 2009). Germany once paid several times the retail rate for solar but has successfully reduced the rates drastically while actual installation of solar has grown exponentially at the same time due to installed cost reductions. Wind energy, in contrast, only receives around a half of the domestic retail rate, because the German system pays what each source costs (including a reasonable profit margin).
+Related technology[edit]
+Sources that produce direct current, such as solar panels must be coupled with an electrical inverter to convert the output to alternating current, for use with conventional appliances. The phase of the outgoing power must be synchronized with the grid, and a mechanism must be included to disconnect the feed in the event of grid failure. This is for safety
+for example, workers repairing downed power lines must be protected from "downstream" sources, in addition to being disconnected from the main "upstream" distribution grid. Note: A small generator simply lacks the power to energize a loaded line. This can only happen if the line is isolated from other loads, and is extremely unlikely. Solar inverters are designed for safety
+while one inverter could not energize a line, a thousand might. In addition, all electrical workers should treat every line as though it was live, even when they know it should be safe.[65][66]
+Solar Guerrilla[edit]
+Solar Guerrilla (or the guerrilla solar movement) is a term originated by Home Power Magazine and is applied to someone who connects solar panels without permission or notification and uses monthly net metering without regard for law.[67]
+See also[edit]
+Automatic meter reading
+Demand response
+Distributed generation
+Electricity meter
+Interstate Renewable Energy Council
+Off-the-grid
+Power system automation
+Public Utility Regulatory Policies Act of 1978
+Uninterruptible power supply
+Smart grid
+Utility submeter
+Variable pricing
+Virtual power plant
+References[edit]
+Virtual Net Metering - California Public Utilities Commission.
+^ Electric bills contain a connection fee and an energy fee based on the number of kilowatt hours used that month. When no kilowatt hours are used the monthly connection fee is still paid. When the meter turns backwards for the month, the negative kilowatt reading is rolled over to the next month.
+^ Net energy metering uses bi-directional meter
+^ "Net Metering is a Win-Win for Utilities and Local Communities". Cres-energy.org. Retrieved 2013-12-15.
+^ a b "Minnesota". Dsireusa.org. Retrieved 2013-12-15.
+^ a b "Current Experience With Net Metering Programs (1998)" (PDF). Retrieved 2013-12-15.
+^ "Net Metering Map" (PDF). Retrieved 2013-12-15.
+^ "SolarNet and Net Metering" (PDF). Retrieved 2013-12-15.
+^ Tiglao, Dart. "Net Metering Website - 1. How net-metering works: Understanding the basics of policy, regulation and standards". www.doe.gov.ph. Retrieved 2015-06-01.
+^ Buhayar, Noah (January 28, 2016). "Who owns the sun?". Bloomberg Businessweek.
+^ eei.org
+^ https://www.washingtonpost.com/national/health-science/utilities-sensing-threat-put-squeeze-on-booming-solar-roof-industry/2015/03/07/2d916f88-c1c9-11e4-ad5c-3b8ce89f1b89_story.html
+^ renewableenergyworld.com
+^ oursolarrights.org
+^ votesolar.org
+^ a b cpuc.ca.gov
+^ "APS, solar advocates battle for net metering before ACC - Phoenix Business Journal". Bizjournals.com. 2013-11-13. Retrieved 2013-12-15.
+^ "Arizona's Energy Future - Net Metering". Azenergyfuture.com. Retrieved 2013-12-15.
+^ Net Energy Metering: Subsidy Issues And Regulatory Solutions, executive summary
+^ Net Energy Metering: Subsidy Issues And Regulatory Solutions, full report edisonfoundation.net
+^ "How solar subsidies can distort the power market: the case of Italy". Europeanenergyreview.eu. Retrieved 2013-12-15.
+^ "12,000 MW of Renewable Distributed Generation by 2020" (PDF). Retrieved 2013-12-15.
+^ "Net Metering". Dsireusa.org. Retrieved 2013-12-15.
+^ Colorado, Delaware, Minnesota, New Mexico, and Virginia allow optional annual payment for excess generation.
+^ Deep cycle battery lifespan
+^ Nickel iron batteries having 40 year lifespan
+^ Nickel-iron batteries used in net metering system ref 1
+^ Nickel-iron batteries used in net metering system ref 2
+^ Nickel-iron batteries used in net metering system ref 3
+^ "Solar feed-in tariff meets with mixed reviews". Metering.com. Retrieved 2013-12-15.
+^ "Net Metering in Ontario" (PDF). Archived from the original (PDF) on 18 March 2009.
+^ Final Submissions of BC Hydro
+^ Net Metering Program Retrieved 15 April 2013
+^ "Standing Offer Program  Who Can Apply". Bchydro.com. 2012-11-30. Retrieved 2013-12-15.
+^ FortisBC: Net metering program Retrieved 15 April 2013
+^ "Net Metering". Nbpower.com. Retrieved 2013-12-15.
+^ "Denmark PV Technology Status and Prospects" (PDF). Archived from the original (PDF) on 8 September 2008.
+^ Wijziging van de Elektriciteitswet 1998 en de Gaswet ter uitvoering van richtlijn nr. 2003/54/EG (in Dutch)
+^ Wijziging van de Elektriciteitswet 1998, de Gaswet en de Warmtewet en de Warmtewet (in Dutch)
+^ "2013 Global Market Outlook for Photovoltaics until 2013" (PDF). Retrieved 2013-12-15.
+^ Uredba o samooskrbi z elektrino energijo iz obnovljivih virov energije (in Slovene)
+^ "Country Focus: Spain". Archived from the original on 25 February 2010.
+^ Je passe aux nergies renouvelables (in French)
+^ Devenez producteur d'lectricit (in French)
+^ "Net Metering" (PDF). ncsolarcen-prod.s3.amazonaws.com. North Carolina Clean Energy Technology Center. 2015-03-01. Retrieved 2015-05-30.
+^ "Public Utility Regulatory Policies Act of 1978 (PURPA)". U.S. Department of Energy. Retrieved May 30, 2015.
+^ "Database of State Incentives for Renewables & Efficiency". North Carolina Clean Energy Technology Center. Retrieved 2015-05-31.
+^ "Best and Worst Practices in State Net Metering Policies and Interconnection Procedures". Freeing the Grid. Retrieved 2015-05-31.
+^ a b c d e Trabish, Herman K. (2016-08-04). "NARUC rate design manual reignites debate over cost shift, value of solar". Utility DIVE. Retrieved 2016-08-04.
+^ "HECO Net Metering". Heco.com. 2011-12-23. Retrieved 2013-12-15.
+^ "Hawaii Revised Statutes 269-106". Lawserver.com. Retrieved 2013-12-15.
+^ http://publicservice.vermont.gov/topics/renewable_energy/net_metering
+^ Database of State Incentives for Renewables & Efficiency
+^ a b Hendry, Terri (4 March 2016). "Nevada PUC chair speaks out on solar decision". KRNV Channel 4 (NBC). Reno, NV. Retrieved 22 March 2016.
+^ a b Kostes, Peter. "PUCN to consider revised rates for customers who participate in net energy metering" (PDF). Public Utilities Commission. State of Nevada.
+^ a b c Myers, Dennis (10 March 2016). "Net loss". Reno News & Review. Chico Community Publishing, Inc. Retrieved 22 March 2016.
+^ Bowers, Nikki (22 December 2015). "Nevada panel OKs new rate structure for rooftop solar users". KLAS-TV (CBS Channel 8). Las Vegas, NV: Nectar Broadcasting, Inc. Retrieved 22 March 2016.
+^ "Harry Reid blasts Nevada PUC in Reno appearance". KRNV Channel 4 (NBC). Reno, NV. 18 February 2016. Retrieved 22 March 2016.
+^ Whaley, Sean (10 February 2016). "Worries over firearms surface in rooftop-solar debate". Las Vegas Review-Journal. Retrieved 22 March 2016.
+^ Walton, Robert (2016-08-29). "AEP Ohio wants to double fixed charges, joining net metering debate". Utility Dive. Retrieved 2016-09-15.
+^ a b c Gearino, Dan (2016-01-22). "Did AEP double-charge consumers $120 million?". The Columbus Dispatch. Retrieved 2016-09-15.
+^ a b Bell, Tom (21 March 2016). "National companies seek to stop solar deal struck in Maine". The Washington Times. Retrieved 22 March 2016.
+^ a b "Board adopts net-metering procedures, application". Lawrence County Record. Retrieved 2016-05-23.
+^ "Net Metering India" (PDF). Tamilnadu TNERC.
+^ "EERE Consumer's Guide: Metering and Rate Arrangements for Grid-Connected Systems". U.S. Department of Energy. September 12, 2005. Retrieved 23 January 2006.
+^ "Know the Ground Rules for Electrical Safety". Statefundca.com. Retrieved 2013-12-15.
+^ Electrical Safety: Lineman Electrocuted after Reportedly Violating the Hot Gloves Rule Archived September 11, 2011, at the Wayback Machine.
+^ "Guerrilla Solar". Retrieved 2007-07-16.
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1209
+Cached time: 20161120041056
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.360 seconds
+Real time usage: 0.420 seconds
+Preprocessor visited node count: 2630/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 100566/2097152 bytes
+Template argument size: 903/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.149/10.000 seconds
+Lua memory usage: 4.06 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+328.656
+1 - -total
+62.84%
+206.531
+1 - Template:Reflist
+37.66%
+123.785
+32 - Template:Cite_web
+10.73%
+35.269
+2 - Template:Sidebar
+8.00%
+26.305
+8 - Template:Cite_news
+6.82%
+22.418
+1 - Template:Green_economics_sidebar
+6.42%
+21.110
+1 - Template:Electricity_generation
+6.26%
+20.578
+2 - Template:Navbox
+4.90%
+16.096
+1 - Template:Sustainable_energy
+3.57%
+11.749
+3 - Template:Portal-inline
+Saved in parser cache with key enwiki:pcache:idhash:843050-0!*!0!!en!4!* and timestamp 20161120041056 and revision id 750352532
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Net_metering&oldid=750352532"
+Categories: Renewable energy policyRenewable energy economyEnergy storagePricingMarket-based policy instrumentsHidden categories: Webarchive template wayback links

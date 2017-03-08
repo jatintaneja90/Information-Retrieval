@@ -1,0 +1,765 @@
+Liquefiednaturalgas
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Not to be confused with Natural gas processing or Liquefied petroleum gas.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2008) (Learn how and when to remove this template message)
+Liquefied natural gas (LNG) is natural gas (predominantly methane, CH4, with some mixture of ethane C2H6f) that has been converted to liquid form for ease of storage or transport. It takes up about 1/600th the volume of natural gas in the gaseous state. It is odorless, colorless, toxic and non-corrosive. Hazards include flammability after vaporization into a gaseous state, freezing and asphyxia. The liquefaction process involves removal of certain components, such as dust, acid gases, helium, water, and heavy hydrocarbons, which could cause difficulty downstream. The natural gas is then condensed into a liquid at close to atmospheric pressure by cooling it to approximately 162C (260F); maximum transport pressure is set at around 25kPa (4psi).
+A typical LNG process. The gas is first extracted and transported to a processing plant where it is purified by removing any condensates such as water, oil, mud, as well as other gases such as CO2 and H2S. An LNG process train will also typically be designed to remove trace amounts of mercury from the gas stream to prevent mercury amalgamizing with aluminium in the cryogenic heat exchangers. The gas is then cooled down in stages until it is liquefied. LNG is finally stored in storage tanks and can be loaded and shipped.
+LNG achieves a higher reduction in volume than compressed natural gas (CNG) so that the (volumetric) energy density of LNG is 2.4times greater than that of CNG or 60 percent that of diesel fuel.[1] This makes LNG cost efficient to transport over long distances where pipelines do not exist. Specially designed cryogenic sea vessels (LNG carriers) or cryogenic road tankers are used for its transport. LNG is principally used for transporting natural gas to markets, where it is regasified and distributed as pipeline natural gas. It can be used in natural gas vehicles, although it is more common to design vehicles to use compressed natural gas. Its relatively high cost of production and the need to store it in expensive cryogenic tanks have hindered widespread commercial use. Despite these drawbacks, on energy basis LNG production is expected to hit 10% of the global crude production by 2020.(see LNG Trade)
+Contents
+1 Specific energy content and energy density
+2 History
+3 Commercial operations in the United States
+4 Production
+4.1 LNG plant production
+4.2 World total production
+5 Commercial aspects
+5.1 Global Trade
+5.2 LNG Project Screening
+6 Uses
+6.1 Use of LNG to fuel large over-the-road trucks
+6.2 Use of LNG to fuel high-horsepower/high-torque engines
+7 Trade
+7.1 Imports
+7.2 Cargo diversion
+7.3 Cost of LNG plants
+7.3.1 Small-scale liquefaction plants
+8 LNG pricing
+8.1 Henry Hub Plus
+8.2 Oil parity
+8.3 S-curve
+8.3.1 JCC and ICP
+8.3.2 Brent and other energy carriers
+8.4 Price review
+9 Quality of LNG
+10 Liquefaction technology
+10.1 Storage
+10.2 Transportation
+10.2.1 Terminals
+10.3 Refrigeration
+11 Environmental concerns
+11.1 Safety and accidents
+12 See also
+13 References
+13.1 External references
+Specific energy content and energy density[edit]
+The heating value depends on the source of gas that is used and the process that is used to liquefy the gas. The range of heating value can span +/- 10 to 15 percent. A typical value of the higher heating value of LNG is approximately 50MJ/kg or 21,500BTU/lb.[2] A typical value of the lower heating value of LNG is 45MJ/kg or 19,350BTU/lb.
+For the purpose of comparison of different fuels the heating value may be expressed in terms of energy per volume which is known as the energy density expressed in MJ/liter. The density of LNG is roughly 0.41kg/liter to 0.5kg/liter, depending on temperature, pressure, and composition,[3] compared to water at 1.0kg/liter. Using the median value of 0.45kg/liter, the typical energy density values are 22.5 MJ/liter (based on higher heating value) or 20.3 MJ/liter (based on lower heating value).
+The (volume-based) energy density of LNG is approximately 2.4 times greater than that of CNG which makes it economical to transport natural gas by ship in the form of LNG. The energy density of LNG is comparable to propane and ethanol but is only 60 percent that of diesel and 70 percent that of gasoline.[4]
+History[edit]
+Experiments on the properties of gases started early in the seventeenth century. By the middle of the seventeenth century Robert Boyle had derived the inverse relationship between the pressure and the volume of gases. About the same time, Guillaume Amontons started looking into temperature effects on gas. Various gas experiments continued for the next 200 years. During that time there were efforts to liquefy gases. Many new facts on the nature of gases had been discovered. For example, early in the nineteenth century Cagniard de la Tour had shown there was a temperature above which a gas could not be liquefied. There was a major push in the mid to late nineteenth century to liquefy all gases. A number of scientists including Michael Faraday, James Joule, and William Thomson (Lord Kelvin), did experiments in this area. In 1886 Karol Olszewski liquefied methane, the primary constituent of natural gas. By 1900 all gases had been liquefied except helium which was liquefied in 1908.
+The first large scale liquefaction of natural gas in the U.S. was in 1918 when the U.S. government liquefied natural gas as a way to extract helium, which is a small component of some natural gas. This helium was intended for use in British dirigibles for World War I. The liquid natural gas (LNG) was not stored, but regasified and immediately put into the gas mains.[5]
+The key patents having to do with natural gas liquefaction were in 1915 and the mid-1930s. In 1915 Godfrey Cabot patented a method for storing liquid gases at very low temperatures. It consisted of a Thermos bottle type design which included a cold inner tank within an outer tank; the tanks being separated by insulation. In 1937 Lee Twomey received patents for a process for large scale liquefaction of natural gas. The intention was to store natural gas as a liquid so it could be used for shaving peak energy loads during cold snaps. Because of large volumes it is not practical to store natural gas, as a gas, near atmospheric pressure. However, if it can be liquefied it can be stored in a volume 600 times smaller. This is a practical way to store it but the gas must be stored at 260F (162C).
+There are two processes for liquefying natural gas in large quantities. The first is the cascade process, in which the natural gas is cooled by another gas which in turn has been cooled by still another gas, hence named the "cascade" process. There are usually two cascade cycles prior to the liquid natural gas cycle. The other method is the Linde process, with a variation of the Linde process, called the Claude process, being sometimes used. In this process, the gas is cooled regeneratively by continually passing it through an orifice until it is cooled to temperatures at which it liquefies. The cooling of gas by expanding it through an orifice was developed by James Joule and William Thomson and is known as the Joule-Thomson effect. Lee Twomey used the cascade process for his patents.
+Commercial operations in the United States[edit]
+The East Ohio Gas Company built a full-scale commercial liquid natural gas (LNG) plant in Cleveland, Ohio, in 1940 just after a successful pilot plant built by its sister company, Hope Natural Gas Company of West Virginia. This was the first such plant in the world. Originally it had three spheres, approximately 63 feet in diameter containing LNG at 260F. Each sphere held the equivalent of about 50 million cubic feet of natural gas. A fourth tank, a cylinder, was added in 1942. It had an equivalent capacity of 100 million cubic feet of gas. The plant operated successfully for three years. The stored gas was regasified and put into the mains when cold snaps hit and extra capacity was needed. This precluded the denial of gas to some customers during a cold snap.
+The Cleveland plant failed on October 20, 1944 when the cylindrical tank ruptured spilling thousands of gallons of LNG over the plant and nearby neighborhood. The gas evaporated and caught fire, which caused 130 fatalities.[6] The fire delayed further implementation of LNG facilities for several years. However, over the next 15 years new research on low-temperature alloys, and better insulation materials, set the stage for a revival of the industry. It restarted in 1959 when a U.S. World War II Liberty ship, the Methane Pioneer, converted to carry LNG, made a delivery of LNG from the U.S. Gulf coast to energy starved Great Britain. In June 1964, the world's first purpose-built LNG carrier, the "Methane Princess" entered service.[7] Soon after that a large natural gas field was discovered in Algeria. International trade in LNG quickly followed as LNG was shipped to France and Great Britain from the Algerian fields. One more important attribute of LNG had now been exploited. Once natural gas was liquefied it could not only be stored more easily, but it could be transported. Thus energy could now be shipped over the oceans via LNG the same way it was shipped by oil.
+The US LNG industry restarted in 1965 when a series of new plants were built in the U.S. The building continued through the 1970s. These plants were not only used for peak-shaving, as in Cleveland, but also for base-load supplies for places that never had natural gas prior to this. A number of import facilities were built on the East Coast in anticipation of the need to import energy via LNG. However, a recent boom in U.S. natural gas production (2010-2014), enabled by hydraulic fracturing (fracking), has many of these import facilities being considered as export facilities. The first U.S. LNG export was completed in early 2016.[8]
+Production[edit]
+The natural gas fed into the LNG plant will be treated to remove water, hydrogen sulfide, carbon dioxide and other components that will freeze (e.g., benzene) under the low temperatures needed for storage or be destructive to the liquefaction facility. LNG typically contains more than 90 percentmethane. It also contains small amounts of ethane, propane, butane, some heavier alkanes, and nitrogen. The purification process can be designed to give almost 100 percentmethane. One of the risks of LNG is a rapid phase transition explosion (RPT), which occurs when cold LNG comes into contact with water.[9]
+The most important infrastructure needed for LNG production and transportation is an LNG plant consisting of one or more LNG trains, each of which is an independent unit for gas liquefaction. The largest LNG train now in operation is in Qatar. These facilities recently reached a safety milestone, completing 12 years of operations on its offshore facilities without a Lost Time Incident.[10] Until recently it was the Train4 of Atlantic LNG in Trinidad and Tobago with a production capacity of 5.2 million metric ton per annum (mmtpa),[11] followed by the SEGAS LNG plant in Egypt with a capacity of 5mmtpa. In July 2014, Atlantic LNG celebrated its 3000th cargo of LNG at the companys liquefaction facility in Trinidad.[12] The QatargasII plant has a production capacity of 7.8mmtpa for each of its two trains. LNG sourced from Qatargas II will be supplied to Kuwait, following the signing of an agreement in May 2014 between Qatar Liquefied Gas Company and Kuwait Petroleum Corp.[12] LNG is loaded onto ships and delivered to a regasification terminal, where the LNG is allowed to expand and reconvert into gas. Regasification terminals are usually connected to a storage and pipeline distribution network to distribute natural gas to local distribution companies (LDCs) or independent power plants (IPPs).
+LNG plant production[edit]
+Information for the following table is derived in part from publication by the U.S. Energy Information Administration.[13]
+See also List of LNG terminals
+Plant Name
+Location
+Country
+Startup Date
+Capacity (mmtpa)
+Corporation
+Gorgon
+Barrow Island
+Australia
+2016
+3 x 5 = 15
+Chevron 47%
+Ichthys
+Browse Basin
+Australia
+2016
+2 x 4.2 = 8.4
+INPEX, Total S.A. 24%
+Das Island I Trains 1-2
+Abu Dhabi
+UAE
+1977
+1.7 x 2 = 3.4
+ADGAS (ADNOC, BP, Total, Mitsui)
+Das Island II Train 3
+Abu Dhabi
+UAE
+1994
+2.6
+ADGAS (ADNOC, BP, Total, Mitsui)
+Arzew (CAMEL) GL4Z Trains 1-3
+Algeria
+1964
+0.3 x 3 = 0.9
+Sonatrach. Shutdown since April 2010.
+Arzew GL1Z Trains 1-6
+Algeria
+1978
+1.3 x 6 = 7.8
+Sonatrach
+Arzew GL2Z Trains 1-6
+Algeria
+1981
+1.4 x 6 = 8.4
+Sonatrach
+Skikda GL1K Phase 1 & 2 Trains 1-6
+Algeria
+1972/1981
+Total 6.0
+Sonatrach
+Skikda GL3Z Skikda Train 1
+Algeria
+2013
+4.7
+Sonatrach
+Skikda GL3Z Skikda Train 2
+Algeria
+2013
+4.5
+Sonatrach
+Angola LNG
+Soyo
+Angola
+2013
+5.2
+Chevron
+Lumut 1
+Brunei
+1972
+7.2
+Badak NGL A-B
+Bontang
+Indonesia
+1977
+4
+Pertamina
+Badak NGL C-D
+Bontang
+Indonesia
+1986
+4.5
+Pertamina
+Badak NGL E
+Bontang
+Indonesia
+1989
+3.5
+Pertamina
+Badak NGL F
+Bontang
+Indonesia
+1993
+3.5
+Pertamina
+Badak NGL G
+Bontang
+Indonesia
+1998
+3.5
+Pertamina
+Badak NGL H
+Bontang
+Indonesia
+1999
+3.7
+Pertamina
+Darwin LNG
+Darwin, NT
+Australia
+2006
+3.7
+ConocoPhillips
+Donggi Senoro LNG
+Luwuk
+Indonesia
+2015
+2
+Mitsubishi, Pertamina, Medco
+Sengkang LNG
+Sengkang
+Indonesia
+2014
+5
+Energy World Corp.
+Atlantic LNG
+Point Fortin
+Trinidad and Tobago
+1999
+Atlantic LNG
+Atlantic LNG
+[Point Fortin]
+Trinidad and Tobago
+2003
+9.9
+Atlantic LNG
+SEGAS LNG
+Damietta
+Egypt
+2004
+5.5
+SEGAS LNG
+Egyptian LNG
+Idku
+Egypt
+2005
+7.2
+Bintulu MLNG 1
+Malaysia
+1983
+7.6
+Bintulu MLNG 2
+Malaysia
+1994
+7.8
+Bintulu MLNG 3
+Malaysia
+2003
+3.4
+Nigeria LNG
+Nigeria
+1999
+23.5
+Northwest Shelf Venture
+Karratha
+Australia
+1984
+16.3
+Withnell Bay
+Karratha
+Australia
+1989
+Withnell Bay
+Karratha
+Australia
+1995
+(7.7)
+Sakhalin II
+Russia
+2009
+9.6.[14]
+Yemen LNG
+Balhaf
+Yemen
+2008
+6.7
+Tangguh LNG Project
+Papua Barat
+Indonesia
+2009
+7.6
+Qatargas Train 1
+Ras Laffan
+Qatar
+1996
+3.3
+Qatargas Train 2
+Ras Laffan
+Qatar
+1997
+3.3
+Qatargas Train 3
+Ras Laffan
+Qatar
+1998
+3.3
+Qatargas Train 4
+Ras Laffan
+Qatar
+2009
+7.8
+Qatargas Train 5
+Ras Laffan
+Qatar
+2009
+7.8
+Qatargas Train 6
+Ras Laffan
+Qatar
+2010
+7.8
+Qatargas Train 7
+Ras Laffan
+Qatar
+2011
+7.8
+Rasgas Train 1
+Ras Laffan
+Qatar
+1999
+3.3
+Rasgas Train 2
+Ras Laffan
+Qatar
+2000
+3.3
+Rasgas Train 3
+Ras Laffan
+Qatar
+2004
+4.7
+Rasgas Train 4
+Ras Laffan
+Qatar
+2005
+4.7
+Rasgas Train 5
+Ras Laffan
+Qatar
+2006
+4.7
+Rasgas Train 6
+Ras Laffan
+Qatar
+2009
+7.8
+Rasgas Train 7
+Ras Laffan
+Qatar
+2010
+7.8
+Qalhat
+Oman
+2000
+7.3
+Melkya
+Hammerfest
+Norway
+2007
+4.2
+Statoil
+Equatorial Guinea
+2007
+3.4
+Marathon Oil
+Risavika
+Stavanger
+Norway
+2010
+0.3
+Risavika LNG Production[15]
+Dominion Cove Point LNG
+Lusby, Maryland
+United States
+2017
+5.2
+Dominion Resources
+World total production[edit]
+Global LNG import trends, by volume (in red), and as a percentage of global natural gas imports (in black) (US EIA data)
+Trends in the top five LNG-importing nations as of 2009 (US EIA data)
+Year
+Capacity (Mtpa)
+Notes
+1990
+50[16]
+2002
+130[17]
+2007
+160[16]
+2014
+246[18]
+The LNG industry developed slowly during the second half of the last century because most LNG plants are located in remote areas not served by pipelines, and because of the large costs to treat and transport LNG. Constructing an LNG plant costs at least $1.5billion per 1mmtpa capacity, a receiving terminal costs $1billion per 1 bcf/day throughput capacity and LNG vessels cost $200 million$300 million.
+In the early 2000s, prices for constructing LNG plants, receiving terminals and vessels fell as new technologies emerged and more players invested in liquefaction and regasification. This tended to make LNG more competitive as a means of energy distribution, but increasing material costs and demand for construction contractors have put upward pressure on prices in the last few years. The standard price for a 125,000 cubic meter LNG vessel built in European and Japanese shipyards used to be US$250million. When Korean and Chinese shipyards entered the race, increased competition reduced profit margins and improved efficiencyreducing costs by 60 percent. Costs in US dollars also declined due to the devaluation of the currencies of the world's largest shipbuilders: the Japanese yen and Korean won.
+Since 2004, the large number of orders increased demand for shipyard slots, raising their price and increasing ship costs. The per-ton construction cost of an LNG liquefaction plant fell steadily from the 1970s through the 1990s. The cost reduced by approximately 35 percent. However, recently the cost of building liquefaction and regasification terminals doubled due to increased cost of materials and a shortage of skilled labor, professional engineers, designers, managers and other white-collar professionals.
+Due to natural gas shortage concerns in the northeastern U.S. and surplus nature gas in the rest of the country, many new LNG import and export terminals are being contemplated in the United States. Concerns about the safety of such facilities create controversy in some regions where they are proposed. One such location is in the Long Island Sound between Connecticut and Long Island. Broadwater Energy, an effort of TransCanada Corp. and Shell, wishes to build an LNG import terminal in the sound on the New York side. Local politicians including the Suffolk County Executive raised questions about the terminal. In 2005, New York Senators Chuck Schumer and Hillary Clinton also announced their opposition to the project.[19] Several import terminal proposals along the coast of Maine were also met with high levels of resistance and questions. On Sep. 13, 2013 the U.S. Department of Energy approved Dominion Cove Point's application to export up to 770 million cubic feet per day of LNG to countries that do not have a free trade agreement with the U.S.[20] In May 2014, the FERC concluded its environmental assessment of the Cove Point LNG project, which found that the proposed natural gas export project could be built and operated safely.[21] Another LNG terminal is currently proposed for Elba Island, Ga.[22] Plans for three LNG export terminals in the U.S. Gulf Coast region have also received conditional Federal approval.[20][23] In Canada, an LNG export terminal is under construction near Guysborough, Nova Scotia.[24]
+Commercial aspects[edit]
+Global Trade[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2008) (Learn how and when to remove this template message)
+In the commercial development of an LNG value chain, LNG suppliers first confirm sales to the downstream buyers and then sign long-term contracts (typically 2025 years) with strict terms and structures for gas pricing. Only when the customers are confirmed and the development of a greenfield project deemed economically feasible, could the sponsors of an LNG project invest in their development and operation. Thus, the LNG liquefaction business has been limited to players with strong financial and political resources. Major international oil companies (IOCs) such as ExxonMobil, Royal Dutch Shell, BP, BG Group, Chevron, and national oil companies (NOCs) such as Pertamina and Petronas are active players.
+LNG is shipped around the world in specially constructed seagoing vessels. The trade of LNG is completed by signing an SPA (sale and purchase agreement) between a supplier and receiving terminal, and by signing a GSA (gas sale agreement) between a receiving terminal and end-users. Most of the contract terms used to be DES or ex ship, holding the seller responsible for the transport of the gas. With low shipbuilding costs, and the buyers preferring to ensure reliable and stable supply, however, contracts with FOB terms increased. Under such terms the buyer, who often owns a vessel or signs a long-term charter agreement with independent carriers, is responsible for the transport.
+LNG purchasing agreements used to be for a long term with relatively little flexibility both in price and volume. If the annual contract quantity is confirmed, the buyer is obliged to take and pay for the product, or pay for it even if not taken, in what is referred to as the obligation of take-or-pay contract (TOP).
+In the mid-1990s, LNG was a buyer's market. At the request of buyers, the SPAs began to adopt some flexibilities on volume and price. The buyers had more upward and downward flexibilities in TOP, and short-term SPAs less than 16 years came into effect. At the same time, alternative destinations for cargo and arbitrage were also allowed. By the turn of the 21st century, the market was again in favor of sellers. However, sellers have become more sophisticated and are now proposing sharing of arbitrage opportunities and moving away from S-curve pricing. There has been much discussion regarding the creation of an "OGEC" as a natural gas equivalent of OPEC. Russia and Qatar, countries with the largest and the third largest natural gas reserves in the world, have finally supported such move.[citation needed]
+Until 2003, LNG prices have closely followed oil prices. Since then, LNG prices in Europe and Japan have been lower than oil prices, although the link between LNG and oil is still strong. In contrast, prices in the US and the UK have recently skyrocketed, then fallen as a result of changes in supply and storage.[citation needed] In late 1990s and in early 2000s, the market shifted for buyers, but since 2003 and 2004, it has been a strong seller's market, with net-back as the best estimation for prices.[citation needed].
+Research from QNB Group in 2014 shows that robust global demand is likely to keep LNG prices high for at least the next few years.[25]
+The current surge in unconventional oil and gas in the U.S. has resulted in lower gas prices in the U.S. This has led to discussions in Asia' oil linked gas markets to import gas based on Henry Hub index.[26] Recent high level conference in Vancouver, the Pacific Energy Summit 2013 Pacific Energy Summit 2013 convened policy makers and experts from Asia and the U.S. to discuss LNG trade relations between these regions.
+Receiving terminals exist in about 18 countries, including India, Japan, Korea, Taiwan, China, Greece, Belgium, Spain, Italy, France, the UK, the US, Chile, and the Dominican Republic, among others. Plans exist for Argentina, Brazil, Uruguay, Canada, Ukraine and others to also construct new receiving (gasification) terminals.
+LNG Project Screening[edit]
+Base load (large scale, >1 MTPA) LNG projects require natural gas reserves,[27] buyers[28] and financing. Using proven technology and a proven contractor is extremely important for both investors and buyers.[29] Gas reserves required: 1 tcf of gas required per Mtpa of LNG over 20 years.[27]
+Uses[edit]
+The primary use of LNG is to simplify transport of natural gas from the source to a destination. On the large scale, this is done when the source and the destination are across an ocean from each other. It can also be used when adequate pipeline capacity is not available. For large scale transport uses, the LNG is typically regassified at the receiving end and pushed into the local natural gas pipeline infrastructure.
+- LNG can also be used to meet peak demand when the normal pipeline infrastructure can meet most demand needs, but not the peak demand needs. These plants are typically called LNG Peak Shaving Plants as the purpose is to shave off part of the peak demand from what is required out of the supply pipeline.
+- LNG can be used to fuel internal combustion engines. LNG is in the early stages of becoming a mainstream fuel for transportation needs. It is being evaluated and tested for over-the-road trucking,[30] off-road,[31] marine, and train applications.[32] There are known problems with the fuel tanks and delivery of gas to the engine,[33] but despite these concerns the move to LNG as a transportation fuel has begun.
+Use of LNG to fuel large over-the-road trucks[edit]
+China has been a leader in the use of LNG vehicles[34] with over 100,000 LNG powered vehicles on the road as of Sept 2014.[35]
+In the United States the beginnings of a public LNG Fueling capability is being put in place. An alternative fuelling centre tracking site shows 81 public truck LNG fuel centres as of Aug 2016.[36] The 2013 National Trucker's Directory lists approximately 7,000 truckstops,[37] thus approximately 1% of US truckstops have LNG available.
+As of December 2014 LNG fuel and NGV's have not been taken to very quickly within Europe and it is questionable whether LNG will ever become the fuel of choice among fleet operators.[38] During the year 2015, Netherlands introduced LNG powered trucks in transport sector.[39] Australian government is planning to develop an LNG highway to utilise the locally produced LNG and replace the imported diesel fuel used by interstate haulage vehicles.[40]
+In the year 2015, India also made small beginning by transporting LNG by LNG powered road tankers in Kerala state.[41] Japan, the worlds largest importer of LNG, is set to use of LNG as road transport fuel.[42]
+Use of LNG to fuel high-horsepower/high-torque engines[edit]
+In internal combustion engines the volume of the cylinders is a common measure of the power of an engine. Thus a 2000cc engine would typically be more powerful than a 1800cc engine, but that assumes a similar air-fuel mixture is used. Also If, via a turbocharger as an example, the 1800cc engine were using an air-fuel mixture that was significantly more energy dense, then it might be able to produce more power than a 2000cc engine burning a less energy dense air-fuel mixture. Unfortunately turbochargers are both complex and expensive. Thus it becomes clear for high-horsepower/high-torque engines a fuel that can inherently be used to create a more energy dense air-fuel mixture is preferred because a smaller and simpler engine can be used to produce the same power.
+With traditional gasoline and diesel engines the energy density of the air-fuel mixture is limited because the liquid fuels do not mix well in the cylinder. Further, gasoline and diesel auto-ignite[43] at temperatures and pressures relevant to engine design. An important part of traditional engine design is designing the cylinders, compression ratios, and fuel injectors such that pre-ignition is avoided,[44] but at the same time as much fuel as possible can be injected, become well mixed, and still have time to complete the combustion process during the power stroke.
+Natural gas does not auto-ignite at pressures and temperatures relevant to traditional gasoline and diesel engine design, thus providing more flexibility in the design of a natural gas engine. Methane, the main component of natural gas, has an autoignition temperature of 580C/1076F,[45] whereas gasoline and diesel autoignite at approximately 250C and 210C respectively.
+With a compressed natural gas (CNG) engine, the mixing of the fuel and the air is more effective since gases typically mix well in a short period of time, but at typical CNG compression pressures the fuel itself is less energy dense than gas or diesel thus the end result is a lower energy dense air-fuel mixture. Thus for the same cylinder displacement engine, a non turbocharged CNG powered engine is typically less powerful than a similarly sized gas or diesel engine. For that reason turbochargers are popular on European CNG cars.[46] Despite that limitation, the 12 liter Cummins Westport ISX12G engine[47] is an example of a CNG capable engine designed to pull tractor/trailer loads up to 80,000 lbs showing CNG can be used in most if not all on-road truck applications. The original ISX G engines incorporated a turbocharger to enhance the air-fuel energy density.[48]
+LNG offers a unique advantage over CNG for more demanding high-horsepower applications by eliminating the need for a turbocharger. Because LNG boils at approximately -160C, by using a simple heat exchanger a small amount of LNG can be converted to its gaseous form at extremely high pressure with the use of little or no mechanical energy. A properly designed high-horsepower engine can leverage this extremely high pressure energy dense gaseous fuel source to create a higher energy density air-fuel mixture than can be efficiently created with a CNG powered engine. The end result when compared to CNG engines is more overall efficiency in high-horsepower engine applications when high-pressure direct injection technology is used. The Westport HDMI2[49] fuel system is an example of a high-pressure direct injection technology that does not require a turbocharger if teamed with appropriate LNG heat exchanger technology. The Volvo Trucks 13-liter LNG engine[50] is another example of a LNG engine leveraging advanced high pressure technology.
+Westport recommends CNG for engines 7 liters or smaller and LNG with direct injection for engines between 20 and 150 liters. For engines between 7 and 20 liters either option is recommended. See slide 13 from there NGV BRUXELLES  INDUSTRY INNOVATION SESSION presentation[51]
+Container shipping company, Maersk Group has decided to introduce LNG fuel driven container ships.[52] DEME Group has contracted Wrtsil to power its new generation Antigoon class dredger with dual fuel (DF) engines.[53] High horsepower engines in the oil drilling, mining, locomotive, and marine fields have been or are being developed.[54] Paul Blomerous has written a paper[55] concluding as much as 40 Million tonnes per annum of LNG (approximately 26.1 billion gallons/year or 71 million gallons/day) could be required just to meet the global needs of the high-horsepower engines by 2025 to 2030.
+As of the end of 1st quarter 2015 Prometheus Energy Group Inc claims to have delivered over 100 million gallons of LNG within the previous 4 years into the industrial market,[56] and is continuing to add new customers.
+Trade[edit]
+The global trade in LNG is growing rapidly from negligible in 1970 to what is expected to be a globally meaningful amount by 2020. As a reference, the 2014 global production of crude oil was 92 million barrels per day[57] or 186.4 quads/yr (quadrillion BTUs/yr).
+In 1970, global LNG trade was of 3 billion cubic metres (bcm) (0.11 quads).[58] In 2011, it was 331 bcm (11.92 quads).[58] The U.S. started exporting LNG in February 2016. The Black & Veatch Oct 2014 forecast is that by 2020, the U.S. alone will export between 10 Bcf/d (3.75 quads/yr) and 14 Bcf/d (5.25 quads/yr).[59] E&Y projects global LNG demand could hit 400 mtpa (19.7 quads) by 2020.[60] If that occurs, the LNG market will be roughly 10% the size of the global crude oil market, and that does not count the vast majority of natural gas which is delivered via pipeline directly from the well to the consumer.
+In 2004, LNG accounted for 7 percent of the worlds natural gas demand.[61] The global trade in LNG, which has increased at a rate of 7.4 percent per year over the decade from 1995 to 2005, is expected to continue to grow substantially.[62] LNG trade is expected to increase at 6.7 percent per year from 2005 to 2020.[62]
+Until the mid-1990s, LNG demand was heavily concentrated in Northeast Asia: Japan, South Korea and Taiwan. At the same time, Pacific Basin supplies dominated world LNG trade.[62] The world-wide interest in using natural gas-fired combined cycle generating units for electric power generation, coupled with the inability of North American and North Sea natural gas supplies to meet the growing demand, substantially broadened the regional markets for LNG. It also brought new Atlantic Basin and Middle East suppliers into the trade.[62]
+By the end of 2011, there were 18 LNG exporting countries and 25 LNG importing countries. The three biggest LNG exporters in 2011 were Qatar (75.5 MT), Malaysia (25 MT) and Indonesia (21.4 MT). The three biggest LNG importers in 2011 were Japan (78.8 MT), South Korea (35 MT) and UK (18.6 MT).[63] LNG trade volumes increased from 140 MT in 2005 to 158 MT in 2006, 165 MT in 2007, 172 MT in 2008.[64] Global LNG production was 246 MT in 2014,[65] most of which was used in trade between countries.[66] During the next several years there would be significant increase in volume of LNG Trade.[60] For example, about 59 MTPA of new LNG supply from six new plants came to market just in 2009, including:
+Northwest Shelf Train 5: 4.4 MTPA
+Sakhalin II: 9.6 MTPA
+Yemen LNG: 6.7 MTPA
+Tangguh: 7.6 MTPA
+Qatargas: 15.6 MTPA
+Rasgas Qatar: 15.6 MTPA
+In 2006, Qatar became the world's biggest exporter of LNG.[58] As of 2012, Qatar is the source of 25 percent of the world's LNG exports.[58]
+Investments in U.S. export facilities were increasing by 2013, these investments were spurred by increasing shale gas production in the United States and a large price differential between natural gas prices in the U.S. and those in Europe and Asia. Cheniere Energy became the first company in the United States to receive permission and export LNG in 2016.[8]
+Imports[edit]
+In 1964, the UK and France made the first LNG trade, buying gas from Algeria, witnessing a new era of energy.
+Today, only 19 countries export LNG.[58]
+Compared with the crude oil market, in 2013 the natural gas market was about 72 percent of the crude oil market (measured on a heat equivalent basis),[67] of which LNG forms a small but rapidly growing part. Much of this growth is driven by the need for clean fuel and some substitution effect due to the high price of oil (primarily in the heating and electricity generation sectors).
+Japan, South Korea, Spain, France, Italy and Taiwan import large volumes of LNG due to their shortage of energy. In 2005, Japan imported 58.6 million tons of LNG, representing some 30 percent of the LNG trade around the world that year. Also in 2005, South Korea imported 22.1 million tons, and in 2004 Taiwan imported 6.8 million tons. These three major buyers purchase approximately two-thirds of the world's LNG demand. In addition, Spain imported some 8.2 mmtpa in 2006, making it the third largest importer. France also imported similar quantities as Spain.[citation needed] Following the Fukushima Daiichi nuclear disaster in March 2011 Japan became a major importer accounting for one third of the total.[68] European LNG imports fell by 30 percent in 2012, and are expected to fall further by 24 percent in 2013, as South American and Asian importers pay more.[69]
+Cargo diversion[edit]
+Based on the LNG SPAs, LNG is destined for pre-agreed destinations, and diversion of that LNG is not allowed. However, if Seller and Buyer make a mutual agreement, then the diversion of the cargo is permittedsubject to sharing the additional profit created by such a diversion. In the European Union and some other jurisdictions, it is not permitted to apply the profit-sharing clause in LNG SPAs.
+Cost of LNG plants[edit]
+For an extended period of time, design improvements in liquefaction plants and tankers had the effect of reducing costs.
+In the 1980s, the cost of building an LNG liquefaction plant cost $350 per tpa (tonne per year). In 2000s, it was $200/tpa. In 2012, the costs can go as high as $1,000/tpa, partly due to the increase in the price of steel.[58]
+As recently as 2003, it was common to assume that this was a learning curve effect and would continue into the future. But this perception of steadily falling costs for LNG has been dashed in the last several years.[62]
+The construction cost of greenfield LNG projects started to skyrocket from 2004 afterward and has increased from about $400 per ton per year of capacity to $1,000 per ton per year of capacity in 2008.
+The main reasons for skyrocketed costs in LNG industry can be described as follows:
+Low availability of EPC contractors as result of extraordinary high level of ongoing petroleum projects worldwide.[14]
+High raw material prices as result of surge in demand for raw materials.
+Lack of skilled and experienced workforce in LNG industry.[14]
+Devaluation of US dollar.
+The 20072008 global financial crisis caused a general decline in raw material and equipment prices, which somewhat lessened the construction cost of LNG plants. However, by 2012 this was more than offset by increasing demand for materials and labor for the LNG market.
+Small-scale liquefaction plants[edit]
+Small-scale liquefaction plants are suitable for peakshaving on natural gas pipelines, transportation fuel, or for deliveries of natural gas to remote areas not connected to pipelines.[70] They typically have a compact size, are fed from a natural gas pipeline, and are located close to the location where the LNG will be used. This proximity decreases transportation and LNG product costs for consumers.[71][72] It also avoids the additional greenhouse gas emissions generated during long transportation.
+The small-scale LNG plant also allows localized peakshaving to occurbalancing the availability of natural gas during high and low periods of demand. It also makes it possible for communities without access to natural gas pipelines to install local distribution systems and have them supplied with stored LNG.[73]
+LNG pricing[edit]
+There are three major pricing systems in the current LNG contracts:
+Oil indexed contract used primarily in Japan, Korea, Taiwan and China;
+Oil, oil products and other energy carriers indexed contracts used primarily in Continental Europe;[74] and
+Market indexed contracts used in the US and the UK.;
+The formula for an indexed price is as follows:
+CP = BP +  X
+BP: constant part or base price
+: gradient
+X: indexation
+The formula has been widely used in Asian LNG SPAs, where base price refers to a term that represents various non-oil factors, but usually a constant determined by negotiation at a level which can prevent LNG prices from falling below a certain level. It thus varies regardless of oil price fluctuation.
+Henry Hub Plus[edit]
+Some LNG buyers have already signed contracts for future US-based cargos at Henry Hub-linked prices.[75] Cheniere Energys LNG export contract pricing consists of a fixed fee (liquefaction tolling fee) plus 115% of Henry Hub per MMBtu of LNG.[76] Tolling fees in the Cheniere contracts vary: $2.25/MMBtu with BG Group signed in 2011; $2.49/MMBtu with Spain's GNF signed in 2012; and $3.00/MMBtu with South Korea's Kogas and Centrica signed in 2013.[77]
+Oil parity[edit]
+Oil parity is the LNG price that would be equal to that of crude oil on a Barrel of oil equivalent basis. If the LNG price exceeds the price of crude oil in BOE terms, then the situation is called broken oil parity. A coefficient of 0.1724 results in full oil parity. In most cases the price of LNG is less than the price of crude oil in BOE terms. In 2009, in several spot cargo deals especially in East Asia, oil parity approached the full oil parity or even exceeds oil parity.[78] In January 2016, the spot LNG price (5.461 US$/mmbtu) has broken oil parity when the Brent crude price (32 US$/bbl) has fallen steeply.[79] By the end of June 2016, LNG price has fallen by nearly 50% below its oil parity price making it more economical than more polluting diesel/gas oil in transport sector.[80]
+S-curve[edit]
+Many formulae include an S-curve, where the price formula is different above and below a certain oil price, to dampen the impact of high oil prices on the buyer, and low oil prices on the seller. Bulk of the LNG trade is governed by long term contracts. When the spot LNG prices are cheaper than long term oil price indexed contracts, profitable LNG end use is to power mobile engines for replacing costly gasoline and diesel consumption.
+JCC and ICP[edit]
+In most of the East Asian LNG contracts, price formula is indexed to a basket of crude imported to Japan called the Japan Crude Cocktail (JCC). In Indonesian LNG contracts, price formula is linked to Indonesian Crude Price (ICP).
+Brent and other energy carriers[edit]
+In continental Europe, the price formula indexation does not follow the same format, and it varies from contract to contract. Brent crude price (B), heavy fuel oil price (HFO), light fuel oil price (LFO), gas oil price (GO), coal price, electricity price and in some cases, consumer and producer price indexes are the indexation elements of price formulas.
+Price review[edit]
+Usually there exists a clause allowing parties to trigger the price revision or price reopening in LNG SPAs. In some contracts there are two options for triggering a price revision. regular and special. Regular ones are the dates that will be agreed and defined in the LNG SPAs for the purpose of price review.
+Quality of LNG[edit]
+LNG quality is one of the most important issues in the LNG business. Any gas which does not conform to the agreed specifications in the sale and purchase agreement is regarded as off-specification (off-spec) or off-quality gas or LNG. Quality regulations serve three purposes:[81]
+1 - to ensure that the gas distributed is non-corrosive and non-toxic, below the upper limits for H2S, total sulphur, CO2 and Hg content;
+2 - to guard against the formation of liquids or hydrates in the networks, through maximum water and hydrocarbon dewpoints;
+3 - to allow interchangeability of the gases distributed, via limits on the variation range for parameters affecting combustion: content of inert gases, calorific value, Wobbe index, Soot Index, Incomplete Combustion Factor, Yellow Tip Index, etc.
+In the case of off-spec gas or LNG the buyer can refuse to accept the gas or LNG and the seller has to pay liquidated damages for the respective off-spec gas volumes.
+The quality of gas or LNG is measured at delivery point by using an instrument such as a gas chromatograph.
+The most important gas quality concerns involve the sulphur and mercury content and the calorific value. Due to the sensitivity of liquefaction facilities to sulfur and mercury elements, the gas being sent to the liquefaction process shall be accurately refined and tested in order to assure the minimum possible concentration of these two elements before entering the liquefaction plant, hence there is not much concern about them.
+However, the main concern is the heating value of gas. Usually natural gas markets can be divided in three markets in terms of heating value:[81]
+Asia (Japan, Korea, Taiwan) where gas distributed is rich, with a gross calorific value (GCV) higher than 43 MJ/m3(n), i.e. 1,090 Btu/scf,
+the UK and the US, where distributed gas is lean, with a GCV usually lower than 42 MJ/m3(n), i.e. 1,065 Btu/scf,
+Continental Europe, where the acceptable GCV range is quite wide: approx. 39 to 46 MJ/m3(n), i.e. 990 to 1,160 Btu/scf.
+There are some methods to modify the heating value of produced LNG to the desired level. For the purpose of increasing the heating value, injecting propane and butane is a solution. For the purpose of decreasing heating value, nitrogen injecting and extracting butane and propane are proved solutions. Blending with gas or LNG can be a solutions; however all of these solutions while theoretically viable can be costly and logistically difficult to manage in large scale. Lean LNG price in terms of mmbtu is lower to the rich LNG price.[82]
+Liquefaction technology[edit]
+There are several liquefaction processes available for large, baseload LNG plants:[83]
+AP-C3MRTM - designed by Air Products & Chemicals, Inc. (APCI)
+Cascade - designed by ConocoPhillips
+AP-X - designed by Air Products & Chemicals, Inc. (APCI)
+DMR (Dual Mixed Refrigerant)
+SMR (Single Mixed Refrigerant)
+MFC (mixed fluid cascade) - designed by Linde
+PRICO (SMR) - designed by Black & Veatch
+It was expected that by the end of 2012, there will be 100 liquefaction trains on stream with total capacity of 297.2 Mt/year (MMTPA).
+The majority of these trains use either APCI AP-C3MRTM or Cascade technology for the liquefaction process. The other processes, used in a small minority of some liquefaction plants, include Shell's DMR (double-mixed refrigerant) technology and the Linde technology.
+APCI technology is the most-used liquefaction process in LNG plants: out of 100 liquefaction trains onstream or under-construction, 86 trains with a total capacity of 243 MMTPA have been designed based on the APCI process. Philips Cascade process is the second most-used, used in 10 trains with a total capacity of 36.16 MMTPA. The Shell DMR process has been used in three trains with total capacity of 13.9 MMTPA; and, finally, the Linde/Statoil process is used in the Snohvit 4.2 MMTPA single train.
+Floating liquefied natural gas (FLNG) facilities float above an offshore gas field, and produce, liquefy, store and transfer LNG (and potentially LPG and condensate) at sea before carriers ship it directly to markets. The first FLNG facility is now in development by Shell,[84] due for completion in around 2017.[85]
+Storage[edit]
+LNG storage tank at EG LNG
+Modern LNG storage tanks are typically full containment type, which has a prestressed concrete outer wall and a high-nickel steel inner tank, with extremely efficient insulation between the walls. Large tanks are low aspect ratio (height to width) and cylindrical in design with a domed steel or concrete roof. Storage pressure in these tanks is very low, less than 10kPa (1.45psig). Sometimes more expensive underground tanks are used for storage. Smaller quantities (say 700m3 (190,000 USgallons) and less), may be stored in horizontal or vertical, vacuum-jacketed, pressure vessels. These tanks may be at pressures anywhere from less than 50kPa to over 1,700kPa (7psig to 250psig).
+LNG must be kept cold to remain a liquid, independent of pressure. Despite efficient insulation, there will inevitably be some heat leakage into the LNG, resulting in vaporisation of the LNG. This boil-off gas acts to keep the LNG cold. The boil-off gas is typically compressed and exported as natural gas, or it is reliquefied and returned to storage.
+Transportation[edit]
+Main article: LNG carrier
+Main article: Aviation_fuel LNG
+Tanker LNG Rivers, LNG capacity of 135,000 cubic metres
+Interior of an LNG cargo tank
+LNG is transported in specially designed ships with double hulls protecting the cargo systems from damage or leaks. There are several special leak test methods available to test the integrity of an LNG vessel's membrane cargo tanks.[86]
+The tankers cost around US$200 million each.[58]
+Transportation and supply is an important aspect of the gas business, since natural gas reserves are normally quite distant from consumer markets. Natural gas has far more volume than oil to transport, and most gas is transported by pipelines. There is a natural gas pipeline network in the former Soviet Union, Europe and North America. Natural gas is less dense, even at higher pressures. Natural gas will travel much faster than oil through a high-pressure pipeline, but can transmit only about a fifth of the amount of energy per day due to the lower density. Natural gas is usually liquefied to LNG at the end of the pipeline, prior to shipping.
+Short LNG pipelines for use in moving product from LNG vessels to onshore storage are available. Longer pipelines, which allow vessels to offload LNG at a greater distance from port facilities are under development. This requires pipe in pipe technology due to requirements for keeping the LNG cold.[87]
+LNG is transported using both tanker truck,[88] railway tanker, and purpose built ships known as LNG carriers. LNG will be sometimes taken to cryogenic temperatures to increase the tanker capacity. The first commercial ship-to-ship transfer (STS) transfers were undertaken in February 2007 at the Flotta facility in Scapa Flow[89] with 132,000 m3 of LNG being passed between the vessels Excalibur and Excelsior. Transfers have also been carried out by Exmar Shipmanagement, the Belgian gas tanker owner in the Gulf of Mexico, which involved the transfer of LNG from a conventional LNG carrier to an LNG regasification vessel (LNGRV). Prior to this commercial exercise LNG had only ever been transferred between ships on a handful of occasions as a necessity following an incident.[citation needed] SIGTTO - the Society of International Gas Tanker and Terminal Operators is the responsible body for LNG operators around the world and seeks to disseminate knowledge regarding the safe transport of LNG at sea.[90]
+Besides LNG vessels, LNG is also used in some aircraft.
+Terminals[edit]
+Main articles: List of LNG terminals and Liquefied natural gas terminal
+Liquefied natural gas is used to transport natural gas over long distances, often by sea. In most cases, LNG terminals are purpose-built ports used exclusively to export or import LNG.
+Refrigeration[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2008) (Learn how and when to remove this template message)
+The insulation, as efficient as it is, will not keep LNG cold enough by itself. Inevitably, heat leakage will warm and vapourise the LNG. Industry practice is to store LNG as a boiling cryogen. That is, the liquid is stored at its boiling point for the pressure at which it is stored (atmospheric pressure). As the vapour boils off, heat for the phase change cools the remaining liquid. Because the insulation is very efficient, only a relatively small amount of boil off is necessary to maintain temperature. This phenomenon is also called auto-refrigeration.
+Boil off gas from land based LNG storage tanks is usually compressed and fed to natural gas pipeline networks. Some LNG carriers use boil off gas for fuel.
+Environmental concerns[edit]
+Natural gas could be considered the most environmentally friendly fossil fuel, because it has the lowest CO2 emissions per unit of energy and because it is suitable for use in high efficiency combined cycle power stations. For an equivalent amount of heat, burning natural gas produces about 30 percent less carbon dioxide than burning petroleum and about 45 per cent less than burning coal. [91] On a per kilometre transported basis, emissions from LNG are lower than piped natural gas, which is a particular issue in Europe, where significant amounts of gas are piped several thousand kilometres from Russia. However, emissions from natural gas transported as LNG are higher than for natural gas produced locally to the point of combustion as emissions associated with transport are lower for the latter.[citation needed]
+However, on the West Coast of the United States, where up to three new LNG importation terminals were proposed prior to the U.S. fracking boom, environmental groups, such as Pacific Environment, Ratepayers for Affordable Clean Energy (RACE), and Rising Tide had moved to oppose them.[92] They claimed that, while natural gas power plants emit approximately half the carbon dioxide of an equivalent coal power plant, the natural gas combustion required to produce and transport LNG to the plants adds 20 to 40 percent more carbon dioxide than burning natural gas alone.[93] A 2015 peer reviewed study evaluated the full end to end life cycle of LNG produced in the U.S. and consumed in Europe or Asia.[94] It concluded that global CO2 production would be reduced due to the resulting reduction in other fossil fuels burned.
+Green bordered white diamond symbol used on LNG-powered vehicles in China
+Safety and accidents[edit]
+Natural gas is a fuel and a combustible substance. To ensure safe and reliable operation, particular measures are taken in the design, construction and operation of LNG facilities.
+In its liquid state, LNG is not explosive and can not burn. For LNG to burn, it must first vaporize, then mix with air in the proper proportions (the flammable range is 5 percent to 15 percent), and then be ignited. In the case of a leak, LNG vaporizes rapidly, turning into a gas (methane plus trace gases), and mixing with air. If this mixture is within the flammable range, there is risk of ignition which would create fire and thermal radiation hazards.
+Gas venting from vehicles powered by LNG may create a flammability hazard if parked indoors for longer than a week. Additionally, due to its low temperature, refueling a LNG-powered vehicle requires training to avoid the risk of frostbite.[95]
+LNG tankers have sailed over 100 million miles without a shipboard death or even a major accident.[96]
+Several on-site accidents involving or related to LNG are listed below:
+1944, Oct. 20. The East Ohio Natural Gas Co. experienced a failure of an LNG tank in Cleveland, Ohio, US.[97] 128 people perished in the explosion and fire. The tank did not have a dike retaining wall, and it was made during World War II, when metal rationing was very strict. The steel of the tank was made with an extremely low amount of nickel, which meant the tank was brittle when exposed to the cryogenic nature of LNG. The tank ruptured, spilling LNG into the city sewer system. The LNG vaporized and turned into gas, which exploded and burned.
+1979, Oct. 6, Lusby, Maryland, US, at the Cove Point LNG import facility a pump seal failed, releasing natural gas vapors (not LNG), which entered and settled in an electrical conduit.[97] A worker switched off a circuit breaker, which ignited the gas vapors. The resulting explosion killed a worker, severely injured another and caused heavy damage to the building. A safety analysis was not required at the time, and none was performed during the planning, design or construction of the facility.[98] National fire codes were changed as a result of the accident.
+2004, Jan. 19, Skikda, Algeria. Explosion at Sonatrach LNG liquefaction facility.[97] 27 killed, 56 injured, three LNG trains destroyed, a marine berth was damaged and 2004 production was down 76 percent for the year. Total loss was US$900 million. A steam boiler that was part of an LNG liquefaction train exploded triggering a massive hydrocarbon gas explosion. The explosion occurred where propane and ethane refrigeration storage were located. Site distribution of the units caused a domino effect of explosions.[99][100] It remains unclear if LNG or LNG vapour, or other hydrocarbon gases forming part of the liquefaction process initiated the explosions. One report, of the US Government Team Site Inspection of the Sonatrach Skikda LNG Plant in Skikda, Algeria, March 1216, 2004, has cited it was a leak of hydrocarbons from the refrigerant (liquefaction) process system.
+See also[edit]
+LNG regasification
+Compressed natural gas
+Gasoline gallon equivalent
+Gas to liquids
+Industrial gas
+Liquefied petroleum gas
+List of LNG terminals
+LNG spill
+Natural gas processing
+Floating liquefied natural gas
+Natural gas storage
+Natural gas vehicle
+Natural gas liquids (NGL)
+Energy portal
+Wikimedia Commons has media related to Liquefied natural gas.
+References[edit]
+^ "Liquefied Petroleum Gas (LPG), Liquefied Natural Gas (LNG) and Compressed Natural Gas (CNG)". Envocare Ltd. 2007-03-21. Retrieved 2008-09-03.
+^ "Fuel Gases - Heating Values". Retrieved 17 April 2015.
+^ "Liquefied Natural Gas - LNG". Retrieved 17 April 2015.
+^ Fuels of the Future for Cars and Trucks, Dr. James J. Eberhardt, U.S. Department of Energy, 2002 Diesel Engine Emissions Reduction (DEER) Workshop, August 2529, 2002
+^ Hrastar, John (2014). Liquid Natural Gas in the United States: A History (First ed.). Jefferson, North Carolina: McFarland & Company, Inc., Publishers. ISBN978-0-7864-7859-0.
+^ "Report on the Investigation of the Fire at the Liquefaction Storage, and Regasification Plant of the East Ohio Gas Co., Cleveland Ohio, October 20, 1944". Retrieved 17 April 2015.
+^ "50 years of LNG carriers". Retrieved 17 April 2015.
+^ a b "Cheniere loading first LNG export at Louisiana terminal". Retrieved 1 April 2016.
+^ "Understand LNG Rapid Phase Transitions (RPT)" (PDF). Retrieved 17 April 2015.
+^ "Qatargas reaches safety milestone LNG". Retrieved 17 April 2015.
+^ "Atlantic waits on Train 4". Upstream Online. NHST Media Group. 2006-12-06. Retrieved 2008-01-19.
+^ a b "Atlantic LNG celebrates milestone". Retrieved 17 April 2015.
+^ "The Global Liquefied Natural Gas Market: Status and Outlook, Appendix F, Energy Information Administration" (PDF). Retrieved 17 April 2015.
+^ a b c Hashimoto, Hiroshi (2011). "Evolving Roles of LNG and Asian Economies in the Global Natural Gas Markets" (PDF). Pacific Energy Summit.
+^ "Risavika LNG Production". Retrieved 3 January 2015.
+^ a b "LNGPedia". Retrieved 17 April 2015.
+^ "The Global Liquefied Natural Gas Market: Status and Outlook". US Energy Information administration. December 2003.
+^ "Global LNG Industry Review in 2014". Retrieved 17 April 2015.
+^ Long Island Business News, 2005
+^ a b "DOE approves Dominion Cove Point LNG exports to non-FTA countries". Retrieved 17 April 2015.
+^ "Dominion welcomes FERC assessment of Cove Point LNG". lngindustry.com. July 28, 2014.
+^ "THREE-POINT SYSTEM COMPARES US LNG EXPORT PROJECTS". Retrieved 17 April 2015.
+^ "Third Gulf Coast LNG Export Terminal Wins Conditional Nod from DOE". Retrieved 17 April 2015.
+^ "East Coast LNG project gains momentum, strikes deal with E.ON". The Globe and Mail. Toronto. 2013-06-03.
+^ "Global demand will keep LNG prices high". lngindustry.com. July 28, 2014.
+^ Pacific Energy Summit Working Papers
+^ a b RULES OF THUMB FOR SCREENING LNG DEVELOPMENTS
+^ Buyers be where?
+^ SCT&E LNG officials announce partnership
+^ "Over the Road LNG vehicles in USA". Retrieved 17 April 2015.
+^ "High horse power off-road LNG vehicles in USA". Retrieved 17 April 2015.
+^ "Next energy revolution will be on roads and railroads". Retrieved 17 April 2015.
+^ "LNG Tank System Analysis". Retrieved 17 April 2015.
+^ "Development of LNG Fueling Stations in China vs. in U.S.". Retrieved 17 April 2015.
+^ "Bloomberg Business". Retrieved 17 April 2015.
+^ "Alternative Fueling Station Locator in USA". Retrieved 17 April 2015.
+^ "The 2013 National Trucker's Directory". Retrieved 17 April 2015.
+^ "LNG fuel unlikely to be fuel of choice for Europe". Retrieved 17 April 2015.
+^ "Shell: LNG in transport". Retrieved 17 June 2015.
+^ "'Missed opportunity' for Australian LNG highway". Retrieved 17 June 2015.
+^ "HLL Lifecare switches to LNG for fuel at city plant". Retrieved 17 July 2015.
+^ "Japan to introduce LNG-fuelled transport". Retrieved 17 July 2015.
+^ Autoignition temperature
+^ Engine knocking#Pre-ignition
+^ "Fuels and Chemicals - Autoignition Temperatures". Retrieved 17 April 2015.
+^ "Turbocharging Boosting Demand for CNG Vehicles in Europe". Retrieved 17 April 2015.
+^ "Cummins Westport ISX12 G natural gas engine". Retrieved 17 April 2015.
+^ "Development of the High-Pressure Direct-Injection ISX G Natural Gas Engine" (PDF). Retrieved 17 April 2015.
+^ "WESTPORT HPDI 2.0 LNG engine". Retrieved 17 April 2015.
+^ "Volvo Trucks North America to Launch LNG Engine". Retrieved 17 April 2015.
+^ "An innovative vision for LNG Fuel System for MD Diesel Dual Fuel Engine(DDF+LNG)" (PDF). Retrieved 17 April 2015.
+^ "Qatar, Maersk and Shell join forces to develop LNG as marine fuel". Retrieved 24 February 2016.
+^ "Wrtsil receives dual fuel dredger contract". Retrieved 7 August 2015.
+^ "Meyer Werft to build cruise ships powered by LNG". Retrieved 17 June 2015.
+^ "LNG AS A FUEL FOR DEMANDING HIGH HORSEPOWER ENGINE APPLICATIONS: TECHNOLOGY AND APPROACHES" (PDF). Retrieved 17 April 2015.
+^ "Prometheus agreement with WPX Energy to supply LNG and equipment for drilling operations". Retrieved 17 April 2015.
+^ "SHORT-TERM ENERGY AND SUMMER FUELS OUTLOOK, UEIA". Retrieved 17 April 2015.
+^ a b c d e f g "A liquid market". Retrieved 14 June 2014.
+^ "U.S. SHALE GAS REVOLUTION EXPANDS LNG EXPORT OPPORTUNITIES". Retrieved 17 April 2015.
+^ a b "Global LNG Will new demand and new supply mean new pricing?" (PDF). Retrieved 17 April 2015.
+^ The role of LNG in a global gas market
+^ a b c d e The Outlook for Global Trade in Liquefied Natural Gas Projections to the Year 2020, Prepared For: California Energy Commission, August 2007 Energy.ca.gov
+^ World LNG Report, 2011, Page 8 and Page 11
+^ World Gas Intelligence, May 6, 2009, Page 8
+^ "Global LNG Industry Review in 2014". Retrieved 17 April 2015.
+^ "LNG Global Trade movements 2014  Interactive chart". Retrieved 17 August 2015.
+^ "Statistical Review infographic". Retrieved 17 April 2015.
+^ Stanley Reed (May 17, 2013). "3 Foreign Companies Invest in U.S. Project to Export Liquid Gas" (blog "Dealbook"). The New York Times. Retrieved May 18, 2013.
+^ JRGEN RUDBECK. "Analyst: LNG-terminals pressed" (in Danish) "ShippingWatch, 20 September 2013. Accessed: 22 September 2013.
+^ Chapter 8 - IGU World LNG Report 2015
+^ "Chapter 7 of World LNG Report - 2014 Edition" (PDF). Retrieved 17 April 2015.
+^ "Chapter 7 of World LNG Report - 2015 Edition" (PDF). Retrieved 17 April 2015.
+^ https://inlportal.inl.gov/portal/server.pt/document/43128/liquefied_natural_gas_plant_4_pdf_%282%29
+^ Hughes, Peter (2011). "Europe's Evolving Gas Market: Future Direction and Implications for Asia" (PDF). Pacific Energy Summit.
+^ EY Competing for LNG demand pricing structure debate 2014
+^ Cheniere Energy's commodity price exposure
+^ Henry Prices
+^ "Negotiation Standards for LNG Contracts". Retrieved 17 April 2015.
+^ "Singapore LNG Spot Index Falls to Lowest Since 2014 Amid Glut". Retrieved 21 January 2016.
+^ "The US Drives Forward To Become A Player On The World LNG Market". Retrieved 1 July 2016.
+^ a b LNG Quality and Market Flexibility Challenges and Solutions Com.qa
+^ "Global LNG-Prices extend slump on thin demand". Retrieved 27 January 2016.
+^ Evaluation of LNG Technologies, University of Oklahoma 2008
+^ "Shell's floating LNG plant". Retrieved 17 April 2015.
+^ "Shell's floating technology given green light". Retrieved 17 April 2015.
+^ "LNG Carrier Leak Test Completed Outside Korea". Oil and Gas Online. January 20, 2009. Retrieved 2009-02-11.
+^ Rankin, Richard (2005-11-14). "LNG Pipe-in-Pipe Technology". Retrieved 2012-06-22.
+^ The On-Road LNG Transportation Market in the US
+^ "Marine servces - ship_to_ship_transfers". Retrieved 2012-06-22.
+^ "SIGTTO Website - Profile" (PDF). Retrieved 3 July 2016.
+^ The Energy Information Administration reports the following emissions in million metric tons of carbon dioxide:
+Natural gas: 5,840
+Petroleum: 10,995
+Coal: 11,357
+For 2005 as the official energy statistics of the US Government.[1]
+^ Pacific Environment: California Energy Program
+^ Ratepayers for Affordable Clean Energy: Search
+^ "Carnegie Mellon Team Finds Exporting Natural Gas Will Not Increase, But Lower Greenhouse Gas Emissions". Retrieved 2012-06-22.
+^ "LNG: Benefits and Risks of Liquified Natural Gas". Retrieved 2013-02-25.
+^ MSN.com, MSNBC U.S. Thirst for Natural Gas Grows, AP
+^ a b c CH-IV (December 2006). "Safe History of International LNG Operations".
+^ "National transportation safety board" (PDF). Retrieved 2013-02-25.
+^ "The Skikda LNG accident: losses, lessons learned and safety climate assessment". Retrieved 2013-02-25.
+^ "Liquefied Natural Gas (LNG) Import Terminals: Siting, Safety, and Regulation" (PDF). Retrieved 2013-02-25.
+External references[edit]
+Center For LNG
+Gas Booking
+LNG news and industry magazine
+Gasworld website
+New LNG Plant Technology
+What is LNG and how is it becoming a U.S. energy source?
+Liquefied Natural Gas in the US: Federal Energy Regulatory Commission (FERC)
+LNG safety
+Alternative Fuel Vehicle Training From the National Alternative Fuels Training Consortium
+LNG Safety "The Risks and Dangers of LNG" is an exhaustive report prepared by CHIV International President, Jeff Beale, analyzing the points made in a controversial Anti-LNG video.
+LNG Terminal Siting Standards Organization Advocating Government Adoption of LNG Industry Standards
+Prospects for Development of LNG in Russia Konstantin Simonov's speech at LNG 2008. April 23, 2008.
+The Terrorist Threat to Liquefied Natural Gas: Fact or Fiction?
+Asias growing share in global LNG market via World Review
+[2]
+BP's Energy Outlook 2035 with access to downloads of global historical data
+The Global Liquefied Natural Gas Market: Status and Outlook - (Adobe Acrobat *.PDF document)
+California Energy Commission: The Outlook for Global Trade in Liquefied Natural Gas Projections to the Year 2020 - (Adobe Acrobat *.PDF document)
+Guidance on Risk Analysis and Safety Implications of a Large Liquefied Natural Gas (LNG) Spill Over Water - (Adobe Acrobat *.PDF document)
+The International Group of Liquefied Natural Gas Importers (GIIGNL)
+The LNG Industry 2008 - (Adobe Acrobat *.PDF document)
+Society of International Gas Tanker and Terminal Operators World LNG Industry Standards
+v
+t
+e
+Fuel gas
+Types
+Manufactured fuel gas
+(History)
+Coal gas
+Coal gasification
+Underground coal gasification
+Biogas
+Blast furnace gas
+Blau gas
+Gasification
+Landfill gas
+Mond gas
+Pintsch gas
+Producer gas
+Regasification
+Syngas
+Water gas
+Wood gas
+Natural gas
+APG
+CBM
+CNG
+HCNG
+LNG
+NGC
+SNG
+Bio-SNG
+LPG
+Autogas
+Butane
+Propane
+Infrastructure
+Compressor station
+Gas carrier
+Gas holder
+Gas meter
+Gasworks
+Natural-gas processing
+Natural gas storage
+Odorizer
+Pipeline transport
+Uses
+Bunsen burner
+Gas burner
+Gas engine
+Gas heater
+Gas lighting
+Gas mantle
+Gas stove
+Gas turbine
+Pilot light
+NewPP limit report
+Parsed by mw1272
+Cached time: 20161119060747
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.656 seconds
+Real time usage: 0.731 seconds
+Preprocessor visited node count: 4517/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 147247/2097152 bytes
+Template argument size: 3922/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 6/500
+Lua time usage: 0.332/10.000 seconds
+Lua memory usage: 8.13 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+612.153
+1 - -total
+54.53%
+333.814
+1 - Template:Reflist
+37.95%
+232.322
+67 - Template:Cite_web
+11.57%
+70.854
+6 - Template:Citation_needed
+10.50%
+64.292
+6 - Template:Fix
+6.35%
+38.871
+6 - Template:Delink
+5.00%
+30.638
+2 - Template:Convert
+4.58%
+28.061
+3 - Template:Ambox
+4.40%
+26.908
+1 - Template:Refimprove
+4.17%
+25.550
+1 - Template:Distinguish
+Saved in parser cache with key enwiki:pcache:idhash:832128-0!*!0!!en!4!* and timestamp 20161119060746 and revision id 748754564
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Liquefied_natural_gas&oldid=748754564"
+Categories: Liquefied natural gasFuel gasNatural gasPetroleum productionIndustrial gasesHidden categories: Articles needing additional references from February 2008All articles needing additional referencesArticles needing additional references from April 2008All articles with unsourced statementsArticles with unsourced statements from May 2010Articles with unsourced statements from September 2009Articles with unsourced statements from February 2009Articles with unsourced statements from August 2013Commons category with page title same as on Wikidata

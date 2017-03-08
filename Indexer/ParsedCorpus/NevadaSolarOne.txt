@@ -1,0 +1,450 @@
+NevadaSolarOne
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Nevada Solar One
+Photograph of Nevada Solar One, with the Las Vegas Valley beyond the mountains behind it
+Location of Nevada Solar One in Nevada
+Country
+United States
+Location
+Eldorado Valley, Boulder City, Nevada
+Coordinates
+3548N 11458.6W / 35.800N 114.9767W / 35.800; -114.9767Coordinates: 3548N 11458.6W / 35.800N 114.9767W / 35.800; -114.9767
+Status
+Operational
+Constructionbegan
+February2006(2006-02)
+Commissiondate
+June2007(2007-06)
+Constructioncost
+$266million
+Owner(s)
+Acciona Energy
+Solarfield
+Type
+CSP
+CSPtechnology
+Parabolic trough
+Sitearea
+400 acres (162ha)
+Siteresource
+2,606 kWh/m2/yr
+Powergeneration
+Unitsoperational
+1
+Makeandmodel
+Siemens SST-700
+Nameplatecapacity
+75 MW
+Averagegeneration
+136 GWh
+Website
+acciona-energia.com
+Nevada Solar One is a concentrated solar power plant, with a nominal capacity of 64MW and maximum steam turbine power output up to 72MW net (75MW gross), spread over an area of 400 acres (160ha). The projected CO2 emissions avoided is equivalent to taking approximately 20,000 cars off the road annually. The project required an investment of $266 million USD,[1] and the project officially went to operation in June 2007.[2] Electricity production is estimated to be 134 million kilowatt hours per year.[3]
+It is the second solar thermal energy (STE) power plant built in the United States in more than 16 years,[4] and the largest STE plant built in the world since 1991.[5] It is located in Eldorado Valley in the southwest fringe of Boulder City, Nevada, and was built in that city's Energy Resource Zone, which requires renewable generation as part of plant development permits; Nevada Solar One was approved as part of Duke Energy's larger El Dorado Energy project that built 1 GW of electrical generation capacity. The solar trough generation was built by Acciona Solar Power, a partially owned subsidiary of Spanish conglomerate Acciona Energy.[6] Lauren Engineers & Constructors (Abilene, TX) was the EPC contractor for the project.[7] Acciona purchased a 55 percent stake in Solargenix (formerly Duke Solar) and Acciona owns 95 percent of the project.[8] Nevada Solar One is unrelated to the Solar One power plant in California.
+Contents
+1 History
+2 Technology
+3 Production
+4 Nevada Solar One in fiction
+5 See also
+6 References
+7 External links
+History[edit]
+In 2006, located 30 miles north of Tucson, Arizona Public Service's Saguaro Solar Facility opened, with 1 MWof electrical generation capacity.[9] Nevada Solar One went online for commercial use on June 27, 2007. It uses similar technology and was constructed over a period of 16 months. The total project site is approximately 400 acres (0.6mi / 1.6km), while the solar collectors cover 300 acres (1.2km2).
+Technology[edit]
+Nevada Solar One uses proprietary technology to track the suns location and concentrate its rays during peak demand hours. The plant uses 760 parabolic trough concentrators with more than 182,000 mirrors that concentrate the suns rays onto more than 18,240 receiver tubes placed at the focal axis of the troughs and containing a heat transfer fluid (solar receivers). Fluid that heats up to 735F (391C) flows through these tubes and is used to produce steam that drives a Siemens SST-700[10] steam turbine, adapted to the specific requirements of the CSP technology,[11] which is connected to a generator to produce electricity.
+The mirrors are manufactured by Flabeg AG in Germany.[12] In contrast to the power tower concentrator concept that California's original Solar One project uses. The specially coated tubes, made of glass and steel, were designed and produced by Solel Solar Systems[13] as well as by Schott Glass in Germany.[14] Motion control was supplied by Parker Hannifin, from components by Ansco Machine Company.
+Solar thermal power plants designed for solar-only generation are well matched to summer noon peak loads in areas with significant cooling demands, such as the southwestern United States. Using thermal energy storage systems, solar thermal operating periods can be extended to meet base load needs.[15] Given Nevada's land and sun resources the state has the theoretical ability to have more than 600GW of electrical generation capacity using solar thermal concentrators like those used by Nevada Solar One.[16] It has been proposed that massive expansion of solar plants such as Nevada Solar One has the potential to provide sufficient electricity to power the entire United States.[17]
+Parabolic concentrator facilities have been successfully operating in California's Mojave Desert commercially since 1984 with a combined generating capacity of 354MW from the Solar Energy Generating Systems. About 30 parabolic trough power plants are operating in Spain (see Solar power in Spain) and more are in construction or proposed, and two 110MW plants in Israel.[18][19]
+Production[edit]
+Nevada Solar One's production is as follows (values in GWh).[20]
+Year
+Solar
+Fossil
+Total
+2007
+41.21
+0.38
+41.59
+2008
+122.69
+0.91
+123.31
+2009
+120.65
+2.43
+123.07
+2010
+133.00
+1.16
+134.16
+2011
+128.26
+1.99
+130.26
+2012
+128.94
+1.39
+130.33
+2013
+112.79
+2.31
+115.10
+2014
+116.23
+2.58
+118.80
+2015
+105.65
+2.14
+107.79
+Fossil backup is provided by natural gas and provides up to 2% of total output.
+Nevada Solar One in fiction[edit]
+In the video game Fallout: New Vegas the station is named "Helios One" and is under the control of The New California Republic. The station is depicted to be in bad shape and under the command of an uncompetent scientist called "Fantastic", who mentions that the station's output is at 1% of its full capacity.
+See also[edit]
+Renewable energy portal
+Energy portal
+External image
+Nevada Solar One from the air in 2008 year
+Copper Mountain Solar Facility
+Dish Stirling
+List of solar thermal power stations
+Renewable energy in the United States
+Renewable portfolio standard
+Solar power in Nevada
+Solar power plants in the Mojave Desert
+Solar power tower
+Solar thermal energy
+References[edit]
+^ Solar Steam at Nevada Solar One
+^ ACCIONAs Nevada Solar One
+^ Technology News Daily. Nevada Solar One.
+^ Utility-Scale Solar Plant Goes Online in Nevada
+^ Arizona Utility to Buy Power from a 280-Megawatt Solar Power Plant - EnergyVortex
+^ "Acciona Energa website". Retrieved 2008-06-17.
+^ "Nevada's Largest Solar Power Plant Opens". Southwest Contractor. June 2007. Retrieved 2009-08-01.
+^ "ACCIONA invests 220 million euros in a solar thermal electric power plant in Nevada (USA)" (in Spanish). 2006-02-13. Archived from the original on 2007-09-28. Retrieved 2006-10-23.
+^ Raising Arizonas renewable power
+^ "Siemens website - steam turbines for CSP plants". Retrieved 2010-07-01.
+^ "Sun shines on solar power steam turbine generators". EngineerLive. Retrieved 2010-07-01.
+^ Flabeg AG - solar power mirror installations
+^ "Solel website". Retrieved 2008-06-17.
+^ Schott AG - special glass tubing
+^ Spain Pioneers Grid-Connected Solar-Tower Thermal Power p. 3.
+^ Nevada Solar One Goes Online
+^ Sunny Outlook: Can Sunshine Provide All U.S. Electricity?
+^ Israeli company drives the largest solar plant in the world
+^ NREL Concentrating Solar Power Projects with Operational Plants
+^ Energy Information Administration. "Nevada Solar One, Annual". Electricity Data Browser. Retrieved June 28, 2015.
+PowerMag: Nevada Solar One, Boulder City, Nevada (12/15/2007)
+External links[edit]
+Acciona Energy North America's official site
+Largest solar power plant in a generation to be built in Nevada
+Solar Steam at Nevada Solar One
+v
+t
+e
+Energy resource facilities in Nevada
+Coal fired
+Mohave
+North Valmy
+Reid Gardner
+Gas fired
+Chuck Lenzie
+Edward W. Clark
+Fort Churchill
+Frank A. Tracy
+Harry Allen
+Silverhawk
+Toquop
+Walter M. Higgins
+Geothermal
+Beowawe
+Blue Mountain Faulkner 1
+Brady Hot Springs
+Clayton Valley 1
+Desert Peak
+Dixie Valley
+Galena 2
+Galena 3
+Homestretch
+Jersey Valley
+McGinnis Hills
+North Valley
+Pumpernickel
+Richard Burdette
+San Emidio
+Soda Lake
+Steamboat Hills
+Steamboat Springs
+Stillwater
+Tuscarora
+Wabuska
+Hydroelectric
+Davis Dam
+Hoover Dam
+Solar
+Apex
+Boulder
+Copper Mountain
+Crescent Dunes
+Edward W. Clark
+El Dorado
+Mountain View
+Nellis
+Nevada Solar One
+Silver State North
+Silver State South
+Stillwater
+Toquop
+Wind
+Spring Valley Wind Farm
+Natural gas pipelines
+Kern River Pipeline
+Ruby Pipeline
+Petroleum pipelines
+Calnev Pipeline
+Unev pipeline
+Transmission lines
+One Nevada
+Path 27
+Path 46
+Path 62
+Path 64
+Substations
+Marketplace substation
+Mead substation
+Other
+Goodsprings Waste Heat Recovery Station
+v
+t
+e
+Solar power in the United States
+Solar power
+Energy in the United States
+By state
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+D.C.
+West Virginia
+Wisconsin
+Wyoming
+Power plants
+Current
+Agua Caliente
+Alamosa
+Antelope Valley
+Avenal
+Avra Valley
+Blue Wing
+Blythe Photovoltaic
+Brockton
+California Valley
+Campo Verde Solar Project
+Catalina
+Centinela
+Cimarron
+Copper Mountain
+Crescent Dunes
+Davidson County
+Desert Sunlight
+DeSoto
+El Dorado
+Genesis Solar Energy Project
+Holaniku
+Imperial County
+Imperial Valley
+Ivanpah
+Kimberlina
+Long Island
+Martin
+Mesquite
+Mojave
+Mount Signal
+Nellis
+Nevada Solar One
+Red Hills
+San Luis Valley
+Sierra SunTower
+Silver State North
+Solana
+Solar Energy Generating Systems
+Solar Star
+Space Coast
+Sunset
+Topaz
+Webberville
+Wyandot
+Planned and
+under construction
+Alamo
+Amargosa
+Blythe
+Boulder
+Buckthorn
+California Flats
+Castle Gap
+Desert Harvest
+Four Brothers
+Lamesa
+McCoy
+Moapa
+North Rosamond
+North Star
+Panoche Valley
+Redwood
+Rice
+Roserock
+Silver State South
+Soda Mountain
+Sonoran
+Springbok
+Stateline
+Sun Streams
+Sunshine Valley
+Three Cedars
+Westlands
+White Camp
+Willow Springs
+Companies
+Abengoa Solar
+Ascent Solar
+Ausra
+BP Solar
+BrightSource
+eSolar
+EnviroMission
+First Solar
+Grape Solar
+HelioPower
+Meridian Solar
+Practical Solar
+Sharp Solar
+SkyFuel
+Skyline Solar
+Solaren
+SolarReserve
+SoloPower
+Sopogy
+StratoSolar
+Stirling Energy Systems
+SunEdison
+Sunrun
+Yingli
+Organizations
+American Council on Renewable Energy
+Solar Energy Industries Association
+Residential
+solar power
+1BOG
+Citizenre
+Community solar farm
+HelioPower
+PACE financing
+REC Solar
+Sungevity
+SolarCity
+SolarStrong
+Sunlight Solar Energy
+Sundog Solar
+Sunetric
+SunRun
+SunPower
+Category
+Commons
+NewPP limit report
+Parsed by mw1199
+Cached time: 20161119084807
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.320 seconds
+Real time usage: 0.391 seconds
+Preprocessor visited node count: 2833/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 96191/2097152 bytes
+Template argument size: 5041/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.133/10.000 seconds
+Lua memory usage: 5.5 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+286.688
+1 - -total
+47.44%
+136.016
+2 - Template:Infobox
+43.98%
+126.096
+1 - Template:Infobox_power_station
+22.53%
+64.578
+1 - Template:Reflist
+17.22%
+49.362
+7 - Template:Cite_web
+13.32%
+38.176
+3 - Template:Navbox
+11.29%
+32.379
+4 - Template:Convert
+10.19%
+29.220
+1 - Template:External_media
+9.32%
+26.725
+1 - Template:Solar_power_in_the_United_States
+6.85%
+19.635
+1 - Template:Geobox_coor
+Saved in parser cache with key enwiki:pcache:idhash:3171694-0!*!0!!en!4!* and timestamp 20161119084806 and revision id 746807852
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nevada_Solar_One&oldid=746807852"
+Categories: Solar power in the Mojave DesertBuildings and structures in Boulder City, NevadaSolar power stations in NevadaEnergy infrastructure completed in 2007Hidden categories: CS1 Spanish-language sources (es)Coordinates on Wikidata
