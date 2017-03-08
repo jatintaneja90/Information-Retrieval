@@ -1,0 +1,147 @@
+import file_handler
+import BM25_Stemmed
+import time
+#import Query_Parser_Stemmed as qp
+import collections
+import operator
+import math
+
+query_file="../cacm_stem.query.txt"
+
+query_file_dict=collections.OrderedDict()
+bm25_res_dir="./bm25_result_Stemmed/"
+rel_doc="../cacm.rel"
+#query_dict={}
+
+
+def find_query(task_name):
+    if task_name=="task3":
+        query_file_dict=file_handler.read_query(query_file)
+           # qp.get_all_queries(query_file)
+        #R=create_R_dict()
+    print query_file_dict
+    #creating a dictionary R which has relevance info given by her
+    for query_id in query_file_dict:
+        RI={}
+        #for query_id,query in row:
+        bm25_score_list=process_query_without_relevance(query_file_dict[query_id])
+        #print bm25_score_list
+        file_handler.print_ranked_doc(bm25_score_list,query_id,"System",bm25_res_dir+"Q"+str(query_id)+"_BM25_score.txt")
+        print query_file_dict[query_id] + " is processed"
+        print time.clock()
+
+# funtion to process query
+def process_query(query,ri,rel_dc_cnt):
+    bm25_score={}
+    query_dict={}
+    query_term=query.split()
+    for term in query_term:
+        if term not in query_dict:
+            query_dict[term] = 1
+        else:
+            query_dict[term]=query_dict[term] + 1
+    #print query_dict
+    print "query_dict is created"
+    print time.clock()
+        #computing BM25 score here
+    for doc in BM25_Stemmed.tf_dict:
+        bm25_doc_sum = 0
+        for term in query_dict:
+            p1=0
+            p2=0
+            p3=0
+            if term in BM25_Stemmed.tf_dict[doc]:
+               # print "ri for " + str(term) + " is " + str(ri[term])
+                #print "N is " + str(BM25.N)
+                #print "doc table value is " + str(BM25.doc_table[term])
+                #print "R is " + str(rel_dc_cnt)
+                p1 = float((ri[term] +0.5)*(BM25_Stemmed.N - BM25_Stemmed.doc_table[term] - rel_dc_cnt + ri[term]+ 0.5)) / \
+                     ((rel_dc_cnt - ri[term] + 0.5)*(BM25_Stemmed.doc_table[term] - ri[term] + 0.5))
+                p2 = float((BM25_Stemmed.k1 + 1) * BM25_Stemmed.tf_dict[doc][term]) / (BM25_Stemmed.k[doc] + BM25_Stemmed.tf_dict[doc][term])
+                p3 = float((BM25_Stemmed.k2 + 1) * query_dict[term]) / (BM25_Stemmed.k2 + query_dict[term])
+                # added if cond to prevent math domain error caused because log cant processes -ve value
+                #if p1 > 0:
+                bm25_doc_sum += math.log(p1) * p2 * p3
+        bm25_score[doc]=bm25_doc_sum
+        #print bm25_score
+    print "BM25_score dict is created"
+    print time.clock()
+    bm25_score_list=sorted(bm25_score.items(), key=operator.itemgetter(1),reverse=True)
+    return bm25_score_list
+
+
+def create_R_dict():
+    R={}
+    with open(rel_doc,'rt') as f:
+        for line in f:
+            chunk=line.split()
+            if chunk[0] not in R:
+                R[chunk[0]]=[chunk[2]]
+            else:
+                R[chunk[0]].append(chunk[2])
+    return R
+    #print R
+
+def create_RI_dict(queryid,query):
+    temp={}
+    R=create_R_dict()
+    chunks=query.split()
+    for chunk in chunks:
+        count=0
+        if queryid in R:
+            for page in R[queryid]:
+                file=BM25_Stemmed.parsed_corpus_dir+page+".txt"
+                #if chunk in open(file).read():
+                b=check_chunk(chunk,file)
+                if b is True:
+                    #print "Chunk "  + str(chunk) + "found in doc " + str(file)
+                    count += 1
+        temp[chunk]=count
+    return temp
+
+def check_chunk(chunk1,file1):
+    b=False
+    with open(file1,'rt') as f:
+        for line in f:
+            chunks=line.split()
+            for chunk in chunks:
+                if chunk1==chunk:
+                    #print "In file " + str(file1) + "at line : " + str(line)
+                    b=True
+                break
+        return b
+
+def process_query_without_relevance(query):
+    temp_ri=create_RI_dict('S1',query)
+    #print temp_ri
+    create_R_dict()
+    rel_doc=0
+    return process_query(query,temp_ri,rel_doc)
+
+
+def process_query_with_relevance(query):
+    query_file_dict=qp.get_all_queries(query_file)
+    #print query_file_dict
+
+    for query_id in query_file_dict:
+        if query_file_dict[query_id] in query:
+            #print "query_id is " + str(query_id)
+            break
+    print "query_id is " + str(query_id)
+    # calculating R
+    R=create_R_dict()
+    if query_id in R:
+        rel_doc_count=len(R[query_id])
+    else:
+        rel_doc_count=0
+    # calculating ri
+    temp_ri=create_RI_dict(query_id,query)
+    #print temp_ri
+
+    result_list=process_query(query,temp_ri,rel_doc_count)
+    #process_query(query,temp_ri,rel_doc_count)
+    return result_list
+
+#l=process_query_with_relevance('what articles exist which deal with tss  time sharing system   an operating system for ibm computers ')
+#print l
+#process_query_with_relevance('Jatin Taneja')

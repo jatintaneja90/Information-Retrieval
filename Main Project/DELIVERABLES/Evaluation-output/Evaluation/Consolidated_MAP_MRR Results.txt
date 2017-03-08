@@ -1,0 +1,29 @@
+BM25
+
+Mean Average Precision: 0.49
+Mean Reciprocal Rank: 0.73
+
+BM25_Stopped
+
+Mean Average Precision: 0.51
+Mean Reciprocal Rank: 0.81
+
+Cosine Simlarity
+
+Mean Average Precision: 0.33
+Mean Reciprocal Rank: 0.52
+
+Lucene
+
+Mean Average Precision: 0.42
+Mean Reciprocal Rank: 0.69
+
+Pseudo Relevance output
+
+Mean Average Precision: 0.49
+Mean Reciprocal Rank: 0.79
+
+Pseudo Relevance Output(Stopped)
+
+Mean Average Precision: 0.34
+Mean Reciprocal Rank: 0.58
