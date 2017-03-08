@@ -1,0 +1,50 @@
+Buildingenergysimulation
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about energy use in buildings. For the modeling of energy systems more generally, see Energy modeling.
+Graph originally published in 3rd International Congress on Energy Efficiency and Renewable Energy Sources Proceedings, 2007 paper: Determining energy savings using utility bills: a winning method for ESCOs
+Building energy simulation, also called building energy modeling (or energy modeling in context), is the use of software to predict the energy use of a building.
+Contents
+1 Background
+2 Applications
+2.1 Accuracy of building simulation
+3 Standards and Practices
+4 Professional associations and certifications
+5 See also
+6 References
+7 External links
+Background[edit]
+A typical energy model will have inputs for climate; envelope; internal gains from lighting, equipment, and occupants; heating, cooling, and ventilation systems; schedules of occupants, equipment, and lighting.[1] Energy models will output building energy use predictions in typical end-use categories: heating, cooling, lighting, fan, plug, process. In addition to energy units, most software includes utility rates input, and can predict energy costs.
+Energy-savings measures can be calculated using simple spreadsheets[2] and a wide variety of bespoke software applications are available.
+Applications[edit]
+Building design: Many modern commercial or residential building codes require minimum energy performance. Energy modeling can be used to demonstrate compliance, or predict energy consumption of proposed developments.
+Life-cycle cost analysis: Comparing different building design alternatives to determine which is the least cost, including capital costs and (at a minimum) energy costs. Sometimes referred to as Total Cost of Ownership analysis.
+Energy retrofit analysis: In conjunction with an energy audit, or deep energy retrofit an energy model can be used to predict savings associated to proposed energy cost measures (often called ECMs).
+Accuracy of building simulation[edit]
+There are normally occurring uncertainties in building design and building energy assessment. Yezioro, Dong and Leite[3] developed an artificial intelligence approach towards assessing building performance simulation results and found that more detailed simulation tools have the best simulation performance in terms of heating and cooling electricity consumption within 3% of mean absolute error.
+Standards and Practices[edit]
+ASHRAE 90.1: In the US, ASHRAE 90.1's Energy Cost Budget (ECB) method is a commonly used baseline for energy modeling comparisons.
+Professional associations and certifications[edit]
+Professional Associations supporting energy modeling.
+International Building Performance Simulation Association (IBPSA)[4]
+Energy Trust of Oregon, Building Simulation Forum[5]
+Certifications
+BEMP - Building Energy Modeling Professional, administered by ASHRAE[6]
+BESA - Certified Building Energy Simulation Analyst, administered by AEE[7]
+See also[edit]
+Building simulation
+Energy modeling
+References[edit]
+^ Rosenbaum, Marc (2003). "Understanding the Energy Modeling Process: Simulation Literacy 101". http://www.buildinggreen.com/. BuildingGreen.com. Retrieved 2014-06-15. External link in |website= (help)
+^ "California Commissioning Collaborative, Spreadsheet Tool". Retrieved 13 June 2014.
+^ Yezioro, A; Dong, B; Leite, F (2008). "An applied artificial intelligence approach towards assessing building performance simulation tools". Energy and Buildings. 40 (4): 612. doi:10.1016/j.enbuild.2007.04.014.
+^ "IBPSA-USA". IBPSA-USA. Retrieved 13 June 2014.
+^ "Energy Trust of Oregon Building Simulation Forum". Energy Trust of Oregon. Retrieved 13 June 201. Check date values in: |access-date= (help)
+^ "Building Energy Modeling Professional Certification". ashrae.org. ASHRAE. Retrieved 13 June 2014.
+^ "Certified Building Energy Simulation Analyst". aeecenter.org. Association of Energy Engineers. Retrieved 13 June 2014.
+External links[edit]
+Bldg-sim mailing list http://lists.onebuilding.org/listinfo.cgi/bldg-sim-onebuilding.org for building modeling professionals.
+Energy Modeling Instruction and Discussion http://energy-models.com/forum
+Saved in parser cache with key enwiki:pcache:idhash:43045000-0!*!0!!en!4!* and timestamp 20161109140255 and revision id 743594881
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Building_energy_simulation&oldid=743594881"
+Categories: ArchitectureBuilding engineeringEnergy conservationLow-energy buildingHidden categories: CS1 errors: external linksCS1 errors: dates

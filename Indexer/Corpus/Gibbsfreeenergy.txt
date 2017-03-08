@@ -1,0 +1,2561 @@
+Gibbsfreeenergy
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.3em;border-bottom:1px solid #aaa;"><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;display:block;margin:0.3em 0 0.4em;"><a href="/wiki/Carnot_heat_engine" title="Carnot heat engine"><img alt="Carnot heat engine 2.svg" data-file-height="370" data-file-width="840" height="97" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/220px-Carnot_heat_engine_2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/330px-Carnot_heat_engine_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/440px-Carnot_heat_engine_2.svg.png 2x" width="220" /></a>
+<div style="padding-top:0.2em;line-height:1.2em">The classical <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Branches</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Classical</a></li>
+<li><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical</a></li>
+<li><a href="/wiki/Chemical_thermodynamics" title="Chemical thermodynamics">Chemical</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Equilibrium_thermodynamics" title="Equilibrium thermodynamics">Equilibrium</a> / <a href="/wiki/Non-equilibrium_thermodynamics" title="Non-equilibrium thermodynamics">Non-equilibrium</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">Laws</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Zeroth_law_of_thermodynamics" title="Zeroth law of thermodynamics">Zeroth</a></li>
+<li><a href="/wiki/First_law_of_thermodynamics" title="First law of thermodynamics">First</a></li>
+<li><a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">Second</a></li>
+<li><a href="/wiki/Third_law_of_thermodynamics" title="Third law of thermodynamics">Third</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_system" title="Thermodynamic system">Systems</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_state" title="Thermodynamic state">State</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a href="/wiki/Ideal_gas" title="Ideal gas">Ideal gas</a></li>
+<li><a href="/wiki/Real_gas" title="Real gas">Real gas</a></li>
+<li><a href="/wiki/State_of_matter" title="State of matter">State of matter</a></li>
+<li><a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">Equilibrium</a></li>
+<li><a href="/wiki/Control_volume" title="Control volume">Control volume</a></li>
+<li><a href="/wiki/Thermodynamic_instruments" title="Thermodynamic instruments">Instruments</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_process" title="Thermodynamic process">Processes</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Isobaric_process" title="Isobaric process">Isobaric</a></li>
+<li><a href="/wiki/Isochoric_process" title="Isochoric process">Isochoric</a></li>
+<li><a href="/wiki/Isothermal_process" title="Isothermal process">Isothermal</a></li>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic</a></li>
+<li><a href="/wiki/Isentropic_process" title="Isentropic process">Isentropic</a></li>
+<li><a href="/wiki/Isenthalpic_process" title="Isenthalpic process">Isenthalpic</a></li>
+<li><a href="/wiki/Quasistatic_process" title="Quasistatic process">Quasistatic</a></li>
+<li><a href="/wiki/Polytropic_process" title="Polytropic process">Polytropic</a></li>
+<li><a href="/wiki/Free_expansion" title="Free expansion">Free expansion</a></li>
+<li><a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">Reversibility</a></li>
+<li><a href="/wiki/Irreversible_process" title="Irreversible process">Irreversibility</a></li>
+<li><a href="/wiki/Endoreversible_thermodynamics" title="Endoreversible thermodynamics">Endoreversibility</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Cycles</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Heat_engine" title="Heat engine">Heat engines</a></li>
+<li><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Heat pumps</a></li>
+<li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/List_of_thermodynamic_properties" title="List of thermodynamic properties">System properties</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div style="font-size:90%;padding-bottom:0.2em;border-bottom:1px solid #aaa;">Note: <a href="/wiki/Conjugate_variables_(thermodynamics)" title="Conjugate variables (thermodynamics)">Conjugate variables</a> in <i>italics</i></div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none;margin-top:0.4em;">
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Thermodynamic_diagrams" title="Thermodynamic diagrams">Property diagrams</a></li>
+<li><a href="/wiki/Intensive_and_extensive_properties" title="Intensive and extensive properties">Intensive and extensive properties</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/State_function" title="State function">Functions of state</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Temperature</a> / <i><a href="/wiki/Entropy" title="Entropy">Entropy</a></i> (<a href="/wiki/Introduction_to_entropy" title="Introduction to entropy">introduction</a>)</li>
+<li><a href="/wiki/Pressure" title="Pressure">Pressure</a> / <i><a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">Volume</a></i></li>
+<li><a href="/wiki/Chemical_potential" title="Chemical potential">Chemical potential</a> / <i><a href="/wiki/Particle_number" title="Particle number">Particle number</a></i></li>
+<li><a href="/wiki/Vapor_quality" title="Vapor quality">Vapor quality</a></li>
+<li><a href="/wiki/Reduced_properties" title="Reduced properties">Reduced properties</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Process_function" title="Process function">Process functions</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;;padding-bottom:0.4em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">Work</a></li>
+<li><a href="/wiki/Heat" title="Heat">Heat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Material_properties_(thermodynamics)" title="Material properties (thermodynamics)">Material properties</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Thermodynamic_databases_for_pure_substances" title="Thermodynamic databases for pure substances">Property databases</a></li>
+</ul>
+<div style="font-size:90%;margin-top:0.4em;border-top:1px solid #aaa;text-align:center;">
+<table>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Heat_capacity" title="Heat capacity">Specific heat capacity</a> </td>
+<td style="vertical-align:middle; text-align:left"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c=}</annotation>
+</semantics>
+</math></span><img alt="c=" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/891d40a9b18752b04065caee655d008b3ec11428" style="vertical-align: -0.338ex; width:3.481ex; height:1.676ex;" /></span></td>
+<td>
+<table>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;" /></span></td>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial S}</annotation>
+</semantics>
+</math></span><img alt="\partial S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c609f4d3c5692ea4495479ef47594dc67f9fa464" style="vertical-align: -0.338ex; width:2.838ex; height:2.343ex;" /></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="N" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.074ex; height:2.176ex;" /></span></td>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+</semantics>
+</math></span><img alt="\partial T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;" /></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Compressibility" title="Compressibility">Compressibility</a> </td>
+<td style="vertical-align:middle; text-align:left"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>β<!-- β --></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta =-}</annotation>
+</semantics>
+</math></span><img alt="\beta =-" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b01c042bf1456bd4d2a8caed1f4912820a7ecbb3" style="vertical-align: -0.671ex; width:6.27ex; height:2.509ex;" /></span></td>
+<td>
+<table>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+</semantics>
+</math></span><img alt="1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;" /></span></td>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+</semantics>
+</math></span><img alt="\partial V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;" /></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;" /></span></td>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial p}</annotation>
+</semantics>
+</math></span><img alt="\partial p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebc4a48eb2412f08b54fe438b5139c88f9cfa372" style="vertical-align: -0.671ex; width:2.508ex; height:2.676ex;" /></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Thermal_expansion" title="Thermal expansion">Thermal expansion</a> </td>
+<td style="vertical-align:middle; text-align:left"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =}</annotation>
+</semantics>
+</math></span><img alt="\alpha =" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a92d4583d351f08c1c70985f0c843b2fff1b01e7" style="vertical-align: -0.338ex; width:3.962ex; height:1.676ex;" /></span></td>
+<td>
+<table>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+</semantics>
+</math></span><img alt="1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;" /></span></td>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+</semantics>
+</math></span><img alt="\partial V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;" /></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;" /></span></td>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+</semantics>
+</math></span><img alt="\partial T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;" /></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_equations" title="Thermodynamic equations">Equations</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Carnot%27s_theorem_(thermodynamics)" title="Carnot's theorem (thermodynamics)">Carnot's theorem</a></li>
+<li><a href="/wiki/Clausius_theorem" title="Clausius theorem">Clausius theorem</a></li>
+<li><a href="/wiki/Fundamental_thermodynamic_relation" title="Fundamental thermodynamic relation">Fundamental relation</a></li>
+<li><a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Maxwell_relations" title="Maxwell relations">Maxwell relations</a></li>
+<li><a href="/wiki/Onsager_reciprocal_relations" title="Onsager reciprocal relations">Onsager reciprocal relations</a></li>
+<li><a href="/wiki/Bridgman%27s_thermodynamic_equations" title="Bridgman's thermodynamic equations">Bridgman's equations</a></li>
+<li><i><a href="/wiki/Table_of_thermodynamic_equations" title="Table of thermodynamic equations">Table of thermodynamic equations</a></i></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">Potentials</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">Free energy</a></li>
+<li><a href="/wiki/Free_entropy" title="Free entropy">Free entropy</a></li>
+</ul>
+</div>
+<div class="plainlist">
+<ul>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Internal_energy" title="Internal energy">Internal energy</a><br />
+<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U(S,V)}</annotation>
+</semantics>
+</math></span><img alt="U(S,V)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/921f33f9c6551562ec836007b035c2de6323d2d6" style="vertical-align: -0.838ex; width:7.975ex; height:2.843ex;" /></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a><br />
+<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H(S,p)=U+pV}</annotation>
+</semantics>
+</math></span><img alt="H(S,p)=U+pV" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6407d78e5f39d07f70e2414a92e08e2e068519f3" style="vertical-align: -0.838ex; width:18.369ex; height:2.843ex;" /></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Helmholtz_free_energy" title="Helmholtz free energy">Helmholtz free energy</a><br />
+<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>U</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A(T,V)=U-TS}</annotation>
+</semantics>
+</math></span><img alt="A(T,V)=U-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e93692f031ba6484d82731c54db83a69daed3f0" style="vertical-align: -0.838ex; width:18.982ex; height:2.843ex;" /></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><strong class="selflink">Gibbs free energy</strong><br />
+<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>H</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G(T,p)=H-TS}</annotation>
+</semantics>
+</math></span><img alt="G(T,p)=H-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8dd7a8f0b8ae04963da133e3b202432e1b6caed4" style="vertical-align: -0.838ex; width:18.729ex; height:2.843ex;" /></span></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+<div class="hlist">
+<ul>
+<li>History</li>
+<li>Culture</li>
+</ul>
+</div>
+</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">History</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/History_of_thermodynamics" title="History of thermodynamics">General</a></li>
+<li><a href="/wiki/History_of_heat" title="History of heat">Heat</a></li>
+<li><a href="/wiki/History_of_entropy" title="History of entropy">Entropy</a></li>
+<li><a href="/wiki/Gas_laws" title="Gas laws">Gas laws</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/History_of_perpetual_motion_machines" title="History of perpetual motion machines">"Perpetual motion" machines</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Philosophy_of_thermal_and_statistical_physics" title="Philosophy of thermal and statistical physics">Philosophy</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Entropy_(arrow_of_time)" title="Entropy (arrow of time)">Entropy and time</a></li>
+<li><a href="/wiki/Entropy_and_life" title="Entropy and life">Entropy and life</a></li>
+<li><a href="/wiki/Brownian_ratchet" title="Brownian ratchet">Brownian ratchet</a></li>
+<li><a href="/wiki/Maxwell%27s_demon" title="Maxwell's demon">Maxwell's demon</a></li>
+<li><a href="/wiki/Heat_death_paradox" title="Heat death paradox">Heat death paradox</a></li>
+<li><a href="/wiki/Loschmidt%27s_paradox" title="Loschmidt's paradox">Loschmidt's paradox</a></li>
+<li><a href="/wiki/Synergetics_(Haken)" title="Synergetics (Haken)">Synergetics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">Theories</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Caloric_theory" title="Caloric theory">Caloric theory</a></li>
+<li><a href="/wiki/Theory_of_heat" title="Theory of heat">Theory of heat</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Vis_viva" title="Vis viva"><i>Vis viva</i> <span style="font-size:90%;">("living force")</span></a></li>
+<li><a href="/wiki/Mechanical_equivalent_of_heat" title="Mechanical equivalent of heat">Mechanical equivalent of heat</a></li>
+<li><a href="/wiki/Motive_power" title="Motive power">Motive power</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/List_of_important_publications_in_physics" title="List of important publications in physics">Key publications</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/An_Experimental_Enquiry_Concerning_the_Source_of_the_Heat_which_is_Excited_by_Friction" title="An Experimental Enquiry Concerning the Source of the Heat which is Excited by Friction">An Experimental Enquiry<br />
+Concerning ... Heat</a>"</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/On_the_Equilibrium_of_Heterogeneous_Substances" title="On the Equilibrium of Heterogeneous Substances">On the Equilibrium of<br />
+Heterogeneous Substances</a>"</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/Reflections_on_the_Motive_Power_of_Fire" title="Reflections on the Motive Power of Fire">Reflections on the<br />
+Motive Power of Fire</a>"</div>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">Timelines</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Timeline_of_thermodynamics" title="Timeline of thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Timeline_of_heat_engine_technology" title="Timeline of heat engine technology">Heat engines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<div class="hlist">
+<ul>
+<li>Art</li>
+<li>Education</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Maxwell%27s_thermodynamic_surface" title="Maxwell's thermodynamic surface">Maxwell's thermodynamic surface</a></li>
+<li><a href="/wiki/Entropy_(energy_dispersal)" title="Entropy (energy dispersal)">Entropy as energy dispersal</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Scientists</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Bernoulli</a></li>
+<li><a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">Carnot</a></li>
+<li><a href="/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron" title="Benoît Paul Émile Clapeyron">Clapeyron</a></li>
+<li><a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Clausius</a></li>
+<li><a href="/wiki/Constantin_Carath%C3%A9odory" title="Constantin Carathéodory">Carathéodory</a></li>
+<li><a href="/wiki/Pierre_Duhem" title="Pierre Duhem">Duhem</a></li>
+<li><a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">Gibbs</a></li>
+<li><a href="/wiki/Hermann_von_Helmholtz" title="Hermann von Helmholtz">von Helmholtz</a></li>
+<li><a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">Joule</a></li>
+<li><a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">Maxwell</a></li>
+<li><a href="/wiki/Julius_von_Mayer" title="Julius von Mayer">von Mayer</a></li>
+<li><a href="/wiki/Lars_Onsager" title="Lars Onsager">Onsager</a></li>
+<li><a href="/wiki/William_John_Macquorn_Rankine" title="William John Macquorn Rankine">Rankine</a></li>
+<li><a href="/wiki/John_Smeaton" title="John Smeaton">Smeaton</a></li>
+<li><a href="/wiki/Georg_Ernst_Stahl" title="Georg Ernst Stahl">Stahl</a></li>
+<li><a href="/wiki/Benjamin_Thompson" title="Benjamin Thompson">Thompson</a></li>
+<li><a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">Thomson</a></li>
+<li><a href="/wiki/John_James_Waterston" title="John James Waterston">Waterston</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a href="/wiki/Book:Thermodynamics" title="Book:Thermodynamics">Book:Thermodynamics</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Thermodynamics" title="Template:Thermodynamics"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Thermodynamics" title="Template talk:Thermodynamics"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Thermodynamics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>In <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a>, the <b>Gibbs free energy</b> (<a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a> recommended name: <b>Gibbs energy</b> or <b>Gibbs function</b>; also known as <b>free enthalpy</b><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> to distinguish it from <a href="/wiki/Helmholtz_free_energy" title="Helmholtz free energy">Helmholtz free energy</a>) is a <a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">thermodynamic potential</a> that can be used to calculate the maximum or reversible work that may be performed by a <a href="/wiki/Thermodynamic_system" title="Thermodynamic system">thermodynamic system</a> at a constant <a href="/wiki/Temperature" title="Temperature">temperature</a> and <a href="/wiki/Pressure" title="Pressure">pressure</a> (<a class="mw-redirect" href="/wiki/Isothermal" title="Isothermal">isothermal</a>, <a href="/wiki/Isobaric_process" title="Isobaric process">isobaric</a>). Just as in <a href="/wiki/Mechanics" title="Mechanics">mechanics</a>, where the decrease in <a href="/wiki/Potential_energy" title="Potential energy">potential energy</a> is defined as maximum useful work that can be performed, similarly different potentials have different meanings. The decrease in Gibbs free energy (<a href="/wiki/Joule" title="Joule">kJ</a> in <a href="/wiki/International_System_of_Units" title="International System of Units">SI units</a>) is the <i>maximum</i> amount of non-expansion work that can be extracted from a <a href="/wiki/Closed_system" title="Closed system">thermodynamically closed system</a> (one that can exchange heat and work with its surroundings, but not matter); this maximum can be attained only in a completely <a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">reversible process</a>. When a system transforms reversibly from an initial state to a final state, the decrease in Gibbs free energy equals the work done by the system to its surroundings, minus the work of the <a href="/wiki/Pressure" title="Pressure">pressure</a> forces.<sup class="reference" id="cite_ref-Perrot_2-0"><a href="#cite_note-Perrot-2">[2]</a></sup></p>
+<p>The Gibbs energy (also referred to as <i>G</i>) is also the thermodynamic potential that is minimized when a system reaches <a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">chemical equilibrium</a> at constant pressure and temperature. Its derivative with respect to the reaction coordinate of the system vanishes at the equilibrium point. As such, a reduction in <i>G</i> is a necessary condition for the spontaneity of processes at constant <a href="/wiki/Pressure" title="Pressure">pressure</a> and <a href="/wiki/Temperature" title="Temperature">temperature</a>.</p>
+<p>The Gibbs free energy, originally called <i>available energy</i>, was developed in the 1870s by the American scientist <a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">Josiah Willard Gibbs</a>. In 1873, Gibbs described this "available energy" as</p>
+<blockquote class="templatequote">
+<p>the greatest amount of mechanical work which can be obtained from a given quantity of a certain substance in a given initial state, without increasing its total <a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">volume</a> or allowing heat to pass to or from external bodies, except such as at the close of the processes are left in their initial condition.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+</blockquote>
+<p>The initial state of the body, according to Gibbs, is supposed to be such that "the body can be made to pass from it to states of <a class="mw-redirect" href="/wiki/Dissipated_energy" title="Dissipated energy">dissipated energy</a> by <a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">reversible processes</a>." In his 1876 <a href="/wiki/Masterpiece" title="Masterpiece">magnum opus</a> <i><a href="/wiki/On_the_Equilibrium_of_Heterogeneous_Substances" title="On the Equilibrium of Heterogeneous Substances">On the Equilibrium of Heterogeneous Substances</a></i>, a graphical analysis of multi-phase chemical systems, he engaged his thoughts on chemical free energy in full.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Graphical_interpretation"><span class="tocnumber">3</span> <span class="toctext">Graphical interpretation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Definitions"><span class="tocnumber">4</span> <span class="toctext">Definitions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Derivation"><span class="tocnumber">5</span> <span class="toctext">Derivation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Homogeneous_systems"><span class="tocnumber">5.1</span> <span class="toctext">Homogeneous systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Gibbs_free_energy_of_reactions"><span class="tocnumber">6</span> <span class="toctext">Gibbs free energy of reactions</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Useful_identities_to_derive_the_Nernst_equation"><span class="tocnumber">7</span> <span class="toctext">Useful identities to derive the Nernst equation</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Gibbs_free_energy.2C_the_second_law_of_thermodynamics.2C_and_metabolism"><span class="tocnumber">8</span> <span class="toctext">Gibbs free energy, the second law of thermodynamics, and metabolism</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Standard_energy_change_of_formation"><span class="tocnumber">9</span> <span class="toctext">Standard energy change of formation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Table_of_selected_substances.5B17.5D"><span class="tocnumber">9.1</span> <span class="toctext">Table of selected substances<sup>[17]</sup></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes_and_references"><span class="tocnumber">11</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Diamond.jpg"><img alt="" class="thumbimage" data-file-height="200" data-file-width="200" height="200" src="//upload.wikimedia.org/wikipedia/commons/3/36/Diamond.jpg" width="200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Diamond.jpg" title="Enlarge"></a></div>
+The reaction C<sub>(s)</sub><sup>diamond</sup>→C<sub>(s)</sub><sup>graphite</sup> has a negative change in Gibbs free energy and is therefore thermodynamically favorable at 25°C and 1 atm. However, even though favorable, it is so slow that it is not observed. Whether a reaction is thermodynamically favorable does not determine its rate.</div>
+</div>
+</div>
+<p>According to the <a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">second law of thermodynamics</a>, for systems reacting at <a class="mw-redirect" href="/wiki/Standard_temperature_and_pressure" title="Standard temperature and pressure">STP</a> (or any other fixed temperature and pressure), there is a general natural tendency to achieve a minimum of the Gibbs free energy.</p>
+<p>A quantitative measure of the favorability of a given reaction at constant temperature and pressure is the change Δ<i>G</i> in Gibbs free energy that is (or would be) caused by the reaction. As a necessary condition for the reaction to occur at constant temperature and pressure, Δ<i>G</i> must be smaller than the non-<i>PV</i><sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (October 2016)">clarification needed</span></a></i>]</sup> (e.g. electrical) work, which is often equal to zero. Δ<i>G</i> equals the maximum amount of non-<i>PV</i> work that can be performed as a result of the chemical reaction for the case of reversible process. If the analysis indicated a positive Δ<i>G</i> for the reaction, then energy —in the form of electrical or other non-<i>PV</i> work— would have to be added to the reacting system for Δ<i>G</i> to be smaller than the non-<i>PV</i> work and make it possible for the reaction to occur.<sup class="reference" id="cite_ref-AtkinsJones2007_4-0"><a href="#cite_note-AtkinsJones2007-4">[4]</a></sup><sup class="reference" style="white-space:nowrap;">:298–299</sup></p>
+<p>The equation can be also seen from the perspective of the system taken together with its surroundings (the rest of the universe). First assume that the given reaction at constant temperature and pressure is the only one that is occurring. Then the <a href="/wiki/Entropy" title="Entropy">entropy</a> released or absorbed by the system equals the entropy that the environment must absorb or release, respectively. The reaction will only be allowed if the total entropy change of the universe is zero or positive. This is reflected in a negative Δ<i>G</i>, and the reaction is called <a class="mw-redirect" href="/wiki/Exergonic" title="Exergonic">exergonic</a>.</p>
+<p>If we couple reactions, then an otherwise <a class="mw-redirect" href="/wiki/Endergonic" title="Endergonic">endergonic</a> chemical reaction (one with positive Δ<i>G</i>) can be made to happen. The input of heat into an inherently endergonic reaction, such as the <a href="/wiki/Elimination_reaction" title="Elimination reaction">elimination</a> of <a href="/wiki/Cyclohexanol" title="Cyclohexanol">cyclohexanol</a> to <a href="/wiki/Cyclohexene" title="Cyclohexene">cyclohexene</a>, can be seen as coupling an unfavourable reaction (elimination) to a favourable one (burning of coal or other provision of heat) such that the total entropy change of the universe is greater than or equal to zero, making the <i>total</i> Gibbs free energy difference of the coupled reactions negative.</p>
+<p>In traditional use, the term "free" was included in "Gibbs free energy" to mean "available in the form of useful work."<sup class="reference" id="cite_ref-Perrot_2-1"><a href="#cite_note-Perrot-2">[2]</a></sup> The characterization becomes more precise if we add the qualification that it is the energy available for <i>non-volume</i> work<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (October 2016)">clarification needed</span></a></i>]</sup>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> (An analogous, but slightly different, meaning of "free" applies in conjunction with the Helmholtz free energy, for systems at constant temperature). However, an increasing number of books and journal articles do not include the attachment "free", referring to G as simply "Gibbs energy". This is the result of a 1988 <a class="mw-redirect" href="/wiki/IUPAC" title="IUPAC">IUPAC</a> meeting to set unified terminologies for the international scientific community, in which the adjective ‘free’ was supposedly banished.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> This standard, however, has not yet been universally adopted.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote" role="note">See also: <a href="/wiki/Thermodynamic_free_energy#History" title="Thermodynamic free energy">Thermodynamic free energy</a></div>
+<p>The quantity called "free energy" is a more advanced and accurate replacement for the outdated term <i>affinity</i>, which was used by chemists in the earlier years of physical chemistry to describe the <i>force</i> that caused <a href="/wiki/Chemical_reaction" title="Chemical reaction">chemical reactions</a>.</p>
+<p>In 1873, <a class="mw-redirect" href="/wiki/Willard_Gibbs" title="Willard Gibbs">Willard Gibbs</a> published <i>A Method of Geometrical Representation of the Thermodynamic Properties of Substances by Means of Surfaces</i>, in which he sketched the principles of his new equation that was able to predict or estimate the tendencies of various natural processes to ensue when bodies or systems are brought into contact. By studying the interactions of homogeneous substances in contact, i.e., bodies composed of part solid, part liquid, and part vapor, and by using a three-dimensional <a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">volume</a>-<a href="/wiki/Entropy" title="Entropy">entropy</a>-<a href="/wiki/Internal_energy" title="Internal energy">internal energy</a> graph, Gibbs was able to determine three states of equilibrium, i.e., "necessarily stable", "neutral", and "unstable", and whether or not changes would ensue. Further, Gibbs stated:<sup class="reference" id="cite_ref-Gibbs1873_9-0"><a href="#cite_note-Gibbs1873-9">[9]</a></sup></p>
+<table class="messagebox">
+<tr>
+<td align="left">
+<p>If we wish to express in a single equation the necessary and sufficient condition of <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">thermodynamic equilibrium</a> for a substance when surrounded by a medium of constant <a href="/wiki/Pressure" title="Pressure">pressure</a> <i>p</i> and <a href="/wiki/Temperature" title="Temperature">temperature</a> <i>T</i>, this equation may be written:</p>
+<dl>
+<dd><span class="nowrap"><i>δ</i>(<i>ε</i> − <i>Tη</i> + <i>pν</i>) = 0</span></dd>
+</dl>
+<p>when <i>δ</i> refers to the variation produced by any variations in the <a href="/wiki/Thermodynamic_state" title="Thermodynamic state">state</a> of the parts of the body, and (when different parts of the body are in different states) in the proportion in which the body is divided between the different states. The condition of stable equilibrium is that the value of the expression in the parenthesis shall be a minimum.</p>
+</td>
+</tr>
+</table>
+<p>In this description, as used by Gibbs, <i>ε</i> refers to the <a href="/wiki/Internal_energy" title="Internal energy">internal energy</a> of the body, <i>η</i> refers to the <a href="/wiki/Entropy" title="Entropy">entropy</a> of the body, and <i>ν</i> is the <a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">volume</a> of the body.</p>
+<p>Thereafter, in 1882, the German scientist <a href="/wiki/Hermann_von_Helmholtz" title="Hermann von Helmholtz">Hermann von Helmholtz</a> characterized the affinity as the largest quantity of work which can be gained when the reaction is carried out in a reversible manner, e.g., electrical work in a reversible cell. The maximum work is thus regarded as the diminution of the free, or available, energy of the system (<i>Gibbs free energy</i> <i>G</i> at <i>T</i> = constant, <i>P</i> = constant or <i>Helmholtz free energy</i> <i>F</i> at <i>T</i> = constant, <i>V</i> = constant), whilst the heat given out is usually a measure of the diminution of the total energy of the system (<a href="/wiki/Internal_energy" title="Internal energy">internal energy</a>). Thus, <i>G</i> or <i>F</i> is the amount of energy "free" for work under the given conditions.</p>
+<p>Until this point, the general view had been such that: "all chemical reactions drive the system to a state of equilibrium in which the affinities of the reactions vanish". Over the next 60 years, the term affinity came to be replaced with the term free energy. According to chemistry historian Henry Leicester, the influential 1923 textbook <i>Thermodynamics and the Free Energy of Chemical Substances</i> by <a href="/wiki/Gilbert_N._Lewis" title="Gilbert N. Lewis">Gilbert N. Lewis</a> and <a href="/wiki/Merle_Randall" title="Merle Randall">Merle Randall</a> led to the replacement of the term "affinity" by the term "free energy" in much of the English-speaking world.<sup class="reference" id="cite_ref-Leicester1971_10-0"><a href="#cite_note-Leicester1971-10">[10]</a></sup><sup class="reference" style="white-space:nowrap;">:206</sup></p>
+<h2><span class="mw-headline" id="Graphical_interpretation">Graphical interpretation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=3" title="Edit section: Graphical interpretation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Gibbs free energy was originally defined graphically. In 1873, American scientist <a class="mw-redirect" href="/wiki/Willard_Gibbs" title="Willard Gibbs">Willard Gibbs</a> published his first thermodynamics paper, "Graphical Methods in the Thermodynamics of Fluids", in which Gibbs used the two coordinates of the entropy and volume to represent the state of the body. In his second follow-up paper, "A Method of Geometrical Representation of the Thermodynamic Properties of Substances by Means of Surfaces", published later that year, Gibbs added in the third coordinate of the energy of the body, defined on three figures. In 1874, Scottish physicist <a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">James Clerk Maxwell</a> used Gibbs' figures to make a 3D energy-entropy-volume <a href="/wiki/Maxwell%27s_thermodynamic_surface" title="Maxwell's thermodynamic surface">thermodynamic surface</a> of a fictitious water-like substance.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> Thus, in order to understand the very difficult concept of Gibbs free energy one must be able to understand its interpretation as Gibbs defined originally by section AB on his figure 3 and as Maxwell sculpted that section on his <a href="/wiki/Maxwell%27s_thermodynamic_surface" title="Maxwell's thermodynamic surface">3D surface figure</a>.</p>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:752px;"><a class="image" href="/wiki/File:Gibbs-Maxwell_surfaces.png"><img alt="" class="thumbimage" data-file-height="385" data-file-width="993" height="291" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gibbs-Maxwell_surfaces.png/750px-Gibbs-Maxwell_surfaces.png" srcset="//upload.wikimedia.org/wikipedia/commons/4/40/Gibbs-Maxwell_surfaces.png 1.5x" width="750" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Gibbs-Maxwell_surfaces.png" title="Enlarge"></a></div>
+American scientist <a class="mw-redirect" href="/wiki/Willard_Gibbs" title="Willard Gibbs">Willard Gibbs</a>' 1873 figures two and three (above left and middle) used by Scottish physicist <a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">James Clerk Maxwell</a> in 1874 to create a three-dimensional <a href="/wiki/Entropy" title="Entropy">entropy</a> (x), <a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">volume</a> (y), <a href="/wiki/Energy" title="Energy">energy</a> (z) <b><a href="/wiki/Maxwell%27s_thermodynamic_surface" title="Maxwell's thermodynamic surface">thermodynamic surface</a></b> diagram for a fictitious water-like substance, transposed the two figures of Gibbs (above right) onto the volume-entropy coordinates (transposed to bottom of cube) and energy-entropy coordinates (flipped upside down and transposed to back of cube), respectively, of a three-dimensional <a class="mw-redirect" href="/wiki/Cartesian_coordinates" title="Cartesian coordinates">Cartesian coordinates</a>; the region AB being the first-ever three-dimensional representation of Gibbs free energy, or what Gibbs called "available energy"; the region AC being its capacity for <a href="/wiki/Entropy" title="Entropy">entropy</a>, what Gibbs defined as "the amount by which the entropy of the body can be increased without changing the energy of the body or increasing its volume.</div>
+</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Definitions">Definitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=4" title="Edit section: Definitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:277px;"><a class="image" href="/wiki/File:Wykres_Gibbsa.svg"><img alt="" class="thumbimage" data-file-height="800" data-file-width="695" height="317" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wykres_Gibbsa.svg/275px-Wykres_Gibbsa.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wykres_Gibbsa.svg/413px-Wykres_Gibbsa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wykres_Gibbsa.svg/550px-Wykres_Gibbsa.svg.png 2x" width="275" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Wykres_Gibbsa.svg" title="Enlarge"></a></div>
+<a class="mw-redirect" href="/wiki/Willard_Gibbs" title="Willard Gibbs">Willard Gibbs</a>’ 1873 <b>available energy</b> (free energy) graph, which shows a plane perpendicular to the axis of <i>v</i> (<a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">volume</a>) and passing through point A, which represents the initial state of the body. MN is the section of the surface of <a class="mw-redirect" href="/wiki/Dissipated_energy" title="Dissipated energy">dissipated energy</a>. Q<i>ε</i> and Q<i>η</i> are sections of the planes <i>η</i> = 0 and <i>ε</i> = 0, and therefore parallel to the axes of <i>ε</i> (<a href="/wiki/Internal_energy" title="Internal energy">internal energy</a>) and <i>η</i> (<a href="/wiki/Entropy" title="Entropy">entropy</a>), respectively. AD and AE are the energy and entropy of the body in its initial state, AB and AC its <i>available energy</i> (Gibbs free energy) and its <i>capacity for entropy</i> (the amount by which the entropy of the body can be increased without changing the energy of the body or increasing its volume) respectively.</div>
+</div>
+</div>
+<p>The Gibbs free energy is defined as:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mo>,</mo>
+<mi>T</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>V</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G(p,T)=U+pV-TS}</annotation>
+</semantics>
+</math></span><img alt="G(p,T)=U+pV-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba976c8b85ff2926f035a20d806b79e0e2304125" style="vertical-align: -0.838ex; width:24.276ex; height:2.843ex;" /></span></dd>
+</dl>
+<p>which is the same as:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mo>,</mo>
+<mi>T</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>H</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G(p,T)=H-TS}</annotation>
+</semantics>
+</math></span><img alt="G(p,T)=H-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0774d8dac9300fd2e2aa5c52dca6fb4fb8fe0f86" style="vertical-align: -0.838ex; width:18.729ex; height:2.843ex;" /></span></dd>
+</dl>
+<p>where:</p>
+<ul>
+<li><i>U</i> is the <a href="/wiki/Internal_energy" title="Internal energy">internal energy</a> (SI unit: <a href="/wiki/Joule" title="Joule">joule</a>)</li>
+<li><i>p</i> is <a href="/wiki/Pressure" title="Pressure">pressure</a> (SI unit: <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">pascal</a>)</li>
+<li><i>V</i> is <a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">volume</a> (SI unit: m<sup>3</sup>)</li>
+<li><i>T</i> is the <a href="/wiki/Temperature" title="Temperature">temperature</a> (SI unit: <a href="/wiki/Kelvin" title="Kelvin">kelvin</a>)</li>
+<li><i>S</i> is the <a href="/wiki/Entropy" title="Entropy">entropy</a> (SI unit: joule per kelvin)</li>
+<li><i>H</i> is the <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a> (SI unit: joule)</li>
+</ul>
+<p>The expression for the infinitesimal reversible change in the Gibbs free energy as a function of its 'natural variables' p and T, for an <a href="/wiki/Thermodynamic_system#Open_system" title="Thermodynamic system">open system</a>, subjected to the operation of external forces (for instance electrical or magnetic) <i>X<sub>i</sub></i>, which cause the external parameters of the system <i>a<sub>i</sub></i> to change by an amount d<i>a<sub>i</sub></i>, can be derived as follows from the First Law for reversible processes:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>S</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>U</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>V</mi>
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>k</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>X</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mo>⋯<!-- ⋯ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T\mathrm {d} S=\mathrm {d} U+p\mathrm {d} V-\sum _{i=1}^{k}\mu _{i}\,\mathrm {d} N_{i}+\sum _{i=1}^{n}X_{i}\,\mathrm {d} a_{i}+\cdots }</annotation>
+</semantics>
+</math></span><img alt="T\mathrm {d} S=\mathrm {d} U+p\mathrm {d} V-\sum _{i=1}^{k}\mu _{i}\,\mathrm {d} N_{i}+\sum _{i=1}^{n}X_{i}\,\mathrm {d} a_{i}+\cdots " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/668dbfed62d0e8d8ccf0e33e554fb247edc2d789" style="vertical-align: -3.005ex; width:49.659ex; height:7.343ex;" /></span></dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mi>S</mi>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>T</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>U</mi>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>p</mi>
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>k</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>X</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mo>⋯<!-- ⋯ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {d} (TS)-S\mathrm {d} T=\mathrm {d} U+\mathrm {d} (pV)-V\mathrm {d} p-\sum _{i=1}^{k}\mu _{i}\,\mathrm {d} N_{i}+\sum _{i=1}^{n}X_{i}\,\mathrm {d} a_{i}+\cdots }</annotation>
+</semantics>
+</math></span><img alt="\mathrm {d} (TS)-S\mathrm {d} T=\mathrm {d} U+\mathrm {d} (pV)-V\mathrm {d} p-\sum _{i=1}^{k}\mu _{i}\,\mathrm {d} N_{i}+\sum _{i=1}^{n}X_{i}\,\mathrm {d} a_{i}+\cdots " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d91febc058b942657dca17b9a62b76b7d50e8ef7" style="vertical-align: -3.005ex; width:67.761ex; height:7.343ex;" /></span></dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>U</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>p</mi>
+<mo>−<!-- − --></mo>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>T</mi>
+<mo>+</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>k</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>X</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mo>⋯<!-- ⋯ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {d} (U-TS+pV)=V\mathrm {d} p-S\mathrm {d} T+\sum _{i=1}^{k}\mu _{i}\,\mathrm {d} N_{i}-\sum _{i=1}^{n}X_{i}\,\mathrm {d} a_{i}+\cdots }</annotation>
+</semantics>
+</math></span><img alt="\mathrm {d} (U-TS+pV)=V\mathrm {d} p-S\mathrm {d} T+\sum _{i=1}^{k}\mu _{i}\,\mathrm {d} N_{i}-\sum _{i=1}^{n}X_{i}\,\mathrm {d} a_{i}+\cdots " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9377ed514a2445f8079ff34acb404062640de908" style="vertical-align: -3.005ex; width:63.325ex; height:7.343ex;" /></span></dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>G</mi>
+<mo>=</mo>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>p</mi>
+<mo>−<!-- − --></mo>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>T</mi>
+<mo>+</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>k</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>X</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mo>⋯<!-- ⋯ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {d} G=V\mathrm {d} p-S\mathrm {d} T+\sum _{i=1}^{k}\mu _{i}\,\mathrm {d} N_{i}-\sum _{i=1}^{n}X_{i}\,\mathrm {d} a_{i}+\cdots }</annotation>
+</semantics>
+</math></span><img alt="\mathrm {d} G=V\mathrm {d} p-S\mathrm {d} T+\sum _{i=1}^{k}\mu _{i}\,\mathrm {d} N_{i}-\sum _{i=1}^{n}X_{i}\,\mathrm {d} a_{i}+\cdots " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d0f152043c3587cc90c54d3b420b2487c60d2b26" style="vertical-align: -3.005ex; width:49.703ex; height:7.343ex;" /></span></dd>
+</dl>
+<p>where:</p>
+<ul>
+<li><i>μ</i><sub><i>i</i></sub> is the <a href="/wiki/Chemical_potential" title="Chemical potential">chemical potential</a> of the <i>i</i>th <a href="/wiki/Chemical_species" title="Chemical species">chemical component</a>. (SI unit: joules per particle<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> or joules per mole<sup class="reference" id="cite_ref-Perrot_2-2"><a href="#cite_note-Perrot-2">[2]</a></sup>)</li>
+<li><i>N</i><sub><i>i</i></sub> is the <a href="/wiki/Particle_number" title="Particle number">number of particles</a> (or number of moles) composing the <i>i</i>th chemical component.</li>
+</ul>
+<p>This is one form of <b>Gibbs fundamental equation</b>.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> In the infinitesimal expression, the term involving the chemical potential accounts for changes in Gibbs free energy resulting from an influx or outflux of particles. In other words, it holds for an <a href="/wiki/Open_system_(systems_theory)" title="Open system (systems theory)">open system</a>. For a <a href="/wiki/Closed_system" title="Closed system">closed system</a>, this term may be dropped.</p>
+<p>Any number of extra terms may be added, depending on the particular system being considered. Aside from <a class="mw-redirect" href="/wiki/Mechanical_work" title="Mechanical work">mechanical work</a>, a system may, in addition, perform numerous other types of work. For example, in the infinitesimal expression, the contractile work energy associated with a thermodynamic system that is a contractile fiber that shortens by an amount −d<i>l</i> under a force <i>f</i> would result in a term <i>f</i> d<i>l</i> being added. If a quantity of charge −d<i>e</i> is acquired by a system at an electrical potential Ψ, the electrical work associated with this is −Ψd<i>e</i>, which would be included in the infinitesimal expression. Other work terms are added on per system requirements.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<p>Each quantity in the equations above can be divided by the amount of substance, measured in <a href="/wiki/Mole_(unit)" title="Mole (unit)">moles</a>, to form <i>molar Gibbs free energy</i>. The Gibbs free energy is one of the most important thermodynamic functions for the characterization of a system. It is a factor in determining outcomes such as the <a href="/wiki/Voltage" title="Voltage">voltage</a> of an <a href="/wiki/Electrochemical_cell" title="Electrochemical cell">electrochemical cell</a>, and the <a href="/wiki/Equilibrium_constant" title="Equilibrium constant">equilibrium constant</a> for a <a href="/wiki/Reversible_reaction" title="Reversible reaction">reversible reaction</a>. In isothermal, isobaric systems, Gibbs free energy can be thought of as a "dynamic" quantity, in that it is a representative measure of the competing effects of the enthalpic<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="What is enthalpic force? No reference to it in Wikipedia's enthalpy article. (March 2015)">clarification needed</span></a></i>]</sup> and entropic driving forces involved in a thermodynamic process.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:718px;"><a class="image" href="/wiki/File:Thermodynamics_Gibbs_E0_Ecell_pH.png"><img alt="" class="thumbimage" data-file-height="286" data-file-width="716" height="286" src="//upload.wikimedia.org/wikipedia/en/b/b2/Thermodynamics_Gibbs_E0_Ecell_pH.png" width="716" /></a>
+<div class="thumbcaption">Relation to other relevant parameters</div>
+</div>
+</div>
+<p>The temperature dependence of the Gibbs energy for an <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gas</a> is given by the <a href="/wiki/Gibbs%E2%80%93Helmholtz_equation" title="Gibbs–Helmholtz equation">Gibbs–Helmholtz equation</a> and its pressure dependence is given by:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>G</mi>
+<mi>N</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>G</mi>
+<mi>N</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>k</mi>
+<mi>T</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>p</mi>
+<msup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {G}{N}}={\frac {G}{N}}^{\circ }+kT\ln {\frac {p}{p^{\circ }}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac {G}{N}}={\frac {G}{N}}^{\circ }+kT\ln {\frac {p}{p^{\circ }}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1d520b8606a5e2f2e2995e8c881ab92dc05908b5" style="vertical-align: -2.338ex; width:21.522ex; height:6.009ex;" /></span></dd>
+</dl>
+<p>if the volume is known rather than pressure then it becomes:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>G</mi>
+<mi>N</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>G</mi>
+<mi>N</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>k</mi>
+<mi>T</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mi>V</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {G}{N}}={\frac {G}{N}}^{\circ }+kT\ln {\frac {V^{\circ }}{V}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac {G}{N}}={\frac {G}{N}}^{\circ }+kT\ln {\frac {V^{\circ }}{V}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/677aee7a20e6e854cad92782443e53b4436414ca" style="vertical-align: -2.005ex; width:22.27ex; height:5.676ex;" /></span></dd>
+</dl>
+<p>or more conveniently as its <a href="/wiki/Chemical_potential" title="Chemical potential">chemical potential</a>:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>G</mi>
+<mi>N</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mi>μ<!-- μ --></mi>
+<mo>=</mo>
+<msup>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>k</mi>
+<mi>T</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>p</mi>
+<msup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {G}{N}}=\mu =\mu ^{\circ }+kT\ln {\frac {p}{p^{\circ }}}.}</annotation>
+</semantics>
+</math></span><img alt="{\frac {G}{N}}=\mu =\mu ^{\circ }+kT\ln {\frac {p}{p^{\circ }}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/16ab65239af4b0142354505a89b3143ea71993c2" style="vertical-align: -2.338ex; width:25.203ex; height:5.843ex;" /></span></dd>
+</dl>
+<p>In non-ideal systems, <a href="/wiki/Fugacity" title="Fugacity">fugacity</a> comes into play.</p>
+<h2><span class="mw-headline" id="Derivation">Derivation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=5" title="Edit section: Derivation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Gibbs free energy <a class="mw-redirect" href="/wiki/Total_differential" title="Total differential">total differential</a> <a href="/wiki/Thermodynamic_potential#Natural_variables" title="Thermodynamic potential">natural variables</a> may be derived via <a class="mw-redirect" href="/wiki/Legendre_transform" title="Legendre transform">Legendre transforms</a> of the <a href="/wiki/Internal_energy" title="Internal energy">internal energy</a>.</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>U</mi>
+<mo>=</mo>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>S</mi>
+<mo>−<!-- − --></mo>
+<mi>p</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>V</mi>
+<mo>+</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {d} U=T\mathrm {d} S-p\,\mathrm {d} V+\sum _{i}\mu _{i}\,\mathrm {d} N_{i}\,}</annotation>
+</semantics>
+</math></span><img alt="\mathrm {d} U=T\mathrm {d} S-p\,\mathrm {d} V+\sum _{i}\mu _{i}\,\mathrm {d} N_{i}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e631a9f1538e506844f8aca6231c825abdcccbbf" style="vertical-align: -3.005ex; width:31.766ex; height:5.509ex;" /></span>.</dd>
+</dl>
+<p>The definition of <i>G</i> from above is</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>V</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G=U+pV-TS\,}</annotation>
+</semantics>
+</math></span><img alt="G=U+pV-TS\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3c491df23e8119f7ca1b6015828387b2edd1f726" style="vertical-align: -0.671ex; width:18.962ex; height:2.509ex;" /></span>.</dd>
+</dl>
+<p>Taking the total differential, we have</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>G</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>U</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>V</mi>
+<mo>+</mo>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>p</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>S</mi>
+<mo>−<!-- − --></mo>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {d} G=\mathrm {d} U+p\,\mathrm {d} V+V\mathrm {d} p-T\mathrm {d} S-S\mathrm {d} T\,}</annotation>
+</semantics>
+</math></span><img alt="\mathrm {d} G=\mathrm {d} U+p\,\mathrm {d} V+V\mathrm {d} p-T\mathrm {d} S-S\mathrm {d} T\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/76353668e4411bfe92daced99eed6e8b7e70c497" style="vertical-align: -0.671ex; width:39.002ex; height:2.509ex;" /></span>.</dd>
+</dl>
+<p>Replacing d<i>U</i> with the result from the first law gives<sup class="reference" id="cite_ref-Salzman2001_15-0"><a href="#cite_note-Salzman2001-15">[15]</a></sup></p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>G</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>S</mi>
+<mo>−<!-- − --></mo>
+<mi>p</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>V</mi>
+<mo>+</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>p</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>V</mi>
+<mo>+</mo>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>p</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>S</mi>
+<mo>−<!-- − --></mo>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>T</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>p</mi>
+<mo>−<!-- − --></mo>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>T</mi>
+<mo>+</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}\mathrm {d} G&=T\mathrm {d} S-p\,\mathrm {d} V+\sum _{i}\mu _{i}\,\mathrm {d} N_{i}+p\,\mathrm {d} V+V\mathrm {d} p-T\mathrm {d} S-S\mathrm {d} T\\&=V\mathrm {d} p-S\mathrm {d} T+\sum _{i}\mu _{i}\,\mathrm {d} N_{i}\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\begin{aligned}\mathrm {d} G&amp;=T\mathrm {d} S-p\,\mathrm {d} V+\sum _{i}\mu _{i}\,\mathrm {d} N_{i}+p\,\mathrm {d} V+V\mathrm {d} p-T\mathrm {d} S-S\mathrm {d} T\\&amp;=V\mathrm {d} p-S\mathrm {d} T+\sum _{i}\mu _{i}\,\mathrm {d} N_{i}\end{aligned}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0c2350a9fc773d05c876a4e9c08502ff32e73692" style="vertical-align: -5.005ex; width:61.445ex; height:11.176ex;" /></span>.</dd>
+</dl>
+<p>The natural variables of <i>G</i> are then <i>p</i>, <i>T</i>, and {<i>N</i><sub><i>i</i></sub>}.</p>
+<h3><span class="mw-headline" id="Homogeneous_systems">Homogeneous systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=6" title="Edit section: Homogeneous systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Because <i>S</i>, <i>V</i>, and <i>N</i><sub><i>i</i></sub> are <a href="/wiki/Intensive_and_extensive_properties" title="Intensive and extensive properties">extensive variables</a>, an <a class="mw-redirect" href="/wiki/Thermodynamic_potentials#Euler_integrals" title="Thermodynamic potentials">Euler integral</a> allows easy integration of d<i>U</i>:<sup class="reference" id="cite_ref-Salzman2001_15-1"><a href="#cite_note-Salzman2001-15">[15]</a></sup></p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo>=</mo>
+<mi>T</mi>
+<mi>S</mi>
+<mo>−<!-- − --></mo>
+<mi>p</mi>
+<mi>V</mi>
+<mo>+</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U=TS-pV+\sum _{i}\mu _{i}N_{i}\,}</annotation>
+</semantics>
+</math></span><img alt="U=TS-pV+\sum _{i}\mu _{i}N_{i}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/783c8b7e328e832844cf4ad783574040836717cd" style="vertical-align: -3.005ex; width:25.78ex; height:5.509ex;" /></span>.</dd>
+</dl>
+<p>Because some of the natural variables of G are intensive, d<i>G</i> may not be integrated using Euler integrals as is the case with internal energy. However, simply substituting the above integrated result for <i>U</i> into the definition of <i>G</i> gives a standard expression for <i>G</i>:<sup class="reference" id="cite_ref-Salzman2001_15-2"><a href="#cite_note-Salzman2001-15">[15]</a></sup></p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mi>G</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>V</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mi>S</mi>
+<mo>−<!-- − --></mo>
+<mi>p</mi>
+<mi>V</mi>
+<mo>+</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi>p</mi>
+<mi>V</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}G&=U+pV-TS\\&=(TS-pV+\sum _{i}\mu _{i}N_{i})+pV-TS\\&=\sum _{i}\mu _{i}N_{i}\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}G&amp;=U+pV-TS\\&amp;=(TS-pV+\sum _{i}\mu _{i}N_{i})+pV-TS\\&amp;=\sum _{i}\mu _{i}N_{i}\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/295ce5fdc256b5d9eeaf2dcf6b33f94f94b9c855" style="vertical-align: -6.671ex; width:39.855ex; height:14.343ex;" /></span>.</dd>
+</dl>
+<p>This result applies to homogeneous, macroscopic systems, but not to all thermodynamic systems.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Gibbs_free_energy_of_reactions">Gibbs free energy of reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=7" title="Edit section: Gibbs free energy of reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>To derive the Gibbs free energy equation for an <a href="/wiki/Isolated_system" title="Isolated system">isolated system</a>, let <i>S</i><sub>tot</sub> be the total entropy of the <a href="/wiki/Isolated_system" title="Isolated system">isolated system</a>, that is, a system that cannot exchange energy(heat and work) or mass with its surroundings. According to the <a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">second law of thermodynamics</a>:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>tot</mtext>
+</mrow>
+</msub>
+<mo>≥<!-- ≥ --></mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S_{\text{tot}}\geq 0\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta S_{\text{tot}}\geq 0\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9b9592740555beb2479e5905a05ba422407eaa50" style="vertical-align: -0.671ex; width:10.406ex; height:2.676ex;" /></span></dd>
+</dl>
+<p>and if Δ<i>S</i><sub>tot</sub> = 0 then the process is reversible. The heat transfer <i>Q</i> vanishes for an adiabatic system. Any <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic process</a> that is also reversible is called an <a class="mw-redirect" href="/wiki/Isentropic" title="Isentropic">isentropic</a> <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>Q</mi>
+<mi>T</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>S</mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({Q \over T}=\Delta S=0\right)\,}</annotation>
+</semantics>
+</math></span><img alt="\left({Q \over T}=\Delta S=0\right)\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/acd6351cfdcc8eb01573a8969eda0120c5dc7009" style="vertical-align: -2.505ex; width:17.361ex; height:6.176ex;" /></span> process.</p>
+<p>Now consider a subsystem having internal entropy <i>S</i><sub>int</sub>. Such a system is thermally connected to its surroundings, which have entropy <i>S</i><sub>ext</sub>. The entropy form of the second law applies only to the closed system formed by both the system and its surroundings. Therefore, a process is possible only if</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>int</mtext>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>ext</mtext>
+</mrow>
+</msub>
+<mo>≥<!-- ≥ --></mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S_{\text{int}}+\Delta S_{\text{ext}}\geq 0\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta S_{\text{int}}+\Delta S_{\text{ext}}\geq 0\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e2196d5e9794b3cf6a95e5545513d97fc38e128a" style="vertical-align: -0.671ex; width:19.041ex; height:2.676ex;" /></span>.</dd>
+</dl>
+<p>If <i>Q</i> is the heat transferred to the system from the surroundings, then −<i>Q</i> is the heat lost by the surroundings, so that <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>ext</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>Q</mi>
+<mi>T</mi>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S_{\text{ext}}=-{Q \over T},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta S_{\text{ext}}=-{Q \over T},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe0da972b8eb1cc160488b4bc946c23a07b8e496" style="vertical-align: -1.838ex; width:14.143ex; height:5.509ex;" /></span> corresponds to the entropy change of the surroundings.</p>
+<p>We now have:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>int</mtext>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>Q</mi>
+<mi>T</mi>
+</mfrac>
+</mrow>
+<mo>≥<!-- ≥ --></mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S_{\text{int}}-{Q \over T}\geq 0\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta S_{\text{int}}-{Q \over T}\geq 0\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f631899a4d7bf6be91e0be3c56ca46dd98f772b7" style="vertical-align: -1.838ex; width:15.852ex; height:5.509ex;" /></span></dd>
+</dl>
+<p>Multiplying both sides by <i>T</i>:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>int</mtext>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mi>Q</mi>
+<mo>≥<!-- ≥ --></mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T\Delta S_{\text{int}}-Q\geq 0\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T\Delta S_{\text{int}}-Q\geq 0\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8bbaff2b264ebd41983aed89779468298bb7a0a6" style="vertical-align: -0.671ex; width:16.662ex; height:2.676ex;" /></span></dd>
+</dl>
+<p><i>Q</i> is the heat transferred <i>to</i> the system; if the process is now assumed to be <a href="/wiki/Isobaric_process" title="Isobaric process">isobaric</a>, then <i>Q</i> = Δ<i>H</i>:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>int</mtext>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>H</mi>
+<mo>≥<!-- ≥ --></mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T\Delta S_{\text{int}}-\Delta H\geq 0\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T\Delta S_{\text{int}}-\Delta H\geq 0\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ebdaf688ab3de554d76642e86330325518b2342" style="vertical-align: -0.671ex; width:18.834ex; height:2.676ex;" /></span></dd>
+</dl>
+<p>Δ<i>H</i> is the enthalpy change of reaction (for a chemical reaction at constant pressure). Then:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>H</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>int</mtext>
+</mrow>
+</msub>
+<mo>≤<!-- ≤ --></mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta H-T\Delta S_{\text{int}}\leq 0\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta H-T\Delta S_{\text{int}}\leq 0\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/63065acf56638a0820c07c73906d07798da41ea1" style="vertical-align: -0.671ex; width:18.834ex; height:2.676ex;" /></span></dd>
+</dl>
+<p>for a possible process. Let the change Δ<i>G</i> in Gibbs free energy be defined as</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>G</mi>
+<mo>=</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>H</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>int</mtext>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta G=\Delta H-T\Delta S_{\text{int}}\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta G=\Delta H-T\Delta S_{\text{int}}\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ab0da6718eaa36c3dbc7771c515c71e74ec0c2c1" style="vertical-align: -0.671ex; width:21.445ex; height:2.676ex;" /></span> <i>(eq.1)</i></dd>
+</dl>
+<p>Notice that it is not defined in terms of any external state functions, such as Δ<i>S</i><sub>ext</sub> or Δ<i>S</i><sub>tot</sub>. Then the second law, which also tells us about the spontaneity of the reaction, becomes:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>G</mi>
+<mo><</mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta G<0\,}</annotation>
+</semantics>
+</math></span><img alt="\Delta G&lt;0\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/83e54bbd3d3fe7561211564f8d7fe0d4f9312977" style="vertical-align: -0.338ex; width:8.452ex; height:2.343ex;" /></span> <b>favoured reaction</b> (Spontaneous)</dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>G</mi>
+<mo>=</mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta G=0\,}</annotation>
+</semantics>
+</math></span><img alt="\Delta G=0\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f54629efeeb62e6da859a26acc54477a982a521a" style="vertical-align: -0.338ex; width:8.452ex; height:2.343ex;" /></span> Neither the forward nor the reverse reaction prevails (<a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">Equilibrium</a>)</dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>G</mi>
+<mo>></mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta G>0\,}</annotation>
+</semantics>
+</math></span><img alt="\Delta G&gt;0\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21499603e9a75ee93738271408638d0802913506" style="vertical-align: -0.338ex; width:8.452ex; height:2.343ex;" /></span> <b>disfavoured reaction</b> (Nonspontaneous)</dd>
+</dl>
+<p>Gibbs free energy <i>G</i> itself is defined as</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo>=</mo>
+<mi>H</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>int</mtext>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G=H-TS_{\text{int}}\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle G=H-TS_{\text{int}}\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e2002b0dcebf44606f36af91a732f9156e3cefc" style="vertical-align: -0.671ex; width:15.606ex; height:2.509ex;" /></span> <i>(eq.2)</i></dd>
+</dl>
+<p>but notice that to obtain equation (1) from equation (2) we must assume that <i>T</i> is constant. Thus, Gibbs free energy is most useful for thermochemical processes at constant temperature and pressure: both isothermal and isobaric. Such processes don't move on a <i>P</i>-<i>T</i> diagram, such as phase change of a pure substance, which takes place at the saturation pressure and temperature. Chemical reactions, however, do undergo changes in <a href="/wiki/Chemical_potential" title="Chemical potential">chemical potential</a>, which is a state function. Thus, thermodynamic processes are not confined to the two dimensional <i>P</i>-<i>V</i> diagram. There is an additional dimension for the extent of the chemical reaction, associated with the changes of the amounts of the substances in the system. For the study of explosive chemicals, the processes are not necessarily isothermal and isobaric. For these studies, Helmholtz free energy is used.</p>
+<p>If an isolated system (<i>Q</i> = 0) is at constant pressure (<i>Q</i> = Δ<i>H</i>), then</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>H</mi>
+<mo>=</mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta H=0\,}</annotation>
+</semantics>
+</math></span><img alt="\Delta H=0\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ae4c68a2649ce1117083ec4bcaae88ad621f853c" style="vertical-align: -0.338ex; width:8.689ex; height:2.343ex;" /></span></dd>
+</dl>
+<p>Therefore, the Gibbs free energy of an isolated system is</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>G</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>S</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta G=-T\Delta S\,}</annotation>
+</semantics>
+</math></span><img alt="\Delta G=-T\Delta S\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1be90aae1bcd3d45a692ab61f79c2e9e3ea624ea" style="vertical-align: -0.338ex; width:14.201ex; height:2.343ex;" /></span></dd>
+</dl>
+<p>and if Δ<i>G</i> ≤ 0 then this implies that Δ<i>S</i> ≥ 0, back to where we started the derivation of Δ<i>G.</i></p>
+<h2><span class="mw-headline" id="Useful_identities_to_derive_the_Nernst_equation">Useful identities to derive the Nernst equation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=8" title="Edit section: Useful identities to derive the Nernst equation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox mbox-small-left ambox-style ambox-confusing" role="presentation">
+<tr>
+<td class="mbox-image"><img alt="" data-file-height="48" data-file-width="48" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/20px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/30px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png 2x" width="20" /></td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>may be <a href="/wiki/Wikipedia:Vagueness" title="Wikipedia:Vagueness">confusing or unclear</a> to readers</b>. In particular, the physical situation is not explained. Also, the circle notation is not well explained (even in the one case where it is attempted). It's just bare equations. <small><i>(March 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>During a reversible electrochemical reaction at constant temperature and pressure, the following equations involving the Gibbs free energy hold:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mi>G</mi>
+<mo>=</mo>
+<msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<msup>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>R</mi>
+<mi>T</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta _{r}G=\Delta _{r}G^{\circ }+RT\ln Q_{r}\,}</annotation>
+</semantics>
+</math></span><img alt="\Delta _{r}G=\Delta _{r}G^{\circ }+RT\ln Q_{r}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4cecbfc879e784deed450bc5a473e5070156d98e" style="vertical-align: -0.671ex; width:25.923ex; height:2.676ex;" /></span> (see <a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">chemical equilibrium</a>)</dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<msup>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>R</mi>
+<mi>T</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>K</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta _{r}G^{\circ }=-RT\ln K\,}</annotation>
+</semantics>
+</math></span><img alt="\Delta _{r}G^{\circ }=-RT\ln K\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7df1c67bb01ee586c7e7634a3fec7a9de0f428f5" style="vertical-align: -0.671ex; width:19.373ex; height:2.676ex;" /></span> (for a system at chemical equilibrium)</dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mi>G</mi>
+<mo>=</mo>
+<msub>
+<mi>w</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>l</mi>
+<mi>e</mi>
+<mi>c</mi>
+<mo>,</mo>
+<mi>r</mi>
+<mi>e</mi>
+<mi>v</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>n</mi>
+<mi>F</mi>
+<mi>E</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta _{r}G=w_{elec,rev}=-nFE\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta _{r}G=w_{elec,rev}=-nFE\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e9ce6a52e27e86d8d175b8435273579199662209" style="vertical-align: -1.005ex; width:25.593ex; height:3.009ex;" /></span> (for a reversible electrochemical process at constant temperature and pressure)</dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<msup>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>n</mi>
+<mi>F</mi>
+<msup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta _{r}G^{\circ }=-nFE^{\circ }\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta _{r}G^{\circ }=-nFE^{\circ }\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c056a797cf20a079679a025fe564f8a51c93bfb2" style="vertical-align: -0.671ex; width:17.163ex; height:2.676ex;" /></span> (definition of <i>E°</i>)</dd>
+</dl>
+<p>and rearranging gives</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+<mi>F</mi>
+<msup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mo>=</mo>
+<mi>R</mi>
+<mi>T</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>K</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle nFE^{\circ }=RT\ln K\,}</annotation>
+</semantics>
+</math></span><img alt="nFE^{\circ }=RT\ln K\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/972d2515723ea5a34503574b45cd2f0b1492e602" style="vertical-align: -0.338ex; width:17.75ex; height:2.343ex;" /></span></dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+<mi>F</mi>
+<mi>E</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mi>F</mi>
+<msup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mi>R</mi>
+<mi>T</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle nFE=nFE^{\circ }-RT\ln Q_{r}\,\,}</annotation>
+</semantics>
+</math></span><img alt="nFE=nFE^{\circ }-RT\ln Q_{r}\,\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/772bdb23fd4199c6f6247cc72006b8650caf410c" style="vertical-align: -0.671ex; width:26.684ex; height:2.676ex;" /></span></dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<msup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mi>F</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=E^{\circ }-{\frac {RT}{nF}}\ln Q_{r}\,\,}</annotation>
+</semantics>
+</math></span><img alt="E=E^{\circ }-{\frac {RT}{nF}}\ln Q_{r}\,\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5c406362c1d7aa5a928078812960e4c7662af562" style="vertical-align: -2.005ex; width:21.208ex; height:5.509ex;" /></span></dd>
+</dl>
+<p>which relates the cell potential resulting from the reaction to the equilibrium constant and <a href="/wiki/Reaction_quotient" title="Reaction quotient">reaction quotient</a> for that reaction (<a href="/wiki/Nernst_equation" title="Nernst equation">Nernst equation</a>).</p>
+<p>where</p>
+<ul>
+<li>Δ<sub>r</sub><i>G</i> = Gibbs free energy change per mole of reaction</li>
+<li>Δ<sub>r</sub><i>G°</i> = Gibbs free energy change per mole of reaction for unmixed reactants and products at standard conditions</li>
+<li><i>R</i> = <a href="/wiki/Gas_constant" title="Gas constant">gas constant</a></li>
+<li><i>T</i> = absolute <a href="/wiki/Temperature" title="Temperature">temperature</a> (in K)</li>
+<li>ln = <a href="/wiki/Natural_logarithm" title="Natural logarithm">natural logarithm</a></li>
+<li><i>Q<sub>r</sub></i> = <a href="/wiki/Reaction_quotient" title="Reaction quotient">reaction quotient</a> (unitless)</li>
+<li><i>K</i> = <a href="/wiki/Equilibrium_constant" title="Equilibrium constant">equilibrium constant</a> (unitless)</li>
+<li><i>w</i><sub>elec,rev</sub> = <a href="/wiki/Work_(electrical)" title="Work (electrical)">electrical work</a> in a reversible process (chemistry sign convention)</li>
+<li><i>n</i> = number of <a href="/wiki/Mole_(unit)" title="Mole (unit)">moles</a> of <a class="mw-redirect" href="/wiki/Electrons" title="Electrons">electrons</a> transferred in the reaction</li>
+<li><i>F</i> = <a href="/wiki/Faraday_constant" title="Faraday constant">Faraday constant</a> = 96485 C/mol (charge per <a href="/wiki/Mole_(unit)" title="Mole (unit)">mole</a> of electrons)</li>
+<li><i>E</i> = <a href="/wiki/Electrode_potential" title="Electrode potential">cell potential</a> (in V)</li>
+<li><i>E°</i> = <a href="/wiki/Standard_electrode_potential" title="Standard electrode potential">standard cell potential</a> (in V)</li>
+</ul>
+<p>Moreover, we also have:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<msup>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{eq}=e^{-{\frac {\Delta _{r}G^{\circ }}{RT}}}}</annotation>
+</semantics>
+</math></span><img alt="K_{eq}=e^{-{\frac {\Delta _{r}G^{\circ }}{RT}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/52dc1fb911441cb240bf6dedcd9bd9204928ff02" style="vertical-align: -1.005ex; width:14.03ex; height:4.676ex;" /></span></dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<msup>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>R</mi>
+<mi>T</mi>
+<mo stretchy="false">(</mo>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mn>2.303</mn>
+<mspace width="thinmathspace"></mspace>
+<mi>R</mi>
+<mi>T</mi>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>log</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta _{r}G^{\circ }=-RT(\ln K_{eq})=-2.303\,RT(\log _{10}K_{eq})}</annotation>
+</semantics>
+</math></span><img alt="\Delta _{r}G^{\circ }=-RT(\ln K_{eq})=-2.303\,RT(\log _{10}K_{eq})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e3cee791f56b5ba8189b1c8c35714081d5459ce1" style="vertical-align: -1.005ex; width:47.055ex; height:3.009ex;" /></span></dd>
+</dl>
+<p>which relates the equilibrium constant with Gibbs free energy.</p>
+<h2><span class="mw-headline" id="Gibbs_free_energy.2C_the_second_law_of_thermodynamics.2C_and_metabolism">Gibbs free energy, the second law of thermodynamics, and metabolism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=9" title="Edit section: Gibbs free energy, the second law of thermodynamics, and metabolism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A chemical reaction will (or can) proceed spontaneously if the change in the total entropy of the universe that would be caused by the reaction is nonnegative. As discussed in the overview, if the temperature and pressure are held constant, the Gibbs free energy is a (negative) proxy for the change in total entropy of the universe. It is "negative" because <i>S</i> appears with a negative coefficient in the expression for <i>G</i>, so the Gibbs free energy moves in the opposite direction from the total entropy. Thus, a reaction with a positive Gibbs free energy will not proceed spontaneously. However, in biological systems (among others), energy inputs from other energy sources (including the sun and exothermic chemical reactions) are "coupled" with reactions that are not entropically favored (i.e. have a Gibbs free energy above zero). Taking into account the coupled reactions, the total entropy in the universe increases. This coupling allows endergonic reactions, such as photosynthesis and DNA synthesis, to proceed without decreasing the total entropy of the universe. Thus biological systems do not violate the second law of thermodynamics.</p>
+<h2><span class="mw-headline" id="Standard_energy_change_of_formation">Standard energy change of formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=10" title="Edit section: Standard energy change of formation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Standard_Gibbs_free_energy_of_formation" title="Standard Gibbs free energy of formation">standard Gibbs free energy of formation</a> of a compound is the change of Gibbs free energy that accompanies the formation of 1 <a href="/wiki/Mole_(unit)" title="Mole (unit)">mole</a> of that substance from its component elements, at their <a href="/wiki/Standard_state" title="Standard state">standard states</a> (the most stable form of the element at 25 degrees Celsius and 100 <a class="mw-redirect" href="/wiki/Kilopascal" title="Kilopascal">kilopascals</a>). Its symbol is Δ<sub>f</sub><i>G</i>˚.</p>
+<p>All <i>elements</i> in their standard states (diatomic <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> gas, <a href="/wiki/Graphite" title="Graphite">graphite</a>, etc.) have standard Gibbs free energy change of formation equal to zero, as there is no change involved.</p>
+<dl>
+<dd>Δ<sub>f</sub><i>G</i> = Δ<sub>f</sub><i>G</i>˚ + <i>RT</i> ln <i>Q<sub>f</sub></i> ; <i>Q<sub>f</sub></i> is the <a href="/wiki/Reaction_quotient" title="Reaction quotient">reaction quotient</a>.</dd>
+</dl>
+<p>At equilibrium, Δ<sub>f</sub><i>G</i> = 0 and <i>Q<sub>f</sub></i> = <i>K</i> so the equation becomes Δ<sub>f</sub><i>G</i>˚ = −<i>RT</i> ln <i>K</i>; <i>K</i> is the <a href="/wiki/Equilibrium_constant" title="Equilibrium constant">equilibrium constant</a>.</p>
+<h3><span class="mw-headline" id="Table_of_selected_substances.5B17.5D">Table of selected substances<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=11" title="Edit section: Table of selected substances[17]">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th>Substance</th>
+<th>State</th>
+<th>Δ<sub>f</sub><i>G°</i>(<a class="mw-redirect" href="/wiki/Joule_(unit)" title="Joule (unit)">kJ</a>/<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a>)</th>
+<th>Δ<sub>f</sub><i>G°</i>(<a class="mw-redirect" href="/wiki/Kilocalorie" title="Kilocalorie">kcal</a>/<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a>)</th>
+</tr>
+<tr>
+<td>NO</td>
+<td>g</td>
+<td>87.6</td>
+<td>20.9</td>
+</tr>
+<tr>
+<td>NO<sub>2</sub></td>
+<td>g</td>
+<td>51.3</td>
+<td>12.3</td>
+</tr>
+<tr>
+<td>N<sub>2</sub>O</td>
+<td>g</td>
+<td>103.7</td>
+<td>24.78</td>
+</tr>
+<tr>
+<td>H<sub>2</sub>O</td>
+<td>g</td>
+<td>-228.6</td>
+<td>−54.64</td>
+</tr>
+<tr>
+<td>H<sub>2</sub>O</td>
+<td>l</td>
+<td>-237.1</td>
+<td>−56.67</td>
+</tr>
+<tr>
+<td>CO<sub>2</sub></td>
+<td>g</td>
+<td>-394.4</td>
+<td>−94.26</td>
+</tr>
+<tr>
+<td>CO</td>
+<td>g</td>
+<td>-137.2</td>
+<td>−32.79</td>
+</tr>
+<tr>
+<td>CH<sub>4</sub></td>
+<td>g</td>
+<td>-50.5</td>
+<td>−12.1</td>
+</tr>
+<tr>
+<td>C<sub>2</sub>H<sub>6</sub></td>
+<td>g</td>
+<td>-32.0</td>
+<td>−7.65</td>
+</tr>
+<tr>
+<td>C<sub>3</sub>H<sub>8</sub></td>
+<td>g</td>
+<td>-23.4</td>
+<td>−5.59</td>
+</tr>
+<tr>
+<td>C<sub>6</sub>H<sub>6</sub></td>
+<td>g</td>
+<td>129.7</td>
+<td>29.76</td>
+</tr>
+<tr>
+<td>C<sub>6</sub>H<sub>6</sub></td>
+<td>l</td>
+<td>124.5</td>
+<td>31.00</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Calphad" title="Calphad">Calphad</a></li>
+<li><a href="/wiki/Electron_equivalent" title="Electron equivalent">Electron equivalent</a></li>
+<li><a class="mw-redirect" href="/wiki/Enthalpy-entropy_compensation" title="Enthalpy-entropy compensation">Enthalpy-entropy compensation</a></li>
+<li><a href="/wiki/Free_entropy" title="Free entropy">Free entropy</a></li>
+<li><a href="/wiki/Grand_potential" title="Grand potential">Grand potential</a></li>
+<li><a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">Thermodynamic free energy</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=13" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Greiner, Walter; Neise, Ludwig; Stöcker, Horst (1995). <i>Thermodynamics and statistical mechanics</i>. Springer-Verlag. p. 101.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGibbs+free+energy&amp;rft.aufirst=Walter&amp;rft.aulast=Greiner&amp;rft.au=Neise%2C+Ludwig&amp;rft.au=St%C3%B6cker%2C+Horst&amp;rft.btitle=Thermodynamics+and+statistical+mechanics&amp;rft.date=1995&amp;rft.genre=book&amp;rft.pages=101&amp;rft.pub=Springer-Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Perrot-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Perrot_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Perrot_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Perrot_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Perrot, Pierre (1998). <i>A to Z of Thermodynamics</i>. Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-856552-6" title="Special:BookSources/0-19-856552-6">0-19-856552-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGibbs+free+energy&amp;rft.aufirst=Pierre&amp;rft.aulast=Perrot&amp;rft.btitle=A+to+Z+of+Thermodynamics&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=0-19-856552-6&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">J.W. Gibbs, "A Method of Geometrical Representation of the Thermodynamic Properties of Substances by Means of Surfaces," <i>Transactions of the Connecticut Academy of Arts and Sciences</i> 2, Dec. 1873, pp. 382-404 (quotation on p. 400).</span></li>
+<li id="cite_note-AtkinsJones2007-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-AtkinsJones2007_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Peter Atkins; Loretta Jones (1 August 2007). <i>Chemical Principles: The Quest for Insight</i>. W. H. Freeman. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-4292-0965-6" title="Special:BookSources/978-1-4292-0965-6">978-1-4292-0965-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGibbs+free+energy&amp;rft.au=Loretta+Jones&amp;rft.au=Peter+Atkins&amp;rft.btitle=Chemical+Principles%3A+The+Quest+for+Insight&amp;rft.date=2007-08-01&amp;rft.genre=book&amp;rft.isbn=978-1-4292-0965-6&amp;rft.pub=W.+H.+Freeman&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Reiss, Howard (1965). <i>Methods of Thermodynamics</i>. Dover Publications. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-486-69445-3" title="Special:BookSources/0-486-69445-3">0-486-69445-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGibbs+free+energy&amp;rft.aufirst=Howard&amp;rft.aulast=Reiss&amp;rft.btitle=Methods+of+Thermodynamics&amp;rft.date=1965&amp;rft.genre=book&amp;rft.isbn=0-486-69445-3&amp;rft.pub=Dover+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">International Union of Pure and Applied Chemistry</a> Commission on Atmospheric Chemistry, J. G. (1990). <a class="external text" href="http://goldbook.iupac.org/publications/pac/1990/pdf/6211x2167.html" rel="nofollow">"Glossary of Atmospheric Chemistry Terms (Recommendations 1990)"</a>. <i><a href="/wiki/Pure_and_Applied_Chemistry" title="Pure and Applied Chemistry">Pure Appl. Chem.</a></i> <b>62</b> (11): 2167–2219. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1351%2Fpac199062112167" rel="nofollow">10.1351/pac199062112167</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-12-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGibbs+free+energy&amp;rft.atitle=Glossary+of+Atmospheric+Chemistry+Terms+%28Recommendations+1990%29&amp;rft.aufirst=J.+G.&amp;rft.aulast=International+Union+of+Pure+and+Applied+Chemistry+Commission+on+Atmospheric+Chemistry&amp;rft.date=1990&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fgoldbook.iupac.org%2Fpublications%2Fpac%2F1990%2Fpdf%2F6211x2167.html&amp;rft_id=info%3Adoi%2F10.1351%2Fpac199062112167&amp;rft.issue=11&amp;rft.jtitle=Pure+Appl.+Chem.&amp;rft.pages=2167-2219&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=62"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">International Union of Pure and Applied Chemistry</a> Commission on Physicochemical Symbols Terminology and Units (1993). <a class="external text" href="http://goldbook.iupac.org/home/publications/e-resources/nomenclature-and-terminology/quantities-units-and-symbols-in-physical-chemistry-green-book.html" rel="nofollow"><i>Quantities, Units and Symbols in Physical Chemistry (2nd Edition)</i></a>. Oxford: Blackwell Scientific Publications. p. 251. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-632-03583-8" title="Special:BookSources/0-632-03583-8">0-632-03583-8</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-20</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGibbs+free+energy&amp;rft.au=International+Union+of+Pure+and+Applied+Chemistry+Commission+on+Physicochemical+Symbols+Terminology+and+Units&amp;rft.btitle=Quantities%2C+Units+and+Symbols+in+Physical+Chemistry+%282nd+Edition%29&amp;rft.date=1993&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fgoldbook.iupac.org%2Fhome%2Fpublications%2Fe-resources%2Fnomenclature-and-terminology%2Fquantities-units-and-symbols-in-physical-chemistry-green-book.html&amp;rft.isbn=0-632-03583-8&amp;rft.pages=251&amp;rft.place=Oxford&amp;rft.pub=Blackwell+Scientific+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">International Union of Pure and Applied Chemistry</a> Commission on Quantities and Units in Clinical Chemistry, H. P.; <a class="new" href="/w/index.php?title=International_Federation_of_Clinical_Chemistry_Laboratory_Medicine&amp;action=edit&amp;redlink=1" title="International Federation of Clinical Chemistry Laboratory Medicine (page does not exist)">International Federation of Clinical Chemistry Laboratory Medicine</a> Committee on Quantities and Units (1996). <a class="external text" href="http://goldbook.iupac.org/publications/pac/1996/pdf/6804x0957.html" rel="nofollow">"Glossary of Terms in Quantities and Units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)"</a>. <i><a href="/wiki/Pure_and_Applied_Chemistry" title="Pure and Applied Chemistry">Pure Appl. Chem.</a></i> <b>68</b> (4): 957–1000. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1351%2Fpac199668040957" rel="nofollow">10.1351/pac199668040957</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-12-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGibbs+free+energy&amp;rft.atitle=Glossary+of+Terms+in+Quantities+and+Units+in+Clinical+Chemistry+%28IUPAC-IFCC+Recommendations+1996%29&amp;rft.aufirst=H.+P.&amp;rft.au=International+Federation+of+Clinical+Chemistry+Laboratory+Medicine+Committee+on+Quantities+and+Units&amp;rft.aulast=International+Union+of+Pure+and+Applied+Chemistry+Commission+on+Quantities+and+Units+in+Clinical+Chemistry&amp;rft.date=1996&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fgoldbook.iupac.org%2Fpublications%2Fpac%2F1996%2Fpdf%2F6804x0957.html&amp;rft_id=info%3Adoi%2F10.1351%2Fpac199668040957&amp;rft.issue=4&amp;rft.jtitle=Pure+Appl.+Chem.&amp;rft.pages=957-1000&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=68"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Gibbs1873-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gibbs1873_9-0">^</a></b></span> <span class="reference-text">J.W. Gibbs, "A Method of Geometrical Representation of the Thermodynamic Properties of Substances by Means of Surfaces," <i>Transactions of the Connecticut Academy of Arts and Sciences</i> 2, Dec. 1873, pp. 382-404 .</span></li>
+<li id="cite_note-Leicester1971-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Leicester1971_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Henry Marshall Leicester (1971). <i>The Historical Background of Chemistry</i>. Courier Corporation. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-486-61053-5" title="Special:BookSources/978-0-486-61053-5">978-0-486-61053-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGibbs+free+energy&amp;rft.au=Henry+Marshall+Leicester&amp;rft.btitle=The+Historical+Background+of+Chemistry&amp;rft.date=1971&amp;rft.genre=book&amp;rft.isbn=978-0-486-61053-5&amp;rft.pub=Courier+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">James Clerk Maxwell, Elizabeth Garber, Stephen G. Brush, and C. W. Francis Everitt (1995), <i><a class="external text" href="https://books.google.com/books?id=hA-oIDR0eXkC&amp;pg=PA248" rel="nofollow">Maxwell on heat and statistical mechanics: on "avoiding all personal enquiries" of molecules</a></i>, Lehigh University Press, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0934223343">ISBN 0-934223-34-3</a>, p. 248.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a class="external text" href="http://goldbook.iupac.org/C01032.html" rel="nofollow">Chemical Potential</a> - IUPAC Gold Book</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Müller, Ingo (2007). <i>A History of Thermodynamics - the Doctrine of Energy and Entropy</i>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-540-46226-2" title="Special:BookSources/978-3-540-46226-2">978-3-540-46226-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGibbs+free+energy&amp;rft.aufirst=Ingo&amp;rft.aulast=M%C3%BCller&amp;rft.btitle=A+History+of+Thermodynamics+-+the+Doctrine+of+Energy+and+Entropy&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-3-540-46226-2&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Katchalsky, A.; Curran, Peter F. (1965). <i>Nonequilibrium Thermodynamics in Biophysics</i>. <a href="/wiki/Harvard_University_Press" title="Harvard University Press">Harvard University Press</a>. CCN 65-22045.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGibbs+free+energy&amp;rft.au=Curran%2C+Peter+F.&amp;rft.aufirst=A.&amp;rft.aulast=Katchalsky&amp;rft.btitle=Nonequilibrium+Thermodynamics+in+Biophysics&amp;rft.date=1965&amp;rft.genre=book&amp;rft.pub=Harvard+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Salzman2001-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Salzman2001_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Salzman2001_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Salzman2001_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Salzman, William R. (2001-08-21). <a class="external text" href="https://web.archive.org/web/20070707224025/http://www.chem.arizona.edu/~salzmanr/480a/480ants/opensys/opensys.html" rel="nofollow">"Open Systems"</a>. <i>Chemical Thermodynamics</i>. <a href="/wiki/University_of_Arizona" title="University of Arizona">University of Arizona</a>. Archived from <a class="external text" href="http://www.chem.arizona.edu/~salzmanr/480a/480ants/opensys/opensys.html" rel="nofollow">the original</a> on 2007-07-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-10-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGibbs+free+energy&amp;rft.atitle=Open+Systems&amp;rft.aufirst=William+R.&amp;rft.aulast=Salzman&amp;rft.date=2001-08-21&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.chem.arizona.edu%2F~salzmanr%2F480a%2F480ants%2Fopensys%2Fopensys.html&amp;rft.jtitle=Chemical+Thermodynamics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brachman, M. K. (1954). "Fermi Level, Chemical Potential, and Gibbs Free Energy". <i>The Journal of Chemical Physics</i>. <b>22</b> (6): 1152–1151. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1954JChPh..22.1152B" rel="nofollow">1954JChPh..22.1152B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1063%2F1.1740312" rel="nofollow">10.1063/1.1740312</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGibbs+free+energy&amp;rft.atitle=Fermi+Level%2C+Chemical+Potential%2C+and+Gibbs+Free+Energy&amp;rft.aufirst=M.+K.&amp;rft.aulast=Brachman&amp;rft.date=1954&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1954JChPh..22.1152B&amp;rft_id=info%3Adoi%2F10.1063%2F1.1740312&amp;rft.issue=6&amp;rft.jtitle=The+Journal+of+Chemical+Physics&amp;rft.pages=1152-1151&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=22"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">CRC Handbook of Chemistry and Physics, 2009, pp. 5-4 - 5-42, 90th ed., Lide</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gibbs_free_energy&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://goldbook.iupac.org/goldbook/G02629.html" rel="nofollow">IUPAC definition (Gibbs energy)</a></li>
+<li><a class="external text" href="http://www.fxsolver.com/solve/share/DMJI1n0mVCIyv_6uYuRIig==/" rel="nofollow">Gibbs free energy calculator</a></li>
+<li><a class="external text" href="http://wine1.sb.fsu.edu/chm1046/notes/Thermody/Gibbs/Gibbs.htm" rel="nofollow">Gibbs energy</a> - Florida State University</li>
+<li><a class="external text" href="http://scienceworld.wolfram.com/physics/GibbsFreeEnergy.html" rel="nofollow">Gibbs Free Energy</a> - Eric Weissteins World of Physics</li>
+<li><a class="external text" href="http://2ndlaw.oxy.edu/gibbs.html" rel="nofollow">Entropy and Gibbs Free Energy</a> - www.2ndlaw.oxy.edu</li>
+<li><a class="external text" href="http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/helmholtz.html#c2" rel="nofollow">Gibbs Free Energy</a> - Georgia State University</li>
+<li><a class="external text" href="http://mc2.cchem.berkeley.edu/Java/Gibbs/Gibbs.html" rel="nofollow">Gibbs Free Energy Java Applet</a> - University of California, Berkeley</li>
+<li><a class="external text" href="http://www.composite-agency.com/product.htm" rel="nofollow">Using Gibbs Free Energy for prediction of chemical driven material ageing</a></li>
+</ul>
+<div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><img alt="" data-file-height="512" data-file-width="512" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Papapishu-Lab-icon-6.svg/21px-Papapishu-Lab-icon-6.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Papapishu-Lab-icon-6.svg/32px-Papapishu-Lab-icon-6.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Papapishu-Lab-icon-6.svg/42px-Papapishu-Lab-icon-6.svg.png 2x" width="21" /></span><a href="/wiki/Portal:Chemistry" title="Portal:Chemistry">Chemistry portal</a></span></li>
+</ul>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:238181-0!*!0!!en!4!*!math=5 and timestamp 20161108014800 and revision id 748405732
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1" /></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gibbs_free_energy&amp;oldid=748405732">https://en.wikipedia.org/w/index.php?title=Gibbs_free_energy&oldid=748405732</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Concepts_in_physics" title="Category:Concepts in physics">Concepts in physics</a></li><li><a href="/wiki/Category:State_functions" title="Category:State functions">State functions</a></li><li><a href="/wiki/Category:Thermodynamic_free_energy" title="Category:Thermodynamic free energy">Thermodynamic free energy</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2016" title="Category:Wikipedia articles needing clarification from October 2016">Wikipedia articles needing clarification from October 2016</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_March_2015" title="Category:Wikipedia articles needing clarification from March 2015">Wikipedia articles needing clarification from March 2015</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_needing_clarification" title="Category:All Wikipedia articles needing clarification">All Wikipedia articles needing clarification</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

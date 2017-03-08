@@ -1,0 +1,647 @@
+Cellulosicethanol
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Cellulosic ethanol is ethanol (ethyl alcohol) produced from cellulose (the stringy fiber of a plant) rather than from the plant's seeds or fruit. It is a biofuel produced from grasses, wood, algae, or other plants. The fibrous parts of the plants are mostly inedible to animals, including humans, except for ruminants (grazing, cud-chewing animals such as cows or sheep).
+Considerable interest in cellulosic ethanol exists because it has the potential for strong economic importance. Growth of cellulose by plants is a mechanism that captures and stores solar energy chemically in nontoxic ways with resultant supplies that are easy to transport and store. Additionally, transport may be unneeded anyway, because grasses or trees can grow almost anywhere temperate. This is why commercially practical cellulosic ethanol is widely viewed as a next level of development for the biofuel industry that could reduce demand for oil and gas drilling and even nuclear power in ways that grain-based ethanol fuel alone cannot. Potential exists for the many benefits of carbonaceous liquid fuels and petrochemicals (which today's standard of living depends on) but in a carbon cyclebalanced and renewable way (recycling surface and atmosphere carbon instead of pumping underground carbon up into it and thus adding to it). Commercially practical cellulosic alcohol could also avoid one of the problems with today's conventional (grain-based) biofuels, which is that they set up competition for grain with food purposes, potentially driving up the price of food. To date, what stands in the way of these goals is that production of cellulosic alcohol is not yet sufficiently practical on a commercial scale.
+Contents
+1 Overview
+2 History
+3 Production methods
+3.1 Cellulolysis (biological approach)
+3.1.1 Pretreatment
+3.1.2 Cellulolytic processes
+3.1.2.1 Chemical hydrolysis
+3.1.2.2 Enzymatic hydrolysis
+3.1.3 Microbial fermentation
+3.1.4 Combined hydrolysis and fermentation
+3.2 Gasification process (thermochemical approach)
+4 Hemicellulose to ethanol
+5 Economics
+6 Enzyme-cost barrier
+7 Feedstocks
+8 Environmental effects
+9 Croplands
+10 Corn-based vs. grass-based
+11 Cellulosic ethanol commercialization
+12 See also
+13 References
+14 External links
+Overview[edit]
+Cellulosic ethanol is a type of biofuel produced from lignocellulose, a structural material that comprises much of the mass of plants. Lignocellulose is composed mainly of cellulose, hemicellulose and lignin. Corn stover, Panicum virgatum (switchgrass), Miscanthus grass species, wood chips and the byproducts of lawn and tree maintenance are some of the more popular cellulosic materials for ethanol production. Production of ethanol from lignocellulose has the advantage of abundant and diverse raw material compared to sources such as corn and cane sugars, but requires a greater amount of processing to make the sugar monomers available to the microorganisms typically used to produce ethanol by fermentation.
+Switchgrass and Miscanthus are the major biomass materials being studied today, due to their high productivity per acre. Cellulose, however, is contained in nearly every natural, free-growing plant, tree, and bush, in meadows, forests, and fields all over the world without agricultural effort or cost needed to make it grow.
+One of the benefits of cellulosic ethanol is it reduces greenhouse gas emissions (GHG) by 85% over reformulated gasoline.[1] By contrast, starch ethanol (e.g., from corn), which most frequently uses natural gas to provide energy for the process, may not reduce GHG emissions at all depending on how the starch-based feedstock is produced.[2] According to the National Academy of Sciences in 2011, there is no commercially viable bio-refinery in existence to convert lignocellulosic biomass to fuel.[3] Absence of production of cellulosic ethanol in the quantities required by the regulation was the basis of a United States Court of Appeals for the District of Columbia decision announced January 25, 2013, voiding a requirement imposed on car and truck fuel producers in the United States by the Environmental Protection Agency requiring addition of cellulosic biofuels to their products.[4] These issues, along with many other difficult production challenges, led George Washington University policy researchers to state that "in the short term, [cellulosic] ethanol cannot meet the energy security and environmental goals of a gasoline alternative."[5]
+History[edit]
+The French chemist, Henri Braconnot, was the first to discover that cellulose could be hydrolyzed into sugars by treatment with sulfuric acid in 1819.[6] The hydrolyzed sugar could then be processed to form ethanol through fermentation. The first commercialized ethanol production began in Germany in 1898, where acid was used to hydrolyze cellulose. In the United States, the Standard Alcohol Company opened the first cellulosic ethanol production plant in South Carolina in 1910. Later, a second plant was opened in Louisiana. However, both plants were closed after World War I due to economic reasons.[7]
+The first attempt at commercializing a process for ethanol from wood was done in Germany in 1898. It involved the use of dilute acid to hydrolyze the cellulose to glucose, and was able to produce 7.6 liters of ethanol per 100kg of wood waste (18USgal (68L) per ton). The Germans soon developed an industrial process optimized for yields of around 50 US gallons (190L) per ton of biomass. This process soon found its way to the US, culminating in two commercial plants operating in the southeast during World War I. These plants used what was called "the American Process"  a one-stage dilute sulfuric acid hydrolysis. Though the yields were half that of the original German process (25 US gallons (95L) of ethanol per ton versus 50), the throughput of the American process was much higher. A drop in lumber production forced the plants to close shortly after the end of World War I. In the meantime, a small but steady amount of research on dilute acid hydrolysis continued at the USFS's Forest Products Laboratory.[8][9][10] During World War II, the US again turned to cellulosic ethanol, this time for conversion to butadiene to produce synthetic rubber. The Vulcan Copper and Supply Company was contracted to construct and operate a plant to convert sawdust into ethanol. The plant was based on modifications to the original German Scholler process as developed by the Forest Products Laboratory. This plant achieved an ethanol yield of 50USgal (190L) per dry ton, but was still not profitable and was closed after the war.[11]
+With the rapid development of enzyme technologies in the last two decades, the acid hydrolysis process has gradually been replaced by enzymatic hydrolysis. Chemical pretreatment of the feedstock is required to prehydrolyze (separate) hemicellulose, so it can be more effectively converted into sugars. The dilute acid pretreatment is developed based on the early work on acid hydrolysis of wood at the USFS's Forest Products Laboratory. Recently, the Forest Products Laboratory together with the University of WisconsinMadison developed a sulfite pretreatment to overcome the recalcitrance of lignocellulose[12] for robust enzymatic hydrolysis of wood cellulose.
+US President George W. Bush, in his State of the Union address delivered January 31, 2006, proposed to expand the use of cellulosic ethanol. In his State of the Union Address on January 23, 2007, President Bush announced a proposed mandate for 35billion US gallons (130,000,000m3) of ethanol by 2017. It is widely recognized that the maximum production of ethanol from corn starch is 15billion US gallons (57,000,000m3) per year, implying a proposed mandate for production of some 20billion US gallons (76,000,000m3) more per year of cellulosic ethanol by 2017. Bush's proposed plan includes $2 billion funding (from 2007 to 2017?) for cellulosic ethanol plants, with an additional $1.6 billion (from 2007 to 2017?) announced by the USDA on January 27, 2007.
+In March 2007, the US government awarded $385 million in grants aimed at jump-starting ethanol production from nontraditional sources like wood chips, switchgrass, and citrus peels. Half of the six projects chosen will use thermochemical methods and half will use cellulosic ethanol methods.[13]
+The American company Range Fuels announced in July 2007 that it was awarded a construction permit from the state of Georgia to build the first commercial-scale 100-million-US-gallon (380,000m3)-per-year cellulosic ethanol plant in the US.[14] Construction began in November, 2007.[15] The Range Fuels plant was built in Soperton, GA, but was shut down in January 2011, without ever having produced any ethanol. It had received a $76 million grant from the US Department of Energy, plus $6 million from the State of Georgia, plus an $80 million loan guaranteed by the U.S. Biorefinery Assistance Program.[16]
+Production methods[edit]
+Bioreactor for cellulosic ethanol research.
+The two ways of producing ethanol from cellulose are:
+Cellulolysis processes which consist of hydrolysis on pretreated lignocellulosic materials, using enzymes to break complex cellulose into simple sugars such as glucose, followed by fermentation and distillation.
+Gasification that transforms the lignocellulosic raw material into gaseous carbon monoxide and hydrogen. These gases can be converted to ethanol by fermentation or chemical catalysis.
+As is normal for pure ethanol production, these methods include distillation.
+Cellulolysis (biological approach)[edit]
+The stages to produce ethanol using a biological approach are:[12]
+A "pretreatment" phase, to make the lignocellulosic material such as wood or straw amenable to hydrolysis
+Cellulose hydrolysis (that is, cellulolysis) with cellulases, to break down the molecules into sugars
+Separation of the sugar solution from the residual materials, notably lignin
+Microbial fermentation of the sugar solution
+Distillation to produce roughly 95% pure alcohol
+Dehydration by molecular sieves to bring the ethanol concentration to over 99.5%
+In 2010, a genetically engineered yeast strain was developed to produce its own cellulose-digesting enzymes.[17] Assuming this technology can be scaled to industrial levels, it would eliminate one or more steps of cellulolysis, reducing both the time required and costs of production.
+Pretreatment[edit]
+Although lignocellulose is the most abundant plant material resource, its usability is curtailed by its rigid structure. As a result, an effective pretreatment is needed to liberate the cellulose from the lignin seal and its crystalline structure so as to render it accessible for a subsequent hydrolysis step.[18] By far, most pretreatments are done through physical or chemical means. To achieve higher efficiency, both physical and chemical pretreatments are required. Physical pretreatment is often called size reduction to reduce biomass physical size. Chemical pretreatment is to remove chemical barriers so the enzymes can have access to cellulose for microbial reactions.
+To date, the available pretreatment techniques include acid hydrolysis, steam explosion, ammonia fiber expansion, organosolv, sulfite pretreatment,[12] AVAP (SO2-ethanol-water) fractionation,[19] alkaline wet oxidation and ozone pretreatment.[20] Besides effective cellulose liberation, an ideal pretreatment has to minimize the formation of degradation products because of their inhibitory effects on subsequent hydrolysis and fermentation processes.[21] The presence of inhibitors will not only further complicate the ethanol production but also increase the cost of production due to entailed detoxification steps. Even though pretreatment by acid hydrolysis is probably the oldest and most studied pretreatment technique, it produces several potent inhibitors including furfural and hydroxymethyl furfural (HMF) which are by far regarded as the most toxic inhibitors present in lignocellulosic hydrolysate.[22] Ammonia Fiber Expansion (AFEX) is a promising pretreatment with no inhibitory effect in resulting hydrolysate.[23]
+Most pretreatment processes are not effective when applied to feedstocks with high lignin content, such as forest biomass. Organosolv, SPORL ('sulfite pretreatment to overcome recalcitrance of lignocellulose') and SO2-ethanol-water (AVAP) processes are the three processes that can achieve over 90% cellulose conversion for forest biomass, especially those of softwood species. SPORL is the most energy efficient (sugar production per unit energy consumption in pretreatment) and robust process for pretreatment of forest biomass with very low production of fermentation inhibitors. Organosolv pulping is particularly effective for hardwoods and offers easy recovery of a hydrophobic lignin product by dilution and precipitation.[24] AVAP process effectively fractionates all types of lignocellulosics into clean highly digestible cellulose, undegraded hemicellulose sugars, reactive lignin and lignosulfonates, and is characterized by efficient recovery of chemicals.[25][26]
+Cellulolytic processes[edit]
+The cellulose molecules are composed of long chains of sugar molecules. In the hydrolysis of cellulose (that is, cellulolysis), these chains are broken down to free the sugar before it is fermented for alcohol production.
+There are two major cellulose hydrolysis (cellulolysis) processes: a chemical reaction using acids, or an enzymatic reaction use cellulases.
+Chemical hydrolysis[edit]
+In the traditional methods developed in the 19th century and at the beginning of the 20th century, hydrolysis is performed by attacking the cellulose with an acid.[27] Dilute acid may be used under high heat and high pressure, or more concentrated acid can be used at lower temperatures and atmospheric pressure. A decrystalized cellulosic mixture of acid and sugars reacts in the presence of water to complete individual sugar molecules (hydrolysis). The product from this hydrolysis is then neutralized and yeast fermentation is used to produce ethanol. As mentioned, a significant obstacle to the dilute acid process is that the hydrolysis is so harsh that toxic degradation products are produced that can interfere with fermentation. BlueFire Renewables uses concentrated acid because it does not produce nearly as many fermentation inhibitors, but must be separated from the sugar stream for recycle [simulated moving bed (SMB) chromatographic separation, for example] to be commercially attractive.
+Agricultural Research Service scientists found they can access and ferment almost all of the remaining sugars in wheat straw. The sugars are located in the plants cell walls, which are notoriously difficult to break down. To access these sugars, scientists pretreated the wheat straw with alkaline peroxide, and then used specialized enzymes to break down the cell walls. This method produced 93 US gallons (350L) of ethanol per ton of wheat straw. [1]
+Enzymatic hydrolysis[edit]
+Cellulose chains can be broken into glucose molecules by cellulase enzymes.
+This reaction occurs at body temperature in the stomachs of ruminants such as cattle and sheep, where the enzymes are produced by microbes. This process uses several enzymes at various stages of this conversion. Using a similar enzymatic system, lignocellulosic materials can be enzymatically hydrolyzed at a relatively mild condition (50C and pH 5), thus enabling effective cellulose breakdown without the formation of byproducts that would otherwise inhibit enzyme activity. All major pretreatment methods, including dilute acid, require an enzymatic hydrolysis step to achieve high sugar yield for ethanol fermentation.[23] Currently, most pretreatment studies have been laboratory-based, but companies are exploring means to transition from the laboratory to pilot, or production scale.
+Various enzyme companies have also contributed significant technological breakthroughs in cellulosic ethanol through the mass production of enzymes for hydrolysis at competitive prices.
+The fungus Trichoderma reesei is used by Iogen Corporation to secrete "specially engineered enzymes" for an enzymatic hydrolysis process.[28] Their raw material (wood or straw) has to be pre-treated to make it amenable to hydrolysis.
+Another Canadian company, SunOpta, uses steam explosion pretreatment, providing its technology to Verenium (formerly Celunol Corporation)'s facility in Jennings, Louisiana, Abengoa's facility in Salamanca, Spain, and a China Resources Alcohol Corporation in Zhaodong. The CRAC production facility uses corn stover as raw material.[29]
+Genencor and Novozymes have received United States Department of Energy funding for research into reducing the cost of cellulases, key enzymes in the production of cellulosic ethanol by enzymatic hydrolysis. A recent breakthrough in this regard was the discovery and inclusion of lytic polysaccharide monooxygenases. These enzymes are capable of boosting significantly the action of other cellulases by oxidatively attacking a polysaccharide substrate.[30]
+Other enzyme companies, such as Dyadic International,[31] are developing genetically engineered fungi which would produce large volumes of cellulase, xylanase and hemicellulase enzymes, which can be used to convert agricultural residues such as corn stover, distiller grains, wheat straw and sugarcane bagasse and energy crops such as switchgrass into fermentable sugars which may be used to produce cellulosic ethanol.
+In 2010, BP Biofuels bought out the cellulosic ethanol venture share of Verenium, which had itself been formed by the merger of Diversa and Celunol, and with which it jointly owned and operated a 1.4-million-US-gallon (5,300m3) per year demonstration plant in Jennings, LA, and the laboratory facilities and staff in San Diego, CA. BP Biofuels continues to operate these facilities, and has begun first phases to construct commercial facilities. Ethanol produced in the Jennings facility was shipped to London and blended with gasoline to provide fuel for the Olympics.
+KL Energy Corporation,[32] formerly KL Process Design Group, began commercial operation of a 1.5-million-US-gallon (5,700m3) per year cellulosic ethanol facility in Upton, WY in the last quarter of 2007. The Western Biomass Energy facility is currently achieving yields of 4045 US gallons (150170L) per dry ton. It is the first operating commercial cellulosic ethanol facility in the nation. The KL Energy process uses a thermomechanical breakdown and enzymatic conversion process. The primary feedstock is soft wood, but lab tests have already proven the KL Energy process on wine pomace, sugarcane bagasse, municipal solid waste, and switchgrass.
+Microbial fermentation[edit]
+Main article: Ethanol fermentation
+Traditionally, bakers yeast (Saccharomyces cerevisiae), has long been used in the brewery industry to produce ethanol from hexoses (six-carbon sugars). Due to the complex nature of the carbohydrates present in lignocellulosic biomass, a significant amount of xylose and arabinose (five-carbon sugars derived from the hemicellulose portion of the lignocellulose) is also present in the hydrolysate. For example, in the hydrolysate of corn stover, approximately 30% of the total fermentable sugars is xylose. As a result, the ability of the fermenting microorganisms to use the whole range of sugars available from the hydrolysate is vital to increase the economic competitiveness of cellulosic ethanol and potentially biobased proteins.
+In recent years, metabolic engineering for microorganisms used in fuel ethanol production has shown significant progress.[33] Besides Saccharomyces cerevisiae, microorganisms such as Zymomonas mobilis and Escherichia coli have been targeted through metabolic engineering for cellulosic ethanol production.
+Recently, engineered yeasts have been described efficiently fermenting xylose,[34][35] and arabinose,[36] and even both together.[37] Yeast cells are especially attractive for cellulosic ethanol processes because they have been used in biotechnology for hundreds of years, are tolerant to high ethanol and inhibitor concentrations and can grow at low pH values to reduce bacterial contamination.
+Combined hydrolysis and fermentation[edit]
+Some species of bacteria have been found capable of direct conversion of a cellulose substrate into ethanol. One example is Clostridium thermocellum, which uses a complex cellulosome to break down cellulose and synthesize ethanol. However, C.thermocellum also produces other products during cellulose metabolism, including acetate and lactate, in addition to ethanol, lowering the efficiency of the process. Some research efforts are directed to optimizing ethanol production by genetically engineering bacteria that focus on the ethanol-producing pathway.[38]
+Gasification process (thermochemical approach)[edit]
+Fluidized Bed Gasifier in Gssing Burgenland Austria
+The gasification process does not rely on chemical decomposition of the cellulose chain (cellulolysis). Instead of breaking the cellulose into sugar molecules, the carbon in the raw material is converted into synthesis gas, using what amounts to partial combustion. The carbon monoxide, carbon dioxide and hydrogen may then be fed into a special kind of fermenter. Instead of sugar fermentation with yeast, this process uses Clostridium ljungdahlii bacteria.[39] This microorganism will ingest carbon monoxide, carbon dioxide and hydrogen and produce ethanol and water. The process can thus be broken into three steps:
+Gasification  Complex carbon-based molecules are broken apart to access the carbon as carbon monoxide, carbon dioxide and hydrogen
+Fermentation  Convert the carbon monoxide, carbon dioxide and hydrogen into ethanol using the Clostridium ljungdahlii organism
+Distillation  Ethanol is separated from water
+A recent study has found another Clostridium bacterium that seems to be twice as efficient in making ethanol from carbon monoxide as the one mentioned above.[40]
+Alternatively, the synthesis gas from gasification may be fed to a catalytic reactor where it is used to produce ethanol and other higher alcohols through a thermochemical process.[41] This process can also generate other types of liquid fuels, an alternative concept successfully demonstrated by the Montreal-based company Enerkem at their facility in Westbury, Quebec.[42]
+Hemicellulose to ethanol[edit]
+Studies are intensively conducted to develop economic methods to convert both cellulose and hemicellulose to ethanol. Fermentation of glucose, the main product of cellulose hydrolyzate, to ethanol is an already established and efficient technique. However, conversion of xylose, the pentose sugar of hemicellulose hydrolyzate, is a limiting factor, especially in the presence of glucose. Moreover, it cannot be disregarded as hemicellulose will increase the efficiency and cost-effectiveness of cellulosic ethanol production.[43]
+Sakamoto (2012) et al. show the potential of genetic engineering microbes to express hemicellulase enzymes. The researchers created a recombinant Saccharomyces cerevisiae strain that was able to:
+hydrolyze hemicellulase through codisplaying endoxylanase on its cell surface,
+assimilate xylose by expression of xylose reductase and xylitol dehydrogenase.
+The strain was able to convert rice straw hydrolyzate to ethanol, which contains hemicellulosic components. Moreover, it was able to produce 2.5x more ethanol than the control strain, showing the highly effective process of cell surface-engineering to produce ethanol.[43]
+Economics[edit]
+The shift to a renewable fuel resource has been a target for many years now. However, most of its production is with the use of corn ethanol. In the year 2000, there was only 6.2 billion liters produced in the United States and it has expanded over 800% to 50 billion litres in just a decade (2010).[44] Government pressures to shift to renewable fuel resources has been apparent since the U.S Environmental Protection Agency has implemented the 2007 Renewable Fuel Standard (RFS) to use a percentage of renewable fuel in products or face penalties. The shift to cellulosic ethanol production instead of corn has been strongly promoted by the US government.[45] Even with these policies in place and the government attempting to create a market for cellulose ethanol, there was no commercial production of this fuel in 2010 and 2011.[46] The Energy Independence and Security Act originally set goals of 100 million, 250 million and 500 million gallons for the years 2010, 2011 and 2012 respectively. However, as of 2012 it was projected that the production of cellulosic ethanol would be approximately 10.5 million far from its target.[46] In 2007 alone, the US government provided 1 billion US dollars for cellulosic ethanol projects, while China invested 500 million US dollars into cellulosic ethanol research.[47]
+Due to the lack of existing commercialized plant data, it is difficult to determine the exact method of production that will be most commonly employed. Model systems try to compare different technologies costs, however these models cannot be applied to commercial-plant costs. Currently, there are many pilot and demonstration facilities open that show cellulosic production on a smaller scale. These main facilities are summarized in the table below.
+Start-up costs for pilot scale lignocellulosic ethanol plants are high. On 28 February 2007, the U.S. Dept. of Energy announced $385 million in grant funding to six cellulosic ethanol plants.[48] This grant funding accounts for 40% of the investment costs. The remaining 60% comes from the promoters of those facilities. Hence, a total of $1billion will be invested for approximately 140-million-US-gallon (530,000m3) capacity. This translates into $7/annual gallon production capacity in capital investment costs for pilot plants; future capital costs are expected to be lower. Corn-to-ethanol plants cost roughly $13/annual gallon capacity, though the cost of the corn itself is considerably greater than for switchgrass or waste biomass.[49][50]
+As of 2007, ethanol is produced mostly from sugars or starches, obtained from fruits and grains. In contrast, cellulosic ethanol is obtained from cellulose, the main component of wood, straw, and much of the structure of plants. Since cellulose cannot be digested by humans, the production of cellulose does not compete with the production of food, other than conversion of land from food production to cellulose production (which has recently started to become an issue, due to rising wheat prices.) The price per ton of the raw material is thus much cheaper than that of grains or fruits. Moreover, since cellulose is the main component of plants, the whole plant can be harvested. This results in much better yieldsup to 10 short tons per acre (22t/ha), instead of 4-5 short tons/acre (911t/ha) for the best crops of grain.[citation needed]
+The raw material is plentiful. An estimated 323 million tons of cellulose-containing raw materials which could be used to create ethanol are thrown away each year in US alone. This includes 36.8 million dry tons of urban wood wastes, 90.5 million dry tons of primary mill residues, 45 million dry tons of forest residues, and 150.7million dry tons of corn stover and wheat straw.[51] Transforming them into ethanol using efficient and cost-effective hemi(cellulase) enzymes or other processes might provide as much as 30% of the current fuel consumption in the United States.[citation needed] Moreover, even land marginal for agriculture could be planted with cellulose-producing crops, such as switchgrass, resulting in enough production to substitute for all the current oil imports into the United States.[52]
+Paper, cardboard, and packaging comprise a substantial part of the solid waste sent to landfills in the United States each day, 41.26% of all organic municipal solid waste (MSW) according to California Integrated Waste Management Board's city profiles.[citation needed] These city profiles account for accumulation of 612.3 short tons (555.5t) daily per landfill where an average population density of 2,413 per square mile persists. All these, except gypsum board, contain cellulose, which is transformable into cellulosic ethanol.[51] This may have additional environmental benefits because decomposition of these products produces methane, a potent greenhouse gas.[53]
+Reduction of the disposal of solid waste through cellulosic ethanol conversion would reduce solid waste disposal costs by local and state governments. It is estimated that each person in the US throws away 4.4lb (2.0kg) of trash each day, of which 37% contains waste paper, which is largely cellulose. That computes to 244thousand tons per day of discarded waste paper that contains cellulose.[54] The raw material to produce cellulosic ethanol is not only free, it has a negative costi.e., ethanol producers can get paid to take it away.[55]
+In June 2006, a U.S. Senate hearing was told the current cost of producing cellulosic ethanol is US $2.25 per US gallon (US $0.59/litre), primarily due to the current poor conversion efficiency.[citation needed] At that price, it would cost about $120 to substitute a barrel of oil (42 US gallons (160L)), taking into account the lower energy content of ethanol. However, the Department of Energy is optimistic and has requested a doubling of research funding. The same Senate hearing was told the research target was to reduce the cost of production to US $1.07 per US gallon (US $0.28/litre) by 2012. "The production of cellulosic ethanol represents not only a step toward true energy diversity for the country, but a very cost-effective alternative to fossil fuels. It is advanced weaponry in the war on oil," said Vinod Khosla, managing partner of Khosla Ventures, who recently told a Reuters Global Biofuels Summit that he could see cellulosic fuel prices sinking to $1per gallon within ten years.
+In September 2010, a report by Bloomberg analyzed the European biomass infrastructure and future refinery development. Estimated prices for a litre of ethanol in August 2010 are EUR 0.51 for 1g and 0.71 for 2g.[clarification needed] The report suggested Europe should copy the current US subsidies of up to $50 per dry tonne.[56]
+Recently on October 25, 2012, BP, one of the leaders in fuel products, announced the cancellation of their proposed $350 million commercial-scale plant. It was estimated that the plant would be producing 36 million gallons a year at its location in Highlands County of Florida. BP has still provided 500 million US dollars for biofuel research at the Energy Biosciences Institute.[57] General Motors (GM) has also invested into cellulosic companies more specifically Mascoma and Coskata.[47] There are many other companies in construction or heading towards it. Abengoa [2] is building a 25 million-gallon per year plant in \ technology platform based on the fungus Myceliophthora thermophila to convert lignocellulose into fermentable sugars. Poet is also in midst of producing a 200 million dollar, 25-million-gallon per year in Emmetsburg, Iowa. Mascoma now partnered with Valero has declared their intention to build a 20 million gallon per year in Kinross, Michigan.[57] China Alcohol Resource Corporation has developed a 6.4 million liter cellulosic ethanol plant under continuous operation.[57]
+Also, since 2013, the Brazilian company GranBio is working to become a producer of biofuels and biochemicals. The family-held company is commissioning a 82 million liters per year (22 MMgy) cellulosic ethanol plant (2G ethanol) in the state of Alagoas, Brazil, which will be the first industrial facility of the group.[58] GranBio's second generation ethanol facility is integrated to a first generation ethanol plant operated by Grupo Carlos Lyra, uses process technology from Beta Renewables, enzymes from Novozymes and yeast from DSM. Breaking ground in January 2013, the plant is in final commissioning. According to GranBio Annual Financial Records, the total investment was 208 million US Dollars.[59]
+Enzyme-cost barrier[edit]
+Cellulases and hemicellulases used in the production of cellulosic ethanol are more expensive compared to their first generation counterparts. Enzymes required for maize grain ethanol production cost 2.64-5.28 US dollars per cubic meter of ethanol produced. Enzymes for cellulosic ethanol production are projected to cost 79.25 US dollars, meaning they are 20-40 times more expensive.[47] The cost differences are attributed to quantity required. The cellulase family of enzymes have a one to two order smaller magnitude of efficiency. Therefore, it requires 40 to 100 times more of the enzyme to be present in its production. For each ton of biomass it requires 15-25 kilograms of enzyme.[60] More recent estimates[61] are lower, suggesting 1kg of enzyme per dry tonne of biomass feedstock. There is also relatively high capital costs associated with the long incubation times for the vessel that perform enzymatic hydrolysis. Altogether, enzymes comprise a significant portion of 20-40% for cellulosic ethanol production. A recent paper[61] estimates the range at 13-36% of cash costs, with a key factor being how the cellulase enzyme is produced. For cellulase produced offsite, enzyme production amounts to 36% of cash cost. For enzyme produced onsite in a separate plant, the fraction is 29%; for integrated enzyme production, the faction is 13%. One of the key benefits of integrated production is that biomass instead of glucose is the enzyme growth medium. Biomass costs less, and it makes the resulting cellulosic ethanol a 100% second-generation biofuel, i.e., it uses no food for fuel.
+Feedstocks[edit]
+In general there are two types of feedstocks: forest (woody) Biomass and agricultural biomass. In the US, about 1.4 billion dry tons of biomass can be sustainably produced annually. About 370 million tons or 30% are forest biomass.[62] Forest biomass has higher cellulose and lignin content and lower hemicellulose and ash content than agricultural biomass. Because of the difficulties and low ethanol yield in fermenting pretreatment hydrolysate, especially those with very high 5 carbon hemicellulose sugars such as xylose, forest biomass has significant advantages over agricultural biomass. Forest biomass also has high density which significantly reduces transportation cost. It can be harvested year around which eliminates long term storage. The close to zero ash content of forest biomass significantly reduces dead load in transportation and processing. To meet the needs for biodiversity, forest biomass will be an important biomass feedstock supply mix in the future biobased economy. However, forest biomass is much more recalcitrant than agricultural biomass. Recently, the USDA Forest Products Laboratory together with the University of WisconsinMadison developed efficient technologies[12][63] that can overcome the strong recalcitrance of forest (woody) biomass including those of softwood species that have low xylan content. Short-rotation intensive culture or tree farming can offer an almost unlimited opportunity for forest biomass production.[64]
+Woodchips from slashes and tree tops and saw dust from saw mills, and waste paper pulp are common forest biomass feedstocks for cellulosic ethanol production.[65]
+The following are a few examples of agricultural biomass:
+Switchgrass (Panicum virgatum) is a native tallgrass prairie grass. Known for its hardiness and rapid growth, this perennial grows during the warm months to heights of 26feet. Switchgrass can be grown in most parts of the United States, including swamplands, plains, streams, and along the shores & interstate highways. It is self-seeding (no tractor for sowing, only for mowing), resistant to many diseases and pests, & can produce high yields with low applications of fertilizer and other chemicals. It is also tolerant to poor soils, flooding, & drought; improves soil quality and prevents erosion due its type of root system.[66]
+Switchgrass is an approved cover crop for land protected under the federal Conservation Reserve Program (CRP). CRP is a government program that pays producers a fee for not growing crops on land on which crops recently grew. This program reduces soil erosion, enhances water quality, and increases wildlife habitat. CRP land serves as a habitat for upland game, such as pheasants and ducks, and a number of insects. Switchgrass for biofuel production has been considered for use on Conservation Reserve Program (CRP) land, which could increase ecological sustainability and lower the cost of the CRP program. However, CRP rules would have to be modified to allow this economic use of the CRP land.[66]
+Miscanthus  giganteus is another viable feedstock for cellulosic ethanol production. This species of grass is native to Asia and is the sterile triploid hybrid of Miscanthus sinensis and Miscanthus sacchariflorus. It can grow up to 12 feet (3.7m) tall with little water or fertilizer input. Miscanthus is similar to switchgrass with respect to cold and drought tolerance and water use efficiency. Miscanthus is commercially grown in the European Union as a combustible energy source.
+Corn cobs and corn stover are the most popular agricultural biomass.
+It has been suggested that Kudzu may become a valuable source of biomass.[67]
+Environmental effects[edit]
+The environmental impact from the production of fuels is an important factor in determining its feasibility as an alternative to fossil fuels. Over the long run, small differences in production cost, environmental ramifications, and energy output may have large effects. It has been found that cellulosic ethanol can produce a positive net energy output.[68] The reduction in green house gas (GHG) emissions from corn ethanol and cellulosic ethanol compared with fossil fuels is drastic. Corn ethanol may reduce overall GHG emissions by about 13%, while that figure is around 88% or greater for cellulosic ethanol.[69][70] As well, cellulosic ethanol can reduce carbon dioxide emissions to nearly zero.[71]
+Croplands[edit]
+A major concern for the viability of current alternative fuels is the cropland needed to produce the required materials. For example, the production of corn for corn ethanol fuel competes with cropland that may be used for food growth and other feedstocks.[72] The difference between this and cellulosic ethanol production is that cellulosic material is widely available and is derived from a large resource of things. Some crops used for cellulosic ethanol production include switchgrass, corn stover, and hybrid poplar.[69] These crops are fast-growing and can be grown on many types of land which makes them more versatile. Cellulosic ethanol can also be made from wood residues (chips and sawdust), municipal solid waste such as trash or garbage, paper and sewage sludge, cereal straws and grasses.[71] It is particularly the non-edible portions of plant material which are used to make cellulosic ethanol, which also minimizes the potential cost of using food products in production.[73]
+The effectiveness of growing crops for the purpose of biomass can vary tremendously depending on the geographical location of the plot. For example, factors such as precipitation and sunlight exposure may greatly effect the energy input required to maintain the crops, and therefore effect the overall energy output.[74] A study done over five years showed that growing and managing switchgrass exclusively as a biomass energy crop can produce 500% or more renewable energy than is consumed during production.[74] The levels of GHG emissions and carbon dioxide were also drastically decreased from using cellulosic ethanol compared with traditional gasoline.
+Corn-based vs. grass-based[edit]
+See also: Environmental and social impacts of ethanol fuel in the U.S., Indirect land use change impacts of biofuels, and Low-carbon fuel standard
+Summary of Searchinger et al.
+comparison of corn ethanol and gasoline GHG emissions
+with and without land use change
+(Grams of CO2released per megajoule of energy in fuel)[75][76]
+Fuel type
+(U.S.)
+Carbon
+intensity
+Reduction
+GHG
+Carbon
+intensity
++ ILUC
+Reduction
+GHG
+Gasoline
+92
+-
+92
+-
+Corn ethanol
+74
+-20%
+177
++93%
+Cellulosic ethanol
+28
+-70%
+138
++50%
+Notes: Calculated using default assumptions for 2015 scenario for ethanol in E85.
+Gasoline is a combination of conventional and reformulated gasoline.[76]
+In 2008, there was only a small amount of switchgrass dedicated for ethanol production. In order for it to be grown on a large-scale production it must compete with existing uses of agricultural land, mainly for the production of crop commodities. Of the United States' 2.26billion acres (9.1million km2) of unsubmerged land,[77] 33% are forestland, 26% pastureland and grassland, and 20% crop land. A study done by the U.S. Departments of Energy and Agriculture in 2005 determined whether there were enough available land resources to sustain production of over 1billion dry tons of biomass annually to replace 30% or more of the nations current use of liquid transportation fuels. The study found that there could be 1.3billion dry tons of biomass available for ethanol use, by making little changes in agricultural and forestry practices and meeting the demands for forestry products, food, and fiber.[78] A recent study done by the University of Tennessee reported that as many as 100million acres (400,000km2, or 154,000sqmi) of cropland and pasture will need to be allocated to switchgrass production in order to offset petroleum use by 25percent.[citation needed]
+The neutrality of this article is disputed. Relevant discussion may be found on the talk page. Please do not remove this message until conditions to do so are met. (October 2013) (Learn how and when to remove this template message)
+Currently, corn is easier and less expensive to process into ethanol in comparison to cellulosic ethanol. The Department of Energy estimates that it costs about $2.20 per gallon to produce cellulosic ethanol, which is twice as much as ethanol from corn. Enzymes that destroy plant cell wall tissue cost 30 to 50cents per gallon of ethanol compared to 3cents per gallon for corn.[citation needed] The Department of Energy hopes to reduce production cost to $1.07 per gallon by 2012 to be effective. However, cellulosic biomass is cheaper to produce than corn, because it requires fewer inputs, such as energy, fertilizer, herbicide, and is accompanied by less soil erosion and improved soil fertility. Additionally, nonfermentable and unconverted solids left after making ethanol can be burned to provide the fuel needed to operate the conversion plant and produce electricity. Energy used to run corn-based ethanol plants is derived from coal and natural gas. The Institute for Local Self-Reliance estimates the cost of cellulosic ethanol from the first generation of commercial plants will be in the $1.90$2.25 per gallon range, excluding incentives. This compares to the current cost of $1.20$1.50 per gallon for ethanol from corn and the current retail price of over $4.00 per gallon for regular gasoline (which is subsidized and taxed).[79]
+One of the major reasons for increasing the use of biofuels is to reduce greenhouse gas emissions.[80] In comparison to gasoline, ethanol burns cleaner, thus putting less carbon dioxide and overall pollution in the air[citation needed]. Additionally, only low levels of smog are produced from combustion.[81] According to the U.S. Department of Energy, ethanol from cellulose reduces greenhouse gas emission by 86percent when compared to gasoline and to corn-based ethanol, which decreases emissions by 52percent.[82] Carbon dioxide gas emissions are shown to be 85%lower than those from gasoline. Cellulosic ethanol contributes little to the greenhouse effect and has a five times better net energy balance than corn-based ethanol.[81] When used as a fuel, cellulosic ethanol releases less sulfur, carbon monoxide, particulates, and greenhouse gases. Cellulosic ethanol should earn producers carbon reduction credits, higher than those given to producers who grow corn for ethanol, which is about 3 to 20cents per gallon.[83]
+It takes 0.76 J of energy from fossil fuels to produce 1 J worth of ethanol from corn.[84] This total includes the use of fossil fuels used for fertilizer, tractor fuel, ethanol plant operation, etc. Research has shown that fossil fuel can produce over five times the volume of ethanol from prairie grasses, according to Terry Riley, President of Policy at the Theodore Roosevelt Conservation Partnership. The United States Department of Energy concludes that corn-based ethanol provides 26percent more energy than it requires for production, while cellulosic ethanol provides 80percent more energy.[85] Cellulosic ethanol yields 80 percent more energy than is required to grow and convert it.[86] The process of turning corn into ethanol requires about 1700 times (by volume) as much water as ethanol produced.[dubious  discuss] Additionally, it leaves 12 times its volume in waste.[87] Grain ethanol uses only the edible portion of the plant.
+U.S. Environmental Protection Agency
+Draft life cycle GHG emissions reduction results
+for different time horizon and discount rate approaches[88]
+(includes indirect land use change effects)
+Fuel Pathway
+100 years +
+2% discount
+rate
+30 years +
+0% discount
+rate
+Corn ethanol (natural gas dry mill)(1)
+-16%
++5%
+Corn ethanol (Best case NG DM)(2)
+-39%
+-18%
+Corn ethanol (coal dry mill)
++13%
++34%
+Corn ethanol (biomass dry mill)
+-39%
+-18%
+Corn ethanol (biomass dry mill with
+combined heat and power)
+-47%
+-26%
+Brazilian sugarcane ethanol
+-44%
+-26%
+Cellulosic ethanol from switchgrass
+-128%
+-124%
+Cellulosic ethanol from corn stover
+-115%
+-116%
+Notes: (1) Dry mill (DM) plants grind the entire kernel and generally produce
+only one primary co-product: distillers grains with solubles (DGS).
+(2) Best case plants produce wet distillers grains co-product.
+Cellulose is not used for food and can be grown in all parts of the world. The entire plant can be used when producing cellulosic ethanol. Switchgrass yields twice as much ethanol per acre than corn.[85] Therefore, less land is needed for production and thus less habitat fragmentation. Biomass materials require fewer inputs, such as fertilizer, herbicides, and other chemicals that can pose risks to wildlife. Their extensive roots improve soil quality, reduce erosion, and increase nutrient capture. Herbaceous energy crops reduce soil erosion by greater than 90%, when compared to conventional commodity crop production. This can translate into improved water quality for rural communities. Additionally, herbaceous energy crops add organic material to depleted soils and can increase soil carbon, which can have a direct effect on climate change, as soil carbon can absorb carbon dioxide in the air.[89][90] As compared to commodity crop production, biomass reduces surface runoff and nitrogen transport. Switchgrass provides an environment for diverse wildlife habitation, mainly insects and ground birds. Conservation Reserve Program (CRP) land is composed of perennial grasses, which are used for cellulosic ethanol, and may be available for use.
+For years American farmers have practiced row cropping, with crops such as sorghum and corn. Because of this, much is known about the effect of these practices on wildlife. The most significant effect of increased corn ethanol would be the additional land that would have to be converted to agricultural use and the increased erosion and fertilizer use that goes along with agricultural production. Increasing our ethanol production through the use of corn could produce negative effects on wildlife, the magnitude of which will depend on the scale of production and whether the land used for this increased production was formerly idle, in a natural state, or planted with other row crops. Another consideration is whether to plant a switchgrass monoculture or use a variety of grasses and other vegetation. While a mixture of vegetation types likely would provide better wildlife habitat, the technology has not yet developed to allow the processing of a mixture of different grass species or vegetation types into bioethanol. Of course, cellulosic ethanol production is still in its infancy, and the possibility of using diverse vegetation stands instead of monocultures deserves further exploration as research continues.[91]
+A study by Nobel Prize winner Paul Crutzen found ethanol produced from corn had a "net climate warming" effect when compared to oil when the full life cycle assessment properly considers the nitrous oxide (N20) emissions that occur during corn ethanol production. Crutzen found that crops with less nitrogen demand, such as grasses and woody coppice species, have more favourable climate impacts.[92]
+Cellulosic ethanol commercialization[edit]
+Main article: Cellulosic ethanol commercialization
+Cellulosic ethanol commercialization is the process of building an industry out of methods of turning cellulose-containing organic matter into fuel. Companies such as Iogen, POET, and Abengoa are building refineries that can process biomass and turn it into ethanol, while companies such as DuPont, Diversa, Novozymes, and Dyadic are producing enzymes which could enable a cellulosic ethanol future. The shift from food crop feedstocks to waste residues and native grasses offers significant opportunities for a range of players, from farmers to biotechnology firms, and from project developers to investors.[93]
+The cellulosic ethanol industry developed some new commercial-scale plants in 2008. In the United States, plants totaling 12 million liters (3.17 million gal) per year were operational, and an additional 80 million liters (21.1 million gal.) per year of capacity - in 26 new plants - was under construction. In Canada, capacity of 6 million liters per year was operational. In Europe, several plants were operational in Germany, Spain, and Sweden, and capacity of 10 million liters per year was under construction.[94]
+Italy-based Mossi & Ghisolfi Group broke ground for its 13 MMgy cellulosic ethanol facility in northwestern Italy on April 12, 2011. The project will be the largest cellulosic ethanol project in the world, 10 times larger than any of the currently operating demonstration-scale facilities.[95]
+Commercial Cellulosic Ethanol Plants in the U.S.[96][97]
+(Operational or under construction)
+Company
+Location
+Feedstock
+Abengoa Bioenergy
+Hugoton, KS
+Wheat straw
+BlueFire Ethanol
+Irvine, CA
+Multiple sources
+Colusa Biomass Energy Corporation
+Sacramento, CA
+Waste rice straw
+Coskata
+Warrenville, IL
+Biomass, Agricultural and Municipal wastes
+DuPont
+Vonore, TN
+Corn cobs, switchgrass
+DuPont
+Nevada, IA
+Corn stover
+Fulcrum BioEnergy
+Reno, NV
+Municipal solid waste
+Gulf Coast Energy
+Mossy Head, FL
+Wood waste
+KL Energy Corp.
+Upton, WY
+Wood
+Mascoma
+Lansing, MI
+Wood
+POET-DSM Advanced Biofuels
+Emmetsburg, IA
+Corn cobs, husks, and stover[98]
+Range Fuels[99]
+Treutlen County, GA
+Wood waste
+SunOpta
+Little Falls, MN
+Wood chips
+SweetWater Energy
+Rochester, NY
+Multiple Sources
+US Envirofuels
+Highlands County, FL
+Sweet sorghum
+Xethanol
+Auburndale, FL
+Citrus peels
+See also[edit]
+Renewable energy portal
+Energy portal
+Algae fuel
+Biofuel
+Biorefinery
+Butanol
+Butanol fuel
+Candida tropicalis
+Carbon Negative
+Cellulosic ethanol commercialization
+Cellulosome
+China Resources Alcohol Corporation
+Coskata
+Clonostachys rosea f. rosea
+Ethanol
+Life cycle assessment
+Iogen Corp.
+Methanol
+Methanol fuel
+Non food crops
+Range Fuels
+SunOpta
+Thermophilic
+Thomas Friedman
+Treethanol
+Verenium Corporation
+References[edit]
+^ Updated Energy and Greenhouse Gas Emissions Results of Fuel Ethanol
+^ "Clean cars, cool fuels". 5 (2). Environment California. 2007. Retrieved 2007-11-28.
+^ National Research Council of the National Academies (2011), Renewable Fuel Standard: Potential Economic and Environmental Effects of U.S. Biofuel Policy, Washington, D.C.: The National Academies Press, p.3 of "Summary", ISBN978-0-309-18751-0
+^ Matthew L. Wald (January 25, 2013). "Court Overturns E.P.A.'s Biofuels Mandate". The New York Times. Retrieved January 26, 2013. wishful thinking rather than realistic estimates
+^ Somma D, Lobkowicz H, Deason JP (2010). "Growing America's fuel: an analysis of corn and cellulosic ethanol feasibility in the United States" (PDF). Clean Techn Environ Policy. 12: 373380. doi:10.1007/s10098-009-0234-3.
+^ Braconnot, H. Annalen der Physik. 1819, 63, 348.
+^ Solomon, B. D.; Barnes, J. R.; Halvorsen, K. E. Grain and cellulosic ethanol: History, economics, and energy policy. Biomass and Bioenergy. 2007, 31, 416-425.
+^ Saeman JF. "Kinetics of wood saccharification: Hydrolysis of cellulose and decomposition of sugars in dilute acid at high temperature", Industrial and Engineering Chemistry, 37(1): 4352 (1945).
+^ Harris EE, Beglinger E, Hajny GJ, and Sherrard EC. "Hydrolysis of Wood: Treatment with Sulfuric Acid in a stationary digester", Industrial and Engineering Chemistry, 37(1): 1223 (1945)
+^ Conner AH, Lorenz LF. "Kinetic modeling of hardwood prehydrolysis. PartIII. Water and dilute acetic acid Prehydrolysis of southern red oak, Wood and Fiber Science, 18(2): 248263 (1986).
+^ Katzen, R. and Schell, d.J., "Lignocellulosic feedstock Biorefinery: History and Plant Development for Biomass Hydrolysis", pp 129-138 in Biorefineries - Industrial processes and Products, Volume 1, Kamm, B., Gruber, P.R., and Kamm, M., eds. Wiley-VCH, Weinheim, 2006.
+^ a b c d Zhu JY, Pan XJ, Wang GS, Gleisner R (2009). "Sulfite pretreatment (SPORL) for Robust enzymatic saccharification of spruce and red pine". Bioresource Technology. 100 (8): 24112418. doi:10.1016/j.biortech.2008.10.057. PMID19119005.
+^ Dirk Lammers (2007-03-04). "Gasification may be key to U.S. Ethanol". CBS News. Archived from the original on 2007-11-22. Retrieved 2007-11-28.
+^ "Range Fuels awarded permit to construct the nation's first commercial cellulosic ethanol plant". Range Fuels. 2007-07-02. Archived from the original on 2007-10-12. Retrieved 2007-11-28.
+^ Kathleen Schalch (2007-11-05). "Georgia plant is first for making ethanol from waste". NPR. Retrieved 2007-11-28.
+^ Green-energy plant sucks up subsidies, then goes bust
+^ Galazka, J.; Tian, C.; Beeson, W.; Martinez, B.; Glass, N.; Cate, J. (2010). "Cellodextrin Transport in Yeast for Improved Biofuel Production". Science. 330 (6000): 8486. Bibcode:2010Sci...330...84G. doi:10.1126/science.1192838. PMID20829451.
+^ Mosier N, Wyman C, Dale BE, Elander R, Lee YY, Holtzapple M, Ladisch M (2005) Features of promising technologies for pretreatment of lignocellulosic biomass. Bioresour Technol 96:673-686
+^ Iakovlev, M.; van Heiningen, A. Efficient fractionation of spruce by SO2-Ethanol-Water (SEW) treatment: closed mass balances for carbohydrates and sulfur. ChemSUSChem 2012, 5, 1625-1637. DOI 10.1002/cssc.201100600
+^ Klinke HB, Thomsen AB, Ahring BK (2004). "Inhibition of ethanol-producing yeast and bacteria by degradation products produced during pre-treatment of biomass". Appl Microbiol Biotechnol. 66 (1): 1026. doi:10.1007/s00253-004-1642-2. PMID15300416.
+^ Olsson L, Hahn-Hgerdal B (1996) Fermentation of lignocellulosic hydrolysates for ethanol fermentation. Enzyme Microb Technol 18:312331.
+^ Palmqvist E, Hahn-Hgerdal B (2000) Fermentation of lignocellulosic hydrolysates. I. Inhibition and deoxification. Bioresour Technol 74:1724
+^ a b Lynd LR (1996). Overview and evaluation of fuel ethanol from cellulosic biomass: technology, economics, the environment, and policy. Annu Rev Energy Environ 21:403465.
+^ Organosolv delignification of willow (2010), AL Macfarlane, MM Farid, JJJ Chen, Lambert Academic Press, ISBN 978-3-8383-9155-7
+^ Iakovlev M. SO2-Ethanol-Water Fractionation of Lignocellulosics. Doctoral Thesis, Aalto University, Finland, 2011. http://lib.tkk.fi/Diss/2011/isbn9789526043142/isbn9789526043142.pdf
+^ Retsina T., Pylkkanen V. US 8030039 B1, Method for the production of fermentable sugars and cellulose from lignocellulosic material
+^ Wood Alcohol. Translation from E. Boullanger: Distillerie Agricole et Industrielle (Paris: Ballire, 1924).
+^ "Iogen technology makes it possible (process overview)". Iogen Corp. 2005. Retrieved 2007-11-28.
+^ "Sunopta updates current cellulosic ethanol projects". Sunopta press release, 2007.
+^ Frandsen, Kristian E H; Simmons, Thomas J; Dupree, Paul; Poulsen, Jens-Christian N; Hemsworth, Glyn R; Ciano, Luisa; Johnston, Esther M; Tovborg, Morten; Johansen, Katja S. "The molecular basis of polysaccharide cleavage by lytic polysaccharide monooxygenases". Nature Chemical Biology. doi:10.1038/nchembio.2029.
+^ Dyadic International (DYAI)
+^ Blue Sugars
+^ Jeffries TW, Jin YS (2004). "Metabolic engineering for improved fermentation of pentoses by yeasts". Appl Microbiol Biotechnol. 63 (5): 495509. doi:10.1007/s00253-003-1450-0. PMID14595523.
+^ Brat D, Boles E and Wiedemann B (2009) Functional expression of a bacterila xylose isomerase in Saccharomyces cerevisie. Appl. Environ. Microbiol. doi:10.1128/AEM.02522-08
+^ Ohgren K, Bengtsson O, Gorwa-Grauslund MF, Galbe M, Hahn-Hagerdal B, Zacchi G (2006) Simultaneous saccharification and co-fermentation of glucose and xylose in steam-pretreated corn stover at high fiber content with Saccharomyces cerevisiae TMB3400. J Biotechnol. 126(4):48898.
+^ Becker J, Boles E (2003). "A modified Saccharomyces cerevisiae strain that consumes L-Arabinose and produces ethanol". Appl Environ Microbiol. 69 (7): 414450. doi:10.1128/AEM.69.7.4144-4150.2003. PMC165137. PMID12839792.
+^ Karhumaa K, Wiedemann B, Hahn-Hagerdal B, Boles E, Gorwa-Grauslund MF (2006) Co-utilization of L-arabinose and D-xylose by laboratory and industrial Saccharomyces cerevisiae strains. Microb Cell Fact. 10;5:18.
+^ University of Rochester Press Release: Genome Sequencing Reveals Key to Viable Ethanol Production
+^ "Providing for a Sustainable Energy Future by producing clean RENEWABLE liquid energy and green power". Bioengineering Resources Inc. Retrieved 2007-11-28.
+^ "Formation of Ethanol from Carbon Monoxide via New Microbial Catalyst", Biomass & Energy v. 23 (2002), p. 487493.
+^ "Power Energy Fuels Homepage". Power Energy Fuels, Inc. Retrieved 2007-11-28.
+^ "Westbury, Quebec". Retrieved 2011-07-27.
+^ a b Sakamoto, T.; Hasunuma, T.; Hori, Y.; Yamada, R.; Kondo, A. Direct ethanol production from hemicellulosic materials of rice straw by use of an engineered yeast strain codisplaying three types of hemicellulolytic enzymes on the surface of xylose-utilizing Saccharomyces cerevisiae cells. J. Biotechnol. 2012, 158, 203-210.
+^ Deepak, K., & Ganti, M. Impact of pretreatment and downstream processing technologies on economics and energy in cellulosic ethanol production. Biotechnology for Biofuels, 4
+^ Wald, Matthew L. (2012-01-09). "Companies Face Fines for Not Using Unavailable Biofuel". The New York Times.
+^ a b U.S. Will Be Hard-Pressed to Meet Its Biofuel Mandates | MIT Technology Review
+^ a b c Sainz, M. B. (2011). Commercial cellulosic ethanol: the role of plant-expressed enzymes. Biofuels, 237-264.
+^ "DOE Selects Six Cellulosic Ethanol Plants for Up to $385 Million in Federal Funding". United States Department of Energy. 2007-02-28.
+^ "Feasibility Study for Co-Locating and Integrating Ethanol Production Plants from Corn Starch and Lignocellulosic Feedstocks" (PDF). United States Department of Energy. January 2005. Archived from the original (PDF) on 2007-07-15.
+^ "Determining the Cost of Producing Ethanol from Corn Starch and Lignocellulosic Feedstocks" (PDF). U.S. Department of Agriculture and U.S. Department of Energy. October 2000.
+^ a b "Biomass Resource Estimates".
+^ "Switchgrass Fuel Yields Bountiful Energy: Study". Reuters. January 10, 2008. Retrieved 2008-02-12.
+^ National Geographic Magazine, 'Carbon's New Math', October 2007
+^ [300 million people  4.4lb (2.0kg) per person  37% is paper / 2000 lb per ton]
+^ "Solid Waste Generation" (PDF).
+^ Boyle, Harry et al. Next-generation ethanol and biochemicals page 16, Bloomberg New Energy Finance, 14 September 2010. Retrieved: 14 September 2010.
+^ a b c A Canceled BP Plant Calls into Question Cellulosic Ethanol Economics | MIT Technology Review
+^ http://www.slideshare.net/RonDavisPress/reportagem-granbio-folha-de-sp-092013
+^ http://www.slideshare.net/RonDavisPress/balano-contbil-granbio-2013
+^ Yang, B., & Wyman, C. E. (2007). Pretreatment: the key to unlocking lowcost cellulosic ethanol. Biofuels, Bioproducts and Biorefining, 2(1), 26-40.
+^ a b Johnson, Eric (18 Feb 2016). "Integrated enzyme production lowers the cost of cellulosic ethanol". Biofuels, Bioproducts & Biorefining. doi:10.1002/bbb.1634. Retrieved 3 June 2016.
+^ Perlack, et al. 2005. Biomass as feedstock for a bioenergy and bioproducts Industry: the technical feasibility of a billion-ton annual supply. Oar Ridge National Laboratory Report ORNL/TM-2005/66, US Dept. of Energy, Oak Ridge, TN
+^ Wang GS, Pan XJ, Zhu JY, Gleisner R (2009). "Sulfite pretreatment to overcopme recalcitrabce of lignocellulose (SPORL) for robust Enzymatic Saccharification of hardwoods". Biotechnology Progress. 25 (4): 10861093. doi:10.1002/btpr.206. PMID19551888.
+^ Foody, B.E., Foody, K.J., 1991. Development of an integrated system for producing ethanol from biomass. In: Klass, D.L. (Ed.), Energy from Biomass and Waste. Institute of Gas Technology, Chicago, pp. 1225-1243
+^ Better Bug to Make Cellulosic Ethanol | MIT Technology Review
+^ a b Rinehart, L. (2006). "Switchgrass as a Bioenergy Crop. National Sustainable Agriculture Information Service" (PDF). Retrieved 2007-12-10.
+^ Richard G. Lugar, R. James Woolsey. The New Petroleum. Foreign Affairs. 1999. Vol. 78, No 1. p. 88.
+^ Farrell, A. E.; Plevin, R. J.; Turner, B. T.; Jones, A. D.; OHare, M.; Kammen, D. M. Ethanol can contribute to energy and environmental goals. Science. 2006, 311, 506508
+^ a b Huanga, H.; Ramaswamya, S.; Al-Dajania, W.; Tschirnera, U.; Cairncrossb, R. A. Effect of biomass species and plant size on cellulosic ethanol: A comparative process and economic analysis. Biomass Bioenergy. 2009, 33, 234-246
+^ Wanga, M. Q.; Han, J.; Haq, Z.; Tyner, W. E.; Wua, M.; Elgowainy, A. Energy and greenhouse gas emission effects of corn and cellulosic ethanol with technology improvements and land use changes. Biomass Bioenergy. 2011, 35, 1885-1896
+^ a b Solomon, B. D.; Barnes, J. R.; Halvorson, K. E. Grain and cellulosic ethanol: History, economics, and energy policy. Biomass Bioenergy. 2007, 31, 416425
+^ Brown, L. R. Plan B 2.0: rescuing a plant under stress and a civilization in trouble. New York, USA: W.W. Norton & Company; 2006
+^ Vasudevan, P. T.; Gagnon, M. D.; Briggs, M. S.; Environmentally Sustainable Biofuels  The Case for Biodiesel, Biobutanol and Cellulosic Ethanol. Sustainable Biotechnology. 2010, 43-62
+^ a b Schmer, M. R.; Vogel, K. P.; Mitchell, R. B.; Perrin, R. K. Net energy of cellulosic ethanol from switchgrass. Proc. Natl. Acad. Sci. 2008, 105(2), 464-469
+^ Timothy Searchinger; et al. (2008-02-29). "Use of U.S. Croplands for Biofuels Increases Greenhouse Gases Through Emissions from Land-Use Change". Science. 319 (5867): 12381240. Bibcode:2008Sci...319.1238S. doi:10.1126/science.1151861. PMID18258860. Retrieved 2008-05-09. Originally published online in Science Express on 7 February 2008. See Letters to Science by Wang and Haq. There are critics to these findings for assuming a worst-case scenario.
+^ a b Searchinger; et al. (2008). "Supporting Materials for Use of U.S. Croplands for Biofuels Increases Greenhouse Gases Through Emissions from Land Use Change" (PDF). Princeton University. Retrieved 2009-06-11. Data taken from Table 1B, pp. 21.
+^ The World Fact Book, www.cia.org, 01 May 2008
+^ "Cellulosic Ethanol: Benefits and Challenges. Genomics: GTL". U.S. Department of Energy Office of Science. 2007. Retrieved 2007-12-09.
+^ "Cellulosic ethanol: fuel of the future?" (PDF). ILSR Daily. 2007.
+^ "Cellulosic ethanol: Fuel of the future?". Science Daily. 2007. Retrieved 2007-12-10.
+^ a b Demain A, Newcomb M, Wu D (March 2005). "Cellulase, Clostridia, and Ethanol. Microbiology". Molecular Biology Reviews. 69 (1): 124154. doi:10.1128/MMBR.69.1.124-154.2005. PMC1082790. PMID15755956.
+^ Alternative Fuels Data Center: Ethanol Benefits and Considerations
+^ Weeks, J (2006). "Are We There Yet? Not quite, but cellulosic ethanol may be coming sooner than you think". Grist Magazine. Retrieved 2007-12-08.
+^ Farrell AE; Plevin RJ; Turner BT; Jones AD; OHare M; Kammen DM (2006-01-27). "Ethanol can contribute to energy and environmental goals". Science. 311 (5760): 506508. Bibcode:2006Sci...311..506F. doi:10.1126/science.1121416. PMID16439656.
+^ a b The numbers behind ethanol, cellulosic ethanol, and biodiesel in the U.S. | Grist
+^ Ratliff E (2007). "One molecule could cure our addiction to oil". Wired Magazine. 15 (10).
+^ Marshall B (October 2007). "Gas from the grass". Field and Stream: 4042.
+^ "EPA Lifecycle Analysis of Greenhouse Gas Emissions from Renewable Fuels - Technical Highlights" (PDF). Retrieved 2009-06-07. See Table 1.
+^ Nelson R (2007). "Cellulosic ethanol: bioethanol in Kansas" (PDF). Retrieved 2007-12-09.
+^ Charles W. Rice (2002). "Storing Carbon in Soil: Why and How?". Retrieved 2008-11-10.
+^ BIES L (2006) The Biofuels Explosion: Is Green Energy Good for Wildlife? Wildlife Society Bulletin: Vol. 34, No. 4 pp. 12031205
+^ Crutzen, PJ, Mosier AR, Smith KA, Winiwarter W. "Nitrous oxide release from agro-biofuel production negates global warming reduction by replacing fossil fuels", Atmospheric Chemistry and Physics, 8(2): 389395 (2008).
+^ Pernick, Ron and Wilder, Clint (2007). The Clean Tech Revolution p. 96.
+^ REN21 (2009). Renewables Global Status Report: 2009 Update p. 16.
+^ Kris Bevill (April 12, 2011). "World's largest cellulosic ethanol plant breaks ground in Italy". Ethanol Producer Magazine.
+^ Decker, Jeff. Going Against the Grain: Ethanol from Lignocellulosics, Renewable Energy World, January 22, 2009. Retrieved February 1, 2009.
+^ Building Cellulose
+^ Matthew L. Wald (July 6, 2011). "U.S. Backs Project to Produce Fuel From Corn Waste". The New York Times. Retrieved July 7, 2011. The Energy Department plans to provide a $105 million loan guarantee for the expansion of an ethanol factory in Emmetsburg, Iowa, that intends to make motor fuel from corncobs, leaves and husks.
+^ Range Fuels receives $80 million loan
+External links[edit]
+GA Mansoori, N Enayati, LB Agyarko (2016), Energy: Sources, Utilization, Legislation, Sustainability, Illinois as Model State, World Sci. Pub. Co., ISBN 978-981-4704-00-7
+Genera Energy Inc. - Manager of the largest switchgrass growth program in the U.S. with over 5,000 acres managed over the past 6 years
+Ethanol Production Could Reach 90 Billion Gallons by 2030 | backed by Sandia National Laboritories and GM Corp.
+Sandia National Laboritories & GM study: PDF format from hitectransportation.org
+Switchgrass Fuel Yields Bountiful Energy.
+Ethanol From Cellulose: A General Review  P.C. Badger, 2002
+US DOEOffice of Biological and Environmental Research (OBER).
+National Renewable Energy Laboratory, Research Advances  Cellulosic Ethanol.
+USDA Forest Products Laboratory
+reuters.com, New biofuels to come from many sources: conference,Fri Feb 13, 2009 2:50pm EST
+reuters.com, U.S. weekly ethanol margins rise to above break even, Fri Feb 13, 2009 4:01pm EST
+wired.com, One Molecule Could Cure Our Addiction to Oil, 09.24.07
+v
+t
+e
+Bioenergy
+Biofuels
+Alcohol
+Algae fuel
+Bagasse
+Babassu oil
+Biobutanol
+Biodiesel
+Biogas
+Biogasoline
+Corn stover
+Ethanol
+cellulosic
+mixtures
+Methanol
+Stover
+Corn stover
+Straw
+Cooking oil
+Vegetable oil
+Water hyacinth
+Wood gas
+Energy from
+foodstock
+Barley
+Cassava
+Grape
+Hemp
+Maize
+Oat
+Palm oil
+Potato
+Rapeseed
+Rice
+Sorghum bicolor
+Soybean
+Sugarcane
+Sugar beet
+Sunflower
+Wheat
+Yam
+Camelina sativa
+Non-food
+energy crops
+Arundo
+Big bluestem
+Camelina
+Chinese tallow
+Duckweed
+Jatropha curcas
+Millettia pinnata
+Miscanthus giganteus
+Switchgrass
+Wood fuel
+Technology
+BECCS
+Bioconversion
+Biomass heating systems
+Biorefinery
+FischerTropsch process
+Industrial biotechnology
+Pellets
+mill
+stove
+Thermal depolymerization
+Concepts
+Cellulosic ethanol commercialization
+Energy content of biofuel
+Energy crop
+Energy forestry
+EROEI
+Food vs. fuel
+Issues
+Sustainable biofuel
+v
+t
+e
+Wood products
+Lumber/
+timber
+Batten
+Beam
+Bressummer
+Cruck
+Flitch beam
+Flooring
+Joist
+Lath
+Molding
+Panelling
+Plank
+Plate
+Post
+Purlin
+Rafter
+Railroad ties
+Reclaimed
+Shingle
+Siding
+Sill
+Stud
+Timber truss
+Treenail
+Truss
+Utility pole
+Engineered
+wood
+Glued laminated timber
+veneer
+LVL
+parallel strand
+I-joist
+Fiberboard
+hardboard
+Masonite
+MDF
+Oriented strand board
+Oriented structural straw board
+Particle board
+Plywood
+Structural insulated panel
+Wood-plastic composite
+lumber
+Fuelwood
+Charcoal
+biochar
+Firelog
+Firewood
+Pellet fuel
+Wood fuel
+Fibers
+Cardboard
+Corrugated fiberboard
+Paper
+Paperboard
+Pulp
+Pulpwood
+Rayon
+Derivatives
+Birch-tar
+Cellulose
+nano
+Hemicellulose
+Cellulosic ethanol
+Dyes
+Lignin
+Lye
+Methanol
+Pyroligneous acid
+Pine tar
+Pitch
+Sandalwood oil
+Tannin
+Wood gas
+By-products
+Barkdust
+Black liquor
+Ramial chipped wood
+Sawdust
+Tall oil
+Wood flour
+Wood wool
+Woodchips
+Historical
+Axe ties
+Clapboard
+Dugout canoe
+Potash
+Sawdust brandy
+Split-rail fence
+Tanbark
+Timber framing
+Wooden masts
+See also
+Biomass
+Certified wood
+Destructive distillation
+Dry distillation
+Engineered bamboo
+Forestry
+List of woods
+Mulch
+Non-timber forest products
+Papermaking
+Wood drying
+Wood preservation
+Wood processing
+Woodworking
+Forestry portal
+Trees portal
+Category
+Commons
+WikiProject Forestry
+NewPP limit report
+Parsed by mw1236
+Cached time: 20161119064432
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.600 seconds
+Real time usage: 0.688 seconds
+Preprocessor visited node count: 4302/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 131861/2097152 bytes
+Template argument size: 4777/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 10/500
+Lua time usage: 0.271/10.000 seconds
+Lua memory usage: 7.62 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+561.030
+1 - -total
+48.79%
+273.724
+1 - Template:Reflist
+17.11%
+95.986
+8 - Template:Fix
+16.82%
+94.348
+7 - Template:Citation_needed
+13.98%
+78.406
+15 - Template:Cite_journal
+11.52%
+64.645
+22 - Template:Cite_web
+10.99%
+61.668
+9 - Template:Delink
+8.92%
+50.036
+19 - Template:Convert
+6.91%
+38.757
+17 - Template:Category_handler
+4.43%
+24.875
+2 - Template:Navbox
+Saved in parser cache with key enwiki:pcache:idhash:1391016-0!*!0!!en!4!* and timestamp 20161119064432 and revision id 750350013
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Cellulosic_ethanol&oldid=750350013"
+Categories: Ethanol fuelEthanolWood productsForestryRenewable fuelsHidden categories: Pages using ISBN magic linksAll articles with unsourced statementsArticles with unsourced statements from August 2007Articles with unsourced statements from April 2007Articles with unsourced statements from December 2008Articles with unsourced statements from December 2007Wikipedia articles needing clarification from June 2012Articles with unsourced statements from September 2012NPOV disputes from October 2013All NPOV disputesArticles with unsourced statements from December 2011All accuracy disputesArticles with disputed statements from March 2010

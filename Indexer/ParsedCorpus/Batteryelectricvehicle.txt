@@ -1,0 +1,471 @@
+Batteryelectricvehicle
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}For electric vehicles other than battery powered vehicles, see electric vehicle. For passenger electric vehicles, see electric car. For the batteries themselves, see electric vehicle battery.
+The Nissan Leaf is world's top selling highway-capable all-electric car, with more than 228,000 units delivered through June 2016.[1]
+A battery electric vehicle (BEV), battery-only electric vehicle (BOEV) or all-electric vehicle is a type of electric vehicle (EV) that uses chemical energy stored in rechargeable battery packs. BEVs use electric motors and motor controllers instead of internal combustion engines (ICEs) for propulsion. They derive all power from battery packs and thus have no internal combustion engine, fuel cell, or fuel tank. BEVs include bicycles, scooters, skateboards, rail cars, watercraft, forklifts, buses, trucks and cars. Since the introduction of the all-electric Nissan Leaf in December 2010, about 1 million highway legal plug-in electric vehicles have been sold worldwide by mid-September 2015, of which about 620,000 are all-electric passenger cars and light-duty trucks.[2] As of June 2016[update], the best-selling all-electric car in history is the Nissan Leaf, with global sales of more than 228,000 units, followed by the Tesla Model S, with global sales of almost 130,000 units.[3]
+Contents
+1 Terminology
+2 Vehicles by type
+2.1 Rail
+2.2 Electric bus
+2.2.1 Thunder Sky
+2.2.2 Free Tindo
+2.2.3 First Fast-Charge, Battery-Electric Transit Bus
+2.3 Electric trucks
+2.4 Electric vans
+2.5 Electric cars
+2.6 Special-purpose vehicles
+2.7 Two- and three-wheeled vehicles
+3 Technology
+3.1 Motors
+3.2 Motor controllers
+4 See also
+5 References
+6 Further reading
+7 External links
+Terminology[edit]
+See also: Hybrid electric vehicle, Plug-in hybrid, and Plug-in electric vehicle
+Vehicles using both electric motors and internal combustion engines are examples of hybrid electric vehicles, and are not considered pure or all-electric vehicles because they cannot be externally charged (operate in charge-sustaining mode) and instead they are continually recharged with power from the internal combustion engine and regenerative braking.[4]
+Hybrid vehicles with batteries that can be charged externally to displace some or all of their internal combustion engine power and gasoline fuel are called plug-in hybrid electric vehicles (PHEV), and run as BEVs during their charge-depleting mode. PHEVs with a series powertrain are also called range-extended electric vehicles (REEVs), such as the Chevrolet Volt and Fisker Karma.
+Plug-in electric vehicles (PEVs) are a subcategory of electric vehicles that includes battery electric vehicles (BEVs), plug-in hybrid vehicles, (PHEVs), and electric vehicle conversions of hybrid electric vehicles and conventional internal combustion engine vehicles.[4][5]
+In China, plug-in electric vehicles, together with hybrid electric vehicles are called new energy vehicles (NEVs).[6] However, in the United States, neighborhood electric vehicles (NEVs) are battery electric vehicles that are legally limited to roads with posted speed limits no higher than 45 miles per hour (72km/h), are usually built to have a top speed of 30 miles per hour (48km/h), and have a maximum loaded weight of 3,000lbs.[7]
+Vehicles by type[edit]
+The concept of battery electric vehicles is to use charged batteries on board vehicles for propulsion. Battery electric cars are becoming more and more attractive with the advancement of new battery technology (Lithium Ion) that have higher power and energy density (i.e., greater possible acceleration and more range with fewer batteries) and higher oil prices.[8]
+BEVs include automobiles, light trucks, and neighborhood electric vehicles.
+Rail[edit]
+Battery electric railcars:
+Main article: Battery electric multiple unit
+Locomotives:
+Main article: Battery-electric locomotive
+Electric rail trolley:
+Main article: Cater MetroTrolley
+Electric bus[edit]
+This section reads like a press release. (July 2013)
+Main article: Battery electric bus
+A battery-electric minibus in St Helens, England
+Chattanooga, Tennessee operates nine zero-fare electric buses, which have been in operation since 1992 and have carried 11.3 million passengers and covered a distance of 3,100,000 kilometres (1,900,000mi), They were made locally by Advanced Vehicle Systems. Two of these buses were used for the 1996 Summer Olympics in Atlanta.[9][10]
+Beginning in the summer of 2000, Hong Kong Airport began operating a 16-passenger Mitsubishi Rosa electric shuttle bus, and in the fall of 2000, New York City began testing a 66-passenger battery-powered school bus, an all-electric version of the Blue Bird TC/2000.[11] A similar bus was operated in Napa Valley, California for 14 months ending in April, 2004.[12]
+The 2008 Beijing Olympics used a fleet of 50 electric buses, which have a range of 130km (81mi) with the air conditioning on. They use Lithium-ion batteries, and consume about 1kWh/mi (0.62kWh/km; 2.2MJ/km). The buses were designed by the Beijing Institute of Technology and built by the Jinghua Coach Co. Ltd.[13] The batteries are replaced with fully charged ones at the recharging station to allow 24-hour operation of the buses.[14]
+In France, the bus electric phenomenon is in development, but we already can find some of them in operation in numerous cities of France.[15] PVI, a medium company located in the Paris region, is one of the leader of the market with its brand Gepebus (offering Oreos 2X and Oreos 4X).[16]
+In the United States, the first battery-electric, fast-charge bus has been in operation in Pomona, California since September 2010 at Foothill Transit. The Proterra EcoRide BE35 uses lithium-titanate batteries and is able to fast-charge in less than 10 minutes.[17]
+In 2014, the first production model all-electric school bus was delivered to the Kings Canyon Unified School District in Californias San Joaquin Valley. The bus was one of four the district ordered. This battery electric school bus, which has 4 sodium nickel batteries, is the first modern electric school bus approved for student transportation by any state.[18]
+The first all-electric school bus in the state of California pausing outside the California capitol building in Sacramento.
+The same technology is used to power the Mountain View Community Shuttles. This technology was supported by the California Energy Commission, and the shuttle program is being supported by Google.[19]
+Thunder Sky[edit]
+Thunder Sky (based in Hong Kong) builds lithium-ion batteries used in submarines and has three models of electric buses, the 10/21 passenger EV-6700 with a range of 280km (170mi) under 20 mins quick-charge, the EV-2009 city buses, and the 43 passenger EV-2008 highway bus, which has a range of 300km (190mi) under quick-charge (20 mins to 80 percent), and 350km (220mi) under full charge (25 mins). The buses will also be built in the United States and Finland.[20]
+Free Tindo[edit]
+Tindo is an all-electric bus from Adelaide, Australia. The Tindo (aboriginal word for sun) is made by Designline International[21] in New Zealand and gets its electricity from a solar PV system on Adelaide's central bus station. Rides are zero-fare as part of Adelaide's public transport system.[22]
+First Fast-Charge, Battery-Electric Transit Bus[edit]
+Proterra's EcoRide BE35 transit bus, called the Ecoliner by Foothill Transit in West Covina, California, is a heavy duty, fast charge, battery-electric bus. Proterra's ProDrive drive-system uses a UQM motor and regenerative braking that captures 90 percent of the available energy and returns it to the TerraVolt energy storage system, which in turn increases the total distance the bus can drive by 3135 percent. It can travel 3040 miles on a single charge, is up to 600 percent more fuel-efficient than a typical diesel or CNG bus, and produces 44 percent less carbon than CNG.[23]
+Electric trucks[edit]
+Main article: Electric truck
+For most of the 20th century, the majority of the world's battery electric road vehicles were British milk floats.[24]
+Electric vans[edit]
+In March 2012, Smith Electric Vehicles announced the release of the Newton Step-Van, an all-electric, zero-emission vehicle built on the versatile Newton platform that features a walk-in body produced by Indiana-based Utilimaster.[25]
+Electric cars[edit]
+Main article: Electric car
+See also: List of production battery electric vehicles and electric car use by country
+An electric car is a plug-in battery powered automobile which is propelled by electric motor(s). Although electric cars often give good acceleration and have generally acceptable top speed, the lower specific energy of production batteries available in 2015 compared with carbon-based fuels means that electric cars need batteries that are fairly large fraction of the vehicle mass but still often give relatively low range between charges. Recharging can also take significant lengths of time. For journeys within a single battery charge, rather than long journeys, electric cars are practical forms of transportation and can be recharged overnight.
+Comparison of EPA-rated range for model year 2016 and 2017 electric cars available in the U.S. market, and two upcoming models, Chevrolet Bolt EV and Tesla Model 3. Tesla Motors vehicles included correspond to the variants with the longest and shortest range for Model S and Model X.[26][27][28]
+Electric cars have the potential of significantly reducing city pollution by having zero tail pipe emissions.[29][30][31] Vehicle greenhouse gas savings depend on how the electricity is generated.[32][33] With the current US energy mix, using an electric car would result in a 30 percent reduction in carbon dioxide emissions.[34][35][36][37] Given the current energy mixes in other countries, it has been predicted that such emissions would decrease by 40 percent in the UK,[38] 19 percent in China,[39] and as little as 1 percent in Germany.[40][41][not in citation given]
+Electric cars are expected to have a major impact in the auto industry[42][43] given advantages in city pollution, less dependence on oil, and expected rise in gasoline prices.[44][45][46] World governments are pledging billions to fund development of electric vehicles and their components. The US has pledged US$2.4 billion in federal grants for electric cars and batteries.[47] China has announced it will provide US$15 billion to initiate an electric car industry.[48]
+Since 2008, about 620,000 highway-capable all-electric passenger cars and light utility vehicles have been sold worldwide by mid-September 2015, out of total global sales of about 1 million light-duty plug-in electric vehicles.[2] The Renault-Nissan Alliance is the leading all-electric vehicle manufacturer. The Alliance achieved the sales milestone of 350,000 all-electric vehicles delivered globally in August 2016.[49] Ranking second is Tesla Motors with over 139,000 electric cars sold between 2008 and June 2016.[50][51]
+The Tesla Model S is the world's second best selling all-electric car, with global sales of almost 130,000 units up until June 2016.[3]
+As of June 2016[update], the world's all-time top selling highway legal electric car is the Nissan Leaf, released in December 2010, with global sales of over 228,000 units, followed by the Tesla Model S (about 129,400), the Renault Zoe (51,193), the BMW i3 (around 49,500), and the Mitsubishi i-MiEV family (about 37,600).[3] The Renault Kangoo Z.E. utility van is the leader of the light-duty all-electric segment with global sales of 23,219 units through June 2016.[52]
+Formula E is a fully electric international single seater championship. The series was conceived in 2012, and the inaugural championship started in Beijing on 13 September 2014. The series is sanctioned by the FIA. Alejandro Agag is the current CEO of Formula E.
+The Formula E championship is currently contested by ten teams with two drivers each (after the withdrawal of Team Trulli, there are temporarily only nine teams competing). Racing generally takes place on temporary city-center street circuits which are approximately 2 to 3.4km (1.2 to 2.1mi) long. Currently, only the Mexico City ePrix takes place on a road course, a modified version of the Autdromo Hermanos Rodrguez.
+Special-purpose vehicles[edit]
+Electric vehicles for disabled people in rdalstangen, Norway
+See also: Electrathon
+Special-purpose vehicles come in a wide range of types, ranging from relatively common ones such as golf carts, things like electric golf trolleys, milk floats, all-terrain vehicles, neighborhood electric vehicles, and a wide range of other devices. Certain manufacturers specialize in electric-powered "in plant" work machines.
+Two- and three-wheeled vehicles[edit]
+An increasing variety of two-wheeled electric vehicles is being made for transportation and entertainment. These include devices for sitting on such as electric motorcycles and scooters or electric bicycles, as well as devices for standing on such as the Segway PT or self-balancing two-wheeled boards.
+Three-wheeled vehicles include electric rickshaws, a powered variant of the cycle rickshaw.
+Technology[edit]
+This section needs expansion. You can help by adding to it. (February 2008)
+Fuel use in vehicle designs
+Vehicle type
+Fuel used
+All-petroleum vehicle
+Most use of petroleum
+Regular hybrid electric vehicle
+Less use of petroleum, but non-pluginable
+Plug-in hybrid vehicle
+Residual use of petroleum. More use of electricity
+All-electric vehicle
+Most use of electricity
+v
+t
+e
+Motors[edit]
+Main article: Traction motor
+Electric cars have traditionally used series wound DC motors, a form of brushed DC electric motor. Separately excited and permanent magnet are just two of the types of DC motors available. More recent electric vehicles have made use of a variety of AC motor types, as these are simpler to build and have no brushes that can wear out. These are usually induction motors or brushless AC electric motors which use permanent magnets. There are several variations of the permanent magnet motor which offer simpler drive schemes and/or lower cost including the brushless DC electric motor.
+Motor controllers[edit]
+Main article: Motor controller
+The motor controller regulates the power to the motor, supplying either variable pulse width DC or variable frequency variable amplitude AC, depending on the motor type, DC or AC.
+See also[edit]
+Sustainable development portal
+Wikimedia Commons has media related to Battery-powered vehicles.
+All-electric range
+Automotive battery
+Battery balancer
+Car battery
+Dump charging
+Electric boat
+Electric Drive Transportation Association (EDTA)
+Electric vehicle warning sounds
+Global Electric Motorcars
+Government incentives for plug-in electric vehicles
+Greenpower
+List of electric cars currently available
+List of electric vehicle battery manufacturers
+List of production battery electric vehicles
+Miles per gallon gasoline equivalent
+Patent encumbrance of large automotive NiMH batteries
+Road-powered electric vehicle
+Short-commute vehicles
+Supercapacitor
+Think Global
+Tokyo Electric Power Company
+Wireless charging
+References[edit]
+^ "Nissan's "No Charge to Charge" program expands to 10 new Markets" (Press release). Nashville: Nissan USA. 2016-08-04. Retrieved 2016-08-13. With more than 228,000 global sales and more than 95,000 in the U.S., Nissan LEAF is the world's best-selling electric car.
+^ a b Jeff Cobb (2015-09-16). "One Million Global Plug-In Sales Milestone Reached". HybridCars.com. Retrieved 2015-10-07. Cumulative global sales totaled about 1,004,000 highway legal plug-in electric passenger cars and light-duty vehicles by mid-September 2015, of which, about 60% were BEVs.
+^ a b c Cobb, Jeff (2016-08-10). "Global 10 Best-Selling Plug-In Cars Are Accelerating Forward". HybridCars.com. Retrieved 2016-08-13. As of June 2016[update], cumulative global sales of the top selling plug-in electric cars were led by the Nissan Leaf (over 228,000), followed by the Tesla Model S (129,393), Votl/Ampera family (about 117,300), Mitsubishi Outlander PHEV (about 107,400), Toyota Prius PHV (over 75,400), BYD Qin (56,191), Renault Zoe (51,193), BMW i3 (around 49,500 including REx variants), Mitsubishi i-MiEV family (about 37,600) and BYD Tang (37,509).
+^ a b David B. Sandalow, ed. (2009). Plug-In Electric Vehicles: What Role for Washington? (1st. ed.). The Brookings Institution. pp.25. ISBN978-0-8157-0305-1.See definition on pp. 2.
+^ "Plug-in Electric Vehicles (PEVs)". Center for Sustainable Energy, California. Retrieved 2010-03-31.
+^ PRTM Management Consultants, Inc (April 2011). "The China New Energy Vehicles Program - Challenges and Opportunities" (PDF). World Bank. Retrieved 2012-02-29. See Acronyms and Key Terms, pp. v
+^ "What is a neighborhood electric vehicle (NEV)?". AutoblogGreen. 2009-02-06. Retrieved 2010-06-09.
+^ "-". Retrieved 30 May 2015.
+^ Downtown Electric Shuttle. Retrieved 18 August 2008.
+^ Success Stories. Retrieved 18 August 2008.
+^ Solectria Develops an All Electric Version of the Blue Bird TC2000. Retrieved 18 August 2008.
+^ Electric School Bus. Retrieved 18 August 2008.
+^ UNDP donates electric buses to Beijing Olympic Games. Retrieved 15 August 2008.
+^ BIT Attends the Delivery Ceremony of the 2008 Olympic Games Alternative Fuel Vehicles with its Pure Electric Bus. Retrieved 15 August 2008.
+^ (French) http://avem.fr/index.php?page=bus
+^ "PVI, leader de la traction lectrique pour vhicules industriels.". Retrieved 30 May 2015.
+^ Proterra Launches First Deployment of All-Electric, Zero-Emission Buses by Major Transit Agency. Retrieved October 2011.
+^ "New All-Electric School Bus Saves California District $10,000+ Per Year". CleanTechnica. Retrieved 2016-03-01.
+^ "Electric shuttle buses come to Mountain View, thanks to Motiv and Google". Silicon Valley Business Journal. 13 January 2015. Retrieved 30 May 2015.
+^ "". Retrieved 30 May 2015.
+^ Andrew Posner (December 19, 2007). "When The Sun Shines Down Under. . .It Powers a Bus". TreeHugger. Retrieved March 11, 2012.
+^ All-Electric, Solar-Powered, Free Bus!!!
+^ http://www.proterra.com/index.php/mediacenter/companynews/proterra_launches_first_deployment_of_all-electric_zero-emission_buses/
+^ "Escaping Lock-in: the Case of the Electric Vehicle". Cgl.uwaterloo.ca. Retrieved 2010-11-27.
+^ smithelectric.com (2012-03-05). "Smith Electric Vehicle Launches Production of All-Electric Newton Step Van". smithelectric.com. Retrieved 2012-03-05.
+^ Energy Efficiency & Renewable Energy, U.S. Department of Energy and U. S. Environmental Protection Agency and (2016-09-14). "Find a car - Years: 20162017 - Vehicle Type: Electric". fueleconomy.gov. Retrieved 2016-09-14.
+^ Baker, David R. (2016-04-01). "Tesla Model 3 reservations top 232,000". San Francisco Chronicle. Retrieved 2016-09-14.
+^ Fleming, Charles (2016-09-12). "Chevy Bolt EV range is 238 miles: Prime time for the electric car?". Los Angeles Times. Retrieved 2016-09-14.
+^ "Should Pollution Factor Into Electric Car Rollout Plans?". Earth2tech.com. 2010-03-17. Archived from the original on 24 March 2010. Retrieved 2010-04-18.
+^ "Electro Automotive: FAQ on Electric Car Efficiency & Pollution". Electroauto.com. Retrieved 2010-04-18.
+^ "Clean Air Initiative". Retrieved 30 May 2015.
+^ Notter, Dominic A.; Kouravelou, Katerina; Karachalios, Theodoros; Daletou, Maria K.; Haberland, Nara Tudela. "Life cycle assessment of PEM FC applications: electric mobility and -CHP". Energy Environ. Sci. 8 (7): 19691985. doi:10.1039/c5ee01082a.
+^ Notter, Dominic A.; Gauch, Marcel; Widmer, Rolf; Wger, Patrick; Stamp, Anna; Zah, Rainer; Althaus, Hans-Jrg (2010-09-01). "Contribution of Li-Ion Batteries to the Environmental Impact of Electric Vehicles". Environmental Science & Technology. 44 (17): 65506556. doi:10.1021/es903729a. ISSN0013-936X.
+^ "Plug-in Hybrid Cars: Chart of CO2 Emissions Ranked by Power Source". TreeHugger. Archived from the original on 25 March 2010. Retrieved 2010-04-18.
+^ "D:\MYDOCS\WPDOCS\1605B\EFACTO~1.WPD" (PDF). Archived (PDF) from the original on 28 July 2010. Retrieved 2010-07-16.
+^ "Electric Power Monthly - Table 1.1. Net Generation by Energy Source". Eia.doe.gov. Archived from the original on 15 April 2010. Retrieved 2010-04-18.
+^ United States emission standards#Electricity generation
+^ "Less CO2". My Electric Car. Archived from the original on 8 May 2010. Retrieved 2010-04-18.
+^ "McKinsey Greater China" (PDF). Retrieved 30 May 2015.
+^ ...the four electric vehicles analysed in this study consume around 1.7 times less primary energy and generate less than half the CO2 of a Toyota Prius... http://www.going-electric.org/docs/studies/CO2-energy-electric-vehicles.pdf
+^ Palm, Erik (2009-05-01). "Study: Electric cars not as green as you think | Green Tech - CNET News". News.cnet.com. Retrieved 2010-04-18.
+^ "Ford says auto future hinges on electric car | freep.com | Detroit Free Press". freep.com. Archived from the original on 21 April 2010. Retrieved 2010-04-18.[dead link]
+^ Martin LaMonica (2009-02-02). "Plotting the long road to one million electric cars". CNN.com. Retrieved 2010-04-18.
+^ Terry Macalister (2010-04-11). "US military warns oil output may dip causing massive shortages by 2015 | Business". London: The Guardian. Archived from the original on 15 April 2010. Retrieved 2010-04-18.
+^ Terry Macalister (2010-02-07). "Branson warns of oil crunch within five years | Business". London: The Guardian. Archived from the original on 16 April 2010. Retrieved 2010-04-18.
+^ Loveday, Eric (2010-06-08). "ALG predicts gas at $4.13 by 2013; residual values for compacts, hybrids to climb  Autoblog Green". Green.autoblog.com. Archived from the original on 14 August 2010. Retrieved 2010-07-16.
+^ "Obama pushes electric cars, battery power this week". USA Today. 2010-07-14.
+^ "Freidman OpEd: China's 'Moon Shot' Versus America's".
+^ "Renault-Nissan Alliance hits milestone of 350,000 electric vehicles sold, maintains position as global EV leader" (Press release). Paris/Yokohama: Renault-Nissan Alliance. 2016-09-13. Retrieved 2016-09-13. The Alliance has sold its 350,000th electric vehicle since December 2010, when the Nissan LEAF went on sale. The milestone was achieved in August 2016.
+^ Young, Angelo (2016-04-04). "Tesla Motors (TSLA) 1Q 2016 Sales: 14,820 Model S, Model X Cars Were Delivered In First Three Months; Model S Sales Jumped 45%". International Business Times. Retrieved 2016-04-04. Since 2008 almost 125,000 all-electric cars had been sold by Tesla Motors at the end of March 2016.
+^ "Tesla Second Quarter 2016 Update" (PDF) (Press release). Palo Alto: Tesla Motors. 2016-08-03. Retrieved 2016-08-03. During the second quarter of 2016 Tesla Motors delivered 14,402 new vehicles consisting of 9,764 Model S and 4,638 Model X. Production during 2Q 2016 totaled 18,345 vehicles.
+^ Groupe Renault (July 2016). "Ventes Mensuelles" [Monthly Sales] (in French). Renault.com. Retrieved 2016-07-29. Includes passenger and light utility variants. Click on "Ventes mensuelles (juin 2016)" to download the file "XLSX - 240 Ko" for CYTD sales through June 2016, and open the tab "Sales by Model". Click on "+ Voir plus" (See more) to download the files "Ventes mensuelles du groupe (dcembre 2011) (xls, 183 Ko)" "Ventes mensuelles (dcembre 2012) (xls, 289 Ko)" - Ventes mensuelles (dcembre 2013) (xlsx, 227 Ko)" - "XLSX - 220 Ko Ventes mensuelles (dcembre 2014)" - "Ventes mensuelles (dcembre 2015)" to download the file "XLSX - 227 Ko" for 2011, 2012, 2013, 2014 and 2015 sales. Sales figures for 2013 were revised in the 2014 report
+Further reading[edit]
+Witkin, Jim. Building Better Batteries for Electric Cars, The New York Times, March 31, 2011, p. F4. Published online March 30, 2011. Discusses rechargeable batteries and the new-technology lithium ion battery.
+External links[edit]
+Alternative Fueling Station Locator, charging stations (EERE).
+Automotive DesignLine Europe, electric and hybrid vehicle design resource for engineers and engineering managers.
+Transport Action Plan: Urban Electric Mobility Initiative, United Nations, Climate Summit 2014, September 2014
+Zero Emission Workspace, electric vehicles in an off-grid commercial building project.
+Patents
+U.S. Patent 523,354, Emil E. Keller, Electrically Propelled Perambulator, 1894
+U.S. Patent 594,805, Hiram Percy Maxim, Motor vehicle, 1897
+U.S. Patent 772,571, Hiram Percy Maxim et al., Electric motor vehicle, 1904
+Organizations
+Battery Vehicle Society (UK) and EV Network  the UK national directory of recharging points.
+The European Association for Battery, Hybrid and Fuel Cell Electric Vehicles (AVERE).
+EVCanada  Promoting the uptake of Electric Vehicles in Canada.
+Czech EV Club  (CZ) Eng. section in photogallery.
+Alternative Technology Association Electric Vehicle Interest Group.
+Australian Electric Vehicle Association.
+Electric Car Society.
+News
+Reasons to buy an electric car in 2013
+AeroVironment Awarded U.S. Patent For Electric Vehicle Energy Data Management And Control (Green Car Congress)
+Solar charging station for Ford Focus Electric Vehicle
+Studies
+Application of Life-Cycle Assessment to Nanoscale Technology: Lithium-ion Batteries for Electric Vehicles, U.S. Environmental Protection Agency, April 2013.
+Hybrid and Electric Vehicles - The Electric Drive Gains Traction, IA-HEV, International Energy Agency (IEA), May 2013
+Will Electric Cars Transform the U.S. Vehicle Market? Belfer Center, Harvard University
+v
+t
+e
+Alternative fuel vehicles
+Compressed-air engine
+Compressed air car
+Compressed-air vehicle
+Electric motor
+Battery-electric locomotive
+Battery electric vehicle
+Cater MetroTrolley
+Electric aircraft
+Electric bicycle
+Pedelec
+Electric boat
+Electric car
+Electric platform truck
+Electric vehicle
+Electric motorcycles and scooters
+Gyro flywheel locomotive
+Hybrid electric vehicle
+Hybrid train
+Motorized bicycle
+Neighborhood Electric Vehicle
+Plug-in electric vehicle
+Plug-in hybrid electric vehicle
+Solar vehicle
+Biofuel ICE
+Alcohol fuel
+Biodiesel
+Biogas
+Butanol fuel
+Common ethanol fuel mixtures
+E85
+Ethanol fuel
+Flexible-fuel vehicle
+Methanol economy
+Methanol fuel
+Wood gas
+Hydrogen
+Fuel cell vehicle
+Hydrogen economy
+Hydrogen vehicle
+Hydrogen internal combustion engine vehicle
+Others
+Autogas
+Hybrid electric vehicle
+Liquid nitrogen vehicle
+Natural gas vehicle
+Propane
+Steam car
+Multiple-fuel
+Bi-fuel vehicle
+Flexible-fuel vehicle
+Hybrid vehicle
+Multifuel
+Plug-in hybrid
+Documentaries
+Who Killed the Electric Car?
+What Is the Electric Car?
+Revenge of the Electric Car
+See also
+Wind-powered land vehicle
+Zero-emissions vehicle
+v
+t
+e
+Car design
+Car classification
+Antique
+City car
+Classic
+Compact
+Compact executive
+Compact MPV
+Compact SUV
+Crossover SUV
+Custom
+Hot rod
+Lead sled
+Lowrider
+Street rod
+T-bucket
+Economy
+Executive
+Family car (large)
+Full-size
+Grand tourer
+Hot hatch
+Kei
+Leisure activity vehicle
+Luxury
+Microcar
+Mid-size
+Mini MPV
+Mini SUV
+Minivan / Multi-purpose vehicle (MPV)
+Muscle
+luxury
+Pony
+Sport compact
+Sport utility vehicle (SUV)
+Sports car
+Subcompact
+Supercar
+Supermini
+Truck
+Ute
+Van
+Voiturette
+Body styles
+2+2
+Baquet
+Barchetta
+Berlinetta
+Brougham
+Cabrio coach
+Cabriolet / Convertible
+Coup
+Coup de Ville
+Coup utility
+Drophead coupe (Convertible)
+Fastback
+Hardtop
+Hatchback
+Landaulet
+Liftback
+Limousine
+Multi-stop truck
+Notchback
+Panel van
+Phaeton
+Pickup truck
+Quad coup
+Retractable hardtop
+Roadster
+Runabout
+Saloon / Sedan
+Sedan delivery
+Sedanca de Ville (Coup de Ville)
+Shooting-brake
+Spider / Spyder (Roadster)
+Station wagon
+Targa top
+Torpedo
+Touring car
+Town car (Coup de Ville)
+T-top
+Vis--vis
+Specialized vehicles
+Amphibious
+Driverless (autonomous)
+Hearse
+Gyrocar
+Roadable aircraft
+Taxicab
+Tow truck
+Propulsion
+Alternative fuel
+Autogas
+Biodiesel
+Diesel
+Electric(battery
+NEV)
+Ethanol(E85)
+Fuel cell
+Gasoline/ petrol(direct injection)
+Homogeneous charge compression ignition
+Hybrid(plug-in)
+Hydrogen
+Internal combustion
+Liquid nitrogen
+Steam
+Drive wheels
+Front-wheel
+Rear-wheel
+Two-wheel
+Four-wheel
+Six-wheel
+Eight-wheel
+Twelve-wheel
+Engine position
+Front
+Mid
+Rear
+Layout (engine/ drive)
+Front/ front
+Front mid/ front
+Rear/ front
+Front/ rear
+Rear mid/ rear
+Rear/ rear
+Front/ four-wheel
+Mid/ four-wheel
+Rear/ four-wheel
+Engine configuration
+(internal combustion)
+Boxer
+Flat
+Four-stroke
+H-block
+Inline
+Reciprocating
+Single-cylinder
+Straight
+Two-stroke
+V (Vee)
+W engine
+Wankel
+Portal
+Category
+NewPP limit report
+Parsed by mw1263
+Cached time: 20161118234517
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.484 seconds
+Real time usage: 0.575 seconds
+Preprocessor visited node count: 3611/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 130556/2097152 bytes
+Template argument size: 3315/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 6/500
+Lua time usage: 0.232/10.000 seconds
+Lua memory usage: 8.49 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+482.927
+1 - -total
+50.29%
+242.861
+1 - Template:Reflist
+18.71%
+90.334
+26 - Template:Cite_web
+8.44%
+40.735
+6 - Template:Convert
+7.80%
+37.651
+3 - Template:Cite_press_release
+6.41%
+30.941
+8 - Template:Cite_news
+5.51%
+26.616
+1 - Template:News_release_section
+5.11%
+24.662
+2 - Template:Ambox
+4.99%
+24.102
+2 - Template:Fix
+4.67%
+22.567
+1 - Template:Commons_category
+Saved in parser cache with key enwiki:pcache:idhash:16105212-0!*!0!!en!4!* and timestamp 20161118234516 and revision id 739668600
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Battery_electric_vehicle&oldid=739668600"
+Categories: Battery electric vehiclesAutomotive technologiesSustainable technologiesHidden categories: Articles containing potentially dated statements from June 2016All articles containing potentially dated statementsArticles with French-language external linksAll articles with dead external linksArticles with dead external links from October 2010CS1 French-language sources (fr)Articles using small message boxesAll articles with failed verificationArticles with failed verification from October 2014Articles to be expanded from February 2008All articles to be expandedCommons category with local link same as on WikidataUse dmy dates from January 2011

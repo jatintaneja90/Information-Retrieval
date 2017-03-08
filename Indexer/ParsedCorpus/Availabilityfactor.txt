@@ -1,0 +1,175 @@
+Availabilityfactor
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}The availability factor of a power plant is the amount of time that it is able to produce electricity over a certain period, divided by the amount of the time in the period. Occasions where only partial capacity is available may or may not be deducted. Where they are deducted, the metric is titled equivalent availability factor (EAF). The availability factor should not be confused with the capacity factor. The capacity factor for a period will always be less than the availability factor for the same period. The difference depends on the choice to run the plant or not.
+The availability of a power plant varies greatly depending on the type of fuel, the design of the plant and how the plant is operated. Everything else being equal, plants that are run less frequently have higher availability factors because they require less maintenance. Most thermal power stations, such as coal, geothermal and nuclear power plants, have availability factors between 70% and 90%. Newer plants tend to have significantly higher availability factors, but preventive maintenance is as important as improvements in design and technology. Gas turbines have relatively high availability factors, ranging from 80% to 99%. Gas turbines are commonly used for peaking power plants, co-generation plants and the first stage of combined cycle plants.
+Historically the term only referred to the power plant, as fossil fuel was always available. With the increased impact of renewable energy, the topic of no "fuel" (water, wind, sunlight) may confuse the terminology. The availability factor of wind and solar power plants depends on whether or not periods when the plant is operational, but there is no wind or sunlight, are counted as available, unavailable, or disregarded.[citation needed] If they are only counted as available during favorable times, photovoltaic plants have an availability factor approaching or equal to 100%. Modern wind turbines also have very high availability factors, about 98%. However, solar and wind plants have relatively low capacity factors. Wind capacity factors range from 2040% and solar capacity factors in Arizona are about 19%. This makes wind and solar availability factors much lower if times when sunlight or wind are not available are deducted from the plants availability.
+See also[edit]
+Availability (Reliability Engineering)
+Capacity factor
+Generating Availability Data System (Electricity Industry)
+List of energy storage projects
+Utilization factor
+Forced outage rate
+References[edit]
+Institute of Electrical and Electronics Engineers. Std 762-2006 - IEEE Standard Definitions for Use in Reporting Electric Generating Unit Reliability, Availability, and Productivity
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1289
+Cached time: 20161119001704
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.080 seconds
+Real time usage: 0.113 seconds
+Preprocessor visited node count: 680/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 26824/2097152 bytes
+Template argument size: 1194/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.031/10.000 seconds
+Lua memory usage: 1.14 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+89.073
+1 - -total
+71.40%
+63.594
+1 - Template:Cn
+47.82%
+42.594
+1 - Template:Fix
+28.37%
+25.266
+2 - Template:Category_handler
+27.87%
+24.825
+2 - Template:Navbox
+26.57%
+23.665
+1 - Template:Electricity_generation
+15.66%
+13.951
+1 - Template:Delink
+13.20%
+11.761
+1 - Template:Navbox_subgroup
+2.88%
+2.565
+1 - Template:Fix/category
+1.77%
+1.581
+1 - Template:Reflist
+Saved in parser cache with key enwiki:pcache:idhash:3958005-0!*!0!!*!*!* and timestamp 20161119001704 and revision id 748139854
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Availability_factor&oldid=748139854"
+Categories: Power station technologyHidden categories: All articles with unsourced statementsArticles with unsourced statements from June 2015

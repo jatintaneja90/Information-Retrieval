@@ -1,0 +1,580 @@
+Artificialphotosynthesis
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+A sample of a photoelectric cell in a lab environment. Catalysts are added to the cell, which is submerged in water and illuminated by simulated sunlight. The bubbles seen are oxygen (forming on the front of the cell) and hydrogen (forming on the back of the cell).
+Artificial photosynthesis is a chemical process that replicates the natural process of photosynthesis, a process that converts sunlight, water, and carbon dioxide into carbohydrates and oxygen. The term, artificial photosynthesis, is commonly used to refer to any scheme for capturing and storing the energy from sunlight in the chemical bonds of a fuel (a solar fuel). Photocatalytic water splitting converts water into hydrogen ions and oxygen, and is a main research area in artificial photosynthesis. Light-driven carbon dioxide reduction is another studied process, that replicates natural carbon fixation.
+Research developed in this field encompasses the design and assembly of devices for the direct production of solar fuels, photoelectrochemistry and its application in fuel cells, and the engineering of enzymes and photoautotrophic microorganisms for microbial biofuel and biohydrogen production from sunlight. Many, if not most, of the artificial approaches to artificial photosynthesis are bio-inspired, i.e., they rely on biomimetics.
+Contents
+1 Overview
+2 History
+3 Current research
+3.1 Hydrogen catalysts
+3.2 Water-oxidizing catalysts
+3.3 Photosensitizers
+3.4 Carbon dioxide reduction catalysts
+3.5 Other materials and components
+4 Light-driven methodologies under development
+4.1 Photoelectrochemical cells
+4.2 Photocatalytic water splitting in homogeneous systems
+4.3 Hydrogen-producing artificial systems
+4.4 NADP+/NADPH coenzyme-inspired catalyst
+4.5 Photobiological production of fuels
+5 Employed research techniques
+6 Advantages, disadvantages, and efficiency
+7 See also
+8 References
+9 External links
+Overview[edit]
+The photosynthetic reaction can be divided into two half-reactions of oxidation and reduction, both of which are essential to producing fuel. In plant photosynthesis, water molecules are photo-oxidized to release oxygen and protons. The second stage of plant photosynthesis (also known as the Calvin-Benson cycle) is a light-independent reaction that converts carbon dioxide into glucose (fuel). Researchers of artificial photosynthesis are developing photocatalysts that are able to perform both of these reactions. Furthermore, the protons resulting from water splitting can be used for hydrogen production. These catalysts must be able to react quickly and absorb a large percentage of the incident solar photons.[1]
+Natural (left) versus artificial photosynthesis (right)
+Whereas photovoltaics can provide energy directly from sunlight, the inefficiency of fuel production from photovoltaic electricity (indirect process) and the fact that sunshine is not constant throughout the day sets a limit to its use.[2][3] One way of using natural photosynthesis is via the production of a biofuel, which is an indirect process that suffers from low energy conversion efficiency (due to photosynthesis' own low efficiency in converting sunlight to biomass), the cost of harvesting and transporting the fuel, and clashes with the increasing need of land mass for food production.[4] Artificial photosynthesis aims then to produce a fuel from sunlight that can be conveniently stored and used when sunlight is not available, by using direct processes, that is, to produce a solar fuel. With the development of catalysts able to reproduce the key steps of photosynthesis, water and sunlight would ultimately be the only needed sources for clean energy production. The only by-product would be oxygen, and production of a solar fuel has the potential to be cheaper than gasoline.[5]
+One process for the creation of a clean and affordable energy supply is the development of photocatalytic water splitting under solar light. This method of sustainable hydrogen production is a key objective in the development of alternative energy systems.[6] It is also predicted to be one of the more, if not the most, efficient ways of obtaining hydrogen from water.[7] The conversion of solar energy into hydrogen via a water-splitting process assisted by photosemiconductor catalysts is one of the most promising technologies in development.[citation needed] This process has the potential for large quantities of hydrogen to be generated in an ecologically sound manner.[citation needed] The conversion of solar energy into a clean fuel (H2) under ambient conditions is one of the greatest challenges facing scientists in the twenty-first century.[8]
+Two approaches are generally recognized in the construction of solar fuel cells for hydrogen production:[9]
+A homogeneous system is one where catalysts are not compartmentalized, that is, components are present in the same compartment. This means that hydrogen and oxygen are produced in the same location. This can be a drawback, since they compose an explosive mixture, demanding gas product separation. Also, all components must be active in approximately the same conditions (e.g., pH).
+A heterogeneous system has two separate electrodes, an anode and a cathode, making possible the separation of oxygen and hydrogen production. Furthermore, different components do not necessarily need to work in the same conditions. However, the increased complexity of these systems makes them harder to develop and more expensive.
+Another area of research within artificial photosynthesis is the selection and manipulation of photosynthetic microorganisms, namely green microalgae and cyanobacteria, for the production of solar fuels. Many strains are able to produce hydrogen naturally, and scientists are working to improve them.[10] Algae biofuels such as butanol and methanol are produced both at laboratory and commercial scales. This approach has benefited from the development of synthetic biology,[10] which is also being explored by the J. Craig Venter Institute to produce a synthetic organism capable of biofuel production.[11][12]
+History[edit]
+The artificial photosynthesis was first anticipated by the Italian chemist Giacomo Ciamician in 1912.[13] In a lecture that was later published in Science[14] he proposed a switch from the use of fossil fuels to radiant energy provided by the sun and captured by technical photochemistry devices. In this switch he saw a possibility to close the gap between the rich north and poor south and ventured a guess that this switch from coal to solar energy would "not be harmful to the progress and to human happiness."[15]
+In the late 60s, Akira Fujishima discovered the photocatalytic properties of titanium dioxide, the so-called Honda-Fujishima effect, which could be used for hydrolysis.[16]
+The Swedish Consortium for Artificial Photosynthesis, the first of its kind, was established in 1994 as a collaboration between groups of three different universities, Lund, Uppsala and Stockholm, being presently active around Lund and the ngstrm Laboratories in Uppsala.[17] The consortium was built with a multidisciplinary approach to focus on learning from natural photosynthesis and applying this knowledge in biomimetic systems.[18]
+Research into artificial photosynthesis is undergoing a boom at the beginning of the 21st century.[2] In 2000, Commonwealth Scientific and Industrial Research Organisation (CSIRO) researchers publicized their intent to focus on carbon dioxide capture and its conversion to hydrocarbons.[19][20] In 2003, the Brookhaven National Laboratory announced the discovery of an important intermediate step in the reduction of CO2 to CO (the simplest possible carbon dioxide reduction reaction), which could lead to better catalysts.[21][22]
+One of the drawbacks of artificial systems for water-splitting catalysts is their general reliance on scarce, expensive elements, such as ruthenium or rhenium.[2] In 2008, with the funding of the United States Air Force Office of Scientific Research,[23] MIT chemist and head of the Solar Revolution Project Daniel G. Nocera and postdoctoral fellow Matthew Kanan attempted to circumvent this issue by using a catalyst containing the cheaper and more abundant elements cobalt and phosphate.[24][25] The catalyst was able to split water into oxygen and protons using sunlight, and could potentially be coupled to a hydrogen gas producing catalyst such as platinum. Furthermore, while the catalyst broke down during catalysis, it could self-repair.[26] This experimental catalyst design was considered a major breakthrough in the field by many researchers.[27][28]
+Whereas CO is the prime reduction product of CO2, more complex carbon compounds are usually desired. In 2008, Andrew B. Bocarsly reported the direct conversion of carbon dioxide and water to methanol using solar energy in a highly efficient photochemical cell.[29]
+While Nocera and coworkers had accomplished water splitting to oxygen and protons, a light-driven process to produce hydrogen is desirable. In 2009, the Leibniz Institute for Catalysis reported inexpensive iron carbonyl complexes able to do just that.[30][31] In the same year, researchers at the University of East Anglia also used iron carbonyl compounds to achieve photoelectrochemical hydrogen production with 60% efficiency, this time using a gold electrode covered with layers of indium phosphide to which the iron complexes were linked.[32] Both of these processes used a molecular approach, where discrete nanoparticles are responsible for catalysis.
+Visible light water splitting with a one piece multijunction cell was first demonstrated and patented by William Ayers at Energy Conversion Devices in 1983.[33] This group demonstrated water photolysis into hydrogen and oxygen, now referred to as an "artificial leaf" or "wireless solar water splitting" with a low cost, thin film amorphous silicon multijunction cell directly immersed in water. Hydrogen evolved on the front amorphous silicon surface decorated with various catalysts while oxygen evolved from the back metal substrate which also eliminated the hazard of mixed hydrogen/oxygen gas evolution. A Nafion membrane above the immersed cell provided a path for proton transport. The higher photovoltage available from the multijuction thin film cell with visible light was a major advance over previous photolysis attempts with UV sensitive single junction cells. The group's patent also lists several other semiconductor multijunction compositions in addition to amorphous silicon.
+In 2009, F. del Valle and K. Domen showed the impact of the thermal treatment in a closed atmosphere using Cd1-xZnxS photocatalysts. Cd1-xZnxS solid solution reports high activity in hydrogen production from water splitting under sunlight irradiation.[34] A mixed heterogeneous/molecular approach by researchers at the University of California, Santa Cruz, in 2010, using both nitrogen-doped and cadmium selenide quantum dots-sensitized titanium dioxide nanoparticles and nanowires, also yielded photoproduced hydrogen.[35]
+Artificial photosynthesis remained an academic field for many years. However, in the beginning of 2009, Mitsubishi Chemical Holdings was reported to be developing its own artificial photosynthesis research by using sunlight, water and carbon dioxide to "create the carbon building blocks from which resins, plastics and fibers can be synthesized."[36] This was confirmed with the establishment of the KAITEKI Institute later that year, with carbon dioxide reduction through artificial photosynthesis as one of the main goals.[37][38]
+In 2010, the DOE established, as one of its Energy Innovation Hubs, the Joint Center for Artificial Photosynthesis.[39] The mission of JCAP is to find a cost-effective method to produce fuels using only sunlight, water, and carbon-dioxide as inputs. JCAP is led by a team from Caltech, led by Professor Nathan Lewis and brings together more than 120 scientists and engineers from Caltech and its lead partner, Lawrence Berkeley National Laboratory. JCAP also draws on the expertise and capabilities of key partners from Stanford University, the University of California at Berkeley, UCSB, UCI, and UCSD, and the Stanford Linear Accelerator. In addition, JCAP serves as a central hub for other solar fuels research teams across the United States, including 20 DOE Energy Frontier Research Center. The program has a budget of $122M over five years, subject to Congressional appropriation[40]
+Also in 2010, a team led by professor David Wendell at the University of Cincinnati successfully demonstrated photosynthesis in an artificial construct consisting of enzymes suspended in a foam housing.[41]
+In 2011, Daniel Nocera and his research team announced the creation of the first practical artificial leaf. In a speech at the 241st National Meeting of the American Chemical Society, Nocera described an advanced solar cell the size of a poker card capable of splitting water into oxygen and hydrogen, approximately ten times more efficient than natural photosynthesis.[42] The cell is mostly made of inexpensive materials that are widely available, works under simple conditions, and shows increased stability over previous catalysts: in laboratory studies, the authors demonstrated that an artificial leaf prototype could operate continuously for at least forty-five hours without a drop in activity.[43] In May 2012, Sun Catalytix, the startup based on Nocera's research, stated that it will not be scaling up the prototype as the device offers few savings over other ways to make hydrogen from sunlight.[44] Leading experts in the field have supported a proposal for a Global Project on Artificial Photosynthesis as a combined energy security and climate change solution.[45] Conferences on this theme have been held at Lord Howe Island in 2011,[46] at Chicheley Hall in the UK in 2014[47] and at Canberra and Lord Howe island in 2016.[48]
+Current research[edit]
+In energy terms, natural photosynthesis can be divided in three steps:[9][18]
+Light-harvesting complexes in bacteria and plants capture photons and transduce them into electrons, injecting them into the photosynthetic chain.
+Proton-coupled electron transfer along several cofactors of the photosynthetic chain, causing local, spatial charge separation.
+Redox catalysis, which uses the aforementioned transferred electrons to oxidize water to dioxygen and protons; these protons can in some species be utilized for dihydrogen production.
+A triad assembly, with a photosensitizer (P) linked in tandem to a water oxidation catalyst (D) and a hydrogen evolving catalyst (A). Electrons flow from D to A when catalysis occurs.
+Using biomimetic approaches, artificial photosynthesis tries to construct systems doing the same type of processes. Ideally, a triad assembly could oxidize water with one catalyst, reduce protons with another and have a photosensitizer molecule to power the whole system. One of the simplest designs is where the photosensitizer is linked in tandem between a water oxidation catalyst and a hydrogen evolving catalyst:
+The photosensitizer transfers electrons to the hydrogen catalyst when hit by light, becoming oxidized in the process.
+This drives the water splitting catalyst to donate electrons to the photosensitizer. In a triad assembly, such a catalyst is often referred to as a donor. The oxidized donor is able to perform water oxidation.
+The state of the triad with one catalyst oxidized on one end and the second one reduced on the other end of the triad is referred to as a charge separation, and is a driving force for further electron transfer, and consequently catalysis, to occur. The different components may be assembled in diverse ways, such as supramolecular complexes, compartmentalized cells, or linearly, covalently linked molecules.[9]
+Research into finding catalysts that can convert water, carbon dioxide, and sunlight to carbohydrates or hydrogen is a current, active field. By studying the natural oxygen-evolving complex (OEC), researchers have developed catalysts such as the "blue dimer" to mimic its function or inorganic-based materials such as Birnessite with the similar building block as the OEC.[49] Photoelectrochemical cells that reduce carbon dioxide into carbon monoxide (CO), formic acid (HCOOH) and methanol (CH3OH) are under development.[50] However, these catalysts are still very inefficient.[5]
+Hydrogen catalysts[edit]
+Hydrogen is the simplest solar fuel to synthesize, since it involves only the transference of two electrons to two protons. It must, however, be done stepwise, with formation of an intermediate hydride anion:
+2 e + 2 H+  H+ + H  H2
+The proton-to-hydrogen converting catalysts present in nature are hydrogenases. These are enzymes that can either reduce protons to molecular hydrogen or oxidize hydrogen to protons and electrons. Spectroscopic and crystallographic studies spanning several decades have resulted in a good understanding of both the structure and mechanism of hydrogenase catalysis.[51][52] Using this information, several molecules mimicking the structure of the active site of both nickel-iron and iron-iron hydrogenases have been synthesized.[9][53] Other catalysts are not structural mimics of hydrogenase but rather functional ones. Synthesized catalysts include structural H-cluster models,[9][54] a dirhodium photocatalyst,[55] and cobalt catalysts.[9][56]
+Water-oxidizing catalysts[edit]
+Water oxidation is a more complex chemical reaction than proton reduction. In nature, the oxygen-evolving complex performs this reaction by accumulating reducing equivalents (electrons) in a manganese-calcium cluster within photosystem II (PS II), then delivering them to water molecules, with the resulting production of molecular oxygen and protons:
+2 H2O  O2 + 4 H+ + 4e
+Without a catalyst (natural or artificial), this reaction is very endothermic, requiring high temperatures (at least 2500 K).[7]
+The exact structure of the oxygen-evolving complex has been hard to determine experimentally.[57] As of 2011, the most detailed model was from a 1.9  resolution crystal structure of photosystem II.[58] The complex is a cluster containing four manganese and one calcium ions, but the exact location and mechanism of water oxidation within the cluster is unknown. Nevertheless, bio-inspired manganese and manganese-calcium complexes have been synthesized, such as [Mn4O4] cubane-type clusters, some with catalytic activity.[59]
+Some ruthenium complexes, such as the dinuclear -oxo-bridged "blue dimer" (the first of its kind to be synthesized), are capable of light-driven water oxidation, thanks to being able to form high valence states.[9] In this case, the ruthenium complex acts as both photosensitizer and catalyst.
+Many metal oxides have been found to have water oxidation catalytic activity, including ruthenium(IV) oxide (RuO2), iridium(IV) oxide (IrO2), cobalt oxides (including nickel-doped Co3O4), manganese oxide (including layered MnO2 (birnessite),[49] Mn2O3), and a mix of Mn2O3 with CaMn2O4. Oxides are easier to obtain than molecular catalysts, especially those from relatively abundant transition metals (cobalt and manganese), but suffer from low turnover frequency and slow electron transfer properties, and their mechanism of action is hard to decipher and, therefore, to adjust.[6]
+Recently Metal-Organic Framework (MOF)-based materials have been shown to be a highly promising candidate for water oxidation with first row transition metals.[60][61] The stability and tunability of this system is projected to be highly beneficial for future development.[62]
+Photosensitizers[edit]
+Structure of [Ru(bipy)3]2+, a broadly used photosensitizer.
+Nature uses pigments, mainly chlorophylls, to absorb a broad part of the visible spectrum. Artificial systems can use either one type of pigment with a broad absorption range or combine several pigments for the same purpose.
+Ruthenium polypyridine complexes, in particular tris(bipyridine)ruthenium(II) and its derivatives, have been extensively used in hydrogen photoproduction due to their efficient visible light absorption and long-lived consequent metal-to-ligand charge transfer excited state, which makes the complexes strong reducing agents.[9] Other noble metal-containing complexes used include ones with platinum, rhodium and iridium.[9]
+Metal-free organic complexes have also been successfully employed as photosensitizers. Examples include eosin Y and rose bengal.[9] Pyrrole rings such as porphyrins have also been used in coating nanomaterials or semiconductors for both homogeneous and heterogeneous catalysis.[6][50]
+As part of current research efforts artificial photonic antenna systems are being studied to determine efficient and sustainable ways to collect light for artificial photosynthesis. Gion Calzaferri (2009) describes one such antenna that uses zeolite L as a host for organic dyes, to mimic plant's light collecting systems.[63] The material may be interfaced to an external device via a stopcock intermediate.[64][65]
+Carbon dioxide reduction catalysts[edit]
+In nature, carbon fixation is done by green plants using the enzyme RuBisCO as a part of the Calvin cycle. RuBisCO is a rather slow catalyst compared to the vast majority of other enzymes, incorporating only a few molecules of carbon dioxide into ribulose-1,5-bisphosphate per minute, but does so at atmospheric pressure and in mild, biological conditions.[66] The resulting product is further reduced and eventually used in the synthesis of glucose, which in turn is a precursor to more complex carbohydrates, such as cellulose and starch. The process consumes energy in the form of ATP and NADPH.
+Artificial CO2 reduction for fuel production aims mostly at producing reduced carbon compounds from atmospheric CO2. Some transition metal polyphosphine complexes have been developed for this end; however, they usually require previous concentration of CO2 before use, and carriers (molecules that would fixate CO2) that are both stable in aerobic conditions and able to concentrate CO2 at atmospheric concentrations haven't been yet developed.[67] The simplest product from CO2 reduction is carbon monoxide (CO), but for fuel development, further reduction is needed, and a key step also needing further development is the transfer of hydride anions to CO.[67]
+Other materials and components[edit]
+Charge separation is a key property of dyad and triad assemblies. Some nanomaterials employed are fullerenes (such as carbon nanotubes), a strategy that explores the pi-bonding properties of these materials.[6] Diverse modifications (covalent and non-covalent) of carbon nanotubes have been attempted to increase the efficiency of charge separation, including the addition of ferrocene and pyrrole-like molecules such as porphyrins and phthalocyanines.[6]
+Since photodamage is usually a consequence in many of the tested systems after a period of exposure to light, bio-inspired photoprotectants have been tested, such as carotenoids (which are used in photosynthesis as natural protectants).[68]
+Light-driven methodologies under development[edit]
+Photoelectrochemical cells[edit]
+Main article: Photoelectrochemical cell
+Photoelectrochemical cells are a heterogeneous system that use light to produce either electricity or hydrogen. The vast majority of photoelectrochemical cells use semiconductors as catalysts.[50] There have been attempts to use synthetic manganese complex-impregnated Nafion as a working electrode, but it has been since shown that the catalytically active species is actually the broken-down complex.[69]
+A promising, emerging type of solar cell is the dye-sensitized solar cell. This type of cell still depends on a semiconductor (such as TiO2) for current conduction on one electrode, but with a coating of an organic or inorganic dye that acts as a photosensitizer; the counter electrode is a platinum catalyst for H2 production.[50] These cells have a self-repair mechanism and solar-to-electricity conversion efficiencies rivaling those of solid-state semiconductor ones.[50]
+Photocatalytic water splitting in homogeneous systems[edit]
+Main article: Photocatalytic water splitting
+Direct water oxidation by photocatalysts is a more efficient usage of solar energy than photoelectrochemical water splitting because it avoids an intermediate thermal or electrical energy conversion step.[70]
+Bio-inspired manganese clusters have been shown to possess water oxidation activity when adsorbed on clays together with ruthenium photosensitizers, although with low turnover numbers.[9]
+As mentioned above, some ruthenium complexes are able to oxidize water under solar light irradiation.[9] Although their photostability is still an issue, many can be reactivated by a simple adjustment of the conditions they work in.[9] Improvement of catalyst stability has been tried resorting to polyoxometalates, in particular ruthenium-based ones.[6][9]
+Whereas a fully functional artificial system is usually envisioned when constructing a water splitting device, some mixed approaches have been tried. One of these involve the use of a gold electrode to which photosystem II is linked; an electric current is detected upon illumination.[71]
+Hydrogen-producing artificial systems[edit]
+A H-cluster FeFe hydrogenase model compound covalently linked to a ruthenium photosensitizer. The ruthenium complex absorbs light and transduces its energy to the iron compound, which can then reduce protons to H2.
+The simplest photocatalytic hydrogen production unit consists of a hydrogen-evolving catalyst linked to a photosensitizer.[72] In this dyad assembly, a so-called sacrificial donor for the photosensitizer is needed, that is, one that is externally supplied and replenished; the photosensitizer donates the necessary reducing equivalents to the hydrogen-evolving catalyst, which uses protons from a solution where it is immersed or dissolved in. Cobalt compounds such as cobaloximes are some of the best hydrogen catalysts, having been coupled to both metal-containing and metal-free photosensitizers.[9][73] The first H-cluster models linked to photosensitizers (mostly ruthenium photosensitizers, but also porphyrin-derived ones) were prepared in the early 2000s.[9] Both types of assembly are under development to improve their stability and increase their turnover numbers, both necessary for constructing a sturdy, long-lived solar fuel cell.
+As with water oxidation catalysis, not only fully artificial systems have been idealized: hydrogenase enzymes themselves have been engineered for photoproduction of hydrogen, by coupling the enzyme to an artificial photosensitizer, such as [Ru(bipy)3]2+ or even photosystem I.[9][72]
+NADP+/NADPH coenzyme-inspired catalyst[edit]
+In natural photosynthesis, the NADP+ coenzyme is reducible to NADPH through binding of a proton and two electrons. This reduced form can then deliver the proton and electrons, potentially as a hydride, to reactions that culminate in the production of carbohydrates (the Calvin cycle). The coenzyme is recyclable in a natural photosynthetic cycle, but this process is yet to be artificially replicated.
+A current goal is to obtain an NADPH-inspired catalyst capable of recreating the natural cyclic process. Utilizing light, hydride donors would be regenerated and produced where the molecules are continuously used in a closed cycle. Brookhaven chemists are now using a ruthenium-based complex to serve as the acting model. The complex is proven to perform correspondingly with NADP+/NADPH, behaving as the foundation for the proton and two electrons needed to convert acetone to isopropanol.
+Currently, Brookhaven researchers are aiming to find ways for light to generate the hydride donors. The general idea is to use this process to produce fuels from carbon dioxide.[74]
+Photobiological production of fuels[edit]
+Some photoautotrophic microorganisms can, under certain conditions, produce hydrogen. Nitrogen-fixing microorganisms, such as filamentous cyanobacteria, possess the enzyme nitrogenase, responsible for conversion of atmospheric N2 into ammonia; molecular hydrogen is a byproduct of this reaction, and is many times not released by the microorganism, but rather taken up by a hydrogen-oxidizing (uptake) hydrogenase. One way of forcing these organisms to produce hydrogen is then to annihilate uptake hydrogenase activity. This has been done on a strain of Nostoc punctiforme: one of the structural genes of the NiFe uptake hydrogenase was inactivated by insertional mutagenesis, and the mutant strain showed hydrogen evolution under illumination.[75]
+Many of these photoautotrophs also have bidirectional hydrogenases, which can produce hydrogen under certain conditions. However, other energy-demanding metabolic pathways can compete with the necessary electrons for proton reduction, decreasing the efficiency of the overall process; also, these hydrogenases are very sensitive to oxygen.[10]
+Several carbon-based biofuels have also been produced using cyanobacteria, such as 1-butanol.[76]
+Synthetic biology techniques are predicted to be useful in this field. Microbiological and enzymatic engineering have the potential of improving enzyme efficiency and robustness, as well as constructing new biofuel-producing metabolic pathways in photoautotrophs that previously lack them, or improving on the existing ones.[10][76] Another field under development is the optimization of photobioreactors for commercial application.[77]
+Employed research techniques[edit]
+Research in artificial photosynthesis is necessarily a multidisciplinary field, requiring a multitude of different expertise.[10] Some techniques employed in making and investigating catalysts and solar cells include:
+Organic and inorganic chemical synthesis.
+Electrochemistry methods, such as photoelectrochemistry, cyclic voltammetry, electrochemical impedance spectroscopy Dielectric spectroscopy, and bulk electrolysis.
+Spectroscopic methods:
+fast techniques, such as time-resolved spectroscopy and ultrafast laser spectroscopy;
+magnetic resonance spectroscopies, such as nuclear magnetic resonance, electron paramagnetic resonance;
+X-ray spectroscopy methods, including x-ray absorption such as XANES and EXAFS, but also x-ray emission.
+Crystallography.
+Molecular biology, microbiology and synthetic biology methodologies.
+Advantages, disadvantages, and efficiency[edit]
+Advantages of solar fuel production through artificial photosynthesis include:
+The solar energy can be immediately converted and stored. In photovoltaic cells, sunlight is converted into electricity and then converted again into chemical energy for storage, with some necessary loss of energy associated with the second conversion.
+The byproducts of these reactions are environmentally friendly. Artificially photosynthesized fuel would be a carbon-neutral source of energy, which could be used for transportation or homes.
+Disadvantages include:
+Materials used for artificial photosynthesis often corrode in water, so they may be less stable than photovoltaics over long periods of time. Most hydrogen catalysts are very sensitive to oxygen, being inactivated or degraded in its presence; also, photodamage may occur over time.[9][72]
+The overall cost is not yet advantageous enough to compete with fossil fuels as a commercially viable source of energy.[3]
+A concern usually addressed in catalyst design is efficiency, in particular how much of the incident light can be used in a system in practice. This is comparable with photosynthetic efficiency, where light-to-chemical-energy conversion is measured. Photosynthetic organisms are able to collect about 50% of incident solar radiation, however the theoretical limit of photosynthetic efficiency is 4.6 and 6.0% for C3 and C4 plants respectively.[78] In reality, the efficiency of photosynthesis is much lower and is usually below 1%, with some exceptions such as sugarcane in tropical climate.[79] In contrast, the highest reported efficiency for artificial photosynthesis lab prototypes is 22.4%.[80] However, plants are efficient in using CO2 at atmospheric concentrations, something that artificial catalysts still cannot perform.[81]
+See also[edit]
+Energy portal
+Renewable energy portal
+Metabolism portal
+Photoelectrochemistry
+AlgaePARC
+Carbon footprint
+Fuel cell
+Hydrogen economy
+List of emerging technologies
+Metabolic engineering
+Photovoltaic cell
+Photovoltaic module
+References[edit]
+^ Yarris, Lynn. "Turning Sunlight into Liquid Fuels: Berkeley Lab Researchers Create a Nano-sized Photocatalyst for Artificial Photosynthesis". Berkeley Lab News Center. Lawrence Berkeley National Laboratory. Retrieved 16 January 2012.
+^ a b c Styring, Stenbjrn (21 December 2011). "Artificial photosynthesis for solar fuels". Faraday Discussions. 155 (Advance Article): 357376. Bibcode:2012FaDi..155..357S. doi:10.1039/C1FD00113B. Retrieved 12 January 2012.
+^ a b "The Difference Engine: The sunbeam solution". The Economist. 11 February 2011.
+^ Listorti, Andrea; Durrant, James; Barber, Jim (December 2009). "Solar to Fuel". Nature Materials. 8 (12): 929930. Bibcode:2009NatMa...8..929L. doi:10.1038/nmat2578. PMID19935695. Retrieved 24 January 2012.
+^ a b Gathman, Andrew. "Energy at the Speed of Light". Online Research. PennState. Retrieved 16 January 2012.
+^ a b c d e f Carraro, Mauro; Sartorel, Andrea; Toma, Francesca; Puntoriero, Fausto; Scandola, Franco; Campagna, Sebastiano; Prato, Maurizio; Bonchio, Marcella (2011). "Artificial Photosynthesis Challenges: Water Oxidation at Nanostructured Interfaces". Topics in Current Chemistry. Topics in Current Chemistry. 303: 121150. doi:10.1007/128_2011_136. ISBN978-3-642-22293-1. PMID21547686. Retrieved 24 January 2012.
+^ a b Bockris, J.O'M.; Dandapani, B.; Cocke, D.; Ghoroghchian, J. (1985). "On the splitting of water". International Journal of Hydrogen Energy. 10 (3): 179201. doi:10.1016/0360-3199(85)90025-4. Retrieved 25 January 2012.
+^ Navarro, R.M.; del Valle, F.; de la Mano, J.A. Villoria; lvarez-Galvn, M.C.; Fierro, J.L.G. (2009). "Photocatalytic Water Splitting Under Visible Light: Concept and Catalysts Development". Advances in Chemical Engineering. Advances in Chemical Engineering. 36: 111143. doi:10.1016/S0065-2377(09)00404-9. ISBN9780123747631. Retrieved 23 January 2012.
+^ a b c d e f g h i j k l m n o p q r Andreiadis, Eugen S.; Chavarot-Kerlidou, Murielle; Fontecave, Marc; Artero, Vincent (SeptemberOctober 2011). "Artificial Photosynthesis: From Molecular Catalysts for Light-driven Water Splitting to Photoelectrochemical Cells". Photochemistry and Photobiology. 87 (5): 946964. doi:10.1111/j.1751-1097.2011.00966.x. PMID21740444.
+^ a b c d e Magnuson, Ann; Anderlund, Magnus; Johansson, Olof; Lindblad, Peter; Lomoth, Reiner; Polivka, Tomas; Ott, Sascha; Stensj, Karin; Styring, Stenbjrn; Sundstrm, Villy; Hammarstrm, Leif (December 2009). "Biomimetic and Microbial Approaches to Solar Fuel Generation". Accounts of Chemical Research. 42 (12): 18991909. doi:10.1021/ar900127h. PMID19757805.
+^ JCVI. "Synthetic Biology & Bioenergy  Overview". J. Craig Venter Institute. Retrieved 17 January 2012.
+^ "Hydrogen from Water in a Novel Recombinant Cyanobacterial System". J. Craig Venter Institute. Retrieved 17 January 2012.
+^ Armaroli, Nicola; Balzani, Vincenzo (2007). "The Future of Energy Supply: Challenges and Opportunities". Angewandte Chemie. 46: 5266. doi:10.1002/anie.200602373.
+^ Giacomo Ciamician, The Photochemistry of the Future. In: Science 36, No. 926, (1912), 385-394, doi:10.1126/science.36.926.385.
+^ Balzani, Vincenzo; et al. (2008). "Photochemical Conversion of Solar Energy". ChemSusChem. 1: 2658. doi:10.1002/cssc.200700087.
+^ Fujishima, Akira; Rao, Tata N.; Tryk, Donald A. (29 June 2000). "Titanium dioxide photocatalysis". Journal of Photochemistry and Photobiology C: Photochemistry Reviews. 1 (1): 121. doi:10.1016/S1389-5567(00)00002-2. Retrieved 10 January 2012.
+^ "Swedish Consortium for Artificial Photosynthesis". Uppsala University. Retrieved 24 January 2012.
+^ a b Hammarstrm, Leif; Styring, Stenbjrn (27 March 2008). "Coupled electron transfers in artificial photosynthesis". Philosophical Transactions of the Royal Society. 363 (1494): 12831291. doi:10.1098/rstb.2007.2225. Retrieved 24 January 2012.
+^ "Scientists Developing "Artificial" Plants". Sciencedaily.com. 28 November 2000. Retrieved 2011-04-19.
+^ "Artificial Photosynthesis". Csiro.au. 20 September 2005. Retrieved 2011-04-19.
+^ "Designing a Better Catalyst for Artificial Photosynthesis". Bnl.gov. 9 September 2003. Retrieved 2011-04-19.
+^ "Designing A Better Catalyst For 'Artificial Photosynthesis'". Sciencedaily.com. 10 September 2003. Retrieved 2011-04-19.
+^ Lachance, Molly. "AF Funding Enables Artificial Photosynthesis". Wright-Patterson Air Force Base News. Wright-Patterson Air Force Base. Retrieved 19 January 2012.
+^ Kanan, Matthew W.; Nocera, Daniel G. (22 August 2008). "In Situ Formation of an Oxygen-Evolving Catalyst in Neutral Water Containing Phosphate and Co2+". Science. 321 (5892): 10721075. Bibcode:2008Sci...321.1072K. doi:10.1126/science.1162018. PMID18669820. Retrieved 10 January 2012.
+^ Trafton, Anne. "'Major discovery' from MIT primed to unleash solar revolution". MIT News. Massachusetts Institute of Technology. Retrieved 10 January 2012.
+^ Lutterman, Daniel A.; Surendranath, Yogesh; Nocera, Daniel G. (2009). "A Self-Healing Oxygen-Evolving Catalyst". Journal of the American Chemical Society. 131 (11): 38383839. doi:10.1021/ja900023k. PMID19249834.
+^ "Solar-Power Breakthrough: Researchers have found a cheap and easy way to store the energy made by solar power". Technologyreview.com. Retrieved 2011-04-19.
+^ Kleiner, Kurt. "Electrode lights the way to artificial photosynthesis". NewScientist. Reed Business Information Ltd. Retrieved 10 January 2012.
+^ Barton, Emily E.; Rampulla, David M.; Bocarsly, Andrew B. (2008). "Selective Solar-Driven Reduction of CO2 to Methanol Using a Catalyzed p-GaP Based Photoelectrochemical Cell". Journal of the American Chemical Society. 130 (20): 63426344. doi:10.1021/ja0776327. PMID18439010.
+^ "Light-Driven Hydrogen Generation System Based on Inexpensive Iron Carbonyl Complexes". AZoNano.com. AZoNetwork. 2 December 2009. Retrieved 2011-04-19.
+^ Grtner, Felix; Sundararaju, Basker; Surkus, Annette-Enrica; Boddien, Albert; Loges, Bjrn; Junge, Henrik; Dixneuf, Pierre H; Beller, Matthias (21 December 2009). "Light-Driven Hydrogen Generation: Efficient Iron-Based Water Reduction Catalysts". Angewandte Chemie International Edition. 48 (52): 99629965. doi:10.1002/anie.200905115.
+^ Nann, Thomas; Ibrahim, Saad K; Woi, Pei-Meng; Xu, Shu; Ziegler, Jan; Pickett, Christopher J. (22 February 2010). "Water Splitting by Visible Light: A Nanophotocathode for Hydrogen Production". Angewandte Chemie International Edition. 49 (9): 15741577. doi:10.1002/anie.200906262.
+^ William Ayers, US Patent 4,466,869 Photolytic Production of Hydrogen
+^ del Valle, F.; Ishikawa, A.; Domen, K. (May 2009). "Influence of Zn concentration in the activity of Cd1-xZnxS solid solutions for water splitting under visible light". Catalysis Today. 143 (12): 5159. doi:10.1016/j.cattod.2008.09.024.
+^ Hensel, Jennifer; Wang, Gongming; Li, Yat; Zhang, Jin Z. (2010). "Synergistic Effect of CdSe Quantum Dot Sensitization and Nitrogen Doping of TiO2 Nanostructures for Photoelectrochemical Solar Hydrogen Generation". Nano Letters. 10 (2): 478483. Bibcode:2010NanoL..10..478H. doi:10.1021/nl903217w. PMID20102190.
+^ "Man-made photosynthesis looking to change the world". Digitalworldtokyo.com. 14 January 2009. Retrieved 2011-04-19.
+^ "The Establishment of the KAITEKI Institute Inc.". CSR Environment. mitsubishi.com. Retrieved 10 January 2012.
+^ "Research". The KAITEKI Institute. Retrieved 10 January 2012.
+^ "Home  Joint Center for Artificial Photosynthesis". Solarfuelshub.org. Retrieved 2012-11-07.
+^ "Caltech-led Team Gets up to $122 Million for Energy Innovation Hub". Caltech Media Relations. 21 July 2010. Retrieved 2011-04-19.
+^ Frogs, Foam and Fuel: UC Researchers Convert Solar Energy to Sugars Archived 9 June 2012 at the Wayback Machine.
+^ "Debut of the first practical "artificial leaf"". ACS News Releases. American Chemical Society. Retrieved 10 January 2012.
+^ Reece, Steven Y.; Hamel, Jonathan A.; Sung, Kimberly; Jarvi, Thomas D.; Esswein, Arthur J.; Pijpers, Joep J. H.; Nocera, Daniel G. (4 November 2011). "Wireless Solar Water Splitting Using Silicon-Based Semiconductors and Earth-Abundant Catalysts". Science. 334 (6056): 645648. Bibcode:2011Sci...334..645R. doi:10.1126/science.1209816. PMID21960528. Retrieved 10 January 2012.
+^ jobs. "'Artificial leaf' faces economic hurdle: Nature News & Comment". Nature.com. Retrieved 2012-11-07.
+^ Faunce TA, Lubitz W, Rutherford AW, MacFarlane D, Moore GF, Yang P, Nocera DG, Moore TA, Gregory DH, Fukuzumi S,Yoon KB, Armstrong FA, Wasielewski MR, Styring S (2013). "Energy and Environment Policy Case for a Global Project on Artificial Photosynthesis". Energy and Environmental Science. 6 (3): 695698. doi:10.1039/C3EE00063J. CS1 maint: Uses authors parameter (link)
+^ Towards Global Artificial Photosynthesis Lord Howe Island 2011 https://law.anu.edu.au/conferences/artificial-photosynthesis published in Australian Journal of Chemistry Volume 65 Number 6 2012 'Artificial Photosynthesis: Energy, Nanochemistry, and Governance' http://www.publish.csiro.au/nid/52/issue/5915.htm
+^ Do We Need a Global Project on Artificial Photosynthesis? https://royalsociety.org/~/media/events/2014/artificial-photosynthesis/TM0514%20Final%20programme%2027614.pdf?la=en-GB published in Interface Focus Vol 5(3) June 2015 http://rsfs.royalsocietypublishing.org/content/5/3
+^ Global Artificial Photosynthesis- Breakthroughs for the Sustainocene Canberra and Lord Howe island 2016 http://medicalschool.anu.edu.au/towards-the-sustainocene
+^ a b Mendoza-Cortes, J.; Lucht, Kevin P. (September 2015). "Birnessite: A Layered Manganese Oxide To Capture Sunlight for Water-Splitting Catalysis". J. Phys. Chem. C. 40 (119): 2283822846. doi:10.1021/acs.jpcc.5b07860. Retrieved 12 May 2016.
+^ a b c d e Kalyanasundaram, K.; Grtzel, M. (June 2010). "Artificial photosynthesis: biomimetic approaches to solar energy conversion and storage". Current Opinion in Biotechnology. 21 (3): 298310. doi:10.1016/j.copbio.2010.03.021. PMID20439158. Retrieved 24 January 2012.
+^ Lubitz, Wolfgang; Reijerse, Eduard; van Gastel, Maurice (2007). "[NiFe] and [FeFe] Hydrogenases Studied by Advanced Magnetic Resonance Techniques". Chemical Reviews. 107 (10): 43314365. doi:10.1021/cr050186q. PMID17845059.
+^ Fontecilla-Camps, Juan C.; Volbeda, Anne; Cavazza, Christine; Nicolet, Yvain (2007). "Structure/Function Relationships of [NiFe]- and [FeFe]-Hydrogenases". Chemical Reviews. 107 (10): 42734303. doi:10.1021/cr050195z. PMID17850165.
+^ Tard, Cdric; Pickett, Christopher J. (2009). "Structural and Functional Analogues of the Active Sites of the [Fe]-, [NiFe]-, and [FeFe]-Hydrogenases". Chemical Reviews. 109 (6): 22452274. doi:10.1021/cr800542q. PMID19438209.
+^ Tard, Cdric; Liu, Xiaoming; Ibrahim, Saad K.; Bruschi, Maurizio; De Gioia, Luca; Davies, Sin C.; Yang, Xin; Wang, Lai-Sheng; et al. (10 February 2005). "Synthesis of the H-cluster framework of iron-only hydrogenase". Nature. 433 (7026): 610613. Bibcode:2005Natur.433..610T. doi:10.1038/nature03298. PMID15703741. Retrieved 19 January 2012.
+^ Heyduk, Alan F.; Nocera (31 August 2001). "Daniel G.". Science. 293 (5535): 16391641. Bibcode:2001Sci...293.1639H. doi:10.1126/science.1062965. PMID11533485. Retrieved 19 January 2012.
+^ Hu, Xile; Cossairt, Brandi M.; Brunschwig, Bruce S.; Lewis, Nathan S.; Peters, Jonas C. (2005). "Electrocatalytic hydrogen evolution by cobalt difluoroboryl-diglyoximate complexes". Journal Cover:Chem. Commun., 2005, 47234725 Chemical Communications. 37 (37): 47234725. doi:10.1039/B509188H. Retrieved 19 January 2012.
+^ Yano, Junko; Kern, Jan; Irrgang, Klaus-Dieter; Latimer, Matthew J.; Bergmann, Uwe; Glatzel, Pieter; Pushkar, Yulia; Biesiadka, Jacek; Loll, Bernhard; Sauer, Kenneth; Messinger, Johannes; Zouni, Athina; Yachandra, Vittal K. (23 August 2005). "X-ray damage to the Mn4Ca complex in single crystals of photosystem II: A case study for metalloprotein crystallography". Proceedings of the National Academy of Sciences. 102 (34): 1204712052. Bibcode:2005PNAS..10212047Y. doi:10.1073/pnas.0505207102. Retrieved 23 January 2012.
+^ Yasufumi, Umena; Kawakami, Keisuke; Shen, Jian-Ren; Kamiya, Nobuo (5 May 2011). "Crystal structure of oxygen-evolving photosystem II at a resolution of 1.9". Nature. 473 (7345): 5560. Bibcode:2011Natur.473...55U. doi:10.1038/nature09913. PMID21499260. Retrieved 23 January 2012.
+^ Dismukes, G. Charles; Brimblecombe, Robin; Felton, Greg A. N.; Pryadun, Ruslan S.; Sheats, John E.; Spiccia, Leone; Swiegers, Gerhard F. (2009). "Development of Bioinspired 4O4Cubane Water Oxidation Catalysts: Lessons from Photosynthesis". Accounts of Chemical Research. 42 (12): 19351943. doi:10.1021/ar900249x. PMID19908827.
+^ Binod Nepal and Siddhartha Das (2013). "Sustained Water Oxidation by a Catalyst Cage-Isolated in a MetalOrganic Framework". Angew. Chem. Int. Ed. 52 (28): 722427. doi:10.1002/anie.201301327. CS1 maint: Uses authors parameter (link)
+^ Rebecca E. Hansen; Siddhartha Das (2014). "Biomimetic di-manganese catalyst cage-isolated in a MOF: robust catalyst for water oxidation with Ce(IV), a non-O-donating oxidant". Energy & Environ Sci. 7 (1): 317322. doi:10.1039/C3EE43040E.
+^ Chemical & Engineering News
+^ Calzaferri, Gion (2010). "Artificial Photosynthesis". Topics in Catalysis. pp.130140.
+^ Calzaferri, Gion; Mallet-Renault, Rachel; Brhwiler, Dominik; Pansu, Robert; Dolamic, Igor; Dienel, Thomas; Adler, Pauline; Li, Huanrong; Kunzmann, Andreas (2011). "Designing DyeNanochannel Antenna Hybrid Materials for Light Harvesting, Transport and Trapping". ChemPhysChem. 12 (3): 580594. doi:10.1002/cphc.201000947.
+^ Tabacchi, Gloria; Fois, Ettore; Calzaferri, Gion (2015). "Structure of Nanochannel Entrances in Stopcock-Functionalized Zeolite L". Angewandte Chemie International Edition. 54 (38): 1111211116. doi:10.1002/anie.201504745.
+^ Ellis J.R. (2010). "Tackling unintelligent design". Nature. 463 (7278): 164165. Bibcode:2010Natur.463..164E. doi:10.1038/463164a. PMID20075906.
+^ a b Dubois, M. Rakowski; Dubois, Daniel L. (2009). "Development of Molecular Electrocatalysts for CO2Reduction and H2Production/Oxidation". Accounts of Chemical Research. 42 (12): 19741982. doi:10.1021/ar900110c. PMID19645445.
+^ McConnell, Iain; Li, Gonghu; Brudvig, Gary W. (28 May 2010). "Energy Conversion in Natural and Artificial Photosynthesis". Chemistry and Biology. 17 (5): 434447. doi:10.1016/j.chembiol.2010.05.005. PMC2891097. PMID20534342. Retrieved 24 January 2012.
+^ Hocking, Rosalie K.; Brimblecombe, Robin; Chang, Lan-Yun; Singh, Archana; Cheah, Mun Hon; Glover, Chris; Casey, William H.; Spiccia, Leone (2011). "Water-oxidation catalysis by manganese in a geochemical-like cycle". Nature Chemistry. 3 (6): 461466. Bibcode:2011NatCh...3..461H. doi:10.1038/nchem.1049. PMID21602861. Retrieved 23 January 2012.
+^ Yerga, Rufino M. Navarro; lvarez-Galvn, M. Consuelo; del Valle, F.; de la Mano, Jos A. Villoria; Fierro, Jos L. G. (22 June 2009). "Water Splitting on Semiconductor Catalysts under Visible-Light Irradiation". ChemSusChem. 2 (6): 471485. doi:10.1002/cssc.200900018. PMID19536754.
+^ Badura, Adrian; Guschin, Dmitrii; Esper, Berndt; Kothe, Tim; Neugebauer, Sebastian; Schuhmann, Wolfgang; Rgner, Matthias (May 2008). "Photo-Induced Electron Transfer Between Photosystem 2 via Cross-linked Redox Hydrogels". Electroanalysis. 20 (10): 10431047. doi:10.1002/elan.200804191.
+^ a b c Krassen, Henning; Ott, Sascha; Heberle, Joachim (2011). "In vitro hydrogen productionusing energy from the sun". Physical Chemistry Chemical Physics. 13 (1): 4757. Bibcode:2011PCCP...13...47K. doi:10.1039/C0CP01163K. PMID21103567. Retrieved 19 January 2012.
+^ Dempsey, Jillian L.; Brunschwig, Bruce S.; Winkler, Jay R.; Gray, Harry B. (2009). "Hydrogen Evolution Catalyzed by Cobaloximes". Accounts of Chemical Research. 42 (12): 19952004. doi:10.1021/ar900253e. PMID19928840.
+^ Karen Walsh 27 March 2007 Building a Bio-inspired Catalytic Cycle for Fuel Production
+^ Lindberg, Pia; Schtz, Kathrin; Happe, Thomas; Lindblad, Peter (NovemberDecember 2002). "A hydrogen-producing, hydrogenase-free mutant strain of Nostoc punctiforme ATCC 29133". International Journal of Hydrogen Energy. 27 (1112): 12911296. doi:10.1016/S0360-3199(02)00121-0. Retrieved 25 January 2012.
+^ a b Lan, Ethan I.; Liao, James C. (July 2011). "Metabolic engineering of cyanobacteria for 1-butanol production from carbon dioxide". Metabolic Engineering. 13 (4): 353363. doi:10.1016/j.ymben.2011.04.004. PMID21569861. Retrieved 25 January 2012.
+^ Kunjapur, Aditya M.; Eldridge, R. Bruce (2010). "Photobioreactor Design for Commercial Biofuel Production from Microalgae". Industrial and Engineering Chemistry Research. 49 (8): 35163526. doi:10.1021/ie901459u.
+^ Blankenship, Robert E.; Tiede, David M.; Barber, James; Brudvig, Gary W.; Fleming, Graham; Ghirardi, Maria; Gunner, M. R.; Junge, Wolfgang; Kramer, David M.; Melis, Anastasios; Moore, Thomas A.; Moser, Christopher C.; Nocera, Daniel G.; Nozik, Arthur J.; Ort, Donald R.; Parson, William W.; Prince, Roger C.; Sayre, Richard T. (13 May 2011). "Comparing Photosynthetic and Photovoltaic Efficiencies and Recognizing the Potential for Improvement". Science. 332 (6031): 805809. Bibcode:2011Sci...332..805B. doi:10.1126/science.1200165. PMID21566184. Retrieved 17 January 2012.
+^ Nicola Armaroli, Vincenzo Balzani: Solar Electricity and Solar Fuels: Status and Perspectives in the Context of the Energy Transition. In: Chemistry  A European Journal 22, Issue 1, (2016), 3257, doi:10.1002/chem.201503580.
+^ Shannon A. Bonke et al., Renewable fuels from concentrated solar power: towards practical artificial photosynthesis. In: Energy and Environmental Science 8, (2015), 2791-2796, doi:10.1039/c5ee02214b.
+^ Biello, David. "Plants versus Photovoltaics: Which Are Better to Capture Solar Energy?". Scientific American. Retrieved 17 January 2012.
+External links[edit]
+Engineering light-activated metalloproteins to split water at Australia National University
+Daniel Nocera describes new process for storing solar energy at Massachusetts Institute of Technology.
+Paul Alivisatos on Artificial Photosynthesis at Lawrence Berkeley National Laboratory
+Nanocapsules for artificial photosynthesis a Nanowerk News article
+MIT Solar Revolution Project
+v
+t
+e
+Emerging technologies
+Technology
+Fields
+Agriculture
+Agricultural robot
+Closed ecological systems
+Cultured meat
+Genetically modified food
+Precision agriculture
+Vertical farming
+Architecture
+Arcology
+Building printing
+Contour crafting
+D-Shape
+Domed city
+Biomedical
+Artificial uterus
+Ampakine
+Brain transplant
+Cryonics
+Cryoprotectant
+Cryopreservation
+Vitrification
+Suspended animation
+De-extinction
+Genetic engineering
+Gene therapy
+Head transplant
+Isolated brain
+Life extension
+Strategies for Engineered Negligible Senescence
+Nanomedicine
+Nanosensors
+Personalized medicine
+Regenerative medicine
+Stem-cell therapy
+Tissue engineering
+Robot-assisted surgery
+Synthetic biology
+Synthetic genomics
+Virotherapy
+Oncolytic virus
+Tricorder
+Whole genome sequencing
+Displays
+Next generation
+FED
+FLCD
+iMoD
+Laser
+LPD
+OLED
+OLET
+QD-LED
+SED
+TPD
+TDEL
+TMOS
+Screenless
+Bionic contact lens
+Head-mounted display
+Head-up display
+Optical head-mounted display
+Virtual retinal display
+Other
+Autostereoscopy
+Flexible display
+Holographic display
+Computer-generated holography
+Multi-primary color display
+Ultra HD
+Volumetric display
+Electronics
+Electronic nose
+E-textiles
+Flexible electronics
+Molecular electronics
+Nanoelectromechanical systems
+Memristor
+Spintronics
+Thermal copper pillar bump
+Energy
+Production
+Airborne wind turbine
+Artificial photosynthesis
+Biofuels
+Carbon-neutral fuel
+Concentrated solar power
+Fusion power
+Home fuel cell
+Hydrogen economy
+Methanol economy
+Molten salt reactor
+Nantenna
+Photovoltaic pavement
+Space-based solar power
+Vortex engine
+Storage
+Beltway battery
+Compressed air energy storage
+Flywheel energy storage
+Grid energy storage
+Lithiumair battery
+Molten salt battery
+Nanowire battery
+Research in lithium-ion batteries
+Siliconair battery
+Thermal energy storage
+Ultracapacitor
+Other
+Smart grid
+Wireless power
+IT and
+communications
+Ambient intelligence
+Internet of Things
+Artificial intelligence
+Applications of artificial intelligence
+Progress in artificial intelligence
+Machine translation
+Machine vision
+Semantic Web
+Speech recognition
+Atomtronics
+Carbon nanotube field-effect transistor
+Cybermethodology
+Fourth-generation optical discs
+3D optical data storage
+Holographic data storage
+GPGPU
+Memory
+CBRAM
+FRAM
+Millipede
+MRAM
+NRAM
+PRAM
+Racetrack memory
+RRAM
+SONOS
+Optical computing
+Quantum computing
+Quantum cryptography
+RFID
+Chipless RFID
+Software-defined radio
+Three-dimensional integrated circuit
+Manufacturing
+3D printing
+Claytronics
+Molecular assembler
+Utility fog
+Materials science
+Aerogel
+Amorphous metal
+Artificial muscle
+Conductive polymer
+Femtotechnology
+Fullerene
+Graphene
+High-temperature superconductivity
+High-temperature superfluidity
+Linear acetylenic carbon
+Metamaterials
+Metamaterial cloaking
+Metal foam
+Multi-function structures
+Nanotechnology
+Carbon nanotubes
+Molecular nanotechnology
+Nanomaterials
+Picotechnology
+Programmable matter
+Quantum dots
+Silicene
+Superalloy
+Synthetic diamond
+Military
+Antimatter weapon
+Caseless ammunition
+Directed-energy weapon
+Laser
+Maser
+Particle-beam weapon
+Sonic weapon
+Coilgun
+Railgun
+Plasma weapon
+Pure fusion weapon
+Stealth technology
+Vortex ring gun
+Neuroscience
+Artificial brain
+Blue Brain Project
+Braincomputer interface
+Electroencephalography
+Mind uploading
+Brain-reading
+Neuroinformatics
+Neuroprosthetics
+Bionic eye
+Brain implant
+Exocortex
+Retinal implant
+Robotics
+Domotics
+Nanorobotics
+Powered exoskeleton
+Self-reconfiguring modular robot
+Swarm robotics
+Uncrewed vehicle
+Space science
+Launch
+Fusion rocket
+Non-rocket spacelaunch
+Mass driver
+Orbital ring
+Space elevator
+Space fountain
+Space tether
+Reusable launch system
+Propulsion
+Beam-powered propulsion
+Ion thruster
+Laser propulsion
+Plasma propulsion engine
+Helicon thruster
+VASIMR
+Project Orion
+Nuclear pulse propulsion
+Solar sail
+Other
+Interstellar travel
+Propellant depot
+Transport
+Aerial
+Adaptive compliant wing
+Aeroscraft
+Backpack helicopter
+Delivery drone
+Flying car
+High-altitude platform
+Jet pack
+Pulse detonation engine
+Scramjet
+Spaceplane
+Skylon
+Supersonic transport
+Land
+Airless tire
+Tweel
+Alternative fuel vehicle
+Hydrogen vehicle
+Driverless car
+Ground effect train
+Maglev train
+Personal rapid transit
+Vactrain
+ET3 Global Alliance
+Hyperloop
+Vehicular communication systems
+Pipeline
+Pneumatic transport
+Automated vacuum collection
+Foodtubes
+Other
+Anti-gravity
+Cloak of invisibility
+Digital scent technology
+Force field
+Plasma window
+Immersive virtual reality
+VirtuSphere
+Magnetic refrigeration
+Phased-array optics
+Quantum technology
+Quantum teleportation
+Topics
+Collingridge dilemma
+Differential technological development
+Ephemeralization
+Exploratory engineering
+Fictional technology
+Proactionary principle
+Technological change
+Technological unemployment
+Technological convergence
+Technological evolution
+Technological paradigm
+Technology forecasting
+Accelerating change
+Moore's law
+Technological singularity
+Technology scouting
+Technology readiness level
+Technology roadmap
+Transhumanism
+Category
+List
+NewPP limit report
+Parsed by mw1210
+Cached time: 20161120062351
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.784 seconds
+Real time usage: 1.076 seconds
+Preprocessor visited node count: 4624/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 260156/2097152 bytes
+Template argument size: 1753/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.357/10.000 seconds
+Lua memory usage: 5.49 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+886.741
+1 - -total
+47.19%
+418.428
+1 - Template:Reflist
+34.33%
+304.459
+6 - Template:Navbox
+29.74%
+263.746
+1 - Template:Emerging_technologies
+22.30%
+197.775
+47 - Template:Cite_journal
+11.16%
+98.933
+23 - Template:Cite_web
+6.81%
+60.418
+2 - Template:Citation_needed
+6.34%
+56.214
+2 - Template:Fix
+3.10%
+27.457
+1 - Template:Use_dmy_dates
+3.08%
+27.326
+4 - Template:Category_handler
+Saved in parser cache with key enwiki:pcache:idhash:1430539-0!*!0!!en!4!* and timestamp 20161120062350 and revision id 749306645
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Artificial_photosynthesis&oldid=749306645"
+Categories: Hydrogen productionPhotochemistryRenewable energy technologyFuel productionEmerging technologiesHidden categories: Webarchive template wayback linksCS1 maint: Uses authors parameterUse dmy dates from December 2012All articles with unsourced statementsArticles with unsourced statements from March 2013

@@ -1,0 +1,647 @@
+ACpower
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about power in AC systems. For information on utility-supplied AC power, see Mains electricity.
+The blinking of non-incandescent city lights is shown in this motion-blurred long exposure. The AC nature of the mains power is revealed by the dashed appearance of the traces of moving lights.
+Power in an electric circuit is the rate of flow of energy past a given point of the circuit. In alternating current circuits, energy storage elements such as inductors and capacitors may result in periodic reversals of the direction of energy flow. The portion of power that, averaged over a complete cycle of the AC waveform, results in net transfer of energy in one direction is known as active power (sometimes also called real power). The portion of power due to stored energy, which returns to the source in each cycle, is known as reactive power.
+Contents
+1 Active, reactive, and apparent power
+2 Power factor
+3 Reactive power
+3.1 Capacitive vs. inductive loads
+4 Reactive power control
+5 Unbalanced polyphase systems
+6 Real number formulas
+7 Multiple frequency systems
+8 See also
+9 References
+10 External links
+Active, reactive, and apparent power[edit]
+In a simple alternating current (AC) circuit consisting of a source and a linear load, both the current and voltage are sinusoidal. If the load is purely resistive, the two quantities reverse their polarity at the same time. At every instant the product of voltage and current is positive or zero, with the result that the direction of energy flow does not reverse. In this case, only active power is transferred. If the loads are purely reactive, then the voltage and current are 90 degrees out of phase. For half of each cycle, the product of voltage and current is positive, but on the other half of the cycle, the product is negative, indicating that on average, exactly as much energy flows toward the load as flows back. There is no net energy flow over one cycle. In this case, only reactive power flowsthere is no net transfer of energy to the load.
+Practical loads have resistance, inductance, and capacitance, so both active and reactive power will flow to real loads. Power engineers measure apparent power as the magnitude of the vector sum of active and reactive power. Apparent power is the product of the root-mean-square of voltage and current. Electrical engineers take apparent power into account when designing and operating power systems, because though the current associated with reactive power does no work at the load, it heats the conductors and wastes energy. Conductors, transformers and generators must be sized to carry the total current, not just the current that does useful work. Failure to provide for the supply of sufficient reactive power in electrical grids can lead to lowered voltage levels and under certain operating conditions to the complete collapse of the network or blackout. Another consequence is that adding the apparent power for two loads will not accurately give the total apparent power unless they have the same displacement between current and voltage (the same power factor).
+Conventionally, capacitors are considered to generate reactive power and inductors to consume it. If a capacitor and an inductor are placed in parallel, then the currents flowing through the inductor and the capacitor tend to cancel rather than add. This is the fundamental mechanism for controlling the power factor in electric power transmission; capacitors (or inductors) are inserted in a circuit to partially compensate reactive power 'consumed' by the load. Purely capacitive circuits supply reactive power with the current waveform leading the voltage waveform by 90 degrees, while purely inductive circuits absorb reactive power with the current waveform lagging the voltage waveform by 90 degrees. The result of this is that capacitive and inductive circuit elements tend to cancel each other out.[1]
+The complex power is the vector sum of active and reactive power. The apparent power is the magnitude of the complex power.
+Active power, P
+Reactive power, Q
+Complex power, S
+Apparent power, |S|
+Phase of current, 
+Engineers use the following terms to describe energy flow in a system (and assign each of them a different unit to differentiate between them):
+Active power,[2] P, or real power:[3] watt (W)
+Reactive power, Q: volt-ampere reactive (var)
+Complex power, S: volt-ampere (VA)
+Apparent power, |S|: the magnitude of complex power S: volt-ampere (VA)
+Phase of voltage relative to current, : the angle of difference (in degrees) between current and voltage; current lagging voltage (quadrant I vector), current leading voltage (quadrant IV vector)
+In the diagram, P is the active power, Q is the reactive power (in this case positive), S is the complex power and the length of S is the apparent power. Reactive power does not do any work, so it is represented as the imaginary axis of the vector diagram. Active power does do work, so it is the real axis.
+The unit for all forms of power is the watt (symbol: W), but this unit is generally reserved for active power. Apparent power is conventionally expressed in volt-amperes (VA) since it is the product of rms voltage and rms current. The unit for reactive power is expressed as var, which stands for volt-ampere reactive. Since reactive power transfers no net energy to the load, it is sometimes called "wattless" power. It does, however, serve an important function in electrical grids and its lack has been cited as a significant factor in the Northeast Blackout of 2003.[4] Understanding the relationship among these three quantities lies at the heart of understanding power engineering. The mathematical relationship among them can be represented by vectors or expressed using complex numbers, S = P + jQ (where j is the imaginary unit).
+Power factor[edit]
+Main article: Power factor
+The ratio of active power to apparent power in a circuit is called the power factor. For two systems transmitting the same amount of active power, the system with the lower power factor will have higher circulating currents due to energy that returns to the source from energy storage in the load. These higher currents produce higher losses and reduce overall transmission efficiency. A lower power factor circuit will have a higher apparent power and higher losses for the same amount of active power. The power factor is one when the voltage and current are in phase. It is zero when the current leads or lags the voltage by 90 degrees. Power factors are usually stated as "leading" or "lagging" to show the sign of the phase angle of current with respect to voltage. Voltage is designated as the base to which current angle is compared, meaning that we think of current as either "leading" or "lagging" voltage. Where the waveforms are purely sinusoidal, the power factor is the cosine of the phase angle () between the current and voltage sinusoid waveforms. Equipment data sheets and nameplates will often abbreviate power factor as "
+cos
+ 
+ 
+{\displaystyle \cos \phi }
+" for this reason.
+Example: The active power is 700 W and the phase angle between voltage and current is 45.6. The power factor is cos(45.6) = 0.700. The apparent power is then: 700 W / cos(45.6) = 1000 VA.[5]
+For instance, a power factor of 68 percent (0.68) means that only 68 percent of the total current supplied is actually doing work; the remaining 32 percent is reactive and has to be made up by the utility. Usually, utilities do not charge consumers for the reactive power losses as they do no real work for the consumer. However, if there are inefficiencies at the customers load source that causes the power factor to fall below a certain level, utilities may charge customers in order to cover an increase in their power plant fuel use and their worse line and plant capacity.
+Reactive power[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2014) (Learn how and when to remove this template message)
+In a direct current circuit, the power flowing to the load is proportional to the product of the current through the load and the potential drop across the load. Energy flows in one direction from the source to the load. In AC power, the voltage and current both vary approximately sinusoidally. When there is inductance or capacitance in the circuit, the voltage and current waveforms do not line up perfectly. The power flow has two components - one component flows from source to load and can perform work at the load, the other portion, known as "reactive power" is due to the delay between voltage and current, known as phase angle, and cannot do useful work at the load. It can be thought of as current that is arriving at the wrong time (too late or too early). To distinguish reactive power from active power, it is measured in units of "volt-amperes reactive" or var. These units can simplify to Watts, but are left as var to denote that they represent no actual work output.
+Energy stored in capacitive or inductive elements of the network give rise to reactive power flow. Reactive power flow strongly influences the voltage levels across the network. Voltage levels and reactive power flow must be carefully controlled to allow a power system to be operated within acceptable limits. A technique known as reactive compensation is used to reduce apparent power flow to a load by reducing reactive power supplied from transmission lines and providing it locally. For example, to compensate an inductive load a shunt capacitor is installed close to the load itself. This allows all reactive power needed by the load to be supplied by the capacitor and not have to be transferred over the transmission lines. This practice alone does not save energy because reactive power does no work, but instead reduces total current flow on the transmission lines allowing them to have smaller current ratings.
+Capacitive vs. inductive loads[edit]
+Stored energy in the magnetic or electric field of a load device, such as a motor or capacitor, causes an offset between the current and the voltage waveforms. A capacitor is an AC device that stores energy in the form of an electric field. As current is driven through the capacitor, charge build-up causes an opposing voltage to develop across the capacitor. This voltage increases until some maximum dictated by the capacitor structure. In an AC network, the voltage across a capacitor is constantly changing. The capacitor opposes this change, causing the current to lead the voltage in phase. Capacitors are said to "source" reactive power, and thus to cause a leading power factor.
+Induction machines are some of the most common types of loads in the electric power system today. These machines use inductors, or large coils of wire to store energy in the form of a magnetic field. When a voltage is initially placed across the coil, the inductor strongly resists this change in current and magnetic field, which causes a time delay for the current to reach its maximum value. This causes the current to lag behind the voltage in phase. Inductors are said to "sink" reactive power, and thus to cause a lagging power factor. Induction generators can source or sink reactive power, and provide a measure of control to system operators over reactive power flow and thus voltage.[6] Because these devices have opposite effects on the phase angle between voltage and current, they can be used to "cancel out" each other's effects. This usually takes the form of capacitor banks being used to counteract the lagging power factor caused by induction motors.
+Reactive power control[edit]
+Transmission connected generators are generally required to support reactive power flow. For example, on the United Kingdom transmission system generators are required by the Grid Code Requirements to supply their rated power between the limits of 0.85 power factor lagging and 0.90 power factor leading at the designated terminals. The system operator will perform switching actions to maintain a secure and economical voltage profile while maintaining a reactive power balance equation:
+G
+e
+n
+e
+r
+a
+t
+o
+r
+M
+V
+A
+R
+s
++
+S
+y
+s
+t
+e
+m
+g
+a
+i
+n
++
+S
+h
+u
+n
+t
+c
+a
+p
+a
+c
+i
+t
+o
+r
+s
+=
+M
+V
+A
+R
+D
+e
+m
+a
+n
+d
++
+R
+e
+a
+c
+t
+i
+v
+e
+l
+o
+s
+s
+e
+s
++
+S
+h
+u
+n
+t
+r
+e
+a
+c
+t
+o
+r
+s
+{\displaystyle Generator_{\mathrm {MVARs} }+System_{\mathrm {gain} }+Shunt_{\mathrm {capacitors} }=MVAR_{\mathrm {Demand} }+Reactive_{\mathrm {losses} }+Shunt_{\mathrm {reactors} }}
+The system gain is an important source of reactive power in the above power balance equation, which is generated by the capacitive nature of the transmission network itself. By making decisive switching actions in the early morning before the demand increases, the system gain can be maximized early on, helping to secure the system for the whole day. To balance the equation some pre-fault reactive generator use will be required. Other sources of reactive power that will also be used include shunt capacitors, shunt reactors, static VAR compensators and voltage control circuits.
+Unbalanced polyphase systems[edit]
+While active power and reactive power are well defined in any system, the definition of apparent power for unbalanced polyphase systems is considered to be one of the most controversial topics in power engineering. Originally, apparent power arose merely as a figure of merit. Major delineations of the concept are attributed to Stanley's Phenomena of Retardation in the Induction Coil (1888) and Steinmetz's Theoretical Elements of Engineering (1915). However, with the development of three phase power distribution, it became clear that the definition of apparent power and the power factor could not be applied to unbalanced polyphase systems. In 1920, a "Special Joint Committee of the AIEE and the National Electric Light Association" met to resolve the issue. They considered two definitions:
+p
+f
+=
+P
+a
++
+P
+b
++
+P
+c
+|
+S
+a
+|
++
+|
+S
+b
+|
++
+|
+S
+c
+|
+{\displaystyle pf={P_{a}+P_{b}+P_{c} \over |S_{a}|+|S_{b}|+|S_{c}|}}
+that is, the quotient of the sums of the active powers for each phase over the sum of the apparent power for each phase.
+p
+f
+=
+P
+a
++
+P
+b
++
+P
+c
+|
+P
+a
++
+P
+b
++
+P
+c
++
+j
+(
+Q
+a
++
+Q
+b
++
+Q
+c
+)
+|
+{\displaystyle pf={P_{a}+P_{b}+P_{c} \over |P_{a}+P_{b}+P_{c}+j(Q_{a}+Q_{b}+Q_{c})|}}
+that is, the quotient of the sums of the active powers for each phase over the magnitude of the sum of the complex powers for each phase.
+The 1920 committee found no consensus and the topic continued to dominate discussions. In 1930 another committee formed and once again failed to resolve the question. The transcripts of their discussions are the lengthiest and most controversial ever published by the AIEE (Emanuel, 1993). Further resolution of this debate did not come until the late 1990s.
+Real number formulas[edit]
+A perfect resistor stores no energy, so current and voltage are in phase. Therefore, there is no reactive power and
+P
+=
+S
+{\displaystyle P=S}
+. Therefore, for a perfect resistor
+P
+=
+S
+=
+V
+R
+M
+S
+I
+R
+M
+S
+=
+I
+R
+M
+S
+2
+R
+=
+V
+R
+M
+S
+2
+R
+{\displaystyle P=S=V_{\mathrm {RMS} }I_{\mathrm {RMS} }=I_{\mathrm {RMS} }^{2}R={\frac {V_{\mathrm {RMS} }^{2}}{R}}\,\!}
+For a perfect capacitor or inductor there is no net power transfer, so all power is reactive. Therefore, for a perfect capacitor or inductor:
+P
+=
+0
+Q
+=
+|
+S
+|
+=
+V
+R
+M
+S
+I
+R
+M
+S
+=
+I
+R
+M
+S
+2
+|
+X
+|
+=
+V
+R
+M
+S
+2
+|
+X
+|
+{\displaystyle {\begin{aligned}P&=0\\Q&=|S|=V_{\mathrm {RMS} }I_{\mathrm {RMS} }=I_{\mathrm {RMS} }^{2}|X|={\frac {V_{\mathrm {RMS} }^{2}}{|X|}}\end{aligned}}}
+Where X is the reactance of the capacitor or inductor.
+If X is defined as being positive for an inductor and negative for a capacitor then we can remove the modulus signs from S and X and get
+Q
+=
+I
+R
+M
+S
+2
+X
+=
+V
+R
+M
+S
+2
+X
+{\displaystyle Q=I_{\mathrm {RMS} }^{2}X={\frac {V_{\mathrm {RMS} }^{2}}{X}}}
+Instantaneous power is defined as:
+P
+inst
+(
+t
+)
+=
+V
+(
+t
+)
+I
+(
+t
+)
+{\displaystyle P_{\text{inst}}(t)=V(t)I(t)}
+where v(t) and i(t) are the time varying voltage and current waveforms.
+This definition is useful because it applies to all waveforms, whether they are sinusoidal or not. This is particularly useful in power electronics, where nonsinusoidal waveforms are common.
+In general, we are interested in the active power averaged over a period of time, whether it is a low frequency line cycle or a high frequency power converter switching period. The simplest way to get that result is to take the integral of the instantaneous calculation over the desired period.
+P
+avg
+=
+1
+t
+2
+ 
+t
+1
+ 
+t
+1
+t
+2
+V
+(
+t
+)
+I
+(
+t
+)
+d
+ 
+t
+{\displaystyle P_{\text{avg}}={\frac {1}{t_{2}-t_{1}}}\int _{t_{1}}^{t_{2}}V(t)I(t)\,\operatorname {d} t}
+This method of calculating the average power gives the active power regardless of harmonic content of the waveform. In practical applications, this would be done in the digital domain, where the calculation becomes trivial when compared to the use of rms and phase to determine active power.
+P
+avg
+=
+1
+n
+ 
+k
+=
+1
+n
+V
+[
+k
+]
+I
+[
+k
+]
+{\displaystyle P_{\text{avg}}={\frac {1}{n}}\sum _{k=1}^{n}V[k]I[k]}
+Multiple frequency systems[edit]
+Since an RMS value can be calculated for any waveform, apparent power can be calculated from this. For active power it would at first appear that we would have to calculate many product terms and average all of them. However, if we look at one of these product terms in more detail we come to a very interesting result.
+A
+cos
+ 
+(
+ 
+1
+t
++
+k
+1
+)
+cos
+ 
+(
+ 
+2
+t
++
+k
+2
+)
+=
+A
+2
+cos
+ 
+[
+(
+ 
+1
+t
++
+k
+1
+)
++
+(
+ 
+2
+t
++
+k
+2
+)
+]
++
+A
+2
+cos
+ 
+[
+(
+ 
+1
+t
++
+k
+1
+)
+ 
+(
+ 
+2
+t
++
+k
+2
+)
+]
+=
+A
+2
+cos
+ 
+[
+(
+ 
+1
++
+ 
+2
+)
+t
++
+k
+1
++
+k
+2
+]
++
+A
+2
+cos
+ 
+[
+(
+ 
+1
+ 
+ 
+2
+)
+t
++
+k
+1
+ 
+k
+2
+]
+{\displaystyle {\begin{aligned}&A\cos(\omega _{1}t+k_{1})\cos(\omega _{2}t+k_{2})\\={}&{\frac {A}{2}}\cos \left[\left(\omega _{1}t+k_{1}\right)+\left(\omega _{2}t+k_{2}\right)\right]+{\frac {A}{2}}\cos \left[\left(\omega _{1}t+k_{1}\right)-\left(\omega _{2}t+k_{2}\right)\right]\\={}&{\frac {A}{2}}\cos \left[\left(\omega _{1}+\omega _{2}\right)t+k_{1}+k_{2}\right]+{\frac {A}{2}}\cos \left[\left(\omega _{1}-\omega _{2}\right)t+k_{1}-k_{2}\right]\end{aligned}}}
+However, the time average of a function of the form cos(t+k) is zero provided that  is nonzero. Therefore, the only product terms that have a nonzero average are those where the frequency of voltage and current match. In other words, it is possible to calculate active (average) power by simply treating each frequency separately and adding up the answers. Furthermore, if we assume the voltage of the mains supply is a single frequency (which it usually is), this shows that harmonic currents are a bad thing. They will increase the rms current (since there will be non-zero terms added) and therefore apparent power, but they will have no effect on the active power transferred. Hence, harmonic currents will reduce the power factor. Harmonic currents can be reduced by a filter placed at the input of the device. Typically this will consist of either just a capacitor (relying on parasitic resistance and inductance in the supply) or a capacitor-inductor network. An active power factor correction circuit at the input would generally reduce the harmonic currents further and maintain the power factor closer to unity.
+See also[edit]
+Energy portal
+War of Currents
+Electric power transmission
+Transformer
+Mains electricity
+References[edit]
+^ [1]
+^ Definition of Active Power in the International Electrotechnical Vocabulary Archived April 23, 2015, at the Wayback Machine.
+^ IEEE 100: the authoritative dictionary of IEEE standards terms.-7th ed. ISBN 0-7381-2601-2, page 23
+^ "August 14, 2003 Outage - Sequence of Events" (PDF). FERC. 2003-09-12. Archived (PDF) from the original on 2007-10-20. Retrieved 2008-02-18.
+^ "AC power calculation".[dead link] 091123 encon.fke.utm.my (google cache)
+^ "Archived copy". Archived from the original on 2015-10-25. Retrieved 2015-04-29.
+External links[edit]
+"AC Power Java Applet"
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1274
+Cached time: 20161119065615
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.200 seconds
+Real time usage: 0.301 seconds
+Preprocessor visited node count: 1045/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 36833/2097152 bytes
+Template argument size: 1332/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 3.12 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+184.106
+1 - -total
+38.00%
+69.968
+1 - Template:Reflist
+21.96%
+40.431
+3 - Template:Cite_web
+19.67%
+36.221
+2 - Template:Navbox
+18.39%
+33.861
+1 - Template:Electricity_generation
+17.42%
+32.065
+1 - Template:Unreferenced_section
+15.22%
+28.022
+1 - Template:Ambox
+12.77%
+23.502
+1 - Template:About
+8.37%
+15.404
+1 - Template:Navbox_subgroup
+6.51%
+11.978
+1 - Template:Dead_link
+Saved in parser cache with key enwiki:pcache:idhash:1780823-0!*!0!!en!4!*!math=5 and timestamp 20161119065615 and revision id 749696015
+Retrieved from "https://en.wikipedia.org/w/index.php?title=AC_power&oldid=749696015"
+Categories: Electric powerHidden categories: Webarchive template wayback linksAll articles with dead external linksArticles with dead external links from June 2016Pages using ISBN magic linksArticles needing additional references from October 2014All articles needing additional references

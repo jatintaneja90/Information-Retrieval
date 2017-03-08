@@ -1,0 +1,190 @@
+Buildinginsulation
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Common insulation application inside an apartment in Mississauga, Ontario
+Mineral wool insulation
+Building insulation refers broadly to any object in a building used as insulation for any purpose. While the majority of insulation in buildings is for thermal purposes, the term also applies to acoustic insulation, fire insulation, and impact insulation (e.g. for vibrations caused by industrial applications). Often an insulation material will be chosen for its ability to perform several of these functions at once.
+Contents
+1 Thermal insulation
+2 Planning
+2.1 In the USA
+2.2 Russia
+3 Climate
+3.1 Cold climates
+3.2 Hot climates
+4 Orientation - passive solar design
+5 Construction
+5.1 Building envelope
+5.2 Thermal bridge
+5.3 Installation
+6 Materials
+6.1 Conductive and convective insulators
+6.2 Radiant heat barriers
+6.3 Eco-friendly insulation
+7 See also
+8 References
+9 External links
+Thermal insulation[edit]
+Thermal insulation in buildings is an important factor to achieving thermal comfort for its occupants. Insulation reduces unwanted heat loss or gain and can decrease the energy demands of heating and cooling systems. It does not necessarily deal with issues of adequate ventilation and may or may not affect the level of sound insulation. In a narrow sense insulation can just refer to the insulation materials employed to slow heat loss, such as: cellulose, glass wool, rock wool, polystyrene, urethane foam, vermiculite, perlite, wood fibre, plant fibre (cannabis, flax, cotton, cork, etc.), recycled cotton denim, plant straw, animal fibre (sheep's wool), cement, and earth or soil, Reflective Insulation (also known as Radiant Barrier) but it can also involve a range of designs and techniques to address the main modes of heat transfer - conduction, radiation and convection materials.[1][2] Many of the materials in this list deal with heat conduction and convection by the simple expedient of trapping large amounts of air (or other gas) in a way that results in a material that employs the low thermal conductivity of small pockets of gas, rather than the much higher conductivity of typical solids. (A similar gas-trapping principle is used in animal hair, down feathers, and in air-containing insulating fabrics).
+The effectiveness of Reflective Insulation (Radiant Barrier) is commonly evaluated by the Reflectivity (Emittance) of the surface with airspace facing to the heat source.
+The effectiveness of bulk insulation is commonly evaluated by its R-value, of which there are two - metric (SI) and US customary, the former being 0.176 times the latter. For attics, it is recommended that it should be at least R-38 (US customary, R-6.7 metric).[3] However, an R-value does not take into account the quality of construction or local environmental factors for each building. Construction quality issues include inadequate vapor barriers, and problems with draft-proofing. In addition, the properties and density of the insulation material itself is critical.
+Planning[edit]
+How much insulation a house should have depends on building design, climate, energy costs, budget, and personal preference. Regional climates make for different requirements. Building codes specify only the bare[citation needed] minimum; insulating beyond what the code requires is often recommended[by whom?].
+The insulation strategy of a building needs to be based on a careful consideration of the mode of energy transfer and the direction and intensity in which it moves. This may alter throughout the day and from season to season. It is important to choose an appropriate design, the correct combination of materials and building techniques to suit the particular situation.
+In the USA[edit]
+To determine whether you should add insulation, you first need to find out how much insulation you already have in your home and where. A qualified home energy auditor will include an insulation check as a routine part of a whole-house energy audit.[4] However, you can sometimes perform a self-assessment in certain areas of the home, such as attics. Here, a visual inspection, along with use of a ruler, can give you a sense of whether you may benefit from additional insulation.[5]
+An initial estimate of insulation needs in the United States can be determined by the US Department of Energy's ZIP code insulation calculator.
+Russia[edit]
+In Russia the luxury of cheap gas has led to poorly insulated, overheated and inefficient consumers of energy. The Russian Center for Energy Efficiency found that Russian buildings are either over- or under-heated, and often consume up to fifty percent more heat and hot water than needed.[6][7] Fifty-three percent of all carbon dioxide (CO2) emissions in Russia are produced through heating and generating electricity for buildings.[8] However, greenhouse gas emissions from the former Soviet Bloc are still below their 1990 levels.[citation needed]
+Climate[edit]
+This article contains instructions, advice, or how-to content. The purpose of Wikipedia is to present facts, not to train. Please help improve this article either by rewriting the how-to content or by moving it to Wikiversity, Wikibooks or Wikivoyage. (September 2009)
+Cold climates[edit]
+Cross-section of home insulation.
+In cold conditions, the main aim is to reduce heat flow out of the building. The components of the building envelope - windows, doors, roofs, walls, and air infiltration barriers - are all important sources of heat loss;[9][10] in an otherwise well insulated home, windows will then become an important source of heat transfer.[11] The resistance to conducted heat loss for standard glazing corresponds to an R-value of about 0.17 m2Ko/W[12] (compared to 2-4 m2Ko/W for glass wool batts[13]). Losses can be reduced by good weatherisation, bulk insulation, and minimising the amount of non-insulative (particularly non-solar facing) glazing. Indoor thermal radiation can also be a disadvantage with spectrally selective (low-e, low-emissivity) glazing. Some insulated glazing systems can double to triple R values.
+Hot climates[edit]
+In hot conditions, the greatest source of heat energy is solar radiation.[14] This can enter buildings directly through windows or it can heat the building shell to a higher temperature than the ambient, increasing the heat transfer through the building envelope.[15][16] The Solar Heat Gain Co-efficient (SHGC)[17] (a measure of solar heat transmittance) of standard single glazing can be around 78-85%.[18] Solar gain can be reduced by adequate shading from the sun, light coloured roofing, spectrally selective (heat-reflective) paints and coatings and various types of insulation for the rest of the envelope. Specially coated glazing can reduce SHGC to around 10%.[12] Radiant barriers are highly effective for attic spaces in hot climates.[19] In this application, they are much more effective in hot climates than cold climates. For downward heat flow, convection is weak and radiation dominates heat transfer across an air space. Radiant barriers must face an adequate air-gap to be effective.
+If refrigerative air-conditioning is employed in a hot, humid climate, then it is particularly important to seal the building envelope. Dehumidification of humid air infiltration can waste significant energy. On the other hand, some building designs are based on effective cross-ventilation instead of refrigerative air-conditioning to provide convective cooling from prevailing breezes.
+Orientation - passive solar design[edit]
+Main article: Passive solar building design
+Optimal placement of building elements (e.g. windows, doors, heaters) can play a significant role in insulation by considering the impact of solar radiation on the building and the prevailing breezes. Reflective laminates can help reduce passive solar heat in pole barns, garages, and metal buildings.
+Construction[edit]
+See insulated glass for discussion of windows.
+Building envelope[edit]
+The thermal envelope defines the conditioned or living space in a house. The attic or basement may or may not be included in this area. Reducing airflow from inside to outside can help to reduce convective heat transfer significantly.[20]
+Ensuring low convective heat transfer also requires attention to building construction (weatherization) and the correct installation of insulative materials.[21][22]
+The less natural airflow into a building, the more mechanical ventilation will be required to support human comfort. High humidity can be a significant issue associated with lack of airflow, causing condensation, rotting construction materials, and encouraging microbial growth such as mould and bacteria. Moisture can also drastically reduce the effectiveness of insulation by creating a thermal bridge (see below). Air exchange systems can be actively or passively incorporated to address these problems.
+Thermal bridge[edit]
+Thermal bridges are points in the building envelope that allow heat conduction to occur. Since heat flows through the path of least resistance, thermal bridges can contribute to poor energy performance. A thermal bridge is created when materials create a continuous path across a temperature difference, in which the heat flow is not interrupted by thermal insulation. Common building materials that are poor insulators include glass and metal.
+A building design may have limited capacity for insulation in some areas of the structure. A common construction design is based on stud walls, in which thermal bridges are common in wood or steel studs and joists, which are typically fastened with metal. Notable areas that most commonly lack sufficient insulation are the corners of buildings, and areas where insulation has been removed or displaced to make room for system infrastructure, such as electrical boxes (outlets and light switches), plumbing, fire alarm equipment, etc.
+Thermal bridges can also be created by uncoordinated construction, for example by closing off parts of external walls before they are fully insulated. The existence of inaccessible voids within the wall cavity which are devoid of insulation can be a source of thermal bridging.
+Some forms of insulation transfer heat more readily when wet, and can therefore also form a thermal bridge in this state.
+The heat conduction can be minimized by any of the following: reducing the cross sectional area of the bridges, increasing the bridge length, or decreasing the number of thermal bridges.
+One method of reducing thermal bridge effects is the installation of an insulation board (e.g. foam board EPS XPS, wood fibre board,[23] etc.) over the exterior outside wall. Another method is using insulated lumber framing for a thermal break inside the wall.[24][25]
+Installation[edit]
+Insulating buildings during construction is much easier than retrofitting, as generally the insulation is hidden, and parts of the building need to be deconstructed to reach them.
+Materials[edit]
+Main article: Building insulation materials
+There are essentially two types of building insulation - bulk insulation and reflective insulation. Most buildings use a combination of both types to make up a total building insulation system. The type of insulation used is matched to create maximum resistance to each of the three forms of building heat transfer - conduction, convection, and radiation.
+Conductive and convective insulators[edit]
+Bulk insulators block conductive heat transfer and convective flow either into or out of a building. The denser a material is, the better it will conduct heat. Because air has such low density, air is a very poor conductor and therefore makes a good insulator. Insulation to resist conductive heat transfer uses air spaces between fibers, inside foam or plastic bubbles and in building cavities like the attic. This is beneficial in an actively cooled or heated building, but can be a liability in a passively cooled building; adequate provisions for cooling by ventilation or radiation [26] are needed.
+Radiant heat barriers[edit]
+Main article: Radiant barrier
+Radiant barriers work in conjunction with an air space to reduce radiant heat transfer across the air space. Radiant or reflective insulation reflects heat instead of either absorbing it or letting it pass through. Radiant barriers are often seen used in reducing downward heat flow, because upward heat flow tends to be dominated by convection. This means that for attics, ceilings, and roofs, they are most effective in hot climates.[16] They also have a role in reducing heat losses in cool climates. However, much greater insulation can be achieved through the addition of bulk insulators (see above).
+Some radiant barriers are spectrally selective and will preferentially reduce the flow of infra-red radiation in comparison to other wavelengths. For instance low-emissivity (low-e) windows will transmit light and short-wave infra-red energy into a building but reflect back the long-wave infra-red radiation generated by interior furnishings. Similarly, special heat-reflective paints are able to reflect more heat than visible light, or vice versa.
+Thermal emissivity values probably best reflect the effectiveness of radiant barriers. Some manufacturers quote an 'equivalent' R-value for these products but these figures can be difficult to interpret, or even misleading, since R-value testing measures total heat loss in a laboratory setting and does not control the type of heat loss responsible for the net result (radiation, conduction, convection).
+A film of dirt or moisture can alter the emissivity and hence the performance of radiant barriers.
+Eco-friendly insulation[edit]
+Eco-friendly insulation is a term used for insulating products with limited environmental impact. The commonly accepted approach to determine whether or not an insulation products, but in fact any product or service is eco-friendly is by doing a life-cycle assessment (LCA). A number of studies compared the environmental impact of insulation materials in their application. The comparison shows that most important is the insulation value of the product meeting the technical requirements for the application. Only in a second order step a differentiation between materials becomes relevant. The report commissioned by the Belgian government to VITO is a good example of such a study. A valuable way to graphically represent such results is by a spider diagram.
+See also[edit]
+Energy portal
+Thermal insulation
+R-value (insulation) - includes a list of insulations with R-values
+External wall insulation
+Thermal mass
+Materials
+Building insulation materials
+Window insulation film
+Wool insulation
+Mineral wool
+Packing (firestopping)
+Greensulate
+Design
+Cool roof
+Green roof
+Passive house
+Zero energy building
+Superinsulation
+Low-energy building
+Passive solar design
+Passive solar building design
+Construction
+Building construction
+Building Envelope
+Building performance
+Deep energy retrofit
+Weatherization
+Other
+Condensation
+HVAC
+ventilation
+References[edit]
+^ BSD-011: Thermal Control in Buildings
+^ Your Home Technical Manual - 1.6a Insulation Overview
+^ Sir Home Green Tips Archived February 9, 2013, at the Wayback Machine.
+^ US Department of Energy - Energy Savers
+^ "Attic Insulation | How Much Do I Need?". insulationinstitute.org. Retrieved 2016-04-26.
+^ http://www.eceee.org/library/conference_proceedings/ACEEE_buildings/2000/Panel_3/p3_1/paper
+^ http://aceee.org/files/proceedings/1996/data/papers/SS96_Panel1_Paper04.pdf
+^ "Archived copy". Archived from the original on 2010-06-05. Retrieved 2010-01-18.
+^ Insulating and heating your home efficiently: Directgov - Environment and greener living
+^ Reduce Your Heating Bills This Winter - Overlooked Sources of Heat Loss in the Home Archived November 7, 2006, at the Wayback Machine.
+^ Your Home Technical Manual - 1.8a Glazing Overview
+^ a b http://www.wers.net/documents/Rehau_NFRC_Dec_2007.pdf
+^ "Archived copy" (PDF). Archived from the original (PDF) on 2007-08-29. Retrieved 2007-12-23.
+^ At latitudes less than 45 degrees, winter insolation rarely falls below 1kWh/m2/day and may rise above 7kWh/m2/day during summer. (Source:www.gaisma.com) In comparison the power output of an average domestic bar radiator is about 1kW. Therefore the amount of thermal radiation falling upon a 200m2 house could vary between 200-1400 home heaters operating continuously for one hour.
+^ Re-radiation of heat into the roof space during summer can cause sol-air temperatures to reach 60Co
+^ a b Comparative Evaluation of the Impact of Roofing Systems on Residential Cooling Energy Demand in Florida
+^ Windows Energy Ratings Scheme - WERS Archived January 20, 2008, at the Wayback Machine.
+^ Glass Performance - G.James Glass & Aluminium
+^ Florida Solar Energy Center
+^ BERC - Airtightness Archived August 28, 2010, at the Wayback Machine.
+^ DOE Building Technologies Program: Building Envelope
+^ V-E Framing Archived November 28, 2007, at the Wayback Machine.
+^ "Archived copy" (PDF). Archived from the original (PDF) on 2011-10-05. Retrieved 2011-01-21. Pavatex Diffutherm ETICS
+^ "Archived copy". Archived from the original on 2011-01-09. Retrieved 2010-10-25.
+^ http://www.rstud.com
+^ Design of Low Cost Passive Cooling Systems, ThinkCycle Open Collaborative Design, Archived December 20, 2007, at the Wayback Machine.
+External links[edit]
+Wikibooks has a book on the topic of: Do-It-Yourself/House_insulation
+Tips for Selecting Roof Insulation
+"Resources on the History of Insulation". solarhousehistory.com.
+NewPP limit report
+Parsed by mw1264
+Cached time: 20161119120113
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.200 seconds
+Real time usage: 0.255 seconds
+Preprocessor visited node count: 1256/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 25737/2097152 bytes
+Template argument size: 1921/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 3.59 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+205.863
+1 - -total
+34.64%
+71.314
+2 - Template:Citation_needed
+31.60%
+65.060
+1 - Template:Reflist
+30.67%
+63.130
+3 - Template:Fix
+19.48%
+40.105
+6 - Template:Cite_web
+14.72%
+30.310
+5 - Template:Category_handler
+13.75%
+28.306
+3 - Template:Delink
+6.86%
+14.112
+1 - Template:By_whom
+5.52%
+11.357
+1 - Template:Howto
+5.22%
+10.751
+6 - Template:Webarchive
+Saved in parser cache with key enwiki:pcache:idhash:6900318-0!*!0!!en!4!* and timestamp 20161119120113 and revision id 750149033
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Building_insulation&oldid=750149033"
+Categories: Sustainable buildingInsulatorsThermal protectionEnergy conservationHeat transferBuilding materialsHidden categories: Webarchive template wayback linksAll articles with unsourced statementsArticles with unsourced statements from May 2016Articles with specifically marked weasel-worded phrases from May 2016Articles with unsourced statements from April 2013Articles needing cleanup from September 2009All pages needing cleanupArticles containing how-to sections

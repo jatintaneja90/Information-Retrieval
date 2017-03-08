@@ -1,0 +1,87 @@
+Carnotmethod
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}The Carnot method is an allocation procedure for dividing up fuel input (primary energy, end energy) in joint production processes that generate two or more energy products in one process (e.g. cogeneration or trigeneration). It is also suited to allocate other streams such as CO2-emissions or variable costs. The potential to generate mechanical or electrical work (exergy) is used as the distribution key. For heat this potential can be assessed the Carnot efficiency. Thus, the Carnot method is a form of an exergetic allocation method. It uses mean heat grid temperatures at the output of the process as a calculation basis. The main application area of this method is cogeneration, but it can also be applied to other processes generating a joint products, such as a chiller generating cold and producing waste heat which could be used for low temperature heat demand. The Carnot method's advantage is that no external reference values are required to allocate the input to the different output streams; only endogenous process parameters are needed. Thus, the allocation results remain unbiased of assumptions or external reference values that are open for discussion.
+Contents
+1 Fuel allocation factor
+2 Fuel factor
+3 Primary energy factor
+4 Effective efficiency
+5 Performance factor of energy transformation
+6 Mathematical derivation
+7 See also
+8 Further reading
+Fuel allocation factor[edit]
+The fuel share ael which is needed to generate the combined product electrical energy W (work) and ath for the thermal energy H (useful heat) respectively, can be calculated accordingly to the first and second laws of thermodynamics as follows:
+ael= (1 x el) / (el + c  th)
+ath= (c x th) / (el + c  th)
+Note: ael + ath = 1
+with
+ael: allocation factor for electrical energy, i.e. the share of the fuel input which is allocated to electricity production
+ath: allocation factor for thermal energy, i.e. the share of the fuel input which is allocated to heat production
+el = W/QF
+th = H/QF
+W: electrical work
+H: useful heat
+QF: Total heat, fuel or primary energy input
+and
+c: Carnot factor 1-Ti/Ts (Carnot factor for electrical energy is 1)
+Ti: lower temperature, inferior (ambient)
+Ts: upper temperature, superior (useful heat)
+In heating systems, a good approximation for the upper temperature is the average between forward and return flow on the distribution side of the heat exchager.
+Ts = (TFF+TRF) / 2
+Fuel factor[edit]
+The fuel intensity or the fuel factor for electrical energy fF,el resp. thermal energy fF,th is the relation of specific input to output.
+fF,el= ael / el = 1 / (el + c  th)
+fF,th= ath / th = c / (el + c  th)
+Primary energy factor[edit]
+To obtain the primary energy factors of cogenerated heat and electricity, the energy prechain needs to be considered.
+fPE,el = fF,el  fPE,F
+fPE,th = fF,th  fPE,F
+with
+fPE,F: primary energy factor of the used fuel
+Effective efficiency[edit]
+The reciprocal value of the fuel factor (f-intensity) describes the effective efficiency of the assumed sub-process, which in case of CHP is only responsible for electrical or thermal energy generation. This equivalent efficiency corresponds to the effective efficiency of a "virtual boiler" or a "virtual generator" within the CHP plant.
+el,eff = el / ael = 1 / fF,el
+th,eff = th / ath = 1 / fF,th
+with
+el,eff: effective efficiency of electricity generation within the CHP process
+th,eff: effective efficiency of heat generation within the CHP process
+Performance factor of energy transformation[edit]
+Next to the efficiency factor which describes the quantity of usable end energies, the quality of energy transformation according to the entropy law is also important. With rising entropy, exergy declines. Exergy does not only consider energy but also energy quality. It can be considered a product of both. Therefore any energy transformation should also be assessed according to its exergetic efficiciency or loss ratios. The quality of the product "thermal energy" is fundamentally determined by the mean temperature level at which this heat is delivered. Hence, the exergetic efficiency x describes how much of the fuel's potential to generate physical work remains in the joint energy products. With cogeneration the result is the following relation:
+x,total = el + c  th
+The allocation with the Carnot method always results in:
+x,total = x,el = x,th
+with
+x,total = exergetic efficiency of the combined process
+x,el = exergetic efficiency of the virtual electricity-only process
+x,th = exergetic efficiency of the virtual heat-only process
+Mathematical derivation[edit]
+Let's assume a joint production with Input I and a first output O1 and a second output O2. f is a factor for rating the relevant product in the domain of primary energy, or fuel costs, or emissions, etc.
+evaluation of the input = evaluation of the output
+fi  I = f1  O1 + f2  O2
+The factor for the input fi and the quantities of I, O1, and O2 are known. An equation with two unknowns f1 and f2 has to be solved, which is possible with a lot of adequate tuples. As second equation, the physical transformation of product O1 in O2 and vice versa is used.
+O1 = 21  O2
+21 is the transformation factor from O2 into O1, the inverse 1/21=12 describes the backward transformation. A reversible transformation is assumed, in order not to favour any of the two directions. Because of the exhangeability of O1 and O2, the assessment of the two sides of the equation above with the two factors f1 and f2 should therefore result in an equivalent outcome. Output O2 evaluated with f2 shall be the same as the amount of O1 generated from O2 and evaluated with f1.
+f1  (21  O2) = f2  O2
+If we put this into the first equation, we see the following steps:
+fi  I = f1  O1 + f1  (21  O2)
+fi  I = f1  (O1 + 21  O2)
+fi = f1  (O1/I + 21  O2/I)
+fi = f1  (1 + 21  2)
+f1 = fi / (1 + 21  2) or respectively f2 = 21  fi / (1 + 21  2)
+with 1 = O1/I and 2 = O2/I
+See also[edit]
+Cogeneration
+Variable cost
+Joint product pricing
+Nicolas Lonard Sadi Carnot
+Second law of thermodynamics
+Further reading[edit]
+Marc Rosen: Allocating carbon dioxide emissions from cogeneration systems: descriptions of selected output-based methods, Journal of Cleaner Production, Volume 16, Issue 2, January 2008, p. 171177.
+Andrej Jentsch: The Carnot-Method for Allocation of Fuel and Emissions, EuroHeat&Power, Vol 12 II, 2015, p. 26-28.
+Andrej Jentsch: A novel exergy-based concept of thermodynamic quality and its application to energy system evaluation and process analysis, dissertation, TU Berlin, 2010.
+Verein Deutscher Ingenieure: VDI-Guideline 4608 Part 2, Energy systems - Combined heat and power - Allocation and evaluation, Juli 2008.
+Saved in parser cache with key enwiki:pcache:idhash:47623374-0!*!0!!en!*!* and timestamp 20161111103633 and revision id 679392606
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Carnot_method&oldid=679392606"
+Categories: CogenerationEnergy conversionPricing

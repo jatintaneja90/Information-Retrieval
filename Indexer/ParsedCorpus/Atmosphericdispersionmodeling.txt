@@ -1,0 +1,574 @@
+Atmosphericdispersionmodeling
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Industrial air pollution source
+Atmospheric dispersion modeling is the mathematical simulation of how air pollutants disperse in the ambient atmosphere. It is performed with computer programs that solve the mathematical equations and algorithms which simulate the pollutant dispersion. The dispersion models are used to estimate the downwind ambient concentration of air pollutants or toxins emitted from sources such as industrial plants, vehicular traffic or accidental chemical releases. They can also be used to predict future concentrations under specific scenarios (i.e. changes in emission sources). Therefore, they are the dominant type of model used in air quality policy making. They are most useful for pollutants that are dispersed over large distances and that may react in the atmosphere. For pollutants that have a very high spatio-temporal variability (i.e. have very steep distance to source decay such as black carbon) and for epidemiological studies statistical land-use regression models are also used.
+Dispersion models are important to governmental agencies tasked with protecting and managing the ambient air quality. The models are typically employed to determine whether existing or proposed new industrial facilities are or will be in compliance with the National Ambient Air Quality Standards (NAAQS) in the United States and other nations. The models also serve to assist in the design of effective control strategies to reduce emissions of harmful air pollutants. During the late 1960s, the Air Pollution Control Office of the U.S. EPA initiated research projects that would lead to the development of models for the use by urban and transportation planners.[1] A major and significant application of a roadway dispersion model that resulted from such research was applied to the Spadina Expressway of Canada in 1971.
+Air dispersion models are also used by public safety responders and emergency management personnel for emergency planning of accidental chemical releases. Models are used to determine the consequences of accidental releases of hazardous or toxic materials, Accidental releases may result in fires, spills or explosions that involve hazardous materials, such as chemicals or radionuclides. The results of dispersion modeling, using worst case accidental release source terms and meteorological conditions, can provide an estimate of location impacted areas, ambient concentrations, and be used to determine protective actions appropriate in the event a release occurs. Appropriate protective actions may include evacuation or shelter in place for persons in the downwind direction. At industrial facilities, this type of consequence assessment or emergency planning is required under the Clean Air Act (United States) (CAA) codified in Part 68 of Title 40 of the Code of Federal Regulations.
+The dispersion models vary depending on the mathematics used to develop the model, but all require the input of data that may include:
+Meteorological conditions such as wind speed and direction, the amount of atmospheric turbulence (as characterized by what is called the "stability class"), the ambient air temperature, the height to the bottom of any inversion aloft that may be present, cloud cover and solar radiation.
+Source term (the concentration or quantity of toxins in emission or accidental release source terms) and temperature of the material
+Emissions or release parameters such as source location and height, type of source (i.e., fire, pool or vent stack)and exit velocity, exit temperature and mass flow rate or release rate.
+Terrain elevations at the source location and at the receptor location(s), such as nearby homes, schools, businesses and hospitals.
+The location, height and width of any obstructions (such as buildings or other structures) in the path of the emitted gaseous plume, surface roughness or the use of a more generic parameter "rural" or "city" terrain.
+Many of the modern, advanced dispersion modeling programs include a pre-processor module for the input of meteorological and other data, and many also include a post-processor module for graphing the output data and/or plotting the area impacted by the air pollutants on maps. The plots of areas impacted may also include isopleths showing areas of minimal to high concentrations that define areas of the highest health risk. The isopleths plots are useful in determining protective actions for the public and responders.
+The atmospheric dispersion models are also known as atmospheric diffusion models, air dispersion models, air quality models, and air pollution dispersion models.
+Contents
+1 Atmospheric layers
+2 Gaussian air pollutant dispersion equation
+3 Briggs plume rise equations
+4 See also
+4.1 Atmospheric dispersion models
+4.2 Organizations
+4.3 Others
+5 References
+6 Further reading
+6.1 Books
+6.2 Proceedings
+6.3 Guidance
+7 External links
+Atmospheric layers[edit]
+Discussion of the layers in the Earth's atmosphere is needed to understand where airborne pollutants disperse in the atmosphere. The layer closest to the Earth's surface is known as the troposphere. It extends from sea-level to a height of about 18km and contains about 80 percent of the mass of the overall atmosphere. The stratosphere is the next layer and extends from 18km to about 50km. The third layer is the mesosphere which extends from 50km to about 80km. There are other layers above 80km, but they are insignificant with respect to atmospheric dispersion modeling.
+The lowest part of the troposphere is called the atmospheric boundary layer (ABL) or the planetary boundary layer (PBL) and extends from the Earth's surface to about 1.5 to 2.0km in height. The air temperature of the atmospheric boundary layer decreases with increasing altitude until it reaches what is called the inversion layer (where the temperature increases with increasing altitude) that caps the atmospheric boundary layer. The upper part of the troposphere (i.e., above the inversion layer) is called the free troposphere and it extends up to the 18km height of the troposphere.
+The ABL is of the most important with respect to the emission, transport and dispersion of airborne pollutants. The part of the ABL between the Earth's surface and the bottom of the inversion layer is known as the mixing layer. Almost all of the airborne pollutants emitted into the ambient atmosphere are transported and dispersed within the mixing layer. Some of the emissions penetrate the inversion layer and enter the free troposphere above the ABL.
+In summary, the layers of the Earth's atmosphere from the surface of the ground upwards are: the ABL made up of the mixing layer capped by the inversion layer; the free troposphere; the stratosphere; the mesosphere and others. Many atmospheric dispersion models are referred to as boundary layer models because they mainly model air pollutant dispersion within the ABL. To avoid confusion, models referred to as mesoscale models have dispersion modeling capabilities that extend horizontally up to a few hundred kilometres. It does not mean that they model dispersion in the mesosphere.
+Gaussian air pollutant dispersion equation[edit]
+The technical literature on air pollution dispersion is quite extensive and dates back to the 1930s and earlier. One of the early air pollutant plume dispersion equations was derived by Bosanquet and Pearson.[2] Their equation did not assume Gaussian distribution nor did it include the effect of ground reflection of the pollutant plume.
+Sir Graham Sutton derived an air pollutant plume dispersion equation in 1947[3] which did include the assumption of Gaussian distribution for the vertical and crosswind dispersion of the plume and also included the effect of ground reflection of the plume.
+Under the stimulus provided by the advent of stringent environmental control regulations, there was an immense growth in the use of air pollutant plume dispersion calculations between the late 1960s and today. A great many computer programs for calculating the dispersion of air pollutant emissions were developed during that period of time and they were called "air dispersion models". The basis for most of those models was the Complete Equation For Gaussian Dispersion Modeling Of Continuous, Buoyant Air Pollution Plumes shown below:[4][5]
+C
+=
+Q
+u
+ 
+f
+ 
+y
+2
+ 
+ 
+g
+1
++
+g
+2
++
+g
+3
+ 
+z
+2
+ 
+{\displaystyle C={\frac {\;Q}{u}}\cdot {\frac {\;f}{\sigma _{y}{\sqrt {2\pi }}}}\;\cdot {\frac {\;g_{1}+g_{2}+g_{3}}{\sigma _{z}{\sqrt {2\pi }}}}}
+where:
+f
+{\displaystyle f}
+= crosswind dispersion parameter
+=
+exp
+[
+ 
+y
+2
+/
+(
+2
+ 
+y
+2
+)
+]
+{\displaystyle \exp \;[-\,y^{2}/\,(2\;\sigma _{y}^{2}\;)\;]}
+g
+{\displaystyle g}
+= vertical dispersion parameter =
+g
+1
++
+g
+2
++
+g
+3
+{\displaystyle \,g_{1}+g_{2}+g_{3}}
+g
+1
+{\displaystyle g_{1}}
+= vertical dispersion with no reflections
+=
+exp
+[
+ 
+(
+z
+ 
+H
+)
+2
+/
+(
+2
+ 
+z
+2
+)
+]
+{\displaystyle \;\exp \;[-\,(z-H)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]}
+g
+2
+{\displaystyle g_{2}}
+= vertical dispersion for reflection from the ground
+=
+exp
+[
+ 
+(
+z
++
+H
+)
+2
+/
+(
+2
+ 
+z
+2
+)
+]
+{\displaystyle \;\exp \;[-\,(z+H)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]}
+g
+3
+{\displaystyle g_{3}}
+= vertical dispersion for reflection from an inversion aloft
+=
+ 
+m
+=
+1
+ 
+{
+exp
+[
+ 
+(
+z
+ 
+H
+ 
+2
+m
+L
+)
+2
+/
+(
+2
+ 
+z
+2
+)
+]
+{\displaystyle \sum _{m=1}^{\infty }\;{\big \{}\exp \;[-\,(z-H-2mL)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]}
+?
++
+exp
+[
+ 
+(
+z
++
+H
++
+2
+m
+L
+)
+2
+/
+(
+2
+ 
+z
+2
+)
+]
+{\displaystyle +\,\exp \;[-\,(z+H+2mL)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]}
+?
++
+exp
+[
+ 
+(
+z
++
+H
+ 
+2
+m
+L
+)
+2
+/
+(
+2
+ 
+z
+2
+)
+]
+{\displaystyle +\,\exp \;[-\,(z+H-2mL)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]}
+?
++
+exp
+[
+ 
+(
+z
+ 
+H
++
+2
+m
+L
+)
+2
+/
+(
+2
+ 
+z
+2
+)
+]
+}
+{\displaystyle +\,\exp \;[-\,(z-H+2mL)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]{\big \}}}
+C
+{\displaystyle C}
+= concentration of emissions, in g/m, at any receptor located:
+x meters downwind from the emission source point
+y meters crosswind from the emission plume centerline
+z meters above ground level
+Q
+{\displaystyle Q_{}}
+= source pollutant emission rate, in g/s
+u
+{\displaystyle u}
+= horizontal wind velocity along the plume centerline, m/s
+H
+{\displaystyle H}
+= height of emission plume centerline above ground level, in m
+ 
+z
+{\displaystyle \sigma _{z}}
+= vertical standard deviation of the emission distribution, in m
+ 
+y
+{\displaystyle \sigma _{y}}
+= horizontal standard deviation of the emission distribution, in m
+L
+{\displaystyle L_{}}
+= height from ground level to bottom of the inversion aloft, in m
+exp
+{\displaystyle \exp }
+= the exponential function
+The above equation not only includes upward reflection from the ground, it also includes downward reflection from the bottom of any inversion lid present in the atmosphere.
+The sum of the four exponential terms in
+g
+3
+{\displaystyle g_{3}}
+converges to a final value quite rapidly. For most cases, the summation of the series with m = 1, m = 2 and m = 3 will provide an adequate solution.
+ 
+z
+{\displaystyle \sigma _{z}}
+and
+ 
+y
+{\displaystyle \sigma _{y}}
+are functions of the atmospheric stability class (i.e., a measure of the turbulence in the ambient atmosphere) and of the downwind distance to the receptor. The two most important variables affecting the degree of pollutant emission dispersion obtained are the height of the emission source point and the degree of atmospheric turbulence. The more turbulence, the better the degree of dispersion.
+The resulting calculations for air pollutant concentrations are often expressed as an air pollutant concentration contour map in order to show the spatial variation in contaminant levels over a wide area under study. In this way the contour lines can overlay sensitive receptor locations and reveal the spatial relationship of air pollutants to areas of interest.
+Whereas older models rely on stability classes (see air pollution dispersion terminology) for the determination of
+ 
+y
+{\displaystyle \sigma _{y}}
+and
+ 
+z
+{\displaystyle \sigma _{z}}
+, more recent models increasingly rely on the Monin-Obukhov similarity theory to derive these parameters.
+Briggs plume rise equations[edit]
+The Gaussian air pollutant dispersion equation (discussed above) requires the input of H which is the pollutant plume's centerline height above ground leveland H is the sum of Hs (the actual physical height of the pollutant plume's emission source point) plus H (the plume rise due the plume's buoyancy).
+Visualization of a buoyant Gaussian air pollutant dispersion plume
+To determine H, many if not most of the air dispersion models developed between the late 1960s and the early 2000s used what are known as "the Briggs equations." G.A. Briggs first published his plume rise observations and comparisons in 1965.[6] In 1968, at a symposium sponsored by CONCAWE (a Dutch organization), he compared many of the plume rise models then available in the literature.[7] In that same year, Briggs also wrote the section of the publication edited by Slade[8] dealing with the comparative analyses of plume rise models. That was followed in 1969 by his classical critical review of the entire plume rise literature,[9] in which he proposed a set of plume rise equations which have become widely known as "the Briggs equations". Subsequently, Briggs modified his 1969 plume rise equations in 1971 and in 1972.[10][11]
+Briggs divided air pollution plumes into these four general categories:
+Cold jet plumes in calm ambient air conditions
+Cold jet plumes in windy ambient air conditions
+Hot, buoyant plumes in calm ambient air conditions
+Hot, buoyant plumes in windy ambient air conditions
+Briggs considered the trajectory of cold jet plumes to be dominated by their initial velocity momentum, and the trajectory of hot, buoyant plumes to be dominated by their buoyant momentum to the extent that their initial velocity momentum was relatively unimportant. Although Briggs proposed plume rise equations for each of the above plume categories, it is important to emphasize that "the Briggs equations" which become widely used are those that he proposed for bent-over, hot buoyant plumes.
+In general, Briggs's equations for bent-over, hot buoyant plumes are based on observations and data involving plumes from typical combustion sources such as the flue gas stacks from steam-generating boilers burning fossil fuels in large power plants. Therefore, the stack exit velocities were probably in the range of 20 to 100ft/s (6 to 30m/s) with exit temperatures ranging from 250 to 500F (120 to 260C).
+A logic diagram for using the Briggs equations[4] to obtain the plume rise trajectory of bent-over buoyant plumes is presented below:
+where:
+h
+= plume rise, in m
+F
+= buoyancy factor, in m4s3
+x
+= downwind distance from plume source, in m
+xf
+= downwind distance from plume source to point of maximum plume rise, in m
+u
+= windspeed at actual stack height, in m/s
+s
+= stability parameter, in s2
+The above parameters used in the Briggs' equations are discussed in Beychok's book.[4]
+See also[edit]
+Atmospheric dispersion models[edit]
+List of atmospheric dispersion models provides a more comprehensive list of models than listed below. It includes a very brief description of each model.
+ADMS
+AERMOD
+ATSTEP
+CALPUFF
+CMAQ
+DISPERSION21
+FLACS
+FLEXPART
+HYSPLIT
+HYPACT
+ISC3
+NAME
+MERCURE
+OSPM
+Fluidyn-Panache
+RIMPUFF
+SAFE AIR
+PUFF-PLUME
+LillPello
+PUMA
+Organizations[edit]
+Air Quality Modeling Group
+Air Resources Laboratory
+Finnish Meteorological Institute
+KNMI, Royal Dutch Meteorological Institute
+National Environmental Research Institute of Denmark
+Swedish Meteorological and Hydrological Institute
+TA Luft
+UK Atmospheric Dispersion Modelling Liaison Committee
+UK Dispersion Modelling Bureau
+Desert Research Institute
+VITO (institute) Belgium; https://vito.be/en
+Swedish Defence Research Agency, FOI
+Others[edit]
+Air pollution dispersion terminology
+List of atmospheric dispersion models
+Portable Emissions Measurement System (PEMS)
+Roadway air dispersion modeling
+Useful conversions and formulas for air dispersion modeling
+References[edit]
+^ Fensterstock, J.C. et al., "Reduction of air pollution potential through environmental planning"[permanent dead link], JAPCA, Vol.21,No.7, 1971.
+^ Bosanquet, C.H. and Pearson, J.L., "The spread of smoke and gases from chimneys", Trans. Faraday Soc., 32:1249, 1936
+^ Sutton, O.G., "The problem of diffusion in the lower atmosphere", QJRMS, 73:257, 1947 and "The theoretical distribution of airborne pollution from factory chimneys", QJRMS, 73:426, 1947
+^ a b c Beychok, Milton R. (2005). Fundamentals Of Stack Gas Dispersion (4th ed.). author-published. ISBN0-9644588-0-2.
+^ Turner, D.B. (1994). Workbook of atmospheric dispersion estimates: an introduction to dispersion modeling (2nd ed.). CRC Press. ISBN1-56670-023-X.
+^ Briggs, G.A., "A plume rise model compared with observations", JAPCA, 15:433438, 1965
+^ Briggs, G.A., "CONCAWE meeting: discussion of the comparative consequences of different plume rise formulas", Atmos. Envir., 2:228232, 1968
+^ Slade, D.H. (editor), "Meteorology and atomic energy 1968", Air Resources Laboratory, U.S. Dept. of Commerce, 1968
+^ Briggs, G.A., "Plume Rise", USAEC Critical Review Series, 1969
+^ Briggs, G.A., "Some recent analyses of plume rise observation", Proc. Second Internat'l. Clean Air Congress, Academic Press, New York, 1971
+^ Briggs, G.A., "Discussion: chimney plumes in neutral and stable surroundings", Atmos. Envir., 6:507510, 1972
+Further reading[edit]
+Books[edit]
+Introductory
+Beychok, Milton R. (2005). Fundamentals Of Stack Gas Dispersion (4th ed.). author-published. ISBN0-9644588-0-2.
+Center for Chemical Process Safety (1999). Guidelines for Chemical Process Quantitative Risk Analysis (2nd ed.). American Institute of Chemical Engineers, New York, NY. ISBN978-0-8169-0720-5.
+Center for Chemical Process Safety (1996). Guidelines for Use of Vapor Cloud and Source Dispersion Models, with Worked Examples (2nd ed.). American Institute of Chemical Engineers, New York, NY. ISBN978-0-8169-0702-1.
+Schnelle, Karl B. & Dey, Partha R. (1999). Atmospheric Dispersion Modeling Compliance Guide (1st ed.). McGraw-Hill Professional. ISBN0-07-058059-6.
+Turner, D.B. (1994). Workbook of Atmospheric Dispersion Estimates: An Introduction to Dispersion Modeling (2nd ed.). CRC Press. ISBN1-56670-023-X.
+Advanced
+Arya, S. Pal (1998). Air Pollution Meteorology and Dispersion (1st ed.). Oxford University Press. ISBN0-19-507398-3.
+Barrat, Rod (2001). Atmospheric Dispersion Modelling (1st ed.). Earthscan Publications. ISBN1-85383-642-7.
+Colls, Jeremy (2002). Air Pollution (1st ed.). Spon Press (UK). ISBN0-415-25565-1.
+Cooper, J.R., Randle, K. and Sokh, R.G. (2003). Radioactive Releases in the Environment (1st ed.). John Wiley & Sons. ISBN0-471-89924-0. CS1 maint: Uses authors parameter (link)
+European Process Safety Centre (1999). Atmospheric Dispersion (1st ed.). Rugby: Institution of Chemical Engineers. ISBN0-85295-404-2.
+Godish, Thad (2003). Air Quality (4th ed.). CRC Press. ISBN1-56670-586-X.
+Hanna, S.R. & Drivas, D. G. (1996). Guidelines for Use of Vapor Cloud Dispersion Models (2nd ed.). Wiley-American Institute of Chemical Engineers. ISBN0-8169-0702-1.
+Hanna, S. R. & Strimaitis, D. G. (1989). Workbook of Test Cases for Vapor Cloud Source Dispersion Models (1st ed.). Center for Chemical Process Safety, American Institute of Chemical Engineers. ISBN0-8169-0455-3.
+Hanna, S. R. & Britter, R.E. (2002). Wind Flow and Vapor Cloud Dispersion at Industrial and Urban Sites (1st ed.). Wiley-American Institute of Chemical Engineers. ISBN0-8169-0863-X.
+Perianez, Raul (2005). Modelling the dispersion of radionuclides in the marine environment: an introduction (1st ed.). Springer. ISBN3-540-24875-7.
+Pielke, Roger A. (2001). Mesoscale Modeling (2nd ed.). Elsevier. ISBN0-12-554766-8.
+Zannetti, P. (1990). Air pollution modeling: theories, computational methods, and available software. Van Nostrand Reinhold. ISBN0-442-30805-1.
+Proceedings[edit]
+Editors: Forago, I., Georgiev, K. and Havasi, A. (2004). Advances in Air Pollution Modeling for Environmental Security (NATO Workshop). Springer, 2005. ISSN0957-4352. CS1 maint: Uses authors parameter (link)
+Editors: Kretzschmar, J. G. and Cosemans, G. (1996). Harmonization within atmospheric dispersion modelling for regulatory purposes (4th Workshop). International Journal of Environment and Pollution, vol. 8 no. 36, Interscience Enterprises, 1997. ISSN0957-4352. CS1 maint: Uses authors parameter (link)
+Bartzis, J G., ed. (1998). Harmonization within atmospheric dispersion modelling for regulatory purposes (5th Workshop). International Journal of Environment and Pollution, vol. 14 no. 16, Interscience Enterprises, 2000. ISSN0957-4352.
+Coppalle, A., ed. (1999). Harmonization within atmospheric dispersion modelling for regulatory purposes (6th Workshop). International Journal of Environment and Pollution, vol. 16 no. 16, Inderscience Enterprises, 2001. ISSN0957-4352.
+Batchvarova, E., ed. (2002). Harmonization within atmospheric dispersion modelling for regulatory purposes (8th Workshop). International Journal of Environment and Pollution, vol. 20 no. 16, Inderscience Enterprises, 2003. ISSN0957-4352.
+Suppan, P., ed. (2004). Harmonization within atmospheric dispersion modelling for regulatory purposes (8th Workshop). International Journal of Environment and Pollution, vol. 24 no. 16 and vol.25 no. 16, Inderscience Enterprises, 2005. ISSN0957-4352.
+Zannetti, P., ed. (1993). International Conference on Air Pollution (1st, Mexico City). Computational Mechanics, 1993. ISBN1-56252-146-2.
+De Wispelaere, C., ed. (1980). International Technical Meeting on Air Pollution Modeling and Its Application (11th). Plenum Press, 1981. ISBN0-306-40820-1.
+De Wispelaere, C., ed. (1982). International Technical Meeting on Air Pollution Modeling and Its Application (13th). NATO Committee on the Challenges of Modern Society [by] Plenum Press, 1984. ISBN0-306-41491-0.
+Gryning, S.; Schiermeir, F.A., eds. (1995). International Technical Meeting on Air Pollution Modeling and Its Application (21st). NATO Committee on the Challenges of Modern Society [by] Plenum Press, 1996. ISBN0-306-45381-9.
+Gryning, S.; Chaumerliac, N., eds. (1997). International Technical Meeting on Air Pollution Modeling and Its Application (22nd). NATO Committee on the Challenges of Modern Society [by] Plenum Press, 1998. ISBN0-306-45821-7.
+Gryning, S.; Batchvarova, E., eds. (1998). International Technical Meeting on Air Pollution Modeling and Its Application (23rd). NATO Committee on the Challenges of Modern Society [by] Kluwer Academic/Plenum Press, 2000. ISBN0-306-46188-9.
+Gryning, S.; Schiermeir, F.A., eds. (2000). International Technical Meeting on Air Pollution Modeling and Its Application (24th). NATO Committee on the Challenges of Modern Society [by] Kluwer Academic, 2001. ISBN0-306-46534-5.
+:Borrego, C.; Schayes, G., eds. (2000). International Technical Meeting on Air Pollution Modeling and Its Application (25th). NATO Committee on the Challenges of Modern Society [by] Kluwer Academic, 2002. ISBN0-306-47294-5.
+Borrego, C.; Incecik, S., eds. (2003). International Technical Meeting on Air Pollution Modeling and Its Application (26th). NATO Committee on the Challenges of Modern Society [by] Kluwer Academic/Plenum Press, 2004. ISBN0-306-48464-1.
+Committee on the Atmospheric Dispersion of Hazardous Material Releases, National Research Council, eds. (2002). Tracking and Predicting the Atmospheric Dispersion of Hazardous Material Releases (Workshop). National Academies Press, 2003. ISBN0-309-08926-3. CS1 maint: Uses editors parameter (link)
+Guidance[edit]
+Hanna, S. R.; Briggs, G. A. & Hosker, R. P. (1982). Handbook on Atmospheric Diffusion. U.S. Department of Energy, Technical Information Center. DOE/TIC-11223.
+U.S. Environmental Protection Agency (1993). Guidance on the Application of Refined Dispersion Models for Hazardous/Toxic Air Releases. Office of Air Quality Planning and Standards, EPA-454/R-93-002.
+U.S. Environmental Protection Agency (1999). Risk Management Program Guidance for Offsite Consequence Analysis (Appendices) (PDF). Office of Solid Waste and Emergency Response, EPA 550-B-99-009.
+U.S. Environmental Protection Agency (1999). Technical Background Document for Offsite Consequence Analysis for Anhydrous Ammonia, Aqueous Ammonia, Chlorine, and Sulfur Dioxide (PDF). Chemical Emergency Preparedness and Prevention Office.
+U.S. Environmental Protection Agency (2009). Chapter 4: Offsite Consequence Analysis. In General Guidance on Risk Management Programs for Chemical Accident Prevention (40 CFR Part 68) (PDF). Office of Solid Waste and Emergency Response, EPA 555-B-04-001.
+External links[edit]
+EPA's Support Center for Regulatory Atmospheric Modeling
+EPA's Preferred/Recommended Models
+EPA's Alternative Models
+EPA's Photochemical Models
+EPA's Preliminary Screening Models
+EPA's Air Quality Modeling Group (AQMG)
+NOAA's Air Resources Laboratory (ARL)
+The Open Directory Project has a good amount of dispersion modeling information
+UK Atmospheric Dispersion Modelling Liaison Committee web site
+UK Dispersion Modelling Bureau web site
+Atmospheric Chemistry transport model LOTOS-EUROS
+The Operational Priority Substances model OPS (Dutch)
+HAMS-GPS Dispersion modelling
+Wiki on Atmospheric Dispersion Modelling. Addresses the international community of atmospheric dispersion modellers - primarily researchers, but also users of models. Its purpose is to pool experiences gained by dispersion modellers during their work.
+v
+t
+e
+Atmospheric, oceanographic and climate models
+Model types
+Atmospheric model
+Climate model
+Numerical weather prediction
+Tropical cyclone forecast model
+Atmospheric dispersion modeling
+Chemical transport model
+Upper-atmospheric models
+Ensemble forecasting
+Model output statistics
+Meteorological reanalysis
+Parametrization
+Specific models
+Climate
+IGCM
+HadCM3
+HadGEM1
+GFDL CM2.X
+CGCM
+CCSM
+CFSv2
+ECHAM
+MPAS
+Global weather
+IFS (ECMWF)
+FIM
+GEM
+GFS
+NAEFS
+NAVGEM
+UM
+JMA
+GME
+ARPEGE
+Regional and mesoscale atmospheric
+NAM
+RR / RAP
+RAMS
+WRF
+RAQMS
+HIRLAM
+LAPS
+RPM
+Regional and mesoscale oceanographic
+HyCOM
+ROMS
+POM
+MOM
+FVCOM
+MITgcm
+FESOM
+Atmospheric dispersion
+ADMS
+AERMOD
+ATSTEP
+AUSTAL2000
+CALPUFF
+DISPERSION21
+ISC3
+MEMO
+MERCURE
+NAME
+OSPM
+PUFF-PLUME
+RIMPUFF
+SAFE AIR
+Chemical transport
+CLaMS
+MOZART
+GEOS-Chem
+Land surface parametrization
+JULES
+CLASS
+ISBA
+Discontinued
+AVN / MRF / GSM
+Eta
+LFM
+MM5
+NGM
+NOGAPS
+RUC
+Mathematical model
+Statistical model
+Scientific modelling
+Computer simulation
+v
+t
+e
+Scientific modelling
+Biological
+Biological data visualization
+Cellular model
+Chemical process modeling
+Ecosystem model
+Infectious disease model
+Metabolic network modelling
+Modelling biological systems
+Protein structure prediction
+Environmental
+Atmospheric model
+Chemical transport model
+Climate model
+Geologic modelling
+Groundwater model
+Hydrological modelling
+Hydrological transport model
+Modular Ocean Model
+Wildfire modeling
+Sustainability
+Energy modeling
+Integrated assessment modelling
+Population model
+Social
+Biopsychosocial model
+Business process modelling
+Catastrophe modeling
+Construction and management simulation
+Crime mapping
+Economic model
+Input-output model
+Related topics
+Data visualization
+List of computer simulation software
+Mathematical modeling
+Model theory
+Systems theory
+Systems thinking
+Visual analytics
+Saved in parser cache with key enwiki:pcache:idhash:3747894-0!*!0!!en!4!*!math=5 and timestamp 20161116155503 and revision id 749310667
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Atmospheric_dispersion_modeling&oldid=749310667"
+Categories: Atmospheric dispersion modelingAir pollutionEnvironmental engineeringIndustrial emissions controlClimate modelingHidden categories: All articles with dead external linksArticles with dead external links from October 2016Articles with permanently dead external linksCS1 maint: Uses authors parameterCS1 maint: Uses editors parameterArticles with Dutch-language external links

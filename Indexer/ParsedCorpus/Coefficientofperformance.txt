@@ -1,0 +1,419 @@
+Coefficientofperformance
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (September 2012) (Learn how and when to remove this template message)
+The coefficient of performance or COP (sometimes CP) of a heat pump is a ratio of heating or cooling provided to work required.[1][2] Higher COPs equate to lower operating costs. The COP may exceed 1, because, instead of just converting work to heat (which, if 100% efficient, would be a COP of 1), it pumps additional heat from a heat source to where the heat is required. For complete systems, COP should include energy consumption of all auxiliaries. COP is highly dependent on operating conditions, especially absolute temperature and relative temperature between sink and system, and is often graphed or averaged against expected conditions.[3]
+Contents
+1 Equation
+2 Derivation
+3 Improving COP
+4 Example
+5 Conditions of use
+6 Seasonal efficiency
+7 See also
+8 Notes
+9 External links
+Equation[edit]
+The equation is:
+C
+O
+P
+>
+Q
+W
+{\displaystyle COP>{\frac {Q}{W}}}
+where
+Q
+{\displaystyle Q\ }
+is the heat supplied by the reservoir.
+W
+{\displaystyle W\ }
+is the work supplied to the heat pump.
+The COP for heating and cooling are thus different, because the heat reservoir of interest is different. When one is interested in how well a machine cools, the COP is the ratio of the heat removed from the cold reservoir to input work. However, for heating, the COP is the ratio of the heat removed from the cold reservoir plus the input work to the input work:
+C
+O
+P
+h
+e
+a
+t
+i
+n
+g
+>
+|
+Q
+H
+|
+W
+=
+|
+Q
+C
+|
++
+W
+W
+{\displaystyle COP_{heating}>{\frac {|Q_{H}|}{W}}={\frac {|Q_{C}|+W}{W}}}
+C
+O
+P
+c
+o
+o
+l
+i
+n
+g
+>
+|
+Q
+C
+|
+W
+{\displaystyle COP_{cooling}>{\frac {|Q_{C}|}{W}}}
+where
+Q
+C
+{\displaystyle Q_{C}\ }
+is the heat removed from the hot reservoir.
+Q
+H
+{\displaystyle Q_{H}\ }
+is the heat supplied to the cold reservoir.
+Both means the same for understanding.
+Derivation[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2011) (Learn how and when to remove this template message)
+According to the first law of thermodynamics, in a reversible system we can show that
+Q
+h
+o
+t
+=
+Q
+c
+o
+l
+d
++
+W
+{\displaystyle Q_{hot}=Q_{cold}+W}
+and
+W
+=
+Q
+h
+o
+t
+ 
+Q
+c
+o
+l
+d
+{\displaystyle W=Q_{hot}-Q_{cold}}
+, where
+Q
+h
+o
+t
+{\displaystyle Q_{hot}}
+is the heat transferred to the hot reservoir and
+Q
+c
+o
+l
+d
+{\displaystyle Q_{cold}}
+is the heat collected from the cold reservoir.
+Therefore, by substituting for W,
+C
+O
+P
+h
+e
+a
+t
+i
+n
+g
+<
+Q
+h
+o
+t
+Q
+h
+o
+t
+ 
+Q
+c
+o
+l
+d
+{\displaystyle COP_{heating}<{\frac {Q_{hot}}{Q_{hot}-Q_{cold}}}}
+For a heat pump operating at maximum theoretical efficiency (i.e. Carnot efficiency), it can be shown that
+Q
+c
+o
+l
+d
+T
+h
+o
+t
+=
+Q
+h
+o
+t
+T
+m
+e
+d
+i
+u
+m
+{\displaystyle {\frac {Q_{cold}}{T_{hot}}}={\frac {Q_{hot}}{T_{medium}}}}
+and
+Q
+h
+o
+t
+=
+Q
+n
+o
+t
+s
+o
+h
+o
+t
+T
+c
+o
+l
+d
+T
+h
+o
+t
+{\displaystyle Q_{hot}={\frac {Q_{notsohot}T_{cold}}{T_{hot}}}}
+where
+T
+h
+o
+t
+{\displaystyle T_{hot}}
+and
+T
+c
+o
+l
+d
+{\displaystyle T_{cold}}
+are the temperatures of the hot and cold heat reservoirs respectively. Note: these equations must use an absolute temperature scale, for example, Kelvin or Rankine.
+At maximum theoretical efficiency,
+C
+O
+P
+h
+e
+a
+t
+i
+n
+g
+=
+T
+h
+o
+t
+T
+h
+o
+t
+ 
+T
+c
+o
+l
+d
+{\displaystyle COP_{heating}={\frac {T_{hot}}{T_{hot}-T_{cold}}}}
+which is equal to the reciprocal of the ideal efficiency for a heat engine, because a heat pump is a heat engine operating in reverse. Similarly,
+C
+O
+P
+c
+o
+o
+l
+i
+n
+g
+=
+Q
+c
+o
+l
+d
+Q
+h
+o
+t
+ 
+Q
+c
+o
+l
+d
+=
+T
+c
+o
+l
+d
+T
+h
+o
+t
+ 
+T
+c
+o
+l
+d
+{\displaystyle COP_{cooling}={\frac {Q_{cold}}{Q_{hot}-Q_{cold}}}={\frac {T_{cold}}{T_{hot}-T_{cold}}}}
+Note that the COP of a heat pump depends on its duty. The heat rejected to the hot sink is greater than the heat absorbed from the cold source, so the heating COP is 1 greater than the cooling COP.
+C
+O
+P
+h
+e
+a
+t
+i
+n
+g
+{\displaystyle COP_{heating}}
+applies to heat pumps and
+C
+O
+P
+c
+o
+o
+l
+i
+n
+g
+{\displaystyle COP_{cooling}}
+applies to air conditioners or refrigerators. For heat engines, see Efficiency. Values for actual systems will always be less than these theoretical maximums. In Europe, the standard tests for ground source heat pump units use 35C (95F) for
+T
+h
+o
+t
+{\displaystyle {T_{hot}}}
+and 0C (32F) for
+T
+c
+o
+l
+d
+{\displaystyle {T_{cold}}}
+. According to the above formula, the maximum achievable COP would be 8.8. Test results of the best systems are around 4.5. When measuring installed units over a whole season and accounting for the energy needed to pump water through the piping systems, seasonal COP's are around 3.5 or less. This indicates room for improvement.[4]
+Improving COP[edit]
+As the formula shows, the COP of a heat pump system can be improved by reducing the temperature gap
+T
+h
+o
+t
+{\displaystyle T_{hot}}
+minus
+T
+c
+o
+l
+d
+{\displaystyle T_{cold}}
+at which the system works. For a heating system this would mean two things: 1) reducing the output temperature to around 30C (86F) which requires piped floor, wall or ceiling heating, or oversized water to air heaters and 2) increasing the input temperature (e.g. by using an oversized ground source or by access to a solar-assisted thermal bank [5] ). Accurately determining thermal conductivity will allow for much more precise ground loop [6] or borehole sizing,[7] resulting in higher return temperatures and a more efficient system. For an air cooler, COP could be improved by using ground water as an input instead of air, and by reducing temperature drop on output side through increasing air flow. For both systems, also increasing the size of pipes and air canals would help to reduce noise and the energy consumption of pumps (and ventilators) by decreasing the speed of fluid which in turn lower the Re number and hence the turbulence (and noise) and the head loss (see hydraulic head). The heat pump itself can be improved by increasing the size of the internal heat exchangers which in turn increase the efficiency (and the price) relative to the power of the compressor, and also by reducing the system's internal temperature gap over the compressor. Obviously, this latter measure makes such heat pumps unsuitable to produce high temperatures which means that a separate machine is needed for producing hot tap water.
+Example[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2012) (Learn how and when to remove this template message)
+A geothermal heat pump operating at
+C
+O
+P
+h
+e
+a
+t
+i
+n
+g
+{\displaystyle COP_{heating}}
+3.5 provides 3.5 units of heat for each unit of energy consumed (i.e. 1kWh consumed would provide 3.5kWh of output heat). The output heat comes from both the heat source and 1kWh of input energy, so the heat-source is cooled by 2.5kWh, not 3.5kWh.
+A heat pump of
+C
+O
+P
+h
+e
+a
+t
+i
+n
+g
+{\displaystyle COP_{heating}}
+3.5, such as in the example above, could be less expensive to use than even the most efficient gas furnace except in areas where the electricity cost per unit is higher than 3.5 times the cost of natural gas (e.g. Connecticut or New York City).
+A heat pump cooler operating at
+C
+O
+P
+c
+o
+o
+l
+i
+n
+g
+{\displaystyle COP_{cooling}}
+2.0 removes 2 units of heat for each unit of energy consumed (e.g. an air conditioner consuming 1kWh would remove 2kWh of heat from a building's air).
+Given the same energy source and operating conditions, a higher COP heat pump will consume less purchased energy than one with a lower COP. The overall environmental impact of a heating or air conditioning installation depends on the source of energy used as well as the COP of the equipment. The operating cost to the consumer depends on the cost of energy as well as the COP or efficiency of the unit. Some areas provide two or more sources of energy, for example, natural gas and electricity. A high COP of a heat pump may not entirely overcome a relatively high cost for electricity compared with the same heating value from natural gas.
+For example, the 2009 US average price per therm (100,000 BTU) of electricity was $3.38 while the average price per therm of natural gas was $1.16.[8] Using these prices, a heat pump with a COP of 3.5 in moderate climate would cost $0.97[9] to provide one therm of heat, while a high efficiency gas furnace with 95% efficiency would cost $1.22[10] to provide one therm of heat. With these average prices, the heat pump costs 20% less[11] to provide the same amount of heat. At 0F (-18C) COP is much lower. Then, the same system costs as much to operate as an efficient gas heater. The yearly savings will depend on the actual cost of electricity and natural gas, which can both vary widely.
+However, a COP may help make a determination of system choice based on carbon contribution. Although a heat pump may cost more to operate than a conventional natural gas or electric heater, depending on the source of electricity generation in one's area, it may contribute less net carbon dioxide to the atmosphere than burning natural gas or heating fuel. If locally no green electricity is available, then carbon-wise the best option would be to drive a heat pump on piped gas or oil, to store excess heat in the ground source for use in winter, while using the same machine also for producing electricity with a built-in Stirling engine.[citation needed]
+Conditions of use[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2012) (Learn how and when to remove this template message)
+While the COP is partly a measure of the efficiency of a heat pump, it is also a measure of the conditions under which it is operating: the COP of a given heat pump will rise as the input temperature increases or the output temperature decreases because it is linked to a warm temperature distribution system like underfloor heating.
+Seasonal efficiency[edit]
+A realistic indication of energy efficiency over an entire year can be archived by using Seasonal COP or Seasonal Coefficient of Performance (SCOP) for heat. Seasonal energy efficiency ratio (SEER) is mostly used for air conditioning. SCOP is a new methodology that gives a better indication of expected real-life performance, using COP can be considered using the "old" scale. Seasonal efficiency gives an indication on how efficient a heat pump operates over an entire cooling or heating season.[12]
+See also[edit]
+Seasonal energy efficiency ratio (SEER)
+Seasonal thermal energy storage (STES)
+Heating seasonal performance factor (HSPF)
+Thermal efficiency
+Vapor-compression refrigeration
+Air conditioner
+HVAC
+Notes[edit]
+^ http://www.tetech.com/temodules/graphs/instructions.pdf
+^ http://us.grundfos.com/service-support/encyclopedia-search/cop-coefficient-ofperformance.html
+^ http://www.tetech.com/temodules/graphs/HP-199-1.4-0.8.pdf
+^ Borgnakke, C., & Sonntag, R. (2013). The Second Law of Thermodynamics. In Fundamentals of Thermodynamics (8th ed., pp. 244-245). Wiley.
+^ Thermal banks and Thermal Energy Storage, http://www.icax.co.uk/ThermalBanks.html
+^ Soil Thermal Conductivity Survey, http://www.carbonzeroco.com/field-services/soil-thermal-conductivity-testing/
+^ Vertical Borehole Sizing, http://www.carbonzeroco.com/ground-source-heat-pumps/ground-source-heating-cooling/
+^ Based on average prices of 11.55 cents per kWh for electricity [1] and $13.68 per thousand cubic feet for natural gas [2], and conversion factors of 29.308 kWh per therm and 97.2763 cubic feet per therm [3].
+^ $3.38/3.5~$0.97
+^ $1.16/.95~$1.22
+^ ($1.16-$0.95)/$1.16~20%
+^ "A new era of Seasonal Efficiency has begun" (PDF). Daikin.co.uk. Daikin. Retrieved 31 March 2015.
+External links[edit]
+Wikimedia Commons has media related to Coefficient of performance.
+Discussion on changes to COP of a heat pump depending on input and output temperatures
+See COP definition in Cap XII of the book Industrial Energy Management - Principles and Applications
+Saved in parser cache with key enwiki:pcache:idhash:542054-0!*!0!!en!4!*!math=5 and timestamp 20161105182838 and revision id 747995876
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Coefficient_of_performance&oldid=747995876"
+Categories: Heat pumpsHeating, ventilating, and air conditioningMechanical engineeringDimensionless numbers of thermodynamicsHidden categories: Articles that may contain original research from September 2012All articles that may contain original researchArticles needing additional references from January 2011All articles needing additional referencesArticles needing additional references from September 2012All articles with unsourced statementsArticles with unsourced statements from February 2011Commons category without a link on Wikidata

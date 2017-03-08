@@ -1,0 +1,361 @@
+Carbondioxideremoval
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Carbon dioxide removal (CDR) methods refers to a number of technologies which reduce the levels of carbon dioxide in the atmosphere.[1] Among such technologies are bio-energy with carbon capture and storage, biochar, direct air capture, ocean fertilization and enhanced weathering.[1] CDR is a different approach than removing CO2 from the stack emissions of large fossil fuel point sources, such as power stations. The latter reduces emission to the atmosphere but cannot reduce the amount of carbon dioxide already in the atmosphere. As CDR removes carbon dioxide from the atmosphere, it creates negative emissions, offsetting emissions from small and dispersed point sources such as domestic heating systems, airplanes and vehicle exhausts.[2][3] It is regarded by some as a form of climate engineering,[1] while other commentators describe it as a form of carbon capture and storage or extreme mitigation.[4] Whether CDR would satisfy common definitions of "climate engineering" or "geoengineering" usually depends upon the scale on which it would be undertaken.
+The likely need for CDR has been publicly expressed by a range of individuals and organizations involved with climate change issues, including IPCC chief Rajendra Pachauri,[5] the UNFCCC executive secretary Christiana Figueres,[6] and the World Watch Institute.[7] Institutions with major programs focusing on CDR include the Lenfest Center for Sustainable Energy at the Earth Institute, Columbia University,[8] and the Climate Decision Making Center,[9] an international collaboration operated out of Carnegie-Mellon University's Department of Engineering and Public Policy.
+The mitigation effectiveness of air capture is limited by societal investment, land use, availability of geologic reservoirs, and leakage. The reservoirs are estimated to be sufficient to for storing at least 545 GtC.[10] Storing 771 GtC would cause an 186 ppm atmospheric reduction.[11] In order to return the atmospheric CO2 content to 350 ppm we need atmospheric reduction of 50 ppm plus an additional 2 ppm per year of current emissions.
+Contents
+1 Methods
+1.1 Bio-energy with carbon capture & storage
+1.2 Biochar
+1.3 Enhanced weathering
+1.4 Direct air capture
+1.5 Ocean fertilization
+2 Example CO2 scrubbing chemistry
+2.1 Calcium oxide
+2.2 Potassium Hydroxide
+3 Economic issues
+4 Risks, problems and criticisms
+5 See also
+6 References
+Methods[edit]
+Bio-energy with carbon capture & storage[edit]
+Main article: Bio-energy with carbon capture and storage
+Bio-energy with carbon capture and storage, or BECCS, uses biomass to extract carbon dioxide from the atmosphere, and carbon capture and storage technologies to concentrate and permanently store it in deep geological formations.
+BECCS is currently (as of October 2012) the only CDR technology deployed at full industrial scale, with 550 000 tonnes CO2/year in total capacity operating, divided between three different facilities (as of January 2012).[12][13][14][15][16]
+The Imperial College London, the UK Met Office Hadley Centre for Climate Prediction and Research, the Tyndall Centre for Climate Change Research, the Walker Institute for Climate System Research, and the Grantham Institute for Climate Change issued a joint report on carbon dioxide removal technologies as part of the AVOID: Avoiding dangerous climate change research program, stating that "Overall, of the technologies studied in this report, BECCS has the greatest maturity and there are no major practical barriers to its introduction into todays energy system. The presence of a primary product will support early deployment."[17]
+According to the OECD, "Achieving lower concentration targets (450 ppm) depends significantly on the use of BECCS".[18]
+Biochar[edit]
+Main article: Biochar
+Biochar is created by the pyrolysis of biomass, and is under investigation as a method of carbon sequestration. Biochar is a charcoal that is used for agricultural purposes which also aids in carbon sequestration, the capture or hold of carbon. It is created using a process called pyrolysis, which is basically the act of high temperature heating biomass in an environment with low oxygen levels. What remains is a material known as char, similar to charcoal but is made through a sustainable process, thus the use of biomass.[19] Biomass is organic matter produced by living organisms or recently living organisms, most commonly plants or plant based material.[20] The offset of GHG emission, if biochar were to be implemented, would be a maximum of 12%. This equates to about 106 metric tons of CO2 equivalents. On a medium conservative level, it would be 23% less than that, at 82 metric tons.[21] A study done by the UK Biochar Research Center has stated that, on a conservative level, biochar can store 1 gigaton of carbon per year. With greater effort in marketing and acceptance of biochar, the benefit would the storage of 5-9 gigatons per year of carbon in biochar soils.[22]
+Enhanced weathering[edit]
+Main article: Enhanced weathering
+Enhanced weathering refers to chemical approach to remove carbon dioxide involving land or ocean based techniques. Examples of land based enhanced weathering techniques are in-situ carbonation of silicates. Ultramafic rock, for example, has the potential to store thousands of years worth of CO2 emissions according to one estimate.[citation needed] Ocean based techniques involve alkalinity enhancement, such as, grinding, dispersing and dissolving olivine, limestone, silicates, or calcium hydroxide to address ocean acidification and CO2 sequestration. Enhanced weathering is considered as one of the least expensive of geoengineering options. One example of a research project on the feasibility of enhanced weathering is the CarbFix project in Iceland.[citation needed]
+Direct air capture[edit]
+Carbon dioxide can be removed from ambient air through chemical processes, sequestered, and stored. One proposed method is by so-called artificial trees.[23][24] This concept, proposed by climate scientist Wallace S. Broecker and science writer Robert Kunzig,[25] imagines huge numbers of artificial trees around the world to remove ambient CO2. The technology is now being pioneered by Klaus Lackner, a researcher at the Earth Institute, Columbia University,[26] whose artificial tree technology can suck up to 1,000 times more CO2 from the air than real trees can,[citation needed] at a rate of about one ton of carbon per day if the artificial tree is approximately the size of an actual tree.[27][28] The CO2 would be captured in a filter and then removed from the filter and stored.
+The chemistry used is a variant of that described below, as it is based on sodium hydroxide. However, in a more recent design proposed by Klaus Lackner, the process can be carried out at only 40C by using a polymer-based ion exchange resin, which takes advantage of changes in humidity to prompt the release of captured CO2, instead of using a kiln. This reduces the energy required to operate the process.[29]
+Another substance which can be used are Metal-organic frameworks (or MOF's).[30] A special MOF has been made specifically for locking CO2 by Joeri Denayer.[31]
+In 2008, the Discovery Channel covered[32] the work of David Keith,[33] of University of Calgary, who built a tower, 4 feet wide and 20 feet tall (1.26.1 meters), with a fan at the bottom that sucks air in, which comes out again at the top. In the process, about half the CO2 is removed from the air.
+This device uses the chemical process described in detail below. The system demonstrated on the Discovery Channel was a 1/90,000th scale test system of the capture section; the reagents are regenerated in a separate facility. The main costs of a full plant will be the cost to build it, and the energy input to regenerate the chemicals and produce a pure stream of CO2.
+To put this into perspective, people in the U.S. emit about 20 tonnes of CO2 per person annually.[citation needed] In other words, each person in the U.S. would require a tower like the one featured by the Discovery Channel to remove this amount of CO2 from the air, requiring an annual 2 megawatt-hours of electricity to operate it. By comparison, a refrigerator consumes about 1.2 megawatt-hours annually (2001 figures).[34] But, by combining many small systems such as this into one large system, the construction costs and energy use can be reduced.
+It has been proposed that the Solar updraft tower to generate electricity from thermal air currents also be used at the same time for amine gravity scrubbing of CO2.[35] Some heat would be required to regenerate the amine.
+Finally, a similar CO2 scrubber has also been built by Carbon Engineering. Besides simply focusing on capturing the CO2, the company also puts emphasis on reuse of the CO2, for example in the production of fuels, which would thus be carbon-neutral.[36][37]
+Direct air capture has been proposed as a way of generating carbon-neutral organic chemicals, by harvesting the atmospheric compounds and then using them in the production and synthesis of polymers and fuels.
+Ocean fertilization[edit]
+Main article: Ocean fertilization
+Ocean fertilization or ocean nourishment is a type of climate engineering based on the purposeful introduction of nutrients to the upper ocean to increase marine food production and to remove carbon dioxide from the atmosphere. A number of techniques, including fertilization by iron, urea and phosphorus have been proposed.
+Example CO2 scrubbing chemistry[edit]
+Main article: Carbon dioxide scrubber
+Calcium oxide[edit]
+Calcium oxide (quicklime) will absorb CO2 from atmospheric air mixed with steam at 400C (forming calcium carbonate) and release it at 1,000C. This process, proposed by A. Steinfeld, can be performed using renewable energy from thermal concentrated solar power.[38] Quicklime is made by heating limestone to release the CO2 within it. Quicklime is mixed with sand for brick building as mortar, where it hardens by absorption of CO2.
+Potassium Hydroxide[edit]
+Zeman and Lackner outlined a specific method of air capture using sodium hydroxide.[39] Carbon Engineering, a Calgary, Alberta firm founded in 2009 and partially funded by Bill Gates, is developing a process to capture carbon dioxide using a solution of potassium hydroxide mixed with some water at their pilot plant . They hope to create and sell synthetic fuels at a cost of $100 a ton.[40]
+Economic issues[edit]
+A crucial issue for CDR methods is their cost, which differs substantially among the different technologies: some of these are not sufficiently developed to perform cost assessments. The American Physical Society estimates the costs for direct air capture to be $600/tonne with optimistic assumptions.[41] The IEA Greenhouse Gas R&D Programme and Ecofys provides an estimate that 3.5 billion tonnes could be removed annually from the atmosphere with BECCS (Bio-Energy with Carbon Capture and Storage) at carbon prices as low as 50,[42] whereas a report from Biorecro and the Global Carbon Capture and Storage Institute estimates costs "below 100" per tonne for large scale BECCS deployment.[4]
+Risks, problems and criticisms[edit]
+CDR is slow to act, and requires a long-term political and engineering program to effect.[43] CDR is even slower to take effect on acidified oceans. In a Business as usual concentration pathway, the deep ocean will remain acidified for centuries, and as a consequence many marine species are in danger of extinction.[44]
+See also[edit]
+Bio-energy with carbon capture and storage (BECCS)
+Climate change mitigation
+Climate change mitigation scenarios
+Climate engineering
+Greenhouse gas remediation
+Lithium peroxide
+List of emerging technologies
+Low-carbon economy
+Negative carbon dioxide emission
+Virgin Earth Challenge
+References[edit]
+^ a b c "Geoengineering the climate: science, governance and uncertainty". The Royal Society. 2009. Retrieved 2011-09-10.
+^ Vergragt, P. J.; Markusson, N.; Karlsson, H. (2011). "Carbon capture and storage, bio-energy with carbon capture and storage, and the escape from the fossil-fuel lock-in". Global Environmental Change. 21 (2): 282292. doi:10.1016/j.gloenvcha.2011.01.020.
+^ Azar, C.; Lindgren, K.; Larson, E.; Mllersten, K. (2006). "Carbon Capture and Storage from Fossil Fuels and Biomass  Costs and Potential Role in Stabilizing the Atmosphere". Climatic Change. 74: 4779. doi:10.1007/s10584-005-3484-7.
+^ a b "Global Status of BECCS Projects 2010". Biorecro and The Global Carbon Capture and Storage institute. 2011. Archived from the original on 2013-09-28. Retrieved 2011-09-10.
+^ Pagnamenta, Robin (2009-12-01). "Carbon must be sucked from air, says IPCC chief Rajendra Pachauri". Times Online. London. Retrieved 13 December 2009.
+^ Harvey, Fiona (2011-06-05). "Global warming crisis may mean world has to suck greenhouse gases from air". Guardian Online. Retrieved 10 September 2011.
+^ Hollo, Tim (2009-01-15). "Negative emissions needed for a safe climate". Retrieved 10 September 2011.
+^ "National Geographic Magazine - NGM.com". Ngm.nationalgeographic.com. 2013-04-25. Retrieved 2013-09-22.
+^ "Snatching Carbon Dioxide from the Atmosphere" (PDF). Cdmc.epp.cmu.edu. Retrieved 2013-09-22.
+^ "Carbon dioxide capture and storage" (PDF). IPCC. 2005. Retrieved 1 September 2016.
+^ Lenton, TM; NE Vaughan (2009). "The radiative forcing potential of different climate geoengineering options". Atmospheric Chemistry and Physics. 9 (15): 2559608. doi:10.5194/acp-9-5539-2009.
+^ "Global Status of BECCS Projects 2010". Biorecro AB, Global CCS Institute. 2010. Retrieved 2012-01-20.
+^ "Global Technology Roadmap for CCS in Industry Biomass-based industrial CO2 sources: biofuels production with CCS" (PDF). ECN. 2011. Retrieved 2012-01-20.
+^ "First U.S. large demonstration-scale injection of CO2 from a biofuel production facility begins". Retrieved 20 January 2012.
+^ "Ethanol plant to sequester CO2 emissions". Retrieved 20 January 2012.
+^ "Production Begins at Biggest Ethanol Plant in Kansas". Retrieved 20 January 2012.
+^ "The Potential for the Deployment of Negative Emissions Technologies in the UK" (PDF). Grantham Institute for Climate Change, Imperial College. 2010. Retrieved 2012-01-16.
+^ [1] Archived May 26, 2013, at the Wayback Machine.
+^ "What is biochar?". UK Biochar research center. University of Edinburgh Kings Buildings Edinburgh. Retrieved 25 April 2016.
+^ "What is Biomass?". Biomass Energy Center. Direct.gov.uk. Retrieved 25 April 2016.
+^ "Climate change and Biochar". International Biochar Initiative. International Biochar Initiative. Retrieved 25 April 2016.
+^ "Biochar reducing and removing CO2 while improving soils: A significant sustainable response to climate change" (PDF). UKBRC. UK Biochar research Center. Retrieved 25 April 2016.
+^ "New Device Vacuums Away Carbon Dioxide". LiveScience. 2007-05-01. Retrieved 2009-10-29.
+^ Adam, David (2008-05-31). "Could US scientist's 'CO2 catcher' help to slow warming? | Environment". London: The Guardian. Retrieved 2009-10-29.
+^ Artificial trees designed by Wallace Broecker
+^ The Earth Institute, Columbia University http://www.earth.columbia.edu/sections/view/9
+^ "Cleaning up the Carbon Mess - 07.31.2011". Energy Now. Retrieved 2013-09-22.
+^ - 'Artificial trees' to cut carbon. Retrieved November 7, 2010.
+^ "Lenfest Center for Sustainable Energy". Energy.columbia.edu. Retrieved 2013-09-22.
+^ Scrubbing CO2 with MOFs
+^ Wetenschap redt de wereld docu on Joeri Denayer's MOFs
+^ - Discovery Channel, 2008 Archived January 19, 2009, at the Wayback Machine.
+^ - David Keith Archived February 1, 2009, at the Wayback Machine.
+^ "End-Use Consumption of Electricity by End Use and Appliance". Eia.doe.gov. Retrieved 2009-10-29.
+^ The Methane Economy
+^ Forbes on Carbon Engineering's carbon scrubber
+^ More info on the co2 scrubber
+^ "Can technology clear the air? - environment - 12 January 2009". New Scientist. 2009-01-12. Retrieved 2009-10-29.
+^ Zeman, F. S.; Lackner, K. S. (2004). "Capturing carbon dioxide directly from the atmosphere". World Resour. Rev. 16: 15772.
+^ Anne Eisenberg (January 5, 2013). "Pulling Carbon Dioxide Out of Thin Air". The New York Times. Retrieved January 8, 2013.
+^ "Direct Air Capture of CO2 with Chemicals". The American Physical Society. 2011-06-01. Retrieved 2011-09-10.
+^ "Potential for Biomass and Carbon Capture and Storage" (PDF). IEA Greenhouse Gas R&D Programme. 2011-07-06. Retrieved 2011-09-10.
+^ Cao, L.; Caldeira, K. (2010). "Atmospheric carbon dioxide removal: Long-term consequences and commitment". Environmental Research Letters. 5 (2): 024011. doi:10.1088/1748-9326/5/2/024011.
+^ Mathesius, Sabine; Hofmann, Matthias; Caldeira, Ken; Schellnhuber, Hans Joachim (2015). "Long-term response of oceans to CO2 removal from the atmosphere". Nature Climate Change. 5 (12): 11071113. doi:10.1038/nclimate2729.
+v
+t
+e
+Global warming and climate change
+Temperatures
+Brightness temperature
+Effective temperature
+Geologic record
+Hiatus
+Historical climatology
+Instrumental record
+Paleoclimatology
+Paleotempestology
+Proxy data
+Record of the past 1,000 years
+Satellite measurements
+Causes
+Anthropogenic
+Attribution of recent climate change
+Aviation
+Biofuel
+Black carbon
+Carbon dioxide
+Deforestation
+Earth's energy budget
+Earth's radiation balance
+Ecocide
+Fossil fuel
+Global dimming
+Global warming potential
+Greenhouse effect
+(Infrared window)
+Greenhouse gases
+(Halocarbons)
+Land use, land-use change and forestry
+Radiative forcing
+Tropospheric ozone
+Urban heat island
+Natural
+Albedo
+Bond events
+Climate oscillations
+Climate sensitivity
+Cloud forcing
+Cosmic rays
+Feedbacks
+Glaciation
+Global cooling
+Milankovitch cycles
+Ocean variability
+AMO
+ENSO
+IOD
+PDO
+Orbital forcing
+Solar variation
+Volcanism
+Models
+Global climate model
+History
+History of climate change science
+Atmospheric thermodynamics
+Svante Arrhenius
+James Hansen
+Charles David Keeling
+Opinion and climate change
+Environmental ethics
+Media coverage of climate change
+Public opinion on climate change
+(Popular culture)
+Scientific opinion on climate change
+Scientists opposing the mainstream assessment
+Climate change denial
+Global warming conspiracy theory
+By country & region
+(Africa
+Arctic
+Argentina
+Australia
+Bangladesh
+Belgium
+Canada
+China
+Europe
+European Union
+Finland
+Grenada
+Japan
+Luxembourg
+New Zealand
+Norway
+Russia
+Scotland
+South Korea
+Sweden
+Tuvalu
+United Kingdom
+United States)
+Politics
+Clean Power Plan
+Climate change denial
+(Manufactured controversy)
+Intergovernmental Panel on Climate Change (IPCC)
+United Nations Framework Convention on Climate Change (UNFCCC / FCCC)
+Global climate regime
+Potential effects and issues
+General
+Abrupt climate change
+Anoxic event
+Arctic dipole anomaly
+Arctic haze
+Arctic methane release
+Climate change and agriculture
+Climate change and ecosystems
+Climate change and poverty
+Current sea level rise
+Drought
+Economics of global warming
+Effect on plant biodiversity
+Effects on health
+Effects on humans
+Effects on marine mammals
+Environmental migrant
+Extinction risk from global warming
+Fisheries and climate change
+Forest dieback
+Iris hypothesis
+Megadrought
+Ocean acidification
+Ozone depletion
+Physical impacts
+Polar stratospheric cloud
+Regime shift
+Retreat of glaciers since 1850
+Runaway climate change
+Season creep
+Shutdown of thermohaline circulation
+By country
+Australia
+India
+Nepal
+(South Asia)
+United States
+Mitigation
+Kyoto Protocol
+Clean Development Mechanism
+Joint Implementation
+Bali Road Map
+2009 United Nations Climate Change Conference
+Governmental
+European Climate Change Programme
+G8 Climate Change Roundtable
+United Kingdom Climate Change Programme
+Paris Agreement
+Regional climate change initiatives in the United States
+List of climate change initiatives
+Emissions reduction
+Carbon credit
+Carbon-neutral fuel
+Carbon offset
+Carbon tax
+Emissions trading
+Fossil-fuel phase-out
+Carbon-free energy
+Carbon capture and storage
+Efficient energy use
+Low-carbon economy
+Nuclear power
+Renewable energy
+Personal
+Individual action on climate change
+Simple living
+Other
+Carbon dioxide removal
+Carbon sink
+Climate change mitigation scenarios
+Climate engineering
+Individual and political action on climate change
+Reducing emissions from deforestation and forest degradation
+Reforestation
+Urban reforestation
+Climate Action Plan
+Climate action
+Proposed adaptations
+Strategies
+Damming glacial lakes
+Desalination
+Drought tolerance
+Irrigation investment
+Rainwater storage
+Sustainable development
+Weather modification
+Programmes
+Avoiding dangerous climate change
+Land Allocation Decision Support System
+Glossary of climate change
+Index of climate change articles
+Category:Climate change
+Category:Global warming
+Portal:Global warming
+NewPP limit report
+Parsed by mw1197
+Cached time: 20161119025128
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.420 seconds
+Real time usage: 0.471 seconds
+Preprocessor visited node count: 2929/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 158162/2097152 bytes
+Template argument size: 13144/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.210/10.000 seconds
+Lua memory usage: 4.45 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+374.787
+1 - -total
+53.33%
+199.868
+1 - Template:Reflist
+29.55%
+110.731
+25 - Template:Cite_web
+20.57%
+77.101
+4 - Template:Citation_needed
+18.82%
+70.541
+4 - Template:Fix
+14.71%
+55.135
+1 - Template:Global_warming
+13.88%
+52.029
+1 - Template:Navbox_with_collapsible_groups
+9.79%
+36.686
+4 - Template:Delink
+7.88%
+29.531
+8 - Template:Category_handler
+7.13%
+26.709
+6 - Template:Cite_journal
+Saved in parser cache with key enwiki:pcache:idhash:21072589-0!*!0!!en!*!* and timestamp 20161119025128 and revision id 750330806
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Carbon_dioxide_removal&oldid=750330806"
+Categories: Carbon dioxideChemical processesCarbon sequestrationAtmospheric chemistryHidden categories: Webarchive template wayback linksAll articles with unsourced statementsArticles with unsourced statements from November 2013Articles with unsourced statements from September 2011Articles with unsourced statements from January 2009

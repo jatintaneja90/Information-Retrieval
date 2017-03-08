@@ -1,0 +1,182 @@
+Brownout(electricity)
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}For other uses, see Brownout (disambiguation).
+A brownout near Tokyo Tower in Tokyo, Japan.
+A brownout is an intentional or unintentional drop in voltage in an electrical power supply system. Intentional brownouts are used for load reduction in an emergency.[1] The reduction lasts for minutes or hours, as opposed to short-term voltage sag (or dip). The term brownout comes from the dimming experienced by incandescent lighting when the voltage sags. A voltage reduction may be an effect of disruption of an electrical grid, or may occasionally be imposed in an effort to reduce load and prevent a power outage, known as a blackout.[2]
+In some media reports the term brownout refers to an intentional or unintentional power outage or blackout of some areas rather than to a drop in voltage.[3][4][5]
+Effects[edit]
+Different types of electrical apparatus will react in different ways to a sag. Some devices will be severely affected, while others may not be affected at all.
+The heat output of any resistance device, such as an electric space heater, is equal to the true power consumption, which is an increasing function of the applied voltage. If the resistance stays constant, power consumption is proportional to the square of the applied voltage. Therefore, a significant reduction of heat output will occur with a relatively small reduction in voltage. An incandescent lamp will dim due to lower heat creation in the filament, as well as lower conversion of heat to light. Generally speaking, no damage will occur but functionality will be impaired.
+Commutated electric motors, such as universal motors, will run at reduced speed or reduced torque. Depending on the motor design, no harm may occur. However, under load, the motor may draw more current due to the reduced back-EMF developed at the lower armature speed. Unless the motor has ample cooling capacity, it may eventually overheat and burn out.
+An induction motor will draw more current to compensate for the decreased voltage, which may lead to overheating and burnout. If a substantial part of a grid's load is electric motors, reducing voltage may not actually reduce load and can result in damage to customers' equipment.
+An unregulated direct current supply will produce a lower output voltage for electronic circuits. The output ripple voltage will decrease in line with the usually reduced load current. In a CRT television, the reduced output voltage can be seen as the screen image shrinking in size and becoming dim and fuzzy.
+A linear direct current regulated supply will maintain the output voltage unless the brownout is severe and the input voltage drops below the drop out voltage for the regulator, at which point the output voltage will fall and high levels of ripple from the rectifier/reservoir capacitor will appear on the output.
+A switched-mode power supply which has a regulated output will be affected. As the input voltage falls, the current draw will increase to maintain the same output voltage and current, until such a point that the power supply malfunctions.
+Brownouts can cause unexpected behaviour in systems with digital control circuits. Reduced voltages can bring control signals below the threshold at which logic circuits can reliably detect which state is being represented. As the voltage returns to normal levels the logic can latch at an incorrect state; even can't happen states become possible. The seriousness of this effect and whether steps need to be taken by the designer to prevent it depends on the nature of the equipment being controlled; for instance, a brownout may cause a motor to begin running backwards.
+See also[edit]
+Dumsor
+Power outage
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+References[edit]
+^ Steven Warren Blume Electric power system basics: for the nonelectrical professional. John Wiley & Sons, 2007 ISBN 0470129875 p. 199
+^ Alan Wyatt, Electric Power Challenges and Choices, The Book Press Limited, Toronto, 1986 ISBN 0-920650-00-7 page 63
+^ "US power brown-out causes Net, phone chaos". theregister.co.uk.
+^ "BBC NEWS - Asia-Pacific - Beijing 'brown-out' to save power". bbc.co.uk.
+^ Burgos, Jr., Nestor P. (November 7, 2010). "Iloilo power firms asked to explain brownouts". Philippine Daily Inquirer. Retrieved 21 June 2012. Both Peco and PPC were asked to submit their explanations on the power interruptions being investigated by Gerochi's committee.
+NewPP limit report
+Parsed by mw1180
+Cached time: 20161118222903
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.166 seconds
+Preprocessor visited node count: 667/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 29382/2097152 bytes
+Template argument size: 732/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.045/10.000 seconds
+Lua memory usage: 1.82 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+127.998
+1 - -total
+48.17%
+61.659
+1 - Template:Reflist
+36.75%
+47.042
+2 - Template:Cite_web
+30.34%
+38.831
+2 - Template:Navbox
+26.87%
+34.389
+1 - Template:Electricity_delivery
+20.92%
+26.771
+1 - Template:Other_uses2
+11.81%
+15.111
+1 - Template:Navbox_subgroup
+4.50%
+5.755
+1 - Template:Cite_news
+1.45%
+1.857
+3 - Template:Longitem
+Saved in parser cache with key enwiki:pcache:idhash:11917751-0!*!0!!*!4!* and timestamp 20161118222902 and revision id 734204992
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Brownout_(electricity)&oldid=734204992"
+Categories: Electrical gridVoltage stabilityHidden categories: Pages using ISBN magic links

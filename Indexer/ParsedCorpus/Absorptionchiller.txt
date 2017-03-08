@@ -1,0 +1,569 @@
+Absorptionchiller
+From Wikipedia, the free encyclopedia
+(Redirected from Absorption chiller)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Thermodynamics
+The classical Carnot heat engine
+Branches
+Classical
+Statistical
+Chemical
+Equilibrium/ Non-equilibrium
+Laws
+Zeroth
+First
+Second
+Third
+Systems
+State
+Equation of state
+Ideal gas
+Real gas
+State of matter
+Equilibrium
+Control volume
+Instruments
+Processes
+Isobaric
+Isochoric
+Isothermal
+Adiabatic
+Isentropic
+Isenthalpic
+Quasistatic
+Polytropic
+Free expansion
+Reversibility
+Irreversibility
+Endoreversibility
+Cycles
+Heat engines
+Heat pumps
+Thermal efficiency
+System properties
+Note: Conjugate variables in italics
+Property diagrams
+Intensive and extensive properties
+Functions of state
+Temperature/ Entropy(introduction)
+Pressure/ Volume
+Chemical potential/ Particle number
+Vapor quality
+Reduced properties
+Process functions
+Work
+Heat
+Material properties
+Property databases
+Specific heat capacity
+c
+=
+{\displaystyle c=}
+T
+{\displaystyle T}
+ 
+S
+{\displaystyle \partial S}
+N
+{\displaystyle N}
+ 
+T
+{\displaystyle \partial T}
+Compressibility
+ 
+=
+ 
+{\displaystyle \beta =-}
+1
+{\displaystyle 1}
+ 
+V
+{\displaystyle \partial V}
+V
+{\displaystyle V}
+ 
+p
+{\displaystyle \partial p}
+Thermal expansion
+ 
+=
+{\displaystyle \alpha =}
+1
+{\displaystyle 1}
+ 
+V
+{\displaystyle \partial V}
+V
+{\displaystyle V}
+ 
+T
+{\displaystyle \partial T}
+Equations
+Carnot's theorem
+Clausius theorem
+Fundamental relation
+Ideal gas law
+Maxwell relations
+Onsager reciprocal relations
+Bridgman's equations
+Table of thermodynamic equations
+Potentials
+Free energy
+Free entropy
+Internal energy
+U
+(
+S
+,
+V
+)
+{\displaystyle U(S,V)}
+Enthalpy
+H
+(
+S
+,
+p
+)
+=
+U
++
+p
+V
+{\displaystyle H(S,p)=U+pV}
+Helmholtz free energy
+A
+(
+T
+,
+V
+)
+=
+U
+ 
+T
+S
+{\displaystyle A(T,V)=U-TS}
+Gibbs free energy
+G
+(
+T
+,
+p
+)
+=
+H
+ 
+T
+S
+{\displaystyle G(T,p)=H-TS}
+History
+Culture
+History
+General
+Heat
+Entropy
+Gas laws
+"Perpetual motion" machines
+Philosophy
+Entropy and time
+Entropy and life
+Brownian ratchet
+Maxwell's demon
+Heat death paradox
+Loschmidt's paradox
+Synergetics
+Theories
+Caloric theory
+Theory of heat
+Vis viva ("living force")
+Mechanical equivalent of heat
+Motive power
+Key publications
+"An Experimental Enquiry
+Concerning ... Heat"
+"On the Equilibrium of
+Heterogeneous Substances"
+"Reflections on the
+Motive Power of Fire"
+Timelines
+Thermodynamics
+Heat engines
+Art
+Education
+Maxwell's thermodynamic surface
+Entropy as energy dispersal
+Scientists
+Bernoulli
+Carnot
+Clapeyron
+Clausius
+Carathodory
+Duhem
+Gibbs
+von Helmholtz
+Joule
+Maxwell
+von Mayer
+Onsager
+Rankine
+Smeaton
+Stahl
+Thompson
+Thomson
+Waterston
+Book:Thermodynamics
+v
+t
+e
+An absorption refrigerator is a refrigerator that uses a heat source (e.g., solar energy, a fossil-fueled flame, waste heat from factories, or district heating systems) to provide the energy needed to drive the cooling process.
+Absorption refrigerators are often used for food storage in recreational vehicles. The principle can also be used to air-condition buildings using the waste heat from a gas turbine or water heater. Using waste heat from a gas turbine makes the turbine very efficient because it first produces electricity, then hot water, and finally, air-conditioning (called cogeneration/trigeneration).
+The standard for the absorption refrigerator is given by the ANSI/AHRI standard 560-2000.[1]
+Contents
+1 History
+2 Principles
+2.1 Simple salt and water system
+2.2 Water spray absorption refrigeration
+2.3 Single pressure absorption refrigeration
+3 References
+4 See also
+5 Further reading
+6 External links
+History[edit]
+In the early years of the twentieth century, the vapor absorption cycle using water-ammonia systems was popular and widely used, but after the development of the vapor compression cycle it lost much of its importance because of its low coefficient of performance (about one fifth of that of the vapor compression cycle). Nowadays, the vapor absorption cycle is used only where waste heat is available or where heat is derived from solar collectors. Absorption refrigerators are a popular alternative to regular compressor refrigerators where electricity is unreliable, costly, or unavailable, where noise from the compressor is problematic, or where surplus heat is available (e.g., from turbine exhausts or industrial processes, or from solar plants).
+Absorption cooling was invented by the French scientist Ferdinand Carr in 1858.[2] The original design used water and sulphuric acid.
+In 1922 Baltzar von Platen and Carl Munters, while they were still students at the Royal Institute of Technology in Stockholm, Sweden, enhanced the principle with a 3-fluid configuration. This "Platen-Munters" design can operate without a pump.
+Commercial production began in 1923 by the newly formed company AB Arctic, which was bought by Electrolux in 1925. In the 1960s, the absorption refrigeration saw a renaissance due to the substantial demand for refrigerators for caravans (travel trailers). AB Electrolux established a subsidiary in the United States, named Dometic Sales Corporation. The company marketed refrigerators for RVs under the Dometic brand. In 2001, Electrolux sold most of its leisure products line to the venture-capital company EQT which created Dometic as a stand-alone company.
+In 1926, Albert Einstein and his former student Le Szilrd proposed an alternative design known as the Einstein refrigerator.[3]
+At the 2007 TED Conference, Adam Grosser presented his research of a new, very small, "intermittent absorption" vaccine refrigeration unit for use in third world countries. The refrigerator is a small unit placed over a campfire, that can later be used to cool 15 liters of water to just above freezing for 24 hours in a 30C environment.[4]
+Principles[edit]
+Absorption cooling process
+Both absorption and compressor refrigerators use a refrigerant with a very low boiling point (less than 0F (18C)). In both types, when this refrigerant evaporates (boils), it takes some heat away with it, providing the cooling effect. The main difference between the two systems is the way the refrigerant is changed from a gas back into a liquid so that the cycle can repeat. An absorption refrigerator changes the gas back into a liquid using a method that needs only heat, and has no moving parts other than the refrigerant itself.
+The absorption cooling cycle can be described in three phases:
+Evaporation: A liquid refrigerant evaporates in a low partial pressure environment, thus extracting heat from its surroundings (e.g. the refrigerator's compartment). Because of the low partial pressure, the temperature needed for evaporation is also low.
+Absorption: The now gaseous refrigerant is absorbed by another liquid (e.g. a salt solution).
+Regeneration: The refrigerant-saturated liquid is heated, causing the refrigerant to evaporate out. The hot gaseous refrigerant passes through a heat exchanger, transferring its heat outside the system (such as to surrounding ambient-temperature air), and condenses. The condensed (liquid) refrigerant supplies the evaporation phase.
+In comparison, a compressor refrigerator uses an electrically powered compressor to increase the pressure on the gaseous refrigerant. The resulting hot, high-pressure gas is condensed to a liquid form by cooling in a heat exchanger ("condenser") that is exposed to the external environment (usually air in the room). The condensed refrigerant, now at a temperature near to that of the external environment, then passes through an orifice or a throttle valve into the evaporator section. The orifice or throttle valve creates a pressure drop between the high pressure condenser section and the low pressure evaporator section. The lower pressure in the evaporator section allows the liquid refrigerant to evaporate, which absorbs heat from the refrigerator food compartment. The now-vaporized refrigerant then goes back into the compressor to repeat the cycle.
+Another difference between the two types is the refrigerant used. Compressor refrigerators typically use an HCFC or HFC, while absorption refrigerators typically use ammonia or water.
+Simple salt and water system[edit]
+A simple absorption refrigeration system common in large commercial plants uses a solution of lithium bromide and Lithium chloride salt and water. Water under low pressure is evaporated from the coils that are being chilled. The water is absorbed by a lithium bromide/water solution. The system drives the water off the lithium bromide solution with heat.[5]
+Water spray absorption refrigeration[edit]
+Water spray absorption system
+Another variant, depicted to the right, uses air, water, and a salt water solution. The intake of warm, moist air is passed through a sprayed solution of salt water. The spray lowers the humidity but does not significantly change the temperature. The less humid, warm air is then passed through an evaporative cooler, consisting of a spray of fresh water, which cools and re-humidifies the air. Humidity is removed from the cooled air with another spray of salt solution, providing the outlet of cool, dry air.
+The salt solution is regenerated by heating it under low pressure, causing water to evaporate. The water evaporated from the salt solution is re-condensed, and rerouted back to the evaporative cooler.
+Single pressure absorption refrigeration[edit]
+Labeled photo of a domestic absorption refrigerator. 1. Hydrogen enters the pipe with liquid ammonia
+2. Ammonia and hydrogen enter the inner compartment of the refrigerator. An increase in volume causes a decrease in the partial pressure of the liquid ammonia. The ammonia evaporates, taking heat from the liquid ammonia (HVap) and thus lowering its temperature. Heat flows from the hotter interior of the refrigerator to the colder liquid, promoting further evaporation.
+3. Ammonia and hydrogen return from the inner compartment, ammonia returns to absorber and dissolves in water. Hydrogen is free to rise upwards.
+4. Ammonia gas condensation (passive cooling).
+5. Hot ammonia (gas).
+6. Heat insulation and distillation of ammonia gas from water.
+7. Heat source (electric).
+8. Absorber vessel (water and ammonia solution).
+A single-pressure absorption refrigerator takes advantage of the fact that a substance's boiling point depends upon the partial pressure of the vapor above the liquid and goes down with lower partial pressure. While having the same total pressure throughout the system, the refrigerator maintains a low partial pressure of the refrigerant (therefore low boiling point) in the part of the system that draws heat out of the low-temperature interior of the refrigerator, but maintains the refrigerant at high partial pressure (therefore high boiling point) in the part of the system that expels heat to the ambient-temperature air outside the refrigerator.
+The refrigerator uses three substances: ammonia, hydrogen gas, and water. The cycle is closed, with all hydrogen, water and ammonia collected and endlessly reused. The system is pressurized to the pressure where the boiling point of ammonia is higher than the temperature of the condenser coil (the coil which transfers heat to the air outside the refrigerator, by being hotter than the outside air) This pressure is typically 14-16atm, at which pressure the dew point of ammonia will be about 95F (35C).
+The cooling cycle starts with liquid ammonia entering the evaporator at room temperature. The volume of the evaporator is greater than the volume of the liquid, with the excess space occupied by a mixture of gaseous ammonia and hydrogen. The presence of hydrogen lowers the partial pressure of the ammonia gas, thus lowering the boiling point of the liquid below the temperature of the refrigerator's interior. Ammonia evaporates, taking a small amount of heat from the liquid and lowering the liquid's temperature, until it reaches that boiling point. It then continues to evaporate, without the liquid descending below the boiling point, while the large enthalpy of vaporization (heat) flows from the warmer refrigerator interior to the cooler liquid ammonia and then to more ammonia gas.
+In the next two steps, the ammonia gas is separated from the hydrogen to take advantage of the full-pressure ammonia's higher boiling point.
+The ammonia (gas) and hydrogen (gas) mixture flows through a pipe from the evaporator into the absorber. In the absorber, this mixture of gasses contacts a solution of ammonia (liquid) in water (liquid). The gasseous ammonia dissolves in the water and the hydrogen collects at the top of the absorber, while the ammonia (liquid) and water (liquid) solution remains at the bottom. The hydrogen is now separate while the ammonia is now dissolved in the water.
+The next step separates the ammonia and water. The ammonia/water solution flows to the generator, where heat is applied to evaporate the ammonia, leaving most of the water, with its higher boiling point, behind. Some water vapor and bubbles remain mixed with the ammonia; this water is removed in the final separation step, by passing it through the separator, an uphill series of twisted pipes with minor obstacles to pop the bubbles, allowing the water vapor to condense and drain back to the generator.
+The pure ammonia gas then enters the condenser. In this heat exchanger, the hot ammonia gas transfers its heat to the outside air, which is below the boiling point of the full-pressure ammonia, and therefore condenses. The condensed (liquid) ammonia flows down to be mixed with the hydrogen gas from the absorption step, allowing the cycle to repeat.
+References[edit]
+^ PDF document for download at "Archived copy" (PDF). Archived from the original (PDF) on 2012-10-31. Retrieved 2012-03-31.
+^ Eric Granryd & Bjrn Palm, Refrigerating engineering, Stockholm Royal Institute of Technology, 2005, see chap. 4-3
+^ "US Patent 1781541".
+^ Adam Grosser (Feb 2007). "Adam Grosser and his sustainable fridge, 552 word transcript and video 3mins34". TED. Archived from the original on 19 April 2010. Retrieved 2010-04-18.
+^ Sapali, S. N. "Lithium Bromide Absorption Refrigeration System". Textbook Of Refrigeration And Air-Conditioning. New Delhi: PHI learning. p.258. ISBN978-81-203-3360-4.
+See also[edit]
+Quantum absorption refrigerator
+RV Fridge
+Further reading[edit]
+Levy, A.; Kosloff, R. (2012). "Quantum Absorption Refrigerator". Phys. Rev. Lett. 108: 070604. arXiv:1109.0728. Bibcode:2012PhRvL.108g0604L. doi:10.1103/PhysRevLett.108.070604.
+External links[edit]
+Absorption Heat Pumps (EERE).
+Arizona Energy Explanation with diagrams
+Design Analysis of the Einstein Refrigeration Cycle, Andrew Delano (1998). Retrieved September 13, 2005.
+Air Conditioning Thermodynamics, published by the California EPA, Air Resources Board
+Lithium-Bromide / Water Cycle - Absorption Refrigeration for Campus Cooling at BYU.
+v
+t
+e
+Thermodynamic cycles
+External combustion
+Without phase change
+(hot air engines)
+Bell Coleman
+Brayton / Joule
+Carnot
+Ericsson
+Stirling
+Stirling (pseudo / adiabatic)
+Stoddard
+With phase change
+Kalina
+Hygroscopic
+Rankine (Organic Rankine)
+Regenerative
+Internal combustion
+Atkinson
+Brayton / Joule
+Diesel
+Expander
+Gas-generator
+Homogeneous charge compression ignition
+Lenoir
+Miller
+Otto
+Scuderi
+Staged combustion
+Mixed
+Combined
+HEHC
+Mixed / Dual
+Refrigeration
+HampsonLinde
+Kleemenko
+Pulse tube
+Regenerative cooling
+Transcritical
+Vapor absorption
+Vapor-compression
+Siemens
+Vuilleumier
+Uncategorized
+Barton
+Humphrey
+v
+t
+e
+Heating, ventilation and air conditioning
+Fundamental concepts
+Air changes per hour
+Building envelope
+Convection
+Dilution
+Domestic energy consumption
+Enthalpy
+Fluid dynamics
+Gas compressor
+Heat pump and refrigeration cycle
+Heat transfer
+Humidity
+Infiltration
+Latent heat
+Noise control
+Particulates
+Psychrometrics
+Sensible heat
+Stack effect
+Thermal comfort
+Thermal destratification
+Thermodynamics
+Vapor pressure of water
+Technology
+Absorption refrigerator
+Air barrier
+Air conditioning
+Antifreeze
+Automobile air conditioning
+Autonomous building
+Building insulation materials
+Central heating
+Central solar heating
+Chilled beam
+Chilled water
+Constant air volume (CAV)
+Coolant
+Dedicated outdoor air system (DOAS)
+Deep water source cooling
+Demand-controlled ventilation (DCV)
+Displacement ventilation
+District cooling
+District heating
+Electric heating
+Energy recovery ventilation (ERV)
+Forced-air
+Forced-air gas
+Free cooling
+Heat recovery ventilation (HRV)
+Hydronics
+HVAC
+Ice storage air conditioning
+Kitchen ventilation
+Mixed-mode ventilation
+Microgeneration
+Natural ventilation
+Passive cooling
+Passive house
+Radiant cooling
+Radiant heating
+Radon mitigation
+Refrigeration
+Renewable heat
+Room air distribution
+Solar air heat
+Solar combisystem
+Solar cooling
+Solar heating
+Thermal insulation
+Thermal mass
+Thermal wheel
+Underfloor air distribution
+Underfloor heating
+Vapor barrier
+Vapor-compression refrigeration (VCRS)
+Variable air volume (VAV)
+Variable refrigerant flow (VRF)
+Ventilation
+Components
+Air conditioner inverter
+Air door
+Air filter
+Air handler
+Air ionizer
+Air-mixing plenum
+Air purifier
+Air source heat pumps
+Back boiler
+Barrier pipe
+Blast damper
+Boiler
+Centrifugal fan
+Chiller
+Condensate pump
+Condenser
+Condensing boiler
+Convection heater
+Cooling tower
+Damper
+Dehumidifier
+Duct
+Durable elbow support
+Economizer
+Electrostatic precipitator
+Evaporative cooler
+Evaporator
+Exhaust hood
+Expansion tank
+Fan coil unit
+Fan heater
+Fire damper
+Fireplace
+Fireplace insert
+Firestop
+Freeze stat
+Flue
+Freon
+Fume hood
+Furnace
+Furnace room
+Gas compressor
+Gas heater
+Geothermal heat pump
+Grease duct
+Grille
+Ground-coupled heat exchanger
+Heat exchanger
+Heat pipe
+Heat pump
+Heating film
+Heating system
+High efficiency glandless circulating pump
+High-efficiency particulate air (HEPA)
+High pressure cut off switch
+Humidifier
+Hybrid heat
+Infrared heater
+Inverter compressor
+Louver
+Mechanical fan
+Mechanical room
+Oil heater
+Packaged terminal air conditioner
+Plenum space
+Pressurisation ductwork
+Radiator
+Radiator reflector
+Recuperator
+Refrigerant
+Register
+Reversing valve
+Run-around coil
+Scroll compressor
+Solar chimney
+Solar-assisted heat pump
+Space heater
+Smoke exhaust ductwork
+Thermal expansion valve
+Thermal wheel
+Thermosiphon
+Thermostatic radiator valve
+Trickle vent
+Trombe wall
+Turning vanes
+Ultra-low particulate air (ULPA)
+Whole-house fan
+Windcatcher
+Wood-burning stove
+Measurement and control
+Air flow meter
+Aquastat
+BACnet
+Blower door
+Building automation
+Clean Air Delivery Rate (CADR)
+Gas sensor
+Home energy monitor
+Humidistat
+HVAC control system
+Intelligent buildings
+LonWorks
+Minimum efficiency reporting value (MERV)
+OpenTherm
+Programmable communicating thermostat
+Programmable thermostat
+Psychrometrics
+Room temperature
+Smart thermostat
+Thermostat
+Thermostatic radiator valve
+Professions, trades, and services
+Architectural acoustics
+Architectural engineering
+Architectural technologist
+Building services engineering
+Building information modeling (BIM)
+Deep energy retrofit
+Duct leakage testing
+Environmental engineering
+Hydronic balancing
+Kitchen exhaust cleaning
+Mechanical engineering
+Mechanical, electrical, and plumbing
+Mold growth, assessment, and remediation
+Refrigerant reclamation
+Testing, adjusting, balancing
+Industry organizations
+ACCA
+AMCA
+ASHRAE
+ASTM International
+BRE
+BSRIA
+CIBSE
+LEED
+SMACNA
+Health and safety
+Indoor air quality (IAQ)
+Passive smoking
+Sick building syndrome (SBS)
+See also
+ASHRAE Handbook
+Building science
+Fireproofing
+Glossary of HVAC terms
+Template:Home automation
+Template:Solar energy
+Saved in parser cache with key enwiki:pcache:idhash:3485532-0!*!0!!en!4!*!math=5 and timestamp 20161112145417 and revision id 744534229
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Absorption_refrigerator&oldid=744534229"
+Categories: Thermodynamic cyclesHeat pumpsCooling technologyHeating, ventilating, and air conditioningGas technologies

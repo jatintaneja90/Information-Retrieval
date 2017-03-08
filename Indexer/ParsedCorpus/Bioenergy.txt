@@ -1,0 +1,340 @@
+Bioenergy
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about the physical energy derived biological sources. For the idea that all living things contain a "bioenergy" of a spiritual nature, see Energy (esotericism).
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2011) (Learn how and when to remove this template message)
+A Stirling engine capable of producing electricity from biomass combustion heat
+Part of a series on
+Renewable energy
+Biofuel
+Biomass
+Geothermal
+Hydropower
+Solar energy
+Tidal power
+Wave power
+Wind power
+Topics by country
+100% renewable energy
+Marketing and policy trends
+v
+t
+e
+Bioenergy is renewable energy made available from materials derived from biological sources. Biomass is any organic material which has stored sunlight in the form of chemical energy. As a fuel it may include wood, wood waste, straw, manure, sugarcane, and many other by-products from a variety of agricultural processes. By 2010, there was 35GW (47,000,000hp) of globally installed bioenergy capacity for electricity generation, of which 7GW (9,400,000hp) was in the United States.[1]
+In its most narrow sense it is a synonym to biofuel, which is fuel derived from biological sources. In its broader sense it includes biomass, the biological material used as a biofuel, as well as the social, economic, scientific and technical fields associated with using biological sources for energy. This is a common misconception, as bioenergy is the energy extracted from the biomass, as the biomass is the fuel and the bioenergy is the energy contained in the fuel[2]
+There is a slight tendency for the word bioenergy to be favoured in Europe compared with biofuel in America. [3]
+Contents
+1 Solid biomass
+2 Sewage biomass
+3 Electricity generation from biomass
+3.1 Electricity from sugarcane bagasse in Brazil
+4 Electricity from electrogenic micro-organisms
+5 Environmental impact
+6 See also
+7 References
+8 Further reading
+9 External links
+Solid biomass[edit]
+Main article: Biomass
+Simple use of biomass fuel (Combustion of wood for heat).
+One of the advantages of biomass fuel is that it is often a by-product, residue or waste-product of other processes, such as farming, animal husbandry and forestry.[1] In theory this means there is no competition between fuel and food production, although this is not always the case.[1] Land use, existing biomass industries and relevant conversion technologies must be considered when evaluating suitability of developing biomass as feedstock for energy.[4]
+Biomass is the material derived from recently living organisms, which includes plants, animals and their byproducts.[5] Manure, garden waste and crop residues are all sources of biomass. It is a renewable energy source based on the carbon cycle, unlike other natural resources such as petroleum, coal, and nuclear fuels. Another source includes Animal waste, which is a persistent and unavoidable pollutant produced primarily by the animals housed in industrial-sized farms.
+There are also agricultural products specifically being grown for biofuel production. These include corn, and soybeans and to some extent willow and switchgrass on a pre-commercial research level, primarily in the United States; rapeseed, wheat, sugar beet, and willow (15,000ha or 37,000 acres in Sweden) primarily in Europe; sugarcane in Brazil; palm oil and miscanthus[6] in Southeast Asia;[7] sorghum and cassava in China; and jatropha in India. Hemp has also been proven to work as a biofuel. Biodegradable outputs from industry, agriculture, forestry and households can be used for biofuel production, using e.g. anaerobic digestion to produce biogas, gasification to produce syngas or by direct combustion. Examples of biodegradable wastes include straw, timber, manure, rice husks, sewage, and food waste. The use of biomass fuels can therefore contribute to waste management as well as fuel security and help to prevent or slow down climate change, although alone they are not a comprehensive solution to these problems.
+Biomass can be converted to other usable forms of energy like methane gas or transportation fuels like ethanol and biodiesel. Rotting garbage, and agricultural and human waste, all release methane gasalso called "landfill gas" or "biogas." Crops, such as corn and sugar cane, can be fermented to produce the transportation fuel, ethanol. Biodiesel, another transportation fuel, can be produced from left-over food products like vegetable oils and animal fats. Also, Biomass to liquids (BTLs) and cellulosic ethanol are still under research.
+Sewage biomass[edit]
+A new bioenergy sewage treatment process aimed at developing countries is now on the horizon; the Omni Processor is a self-sustaining process which uses the sewerage solids as fuel to convert sewage waste water into drinking water and electrical energy.[8][9][10]
+Electricity generation from biomass[edit]
+The biomass used for electricity production ranges by region.[1] Forest byproducts, such as wood residues, are popular in the United States.[1] Agricultural waste is common in Mauritius (sugar cane residue) and Southeast Asia (rice husks).[1] Animal husbandry residues, such as poultry litter, is popular in the UK.[1]
+Electricity from sugarcane bagasse in Brazil[edit]
+Sugarcane (Saccharum officinarum) plantation ready for harvest, Ituverava, So Paulo State. Brazil.
+A sugar/ethanol plant located in Piracicaba, So Paulo State. This plant produces the electricity it needs from bagasse residuals from sugarcane left over by the milling process, and it sells the surplus electricity to the public grid.
+Sucrose accounts for little more than 30% of the chemical energy stored in the mature plant; 35% is in the leaves and stem tips, which are left in the fields during harvest, and 35% are in the fibrous material (bagasse) left over from pressing.
+The production process of sugar and ethanol in Brazil takes full advantage of the energy stored in sugarcane. Part of the bagasse is currently burned at the mill to provide heat for distillation and electricity to run the machinery. This allows ethanol plants to be energetically self-sufficient and even sell surplus electricity to utilities; current production is 600MW (800,000hp) for self-use and 100MW (130,000hp) for sale. This secondary activity is expected to boom now that utilities have been induced to pay "fair price "(about US$10/GJ or US$0.036/kWh) for 10 year contracts. This is approximately half of what the World Bank considers the reference price for investing in similar projects (see below). The energy is especially valuable to utilities because it is produced mainly in the dry season when hydroelectric dams are running low. Estimates of potential power generation from bagasse range from 1,000 to 9,000MW (1,300,000 to 12,100,000hp), depending on technology. Higher estimates assume gasification of biomass, replacement of current low-pressure steam boilers and turbines by high-pressure ones, and use of harvest trash currently left behind in the fields. For comparison, Brazil's Angra I nuclear plant generates 657MW (881,000hp).
+Presently, it is economically viable to extract about 288 MJ of electricity from the residues of one tonne of sugarcane, of which about 180 MJ are used in the plant itself. Thus a medium-size distillery processing 1,000,000 tonnes (980,000 long tons; 1,100,000 short tons) of sugarcane per year could sell about 5MW (6,700hp) of surplus electricity. At current prices, it would earn US$18 million from sugar and ethanol sales, and about US$1 million from surplus electricity sales. With advanced boiler and turbine technology, the electricity yield could be increased to 648 MJ per tonne of sugarcane, but current electricity prices do not justify the necessary investment. (According to one report, the World Bank would only finance investments in bagasse power generation if the price were at least US$19/GJ or US$0.068/kWh.)
+Bagasse burning is environmentally friendly compared to other fuels like oil and coal. Its ash content is only 2.5% (against 3050% of coal), and it contains very little sulfur. Since it burns at relatively low temperatures, it produces little nitrous oxides. Moreover, bagasse is being sold for use as a fuel (replacing heavy fuel oil) in various industries, including citrus juice concentrate, vegetable oil, ceramics, and tyre recycling. The state of So Paulo alone used 2,000,000 tonnes (1,970,000 long tons; 2,200,000 short tons), saving about US$35 million in fuel oil imports.
+Researchers working with cellulosic ethanol are trying to make the extraction of ethanol from sugarcane bagasse and other plants viable on an industrial scale.
+Electricity from electrogenic micro-organisms[edit]
+Another form of bioenergy can be attained from microbial fuel cells, in which chemical energy stored in wastewater or soil is converted directly into electrical energy via the metabolic processes of electrogenic micro-organisms. The power generation capability of this technology has not been economical to date, however, and this technology has found more utility for chemical treatment processes [11] and student education.[12]
+Environmental impact[edit]
+Further information: Environmental impact of biodiesel
+Some forms of forest bioenergy have recently come under fire from a number of environmental organizations, including Greenpeace and the Natural Resources Defense Council, for the harmful impacts they can have on forests and the climate. Greenpeace recently released a report entitled Fuelling a BioMess which outlines their concerns around forest bioenergy. Because any part of the tree can be burned, the harvesting of trees for energy production encourages Whole-Tree Harvesting, which removes more nutrients and soil cover than regular harvesting, and can be harmful to the long-term health of the forest. In some jurisdictions, forest biomass is increasingly consisting of elements essential to functioning forest ecosystems, including standing trees, naturally disturbed forests and remains of traditional logging operations that were previously left in the forest. Environmental groups also cite recent scientific research which has found that it can take many decades for the carbon released by burning biomass to be recaptured by regrowing trees, and even longer in low productivity areas; furthermore, logging operations may disturb forest soils and cause them to release stored carbon. In light of the pressing need to reduce greenhouse gas emissions in the short term in order to mitigate the effects of climate change, a number of environmental groups are opposing the large-scale use of forest biomass in energy production.[13][14]
+The New Scientist described a scenario in a September 2016 article which illustrated why the journal believed bioenergy can be bad: Suppose you cut down a 50 year oak tree in your garden and use the logs to heat your house instead of coal. Wood emits more carbon dioxide than coal per unit of heat gained and the roots left in the soil emit more carbon dioxide as they rot. If you plant another tree it will soak up that carbon dioxide in about 50 years. But if you had left the original tree in place it would have soaked up the carbon dioxide from the coal and more. It could take centuries before cutting down the tree would give any benefit. But the world needed to cut carbon dioxide over the next few decades if the global warming was to be kept below 3 degrees C.[15] The journal also concluded that official claimed carbon reductions from renewables had been overstated. The European Union, for example, got more 64% of its renewable energy from biomass (mostly wood) but United Nations and EU rules did not count the carbon emissions from burning biomass.[15]
+See also[edit]
+Energy portal
+Renewable energy portal
+Biochar
+Bioenergy in China
+Biofuel
+Biogas
+Jean Pain
+Pellet fuel
+Biomass energy with carbon capture and storage
+European Biomass Association
+References[edit]
+^ a b c d e f g Frauke Urban and Tom Mitchell 2011. Climate change, disasters and electricity generation. London: Overseas Development Institute and Institute of Development Studies
+^ "What is bioenergy?". Vxj University, Bioenergy Technology Department. Archived from the original on 23 August 2010.
+^ "Definition: Bioenergy | Open Energy Information". en.openei.org. Retrieved 2016-10-23.
+^ Kosinkova, Jana; Doshi, Amar; Maire, Juliette; Ristovski, Zoran; Brown, Richard; Rainey, Thomas (September 2015). "Measuring the regional availability of biomass for biofuels and the potential for microalgae". Renewable and Sustainable Energy Reviews. 49: 12711285. doi:10.1016/j.rser.2015.04.084.
+^ "Bioenergy".
+^ Cho, Renee (2011-08-18). "Is Biomass Really Renewable?". Earth Institute. Columbia University. Retrieved 2016-10-01.
+^ Davis, Sarah C.; Boddey, Robert M.; Alves, Bruno J. R.; Cowie, Annette L.; George, Brendan H.; Ogle, Stephen M.; Smith, Pete; van Noordwijk, Meine; van Wijk, Mark T. (2013-11-01). "Management swing potential for bioenergy crops". GCB Bioenergy. 5 (6): 623638. doi:10.1111/gcbb.12042. ISSN1757-1707.
+^ "Janicki Bioenergy website". Retrieved 11 January 2015.
+^ "BBC news article "Bill Gates drinks water distilled from human faeces"". Retrieved 11 January 2015.
+^ "Watch Bill Gates Sip Water Made From Sewer Sludge". Forbes. Missing or empty |url= (help); |access-date= requires |url= (help)
+^ "- Cambrian Innovation - Biology For a Cleaner Planet". Cambrian Innovation. Retrieved 28 February 2015.
+^ MudWatt. "MudWatt Science Kit". MudWatt. Retrieved 28 February 2015.
+^ Greenpeace.org Archived June 3, 2012, at the Wayback Machine.
+^ "NRDC fact sheet lays out biomass basics, campaign calls for action to tell EPA our forests aren't fuel". nrdc.org. Retrieved 28 February 2015.
+^ a b Le Page, Michael (2016-09-24). "The Great Carbon Scam". The New Scientist. 3092. 231: 2021. (subscription required (help)).
+Further reading[edit]
+GA Mansoori, N Enayati, LB Agyarko (2016), Energy: Sources, Utilization, Legislation, Sustainability, Illinois as Model State, World Sci. Pub. Co., ISBN 978-981-4704-00-7
+A Comparison between Shale Gas in China and Unconventional Fuel Development in the United States: Health, Water and Environmental Risks by Paolo Farah and Riccardo Tremolada. This is a paper presented at the Colloquium on Environmental Scholarship 2013 hosted by Vermont Law School (11 October 2013)
+Biomass Reports (Idaho National Laboratory).
+Research about the intersection of bioenergy, agriculture, and food security by the International Food Policy Research Institute.
+External links[edit]
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (March 2016) (Learn how and when to remove this template message)
+Video: Where does bioenergy come from? By Lszl Mth, Bioenergy Coordinator WWF International
+BioenergyWiki (BioenergyWiki was developed in cooperation with the CURES network and an international Steering Committee. It is currently being hosted by the National Wildlife Federation with support from the Rockefeller Brothers Fund, the Biomass Coordinating Council of the American Council on Renewable Energy (ACORE), the Heinrich Boell Foundation, Dynamotive Energy Systems Corporation, Renew the Earth, and the Worldwatch Institute.)
+Bioenergy (US Department of Energys Office of Energy Efficiency and Renewable Energy).
+Bioenergy in India (India's first Bioenergy Center at the prestigious IITs)
+Global Change Biology Bioenergy(GCB Bioenergy is a journal promoting understanding of the interface between biological sciences and the production of fuels directly from plants, algae and waste.)
+[1] Bioenergy plant in multiple countries
+v
+t
+e
+Bioenergy
+Biofuels
+Alcohol
+Algae fuel
+Bagasse
+Babassu oil
+Biobutanol
+Biodiesel
+Biogas
+Biogasoline
+Corn stover
+Ethanol
+cellulosic
+mixtures
+Methanol
+Stover
+Corn stover
+Straw
+Cooking oil
+Vegetable oil
+Water hyacinth
+Wood gas
+Energy from
+foodstock
+Barley
+Cassava
+Grape
+Hemp
+Maize
+Oat
+Palm oil
+Potato
+Rapeseed
+Rice
+Sorghum bicolor
+Soybean
+Sugarcane
+Sugar beet
+Sunflower
+Wheat
+Yam
+Camelina sativa
+Non-food
+energy crops
+Arundo
+Big bluestem
+Camelina
+Chinese tallow
+Duckweed
+Jatropha curcas
+Millettia pinnata
+Miscanthus giganteus
+Switchgrass
+Wood fuel
+Technology
+BECCS
+Bioconversion
+Biomass heating systems
+Biorefinery
+FischerTropsch process
+Industrial biotechnology
+Pellets
+mill
+stove
+Thermal depolymerization
+Concepts
+Cellulosic ethanol commercialization
+Energy content of biofuel
+Energy crop
+Energy forestry
+EROEI
+Food vs. fuel
+Issues
+Sustainable biofuel
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+Authority control
+GND: 4145596-4
+NewPP limit report
+Parsed by mw1248
+Cached time: 20161119071533
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.240 seconds
+Real time usage: 0.315 seconds
+Preprocessor visited node count: 1638/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 75709/2097152 bytes
+Template argument size: 784/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 3/500
+Lua time usage: 0.112/10.000 seconds
+Lua memory usage: 6.1 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+244.771
+1 - -total
+35.15%
+86.040
+1 - Template:Reflist
+20.76%
+50.823
+10 - Template:Cite_web
+13.53%
+33.117
+10 - Template:Convert
+9.80%
+23.979
+2 - Template:Ambox
+9.73%
+23.813
+1 - Template:Refimprove
+9.59%
+23.468
+3 - Template:Navbox
+6.78%
+16.593
+1 - Template:Electricity_generation
+6.44%
+15.763
+1 - Template:Authority_control
+6.38%
+15.623
+1 - Template:About
+Saved in parser cache with key enwiki:pcache:idhash:1713537-0!*!0!!en!4!* and timestamp 20161119071533 and revision id 750150941
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Bioenergy&oldid=750150941"
+Categories: BioenergyBiofuelsHidden categories: Pages using web citations with no URLPages using citations with accessdate and no URLWebarchive template wayback linksPages containing links to subscription-only contentArticles needing additional references from May 2011All articles needing additional referencesWikipedia external links cleanup from March 2016Wikipedia spam cleanup from March 2016Wikipedia articles with GND identifiersPages using ISBN magic links

@@ -1,0 +1,407 @@
+Agriculturalwastewatertreatment
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Riparian buffer lining a creek in Iowa
+Agricultural wastewater treatment is a farm management agenda for controlling pollution from surface runoff that may be contaminated by chemicals in fertiliser, pesticides, animal slurry, crop residues or irrigation water.
+Contents
+1 Nonpoint source pollution
+1.1 Sediment runoff
+1.2 Nutrient runoff
+1.3 Pesticides
+2 Point source pollution
+2.1 Animal wastes
+2.2 Piggery waste
+2.3 Silage liquor
+2.4 Milking parlour (dairy farming) wastes
+2.5 Slaughtering waste
+2.6 Vegetable washing water
+2.7 Firewater
+3 See also
+4 References
+5 External links
+Nonpoint source pollution[edit]
+Nonpoint source pollution from farms is caused by surface runoff from fields during rain storms. Agricultural runoff is a major source of pollution, in some cases the only source, in many watersheds.[1]
+Sediment runoff[edit]
+Highly erodible soils on a farm in Iowa
+Soil washed off fields is the largest source of agricultural pollution in the United States. Excess sediment causes high levels of turbidity in water bodies, which can inhibit growth of aquatic plants, clog fish gills and smother animal larvae.[1]
+Farmers may utilize erosion controls to reduce runoff flows and retain soil on their fields. Common techniques include:
+contour ploughing [2]
+crop mulching [3]
+crop rotation
+planting perennial crops
+installing riparian buffers.[4]:pp. 4-954-96
+Nutrient runoff[edit]
+Manure spreader
+Nitrogen and phosphorus are key pollutants found in runoff, and they are applied to farmland in several ways, such as in the form of commercial fertilizer, animal manure, or municipal or industrial wastewater (effluent) or sludge. These chemicals may also enter runoff from crop residues, irrigation water, wildlife, and atmospheric deposition.[4]:p. 29
+Farmers can develop and implement nutrient management plans to mitigate impacts on water quality by:
+mapping and documenting fields, crop types, soil types, water bodies
+developing realistic crop yield projections
+conducting soil tests and nutrient analyses of manures and/or sludges applied
+identifying other significant nutrient sources (e.g., irrigation water)
+evaluating significant field features such as highly erodible soils, subsurface drains, and shallow aquifers
+applying fertilizers, manures, and/or sludges based on realistic yield goals and using precision agriculture techniques.[4]:pp. 4-374-38[5]
+Pesticides[edit]
+Aerial application (crop dusting) of pesticides over a soybean field in the U.S.
+Pesticides are widely used by farmers to control plant pests and enhance production, but chemical pesticides can also cause water quality problems. Pesticides may appear in surface water due to:
+direct application (e.g. aerial spraying or broadcasting over water bodies)
+runoff during rain storms
+aerial drift (from adjacent fields).[4]:p.222
+Some pesticides have also been detected in groundwater.[4]:p.224
+Farmers may use Integrated Pest Management (IPM) techniques (which can include biological pest control) to maintain control over pests, reduce reliance on chemical pesticides, and protect water quality.[6][7]
+There are few safe ways of disposing of pesticide surpluses other than through containment in well managed landfills or by incineration. In some parts of the world, spraying on land is a permitted method of disposal.[8][citation needed]
+Point source pollution[edit]
+Farms with large livestock and poultry operations, such as factory farms, can be a major source of point source wastewater. In the United States, these facilities are called concentrated animal feeding operations or confined animal feeding operations and are being subject to increasing government regulation.[9]
+Animal wastes[edit]
+Confined Animal Feeding Operation in the United States
+The constituents of animal wastewater typically contain[10][11]
+Strong organic content  much stronger than human sewage
+High solids concentration
+High nitrate and phosphorus content
+Antibiotics
+Synthetic hormones
+Often high concentrations of parasites and their eggs
+Spores of Cryptosporidium (a protozoan) resistant to drinking water treatment processes
+Spores of Giardia
+Human pathogenic bacteria such as Brucella and Salmonella
+Animal wastes from cattle can be produced as solid or semisolid manure or as a liquid slurry. The production of slurry is especially common in housed dairy cattle.
+Treatment
+Whilst solid manure heaps outdoors can give rise to polluting wastewaters from runoff, this type of waste is usually relatively easy to treat by containment and/or covering of the heap.
+Animal slurries require special handling and are usually treated by containment in lagoons before disposal by spray or trickle application to grassland. Constructed wetlands are sometimes used to facilitate treatment of animal wastes, as are anaerobic lagoons. Excessive application or application to sodden land or insufficient land area can result in direct runoff to watercourses, with the potential for causing severe pollution. Application of slurries to land overlying aquifers can result in direct contamination or, more commonly, elevation of nitrogen levels as nitrite or nitrate.
+The disposal of any wastewater containing animal waste upstream of a drinking water intake can pose serious health problems to those drinking the water because of the highly resistant spores present in many animals that are capable of causing disabling disease in humans. This risk exists even for very low-level seepage via shallow surface drains or from rainfall run-off.
+Some animal slurries are treated by mixing with straws and composted at high temperature to produce a bacteriologically sterile and friable manure for soil improvement.
+Piggery waste[edit]
+Hog confinement barn or piggery
+Piggery waste is comparable to other animal wastes and is processed as for general animal waste, except that many piggery wastes contain elevated levels of copper that can be toxic in the natural environment. The liquid fraction of the waste is frequently separated off and re-used in the piggery to avoid the prohibitively expensive costs of disposing of copper-rich liquid. Ascarid worms and their eggs are also common in piggery waste and can infect humans if wastewater treatment is ineffective.
+Silage liquor[edit]
+Fresh or wilted grass or other green crops can be made into a semi-fermented product called silage which can be stored and used as winter forage for cattle and sheep. The production of silage often involves the use of an acid conditioner such as sulfuric acid or formic acid. The process of silage making frequently produces a yellow-brown strongly smelling liquid which is very rich in simple sugars, alcohol, short-chain organic acids and silage conditioner. This liquor is one of the most polluting organic substances known. The volume of silage liquor produced is generally in proportion to the moisture content of the ensiled material.
+Treatment
+Silage liquor is best treated through prevention by wilting crops well before silage making. Any silage liquor that is produced can be used as part of the food for pigs. The most effective treatment is by containment in a slurry lagoon and by subsequent spreading on land following substantial dilution with slurry. Containment of silage liquor on its own can cause structural problems in concrete pits because of the acidic nature of silage liquor.
+Milking parlour (dairy farming) wastes[edit]
+Although milk has a deserved reputation as an important and valuable food product, its presence in wastewaters is highly polluting because of its organic strength, which can lead to very rapid de-oxygenation of receiving waters. Milking parlour wastes also contain large volumes of wash-down water, some animal waste together with cleaning and disinfection chemicals.
+Treatment
+Milking parlour wastes are often treated in admixture with human sewage in a local sewage treatment plant. This ensures that disinfectants and cleaning agents are sufficiently diluted and amenable to treatment. Running milking wastewaters into a farm slurry lagoon is a possible option although this tends to consume lagoon capacity very quickly. Land spreading is also a treatment option. See also Industrial wastewater treatment.
+Slaughtering waste[edit]
+Wastewater from slaughtering activities is similar to milking parlour waste (see above) although considerably stronger in its organic composition and therefore potentially much more polluting.
+Treatment
+As for milking parlour waste (see above).
+Vegetable washing water[edit]
+Washing of vegetables produces large volumes of water contaminated by soil and vegetable pieces. Low levels of pesticides used to treat the vegetables may also be present together with moderate levels of disinfectants such as chlorine.
+Treatment
+Most vegetable washing waters are extensively recycled with the solids removed by settlement and filtration. The recovered soil can be returned to the land.
+Firewater[edit]
+Although few farms plan for fires, fires are nevertheless more common on farms than on many other industrial premises. Stores of pesticides, herbicides, fuel oil for farm machinery and fertilizers can all help promote fire and can all be present in environmentally lethal quantities in firewater from fire fighting at farms.
+Treatment
+All farm environmental management plans should allow for containment of substantial quantities of firewater and for its subsequent recovery and disposal by specialist disposal companies.[12] The concentration and mixture of contaminants in firewater make them unsuited to any treatment method available on the farm. Even land spreading has produced severe taste and odour problems for downstream water supply companies in the past.
+See also[edit]
+Agriculture portal
+Sustainable development portal
+Agricultural surface runoff
+Agricultural wastewater
+Dark fermentation
+Nonpoint source pollution
+Nutrient pollution
+Sustainable agriculture
+References[edit]
+^ a b U.S. Environmental Protection Agency (EPA). Washington, DC. "Protecting Water Quality from Agricultural Runoff." March 2005. Document No. EPA 841-F-05-001.
+^ U.S. Natural Resources Conservation Service (NRCS). Fort Worth, TX. National Conservation Practice Standard: Contour Farming." Code 330. June 2007.
+^ NRCS. National Conservation Practice Standard: Mulching." Code 484. September 2008.
+^ a b c d e EPA. "National Management Measures to Control Nonpoint Source Pollution from Agriculture." July 2003. Document No. EPA-841-B-03-004.
+^ NRCS. "National Conservation Practice Standard: Nutrient Management." Code 590. August 2006.
+^ NRCS. National Conservation Practice Standard: Pest Management." Code 595. July 2008.
+^ EPA. "Integrated Pest Management Principles." March 13, 2008.
+^ "Waste Pesticide Management" (PDF). Oregon.Gov. State of Oregon Department of Environmental Quality Land Quality Division Hazardous Waste Program. Retrieved 5 October 2016.
+^ EPA. "Animal Feeding Operations." December 15, 2008.
+^ Dairy Waste Anaerobic Digestion Handbook Archived October 15, 2013, at the Wayback Machine.
+^ Agricultural Waste
+^ Managing Fire water and major spillages - Environment Agency Guidance note PPG18 ( retrieved 19 April 2009)
+External links[edit]
+Electronic Field Office Technical Guide - U.S. NRCS - Detailed soil conservation guides tailored to individual states/counties.
+v
+t
+e
+Wastewater
+Sources of wastewater
+Acid mine drainage
+Ballast water
+Blackwater (coal)
+Blackwater (waste)
+Boiler blowdown
+Brine
+Combined sewer
+Cooling tower
+Cooling water
+Fecal sludge
+Greywater
+Infiltration/Inflow
+Industrial effluent
+Ion exchange
+Leachate
+Manure
+Papermaking
+Produced water
+Return flow
+Reverse osmosis
+Sanitary sewer
+Septage
+Sewage
+Sewage sludge
+Storm drain
+Urban runoff
+Wastewater quality indicators
+Biochemical oxygen demand
+Chemical oxygen demand
+Coliform index
+Dissolved oxygen
+Heavy metals
+pH
+Salinity
+Temperature
+Total dissolved solids
+Total suspended solids
+Turbidity
+Wastewater treatment processes
+Activated sludge
+Aerated lagoon
+Agricultural wastewater treatment
+API oil-water separator
+Carbon filtration
+Chlorination
+Clarifier
+Constructed wetland
+Extended aeration
+Facultative lagoon
+Fecal sludge management
+Filtration
+Imhoff tank
+Industrial wastewater treatment
+Ion exchange
+Membrane bioreactor
+Reverse osmosis
+Rotating biological contactor
+Secondary treatment
+Sedimentation
+Septic tank
+Settling basin
+Sewage sludge treatment
+Sewage treatment
+Stabilization pond
+Trickling filter
+Ultraviolet germicidal irradiation
+UASB
+Wastewater treatment plant
+Wastewater disposal and reuse options
+Combined sewer
+Evaporation pond
+Groundwater recharge
+Infiltration basin
+Injection well
+Irrigation
+Marine dumping
+Marine outfall
+Sanitary sewer
+Septic drain field
+Sewage farm
+Sewerage
+Stabilization pond
+Storm drain
+Surface runoff
+Water reclamation
+v
+t
+e
+Biosolids, waste and waste management
+Major types
+Agricultural wastewater
+Biodegradable waste
+Brown waste
+Chemical waste
+Construction waste
+Demolition waste
+Electronic waste
+by country
+Food waste
+Green waste
+Hazardous waste
+Heat waste
+Industrial waste
+Litter
+Marine debris
+Biomedical waste
+Mining waste
+Municipal solid waste
+Open defecation
+Photodegradation
+Post-consumer waste
+Radioactive waste
+Sewage
+Toxic waste
+Wastewater
+Processes
+Anaerobic digestion
+Biodegradation
+Composting
+Garden waste dumping
+Illegal dumping
+Incineration
+Landfill
+Landfill mining
+Mechanical biological treatment
+Mechanical sorting
+Open dump
+Recycling
+Resource recovery
+Sewage treatment
+Waste collection
+Waste picking
+Waste sorting
+Waste trade
+Waste treatment
+Waste-to-energy
+Countries
+Armenia
+Bangladesh
+Brazil
+Hong Kong
+India
+New Zealand
+Russia
+Switzerland
+UK
+USA
+Agreements
+Bamako Convention
+Basel Convention
+EU directives
+batteries
+landfills
+RoHS
+framework
+incineration
+waste water
+WEEE
+London Convention
+Oslo Convention
+OSPAR Convention
+Other topics
+Blue Ribbon Commission on America's Nuclear Future
+Cleaner production
+Downcycling
+Eco-industrial park
+Extended producer responsibility
+High-level radioactive waste management
+History of waste management
+Landfill fire
+Sewage regulation and administration
+Upcycling
+Waste hierarchy
+Waste legislation
+Waste minimisation
+Zero waste
+Environment portal
+Category
+Commons
+Concepts
+Index
+Journals
+Lists
+Organizations
+v
+t
+e
+Environmental technology
+Appropriate technology
+Clean technology
+Environmental design
+Environmental impact assessment
+Sustainable development
+Sustainable technology
+Pollution
+Air pollution (control
+dispersion modeling)
+Industrial ecology
+Solid waste treatment
+Waste management
+Water (agricultural wastewater treatment
+industrial wastewater treatment
+sewage treatment
+waste-water treatment technologies
+water purification)
+Renewable energy
+Alternative energy
+Efficient energy use
+Energy development
+Energy recovery
+Fuel (alternative fuel
+biofuel
+carbon negative fuel
+hydrogen technologies)
+List of energy storage projects
+Renewable energy (commercialization)
+Sustainable energy
+Transportation (electric vehicle
+hybrid vehicle)
+Conservation
+Birth control
+Building (green
+natural
+sustainable architecture
+New Urbanism
+New Classical)
+Conservation biology
+Conservation ethic
+Ecoforestry
+Environmental preservation
+Environmental remediation
+Green computing
+Permaculture
+Recycling
+NewPP limit report
+Parsed by mw1244
+Cached time: 20161120080027
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.156 seconds
+Real time usage: 0.216 seconds
+Preprocessor visited node count: 835/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 50174/2097152 bytes
+Template argument size: 533/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.045/10.000 seconds
+Lua memory usage: 2.91 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+121.854
+1 - -total
+36.28%
+44.214
+1 - Template:Fact
+29.97%
+36.515
+1 - Template:Reflist
+25.87%
+31.529
+1 - Template:Fix
+18.82%
+22.930
+1 - Template:Cite_web
+15.71%
+19.143
+2 - Template:Category_handler
+15.36%
+18.723
+3 - Template:Navbox
+9.18%
+11.187
+1 - Template:Waste
+8.30%
+10.116
+1 - Template:Delink
+8.15%
+9.937
+1 - Template:Portal
+Saved in parser cache with key enwiki:pcache:idhash:1558208-0!*!0!!en!4!* and timestamp 20161120080027 and revision id 749366478
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Agricultural_wastewater_treatment&oldid=749366478"
+Categories: Waste treatment technologyWater pollutionAgriculture and the environmentHidden categories: Webarchive template wayback linksAll articles with unsourced statementsArticles with unsourced statements from April 2012

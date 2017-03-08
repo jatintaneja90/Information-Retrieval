@@ -1,0 +1,353 @@
+Biosecurity
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Not to be confused with Biosafety.
+Biosecurity has multiple meanings and is defined differently according to various disciplines. The original definition of biosecurity started out as a set of preventive measures designed to reduce the risk of transmission of infectious diseases in crops and livestock, quarantined pests, invasive alien species, and living modified organisms (Koblentz, 2010). The term was first used by the agricultural and environmental communities. Starting from the late 1990s in response to the threat of biological terrorism, biosecurity encompasses the prevention of the intentional removal (theft) of biological materials from research laboratories. These preventative measures are a combination of systems and practices put into its place at bioscience laboratories to prevent the use of dangerous pathogens and toxins for malicious use, as well as by customs agents and agricultural and natural resource managers to prevent the spread of these biological agents.[1]
+Advances in technology have meant that many civilian research projects in medicine have the potential to be used in military applications (dual-use research) and biosecurity protocols are used to prevent dangerous biological materials from falling into the hands of malevolent parties. The National Academies of Science define biosecurity as "security against the inadvertent, inappropriate, or intentional malicious or malevolent use of potentially dangerous biological agents or biotechnology, including the development, production, stockpiling, or use of biological weapons as well as outbreaks of newly emergent and epidemic disease". Biosecurity requires the cooperation of scientists, technicians, policy makers, security engineers, and law enforcement officials.
+Contents
+1 As international security issue
+2 Laboratory program
+3 Animal
+4 Medical countermeasures
+5 Challenges
+6 Incidents
+7 Role of education
+8 Regulations
+9 See also
+10 Notes
+11 Citations
+12 References
+13 External links
+As international security issue[edit]
+Controversial experiments in synthetic biology, including the synthesis of poliovirus from its genetic sequence, and the modification of H1N5 for airbourne transmission in mammals, have led to calls for tighter controls on the materials and information used to perform similar feats. Ideas include better enforcement by national governments and private entities concerning shipments and downloads of such materials, and registration or background check requirements for anyone handling such materials.[2]
+Initially, health security or biosecurity issues have not been considered as an international security issue especially in the traditional view of international relations. However, some changes in trend have contributed to inclusion of biosecurity (health security) in discussions of security (Koblentz, 2010). As time progressed, there was a movement towards securitization. Non-traditional security issues such as climate change, organized crime, terrorism, and landmines came to be included in the definition of international security (Koblentz, 2010). There was a general realization that the actors in the international system not only involved nation-states but also included international organizations, institutions, and individuals (Koblentz, 2010). Therefore, ensuring the security of various actors within each nation became an important agenda. Biosecurity is one of the issues to be securitized under this trend. In fact, in January 10, 2000, the UN Security Council convened to discuss HIV/AIDS as a security issue in Africa and designated it a threat in the following month. The UNDP Millennium Development Goals also recognize health issues as international security issue (Koblentz, 2010). Several instances of epidemics that followed such as SARS increased awareness of health security (biosecurity). Recently several factors have rendered biosecurity issues more severe. There is a continuing advancement of biotechnology which increases the possibility for malevolent use, evolution of infectious diseases, and globalizing force which is making the world more interdependent and more susceptible to spread of epidemics (Koblentz, 2010).
+Some uncertainties about the policy implementation for biosecurity remain for future. In order to carefully plan out preventative policies, policy makers need to be able to somewhat predict the probability and assess the risks; however, as the uncertain nature of the biosecurity issue goes it is largely difficult to predict and also involves a complex process as it requires a multidisciplinary approach(Koblentz, 2010). The policy choices they make to address an immediate threat could pose another threat in the future, facing an unintended trade-off. Policy makers are also constantly looking for a more effective way to coordinate international actors- governmental organizations and NGOs- and actors from different nations so that they could tackle the problem of resource overlap (Koblentz, 2010).
+Laboratory program[edit]
+Components of a laboratory biosecurity program include:
+Physical security
+Personnel security
+Material control & accountability
+Transport security
+Information security
+Program management
+Animal[edit]
+Animal biosecurity is the product of all actions undertaken by an entity to prevent introduction of disease agents into a specific area. Animal biosecurity differs from biosecurity which are measures taken to reduce the risk of infectious agent theft and dispersal by means of bioterrorism.[3] Animal biosecurity is a comprehensive approach, encompassing different means of prevention and containment. A critical element in animal biosecurity, biocontainment, is the control of disease agents already present in a particular area, and works to prevent novel transmissions.[3] Animal biosecurity may protect organisms from infectious agents or noninfectious agents such as toxins or pollutants, and can be executed in areas as large as a nation or as small as a local farm.[4]
+Animal biosecurity takes into account the epidemiological triad for disease occurrence: the individual host, the disease, and the environment in contributing to disease susceptibility. It aims to improve nonspecific immunity of the host to resist the introduction of an agent, or limit the risk that an agent will be sustained in an environment at adequate levels. Biocontainment, an element of animal biosecurity, works to improve specific immunity towards already present pathogens.[5]
+Biosecurity means the prevention of the illicit use of pathogenic bioorganisms by laboratory staff or others. Biosafety means the protection of laboratory staff from being infected by pathogenic bioorganisms.
+Medical countermeasures[edit]
+Medical countermeasures ("MCMs") are products such as biologics and pharmaceutical drugs that can protect from or treat the effects of a chemical, biological, radiological, or nuclear ("CBRN") attack. MCMs can also be used for prevention and diagnosis of symptoms associated with CBRN attacks or threats.[6]
+The FDA runs a program called the FDA Medical Countermeasures Initiative ("MCMi"). The program helps support "partner"[a] agencies and organizations prepare for public health emergencies that could require MCMs.[6]
+The federal government provides funding for MCM-related programs. In June 2016, a Senate Appropriations subcommittee approved a bill that would continue funding four specific medical countermeasure programs:[7]
+$512 million for the Biomedical Advanced Research and Development Authority (BARDA)
+$510 million for BioShield Special Reserve Fund (SRF)
+$575 million for the Strategic National Stockpile (SNS)
+$72 million for pandemic influenza
+Challenges[edit]
+The destruction of the World Trade Center in Manhattan on September 11, 2001 by terrorists and subsequent wave of anthrax attacks on U.S. media and government outlets (both real and hoax) led to increased attention on the risk of bioterrorism attacks in the United States. Proposals for serious structural reforms, national and/or regional border controls, and a single co-ordinated system of biohazard response abounded.
+One of the major challenges of biosecurity is that harmful technology is becoming more available and accessible.[8] Biomedical advances and the globalization of scientific and technical expertise have made it possible to greatly improve public health. However, there is also the risk that these advances can make it easier for terrorists to produce biological weapons.[9]
+The proliferation of high biosafety level laboratories around the world has many experts worried about availability of targets for those that might be interested in stealing dangerous pathogens. Emerging and re-emerging disease is also a serious biosecurity concern. The recent growth in containment laboratories is often in response to emerging diseases, many new containment labs' main focus is to find ways to control these diseases. By strengthening national disease surveillance, prevention, control and response systems, these labs are raising international public health to new heights.
+Research into biosecurity & biosafety conducted by the United Nations University Institute for the Advanced Study of Sustainability (UNU-IAS) emphasizes "long-term consequences of the development and use of biotechnology" and need for "an honest broker to create avenues and forums to unlock the impasses."[citation needed]
+In the October 2011 Bio-Response Report Card, the WMD Center stated that the major challenges to biosecurity are:
+attribution
+communication
+detection and diagnosis
+environmental cleanup
+medical countermeasure availability
+medical countermeasure development and approval process
+medical countermeasure dispensing
+medical management
+Communication between the citizen and law enforcement officials is imperative. Indicators of agro-terrorism at a food processing plant may include persons taking notes or photos of a business,theft of employee uniforms,employees changing working hours,or persons attempting to gain information about security measures and personnel. Unusual activity should be reported to law enforcement personnel promptly.[10][11]
+Communication between policymakers and life sciences scientists is also important.[12]
+The MENA region, with its socio-political unrest, diverse cultures and societies, and recent biological weapons programs, faces particular challenges.[13]
+Incidents[edit]
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2013) (Learn how and when to remove this template message)
+1984 Rajneeshee religious cult attacks, The Dalles, Oregon
+Objective: Gain control of the Wasco County Court by affecting the election
+Organism: Salmonella typhimurium, purchased from commercial supplier
+Dissemination: Restaurant salad bars
+751 illnesses, Early investigation by CDC suggested the event was a naturally occurring outbreak. Cult member arrested on unrelated charge confessed involvement with the event
+1990s Aum Shinrikyo attempts in Tokyo, Japan
+Objective: Fulfill apocalyptic prophecy
+Organisms: Bacillus anthracis (vaccine strain), Clostridium botulinum (Environmental isolate, Avirulent strain) Aum Shinrikyo ordered Clostridium botulinum from a pharmaceutical company, and Ebola virus (Attempted to acquire from Zaire outbreak under guise of a "humanitarian mission")
+Dissemination: Aerosolization in Tokyo (B. anthracis and botulinum toxin)
+Leader Asahara was convicted of criminal activity
+2001 Anthrax attacks in the US
+1995Larry Wayne Harris, a white supremacist, ordered 3 vials of Yersinia pestis from the ATCC
+1995Laboratory technician Diane Thompson removed Shigella dysenteriae Type 2 from hospital's collection and infected co-workers
+Professor Thomas Butler, United States, 2003
+30 vials of Yersinia pestis missing from lab (never recovered); Butler served 19 months in jail
+Dr. Mario Jascalevich, New Jersey doctor, accused of poisoning 5 patients with this plant-derived toxin  Tubocurarine: 1966
+Arnfinn Nesset, nursing home operator in Norway, killed 27 residents at a nursing home with curacit: May 1977  November 1980
+Dr. David Acer, Florida dentist, infects 6 patients with HIV, unclear if this was a deliberate act: 19871990
+Debora Green, a physician, convicted of trying to murder her estranged husband with ricin
+Richard Schmidt, a gastroenterologist in Louisiana, convicted of attempted second degree murder for infecting nurse Janice Allen with HIV by injecting her with blood from an AIDS patient: 1998
+Brian T. Stewart, a phlebotomist, sentenced to life in prison for deliberately infecting his 11-month-old baby with HIV-infected blood to avoid child support payments: 1999
+Physician reports theft of a vial of Mycobacterium tuberculosis: June 1999
+Japan 19641966, Dr. Mitsuru Suzuki was a physician with training in bacteriology
+Objective: Revenge due to deep antagonism to what he perceived as a prevailing seniority system
+Organisms: Shigella dysenteriae and Salmonella typhi
+Dissemination: Sponge cake, other food sources
+He was later implicated in 200  400 illnesses and 4 deaths
+Official investigation started after anonymous tip to Ministry of Health and Welfare. He was charged, but was not convicted of any deaths
+Hospital in Dallas, TX, 1996, Diane Thompson was a clinical laboratory technician
+Objective: Unclear. Had poisoned a boyfriend a year before. Stated during trial. "Here we go".
+Organism: Shigella dysenteriae Type 2, acquired from clinical laboratory
+Dissemination: Contaminated pastries in the office breakroom
+Infected 12 of her coworkers, she was arrested, convicted, 20-year sentence
+Role of education[edit]
+The advance of the life sciences and biotechnology has the potential to bring great benefits to humankind through responding to societal challenges. However, it is also possible that such advances could be exploited for hostile purposes, something evidenced in a small number of incidents of bioterrorism, but more particularly by the series of large-scale offensive biological warfare programmes carried out by major states in the last century. Dealing with this challenge, which has been labelled the 'dual-use' dilemma requires a number of different activities such as those identified above as being require for biosecurity. However, one of the essential ingredients in ensuring that the life sciences continue to generate great benefits and do not become subject to misuse for hostile purposes is a process of engagement between scientists and the security community and the development of strong ethical and normative frameworks to compliment legal and regulatory measures that are being developed by states.[14]
+Regulations[edit]
+Biosecurity sign for use on a farm or agricultural area experiencing swine fever (Dutch example).
+US Select Agent Regulations
+Facility registration if it possesses one of 81 Select Agents
+Facility must designate a Responsible Official
+Background checks for individuals with access to Select Agents
+Access controls for areas and containers that contain Select Agents
+Detailed inventory requirements for Select Agents
+Security, safety, and emergency response plans
+Safety and security training
+Regulation of transfers of Select Agents
+Extensive documentation and recordkeeping
+Safety and security inspections
+Biological Weapons Convention addresses three relevant issues:
+National Implementing Legislation
+National Pathogen Security (biosecurity)
+International Cooperation
+States Parties agree to pursue national implementation of laboratory and transportation biosecurity (2003)
+UN 1540
+urges States to take preventative measures to mitigate the threat of WMD proliferation by non-state actors
+"Take and enforce effective measures to establish domestic controls to prevent the proliferation of ... biological weapons ...; including by establishing appropriate controls over related materials"
+European Commission Green Paper on Bio-Preparedness (November 2007)
+recommends developing European standards on laboratory biosecurity including Physical protection, access controls, accountability of pathogens, and registration of researchers
+Organization for Economic Cooperation and Development
+published "Best Practice Guidelines for Biological Resource Centers" including a section on biosecurity in February 2007
+Kampala Compact (October 2005) and the Nairobi Announcement (July 2007)
+stress importance of implementing laboratory biosafety and biosecurity in Africa
+See also[edit]
+Biorisk
+Biosafety
+Biosecurity in Australia
+Biosecurity in New Zealand
+Biosecurity in the United States
+Bioterrorism
+Food safety
+Global Health
+Global Health Security Initiative
+Good Agricultural Practices
+Heliciculture
+Human Security
+Insect farming
+International Health Regulations
+International Security
+Invasive species
+Public health
+Quarantine
+Securitization (international relations)
+Sericulture
+World Health Organization
+Notes[edit]
+^ For a list of FDA Medical Countermeasures Initiative partners, visit http://www.fda.gov/EmergencyPreparedness/Counterterrorism/MedicalCountermeasures/MCMRegulatoryScience/ucm389958.htm
+Citations[edit]
+^ http://www.sciencemag.org/cgi/content/full/295/5552/44a Meyerson and Reaser 2002, Science 295: 44
+^ http://www.npr.org/2013/11/08/243950742/biosecurity-for-the-age-of-redesigned-life
+^ a b 1. Thomson, J. Biosecurity: preventing and controlling diseases in the beef herd. Livestock Conservation Institute; 1991; 49-51.
+^ 5. Anderson, F. Biosecurity - a new term for an old concept: how to apply it. Bovine Practitioner; 1998; 32:61-70.
+^ 8. Thomson, J. Biosecurity: preventing and controlling diseases in the beef herd. Livestock Conservation Institute; 1991; 49-51.
+^ a b "What are Medical Countermeasures?". FDA: Emergency Preparedness and Response. Food and Drug Administration. Retrieved 15 June 2016.
+^ "Alliance for Biosecurity applauds subcommittee efforts to sustain medical countermeasure funding". Homeland Preparedness News. Washington, D.C. 8 June 2016. Retrieved 15 June 2016.
+^ McClellan, Paul (27 March 2009). "Designer Plague". EDA Graffiti. Retrieved 23 April 2009.
+^ Institute of Medicine (31 January 2006). "Globalization, Biosecurity, and the Future of the Life Sciences". National Academies Press. Retrieved 23 April 2009.
+^ Criminal Investigation Handbook for Agroterrorism|2008|U.S. Government Printing Office|Washington, D.C.|pages=34-36
+^ Bio-Response Report Card. The Bipartisan WMD Terrorism Research Center. October 2011. "Archived copy" (PDF). Archived from the original (PDF) on 2011-12-25. Retrieved 2011-11-22.
+^ Benson, David; Roger K. Kjelgren (2014-01-13). "Tacit Diplomacy in Life Sciences A Foundation for Science Diplomacy". Science & Diplomacy. 3 (1).
+^ Nasim, Anwar; et al. (2013-11-26). "Paths to Biosafety and Biosecurity Sustainability". Science & Diplomacy. 2 (4).
+^ Bradford Project on Dual use/Biosecurity education http://www.bradford.ac.uk/bioethics/
+Koblentz, Gregory D. (2010). "Biosecurity Reconsidered: Calibrating Biological Threats and Responses". International Security. 34 (4): 96132. doi:10.1162/isec.2010.34.4.96.
+References[edit]
+Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science, ISSN 1538-7135, Mary Ann Lieber
+Biosecurity Commons, a Wiki Database
+Laboratory Biosafety and Biosecurity Guidance
+WHO Laboratory Biosafety Manual, 3rd edition, 2004
+Chapter 9 on Laboratory Biosecurity
+WHO/FAO/OIE joint guidance  Biorisk Management: Laboratory Biosecurity Guidance, 2006
+CDC/NIH Biosafety in Microbiological and Biomedical Laboratories, 5th edition, 2007
+Extensive recommendations on biosecurity
+Laboratory Biosecurity Handbook, CRC Press, 2007
+Handbook of Applied Biosecurity for Life Science Laboratories, Stockholm International Peace Research Institute, 2009
+Lakoff, Andrew, and Georg Sorensen. (2006). Biosecurity Interventions: Global Health and Security in Question, Columbia University Press.
+Koblentz, Gregory D. (2012). "From biodefence to biosecurity: the Obama administration's strategy for countering biological threats", International Affairs. Vol. 88, Issue 1.
+Tadjbakhsh, S. and A. Chenoy. (2007). "Human Security: Concepts and Implications. New York, Routledge. p. 42.
+United Nations. (2006). "The Millennium Development Goals Report: 2006", United nations Development Programme, www.undp.org/publications/MDGReport2006.pdf.
+United Nations. (2004). "A More Secure World: Our Shared Responsibility: Report of the Secretary-General's High-Level Panel on Threats, Challenges, and change, p. 8.
+Chen, Lincoln, Jennifer Leaning, and Vasant Narasimhan, eds. (2003). "Global Health Challenges for Human Security," Harvard University Press.
+Hoyt, Kendall and Sephen G. Brooks. (2003). "A Double-Edged Sword: Globalization and Biosecurity", International Affairs. Vol. 23, No. 3.
+Paris, Roland. (2001). "Human Security: Paradigm Shift or Hot Air?", International Affairs. Vol. 26, No. 2.
+External links[edit]
+Biosecurity for Agriculture and Food Production at the FAO
+Asia-Pacific Biosecurity Association
+Animal Biosecurity  Canadian Food Inspection Agency
+Biosecuritycodes.org  A detailed list of past and future Biosecurity events dating from 1928. Brought to you by the International Futures Program of the OECD
+v
+t
+e
+United States biological defense program
+Organizations
+Federal
+administrative
+DHS
+DHS Chemical and Biological Defense Division
+DHS Office of Health Affairs (National Biosurvelliance Integration Center, BioWatch)
+National Biodefense Analysis and Countermeasures Center
+National Bio and Agro-Defense Facility
+National Bioforensic Analysis Center
+DNI
+National Counterproliferation Center (Advisory Committee on Bioterrorism)
+DHHS
+Office of the Assistant Secretary for Preparedness and Response
+Division of Select Agents and Toxins (CDC)
+National Science Advisory Board for Biosecurity
+DoD
+Assistant SECDEF for NCB Defense Programs
+Defense Threat Reduction Agency
+Global Emerging Infections Surveillance and Response System
+Joint Program Executive Office of Chemical and Biological Defense (JPEO-CBD)
+National Center for Medical Intelligence
+Federal
+research
+Trans-
+departmental
+National Interagency Confederation for Biological Research (National Integrated Biodefense Campus, Fort Detrick)
+Integrated National Biodefense Medical Countermeasures Portfolio (DHHS/DoD)
+Military
+U.S. Army Medical Research Institute of Infectious Diseases
+Defense Advanced Research Projects Agency
+Edgewood Chemical Biological Center
+Dugway Proving Ground
+Civilian
+Galveston National Laboratory (UTMB/NIAID)
+Integrated Research Facility (HHS/NIAID)
+Biomedical Advanced Research and Development Authority (HHS)
+Homeland Security Research Program (EPA/DHS)
+Plum Island Animal Disease Center (USDA)
+Foreign Disease Weed Science Research Unit (USDA)
+Response
+Local
+Local Health Departments
+State
+State Health Departments
+Nebraska Biocontainment Patient Care Unit
+Federal
+National Medical Response Team/National Pharmacy Response Team (NDMS, HHS)
+Chemical Biological Incident Response Force (USMC)
+Epidemic Intelligence Service (CDC)
+Aeromedical Biological Containment System (CDC)
+Bioterror Rapid Response and Advanced Technology Laboratory (CDC)
+Non-
+governmental
+Academic centers
+& think tanks
+UPMC Center for Health Security (formerly Center for Biosecurity)
+Henry L. Stimson Center
+Center for Advancing Microbial Risk Assessment
+Center for Biodefense and Emerging Pathogens (Brown University)
+Middle-Atlantic Regional Center of Excellence for Biodefense and Emerging Infectious Diseases Research
+Center for Biodefense Immune Modeling (University of Rochester)
+Johns Hopkins Center for Civilian Biodefense Strategies
+National Center for Biodefense and Infectious Diseases (NCBID; George Mason Univ.)
+Government
+contractors
+Battelle Memorial Institute
+SRI International
+Idaho Technology
+Phoenix Air
+Programs
+& projects
+Threat reduction
+NunnLugar Cooperative Threat Reduction Program, including the Cooperative Biological Engagement Program (DoD)
+Project Bacchus
+Project Clear Vision
+Project Jefferson
+Biosurveillance
+Laboratory Response Network (CDC)
+BioWatch (EPA, CDC)
+Global Bio-Surveillance Technology Initiative (GBTI), Bio-Surveillance Management Office (BMO) (part of JPEO-CBD)
+ESSENCE (DoD)
+RODS (Civilian)
+Biosecurity/Biosurety
+Select Agent Program (CDC)
+Personnel Reliability Program (DoD)
+Medical intelligence
+National Intelligence Assessments on Infectious Diseases
+Disaster response
+National Response Framework of the National Strategy for Homeland Security (DHS; including NIMS & ICS)
+National Disaster Medical System (DHHS)
+Strategic National Stockpile (CDC, DHS)
+Technology
+& equipment
+Protection
+MOPP
+NBC suit
+Respirators
+Detection
+Cell CANARY
+Biological Materials MASINT
+Autonomous Pathogen Detection System
+Joint Biological Agent Identification and Diagnostic System (JBAIDS)
+Biocontainment
+Biosafety level
+Biosafety cabinet
+Positive pressure personnel suit
+Law
+Treaties
+Geneva Protocol (1925, 1975)
+Statement on Chemical and Biological Defense Policies and Programs (1969)
+Biological Weapons Convention (1972)
+Legislation
+Biological Weapons Anti-Terrorism Act of 1989
+Executive Order 13139 (1999)
+Patriot Act (2001)
+Public Health Security and Bioterrorism Preparedness Response Act (2002)
+Agricultural Bioterrorism Protection Act of 2002
+Project Bioshield Act (2004)
+Biodefense and Pandemic Vaccine and Drug Development Act of 2005
+Public Readiness and Emergency Preparedness Act (2005)
+Pandemic and All Hazards Preparedness Act (2006)
+Pandemic and All-Hazards Preparedness Reauthorization Act of 2013
+International
+representation
+Global Health Security Initiative
+Global Partnership Against the Spread of Weapons and Materials of Mass Destruction
+United Nations Security Council Resolution 1540 (2004)
+History
+Past biological
+incidents
+1984 Rajneeshee bioterror attack
+1989 California medfly attack
+2001 anthrax attacks
+Wood Green ricin plot (2002)
+2003 ricin letters
+2013 ricin letters
+Defunct organizations
+& programs
+United States Army Medical Unit
+United States biological weapons program
+Sunshine Project
+Aeromedical Isolation Team (DoD)
+Related topics
+Agro-terrorism
+Biodefense
+Biosecurity in the United States
+Biological agent
+Biological hazard
+Biological warfare (BW)
+Biosurveillance
+Bioterrorism
+CBRN defense
+Decontamination
+Entomological warfare
+Isolation (health care)
+Select agent
+Smallpox virus retention controversy
+Saved in parser cache with key enwiki:pcache:idhash:45262-0!*!0!!en!4!* and timestamp 20161103001502 and revision id 747546462
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Biosecurity&oldid=747546462"
+Categories: BiosecurityHidden categories: All articles with unsourced statementsArticles with unsourced statements from November 2010Articles needing additional references from October 2013All articles needing additional references

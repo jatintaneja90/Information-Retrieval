@@ -1,0 +1,42 @@
+Buildingperformance
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}The building performance of a building or built environment is the efficiency of functioning of buildings and the construction industry, its impact on natural environment, urban environment and its users. It is achieved through means such as architectural design values, building science, architectural engineering, efficient energy use and sustainability.
+Contents
+1 Background
+2 See also
+3 References
+4 External links
+Background[edit]
+This article may need to be rewritten entirely to comply with Wikipedia's quality standards. You can help. The discussion page may contain suggestions. (October 2016)
+Although many buildings in the U.S., Canada, U.K., and elsewhere claim to be green, low energy, or high performance, it is rarely clear on what evidence or data these claims are based. Such claims cannot be credible without standardized performance measurement protocols that are applied consistently. If claims of superior building performance are to be believed, it is essential that a common set of measurements be used and the results reported against meaningful benchmarks. Such protocols are also needed to give usable feedback to building designers and operators when measured performance does not match design intent. [1] This article describes ASHRAEs Performance Measurement Protocols for Commercial Buildings (PMP), which provides a standardized, consistent set of protocols, for a range of cost/accuracy, to facilitate the appropriate comparison of measured energy, water, and indoor environmental quality (thermal comfort, indoor air quality [IAQ], lighting, and acoustics) performance of commercial buildings, while maintaining acceptable levels of building service for the occupants. Benchmarks are included in the protocols to facilitate comparison to peer buildings or for self-reference over time (often before and after retrofit). A recent article describing just the acoustic performance measurement protocols in the PMP has been published in the ASHRAE Journal. The PMP is a collaborative effort of ASHRAE, the U.S. Green Building Council (USGBC), and the Chartered Institution of Building Service Engineers (CIBSE). It began with a detailed evaluation of literature related to measured building performance that included databases, measurement techniques, M&V protocols, and available instrumentation. A project committee representing several ASHRAE Technical Committees (TCs 7.6, 7.9, 4.7, and others) developed the content.
+Characteristics of the Protocols
+The protocols identify what to measure, how it is to be measured (instrumentation and spatial resolution), and how often it is to be measured for inclusion in the buildings operation and maintenance plan. For each of the six measure categories (energy, water, thermal comfort, IAQ, lighting, and acoustics), protocols are developed at three levels: low, medium and high cost and accuracy, providing a range of choices for levels of effort, detail, and rigor to characterize the building stock, and comparison to appropriate benchmarks.
+For each measure category and each level, the following characteristics are described:
+Objectives of the measurement.
+Metrics to be used, including instrumentation and units of measure.
+Performance evaluation and benchmarks. Estimates of initial and recurring costs are included.
+In the PMP, first the six measure categories are addressed at the basic level. This is followed by a presentation of the intermediate level protocols and then the advanced level protocols. However, here we will primarily discuss the basic level protocols, with only a brief description of higher levels; details of the intermediate and advanced levels are described in the PMP.
+Protocols for Energy, Water, and IEQ
+Representative measures at each level were tested by applying them to the newly renovated ASHRAE Headquarters Building in Atlanta (facing page). Measurements were taken by the commissioning authority for the renovation during 2009 and 2010, after the renovated building was reoccupied and was undergoing post-occupancy commissioning. Occupant surveys were taken before and after the renovation to evaluate indoor environmental quality.
+See also[edit]
+Building energy simulation
+Ecological design
+Energy audit
+Environmental impact assessment
+Green retrofit
+Sociology of architecture
+Sustainable architecture
+Sustainable design
+Weatherization
+References[edit]
+^ https://www.ashrae.org/resources--publications/periodicals/ashrae-journal/features/measuring-commercial-building-performancel[permanent dead link]
+External links[edit]
+ASHRAE - measuring commercial building performance
+Global Buildings Performance Network
+BPI Building Performance Institute - U.S. organization setting home performance technical standards
+Efficiency First - U.S. trade association of home performance contractors and others promoting performance based energy retrofits.
+Home Energy Magazine - Home performance articles.
+Saved in parser cache with key enwiki:pcache:idhash:6234521-0!*!0!!en!4!* and timestamp 20161114083723 and revision id 748795012
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Building_performance&oldid=748795012"
+Categories: Building engineeringEnergy conservationHidden categories: All articles with dead external linksArticles with dead external links from November 2016Articles with permanently dead external linksWikipedia articles needing rewrite from October 2016All articles needing rewrite

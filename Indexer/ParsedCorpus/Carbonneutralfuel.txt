@@ -1,0 +1,1031 @@
+Carbonneutralfuel
+From Wikipedia, the free encyclopedia
+(Redirected from Carbon neutral fuel)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Part of a series about
+Sustainable energy
+Energy conservation
+Cogeneration
+Efficient energy use
+Green building
+Heat pump
+Low-carbon power
+Microgeneration
+Passive solar building design
+Renewable energy
+Anaerobic digestion
+Geothermal
+Hydroelectricity
+Solar
+Tidal
+Wind
+Sustainable transport
+Carbon-neutral fuel
+Electric vehicle
+Fossil fuel phase-out
+Green vehicle
+Plug-in hybrid
+Sustainable development portal
+Renewable energy portal
+Environment portal
+v
+t
+e
+Carbon-neutral fuels can refer to a variety of energy fuels or energy systems which have no net greenhouse gas emissions or carbon footprint. One class is synthetic fuel (including methane, gasoline, diesel fuel, jet fuel or ammonia[1]) produced from sustainable or nuclear energy used to hydrogenate waste carbon dioxide recycled from power plant flue exhaust gas or derived from carbonic acid in seawater. Other types can be produced from renewable energy sources such as wind turbines, solar panels, and hydroelectric power plants.[2][3][4][5] Such fuels are potentially carbon-neutral because they do not result in a net increase in atmospheric greenhouse gases.[6][7] Until captured carbon is used for plastics feedstock, carbon neutral fuel synthesis is the primary means of carbon capture and utilization or recycling.[8]
+To the extent that carbon-neutral fuels displace fossil fuels, or if they are produced from waste carbon or seawater carbonic acid, and their combustion is subject to carbon capture at the flue or exhaust pipe, they result in negative carbon dioxide emission and net carbon dioxide removal from the atmosphere, and thus constitute a form of greenhouse gas remediation.[9][10][11] Such power to gas carbon-neutral and carbon-negative fuels can be produced by the electrolysis of water to make hydrogen used in the Sabatier reaction to produce methane which may then be stored to be burned later in power plants as synthetic natural gas, transported by pipeline, truck, or tanker ship, or be used in gas to liquids processes such as the FischerTropsch process to make traditional fuels for transportation or heating.[12][13][14]
+Carbon-neutral fuels are used in Germany and Iceland for distributed storage of renewable energy, minimizing problems of wind and solar intermittency, and enabling transmission of wind, water, and solar power through existing natural gas pipelines. Such renewable fuels could alleviate the costs and dependency issues of imported fossil fuels without requiring either electrification of the vehicle fleet or conversion to hydrogen or other fuels, enabling continued compatible and affordable vehicles.[12] A 250 kilowatt synthetic methane plant has been built in Germany and it is being scaled up to 10 megawatts.[15]
+Contents
+1 Production
+2 Sources of carbon for recycling
+3 Renewable and nuclear energy costs
+4 Demonstration projects and commercial development
+5 Greenhouse gas remediation
+6 Traditional fuels, methanol or ethanol
+7 History
+8 See also
+9 References
+10 Further reading
+11 External links
+Production[edit]
+Carbon-neutral fuels are synthetic hydrocarbons. They can be produced in chemical reactions between carbon dioxide, which can be captured from power plants or the air, and hydrogen, which is created by the electrolysis of water using renewable energy. The fuel, often referred to as electrofuel, stores the energy that was used in the production of the hydrogen.[16] Coal can also be used to produce the hydrogen, but that would not be a carbon-neutral source. Carbon dioxide can be captured and buried, making fossil fuels carbon-neutral, although not renewable. Carbon capture from exhaust gas can make carbon-neutral fuels carbon negative. Other hydrocarbons can be broken down to produce hydrogen and carbon dioxide which could then be stored while the hydrogen is used for energy or fuel, which would also be carbon-neutral.[17]
+The most energy-efficient fuel to produce is methanol,[citation needed] which is made from a chemical reaction of a carbon-dioxide molecule with three hydrogen molecules to produce methanol and water. The stored energy can be recovered by burning the methanol in a combustion engine, releasing carbon dioxide, water, and heat. Methane can be produced in a similar reaction. More energy can be used to combine methanol or methane into larger hydrocarbon fuel molecules.[12]
+Researchers have also suggested using methanol to produce dimethyl ether. This fuel could be used as a substitute for diesel fuel due to its ability to self ignite under high pressure and temperature. It is already being used in some areas for heating and energy generation. It is nontoxic, but must be stored under pressure.[18] Octane[citation needed] and ethanol[citation needed] can also be produced from carbon dioxide and hydrogen.
+All synthetic hydrocarbons are generally produced at temperatures of 200300C, and at pressures of 20 to 50 bar. Catalysts are usually used to improve the efficiency of the reaction and create the desired type of hydrocarbon fuel. Such reactions are exothermic and use about 3mol of hydrogen per mole of carbon dioxide involved. They also produce large amounts of water as a byproduct.[2]
+Sources of carbon for recycling[edit]
+The most economical source of carbon for recycling into fuel is flue-gas emissions from fossil-fuel combustion where it can be obtained for about USD $7.50 per ton.[4][7][13] Automobile exhaust gas capture has also been seen as economical but would require extensive design changes or retrofitting.[19] Since carbonic acid in seawater is in chemical equilibrium with atmospheric carbon dioxide, extraction of carbon from seawater has been studied.[20][21] Researchers have estimated that carbon extraction from seawater would cost about $50 per ton.[5] Carbon capture from ambient air is more costly, at between $600 and $1000 per ton and is considered impractical for fuel synthesis or carbon sequestration.[7][9] Direct air capture is less developed than other methods. Proposals for this method involve using a caustic chemical to react with carbon dioxide in the air to produce carbonates. These can then be broken down and hydrated to release pure CO2 gas and regenerate the caustic chemical. This process requires more energy than other methods because carbon dioxide is at much lower concentrations in the atmosphere than in other sources.[12]
+Researchers have also suggested using biomass as a carbon source for fuel production. Adding hydrogen to the biomass would reduce its carbon to produce fuel. This method has the advantage of using plant matter to cheaply capture carbon dioxide. The plants also add some chemical energy to the fuel from biological molecules. This may be a more efficient use of biomass than conventional biofuel because it uses most of the carbon and chemical energy from the biomass instead of releasing as much energy and carbon. Its main disadvantage is, as with conventional ethanol production, it competes with food production.[2]
+Part of a series about
+Environmental economics
+Concepts
+Green accounting
+Green economy
+Green trading
+Eco commerce
+Green job
+Environmental enterprise
+Fiscal environmentalism
+Environmental finance
+Renewable energy
+Policies
+Sustainable tourism
+Ecotax
+Environmental tariff
+Net metering
+Environmental pricing reform
+Pigovian tax
+Dynamics
+Renewable energy commercialization
+Marginal abatement cost
+Green paradox
+Green politics
+Pollution haven hypothesis
+Carbon related
+Low-carbon economy
+Carbon neutral fuel
+Carbon neutrality
+Carbon pricing
+Emissions trading
+Carbon credit
+Carbon offset
+Carbon emission trading
+Personal carbon trading
+Carbon tax
+Carbon finance
+Feed-in tariff
+Carbon diet
+Food miles
+2000-watt society
+Carbon footprint
+v
+t
+e
+Renewable and nuclear energy costs[edit]
+Nighttime wind power is considered the most economical form of electrical power with which to synthesize fuel, because the load curve for electricity peaks sharply during the warmest hours of the day, but wind tends to blow slightly more at night than during the day. Therefore, the price of nighttime wind power is often much less expensive than any alternative. Off-peak wind power prices in high wind penetration areas of the U.S. averaged 1.64 cents per kilowatt-hour in 2009, but only 0.71 cents/kWh during the least expensive six hours of the day.[12] Typically, wholesale electricity costs 2 to 5 cents/kWh during the day.[22] Commercial fuel synthesis companies suggest they can produce gasoline for less than petroleum fuels when oil costs more than $55 per barrel.[23]
+The U.S. Navy estimates that 100 megawatts of electricity can produce 41,000 gallons of jet fuel per day and shipboard production from nuclear power would cost about $6 per gallon. While that was about twice the petroleum fuel cost in 2010, it is expected to be much less than the market price in less than five years if recent trends continue. Moreover, since the delivery of fuel to a carrier battle group costs about $8 per gallon, shipboard production is already much less expensive.[24]
+Demonstration projects and commercial development[edit]
+A 250 kilowatt methane synthesis plant was constructed by the Center for Solar Energy and Hydrogen Research (ZSW) at Baden-Wrttemberg and the Fraunhofer Society in Germany and began operating in 2010. It is being upgraded to 10 megawatts, scheduled for completion in autumn, 2012.[25][26]
+The George Olah carbon dioxide recycling plant operated by Carbon Recycling International in Grindavk, Iceland has been producing 2 million liters of methanol transportation fuel per year from flue exhaust of the Svartsengi Power Station since 2011.[27] It has the capacity to produce 5 million liters per year.[28]
+Audi has constructed a carbon-neutral liquefied natural gas (LNG) plant in Werlte, Germany.[29] The plant is intended to produce transportation fuel to offset LNG used in their A3 Sportback g-tron automobiles, and can keep 2,800 metric tons of CO2 out of the environment per year at its initial capacity.[30]
+Commercial developments are taking place in Columbia, South Carolina,[31] Camarillo, California,[32] and Darlington, England.[33] A demonstration project in Berkeley, California proposes synthesizing both fuels and food oils from recovered flue gases.[34]
+Greenhouse gas remediation[edit]
+Carbon-neutral fuels might lead to greenhouse gas remediation because carbon dioxide gas would be reused to produce fuel instead of being released into the atmosphere. Capturing the carbon dioxide in flue gas emissions from power plants would eliminate their greenhouse gas emissions, although burning the fuel in vehicles would release that carbon because there is no economical way to capture those emissions.[12] This approach would reduce net carbon dioxide emission by about 50% if it were used on all fossil fuel power plants. Most coal and natural gas power plants have been predicted to be economically retrofittable with carbon dioxide scrubbers for carbon capture to recycle flue exhaust or for carbon sequestration.[35][7][10] Such recycling is expected to not only cost less than the excess economic impacts of climate change if it were not done, but also to pay for itself as global fuel demand growth and peak oil shortages increase the price of petroleum and fungible natural gas.[9][11]
+Capturing CO2 directly from the air or extracting carbonic acid from seawater would also reduce the amount of carbon dioxide in the environment, and create a closed cycle of carbon to eliminate new carbon dioxide emissions.[2] Use of these methods would eliminate the need for fossil fuels entirely, assuming that enough renewable energy could be generated to produce the fuel. Using synthetic hydrocarbons to produce synthetic materials such as plastics could result in permanent sequestration of carbon from the atmosphere.[12]
+Traditional fuels, methanol or ethanol[edit]
+See also: Methanol economy
+Some authorities have recommended producing methanol instead of traditional transportation fuels. It is a liquid at normal temperatures and can be toxic if ingested. Methanol has a higher octane rating than gasoline but a lower energy density, and can be mixed with other fuels or used on its own. It may also be used in the production of more complex hydrocarbons and polymers. Direct methanol fuel cells have been developed by Caltech's Jet Propulsion Laboratory to convert methanol and oxygen into electricity.[18] It is possible to convert methanol into gasoline, jet fuel or other hydrocarbons, but that requires additional energy and more complex production facilities.[12] Methanol is slightly more corrosive than traditional fuels, requiring automobile modifications on the order of USD $100 each to use it.[2][36]
+In 2016, a method using carbon spikes, copper nanoparticles and nitrogen that converts carbon dioxide to ethanol was developed.[37]
+History[edit]
+Investigation of carbon-neutral fuels has been ongoing for decades. A 1965 report suggested synthesizing methanol from carbon dioxide in air using nuclear power for a mobile fuel depot.[38] Shipboard production of synthetic fuel using nuclear power was studied in 1977 and 1995.[39][40] A 1984 report studied the recovery of carbon dioxide from fossil fuel plants.[41] A 1995 report compared converting vehicle fleets for the use of carbon-neutral methanol with the further synthesis of gasoline.[36]
+See also[edit]
+Energy portal
+Renewable energy portal
+Sustainable development portal
+Ecology portal
+Butanol fuel
+Carbon cycle re-balancing
+Carbon sink
+Climate change mitigation scenarios
+Climate engineering (geoengineering)
+Fossil-fuel phase-out
+Low-carbon economy
+Power to gas
+Synthetic Liquid Fuels Program
+Thorium-based nuclear power
+References[edit]
+^ Leighty and Holbrook (2012) "Running the World on Renewables: Alternatives for Trannd Low-cost Firming Storage of Stranded Renewable as Hydrogen and Ammonia Fuels via Underground Pipelines" Proceedings of the ASME 2012 International Mechanical Engineering Congress & Exposition November 915, 2012, Houston, Texas
+^ a b c d e Zeman, Frank S.; Keith, David W. (2008). "Carbon neutral hydrocarbons" (PDF). Philosophical Transactions of the Royal Society A. 366: 390118. doi:10.1098/rsta.2008.0143. Retrieved September 7, 2012. (Review.)
+^ Wang, Wei; Wang, Shengping; Ma, Xinbin; Gong, Jinlong (2011). "Recent advances in catalytic hydrogenation of carbon dioxide". Chemical Society Reviews. 40 (7): 370327. doi:10.1039/C1CS15008A. Retrieved July 6, 2013. (Review.)
+^ a b MacDowell, Niall; et al. (2010). "An overview of CO2 capture technologies". Energy and Environmental Science. 3 (11): 164569. doi:10.1039/C004106H. Retrieved September 7, 2012. (Review.)
+^ a b Eisaman, Matthew D.; et al. (2012). "CO2 extraction from seawater using bipolar membrane electrodialysis" (PDF). Energy and Environmental Science. 5 (6): 734652. doi:10.1039/C2EE03393C. Retrieved July 6, 2013.
+^ Graves, Christopher; Ebbesen, Sune D.; Mogensen, Mogens; Lackner, Klaus S. (2011). "Sustainable hydrocarbon fuels by recycling CO2 and H2O with renewable or nuclear energy". Renewable and Sustainable Energy Reviews. 15 (1): 123. doi:10.1016/j.rser.2010.07.014. (Review.)
+^ a b c d Socolow, Robert; et al. (June 1, 2011). Direct Air Capture of CO2 with Chemicals: A Technology Assessment for the APS Panel on Public Affairs (PDF) (peer reviewed literature review). American Physical Society. Retrieved September 7, 2012.
+^ Conference on Carbon Dioxide as Feedstock for Chemistry and Polymers (Essen, Germany, October 1011, 2012; post-conference program)
+^ a b c Goeppert, Alain; Czaun, Miklos; Prakash, G.K. Surya; Olah, George A. (2012). "Air as the renewable carbon source of the future: an overview of CO2 capture from the atmosphere". Energy and Environmental Science. 5 (7): 783353. doi:10.1039/C2EE21586A. Retrieved September 7, 2012. (Review.)
+^ a b House, K.Z.; Baclig, A.C.; Ranjan, M.; van Nierop, E.A.; Wilcox, J.; Herzog, H.J. (2011). "Economic and energetic analysis of capturing CO2 from ambient air" (PDF). Proceedings of the National Academy of Sciences. 108 (51): 2042833. doi:10.1073/pnas.1012253108. Retrieved September 7, 2012. (Review.)
+^ a b Lackner, Klaus S.; et al. (2012). "The urgency of the development of CO2 capture from ambient air". Proceedings of the National Academy of Sciences of the United States of America. 109 (33): 1315662. doi:10.1073/pnas.1108765109. PMID22843674. Retrieved September 7, 2012.
+^ a b c d e f g h Pearson, R.J.; Eisaman, M.D.; et al. (2012). "Energy Storage via Carbon-Neutral Fuels Made From CO2, Water, and Renewable Energy" (PDF). Proceedings of the IEEE. 100 (2): 44060. doi:10.1109/JPROC.2011.2168369. Archived from the original (PDF) on May 8, 2013. Retrieved September 7, 2012. (Review.)
+^ a b Pennline, Henry W.; et al. (2010). "Separation of CO2 from flue gas using electrochemical cells". Fuel. 89 (6): 130714. doi:10.1016/j.fuel.2009.11.036.
+^ Graves, Christopher; Ebbesen, Sune D.; Mogensen, Mogens (2011). "Co-electrolysis of CO2 and H2O in solid oxide cells: Performance and durability". Solid State Ionics. 192 (1): 398403. doi:10.1016/j.ssi.2010.06.014.
+^ Fraunhofer-Gesellschaft (May 5, 2010). "Storing green electricity as natural gas". fraunhofer.de. Retrieved September 9, 2012.
+^ Pearson, Richard; Eisaman (2011). "Energy Storage Via Carbon-Neutral Fuels Made From Carbon dioxide, Water, and Renewable Energy" (PDF). Proceedings of the IEEE. 100: 440460. doi:10.1109/jproc.2011.2168369. Archived from the original (PDF) on 8 May 2013. Retrieved 18 October 2012.
+^ Kleiner, kurt (17 January 2009). "Carbon Neutral Fuel; a new approach". The Globe and Mail: F4. Retrieved 23 October 2012.
+^ a b Olah, George; Alain Geoppert; G. K. Surya Prakash (2009). "Chemical recycling of Carbon Dioxide to Methanol and Dimethyl Ether: From Greenhouse Gas to Renewable, Environmentally Carbon Neutral Fuels and Synthetic Hydrocarbons". Journal of Organic Chemistry. 74 (2): 48798. doi:10.1021/jo801260f. PMID19063591. Retrieved 23 October 2012.
+^ Musadi, M.R.; Martin, P.; Garforth, A.; Mann, R. (2011). "Carbon neutral gasoline re-synthesised from on-board sequestrated CO2" (PDF). Chemical Engineering Transactions. 24: 152530. doi:10.3303/CET1124255. Retrieved September 7, 2012.
+^ DiMascio, Felice; Willauer, Heather D.; Hardy, Dennis R.; Lewis, M. Kathleen; Williams, Frederick W. (July 23, 2010). Extraction of Carbon Dioxide from Seawater by an Electrochemical Acidification Cell. Part 1  Initial Feasibility Studies (PDF) (memorandum report). Washington, DC: Chemistry Division, Navy Technology Center for Safety and Survivability, U.S. Naval Research Laboratory. Retrieved September 7, 2012.
+^ Willauer, Heather D.; DiMascio, Felice; Hardy, Dennis R.; Lewis, M. Kathleen; Williams, Frederick W. (April 11, 2011). Extraction of Carbon Dioxide from Seawater by an Electrochemical Acidification Cell. Part 2  Laboratory Scaling Studies (PDF) (memorandum report). Washington, DC: Chemistry Division, Navy Technology Center for Safety and Survivability, U.S. Naval Research Laboratory. Retrieved September 7, 2012.
+^ Electricity Price NewFuelist.com (compare to off-peak wind power price graph.) Retrieved September 7, 2012.
+^ Holte, Laura L.; Doty, Glenn N.; McCree, David L.; Doty, Judy M.; Doty, F. David (2010). Sustainable Transportation Fuels From Off-peak Wind Energy, CO2 and Water (PDF). 4th International Conference on Energy Sustainability, May 1722, 2010. Phoenix, Arizona: American Society of Mechanical Engineers. Retrieved September 7, 2012.
+^ Willauer, Heather D.; Hardy, Dennis R.; Williams, Frederick W. (September 29, 2010). Feasibility and Current Estimated Capital Costs of Producing Jet Fuel at Sea (PDF) (memorandum report). Washington, DC: Chemistry Division, Navy Technology Center for Safety and Survivability, U.S. Naval Research Laboratory. Retrieved September 7, 2012.
+^ Center for Solar Energy and Hydrogen Research Baden-Wrttemberg (2011). "Verbundprojekt 'Power-to-Gas'" (in German). zsw-bw.de. Archived from the original on February 16, 2013. Retrieved September 9, 2012.
+^ Center for Solar Energy and Hydrogen Research (July 24, 2012). "Bundesumweltminister Altmaier und Ministerprsident Kretschmann zeigen sich beeindruckt von Power-to-Gas-Anlage des ZSW" (in German). zsw-bw.de. Archived from the original on September 27, 2013. Retrieved September 9, 2012.
+^ "George Olah CO2 to Renewable Methanol Plant, Reykjanes, Iceland" (Chemicals-Technology.com)
+^ "First Commercial Plant" Archived February 4, 2016, at the Wayback Machine. (Carbon Recycling International)
+^ Okulski, Travis (June 26, 2012). "Audi's Carbon Neutral E-Gas Is Real And They're Actually Making It". Jalopnik (Gawker Media). Retrieved 29 July 2013.
+^ Rousseau, Steve (June 25, 2013). "Audi's New E-Gas Plant Will Make Carbon-Neutral Fuel". Popular Mechanics. Retrieved 29 July 2013.
+^ Doty Windfuels
+^ CoolPlanet Energy Systems
+^ Air Fuel Synthesis, Ltd.
+^ Kiverdi, Inc. (September 5, 2012). "Kiverdi Receives Energy Commission Funding for Its Pioneering Carbon Conversion Platform" (press release). Retrieved September 12, 2012.
+^ DiPietro, Phil; Nichols, Chris; Marquis, Michael (January 2011). Coal-Fired Power Plants in the United States: Examination of the Costs of Retrofitting with CO2 Capture Technology, Revision 3 (PDF) (report NETL-402/102309). National Energy Technology Laboratory, U.S. Department of Energy. DOE contract DE-AC26-04NT41817. Retrieved September 7, 2012.
+^ a b Steinberg, Meyer (August 1995). The Carnol Process for CO2 Mitigation from Power Plants and the Transportation Sector (PDF) (informal report BNL62110). Upton, New York: Department of Advanced Technology, Brookhaven National Laboratory. (Prepared for the U.S. Department of Energy under Contract No. DE-AC02-76CH00016). Retrieved September 7, 2012.
+^ Johnston, Ian (2016-10-19). "Scientists accidentally turn pollution into renewable energy". The Independent. Archived from the original on 2016-10-19. Retrieved 2016-10-19.
+^ Beller, M.; Steinberg, M. (November 1965). Liquid fuel synthesis using nuclear power in a mobile energy depot system (research report BNL 955 / T396). Upton, New York: Brookhaven National Laboratory, under contract with the U.S. Atomic Energy Commission. (General, Miscellaneous, and Progress Reports  TID4500, 46th Ed.). Retrieved September 7, 2012.
+^ Bushore, U.S. Navy Lieutenant Robin Paul (May 1977). Synthetic Fuel Generation Capabilities of Nuclear Power Plants with Applications to Naval Ship Technology (PDF) (M.Sc. thesis). Cambridge, Mass.: Department of Ocean Engineering, Massachusetts Institute of Technology. Retrieved September 7, 2012.
+^ Terry, U.S. Navy Lieutenant Kevin B. (June 1995). Synthetic Fuels for Naval Applications Produced Using Shipboard Nuclear Power (PDF) (M.Sc. thesis). Cambridge, Mass.: Department of Nuclear Engineering, Massachusetts Institute of Technology. Retrieved September 7, 2012.
+^ Steinberg, M.; et al. (1984). A Systems Study for the Removal, Recovery and Disposal of Carbon Dioxide from Fossil Power Plants in the U.S. (technical report DOE/CH/0016-2). Washington, D.C.: U.S. Department of Energy, Office of Energy Research, Carbon Dioxide Research Division. Retrieved September 8, 2012.
+Further reading[edit]
+McDonald, Thomas M.; Lee, Woo Ram; Mason, Jarad A.; Wiers, Brian M.; Hong, Chang Seop; Long, Jeffrey R. (2012). "Capture of Carbon Dioxide from Air and Flue Gas in the Alkylamine-Appended MetalOrganic Framework mmen-Mg2(dobpdc)". Journal of the American Chemical Society. 134 (16): 705665. doi:10.1021/ja300034j.  has 10 citing articles as of September 2012, many of which discuss efficiency and cost of air and flue recovery.
+Kulkarni, Ambarish R.; Sholl, David S. (2012). "Analysis of Equilibrium-Based TSA Processes for Direct Capture of CO2 from Air". Industrial and Engineering Chemistry Research. 51 (25): 863145. doi:10.1021/ie300691c.  claims USD $100/ton CO2 extraction from air, not counting capital expenses.
+External links[edit]
+Doty Windfuels (Columbia, South Carolina)
+Air Fuel Synthesis, Ltd. (Stockton-on-Tees, UK)
+CoolPlanet Energy Systems (Camarillo, California)
+Cost Model for US Navy Zero Carbon Nuclear Synfuel Process spreadsheet by John Morgan (January 2013; source)
+Interview with Kathy Lewis of the US Naval Research Laboratory
+v
+t
+e
+Environmental technology
+Appropriate technology
+Clean technology
+Environmental design
+Environmental impact assessment
+Sustainable development
+Sustainable technology
+Pollution
+Air pollution (control
+dispersion modeling)
+Industrial ecology
+Solid waste treatment
+Waste management
+Water (agricultural wastewater treatment
+industrial wastewater treatment
+sewage treatment
+waste-water treatment technologies
+water purification)
+Renewable energy
+Alternative energy
+Efficient energy use
+Energy development
+Energy recovery
+Fuel (alternative fuel
+biofuel
+carbon negative fuel
+hydrogen technologies)
+List of energy storage projects
+Renewable energy (commercialization)
+Sustainable energy
+Transportation (electric vehicle
+hybrid vehicle)
+Conservation
+Birth control
+Building (green
+natural
+sustainable architecture
+New Urbanism
+New Classical)
+Conservation biology
+Conservation ethic
+Ecoforestry
+Environmental preservation
+Environmental remediation
+Green computing
+Permaculture
+Recycling
+v
+t
+e
+Emerging technologies
+Technology
+Fields
+Agriculture
+Agricultural robot
+Closed ecological systems
+Cultured meat
+Genetically modified food
+Precision agriculture
+Vertical farming
+Architecture
+Arcology
+Building printing
+Contour crafting
+D-Shape
+Domed city
+Biomedical
+Artificial uterus
+Ampakine
+Brain transplant
+Cryonics
+Cryoprotectant
+Cryopreservation
+Vitrification
+Suspended animation
+De-extinction
+Genetic engineering
+Gene therapy
+Head transplant
+Isolated brain
+Life extension
+Strategies for Engineered Negligible Senescence
+Nanomedicine
+Nanosensors
+Personalized medicine
+Regenerative medicine
+Stem-cell therapy
+Tissue engineering
+Robot-assisted surgery
+Synthetic biology
+Synthetic genomics
+Virotherapy
+Oncolytic virus
+Tricorder
+Whole genome sequencing
+Displays
+Next generation
+FED
+FLCD
+iMoD
+Laser
+LPD
+OLED
+OLET
+QD-LED
+SED
+TPD
+TDEL
+TMOS
+Screenless
+Bionic contact lens
+Head-mounted display
+Head-up display
+Optical head-mounted display
+Virtual retinal display
+Other
+Autostereoscopy
+Flexible display
+Holographic display
+Computer-generated holography
+Multi-primary color display
+Ultra HD
+Volumetric display
+Electronics
+Electronic nose
+E-textiles
+Flexible electronics
+Molecular electronics
+Nanoelectromechanical systems
+Memristor
+Spintronics
+Thermal copper pillar bump
+Energy
+Production
+Airborne wind turbine
+Artificial photosynthesis
+Biofuels
+Carbon-neutral fuel
+Concentrated solar power
+Fusion power
+Home fuel cell
+Hydrogen economy
+Methanol economy
+Molten salt reactor
+Nantenna
+Photovoltaic pavement
+Space-based solar power
+Vortex engine
+Storage
+Beltway battery
+Compressed air energy storage
+Flywheel energy storage
+Grid energy storage
+Lithiumair battery
+Molten salt battery
+Nanowire battery
+Research in lithium-ion batteries
+Siliconair battery
+Thermal energy storage
+Ultracapacitor
+Other
+Smart grid
+Wireless power
+IT and
+communications
+Ambient intelligence
+Internet of Things
+Artificial intelligence
+Applications of artificial intelligence
+Progress in artificial intelligence
+Machine translation
+Machine vision
+Semantic Web
+Speech recognition
+Atomtronics
+Carbon nanotube field-effect transistor
+Cybermethodology
+Fourth-generation optical discs
+3D optical data storage
+Holographic data storage
+GPGPU
+Memory
+CBRAM
+FRAM
+Millipede
+MRAM
+NRAM
+PRAM
+Racetrack memory
+RRAM
+SONOS
+Optical computing
+Quantum computing
+Quantum cryptography
+RFID
+Chipless RFID
+Software-defined radio
+Three-dimensional integrated circuit
+Manufacturing
+3D printing
+Claytronics
+Molecular assembler
+Utility fog
+Materials science
+Aerogel
+Amorphous metal
+Artificial muscle
+Conductive polymer
+Femtotechnology
+Fullerene
+Graphene
+High-temperature superconductivity
+High-temperature superfluidity
+Linear acetylenic carbon
+Metamaterials
+Metamaterial cloaking
+Metal foam
+Multi-function structures
+Nanotechnology
+Carbon nanotubes
+Molecular nanotechnology
+Nanomaterials
+Picotechnology
+Programmable matter
+Quantum dots
+Silicene
+Superalloy
+Synthetic diamond
+Military
+Antimatter weapon
+Caseless ammunition
+Directed-energy weapon
+Laser
+Maser
+Particle-beam weapon
+Sonic weapon
+Coilgun
+Railgun
+Plasma weapon
+Pure fusion weapon
+Stealth technology
+Vortex ring gun
+Neuroscience
+Artificial brain
+Blue Brain Project
+Braincomputer interface
+Electroencephalography
+Mind uploading
+Brain-reading
+Neuroinformatics
+Neuroprosthetics
+Bionic eye
+Brain implant
+Exocortex
+Retinal implant
+Robotics
+Domotics
+Nanorobotics
+Powered exoskeleton
+Self-reconfiguring modular robot
+Swarm robotics
+Uncrewed vehicle
+Space science
+Launch
+Fusion rocket
+Non-rocket spacelaunch
+Mass driver
+Orbital ring
+Space elevator
+Space fountain
+Space tether
+Reusable launch system
+Propulsion
+Beam-powered propulsion
+Ion thruster
+Laser propulsion
+Plasma propulsion engine
+Helicon thruster
+VASIMR
+Project Orion
+Nuclear pulse propulsion
+Solar sail
+Other
+Interstellar travel
+Propellant depot
+Transport
+Aerial
+Adaptive compliant wing
+Aeroscraft
+Backpack helicopter
+Delivery drone
+Flying car
+High-altitude platform
+Jet pack
+Pulse detonation engine
+Scramjet
+Spaceplane
+Skylon
+Supersonic transport
+Land
+Airless tire
+Tweel
+Alternative fuel vehicle
+Hydrogen vehicle
+Driverless car
+Ground effect train
+Maglev train
+Personal rapid transit
+Vactrain
+ET3 Global Alliance
+Hyperloop
+Vehicular communication systems
+Pipeline
+Pneumatic transport
+Automated vacuum collection
+Foodtubes
+Other
+Anti-gravity
+Cloak of invisibility
+Digital scent technology
+Force field
+Plasma window
+Immersive virtual reality
+VirtuSphere
+Magnetic refrigeration
+Phased-array optics
+Quantum technology
+Quantum teleportation
+Topics
+Collingridge dilemma
+Differential technological development
+Ephemeralization
+Exploratory engineering
+Fictional technology
+Proactionary principle
+Technological change
+Technological unemployment
+Technological convergence
+Technological evolution
+Technological paradigm
+Technology forecasting
+Accelerating change
+Moore's law
+Technological singularity
+Technology scouting
+Technology readiness level
+Technology roadmap
+Transhumanism
+Category
+List
+v
+t
+e
+Global warming and climate change
+Temperatures
+Brightness temperature
+Effective temperature
+Geologic record
+Hiatus
+Historical climatology
+Instrumental record
+Paleoclimatology
+Paleotempestology
+Proxy data
+Record of the past 1,000 years
+Satellite measurements
+Causes
+Anthropogenic
+Attribution of recent climate change
+Aviation
+Biofuel
+Black carbon
+Carbon dioxide
+Deforestation
+Earth's energy budget
+Earth's radiation balance
+Ecocide
+Fossil fuel
+Global dimming
+Global warming potential
+Greenhouse effect
+(Infrared window)
+Greenhouse gases
+(Halocarbons)
+Land use, land-use change and forestry
+Radiative forcing
+Tropospheric ozone
+Urban heat island
+Natural
+Albedo
+Bond events
+Climate oscillations
+Climate sensitivity
+Cloud forcing
+Cosmic rays
+Feedbacks
+Glaciation
+Global cooling
+Milankovitch cycles
+Ocean variability
+AMO
+ENSO
+IOD
+PDO
+Orbital forcing
+Solar variation
+Volcanism
+Models
+Global climate model
+History
+History of climate change science
+Atmospheric thermodynamics
+Svante Arrhenius
+James Hansen
+Charles David Keeling
+Opinion and climate change
+Environmental ethics
+Media coverage of climate change
+Public opinion on climate change
+(Popular culture)
+Scientific opinion on climate change
+Scientists opposing the mainstream assessment
+Climate change denial
+Global warming conspiracy theory
+By country & region
+(Africa
+Arctic
+Argentina
+Australia
+Bangladesh
+Belgium
+Canada
+China
+Europe
+European Union
+Finland
+Grenada
+Japan
+Luxembourg
+New Zealand
+Norway
+Russia
+Scotland
+South Korea
+Sweden
+Tuvalu
+United Kingdom
+United States)
+Politics
+Clean Power Plan
+Climate change denial
+(Manufactured controversy)
+Intergovernmental Panel on Climate Change (IPCC)
+United Nations Framework Convention on Climate Change (UNFCCC / FCCC)
+Global climate regime
+Potential effects and issues
+General
+Abrupt climate change
+Anoxic event
+Arctic dipole anomaly
+Arctic haze
+Arctic methane release
+Climate change and agriculture
+Climate change and ecosystems
+Climate change and poverty
+Current sea level rise
+Drought
+Economics of global warming
+Effect on plant biodiversity
+Effects on health
+Effects on humans
+Effects on marine mammals
+Environmental migrant
+Extinction risk from global warming
+Fisheries and climate change
+Forest dieback
+Iris hypothesis
+Megadrought
+Ocean acidification
+Ozone depletion
+Physical impacts
+Polar stratospheric cloud
+Regime shift
+Retreat of glaciers since 1850
+Runaway climate change
+Season creep
+Shutdown of thermohaline circulation
+By country
+Australia
+India
+Nepal
+(South Asia)
+United States
+Mitigation
+Kyoto Protocol
+Clean Development Mechanism
+Joint Implementation
+Bali Road Map
+2009 United Nations Climate Change Conference
+Governmental
+European Climate Change Programme
+G8 Climate Change Roundtable
+United Kingdom Climate Change Programme
+Paris Agreement
+Regional climate change initiatives in the United States
+List of climate change initiatives
+Emissions reduction
+Carbon credit
+Carbon-neutral fuel
+Carbon offset
+Carbon tax
+Emissions trading
+Fossil-fuel phase-out
+Carbon-free energy
+Carbon capture and storage
+Efficient energy use
+Low-carbon economy
+Nuclear power
+Renewable energy
+Personal
+Individual action on climate change
+Simple living
+Other
+Carbon dioxide removal
+Carbon sink
+Climate change mitigation scenarios
+Climate engineering
+Individual and political action on climate change
+Reducing emissions from deforestation and forest degradation
+Reforestation
+Urban reforestation
+Climate Action Plan
+Climate action
+Proposed adaptations
+Strategies
+Damming glacial lakes
+Desalination
+Drought tolerance
+Irrigation investment
+Rainwater storage
+Sustainable development
+Weather modification
+Programmes
+Avoiding dangerous climate change
+Land Allocation Decision Support System
+Glossary of climate change
+Index of climate change articles
+Category:Climate change
+Category:Global warming
+Portal:Global warming
+v
+t
+e
+Sustainability
+Principles
+Ecological modernization
+Environmentalism
+Human impact on the environment
+Planetary boundaries
+Social sustainability
+Stewardship
+Sustainable development
+Consumption
+Anthropization
+Anti-consumerism
+Ecological footprint
+Ethical
+Over-consumption
+Simple living
+Sustainability advertising
+Sustainability brand
+Sustainability marketing myopia
+Sustainable
+Systemic change resistance
+Tragedy of the commons
+Population
+Birth control
+Family planning
+Control
+Overpopulation
+Zero growth
+Technology
+Appropriate
+Environmental
+Sustainable
+Biodiversity
+Biosecurity
+Biosphere
+Conservation biology
+Deep ecology
+Endangered species
+Holocene extinction
+Invasive species
+Energy
+Carbon footprint
+Climate change mitigation
+Conservation
+Descent
+Efficiency
+Emissions trading
+Fossil-fuel phase-out
+Peak oil
+Renewable
+Energy poverty
+Food
+Forest gardening
+Local
+Permaculture
+Security
+Sustainable agriculture
+Sustainable fishery
+Urban horticulture
+Water
+Conservation
+Crisis
+Efficiency
+Footprint
+Accountability
+Sustainability accounting
+Sustainability measurement
+Sustainability metrics and indices
+Sustainability reporting
+Standards and certification
+Sustainable yield
+Applications
+Advertising
+Architecture
+Art
+Business
+City
+College programs
+Community
+Design
+Ecovillage
+Education for Sustainable Development
+Fashion
+Gardening
+Geopark
+Green marketing
+Industries
+Landscape architecture
+Living
+Low-impact development
+Sustainable market
+Organizations
+Packaging
+Practices
+Procurement
+Tourism
+Transport
+Urban drainage systems
+Urban infrastructure
+Urbanism
+Management
+Environmental
+Fisheries
+Forest
+Materials
+Natural resource
+Planetary
+Waste
+Agreements
+UN Conference on the Human Environment (Stockholm 1972)
+Brundtlandt Commission Report (1983)
+Our Common Future (1987)
+Earth Summit (1992)
+Rio Declaration on Environment and Development
+Agenda 21 (1992)
+Convention on Biological Diversity (1992)
+ICPD Programme of Action (1994)
+Earth Charter
+Lisbon Principles
+UN Millennium Declaration (2000)
+Earth Summit 2002 (Rio+10, Johannesburg)
+United Nations Conference on Sustainable Development (Rio+20, 2012)
+Sustainable Development Goals
+Category
+Lists
+Outline
+Portal
+Science
+Studies
+Degrees
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1220
+Cached time: 20161118223725
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.608 seconds
+Real time usage: 0.700 seconds
+Preprocessor visited node count: 4647/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 366176/2097152 bytes
+Template argument size: 14909/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.252/10.000 seconds
+Lua memory usage: 5.42 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+489.948
+1 - -total
+45.07%
+220.829
+1 - Template:Reflist
+19.00%
+93.104
+15 - Template:Navbox
+18.83%
+92.236
+17 - Template:Cite_journal
+12.26%
+60.068
+3 - Template:Citation_needed
+11.05%
+54.141
+3 - Template:Fix
+10.60%
+51.941
+1 - Template:Global_warming
+9.93%
+48.663
+1 - Template:Navbox_with_collapsible_groups
+6.55%
+32.112
+8 - Template:Cite_report
+6.45%
+31.603
+2 - Template:Sidebar
+Saved in parser cache with key enwiki:pcache:idhash:36913101-0!*!0!!en!4!* and timestamp 20161118223724 and revision id 750144342
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Carbon-neutral_fuel&oldid=750144342"
+Categories: Alternative energy economyCarbon dioxideChemical engineeringClimate change mitigationEconomics and climate changeEmissions reductionEnvironmental engineeringGreenhouse gasesOrganometallic chemistryRenewable energy economySustainable technologiesSynthetic fuelsHidden categories: CS1 German-language sources (de)Webarchive template wayback linksAll articles with unsourced statementsArticles with unsourced statements from October 2012Articles with unsourced statements from February 2015

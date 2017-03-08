@@ -1,0 +1,58 @@
+Annualfuelutilizationefficiency
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}The annual fuel utilization efficiency (AFUE; pronounced 'A'-'Few' or 'A'-'F'-'U'-'E') is a thermal efficiency measure of combustion equipment like furnaces, boilers, and water heaters. The AFUE differs from the true 'thermal efficiency' in that it is not a steady-state, peak measure of conversion efficiency, but instead attempts to represent the actual, season-long, average efficiency of that piece of equipment, including the operating transients.[1] It is a dimensionless ratio of useful energy output to energy input, expressed as a percentage. For example, a 90% AFUE for a gas furnace means it outputs 90 BTUs of useful heating for every 100 BTUs of natural gas input (where the rest may be wasted heat in the exhaust). A higher AFUE means higher efficiency.
+The method for determining the AFUE for residential furnaces is the subject of ASHRAE Standard 103. A furnace with a thermal efficiency (th) of 78% may yield an AFUE of only 64% or so, for example, under the standard's test conditions. When estimating annual or seasonal energy used by combustion devices, the AFUE is the better efficiency measure to use in the calculations.[2] But for an instantaneous fuel consumption rate, the thermal efficiency may be better.
+Note that the theoretical limit for a conventional furnace's instantaneous efficiency is 100%, whereas a heat pump used for building heating may exceed 100%. For example, a COP of 1.5 is equivalent to 150%. Heat pumps are readily available for electric and gas sources.[3] So from a theoretical perspective, in some use cases the name "efficiency" may be misleading.
+Some typical AFUE numbers[4]
+Fuel
+Furnace/boiler
+AFUE
+Heating oil
+Cast iron (pre-1970)
+60%
+Retention head burner
+7078%
+Mid efficiency
+8389%
+Electric heating
+Central or baseboard
+100%
+Geothermal heat pump
+see COP
+Air-source heat pump
+see HSPF
+Natural gas
+Standard efficiency
+7884%
+Condensing
+9097%
+Propane
+Standard efficiency
+7985%
+Condensing
+8895%
+Firewood
+Conventional
+4555%
+Advanced
+5565%
+State-of-the-Art
+7590%
+See also[edit]
+Coefficient of performance (COP)
+Energy efficiency ratio (EER)
+Seasonal energy efficiency ratio (SEER)
+ASHRAE
+References[edit]
+^ Systems and Equipment volume of the ASHRAE Handbook, ASHRAE, Inc., Atlanta, GA, USA, 2004
+^ Heating and Cooling of Buildings, Kreider and Rabl, McGraw-Hill, New York, 1994
+^ "Archived copy". Archived from the original on 2014-03-23. Retrieved 2014-12-14. (accessed 2014-12-14)
+^ Canada Mortgage and Housing Corporation, ed. (2008) [1993], A Guide to Residential Home Heating (PDF) (2008 ed.), ISBN978-0-660-19848-4, retrieved 2009-03-23
+This article about a mechanical engineering topic is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+Saved in parser cache with key enwiki:pcache:idhash:8074252-0!*!0!!*!4!* and timestamp 20161116200206 and revision id 744408066
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Annual_fuel_utilization_efficiency&oldid=744408066"
+Categories: Heating, ventilating, and air conditioningMechanical engineering stubsHidden categories: All stub articles

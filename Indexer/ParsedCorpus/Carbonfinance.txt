@@ -1,0 +1,194 @@
+Carbonfinance
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Part of a series about
+Environmental economics
+Concepts
+Green accounting
+Green economy
+Green trading
+Eco commerce
+Green job
+Environmental enterprise
+Fiscal environmentalism
+Environmental finance
+Renewable energy
+Policies
+Sustainable tourism
+Ecotax
+Environmental tariff
+Net metering
+Environmental pricing reform
+Pigovian tax
+Dynamics
+Renewable energy commercialization
+Marginal abatement cost
+Green paradox
+Green politics
+Pollution haven hypothesis
+Carbon related
+Low-carbon economy
+Carbon neutral fuel
+Carbon neutrality
+Carbon pricing
+Emissions trading
+Carbon credit
+Carbon offset
+Carbon emission trading
+Personal carbon trading
+Carbon tax
+Carbon finance
+Feed-in tariff
+Carbon diet
+Food miles
+2000-watt society
+Carbon footprint
+v
+t
+e
+Carbon finance is a new branch of Environmental finance. Carbon finance explores the financial implications of living in a carbon-constrained world, a world in which emissions of carbon dioxide and other greenhouse gases (GHGs) carry a price.
+Financial risks and opportunities impact corporate balance sheets, and market-based instruments are capable of transferring environmental risk and achieving environmental objectives. Issues regarding climate change and GHG emissions must be addressed as part of strategic management decision-making.
+The general term is applied to investments in GHG emission reduction projects and the creation (origination) of financial instruments that are tradeable on the carbon market.
+Contents
+1 Joint Implementation and Clean Development Mechanism
+2 Market value
+3 World Bank
+4 See also
+5 References
+6 External links
+Joint Implementation and Clean Development Mechanism[edit]
+Clean Development Mechanism (CDM), is recognised through the Kyoto Protocol, allowing the offset of emissions in developed countries by the investment in emission reduction projects in developing countries like China, India or Latin America.
+Joint Implementation (JI), is another mechanism, allowing investments in developed countries to generate emission credit for the same or another developed country.
+Market value[edit]
+The market for the purchase of carbon has grown exponentially since its conception in 1996.
+The following is the estimated size of the worldwide carbon market according to the World Bank:[1][2]
+Volume (millions metric tonnes, MtCO2)
+2005: 718 (330 in Main Allowances Markets & 388 in Project based transactions)
+2006: 1,745 (1,134 in Main Allowances Markets & 611 in Project based transactions)
+2007: 2,983 (2,109 in Main Allowances Markets & 874 in Project based transactions)
+Dollars (millions of USD)
+2005: 10,908 (7,971 in Main Allowances Markets & 2,937 in Project based transactions)
+2006: 31,235 (24,699 in Main Allowances Markets & 6,536 in Project based transactions)
+2007: 64,035 (50,394 in Main Allowances Markets & 13,641 in Project based transactions)
+World Bank[edit]
+The World Bank has created the World Bank Carbon Finance Unit (CFU). The World Bank CFU uses money contributed by governments and companies in OECD countries to purchase project-based greenhouse gas emission reductions in developing countries and countries with economies in transition. The emission reductions are purchased through one of the CFU's carbon funds on behalf of the contributor, and within the framework of the Kyoto Protocol's Clean Development Mechanism (CDM) or Joint Implementation (JI).[3] The World Bank is particularly supportive of Program of Activities (PoA) development.[4]
+See also[edit]
+Energy portal
+Carbon credits
+Emission trading
+Reforestation
+Renewable energy payment
+Carbon rationing
+Verified Carbon Standard
+References[edit]
+^ "State and Trends of the Carbon Market 2007" (PDF). World Bank.
+^ "State and Trends of the Carbon Market 2008" (PDF). World Bank.
+^ http://carbonfinance.org
+^ http://wbcarbonfinance.org/Router.cfm?Page=ProjPort&ItemID=24702
+External links[edit]
+Carbon Finance Advisory
+Carbon Finance TV
+Carbon Finance International
+Carbon Finance Services
+Daily carbon finance news
+Glossary of Terms
+v
+t
+e
+Environmental technology
+Appropriate technology
+Clean technology
+Environmental design
+Environmental impact assessment
+Sustainable development
+Sustainable technology
+Pollution
+Air pollution (control
+dispersion modeling)
+Industrial ecology
+Solid waste treatment
+Waste management
+Water (agricultural wastewater treatment
+industrial wastewater treatment
+sewage treatment
+waste-water treatment technologies
+water purification)
+Renewable energy
+Alternative energy
+Efficient energy use
+Energy development
+Energy recovery
+Fuel (alternative fuel
+biofuel
+carbon negative fuel
+hydrogen technologies)
+List of energy storage projects
+Renewable energy (commercialization)
+Sustainable energy
+Transportation (electric vehicle
+hybrid vehicle)
+Conservation
+Birth control
+Building (green
+natural
+sustainable architecture
+New Urbanism
+New Classical)
+Conservation biology
+Conservation ethic
+Ecoforestry
+Environmental preservation
+Environmental remediation
+Green computing
+Permaculture
+Recycling
+NewPP limit report
+Parsed by mw1268
+Cached time: 20161119093437
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.092 seconds
+Real time usage: 0.118 seconds
+Preprocessor visited node count: 312/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 21673/2097152 bytes
+Template argument size: 24/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Lua time usage: 0.032/10.000 seconds
+Lua memory usage: 1.72 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+87.569
+1 - -total
+43.53%
+38.118
+1 - Template:Reflist
+37.51%
+32.843
+2 - Template:Cite_web
+28.29%
+24.772
+1 - Template:Green_economics_sidebar
+26.28%
+23.012
+1 - Template:Sidebar
+8.98%
+7.864
+1 - Template:Environmental_technology
+7.45%
+6.527
+1 - Template:Portal
+6.94%
+6.076
+1 - Template:Navbox
+5.01%
+4.386
+1 - Template:Colbegin
+2.53%
+2.214
+1 - Template:Colend
+Saved in parser cache with key enwiki:pcache:idhash:5362537-0!*!0!!en!4!* and timestamp 20161119093436 and revision id 749567493
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Carbon_finance&oldid=749567493"
+Categories: Carbon finance

@@ -1,0 +1,244 @@
+Carbonemissiontrading
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"Carbon market" redirects here. For the market in the Philippines, see Carbon Market.
+It has been suggested that Criticism of the Kyoto Protocol be merged into this article. (Discuss) Proposed since March 2015.
+Part of a series about
+Environmental economics
+Concepts
+Green accounting
+Green economy
+Green trading
+Eco commerce
+Green job
+Environmental enterprise
+Fiscal environmentalism
+Environmental finance
+Renewable energy
+Policies
+Sustainable tourism
+Ecotax
+Environmental tariff
+Net metering
+Environmental pricing reform
+Pigovian tax
+Dynamics
+Renewable energy commercialization
+Marginal abatement cost
+Green paradox
+Green politics
+Pollution haven hypothesis
+Carbon related
+Low-carbon economy
+Carbon neutral fuel
+Carbon neutrality
+Carbon pricing
+Emissions trading
+Carbon credit
+Carbon offset
+Carbon emission trading
+Personal carbon trading
+Carbon tax
+Carbon finance
+Feed-in tariff
+Carbon diet
+Food miles
+2000-watt society
+Carbon footprint
+v
+t
+e
+Carbon emissions trading is a form of emissions trading that specifically targets carbon dioxide (calculated in tonnes of carbon dioxide equivalent or tCO2e) and it currently constitutes the bulk of emissions trading.
+This form of permit trading is a common method countries utilize in order to meet their obligations specified by the Kyoto Protocol; namely the reduction of carbon emissions in an attempt to reduce (mitigate) future climate change.
+Under Carbon trading, a country having more emissions of carbon is able to purchase the right to emit more and the country having less emission trades the right to emit carbon to other countries. More carbon emitting countries, by this way try to keep the limit of carbon emission specified to them.
+Contents
+1 Economics
+1.1 Costs and valuation
+1.2 Ethics and fairness
+1.3 Coase
+1.4 Equity
+1.5 Taxes versus caps
+1.6 Trading
+1.7 Incentives and allocation
+2 Units
+3 Market trend
+4 Business reaction
+5 Voluntary surrender of units
+6 Criticisms
+6.1 Structuring issues
+7 See also
+8 References
+9 External links
+Economics[edit]
+Emissions trading works by setting a quantitative limit on the emissions produced by emitters. The economic basis for emissions trading is linked to the concept of property rights (Goldemberg et al.., 1996, p.29).[1]
+Costs and valuation[edit]
+The economic problem with climate change is that the emitters of greenhouse gases (GHGs) do not face the full cost implications of their actions (IMF, 2008, p.6).[2] There are costs that emitters do face, e.g., the costs of the fuel being used, but there are other costs that are not necessarily included in the price of a good or service. These other costs are called external costs (Halsns et al.., 2007).[3] They are "external" because they are costs that the emitter does not face. External costs may affect the welfare of others. In the case of climate change, GHG emissions affect the welfare of people living in the future, as well as affecting the natural environment (Toth et al., 2001).[4] These external costs can be estimated and converted in a common (monetary) unit. The argument for doing this is that these external costs can then be added to the private costs that the emitter faces. In doing this, the emitter faces the full (social) costs of their actions (IMF, 2008, p.9).
+Ethics and fairness[edit]
+The way of dealing with climate change has particular ethical issues and other issues related to the fairness of the problem. To actually calculate social costs requires value judgements about the value of future climate impacts (Smith et al.., 2001).[5] There is no consensus among economists over how to value the fairness (economists use the term equity to mean fairness) of a particular climate policy, e.g., how to share the burden of costs for mitigating future climate change (Toth et al., 2001).[6] Nor do economists have any professional expertise in making ethical decisions, e.g., over the value assigned to the welfare of future generations (Arrow et al.., 1996, p.130).[7] Typically all the impacts of policy, both the costs and benefits, are added together (aggregation), with different impacts on different individuals assigned particular "weightings," i.e., relative levels of importance. These valuations are decided by the economist doing the study. Valuations can be difficult since not all goods have a market price.
+There are methods to infer prices for "non-market" goods and services. However, these valuations can be controversial, e.g., valuations of human health impacts, or ecosystems (Smith et al.., 2001).[8] There is also controversy over how potentially positive climate impacts, e.g., tourism in particular regions benefiting from climate change, offset negative impacts in other regions, e.g., reduced food production (Smith et al.., 2001).[9] The main advantage of economic analysis in this area is that it allows a comprehensive and consistent treatment of climate change impacts. It also allows the benefits of climate change policy decisions to be compared against other possible environmental policies.
+Coase[edit]
+Coase (1960) (referred to by Toth et al.., 2001;[10] and Helm, 2005, p.4)[11] argued that social costs could be accounted for by negotiating property rights according to a particular objective. Coase's model assumes perfectly operating markets and equal bargaining power among those arguing for property rights. For climate change, the property rights are for emissions (permits or quotas). However, it should be noted that other factors affect the climate other than just emissions, e.g., the ocean, forests, etc. (Goldemberg et al.., 1996, pp.2829).[1] In Coase's model, efficiency, i.e., achieving a given reduction in emissions at lowest cost, is promoted by the market system. This can also be looked at from the perspective of having the greatest flexibility to reduce emissions. Flexibility is desirable because the marginal costs, that is to say, the incremental costs of reducing emissions, varies among countries. Emissions trading allows emission reductions to be first made in locations where the marginal costs of abatement are lowest (Bashmakov et al.., 2001).[12] Over time, efficiency can also be promoted by allowing "banking" of permits (Goldemberg et al.., 1996, p.30). This allows polluters to reduce emissions at a time when it is most efficient to do so.
+Equity[edit]
+One of the advantages of Coase's model is that it suggests that fairness (equity) can be addressed in the distribution of property rights, and that regardless of how these property rights are assigned, the market will produce the most efficient outcome (Goldemberg et al.., 1996, p.29).[1] In reality, according to the held view, markets are not perfect, and it is therefore possible that a trade off will occur between equity and efficiency (Halsns et al.., 2007).[13]
+Taxes versus caps[edit]
+A large number of papers in the economics literature suggest that carbon taxes should be preferred to carbon trading (Carbon Trust, 2009).[14] Counter-arguments to this are usually based on the possible preference that politicians may have for emissions trading compared with taxes (Bashmakov et al.., 2001).[15] One of these is that emission permits can be freely distributed to polluting industries, rather than the revenues going to the government. In comparison, industries may successfully lobby to exempt themselves from a carbon tax. It is therefore argued that with emissions trading, polluters have an incentive to cut emissions, but if they are exempted from a carbon tax, they have no incentive to cut emissions (Smith, 2008, pp.5657).[16] On the other hand, freely distributing emission permits could potentially lead to corrupt behaviour (World Bank, 2010, p.268).[17]
+A pure carbon tax fixes the price of carbon, but allows the amount of carbon emissions to vary; and a pure carbon cap places a limit on carbon emissions, letting the market price of tradable carbon allowances vary. Proponents argue that a carbon tax is more easy and simple to enforce on a broad-base scale than cap-and-trade programs. The simplicity and immediacy of a carbon tax has been proven effective in British Columbia, Canada - enacted and implemented in five months. Taxing can provide the right incentives for polluters, inventors, and engineers to develop cleaner technologies, in addition to creating revenue for the government. [18]
+Supporters of carbon cap-and-trade systems believe it sets legal limits for emissions reductions, unlike with carbon taxes. With a tax, there can be estimates of reduction in carbon emissions, which may not be sufficient to change the course of climate change. A declining cap gives allowance for firm reduction targets and a system for measuring when targets are met. It also allows for flexibility, unlike rigid taxes.[18] Providing emission permits under emissions trading is preferred in situations where more accurate target level of environment certainty is needed.[19]
+Trading[edit]
+In an emissions trading system, permits may be traded by emitters who are liable to hold a sufficient number of permits in system. Some analysts argue that allowing others to participate in trading, e.g., private brokerage firms, can allow for better management of risk in the system, e.g., to variations in permit prices (Bashmakov et al.., 2001).[20] It may also improve the efficiency of system. According to Bashmakov et al.. (2001), regulation of these other entities may be necessary, as is done in other financial markets, e.g., to prevent abuses of the system, such as insider trading.
+Incentives and allocation[edit]
+Emissions trading gives polluters an incentive to reduce their emissions. However, there are possible perverse incentives that can exist in emissions trading. Allocating permits on the basis of past emissions ("grandfathering") can result in firms having an incentive to maintain emissions. For example, a firm that reduced its emissions would receive fewer permits in the future (IMF, 2008, pp.2526).[2] This problem can also be criticized on ethical grounds, since the polluter is being paid to reduce emissions (Goldemberg et al.., 1996, p.38).[1] On the other hand, a permit system where permits are auctioned rather than given away, provides the government with revenues. These revenues might be used to improve the efficiency of overall climate policy, e.g., by funding reductions in distortionary taxes (Fisher et al.., 1996, p.417).[21]
+In Coase's model of social costs, either choice (grandfathering or auctioning) leads to efficiency. In reality, grandfathering subsidizes polluters, meaning that polluting industries may be kept in business longer than would otherwise occur.[citation needed] Grandfathering may also reduce the rate of technological improvement towards less polluting technologies (Fisher et al.., 1996, p.417).
+The economist William Nordhaus argues that allocations cost the economy as they cause the under utilisation an efficient form of taxation.[22] Nordhaus points out that normal income, goods or service taxes distort efficient investment and consumption, so by using pollution taxes to generate revenue an emissions scheme can increase the efficiency of the economy.[22]
+Form of allocation
+The economist Ross Garnaut states that permits allocated to existing emitters by 'grandfathering' are not 'free'. As the permits are scarce they have value and the benefit of that value is acquired in full by the emitter. The cost is imposed elsewhere in the economy, typically on consumers who cannot pass on the costs.[23]
+It is important that we stop thinking in terms of payments to Australian firms in order to compensate them for the effects of the domestic emissions trading scheme. There is no basis for compensation arising from the loss of profits or asset values as a result of this new policy. The rationale for payments to trade-exposed, emissions-intensive industries is different and sound. It is to avoid the economic and environmental costs of having firms in these industries contracting more than, and failing to expand as much as, they would in a world in which all countries were applying carbon constraints involving similar costs to ours. [24]
+Units[edit]
+The units which may be transferred under Article 17[clarification needed] emissions trading, each equal to one metric tonne of emissions (in CO2-equivalent terms), may be in the form of:[25]
+An assigned amount unit (AAU) issued by an Annex I Party on the basis of its assigned amount pursuant to Articles 3.7 and 3.8 of the Protocol.
+A removal unit (RMU) issued by an Annex I Party on the basis of land use, land-use change and forestry (LULUCF) activities under Articles 3.3 and 3.4 of the Kyoto Protocol.
+An emission reduction unit (ERU) generated by a joint implementation project under Article 6 of the Kyoto Protocol.
+A certified emission reduction (CER) generated from a clean development mechanism project activity under Article 12 of the Kyoto Protocol.
+Transfers and acquisitions of these units are to be tracked and recorded[clarification needed] through the registry systems under the Kyoto Protocol.[citation needed]
+Market trend[edit]
+Carbon emissions trading has been steadily increasing in recent years. According to the World Bank's Carbon Finance Unit, 374 million metric tonnes of carbon dioxide equivalent (tCO2e) were exchanged through projects in 2005, a 240% increase relative to 2004 (110 mtCO2e)[26] which was itself a 41% increase relative to 2003 (78 mtCO2e).[27]
+The increasing costs of permits have had the effect of increasing costs of carbon emitting fuels and activities. Based on a survey of 12 European countries, it was concluded that an increase in carbon and fuel prices of approximately ten percent would result in a short-run increase in electrical power prices of roughly eight percent.[28] This would suggest that a lowering cap on carbon emissions will likely lead to an increase in the costs of alternative power sources. Whereas a sudden lowering of a carbon emission cap may prove detrimental to economies, a gradual lowering of the cap may risk future environmental damage via global warming.
+In 2010 Chicago Climate Exchange (CCX) ceased its trading of carbon emissions.[29] 450 members of the CCX had achieved reductions of 700million tonnes of emissions over the life of the cap and trade program. The seven year CCX cap and trade program claimed to have successfully provided cost-effectiveness and market-based flexibility for emissions trading.[30]
+Business reaction[edit]
+Economist Craig Mellow wrote in May 78 2008: The combination of global warming and growing environmental consciousness is creating a potentially huge market in the trading of pollution-emission credits." [31]
+With the creation of a market for mandatory trading of carbon dioxide emissions within the Kyoto Protocol, the London financial marketplace has established itself as the center of the carbon finance market, and is expected to have grown into a market valued at $60 billion in 2007.[32][not in citation given] The voluntary offset market, by comparison, is projected to grow to about $4bn by 2010.[33]
+Twenty three multinational corporations came together in the G8 Climate Change Roundtable, a business group formed at the January 2005 World Economic Forum. The group included Ford, Toyota, British Airways, BP and Unilever. On 9 June 2005, the Group published a statement stating that there was a need to act on climate change and stressing the importance of market-based solutions. It called on governments to establish "clear, transparent, and consistent price signals" through "creation of a long-term policy framework" that would include all major producers of greenhouse gases.[34] By December 2007, this had grown to encompass 150 global businesses.[35]
+Business in the UK have come out strongly in support of emissions trading as a key tool to mitigate climate change, supported by Green NGOs.[36]
+Voluntary surrender of units[edit]
+There are examples of individuals and organisations purchasing tradable emission permits and 'retiring' (cancelling) them so they cannot be used by emitters to authorise their emissions. This makes the emissions 'cap' lower and therefore further reduces emissions. In 1992, the National Healthy Air License Exchange was established to pool donations for buying and retiring sulfur allowances under the USA sulfur allowance trading program.[37]
+The British organization "Climakind" accepts donations and uses them to buy and cancel European Allowances, the carbon credits traded in the European Union Emission Trading System. It is argued that this removes the credits from the carbon market so they cannot be used to allow the emission of carbon and that this reduces the 'cap' on emissions by reducing the number of credits available to emitters.[38]
+The British organisation Sandbag promotes cancelling carbon credits in order to lower emissions trading caps.[39] As of August 2010, Sandbag states that it has cancelled carbon credits equivalent to 2145 tonnes of CO2.[40]
+Criticisms[edit]
+This article's Criticism or Controversy section may compromise the article's neutral point of view of the subject. Please integrate the section's contents into the article as a whole, or rewrite the material. (October 2014)
+Critics of carbon trading, such as Carbon Trade Watch, argue that it places disproportionate emphasis on individual lifestyles and carbon footprints, distracting attention from the wider, systemic changes and collective political action that needs to be taken to tackle climate change.[41][full citation needed] Groups such as the Corner House have argued that the market will choose the easiest means to save a given quantity of carbon in the short term, which may be different from the pathway required to obtain sustained and sizable reductions over a longer period, and so a market-led approach is likely to reinforce technological lock-in. For instance, small cuts may often be achieved cheaply through investment in making a technology more efficient, where larger cuts would require scrapping the technology and using a different one. They also argue that emissions trading is undermining alternative approaches to pollution control[clarification needed] with which it does not combine well, and so the overall effect it is having is to actually stall significant change to less polluting technologies. In September 2010, campaigning group FERN released "Trading Carbon: How it works and why it is controversial" [42][full citation needed]which compiles many of the arguments against carbon trading.
+The Financial Times published an article about cap-and-trade systems which argued that "Carbon markets create a muddle" and "...leave much room for unverifiable manipulation".[43] Lohmann (2009) pointed out that emissions trading schemes create new uncertainties and risks,[vague] which can be commodified by means of derivatives, thereby creating a new speculative market.[44][clarification needed]
+In China some companies started artificial production of greenhouse gases with sole purpose of their recycling and gaining carbon credits. Similar practices happened in India. Earned credit were then sold to companies in US and Europe.[45][46]
+Recent proposals for alternative schemes to avoid the problems of cap-and-trade schemes include Cap and Share,[clarification needed] which was being actively considered by the Irish Parliament in May 2008, and the Sky Trust schemes.[47] These schemes state that cap-and-trade or cap-and-tax[clarification needed] schemes inherently impact the poor and those in rural areas, who have less choice in energy consumption options.
+Carbon trading has been criticised as a form of colonialism, in which rich countries maintain their levels of consumption while getting credit for carbon savings in inefficient industrial projects.[48] Nations that have fewer financial resources may find that they cannot afford the permits necessary for developing an industrial infrastructure, thus inhibiting these countries economic development.
+The Kyoto Protocol's Clean Development Mechanism has been criticised for not promoting enough sustainable development.
+Another criticism is the claimed possibility of non-existent emission reductions being recorded under the Kyoto Protocol due to the surplus of allowances that some countries possess. For example, Russia had a surplus of allowances due to its economic collapse following the end of the Soviet Union.[48] Other countries could have bought these allowances from Russia, but this would not have reduced emissions. Rather, it would have been simply be a redistribution of emissions allowances. In practice, Kyoto Parties have as yet chosen not to buy these surplus allowances.[49]
+Structuring issues[edit]
+Corporate and governmental Carbon emission trading schemes (a trading system devised by economists to reduce CO2 emissions, the goal being to reduce global warming) have been modified in ways that have been attributed to permitting money laundering to take place.[50][51] The principal point here is that financial system innovations (outside banking) open up the possibility for unregulated (non-banking) transactions to take place in relativity unsupervised markets.
+See also[edit]
+Energy portal
+European Union Emission Trading Scheme
+Low carbon power generation
+New South Wales Greenhouse Gas Abatement Scheme
+Personal carbon trading
+Carbon offset
+Carbon project
+References[edit]
+^ a b c d Goldemberg, J.; et al. (1996). "Introduction: scope of the assessment.". In J.P. Bruce; et al. In: Climate Change 1995: Economic and Social Dimensions of Climate Change. (PDF). Contribution of Working Group III to the Second Assessment Report of the Intergovernmental Panel on Climate Change. This version: Printed by Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. PDF version: IPCC website. doi:10.2277/0521568544. ISBN978-0-521-56854-8.
+^ a b IMF (March 2008). "Fiscal Implications of Climate Change" (PDF). International Monetary Fund, Fiscal Affairs Department. Retrieved 2010-04-26.
+^ Halsns, K.; et al. (2007). "2.4 Cost and benefit concepts, including private and social cost perspectives and relationships to other decision-making frameworks". In B. Metz; et al. Framing issues. Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A. Retrieved 2010-04-26.
+^ Toth, F.L.; et al. (2001). "10.1.2.2 The Problem Is Long Term.". In B. Metz; et al. Decision-making Frameworks. Climate Change 2001: Mitigation. Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change. Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: GRID-Arendal website. Retrieved 2010-01-10. External link in |publisher= (help)
+^ Smith, J.B.; et al. (2001). "19.5.1. Aggregate Analysis: An Assessment. In (book chapter): Vulnerability to Climate Change and Reasons for Concern: A Synthesis. In: Climate Change 2001: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Third Assessment Report of the Intergovernmental Panel on Climate Change (J.J. McCarthy et al. Eds.)". Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: GRID-Arendal website. Retrieved 2010-01-10. External link in |publisher= (help)
+^ Toth, F.L.; et al. (2001). "10.4.7 Emerging Conclusions with Respect to Policy-relevant Scientific Questions. In (book chapter): Decision-making Frameworks. In: Climate Change 2001: Mitigation. Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz et al. Eds.)". Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: GRID-Arendal website. Retrieved 2010-01-10. External link in |publisher= (help)
+^ Arrow, K.J.; et al. (1996). Intertemporal Equity, Discounting, and Economic Efficiency. In: Climate Change 1995: Economic and Social Dimensions of Climate Change. Contribution of Working Group III to the Second Assessment Report of the Intergovernmental Panel on Climate Change (J.P. Bruce et al. Eds.) (PDF). This version: Printed by Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. PDF version: Prof. Joseph Stiglitz's web page at Colombia University. pp.125144. Retrieved 2010-02-11.
+^ Smith, J.B.; et al. (2001). "19.4.1. Analysis of Distributional Incidence: State of the Art. In (book chapter): Vulnerability to Climate Change and Reasons for Concern: A Synthesis. In: Climate Change 2001: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Third Assessment Report of the Intergovernmental Panel on Climate Change (J.J. McCarthy et al. Eds.)". Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: GRID-Arendal website. Retrieved 2010-04-26. External link in |publisher= (help)
+^ Smith, J.B.; et al. (2001). "19.8.2.3. Aggregate Impacts. In (book chapter): Vulnerability to Climate Change and Reasons for Concern: A Synthesis. In: Climate Change 2001: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Third Assessment Report of the Intergovernmental Panel on Climate Change (J.J. McCarthy et al. Eds.)". Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: GRID-Arendal websites yeah. Retrieved 2010-04-26. External link in |publisher= (help)
+^ Toth, F.L.; et al. (2001). "10.4.5 Who Should Pay for the Response? Mitigation by Countries and Sectors: Equity and Cost-effectiveness Considerations. In (book chapter): Decision-making Frameworks. In: Climate Change 2001: Mitigation. Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz et al. Eds.)". Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: GRID-Arendal website. Retrieved 2010-01-10. External link in |publisher= (help)
+^ Helm, D. (2005). "Economic Instruments and Environmental Policy". The Economic and Social Review. 36 (3). Archived from the original on 2011-05-01. Retrieved 2010-04-26.
+^ Bashmakov, I.; et al. (2001). "6.3.1 International Emissions Trading. In (book chapter): 6. Policies, Measures, and Instruments. In: Climate Change 2001: Mitigation. Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz et al. Eds.)". Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: GRID-Arendal website. Retrieved 2010-04-26. External link in |publisher= (help)
+^ Halsns, K.; et al. (2007). "2.6.5 Economic efficiency and eventual trade-offs with equity. In (book chapter): Framing issues. In: Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz et al. Eds.)". Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A. Retrieved 2010-04-26.
+^ Carbon Trust (March 2009). "Memorandum submitted by The Carbon Trust (ET19). Environmental Audit Committee - Fourth Report: The role of carbon markets in preventing dangerous climate charge. Session 2009-10". UK Parliament website. Retrieved 2010-04-26.
+^ Bashmakov, I.; et al. (2001). "6.1.5.1 Key Lessons from the Political Economy Literature.". In B. Metz; et al. Chapter 6. Policies, Measures, and Instruments. Climate Change 2001: Mitigation. Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change. Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: GRID-Arendal website. Retrieved 2010-04-26. External link in |publisher= (help)
+^ Smith, S. (11 June 2008). "Environmentally Related Taxes and Tradable Permit Systems in Practice" (PDF). OECD, Environment Directorate, Centre for Tax Policy and Administration. Retrieved 2010-04-26.
+^ World Bank (2010). "World Development Report 2010: Development and Climate Change" (PDF). The International Bank for Reconstruction and Development / The World Bank, 1818 H Street NW, Washington DC 20433. Retrieved 2014-11-12.
+^ a b Beinecke, Frances; Sachs, Jeffrey D.; Krupp, Fred; Pielke Jr., Roger A.; Stavins, Robert N.; Komanoff, Charles; Claussen, Eileen; Fischhoff, Baruch (2009-05-07). "Putting a Price on Carbon: An Emissions Cap or a Tax? by:". Yale Environment 360. Retrieved 2010-08-06.
+^ Trade and climate change: WTO-UNEP Report. Geneve: WTO. 2009. |access-date= requires |url= (help)
+^ Bashmakov, I.; et al. (2001). "6.2.2.3 Tradable Permits. In (book chapter): 6. Policies, Measures, and Instruments.". In B. Metz; et al. Climate Change 2001: Mitigation. Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change. Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: GRID-Arendal website. Retrieved 2010-04-26. External link in |publisher= (help)
+^ Fisher, B.S.; et al. (1996). "An Economic Assessment of Policy Instruments for Combating Climate Change". In J.P. Bruce; et al. Climate Change 1995: Economic and Social Dimensions of Climate Change (PDF). Contribution of Working Group III to the Second Assessment Report of the Intergovernmental Panel on Climate Change. This version: Printed by Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. PDF version: IPCC website. doi:10.2277/0521568544. ISBN978-0-521-56854-8.
+^ a b Nordhaus, William (2007). "To Tax or Not to Tax: Alternative Approaches to Slowing Global Warming" (PDF). Oxford University Press. Archived from the original (PDF) on 2011-07-25. Retrieved 2010-04-28.
+^ Garnaut, Ross (2008). "Releasing permits into the market". The Garnaut Climate Change Review. Cambridge University Press. ISBN978-0-521-74444-7. Retrieved 2010-04-28.
+^ "The Garnaut Climate Change Review". Cambridge University Press. 2008. Retrieved 2010-04-04.
+^ "Emissions Trading". UNFCCC. Retrieved 2010-04-28.
+^ http://carbonfinance.org/docs/StateoftheCarbonMarket2006.pdf
+^ Microsoft Word - Carbon Market Study 2005 - FINAL - Letter.doc
+^ Considine, Timothy J.; Larson, Donald F. (2009). "19.4.1. Substitution and Technological Change Under Carbon Cap and Trade: Lessons from Europe". Policy Research working paper no. WPS 4957. The World Bank. Retrieved 2010-08-03.
+^ Carbon Trade Ends on Quiet Death of Chicago Climate Exchange
+^ Gronewold, Nathanial (January 3, 2011). "Chicago Climate Exchange Closes Nation's First Cap-And-Trade System but Keeps Eye to the Future". E&E Publishing. New York Times. Retrieved 27 Oct 2014.
+^ Institutional investor, May 2008, p. 96-100.
+^ Point Carbon news
+^ The carbon market Fiona Harvey, FT April 27, 2007
+^ http://www.weforum.org/pdf/g8_climatechange.pdf
+^ List of climate leaders EPA December 12
+^ Defra, UK - Error page
+^ Tietenberg, Tom (1996). Environmental and Natural Resource Economics. Harper Collins. ISBN0-673-99472-4. Periodically a small proportion of allowances are auctioned off...Anyone, including environmental groups, can place a bid. Successful bidders acquire allowances for whatever purpose they see fit including "retiring" them so they cannot be used to legitimize emissions. Every retired ton of sulfur oxide allowances represents an authorized ton of pollution that will not be emitted. (p 387)
+^ "Strengthening the ETS". Climakind (www.climakind.com). 2010. Retrieved 2010-02-21.
+^ "About Sandbag". Sandbag (www.sandbag.org.uk). Retrieved 2010-08-03. ..by taking a permit out of the system we can reduce the amount of pollution taking place and force industry to invest in cleaner technologies. Every permit removed from the system means one less tonne of greenhouse gas in the atmosphere.
+^ "Cancelled permits". Sandbag (sandbag.org.uk). Archived from the original on November 30, 2009. Retrieved 2010-08-04. 2145 tonnes of CO2 have been cancelled on behalf of Sandbag members
+^ "Carbon Trade Watch".
+^ "Trading Carbon".
+^ "Carbon markets create a muddle". Financial Times. 2007-04-26. Retrieved 2009-04-03.
+^ Larry Lohmann: Uncertainty Markets and Carbon Markets. Variations on Polanyian Themes, New Political Economy, first published August 2009, abstract and full text
+^ Carbon-Credits System Tarnished by WikiLeaks Revelation
+^ Imminent EU proposals to clamp down on fridge gas scam
+^ Ray Barrell, Alan Barrett, Noel Casserly, Frank Convery, Jean Goggin, Ide Kearney, Simon Kirby, Pete Lunn, Martin OBrien and Lisa Ryan. 2009. Budget Perspectives, Tim Callan (ed.)
+^ a b Liverman, D.M. (2008). "Conventions of climate change: constructions of danger and the dispossession of the atmosphere" (PDF). Journal of Historical Geography. 35: 279. doi:10.1016/j.jhg.2008.08.008. Retrieved 2009-08-08.
+^ PBL (16 October 2009). "Industrialised countries will collectively meet 2010 Kyoto target". Netherlands Environmental Assessment Agency (PBL) website. Archived from the original on 2010-04-09. Retrieved 2010-04-26.
+^ "Carbon trading used as money-laundering front: experts" www.saigon-gpdaily.com.vn Archived August 28, 2010, at the Wayback Machine.
+^ I. Lippert. Enacting Environments: An Ethnography of the Digitalisation and Naturalisation of Emissions. University of Augsburg, 2013.
+External links[edit]
+C. Haug, M. Frerk and M. Santikarn: Towards a global price on carbon: Pathways for linking carbon pricing instruments. Berlin: adelphi 2015
+Emissions Trading Worldwide: International Carbon Action Partnership (ICAP) Status Report 2015
+"The Making of a Market-Minded Environmentalist", article by Fred Krupp in Strategy+Business (registration reqd) that articulates some of the reasoning and history behind emissions trading in California
+The Stern Review on the economics of climate change - Chapters 14 and 15 have extensive discussions on emission trading schemes and carbon taxes
+Carbon Trading - How it works and why it fails, published November 2009 by Dag Hammarskjld Foundation: A booklet on various Emissions Trading Schemes (CDM, REDD, ETS) with case studies from Indonesia, Brazil, Thailand and India.
+Chandler: More Flexibility Needed for Effective Emissions Cap-and-Trade Policy Council on Foreign Relations
+Green Structured Products are likely to Proliferate piece by Edmund Parker and Nicole Purin, Mayer Brown, published in Financial News, 3 December 2007
+Arnaud Brohe: Carbon Markets, Earthscan
+NewPP limit report
+Parsed by mw1235
+Cached time: 20161119024046
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.460 seconds
+Real time usage: 0.513 seconds
+Preprocessor visited node count: 3620/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 123388/2097152 bytes
+Template argument size: 5190/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 8/500
+Lua time usage: 0.254/10.000 seconds
+Lua memory usage: 5.79 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+449.281
+1 - -total
+50.31%
+226.019
+1 - Template:Reflist
+20.23%
+90.899
+23 - Template:Cite_web
+14.31%
+64.294
+10 - Template:Cite_book
+13.12%
+58.967
+6 - Template:Fix
+13.05%
+58.642
+12 - Template:Delink
+11.93%
+53.584
+6 - Template:Clarify
+10.36%
+46.542
+6 - Template:Fix-span
+7.55%
+33.939
+1 - Template:Merge_from
+6.52%
+29.309
+20 - Template:Category_handler
+Saved in parser cache with key enwiki:pcache:idhash:15532928-0!*!0!!en!4!* and timestamp 20161119024046 and revision id 750329304
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Carbon_emission_trading&oldid=750329304"
+Categories: Climate change policyEmissions tradingCarbon financeHidden categories: CS1 errors: external linksPages using citations with accessdate and no URLWebarchive template wayback linksArticles to be merged from March 2015All articles to be mergedAll articles with unsourced statementsArticles with unsourced statements from April 2014Wikipedia articles needing clarification from July 2009Articles with unsourced statements from July 2009All articles with failed verificationArticles with failed verification from July 2009Articles needing POV-check from October 2014All NPOV disputesArticles needing more detailed referencesWikipedia articles needing clarification from April 2010All Wikipedia articles needing clarification

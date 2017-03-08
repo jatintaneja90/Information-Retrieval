@@ -1,0 +1,562 @@
+Biochar
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+A piece of biochar.
+Biochar is charcoal used as a soil amendment. Like most charcoal, biochar is made from biomass via pyrolysis. Biochar is under investigation as an approach to carbon sequestration to produce negative carbon dioxide emissions.[1] Biochar thus has the potential to help mitigate climate change via carbon sequestration.[2][3] Independently, biochar can increase soil fertility of acidic soils (low pH soils), increase agricultural productivity, and provide protection against some foliar and soil-borne diseases.[4] Furthermore, biochar reduces pressure on forests.[5] Biochar is a stable solid, rich in carbon, and can endure in soil for thousands of years.[1]
+Contents
+1 History
+2 Production
+2.1 Centralized, decentralized, and mobile systems
+2.2 Thermo-catalytic depolymerization
+3 Uses
+3.1 Carbon sink
+3.2 Soil amendment
+3.3 Slash-and-char
+3.4 Water retention
+3.5 Energy production: Bio-oil and Syngas
+4 Direct and indirect benefits
+5 Research
+6 Emerging commercial sector
+7 See also
+8 Notes
+9 References
+10 External links
+History[edit]
+Pre-Columbian Amazonians are believed to have used biochar to enhance soil productivity. They produced it by smoldering agricultural waste (i.e., covering burning biomass with soil)[6] in pits or trenches.[7] European settlers called it terra preta de Indio.[8] Following observations and experiments, a research team working in French Guiana hypothesized that the Amazonian earthworm Pontoscolex corethrurus was the main agent of fine powdering and incorporation of charcoal debris to the mineral soil.[9]
+The term biochar was coined by Peter Read to describe charcoal used as a soil improvement.[10]
+Production[edit]
+Biochar is a high-carbon, fine-grained residue that today is produced through modern pyrolysis processes, which is the direct thermal decomposition of biomass in the absence of oxygen, which prevents combustion, to obtain an array of solid (biochar), liquid (bio-oil), and gas (syngas) products. The specific yield from the pyrolysis is dependent on process conditions. such as temperature, and can be optimized to produce either energy or biochar.[11] Temperatures of 400500C (752932F) produce more char, while temperatures above 700C (1,292F) favor the yield of liquid and gas fuel components.[12] Pyrolysis occurs more quickly at the higher temperatures, typically requiring seconds instead of hours. High temperature pyrolysis is also known as gasification, and produces primarily syngas.[12] Typical yields are 60% bio-oil, 20% biochar, and 20% syngas. By comparison, slow pyrolysis can produce substantially more char (~50%). Once initialized, both processes produce net energy. For typical inputs, the energy required to run a fast pyrolyzer is approximately 15% of the energy that it outputs.[13] Modern pyrolysis plants can use the syngas created by the pyrolysis process and output 39 times the amount of energy required to run.[7]
+The Amazonian pit/trench method[7] harvests neither bio-oil nor syngas, and releases a large amount of CO2, black carbon, and other greenhouse gases (GHG)s (and potentially, toxins) into the air. Commercial-scale systems process agricultural waste, paper byproducts, and even municipal waste and typically eliminate these side effects by capturing and using the liquid and gas products.
+Centralized, decentralized, and mobile systems[edit]
+In a centralized system, all biomass in a region is brought to a central plant for processing. Alternatively, each farmer or group of farmers can operate a lower-tech kiln. Finally, a truck equipped with a pyrolyzer can move from place to place to pyrolyze biomass. Vehicle power comes from the syngas stream, while the biochar remains on the farm. The biofuel is sent to a refinery or storage site. Factors that influence the choice of system type include the cost of transportation of the liquid and solid byproducts, the amount of material to be processed, and the ability to feed directly into the power grid.
+For crops that are not exclusively for biochar production, the residue-to-product ratio (RPR) and the collection factor (CF) the percent of the residue not used for other things, measure the approximate amount of feedstock that can be obtained for pyrolysis after harvesting the primary product. For instance, Brazil harvests approximately 460 million tons (MT) of sugarcane annually,[14] with an RPR of 0.30, and a CF of 0.70 for the sugarcane tops, which normally are burned in the field.[15] This translates into approximately 100 MT of residue annually, which could be pyrolyzed to create energy and soil additives. Adding in the bagasse (sugarcane waste) (RPR=0.29 CF=1.0), which is otherwise burned (inefficiently) in boilers, raises the total to 230 MT of pyrolysis feedstock. Some plant residue, however, must remain on the soil to avoid increased costs and emissions from nitrogen fertilizers.[16]
+Pyrolysis technologies for processing loose and leafy biomass produce both biochar and syngas.[17]
+Thermo-catalytic depolymerization[edit]
+Alternatively, "thermo-catalytic depolymerization", which utilizes microwaves, has recently been used to efficiently convert organic matter to biochar on an industrial scale, producing ~50% char.[18][19]
+Uses[edit]
+Carbon sink[edit]
+See also: Climate engineering
+The burning and natural decomposition of biomass and in particular agricultural waste adds large amounts of CO
+2 to the atmosphere. Biochar that is stable, fixed, and 'recalcitrant' carbon can store large amounts of greenhouse gases in the ground for centuries, potentially reducing or stalling the growth in atmospheric greenhouse gas levels; at the same time its presence in the earth can improve water quality, increase soil fertility, raise agricultural productivity, and reduce pressure on old-growth forests.[20]
+Biochar can sequester carbon in the soil for hundreds to thousands of years, like coal.[21][22][23][24][25] Such a carbon-negative technology would lead to a net withdrawal of CO2 from the atmosphere, while producing and consuming energy. This technique is advocated by prominent scientists such as James Hansen, head of the NASA Goddard Institute for Space Studies,[26] and James Lovelock, creator of the Gaia hypothesis, for mitigation of global warming by greenhouse gas remediation.[27]
+Researchers have estimated that sustainable use of biocharring could reduce the global net emissions of carbon dioxide (CO
+2), methane, and nitrous oxide by up to 1.8Pg CO
+2-C equivalent (CO
+2-Ce) per year (12% of current anthropogenic CO
+2-Ce emissions; 1Pg=1Gt), and total net emissions over the course of the next century by 130Pg CO
+2-Ce, without endangering food security, habitat, or soil conservation.[28]
+Soil amendment[edit]
+Biochar is recognised as offering a number of benefits for soil health. Many benefits are related to the extremely porous nature of biochar. This structure is found to be very effective at retaining both water and water-soluble nutrients. Soil biologist Elaine Ingham indicates[29] the extreme suitability of biochar as a habitat for many beneficial soil micro organisms. She points out that when pre charged with these beneficial organisms biochar becomes an extremely effective soil amendment promoting good soil, and in turn plant, health.
+Biochar has also been shown to reduce leaching of E-coli through sandy soils depending on application rate, feedstock, pyrolysis temperature, soil moisture content, soil texture, and surface properties of the bacteria.[30][31][32]
+For plants that require high potash and elevated pH,[33] biochar can be used as a soil amendment to improve yield.
+Biochar can improve water quality, reduce soil emissions of greenhouse gases, reduce nutrient leaching, reduce soil acidity, and reduce irrigation and fertilizer requirements.[34] Biochar was also found under certain circumstances to induce plant systemic responses to foliar fungal diseases and to improve plant responses to diseases caused by soilborne pathogens.[35][36][37]
+The various impacts of biochar can be dependent on the properties of the biochar,[38] as well as the amount applied,[37] and there is still a lack of knowledge about the important mechanisms and properties.[39] Biochar impact may depend on regional conditions including soil type, soil condition (depleted or healthy), temperature, and humidity.[40] Modest additions of biochar to soil reduce nitrous oxide N
+2O emissions by up to 80% and eliminate methane emissions, which are both more potent greenhouse gases than CO2.[41]
+Studies have reported positive effects from biochar on crop production in degraded and nutrientpoor soils.[42] Biochar can be designed with specific qualities to target distinct properties of soils.[43] Biochar reduces leaching of critical nutrients, creates a higher crop uptake of nutrients, and provides greater soil availability of nutrients.[44] At 10% levels biochar reduced contaminant levels in plants by up to 80%, while reducing total chlordane and DDX content in the plants by 68 and 79%, respectively.[45] On the other hand, because of its high adsorption capacity, biochar may reduce the efficacy of soil applied pesticides that are needed for weed and pest control.[46][47] High-surface-area biochars may be particularly problematic in this regard; more research into the long-term effects of biochar addition to soil is needed.[46]
+Slash-and-char[edit]
+Switching from slash-and-burn to slash-and-char farming techniques in Brazil can decrease both deforestation of the Amazon basin and carbon dioxide emission, as well as increase crop yields. Slash-and-burn leaves only 3% of the carbon from the organic material in the soil.[48]
+Slash-and-char can keep up to 50% of the carbon in a highly stable form.[49] Returning the biochar into the soil rather than removing it all for energy production reduces the need for nitrogen fertilizers, thereby reducing cost and emissions from fertilizer production and transport.[50] Additionally, by improving the soil's ability to be tilled, fertility, and productivity, biocharenhanced soils can indefinitely sustain agricultural production, whereas non-enriched soils quickly become depleted of nutrients, forcing farmers to abandon the fields, producing a continuous slash and burn cycle and the continued loss of tropical rainforest. Using pyrolysis to produce bio-energy also has the added benefit of not requiring infrastructure changes the way processing biomass for cellulosic ethanol does. Additionally, the biochar produced can be applied by the currently used machinery for tilling the soil or equipment used to apply fertilizer.[51]
+Water retention[edit]
+Biochar is a desirable soil material in many locations due to its ability to attract and retain water. This is possible because of its porous structure and high surface area.[52] As a result, nutrients, phosphorus, and agrochemicals are retained for the plants benefit. Plants therefore, are healthier and fertilizers leach less into surface or groundwater.
+Energy production: Bio-oil and Syngas[edit]
+Main article: Biofuel
+Mobile pyrolysis units can be used to lower the costs of transportation of the biomass if the biochar is returned to the soil and the syngas stream is used to power the process.[53][54] Bio-oil contains organic acids that are corrosive to steel containers, has a high water vapor content that is detrimental to ignition, and, unless carefully cleaned, contains some biochar particles which can block injectors.[55]
+If biochar is used for the production of energy rather than as a soil amendment, it can be directly substituted for any application that uses coal. Pyrolysis also may be the most cost-effective way of electricity generation from biomaterial.[56]
+Direct and indirect benefits[edit]
+The pyrolysis of forest- or agriculture-derived biomass residue generates a biofuel without competition with crop production.
+Biochar is a pyrolysis byproduct that may be ploughed into soils in crop fields to enhance their fertility and stability, and for medium- to long-term carbon sequestration in these soils.
+Biochar enhances the natural process: the biosphere captures CO
+2, especially through plant production, but only a small portion is stably sequestered for a relatively long time (soil, wood, etc.).
+Biomass production to obtain biofuels and biochar for carbon sequestration in the soil is a carbon-negative process, i.e. more CO
+2 is removed from the atmosphere than released, thus enabling long-term sequestration.[57]
+Research[edit]
+Intensive research into manifold aspects involving the pyrolysis/biochar platform is underway around the world. From 2005 to 2012, there were 1,038 articles that included the word biochar or bio-char in the topic that had been indexed in the ISI Web of Science.[58] Further research is in progress by such diverse institutions around the world as Cornell University, the University of Edinburgh, which has a dedicated research unit.,[59] and the Agricultural Research Organization (ARO) of Israel, Volcani Center, where a network of researchers involved in biochar research (iBRN, Israel Biochar Researchers Network) was established as early as 2009.
+Students at Stevens Institute of Technology in New Jersey are developing supercapacitors that use electrodes made of biochar.[60] A process developed by University of Florida researchers that removes phosphate from water, also yields methane gas usable as fuel and phosphate-laden carbon suitable for enriching soil.[61]
+Emerging commercial sector[edit]
+Calculations suggest that emissions reductions can be 12 to 84% greater if biochar is put back into the soil instead of being burned to offset fossil-fuel use. Thus biochar sequestration offers the chance to turn bioenergy into a carbon-negative industry.[62]
+Johannes Lehmann, of Cornell University, estimates that pyrolysis can be cost-effective for a combination of sequestration and energy production when the cost of a CO
+2 ton reaches $37.[62] As of mid-February 2010, CO
+2 is trading at $16.82/ton on the European Climate Exchange (ECX), so using pyrolysis for bioenergy production may be feasible even if it is more expensive than fossil fuel.
+Current biochar projects make no significant impact on the overall global carbon budget, although expansion of this technique has been advocated as a geoengineering approach.[63] In May 2009, the Biochar Fund received a grant from the Congo Basin Forest Fund for a project in Central Africa to simultaneously slow down deforestation, increase the food security of rural communities, provide renewable energy and sequester carbon.[citation needed]
+Application rates of 2.520 tonnes per hectare (1.08.1t/acre) appear to be required to produce significant improvements in plant yields. Biochar costs in developed countries vary from $3007000/tonne, generally too high for the farmer/horticulturalist and prohibitive for low-input field crops. In developing countries, constraints on agricultural biochar relate more to biomass availability and production time. An alternative is to use small amounts of biochar in lower cost biochar-fertilizer complexes.[64]
+Various companies in North America, Australia, and England sell biochar or biochar production units.[citation needed] In Sweden the 'Stockholm Solution' is an urban tree planting system that uses 30% biochar to support healthy growth of the urban forest. The Qatar Aspire Park now uses biochar to help trees cope with the intense heat of their summers.
+At the 2009 International Biochar Conference, a mobile pyrolysis unit with a specified intake of 1,000 pounds (450kg) was introduced for agricultural applications. The unit had a length of 12 feet and height of 7 feet (3.6 m by 2.1m).[65]
+A production unit in Dunlap, Tennessee by Mantria Corporation opened in August 2009 after testing and an initial run, was later shut down as part of a Ponzi scheme investigation.[66]
+See also[edit]
+Sustainable development portal
+Ecology portal
+Activated carbon
+Charring
+Pellet fuel
+Soil carbon
+Soil ecology
+Notes[edit]
+^ a b Lean, Geoffrey (7 December 2008). "Ancient skills 'could reverse global warming'". The Independent. Archived from the original on 13 September 2011. Retrieved 1 October 2011.
+^ "Geoengineering the climate: science, governance and uncertainty". The Royal Society. 2009. Retrieved 22 August 2010.
+^ Dominic Woolf, James E. Amonette, F. Alayne Street-Perrott, Johannes Lehmann, Stephen Joseph (August 2010). "Sustainable biochar to mitigate global climate change". Nature Communications. 1 (5): 19. Bibcode:2010NatCo...1E..56W. doi:10.1038/ncomms1053. ISSN2041-1723. CS1 maint: Uses authors parameter (link)
+^ "Slash and Char". Retrieved 19 September 2014.
+^ Benoit Anthony Ndameu (November 2011). "Biochar Fund Trials in Cameroon: Hype and Unfulfilled Promises" (PDF). Biofuelwatch. Retrieved 19 October 2012.
+^ Solomon, Dawit, Johannes Lehmann, Janice Thies, Thorsten Schafer, Biqing Liang, James Kinyangi, Eduardo Neves, James Petersen, Flavio Luizao, and Jan Skjemstad, Molecular signature and sources of biochemical recalcitrance of organic carbone in Amazonian Dark Earths, 71 Geochemica et cosmochemica ACTA 2285, 2286 (2007) ("Amazonian Dark Earths (ADE) are a unique type of soils apparently developed between 500 and 9000 years B.P. through intense anthropogenic activities such as biomass-burning and high-intensity nutrient depositions on pre-Columbian Amerindian settlements that transformed the original soils into Fimic Anthrosols throughout the Brazilian Amazon Basin.") (internal citations omitted)
+^ a b c Lehmann 2007a, pp.381387 To date, scientists have been unable to completely reproduce the beneficial growth properties of terra preta. It is hypothesized that part of the alleged benefits of terra preta require the biochar to be aged so that it increases the cation exchange capacity of the soil, among other possible effects. In fact, there is no evidence natives made biochar for soil treatment, but really for transportable fuel charcoal. Abandoned or forgotten charcoal pits left for centuries were eventually reclaimed by the forest. In that time the harsh negative effects of the char (high pH, extreme ash content, salinity) had worn off and turned to positive as the forest soil ecosystem saturated the charcoals with nutrients. supra note 2 at 386 ("Only aged biochar shows high cation retention, as in Amazonian Dark Earths. At high temperatures (3070C), cation retention occurs within a few months. The production method that would attain high CEC in soil in cold climates is not currently known.") (internal citations omitted).
+^ Glaser, Lehmann & Zech 2002, pp.219220 "These so-called Terra Preta do Indio (Terra Preta) characterize the settlements of pre-Columbian Indios. In Terra Preta soils large amounts of black C indicate a high and prolonged input of carbonized organic matter probably due to the production of charcoal in hearths, whereas only low amounts of charcoal are added to soils as a result of forest fires and slash-and-burn techniques." (internal citations omitted)
+^ Jean-Franois Ponge; Stphanie Topoliantz; Sylvain Ballof; Jean-Pierre Rossi; Patrick Lavelle; Jean-Marie Betsch; Philippe Gaucher (2006). "Ingestion of charcoal by the Amazonian earthworm Pontoscolex corethrurus: a potential for tropical soil fertility" (PDF). Soil Biology and Biochemistry. 38 (7): 20082009. doi:10.1016/j.soilbio.2005.12.024.
+^ Read, Peter (27 March 2009). "This gift of nature is the best way to save us from climate catastrophe. Biochar schemes would remove carbon from the atmosphere and increase food supply, says Peter Read". Guardian. London.
+^ Gaunt & Lehmann 2008, pp.4152, 4155 ("Assuming that the energy in syngas is converted to electricity with an efficiency of 35%, the recovery in the life cycle energy balance ranges from 92 to 274kg (203 to 604lb) CO2 MW-1 of electricity generated where the pyrolysis process is optimized for energy and 120 to 360 kilograms (790lb) CO2MW-1 where biochar is applied to land. This compares to emissions of 600900 kilograms (1,3002,000lb) CO
+2MW-1 for fossil-fuel-based technologies.)
+^ a b Winsley, Peter (2007). "Biochar and bioenergy production for climate change mitigation". New Zealand Science Review. 64. (See Table 1 for differences in output for Fast, Intermediate, Slow, and Gasification).
+^ Laird 2008, pp.100, 178181 "The energy required to operate a fast pyrolyzer is 15% of the total energy that can be derived from the dry biomass. Modern systems are designed to use the syngas generated by the pyrolyzer to provide all the energy needs of the pyrolyzer."
+^ "Production Quantity Of Sugar Cane In Brazil In 2006". FAOSTAT. 2006. Retrieved 1 July 2008.
+^ Perera, K.K.C.K., P.G. Rathnasiri, S.A.S. Senarath, A.G.T. Sugathapala, S.C. Bhattacharya, and P. Abdul Salam, Assessment of sustainable energy potential of non-plantation biomass resources in Sri Lanka, 29 Biomass & Bioenergy 199, 204 (2005) (showing RPRs for numerous plants, describing method for determining available agricultural waste for energy and char production).
+^ Laird 2008, pp.179 "Much of the current scientific debate on the harvesting of biomass for bioenergy is focused on how much can be harvested without doing too much damage."
+^ Jorapur, Rajeev; Rajvanshi, Anil K. (1997). "Sugarcane leaf-bagasse gasifier for industrial heating applications". Biomass and Bioenergy. 13 (3): 141. doi:10.1016/S0961-9534(97)00014-7.
+^ Karagz, Selhan; Bhaskar, Thallada; Muto, Akinori; Sakata, Yusaku; Oshiki, Toshiyuki; Kishimoto, Tamiya (1 April 2005). "Low-temperature catalytic hydrothermal treatment of wood biomass: analysis of liquid products". Chemical Engineering Journal. 108 (12): 127137. doi:10.1016/j.cej.2005.01.007. ISSN1385-8947. Retrieved 23 September 2011.
+^ Jha, Alok (13 March 2009). "'Biochar' goes industrial with giant microwaves to lock carbon in charcoal". The Guardian. Retrieved 23 September 2011.
+^ Laird 2008, pp.100, 178181
+^ Lehmann, Johannes. "Terra Preta de Indio". Soil Biochemistry (internal citations omitted). Not only do biochar-enriched soils contain more carbon - 150gC/kg compared to 20-30gC/kg in surrounding soils - but biochar-enriched soils are, on average, more than twice as deep as surrounding soils.[citation needed]
+^ Lehmann 2007b "this sequestration can be taken a step further by heating the plant biomass without oxygen (a process known as low-temperature pyrolysis)."
+^ Lehmann 2007a, pp.381, 385 "pyrolysis produces 39 times more energy than is invested in generating the energy. At the same time, about half of the carbon can be sequestered in soil. The total carbon stored in these soils can be one order of magnitude higher than adjacent soils.
+^ Winsley, Peter (2007). "Biochar and Bioenergy Production for Climate Change Mitigation" (PDF). New Zealand Science Review. 64 (5): 5.
+^ Kern, Dirse C. (915 July 2006). "New Dark Earth Experiment in the Tailandia City  Para-Brazil: The Dream of Wim Sombroek". 18th World Congress of Soil Science.
+^ Hamilton, Tyler (22 June 2009). "Sole option is to adapt, climate author says". The Star. Toronto.
+^ Vince 2009
+^ "Sustainable biochar to mitigate global climate change". Nature Communications. 2010.
+^ Ingham, Elaine with Elaine Ingham,(2015)
+^ Bolster, C.H., and Abit, S.M. (2012) Biochar pyrolyzed at two temperatures affects Escherichia coli transport through a sandy soil. Journal of Environmental Quality 41:124-133
+^ Abit, S.M., Bolster, C.H., Cai, P., and Walker, S.L. (2012) Influence of feedstock and pyrolysis temperature of biochar amendments on transport of Escherichia coli in saturated and unsaturated soil. Environmental Science and Technology 46:8097-8105
+^ Abit, S.M., Bolster, C.H., Cantrell, K.B., Flores, J.Q., and Walker, S.L. (2014) Transport of Escherichia coli, Salmonella typhimurium, and microspheres in biochar-amended soils with different textures. Journal of Environmental Quality 43:371-378
+^ Lehmann, Johannes, and Jose Pereira da Silva Jr., Christoph Steiner, Thomas Nehls, Wolfgang Zech, & Bruno Glaser, Nutrient availability and leaching in an archaeological Anthrosol and a Ferralsol of the Central Amazon basin: fertilizer, manure and charcoal amendments, 249 Plant & Soil 343, 355 (2003)
+^ Supra note 6; Day, Danny, Robert J. Evans, James W. Lee, and Don Reicosky, Economical CO
+2, SO
+x, and NO
+x capture from fossil-fuel utilization with combined renewable hydrogen production and large-scale carbon sequestration, 30 Energy 2558, 2560
+^ Elad, Y., Rav David, D., Meller Harel, Y., Borenshtein, M. , Kalifa Hananel, B., Silber, A., and Graber, E.R. (2010) Induction of systemic resistance in plants by biochar, a soil-applied carbon sequestering agent. Phytopathology 100, 913-921
+^ Meller Harel, Y., Elad, Y., Rav David, D., Borenstein, M., Schulcani, R., Lew, B., Graber, E.R. (2012) Biochar mediates systemic response of strawberry to foliar fungal pathogens. Plant and Soil, 357:245-257
+^ a b Jaiswal, A.K., Elad, Y., Graber, E.R., Frenkel, O. (2014). Rhizoctonia solani suppression and plant growth promotion in cucumber as affected by biochar pyrolysis temperature, feedstock and concentration. Soil Biology and Biochemistry, 69: 110-118
+^ Silber, A., Levkovitch, I., Graber, E. R. (2010) pH-dependent mineral release and surface properties of cornstraw biochar: Agronomic implications. Environmental Science & Technology 44: 9318-9323
+^ Glaser, Lehmann & Zech 2002, pp.224 note 7 "Three main factors influence the properties of charcoal: (1) the type of organic matter used for charring, (2) the charring environment (e.g. temperature, air), and (3) additions during the charring process. The source of charcoal material strongly influences the direct effects of charcoal amendments on nutrient contents and availability."
+^ Dr. Wardle points out that plant growth has been observed in tropical (depleted) soils by referencing Lehmann, but that in the boreal (high native soil organic matter content) forest this experiment was run in, it accelerated the native soil organic matter loss. Wardle, supra note 18. ("Although several studies have recognized the potential of black C for enhancing ecosystem carbone sequestration, our results show that these effects can be partially offset by its capacity to stimulate loss of native soil C, at least for boreal forests.") (internal citations omitted) (emphasis added).
+^ Lehmann 2007a, pp.note 3 at 384 "In greenhouse experiments, NOx emissions were reduced by 80% and methane emissions were completely suppressed with biochar additions of 20 g kg-1 (2%) to a forage grass stand."
+^ "Biochar fact sheet". www.csiro.au. Retrieved 2 September 2016.
+^ Novak, Jeff. Development of Designer Biochar to Remediate Specific Chemical and Physical Aspects of Degraded Soils. Proc. of North American Biochar Conference 2009, University of Colorado at Boulder. Florence: U.S. Department of Agriculture, 2009. 1-16. Print
+^ Julie, Major, Johannes Lehmann, Macro Rondon, and Susan J. Riha. Nutrient Leaching below the Rooting Zone Is Reduced by Biochar, the Hydrology of a Columbian Savanna Oxisol Is Unaffected. Proc. of North American Biochar Conference 2009, University of Colorado at Boulder. Ithaca: Cornell University Department of Crop and Soil Sciences, 2009. Print.
+^ Elmer, Wade, Jason C. White, and Joseph J. Pignatello. Impact of Biochar Addition to Soil on the Bioavailability of Chemicals Important in Agriculture. Rep. New Haven: University of Connecticut, 2009. Print.
+^ a b Graber, E.R., Tsechansky, L., Gerstl, Z., Lew, B. (2011) High surface area biochar negatively impacts herbicide efficacy. Plant and Soil, 353:95-106
+^ Graber, E.R., Tsechansky, L., Khanukov, J., Oka, Y. (2011) Sorption, volatilization and efficacy of the fumigant 1,3-dichloropropene in a biochar-amended soil. Soil Science Society of America Journal. 75(4) 1365-1373
+^ Glaser, Lehmann & Zech 2002, pp.note 7 at 225 "The published data average at about 3% charcoal formation of the original biomass C."
+^ Biochar Sequestration In Terrestrial Ecosystems  A Review, by Johannes Lehmann, John Gaunt, and Marco Rondon. Mitigation and Adaptation Strategies for Global change 403, 404 (2006). supra note 11 at 407 ("If this woody above ground biomass were converted into biochar by means of simple kiln techniques and applied to soil, more than 50% of this carbon would be sequestered in a highly stable form.")
+^ Gaunt & Lehmann 2008, pp.4152 note 3 ("This results in increased crop yields in low-input agriculture and increased crop yield per unit of fertilizer applied (fertilizer efficiency) in high-input agriculture as well as reductions in off-site effects such as runoff, erosion, and gaseous losses.")
+^ Lehmann 2007b, pp.note 9 at 143 "It can be mixed with manures or fertilizers and included in no-tillage methods, without the need for additional equipment."
+^ Terra Pretas: Charcoal Amendments Influence on Relict Soils and Modern Agriculture
+^ Badger & Fransham 2006, pp.322
+^ Michael Jacobson, Cedric Briens and Franco Berruti, "Lift tube technology for increasing heat transfer in an annular pyrolysis reactor", CFB9, Hamburg, Germany, 1316 May 2008.
+^ Yaman, Serdar, pyrolysis of biomass to produce fuels and chemical feedstocks, 45 Energy Conversion & MGMT 651, 659 (2003).
+^ Bridgwater, A. V., A.J. Toft, and J.G. Brammer, A techno-economic comparison of power production by biomass fast pyrolysis with gasification and combustion, 6 Renewable & Sustainable Energy Rev. 181, 231 ("the fast pyrolysis and diesel engine system is clearly the most economic of the novel systems at scales up to 15 MWe")
+^ Cornet A., Escadafal R., 2009. Is biochar "green"? CSFD Viewpoint. Montpellier, France. 8 pp.
+^ Verheijen, F.G.A., Graber, E.R., Ameloot, N., Bastos, A.C., Sohi, S. and Knicker, H. 2014. Biochars in soils: new insights and emerging research needs. Eur. J. Soil Science, 65: 22-27. DOI: 10.1111/ejss.12127.
+^ "Can Biochar save the planet?". University of Edinburgh. Retrieved 10 March 2009.
+^ "A Cheaper, Greener Material for Supercapacitors". Stevens Institute of Technology. 2011. Retrieved 25 May 2011.
+^ "Biochar" More Effective, Cheaper at Removing Phosphate from Water". University of Florida. 2011. Retrieved 18 May 2011.
+^ a b Lehmann 2007b, pp.143, 144.
+^ Ananthaswamy, Anil, Microwave factory to act as carbon sink, NEW SCIENTIST, 1 October (2008) ("Retrieved on 12 December 2008)
+Biochar: Is the hype justified? By Roger Harrabin - Environment analyst, (09:20 GMT, Monday, 16 March 2009) BBC News
+^ Joseph, S., Graber, E.R., Chia, C., Munroe, P., Donne, S., Thomas, T., Nielsen, S., Marjo, C., Rutlidge, H., Pan, GX., Li, L., Taylor, P., Rawal, A., Hook, J. (2013). Shifting Paradigms on Biochar: Micro/Nano-structures and Soluble Components are Responsible for its Plant-Growth Promoting Ability. Carbon Management 4:323-343
+^ Austin, Anna (October 2009). "A New Climate Change Mitigation Tool". Biomass Magazine. BBI International. Retrieved 30 October 2009.
+^ Blumenthal, Jeff (17 November 2009). "Wragg, Knorr ordered to halt Mantria operations". Philadelphia Business Journal.
+References[edit]
+Badger, Phillip C.; Fransham, Peter (2006). "Use of mobile fast pyrolysis plants to densify biomass and reduce biomass handling costsA preliminary assessment". Biomass & Bioenergy. 30.
+Biederman, Lori A.; W. Stanley Harpole (2011). "Biochar and Managed Perennial Ecosystems". Iowa State Research Farm Progress Reports. Retrieved February 12, 2013.
+Brewer, Catherine (2012). Biochar Characterization and Engineering (dissertation). Iowa State University. Retrieved February 12, 2013.
+Gaunt, John L.; Lehmann, Johannes (2008). "Energy Balance and Emissions Associated with Biochar Sequestration and pyrolysis Bioenergy Production". Environmental Sciences & Technologies. 42 (11): 4152. Bibcode:2008EnST...42.4152G. doi:10.1021/es071361i.
+Glaser, Bruno; Lehmann, Johannes; Zech, Wolfgang (2002). "Ameliorating physical and chemical properties of highly weathered soils in the tropics with charcoal  a review". Biology and Fertility of Soils. 35.
+Laird, David A. (2008). "The Charcoal Vision: A WinWinWin Scenario for Simultaneously Producing Bioenergy, Permanently Sequestering Carbon, while Improving Soil and Water Quality". Journal of Agronomy.
+Lehmann, Johannes (2007a). "Bio-energy in the black" (PDF). Front Ecol Environ. 5 (7). Retrieved 1 October 2011.
+Lehmann, Johannes (2007b). "A handful of carbon". Nature. 447 (7141). Bibcode:2007Natur.447..143L. doi:10.1038/447143a. Retrieved 11 January 2008.
+Lehmann, J.; Gaunt, John; Rondon, Marco; et al. (2006). "Bio-char Sequestration in Terrestrial Ecosystems  A Review" (PDF). Mitigation and Adaptation Strategies for Global Change. 11 (2): 395427. doi:10.1007/s11027-005-9006-5.
+Nakka, S. B. R. (2011) "Sustainability of biochar systems in developing countries", Published in IBI
+Vince, Gaia (3 January 2009). "One last chance to save mankind" (2692). New Scientist.
+Woolf, Dominic, James E. Amonette, F. Alayne Street-Perrott, Johannes Lehmann, and Stephen Joseph. (2010). "Sustainable biochar to mitigate global climate change," Nature Communications 1 (5): 1-9. Available: http://www.nature.com/ncomms/journal/v1/n5/pdf/ncomms1053.pdf.
+Graber, E.R. and Elad, Y. (2013) Biochar Impact on Plant Resistance to Disease. Chapter 2, In Biochar and Soil Biota, Ed. Natalia Ladygina, CRC Press, Boca Raton, Florida, pp.4168
+Ameloot, N., Graber, E.R., Verheijen, F., De Neve, S. (2013). Effect of soil organisms on biochar stability in soil: Review and research needs. Eur. J. Soil Science, 64: 379-390
+Jeffery, S., Verheijen, F.G.A., van der Velde, M., Bastos, A.C. 2011. A quantitative review of the effects of biochar application to soils on crop productivity using meta-analysis. Agriculture, Ecosystems and the Environment, v. 144: 175-187
+External links[edit]
+International Biochar Initiative
+Biochar.org
+v
+t
+e
+Forestry
+Outline
+Index
+Forest areas
+Ministries
+Research institutes
+Colleges
+Journals
+Arbor Day
+Types
+Agroforestry(dehesa)
+Analog forestry
+Bamboo forestry
+Close to nature forestry
+Community forestry
+Ecoforestry
+Energy forestry
+Mycoforestry
+Permaforestry
+Plantation forestry
+Social forestry
+Sustainable forestry
+Urban forestry
+World forestry
+Ecology and
+management
+Afforestation
+Arboriculture
+Controlled burn
+Dendrology
+Ecological thinning
+Even-aged management
+Fire ecology
+Forest
+informatics
+IPM
+inventory
+governance
+law
+old-growth
+pathology
+protection
+restoration
+secondary
+transition
+Forest certification
+ATFS
+CFS
+FSC
+PEFC
+SFI
+SmartWood
+Woodland Carbon Code
+Growth and yield modelling
+Horticulture(GM trees)
+i-Tree
+Reforestation(urban)
+Silviculture
+Sustainable management
+Tree
+allometry
+breeding
+Tree measurement
+crown
+girth
+height
+volume
+Environmental
+topics
+Acid rain
+Carbon sequestration
+Clearcutting
+Deforestation
+Ecological services
+Forest dieback
+Forest fragmentation
+High grading
+Illegal logging
+Invasive species
+REDD
+Shifting cultivation
+chitemene
+slash-and-burn
+slash-and-char
+svedjebruk
+Timber recycling
+Wildfire
+Wilding
+Industries
+Coppicing
+Forest farming
+Forest gardening
+Logging
+Manufacturing
+lumber
+plywood
+pulp and paper
+sawmilling
+Products
+biochar
+biomass
+charcoal
+non-timber
+palm oil
+rayon
+rubber
+tanbark
+Rail transport
+Tree farms(Christmas trees)
+Wood
+engineered
+fuel
+mahogany
+teak
+Woodworking
+Occupations
+Forester
+Arborist
+Bucker
+Choker setter
+Ecologist
+Feller
+Firefighter
+handcrew
+hotshot
+lookout
+smokejumper
+River driver
+Truck driver
+Log scaler
+Lumberjack
+Ranger
+Resin tapper
+Rubber tapper
+Shingle weaver
+Timber cruiser
+Tree planter
+Wood process engineer
+Forestry portal
+WikiProject
+Commons
+Category
+by continent
+by country
+education
+events
+history
+initiatives
+lists
+organizations
+tools
+equipment
+v
+t
+e
+Wood products
+Lumber/
+timber
+Batten
+Beam
+Bressummer
+Cruck
+Flitch beam
+Flooring
+Joist
+Lath
+Molding
+Panelling
+Plank
+Plate
+Post
+Purlin
+Rafter
+Railroad ties
+Reclaimed
+Shingle
+Siding
+Sill
+Stud
+Timber truss
+Treenail
+Truss
+Utility pole
+Engineered
+wood
+Glued laminated timber
+veneer
+LVL
+parallel strand
+I-joist
+Fiberboard
+hardboard
+Masonite
+MDF
+Oriented strand board
+Oriented structural straw board
+Particle board
+Plywood
+Structural insulated panel
+Wood-plastic composite
+lumber
+Fuelwood
+Charcoal
+biochar
+Firelog
+Firewood
+Pellet fuel
+Wood fuel
+Fibers
+Cardboard
+Corrugated fiberboard
+Paper
+Paperboard
+Pulp
+Pulpwood
+Rayon
+Derivatives
+Birch-tar
+Cellulose
+nano
+Hemicellulose
+Cellulosic ethanol
+Dyes
+Lignin
+Lye
+Methanol
+Pyroligneous acid
+Pine tar
+Pitch
+Sandalwood oil
+Tannin
+Wood gas
+By-products
+Barkdust
+Black liquor
+Ramial chipped wood
+Sawdust
+Tall oil
+Wood flour
+Wood wool
+Woodchips
+Historical
+Axe ties
+Clapboard
+Dugout canoe
+Potash
+Sawdust brandy
+Split-rail fence
+Tanbark
+Timber framing
+Wooden masts
+See also
+Biomass
+Certified wood
+Destructive distillation
+Dry distillation
+Engineered bamboo
+Forestry
+List of woods
+Mulch
+Non-timber forest products
+Papermaking
+Wood drying
+Wood preservation
+Wood processing
+Woodworking
+Forestry portal
+Trees portal
+Category
+Commons
+WikiProject Forestry
+v
+t
+e
+Deforestation and desertification
+Deforestation
+Assarting
+Deforestation
+Deforestation and climate change
+Deforestation by region
+Deforestation during the Roman period
+Illegal logging
+Mountaintop removal
+Slash-and-burn
+Slash-and-char
+Desertification
+Aridification
+Desertification
+Moisture recycling
+Soil retrogression and degradation
+Water scarcity
+Mitigation
+Afforestation
+Arid Lands Information Network
+Biochar
+Conservation grazing
+Desert greening
+Ecoforestry
+Ecological engineering
+Farmer-managed regeneration
+Flexible Mechanisms
+Great Green Wall (Africa)
+Managed intensive rotational grazing
+Oasification
+Reforestation
+Three-North Shelter Forest (China)
+Related articles
+Allan Savory
+Biodiversity
+Economic impact analysis
+Environmental philosophy
+Extinction
+Intact forest landscape
+International Year of Forests
+Land surface effects on climate
+Land use, land-use change and forestry
+Natural landscape
+Neolithic
+Richard St. Barbe Baker
+Satoyama
+Terraforming
+Terra preta
+Wilderness
+World Forestry Congress
+Authority control
+GND: 103216963X
+NewPP limit report
+Parsed by mw1270
+Cached time: 20161120013545
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.616 seconds
+Real time usage: 0.717 seconds
+Preprocessor visited node count: 4746/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 148270/2097152 bytes
+Template argument size: 4241/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Lua time usage: 0.281/10.000 seconds
+Lua memory usage: 7.73 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+577.054
+1 - -total
+37.49%
+216.323
+1 - Template:Reflist
+13.05%
+75.305
+3 - Template:Citation_needed
+11.98%
+69.119
+3 - Template:Fix
+11.87%
+68.477
+17 - Template:Cite_journal
+9.91%
+57.182
+7 - Template:Cite_news
+9.83%
+56.733
+7 - Template:Convert
+8.96%
+51.724
+3 - Template:Navbox
+8.61%
+49.661
+15 - Template:Chem
+7.20%
+41.561
+15 - Template:Chem/link
+Saved in parser cache with key enwiki:pcache:idhash:7041469-0!*!0!!en!4!* and timestamp 20161120013544 and revision id 749901679
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Biochar&oldid=749901679"
+Categories: CharcoalEnvironmental soil scienceSoil improversWildfire ecologyHidden categories: CS1 maint: Uses authors parameterAll articles with unsourced statementsArticles with unsourced statements from August 2011Articles with unsourced statements from April 2014Articles with unsourced statements from November 2011Use dmy dates from October 2012Wikipedia articles with GND identifiers

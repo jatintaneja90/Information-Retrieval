@@ -1,0 +1,551 @@
+Biogas
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Pipes carrying biogas (foreground), natural gas and condensate
+Part of a series about
+Sustainable energy
+Energy conservation
+Cogeneration
+Efficient energy use
+Green building
+Heat pump
+Low-carbon power
+Microgeneration
+Passive solar building design
+Renewable energy
+Anaerobic digestion
+Geothermal
+Hydroelectricity
+Solar
+Tidal
+Wind
+Sustainable transport
+Carbon-neutral fuel
+Electric vehicle
+Fossil fuel phase-out
+Green vehicle
+Plug-in hybrid
+Sustainable development portal
+Renewable energy portal
+Environment portal
+v
+t
+e
+Biogas typically refers to a mixture of different gases produced by the breakdown of organic matter in the absence of oxygen. Biogas can be produced from raw materials such as agricultural waste, manure, municipal waste, plant material, sewage, green waste or food waste. Biogas is a renewable energy source and in many cases exerts a very small carbon footprint.
+Biogas can be produced by anaerobic digestion with anaerobic organisms, which digest material inside a closed system, or fermentation of biodegradable materials.[1]
+Biogas is primarily methane (CH
+4) and carbon dioxide (CO2) and may have small amounts of hydrogen sulfide (H
+2S), moisture and siloxanes. The gases methane, hydrogen, and carbon monoxide (CO) can be combusted or oxidized with oxygen. This energy release allows biogas to be used as a fuel; it can be used for any heating purpose, such as cooking. It can also be used in a gas engine to convert the energy in the gas into electricity and heat.[2]
+Biogas can be compressed, the same way natural gas is compressed to CNG, and used to power motor vehicles. In the UK, for example, biogas is estimated to have the potential to replace around 17% of vehicle fuel.[3] It qualifies for renewable energy subsidies in some parts of the world. Biogas can be cleaned and upgraded to natural gas standards, when it becomes bio-methane. Biogas is considered to be a renewable resource because its production-and-use cycle is continuous, and it generates no net carbon dioxide. Organic material grows, is converted and used and then regrows in a continually repeating cycle. From a carbon perspective, as much carbon dioxide is absorbed from the atmosphere in the growth of the primary bio-resource as is released when the material is ultimately converted to energy.
+Contents
+1 Production
+1.1 Dangers
+2 Landfill gas
+2.1 Technical
+3 Composition
+4 Benefits of manure derived biogas
+5 Applications
+5.1 Biogas upgrading
+5.2 Biogas gas-grid injection
+5.3 Biogas in transport
+5.4 Measuring in biogas environments
+6 Legislation
+6.1 European Union
+6.2 United States
+7 Global developments
+7.1 United States
+7.2 Europe
+7.3 UK
+7.4 Germany
+7.5 Indian Subcontinent
+7.6 China
+7.7 In developing nations
+8 Society and culture
+9 See also
+10 References
+11 Further reading
+12 External links
+Production[edit]
+Main article: Anaerobic digestion
+Biogas production in rural Germany
+Biogas is produced as landfill gas (LFG), which is produced by the breakdown of Biodegradable waste inside a landfill due to chemical reactions and microbes, or as digested gas, produced inside an anaerobic digester. A biogas plant is the name often given to an anaerobic digester that treats farm wastes or energy crops. It can be produced using anaerobic digesters (air-tight tanks with different configurations). These plants can be fed with energy crops such as maize silage or biodegradable wastes including sewage sludge and food waste. During the process, the microorganisms transform biomass waste into biogas (mainly methane and carbon dioxide) and digestate. The biogas is a renewable energy that can be used for heating, electricity, and many other operations that use a reciprocating internal combustion engine, such as GE Jenbacher or Caterpillar gas engines.[4] Other internal combustion engines such as gas turbines are suitable for the conversion of biogas into both electricity and heat. The digestate is the remaining inorganic matter that was not transformed into biogas. It can be used as an agricultural fertiliser.
+There are two key processes: mesophilic and thermophilic digestion which is dependent on temperature. In experimental work at University of Alaska Fairbanks, a 1000-litre digester using psychrophiles harvested from "mud from a frozen lake in Alaska" has produced 200300liters of methane per day, about 20%30% of the output from digesters in warmer climates.[5]
+Dangers[edit]
+The dangers of biogas are mostly similar to those of natural gas, but with an additional risk from the toxicity of its hydrogen sulfide fraction. Biogas can be explosive when mixed in the ratio of one part biogas to 8-20 parts air. Special safety precautions have to be taken for entering an empty biogas digester for maintenance work.
+It is important that a biogas system never has negative pressure as this could cause an explosion. Negative gas pressure can occur if too much gas is removed or leaked; Because of this biogas should not be used at pressures below one column inch of water, measured by a pressure gauge.
+Frequent smell checks must be performed on a biogas system. If biogas is smelled anywhere windows and doors should be opened immediately. If there is a fire the gas should be shut off at the gate valve of the biogas system.[6]
+Landfill gas[edit]
+Main article: Landfill gas
+Landfill gas is produced by wet organic waste decomposing under anaerobic conditions in a biogas.[7][8]
+The waste is covered and mechanically compressed by the weight of the material that is deposited above. This material prevents oxygen exposure thus allowing anaerobic microbes to thrive. This gas builds up and is slowly released into the atmosphere if the site has not been engineered to capture the gas. Landfill gas released in an uncontrolled way can be hazardous since it can become explosive when it escapes from the landfill and mixes with oxygen. The lower explosive limit is 5% methane and the upper is 15% methane.[9]
+The methane in biogas is 20 times more potent a greenhouse gas than carbon dioxide. Therefore, uncontained landfill gas, which escapes into the atmosphere may significantly contribute to the effects of global warming. In addition, volatile organic compounds (VOCs) in landfill gas contribute to the formation of photochemical smog.
+Technical[edit]
+Biochemical oxygen demand (BOD) is a measure of the amount of oxygen required by aerobic micro-organisms to decompose the organic matter in a sample of water. Knowing the energy density of the material being used in the biodigester as well as the BOD for the liquid discharge allows for the calculation of the daily energy output from a biodigester.
+Another term related to biodigesters is effluent dirtiness, which tells how much organic material there is per unit of biogas source. Typical units for this measure are in mg BOD/litre. As an example, effluent dirtiness can range between 8001200mg BOD/litre in Panama.[citation needed]
+From 1kg of decommissioned kitchen bio-waste, 0.45 m of biogas can be obtained. The price for collecting biological waste from households is approximately 70 per ton.[10]
+Composition[edit]
+Typical composition of biogas
+Compound
+Formula
+%
+Methane
+CH
+4
+5075
+Carbon dioxide
+CO
+2
+2550
+Nitrogen
+N
+2
+010
+Hydrogen
+H
+2
+01
+Hydrogen sulfide
+H
+2S
+03
+Oxygen
+O
+2
+00.5
+Source: www.kolumbus.fi, 2007[11]
+The composition of biogas varies depending upon the origin of the anaerobic digestion process. Landfill gas typically has methane concentrations around 50%. Advanced waste treatment technologies can produce biogas with 55%75% methane,[12] which for reactors with free liquids can be increased to 80%-90% methane using in-situ gas purification techniques.[13] As produced, biogas contains water vapor. The fractional volume of water vapor is a function of biogas temperature; correction of measured gas volume for water vapor content and thermal expansion is easily done via simple mathematics[14] which yields the standardized volume of dry biogas.
+In some cases, biogas contains siloxanes. They are formed from the anaerobic decomposition of materials commonly found in soaps and detergents. During combustion of biogas containing siloxanes, silicon is released and can combine with free oxygen or other elements in the combustion gas. Deposits are formed containing mostly silica (SiO
+2) or silicates (Si
+xO
+y) and can contain calcium, sulfur, zinc, phosphorus. Such white mineral deposits accumulate to a surface thickness of several millimeters and must be removed by chemical or mechanical means.
+Practical and cost-effective technologies to remove siloxanes and other biogas contaminants are available.[15]
+For 1000kg (wet weight) of input to a typical biodigester, total solids may be 30% of the wet weight while volatile suspended solids may be 90% of the total solids. Protein would be 20% of the volatile solids, carbohydrates would be 70% of the volatile solids, and finally fats would be 10% of the volatile solids.
+Benefits of manure derived biogas[edit]
+High levels of methane are produced when manure is stored under anaerobic conditions. During storage and when manure has been applied to the land, nitrous oxide is also produced as a byproduct of the denitrification process. Nitrous oxide (N2O) is 320 times more aggressive as a greenhouse gas than carbon dioxide[16] and methane 25 times more than carbon dioxide.[17]
+By converting cow manure into methane biogas via anaerobic digestion, the millions of cattle in the United States would be able to produce 100 billion kilowatt hours of electricity, enough to power millions of homes across the United States. In fact, one cow can produce enough manure in one day to generate 3 kilowatt hours of electricity; only 2.4 kilowatt hours of electricity are needed to power a single 100-watt light bulb for one day.[18] Furthermore, by converting cattle manure into methane biogas instead of letting it decompose, global warming gases could be reduced by 99 million metric tons or 4%.[19]
+Applications[edit]
+A biogas bus in Linkping, Sweden
+Biogas can be used for electricity production on sewage works,[20] in a CHP gas engine, where the waste heat from the engine is conveniently used for heating the digester; cooking; space heating; water heating; and process heating. If compressed, it can replace compressed natural gas for use in vehicles, where it can fuel an internal combustion engine or fuel cells and is a much more effective displacer of carbon dioxide than the normal use in on-site CHP plants.[20]
+Biogas upgrading[edit]
+Raw biogas produced from digestion is roughly 60% methane and 29% CO
+2 with trace elements of H
+2S; it is not of high enough quality to be used as fuel gas for machinery. The corrosive nature of H
+2S alone is enough to destroy the internals of a plant.[21][22]
+Methane in biogas can be concentrated via a biogas upgrader to the same standards as fossil natural gas, which itself has to go through a cleaning process, and becomes biomethane. If the local gas network allows, the producer of the biogas may use their distribution networks. Gas must be very clean to reach pipeline quality and must be of the correct composition for the distribution network to accept. Carbon dioxide, water, hydrogen sulfide, and particulates must be removed if present.[21]
+There are four main methods of upgrading: water washing, pressure swing adsorption, selexol adsorption, and amine gas treating.[23] In addition to these, the use of membrane separation technology for biogas upgrading is increasing, and there are already several plants operating in Europe and USA.[21][24]
+The most prevalent method is water washing where high pressure gas flows into a column where the carbon dioxide and other trace elements are scrubbed by cascading water running counter-flow to the gas. This arrangement could deliver 98% methane with manufacturers guaranteeing maximum 2% methane loss in the system. It takes roughly between 3% and 6% of the total energy output in gas to run a biogas upgrading system.
+Biogas gas-grid injection[edit]
+Gas-grid injection is the injection of biogas into the methane grid (natural gas grid). Injections includes biogas[25] until the breakthrough of micro combined heat and power two-thirds of all the energy produced by biogas power plants was lost (the heat), using the grid to transport the gas to customers, the electricity and the heat can be used for on-site generation[26] resulting in a reduction of losses in the transportation of energy. Typical energy losses in natural gas transmission systems range from 1% to 2%. The current energy losses on a large electrical system range from 5% to 8%.[27]
+Biogas in transport[edit]
+"Biogastget Amanda" ("The Biogas Train Amanda") train near Linkping station, Sweden
+If concentrated and compressed, it can be used in vehicle transportation. Compressed biogas is becoming widely used in Sweden, Switzerland, and Germany. A biogas-powered train, named Biogastget Amanda (The Biogas Train Amanda), has been in service in Sweden since 2005.[28][29] Biogas powers automobiles. In 1974, a British documentary film titled Sweet as a Nut detailed the biogas production process from pig manure and showed how it fueled a custom-adapted combustion engine.[30][31] In 2007, an estimated 12,000 vehicles were being fueled with upgraded biogas worldwide, mostly in Europe.[32]
+Measuring in biogas environments[edit]
+Biogas is part of the wet gas and condensing gas (or air) category that includes mist or fog in the gas stream. The mist or fog is predominately water vapor that condenses on the sides of pipes or stacks throughout the gas flow. Biogas environments include wastewater digesters, landfills, and animal feeding operations (covered livestock lagoons).
+Ultrasonic flow meters are one of the few devices capable of measuring in a biogas atmosphere. Most thermal flow meters are unable to provide reliable data because the moisture causes steady high flow readings and continuous flow spiking, although there are single-point insertion thermal mass flow meters capable of accurately monitoring biogas flows with minimal pressure drop. They can handle moisture variations that occur in the flow stream because of daily and seasonal temperature fluctuations, and account for the moisture in the flow stream to produce a dry gas value.
+Legislation[edit]
+European Union[edit]
+The European Union has legislation regarding waste management and landfill sites called the Landfill Directive.
+Countries such as the United Kingdom and Germany now have legislation in force that provides farmers with long-term revenue and energy security.[33]
+United States[edit]
+The United States legislates against landfill gas as it contains VOCs. The United States Clean Air Act and Title 40 of the Code of Federal Regulations (CFR) requires landfill owners to estimate the quantity of non-methane organic compounds (NMOCs) emitted. If the estimated NMOC emissions exceeds 50 tonnes per year, the landfill owner is required to collect the gas and treat it to remove the entrained NMOCs. Treatment of the landfill gas is usually by combustion. Because of the remoteness of landfill sites, it is sometimes not economically feasible to produce electricity from the gas.
+Global developments[edit]
+United States[edit]
+With the many benefits of biogas, it is starting to become a popular source of energy and is starting to be used in the United States more. In 2003, the United States consumed 147 trillion BTU of energy from "landfill gas", about 0.6% of the total U.S. natural gas consumption.[32] Methane biogas derived from cow manure is being tested in the U.S. According to a 2008 study, collected by the Science and Children magazine, methane biogas from cow manure would be sufficient to produce 100 billion kilowatt hours enough to power millions of homes across America. Furthermore, methane biogas has been tested to prove that it can reduce 99 million metric tons of greenhouse gas emissions or about 4% of the greenhouse gases produced by the United States.[34]
+In Vermont, for example, biogas generated on dairy farms was included in the CVPS Cow Power program. The program was originally offered by Central Vermont Public Service Corporation as a voluntary tariff and now with a recent merger with Green Mountain Power is now the GMP Cow Power Program. Customers can elect to pay a premium on their electric bill, and that premium is passed directly to the farms in the program. In Sheldon, Vermont, Green Mountain Dairy has provided renewable energy as part of the Cow Power program. It started when the brothers who own the farm, Bill and Brian Rowell, wanted to address some of the manure management challenges faced by dairy farms, including manure odor, and nutrient availability for the crops they need to grow to feed the animals. They installed an anaerobic digester to process the cow and milking center waste from their 950 cows to produce renewable energy, a bedding to replace sawdust, and a plant-friendly fertilizer. The energy and environmental attributes are sold to the GMP Cow Power program. On average, the system run by the Rowells produces enough electricity to power 300 to 350 other homes. The generator capacity is about 300 kilowatts.[35]
+In Hereford, Texas, cow manure is being used to power an ethanol power plant. By switching to methane biogas, the ethanol power plant has saved 1000 barrels of oil a day. Over all, the power plant has reduced transportation costs and will be opening many more jobs for future power plants that will rely on biogas.[36]
+In Oakley, Kansas, an ethanol plant considered to be one of the largest biogas facilities in North America is using Integrated Manure Utilization System "IMUS" to produce heat for its boilers by utilizing feedlot manure, municipal organics and ethanol plant waste. At full capacity the plant is expected to replace 90% of the fossil fuel used in the manufacturing process of ethanol.[37][38]
+Europe[edit]
+The level of development varies greatly in Europe. While countries such as Germany, Austria and Sweden are fairly advanced in their use of biogas, there is a vast potential for this renewable energy source in the rest of the continent, especially in Eastern Europe. Different legal frameworks, education schemes and the availability of technology are among the prime reasons behind this untapped potential.[39] Another challenge for the further progression of biogas has been negative public perception. [40]
+In February 2009, the European Biogas Association (EBA) was founded in Brussels as a non-profit organisation to promote the deployment of sustainable biogas production and use in Europe. EBA's strategy defines three priorities: establish biogas as an important part of Europes energy mix, promote source separation of household waste to increase the gas potential, and support the production of biomethane as vehicle fuel. In July 2013, it had 60 members from 24 countries across Europe.[41]
+UK[edit]
+As of September 2013[update], there are about 130 non-sewage biogas plants in the UK. Most are on-farm, and some larger facilities exist off-farm, which are taking food and consumer wastes.[42]
+On 5 October 2010, biogas was injected into the UK gas grid for the first time. Sewage from over 30,000 Oxfordshire homes is sent to Didcot sewage treatment works, where it is treated in an anaerobic digestor to produce biogas, which is then cleaned to provide gas for approximately 200 homes.[43]
+In 2015 the Green-Energy company Ecotricity announced their plans to build three grid-injecting digester's.
+Germany[edit]
+Germany is Europe's biggest biogas producer[44] and the market leader in biogas technology.[45] In 2010 there were 5,905 biogas plants operating throughout the country: Lower Saxony, Bavaria, and the eastern federal states are the main regions.[46] Most of these plants are employed as power plants. Usually the biogas plants are directly connected with a CHP which produces electric power by burning the bio methane. The electrical power is then fed into the public power grid.[47] In 2010, the total installed electrical capacity of these power plants was 2,291 MW.[46] The electricity supply was approximately 12.8 TWh, which is 12.6% of the total generated renewable electricity.[48]
+Biogas in Germany is primarily extracted by the co-fermentation of energy crops (called 'NawaRo', an abbreviation of nachwachsende Rohstoffe, German for renewable resources) mixed with manure. The main crop used is corn. Organic waste and industrial and agricultural residues such as waste from the food industry are also used for biogas generation.[49] In this respect, biogas production in Germany differs significantly from the UK, where biogas generated from landfill sites is most common.[44]
+Biogas production in Germany has developed rapidly over the last 20 years. The main reason is the legally created frameworks. Government support of renewable energy started in 1991 with the Electricity Feed-in Act (StrEG). This law guaranteed the producers of energy from renewable sources the feed into the public power grid, thus the power companies were forced to take all produced energy from independent private producers of green energy.[50] In 2000 the Electricity Feed-in Act was replaced by the Renewable Energy Sources Act (EEG). This law even guaranteed a fixed compensation for the produced electric power over 20 years. The amount of around 8/kWh gave farmers the opportunity to become energy suppliers and gain a further source of income.[49]
+The German agricultural biogas production was given a further push in 2004 by implementing the so-called NawaRo-Bonus. This is a special payment given for the use of renewable resources, that is, energy crops.[51] In 2007 the German government stressed its intention to invest further effort and support in improving the renewable energy supply to provide an answer on growing climate challenges and increasing oil prices by the Integrated Climate and Energy Programme.
+This continual trend of renewable energy promotion induces a number of challenges facing the management and organisation of renewable energy supply that has also several impacts on the biogas production.[52] The first challenge to be noticed is the high area-consuming of the biogas electric power supply. In 2011 energy crops for biogas production consumed an area of circa 800,000 ha in Germany.[53] This high demand of agricultural areas generates new competitions with the food industries that did not exist hitherto. Moreover, new industries and markets were created in predominately rural regions entailing different new players with an economic, political and civil background. Their influence and acting has to be governed to gain all advantages this new source of energy is offering. Finally biogas will furthermore play an important role in the German renewable energy supply if good governance is focused.[52]
+Indian Subcontinent[edit]
+Biogas in India[54] has been traditionally based on dairy manure as feed stock and these "gobar" gas plants have been in operation for a long period of time, especially in rural India. In the last 2-3 decades, research organisations with a focus on rural energy security have enhanced the design of the systems resulting in newer efficient low cost designs such as the Deenabandhu model.
+The Deenabandhu Model is a new biogas-production model popular in India. (Deenabandhu means "friend of the helpless.") The unit usually has a capacity of 2 to 3 cubic metres. It is constructed using bricks or by a ferrocement mixture. In India, the brick model costs slightly more than the ferrocement model; however, India's Ministry of New and Renewable Energy offers some subsidy per model constructed.
+LPG (Liquefied Petroleum Gas) is a key source of cooking fuel in urban India and its prices have been increasing along with the global fuel prices. Also the heavy subsidies provided by the successive governments in promoting LPG as a domestic cooking fuel has become a financial burden renewing the focus on biogas as a cooking fuel alternative in urban establishments. This has led to the development of prefabricated digester for modular deployments as compared to RCC and cement structures which take a longer duration to construct. Renewed focus on process technology like the Biourja process model[55] has enhanced the stature of medium and large scale anaerobic digester in India as a potential alternative to LPG as primary cooking fuel.
+In India, Nepal, Pakistan and Bangladesh biogas produced from the anaerobic digestion of manure in small-scale digestion facilities is called gobar gas; it is estimated that such facilities exist in over 2 million households in India, 50,000 in Bangladesh and thousands in Pakistan, particularly North Punjab, due to the thriving population of livestock. The digester is an airtight circular pit made of concrete with a pipe connection. The manure is directed to the pit, usually straight from the cattle shed. The pit is filled with a required quantity of wastewater. The gas pipe is connected to the kitchen fireplace through control valves. The combustion of this biogas has very little odour or smoke. Owing to simplicity in implementation and use of cheap raw materials in villages, it is one of the most environmentally sound energy sources for rural needs. One type of these system is the Sintex Digester. Some designs use vermiculture to further enhance the slurry produced by the biogas plant for use as compost.[56]
+To create awareness and associate the people interested in biogas, the Indian Biogas Association[57] was formed. It aspires to be a unique blend of nationwide operators, manufacturers and planners of biogas plants, and representatives from science and research. The association was founded in 2010 and is now ready to start mushrooming. Its motto is "propagating Biogas in a sustainable way".
+In Pakistan, the Rural Support Programmes Network is running the Pakistan Domestic Biogas Programme[58] which has installed 5,360 biogas plants[59] and has trained in excess of 200 masons on the technology and aims to develop the Biogas Sector in Pakistan.
+In Nepal, the government provides subsidies to build biogas plant.
+China[edit]
+The Chinese had experimented the applications of biogas since 1958. Around 1970, China had installed 6,000,000 digesters in an effort to make agriculture more efficient. During the last years the technology has met high growth rates. This seems to be the earliest developments in generating biogas from agricultural waste.[60]
+In developing nations[edit]
+Domestic biogas plants convert livestock manure and night soil into biogas and slurry, the fermented manure. This technology is feasible for small-holders with livestock producing 50kg manure per day, an equivalent of about 6 pigs or 3 cows. This manure has to be collectable to mix it with water and feed it into the plant. Toilets can be connected. Another precondition is the temperature that affects the fermentation process. With an optimum at 36 C the technology especially applies for those living in a (sub) tropical climate. This makes the technology for small holders in developing countries often suitable.[61]
+Simple sketch of household biogas plant
+Depending on size and location, a typical brick made fixed dome biogas plant can be installed at the yard of a rural household with the investment between US$300 to $500 in Asian countries and up to $1400 in the African context.[62] A high quality biogas plant needs minimum maintenance costs and can produce gas for at least 1520 years without major problems and re-investments. For the user, biogas provides clean cooking energy, reduces indoor air pollution, and reduces the time needed for traditional biomass collection, especially for women and children. The slurry is a clean organic fertilizer that potentially increases agricultural productivity.[61]
+Domestic biogas technology is a proven and established technology in many parts of the world, especially Asia.[63] Several countries in this region have embarked on large-scale programmes on domestic biogas, such as China[64] and India.
+The Netherlands Development Organisation, SNV,[65] supports national programmes on domestic biogas that aim to establish commercial-viable domestic biogas sectors in which local companies market, install and service biogas plants for households. In Asia, SNV is working in Nepal,[66] Vietnam,[67] Bangladesh,[68] Bhutan, Cambodia,[68] Lao PDR,[69] Pakistan[70] and Indonesia,[71] and in Africa; Rwanda,[72] Senegal, Burkina Faso, Ethiopia,[73] Tanzania,[74] Uganda, Kenya,[75] Benin and Cameroon.
+In South Africa a prebuilt Biogas system is manufactured and sold. One key feature is that installation requires less skill and is quicker to install as the digester tank is premade plastic.[76]
+Society and culture[edit]
+In the 1985 Australian film Mad Max Beyond Thunderdome the post-apocalyptic settlement Barter town is powered by a central biogas system based upon a piggery. As well as providing electricity, methane is used to power Barter's vehicles.
+"Cow Town", written in the early 1940s, discuss the travails of a city vastly built on cow manure and the hardships brought upon by the resulting methane biogas. Carter McCormick, an engineer from a town outside the city, is sent in to figure out a way to utilize this gas to help power, rather than suffocate, the city.
+See also[edit]
+Sustainable development portal
+Renewable energy portal
+Energy portal
+Anaerobic digestion
+Biochemical Oxygen Demand
+Biodegradability
+Bioenergy
+Biofuel
+Biohydrogen
+Landfill gas monitoring
+MSW/LFG (municipal solid waste and landfill gas)
+Natural gas
+Renewable energy
+Renewable natural gas
+Relative cost of electricity generated by different sources
+Tables of European biogas utilisation
+Thermal hydrolysis
+Waste management
+European Biomass Association
+References[edit]
+^ National Non-Food Crops Centre. "NNFCC Renewable Fuels and Energy Factsheet: Anaerobic Digestion", Retrieved on 2011-02-16
+^ "Biogas & Engines". , www.clarke-energy.com. Retrieved 21 November 2011.
+^ "Biomethane fueled vehicles the carbon neutral option". Claverton Energy Conference Bath, UK. 24 October 2009.
+^ State Energy Conservation Office (Texas). "Biomass Energy: Manure for Fuel.", 23 April 2009. Web. 3 October 2009.
+^ "Cold climates no bar to biogas production". New Scientist. London: Sunita Harrington. 6 November 2010. p.14. Retrieved 4 February 2011.
+^ "BIOGAS PROBLEMS". Retrieved 15 May 2015.
+^ "Biogas - Bioenergy Association of New Zealand (BANZ)". Bioenergy.org.nz. 29 November 2006. Retrieved 21 February 2010.
+^ LFG energy projects
+^ Safety Page, Beginners Guide to Biogas, www.adelaide.edu.au/biogas. Retrieved 22.10.07.
+^ Obrecht, Matevz; Denac, Matjaz (2011). "Biogas - a sustainable energy source: new measures and possibilities for SLovenia" (PDF). Journal of Energy Technology (5): 1124.
+^ Basic Information on Biogas Archived 6 January 2010 at the Wayback Machine., www.kolumbus.fi. Retrieved 2.11.07.
+^ "Juniper". Retrieved 15 May 2015.
+^ Richards, B.; Herndon, F. G.; Jewell, W. J.; Cummings, R. J.; White, T. E. (1994). "In situ methane enrichment in methanogenic energy crop digesters". Biomass and Bioenergy. 6 (4): 275274. doi:10.1016/0961-9534(94)90067-1.
+^ Richards, B.; Cummings, R.; White, T.; Jewell, W. (1991). "Methods for kinetic analysis of methane fermentation in high solids biomass digesters". Biomass and Bioenergy. 1 (2): 6526. doi:10.1016/0961-9534(91)90028-B.
+^ Tower, P.; Wetzel, J.; Lombard, X. (March 2006). "New Landfill Gas Treatment Technology Dramatically Lowers Energy Production Costs". Applied Filter Technology. Retrieved 30 April 2009.(broken link)
+^ Increased Greenhouse Gas Emissions, Food and Agricultural Organization of the United Nations
+^ Overview of Greenhouse Gases, Methane Emissions. Climate Change, United States Environmental Protection Agency, 11 December 2015.
+^ State Energy Conservation Office (Texas). "Biomass Energy: Manure for Fuel." State Energy Conservation Office (Texas). State of Texas, 23 April 2009. Web. 3 October 2009.
+^ Webber, Michael E and Amanda D Cuellar. "Cow Power. In the News: Short News Items of Interest to the Scientific Community." Science and Children os 46.1 (2008): 13. Gale. Web. 1 October 2009 in United States.
+^ a b Administrator. "Biogas CHP - Alfagy - Profitable Greener Energy via CHP, Cogen and Biomass Boiler using Wood, Biogas, Natural Gas, Biodiesel, Vegetable Oil, Syngas and Straw". Retrieved 15 May 2015.
+^ a b c Abatzoglou, Nicolas; Boivin, Steve (2009). "A review of biogas purification processes". Biofuels, Bioproducts and Biorefining. 3 (1): 4271. doi:10.1002/bbb.117. ISSN1932-104X.
+^ Huertas, J.I.; Giraldo, N.; Izquierdo, S. (2011). "Removal of H2S and CO2 from Biogas by Amine Absorption". doi:10.5772/20039.
+^ "Nyheter - SGC" (PDF). Retrieved 15 May 2015.
+^ Petersson A., Wellinger A. (2009). Biogas upgrading technologies - developments and innovations. IEA Bioenergy Task 37
+^ "National Grid: Half Britain's homes could be heated by renewable gas, says National Grid". Retrieved 15 May 2015.
+^ "Biogas Flows Through Germany's Grid Big Time - Renewable Energy News Article". 14 March 2012. Archived from the original on 14 March 2012. Retrieved 17 June 2016. CS1 maint: Unfit url (link)
+^ "energy loss, transmission loss". Retrieved 15 May 2015.
+^ Biogas train in Sweden
+^ Friendly fuel trains (30 October 2005) New Straits Times, p. F17.
+^ "Bates Car - Sweet As a Nut (1975)". BFI. Retrieved 15 May 2015.
+^ National Film Board of Canada. "Bate's Car: Sweet as a Nut". NFB.ca. Retrieved 15 May 2015.
+^ a b What is biogas?, U.S. Department of Energy, 13 April 2010
+^ "CHP | Combined Heat and Power | Cogeneration | Wood Biomass Gasified Co-generation | Energy Efficiency | Electricity Generation". Alfagy.com. Retrieved 21 February 2010.[dead link][dead link]
+^ Cuellar, Amanda D and Michael E Webber (2008). "Cow power: the energy and emissions benefits of converting manure to biogas". Environ. Res. Lett. 3 (3): 034002. doi:10.1088/1748-9326/3/3/034002.
+^ Zezima, Katie. "Electricity From What Cows Leave Behind." The New York Times, 23 September 2008, natl. ed.: SPG9. Web. 1 October 2009.
+^ State Energy Conservation Office (Texas). "Biomass Energy: Manure for Fuel." State Energy Conservation Office (Texas). State of Texas, 23 April 2009. Web. 3 October 2009.
+^ Trash-to-energy trend boosts anaerobic digesters [1]."
+^ Western Plains Energy finishing up North Americas largest biogas digester [2]."
+^ "About SEBE". Retrieved 15 May 2015.[permanent dead link]
+^ "404 - Seite nicht gefunden auf Server der Fachagentur Nachwachsende Rohstoffe e.V.: FNR" (PDF). Retrieved 17 June 2016.[permanent dead link]
+^ "European Biogas Association". European Biogas Association. Retrieved 15 May 2015.
+^ The Official Information Portal on AD 'Biogas Plant Map'
+^ Sewage project sends first ever renewable gas to grid Thames Water
+^ a b "European Biogas Barometer" (PDF). EurObserv'ER. Retrieved 7 November 2011.
+^ overview.html "Biogas" Check |url= value (help). BMU. Retrieved 7 November 2011.
+^ a b /$file/11-06-27_Biogas%20Branchenzahlen%202010_eng.pdf "Biogas Segments Statistics 2010" Check |url= value (help) (PDF). Fachverband Biogas e.V. Retrieved 5 November 2011.
+^ "Biomass for Power Generation and CHP" (PDF). IEA. Retrieved 7 November 2011.
+^ en.de/files/english/pdf/application/pdf/ee_in_zahlen_2010_en_bf.pdf "Renewable Energy Sources 2010" Check |url= value (help) (PDF). BMU. Retrieved 5 November 2011.[permanent dead link]
+^ a b Wieland, P. "Production and Energetic Use of Biogas from Energy Crops and Wastes in Germany" (PDF). Applied Biochemistry and Biotechnology. Retrieved 5 November 2011.
+^ "Erneuerbare Energien in Deutschland. Rckblick und Stand des Innovationsgeschehens" (PDF). IfnE et al. Retrieved 5 November 2011.
+^ Wieland, P. 20128/pdf "Biomass Digestion in Agriculture: A Successful Pathway for the Energy Production and Waste Treatment in Germany" Check |url= value (help). Engineering in Life Science. Retrieved 5 November 2011.
+^ a b Kanning, H.; et al. "Erneuerbare Energien - Rumliche Dimensionen, neue Akteurslandschaften und planerische (Mit)Gestaltungspotenziale am Beispiel des Biogaspfades" (PDF). Raumforschung und Raumordnung. Retrieved 5 November 2011.
+^ /FNR510_Grafik_Anbau_2011_engl__300_rgb.jpg "Cultivation of renewable Resources in Germany" Check |url= value (help). FNR. Retrieved 5 November 2011.
+^ "GPS Renewables - Waste management through biogas - GPS Renewables". GPS Renewables. Retrieved 15 May 2015.
+^ "GPS Renewables - Monitoring Methodology - GPS Renewables". GPS Renewables. Retrieved 15 May 2015.
+^ "Biogas plants provide cooking and fertiliser". Ashden Awards, sustainable and renewable energy in the UK and developing world. Retrieved 15 May 2015.
+^ "Biogas-india - Home". Retrieved 15 May 2015.
+^ "PAK-ENERGY SOLUTION". Retrieved 15 May 2015.
+^ "5,360 bio-gas plants installed in 12 districts". Business Recorder. Retrieved 15 May 2015.
+^ Biogas in China. Retrieved 27 October 2016
+^ a b Roubk, Hynek; Mazancov, Jana; Banout, Jan; Verner, Vladimr (2016-01-20). "Addressing problems at small-scale biogas plants: a case study from central Vietnam". Journal of Cleaner Production. 112, Part 4: 27842792. doi:10.1016/j.jclepro.2015.09.114.
+^ Ghimire, Prakash C. (2013-01-01). "SNV supported domestic biogas programmes in Asia and Africa". Renewable Energy. Selected papers from World Renewable Energy Congress - XI. 49: 9094. doi:10.1016/j.renene.2012.01.058.
+^ "SNV World" (PDF). Retrieved 15 May 2015.
+^ "China - Biogas". Retrieved 15 May 2015.
+^ "Renewable energy". Retrieved 15 May 2015.
+^ "[Biogas Sector Partnership-Nepal]". Bspnepal.org.np. Retrieved 21 February 2010.
+^ "D n chng trnh kh sinh hc cho ngnh chn nui Vit Nam". Biogas.org.vn. Retrieved 21 February 2010.
+^ a b http://www.idcol.org (click Projects)
+^ "Home". Biogaslao.org. Retrieved 21 February 2010.
+^ "SNV World" (PDF). Retrieved 15 May 2015.
+^ Indonesia Domestic Biogas Programme
+^ "Renewable Energy". Snvworld.org. Retrieved 2015-01-03.
+^ "Renewable energy". Snvworld.org. Retrieved 2015-01-03.
+^ SNV Tanzania Domestic Biogas Programme
+^ Biogas First in Kenya for Clarke Energy and Tropical Power Accessed 11 September 2013
+^ "Renewable Energy Solutions - Living Lightly". Renewable Energy Solutions. Retrieved 15 May 2015.
+Further reading[edit]
+Updated Guidebook on Biogas Development. United Nations, New York, (1984) Energy Resources Development Series No. 27. p.178, 30cm.
+Book: Biogas from Waste and Renewable Resources. WILEY-VCH Verlag GmbH & Co. KGaA, (2008) Dieter Deublein and Angelika Steinhauser
+A Comparison between Shale Gas in China and Unconventional Fuel Development in the United States: Health, Water and Environmental Risks by Paolo Farah and Riccardo Tremolada. This is a paper presented at the Colloquium on Environmental Scholarship 2013 hosted by Vermont Law School (11 October 2013)
+Marchaim, Uri (1992). Biogas processes for sustainable development. FAO. ISBN92-5-103126-6.
+Woodhead Publishing Series. (2013). The Biogas Handbook: Science, Production and Applications. ISBN 978-0857094988
+External links[edit]
+European Biogas Association
+Biogas Portal on Energypedia
+American Biogas Council
+An Introduction to Biogas, University of Adelaide
+Biogas Wiki with a lot of useful information about basic principles and documentation from projects of various sizes
+Micro Biogas Production in Kenya
+Indian Biogas Association
+Listing of small scale domestic Biogas kits available by country
+Biogas flaring, cleaning, dehumidification equipment
+v
+t
+e
+Bioenergy
+Biofuels
+Alcohol
+Algae fuel
+Bagasse
+Babassu oil
+Biobutanol
+Biodiesel
+Biogas
+Biogasoline
+Corn stover
+Ethanol
+cellulosic
+mixtures
+Methanol
+Stover
+Corn stover
+Straw
+Cooking oil
+Vegetable oil
+Water hyacinth
+Wood gas
+Energy from
+foodstock
+Barley
+Cassava
+Grape
+Hemp
+Maize
+Oat
+Palm oil
+Potato
+Rapeseed
+Rice
+Sorghum bicolor
+Soybean
+Sugarcane
+Sugar beet
+Sunflower
+Wheat
+Yam
+Camelina sativa
+Non-food
+energy crops
+Arundo
+Big bluestem
+Camelina
+Chinese tallow
+Duckweed
+Jatropha curcas
+Millettia pinnata
+Miscanthus giganteus
+Switchgrass
+Wood fuel
+Technology
+BECCS
+Bioconversion
+Biomass heating systems
+Biorefinery
+FischerTropsch process
+Industrial biotechnology
+Pellets
+mill
+stove
+Thermal depolymerization
+Concepts
+Cellulosic ethanol commercialization
+Energy content of biofuel
+Energy crop
+Energy forestry
+EROEI
+Food vs. fuel
+Issues
+Sustainable biofuel
+v
+t
+e
+Fuel gas
+Types
+Manufactured fuel gas
+(History)
+Coal gas
+Coal gasification
+Underground coal gasification
+Biogas
+Blast furnace gas
+Blau gas
+Gasification
+Landfill gas
+Mond gas
+Pintsch gas
+Producer gas
+Regasification
+Syngas
+Water gas
+Wood gas
+Natural gas
+APG
+CBM
+CNG
+HCNG
+LNG
+NGC
+SNG
+Bio-SNG
+LPG
+Autogas
+Butane
+Propane
+Infrastructure
+Compressor station
+Gas carrier
+Gas holder
+Gas meter
+Gasworks
+Natural-gas processing
+Natural gas storage
+Odorizer
+Pipeline transport
+Uses
+Bunsen burner
+Gas burner
+Gas engine
+Gas heater
+Gas lighting
+Gas mantle
+Gas stove
+Gas turbine
+Pilot light
+v
+t
+e
+Alternative fuel vehicles
+Compressed-air engine
+Compressed air car
+Compressed-air vehicle
+Electric motor
+Battery-electric locomotive
+Battery electric vehicle
+Cater MetroTrolley
+Electric aircraft
+Electric bicycle
+Pedelec
+Electric boat
+Electric car
+Electric platform truck
+Electric vehicle
+Electric motorcycles and scooters
+Gyro flywheel locomotive
+Hybrid electric vehicle
+Hybrid train
+Motorized bicycle
+Neighborhood Electric Vehicle
+Plug-in electric vehicle
+Plug-in hybrid electric vehicle
+Solar vehicle
+Biofuel ICE
+Alcohol fuel
+Biodiesel
+Biogas
+Butanol fuel
+Common ethanol fuel mixtures
+E85
+Ethanol fuel
+Flexible-fuel vehicle
+Methanol economy
+Methanol fuel
+Wood gas
+Hydrogen
+Fuel cell vehicle
+Hydrogen economy
+Hydrogen vehicle
+Hydrogen internal combustion engine vehicle
+Others
+Autogas
+Hybrid electric vehicle
+Liquid nitrogen vehicle
+Natural gas vehicle
+Propane
+Steam car
+Multiple-fuel
+Bi-fuel vehicle
+Flexible-fuel vehicle
+Hybrid vehicle
+Multifuel
+Plug-in hybrid
+Documentaries
+Who Killed the Electric Car?
+What Is the Electric Car?
+Revenge of the Electric Car
+See also
+Wind-powered land vehicle
+Zero-emissions vehicle
+Authority control
+GND: 4006796-8
+NDL: 01135621
+NewPP limit report
+Parsed by mw1162
+Cached time: 20161120013003
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.924 seconds
+Real time usage: 1.032 seconds
+Preprocessor visited node count: 6049/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 173121/2097152 bytes
+Template argument size: 7331/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 5/500
+Lua time usage: 0.428/10.000 seconds
+Lua memory usage: 5.86 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+857.337
+1 - -total
+54.90%
+470.638
+1 - Template:Reflist
+31.39%
+269.131
+43 - Template:Cite_web
+9.09%
+77.940
+15 - Template:Chem
+8.20%
+70.272
+6 - Template:Fix
+7.92%
+67.873
+15 - Template:Chem/link
+6.56%
+56.256
+8 - Template:Cite_journal
+6.35%
+54.453
+34 - Template:Chem/atom
+5.60%
+47.981
+1 - Template:Citation_needed
+5.54%
+47.460
+4 - Template:Navbox
+Saved in parser cache with key enwiki:pcache:idhash:54838-0!*!0!!en!4!* and timestamp 20161120013002 and revision id 750238515
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Biogas&oldid=750238515"
+Categories: Alternative energyAnaerobic digestionBiofuelsBiodegradationBiotechnology productsBiodegradable waste managementGasesLandfillFuelsFuel gasMethaneWaste managementBiomassRenewable energyHidden categories: Webarchive template wayback linksCS1 maint: Unfit urlAll articles with dead external linksArticles with dead external links from December 2015Articles with dead external links from November 2016Articles with permanently dead external linksPages with URL errorsUse dmy dates from June 2013All articles with unsourced statementsArticles with unsourced statements from February 2014Articles containing potentially dated statements from September 2013All articles containing potentially dated statementsWikipedia articles with GND identifiersPages using ISBN magic links

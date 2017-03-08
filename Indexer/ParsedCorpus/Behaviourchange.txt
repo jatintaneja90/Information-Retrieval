@@ -1,0 +1,212 @@
+Behaviourchange
+From Wikipedia, the free encyclopedia
+(Redirected from Behaviour change)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}See also: Behavioural change theories
+Behavior change is a central objective in public health interventions,[1] with an increased focus on prevention prior to onset of disease.[2] This is particularly important in low and middle income countries, where efficiency of health spending and costs and benefits of health interventions has come under increased scrutiny in recent decades.[3] Behavior change in public health is also known as Social and Behavior Change Communication (SBCC).[4]
+Contents
+1 Background
+1.1 Theories
+2 Tools
+2.1 Behavior change communication (BCC)
+3 Examples
+4 See also
+5 References
+Background[edit]
+Many health conditions are caused by risk behaviors, such as problem drinking, substance use, smoking, reckless driving, overeating, or unprotected sexual intercourse. The key question in health behavior research is how to predict and modify the adoption and maintenance of health behaviors. Fortunately, human beings have, in principle, control over their conduct. Health-compromising behaviors can be eliminated by self-regulatory efforts, and health-enhancing behaviors can be adopted instead, such as physical exercise, weight control, preventive nutrition, dental hygiene, condom use, or accident prevention. Health behavior change refers to the motivational, volitional, and actional processes of abandoning such health-compromising behaviors in favor of adopting and maintaining health-enhancing behaviors.[5][6][7]
+Behavior change programs, which have evolved over time, encompass a broad range of activities and approaches, which focus on the individual, community, and environmental influences on behavior. Behavior change, a relatively recent public health-related term, should not be confused with behavior modification, a term with specific meaning in a clinical psychiatry setting.
+One emerging concept in the American health system is that of small, manageable changes. It is not necessary to make sweeping, drastic alterations to one's whole lifestyle in order to see benefit; something is better than nothing. Dietary and exercise contexts, in particular show the benefit of moderate, slow changes.[8]
+Theories[edit]
+Behavior change programs tend to focus on a few behavioral change theories which gained ground in the 1980s. These theories share a major commonality in defining individual actions as the locus of change. Behavior change programs that are usually focused on activities that help a person or a community to reflect upon their risk behaviors and change them to reduce their risk and vulnerability are known as interventions. Examples include: "Transtheoretical (Stages of Change) Model of Behavior Change", "theory of reasoned action", "health belief model", "theory of planned behavior",[9] diffusion of innovation",[10] and the health action process approach.
+Tools[edit]
+Care groups are groups of 10-15 volunteer, community-based health educators who regularly meet together.
+Barrier Analysis is a rapid assessment tool used in behavior change projects to identify behavioral determinants.
+Community-led total sanitation is a behaviour change tool used in the sanitation sector for mainly rural settings in developing countries with the aim to stop open defecation. The method uses shame, disgust and to some extent peer pressure which leads to the "spontaneous" construction and long-term use of toilets after an initial triggering process has taken place.
+Behavior change communication (BCC)[edit]
+Main article: Behavior change communication
+Behavior change communication, or BCC, is an approach to behavior change focused on communication. It is also known as Social and Behavior Change Communication, or SBCC. The assumptions is that through communication of some kind, individuals and communities can somehow be persuaded to behave in ways that will make their lives safer and healthier. BCC was first employed in HIV and TB prevention projects.[11][12] More recently, its ambit has grown to encompass any communication activity whose goal is to help individuals and communities select and practice behavior that will positively impact their health, such as immunization, cervical cancer check up, employing single-use syringes, etc.[citation needed]
+Examples[edit]
+Johns Hopkins Center for Communication Programs specializes in health-related BCC (behavior change communication) programs, primarily in developing countries. It includes programs in reproductive health and family planning, malaria, and HIV/AIDS.[13]
+Development Media International uses mass media to promote healthy behaviors in Burkina Faso, DRC and Mozambique.[14]
+Young 1ove provides information to youth to reduce the spread of HIV/AIDS in Botswana.[15]
+See also[edit]
+Behavior change methods
+Global Handwashing Day
+References[edit]
+^ WHO 2002: "World Health Report 2002 - Reducing Risks, Promoting Healthy Life". Retrieved February 2015.
+^ US Center for Disease Control and Prevention. "National Prevention Strategy". Retrieved February 2015.
+^ Jamison DT, Breman JG, Measham AR, et al., (eds) (2006) Disease Control Priorities in Developing Countries. 2nd edition Chapter 2: Intervention Cost-Effectiveness Retrieved February 2015.
+^ "Why Social and Behavior Change Communication? - Health Communication Capacity Collaborative - Social and Behavior Change Communication". Health Communication Capacity Collaborative - Social and Behavior Change Communication. Retrieved 2016-06-17.
+^ "SAID project". Private Sector Partnerships. SAID project focused on increasing the private sector's role in providing high-quality health products and services in developing countries.
+^ "Barrier Analysis website". Barrier Analysis website.
+^ "Designing for Behavior Change Curriculum". Designing for Behavior Change Curriculum.
+^ Hill, James (2009). "Can a small-changes approach help address the obesity epidemic? A report of the Joint Task Force of the American Society for Nutrition, Institute of Food Technologists, and International Food Information Council" (PDF). American Journal of Clinical Nutrition. 89 (2): 477484. doi:10.3945/ajcn.2008.26566. PMID19088151.
+^ Theory of Planned Behavior
+^ Diffusion of Innovation
+^ "Brazil: Behavior Change Communication for More Effective Tuberculosis Control". John Snow Inc. 20102011. Retrieved 2 August 2016. CS1 maint: Date format (link)
+^ "Behaviour Change Communication (BCC)for HIV/AIDS a Strategic Framework" (PDF). HIVPolicy.org. September 2002. Retrieved 2 August 2016.
+^ "Johns Hopkins Center for Communication Programs".
+^ "DMI - Where we work".
+^ "Evidence Action Beta".
+v
+t
+e
+Public health
+General
+Auxology
+Biological hazard
+Chief Medical Officer
+Cultural competence
+Deviance
+Environmental health
+Euthenics
+Genomics
+Globalization and disease
+Health economics
+Health literacy
+Health policy
+Health system
+Health care reform
+Public health law
+Maternal health
+Medical anthropology
+Medical sociology
+Mental health
+Pharmaceutical policy
+Public health laboratory
+Reproductive health
+Social psychology
+Sociology of health and illness
+Tropical disease
+Preventive healthcare
+Behavior change (public health)
+Family planning
+Health promotion
+Human nutrition
+Hygiene
+Food safety
+Hand washing
+Infection control
+Oral hygiene
+Occupational safety and health
+Human factors and ergonomics
+Hygiene
+Injury prevention
+Medicine
+Nursing
+Patient safety
+Organization
+Pharmacovigilance
+Safe sex
+Sanitation
+Fecal-oral transmission
+Open defecation
+Sanitary sewer
+Waterborne diseases
+Smoking cessation
+Vaccination
+Vector control
+Population health
+Biostatistics
+Child mortality
+Community health
+Epidemiology
+Global health
+Health impact assessment
+Health system
+Infant mortality
+Open-source healthcare software
+Public health informatics
+Social determinants of health
+Health equity
+Race and health
+Social medicine
+Biological and
+epidemiological statistics
+Case-control study
+Randomized controlled trial
+Relative risk
+Statistical hypothesis testing
+Analysis of variance (ANOVA)
+Regression analysis
+ROC curve
+Student's t-test
+Z-test
+Statistical software
+Infectious and epidemic
+disease prevention
+Epidemics
+List
+Notifiable diseases
+List
+Public health surveillance
+Disease surveillance
+Quarantine
+Sexually transmitted infection
+Tropical disease
+Vaccine trial
+Food hygiene and
+safety management
+Food
+Additive
+Chemistry
+Engineering
+Microbiology
+Processing
+Safety
+Safety scandals
+Genetically modified food
+Good agricultural practice
+Good manufacturing practice
+HACCP
+ISO 22000
+Health behavioral
+sciences
+Diffusion of innovations
+Health belief model
+Health communication
+Health psychology
+Positive deviance
+PRECEDE-PROCEED model
+Social cognitive theory
+Social norms approach
+Theory of planned behavior
+Transtheoretical model
+Organizations,
+education
+and history
+Organizations
+Europe
+Centre for Disease Prevention and Control
+Committee on the Environment, Public Health and Food Safety
+India
+Ministry of Health and Family Welfare
+U.S.
+Centers for Disease Control and Prevention
+City and county health departments
+Council on Education for Public Health
+Public Health Service
+World Health Organization
+World Toilet Organization
+Education
+Health education
+Higher education
+Bachelor of Science in Public Health
+Professional degrees of public health
+Schools of public health
+History
+Sara Josephine Baker
+Samuel Jay Crumbine
+Carl Rogers Darnall
+Joseph Lister
+Margaret Sanger
+John Snow
+Typhoid Mary
+Germ theory of disease
+Social hygiene movement
+Category
+Commons
+WikiProject
+Saved in parser cache with key enwiki:pcache:idhash:1573182-0!*!0!!en!4!* and timestamp 20161109195519 and revision id 732781375
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Behavior_change_(public_health)&oldid=732781375"
+Categories: Human behaviorPublic healthHidden categories: CS1 maint: Date formatAll articles with unsourced statementsArticles with unsourced statements from July 2015

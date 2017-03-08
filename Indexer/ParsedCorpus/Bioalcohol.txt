@@ -1,0 +1,485 @@
+Bioalcohol
+From Wikipedia, the free encyclopedia
+(Redirected from Bioalcohol)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2012) (Learn how and when to remove this template message)
+A dish of ethanol aflame
+Throughout history, alcohols have been used as a fuel. The first four aliphatic alcohols (methanol, ethanol, propanol, and butanol) are of interest as fuels because they can be synthesized chemically or biologically, and they have characteristics which allow them to be used in internal combustion engines. The general chemical formula for alcohol fuel is CnH2n+1OH.
+Most methanol is produced from natural gas, although it can be produced from biomass using very similar chemical processes. Ethanol is commonly produced from biological material through fermentation processes. However, ethanol that is derived from petroleum should not be considered safe for consumption as the mixture contains about 5% methanol and may cause blindness or death. Biobutanol has the advantage in combustion engines in that its energy density is closer to gasoline than the simpler alcohols (while still retaining over 25% higher octane rating); however, biobutanol is currently more difficult to produce than ethanol or methanol. When obtained from biological materials and/or biological processes, they are known as bioalcohols (e.g. "bioethanol"). There is no chemical difference between biologically produced and chemically produced alcohols.
+One advantage shared by the four major alcohol fuels is their high octane rating. This tends to increase their fuel efficiency and largely offsets the lower energy density of vehicular alcohol fuels (as compared to petrol/gasoline and diesel fuels), thus resulting in comparable "fuel economy" in terms of distance per volume metrics, such as kilometers per liter, or miles per gallon.
+Contents
+1 Methanol and ethanol
+2 Butanol and propanol
+3 By country
+3.1 Brazil
+3.2 China
+3.3 United States
+3.4 European Union
+3.5 Japan
+4 See also
+5 References
+6 External links
+Methanol and ethanol[edit]
+Ethanol used as a fuel.
+Main articles: Methanol fuel and Ethanol fuel
+Methanol and ethanol can both be derived from fossil fuels, biomass, or perhaps most simply, from carbon dioxide and water. Ethanol has most commonly been produced through fermentation of sugars, and methanol has most commonly been produced from synthesis gas, but there are more modern ways to obtain these fuels. Enzymes can be used instead of fermentation. Methanol is the simpler molecule, and ethanol can be made from methanol. Methanol can be produced industrially from nearly any biomass, including animal waste, or from carbon dioxide and water or steam by first converting the biomass to synthesis gas in a gasifier. It can also be produced in a laboratory using electrolysis or enzymes.[1]
+As a fuel, methanol and ethanol both have advantages and disadvantages over fuels such as petrol (gasoline) and diesel fuel. In spark ignition engines, both alcohols can run at a much higher exhaust gas recirculation rates and with higher compression ratios. Both alcohols have a high octane rating, with ethanol at 109 RON (Research Octane Number), 90 MON (Motor Octane Number), (which equates to 99.5 AKI) and methanol at 109 RON, 89 MON (which equates to 99 AKI).[2] Note that AKI refers to 'Anti-Knock Index' which averages the RON and MON ratings (RON+MON)/2, and is used on U.S. gas station pumps. Ordinary European petrol is typically 95 RON, 85 MON, equal to 90 AKI. As a compression ignition engine fuel, both alcohols create very little particulates, but their low cetane number means that an ignition improver like glycol must be mixed into the fuel with approx. 5%.
+When used in spark ignition engines alcohols have the potential to reduce NOx, CO, HC and particulates. A test with E85 fueled Chevrolet Luminas showed that NMHC[3] went down by 20-22%, NOx by 25-32% and CO by 12-24% compared to reformulated gasoline.[4] Toxic emissions of benzene and 1,3 Butadiene also decreased while aldehyde emissions increased (acetaldehyde in particular).
+Tailpipe emissions of CO2 also decrease due to the lower carbon-to-hydrogen ratio of these alcohols, and the improved engine efficiency.
+Methanol and ethanol fuels contain soluble and insoluble contaminants.[5] Halide ions, which are soluble contaminants, such as chloride ions, have a large effect on the corrosivity of alcohol fuels. Halide ions increase corrosion in two ways: they chemically attack passivating oxide films on several metals causing pitting corrosion, and they increase the conductivity of the fuel. Increased electrical conductivity promotes electrical, galvanic and ordinary corrosion in the fuel system. Soluble contaminants such as aluminum hydroxide, itself a product of corrosion by halide ions, clogs the fuel system over time. To prevent corrosion the fuel system must be made of suitable materials, electrical wires must be properly insulated and the fuel level sensor must be of pulse and hold type, magneto resistive or other similar non-contact type. In addition, high quality alcohol should have a low concentration of contaminants and have a suitable corrosion inhibitor added. Scientific evidence reveals that also water is an inhibitor for corrosion by ethanol.[6] The experiments are done with E50, which is more aggressive & speeds up the corrosion effect. It is very clear that by increasing the amount of water in fuel ethanol one can reduce the corrosion. At 2% or 20,000 ppm water in the fuel ethanol the corrosion stopped. The observations in Japan are in line with the fact that hydrous ethanol is known for being less corrosive than anhydrous ethanol. The reaction mechanism is 3EtOH + Al -> Al(OEt)3 +3/2H2 will be the same at lower-mid blends. When enough water is present in the fuel, the aluminum will react preferably with water to produce Al2O2, repairing the protective aluminum oxide layer. The aluminum alkoxide does not make a tight oxide layer; water is essential to repair the holes in the oxide layer.
+Methanol and ethanol are also incompatible with some polymers. The alcohol reacts with the polymers causing swelling, and over time the oxygen breaks down the carbon-carbon bonds in the polymer causing a reduction in tensile strength. For the past few decades though, most cars have been designed to tolerate up to 10% ethanol (E10) without problem. This includes both fuel system compatibility and lambda compensation[clarification needed] of fuel delivery with fuel injection engines featuring closed loop lambda control. In some engines ethanol may degrade some compositions of plastic or rubber fuel delivery components designed for conventional petrol, and also be unable to lambda compensate the fuel properly.[citation needed]
+"FlexFuel" vehicles have upgraded fuel system and engine components which are designed for long life using E85 or M85, and the ECU can adapt to any fuel blend between gasoline and E85 or M85. Typical upgrades include modifications to: fuel tanks, fuel tank electrical wiring, fuel pumps, fuel filters, fuel lines, filler tubes, fuel level sensors, fuel injectors, seals, fuel rails, fuel pressure regulators, valve seats and inlet valves. "Total Flex" Autos destined for the Brazilian market can use E100 (100% Ethanol).[citation needed]
+One liter of ethanol contain 21.1 MJ, a liter of methanol 15.8 MJ and a liter of gasoline approximately 32.6 MJ. In other words, for the same energy content as one liter or one gallon of gasoline, one needs 1.6 liters/gallons of ethanol and 2.1 liters/gallons of methanol. The raw energy-per-volume numbers produce misleading fuel consumption numbers however, because alcohol-fueled engines can be made substantially more energy-efficient. A larger percentage of the energy available in a liter of alcohol fuel can be converted to useful work. This difference in efficiency can partially or totally balance out the energy density difference,[citation needed] depending on the particular engines being compared.
+Methanol fuel has been proposed as a future biofuel, often as an alternative to the hydrogen economy. Methanol has a long history as a racing fuel. Early Grand Prix Racing used blended mixtures as well as pure methanol. The use of the fuel was primarily used in North America after the war. [clarification needed] However, methanol for racing purposes has largely been based on methanol produced from syngas derived from natural gas and therefore this methanol would not be considered a biofuel. Methanol is a possible biofuel, however when the syngas is derived from biomass. In theory, methanol can also be produced from carbon dioxide and hydrogen using nuclear power or any renewable energy source, although this is not likely to be economically viable on an industrial scale (see methanol economy). Compared to bioethanol, the primary advantage of methanol biofuel is its much greater well-to-wheel efficiency. This is particularly relevant in temperate climates where fertilizers are needed to grow sugar or starch crops to make ethanol, whereas methanol can be produced from lignocellulose (woody) biomass.
+Ethanol is already being used extensively as a fuel additive, and the use of ethanol fuel alone or as part of a mix with gasoline is increasing. Compared to methanol its primary advantage is that it is less corrosive and additionally the fuel is non-toxic, although the fuel will produce some toxic exhaust emissions. From 2007, the Indy Racing League will use ethanol as its exclusive fuel, after 40 years of using methanol.[7] Since September 2007 petrol stations in NSW, Australia are mandated to supply all their petrol with 2% Ethanol content[8]
+Butanol and propanol[edit]
+Main article: Butanol fuel
+Propanol and butanol are considerably less toxic and less volatile than methanol. In particular, butanol has a high flash point of 35C, which is a benefit for fire safety, but may be a difficulty for starting engines in cold weather. The concept of flash point is however not directly applicable to engines as the compression of the air in the cylinder means that the temperature is several hundred degrees Celsius before ignition takes place.
+The fermentation processes to produce propanol and butanol from cellulose are fairly tricky to execute, and the Weizmann organism (Clostridium acetobutylicum) currently used to perform these conversions produces an extremely unpleasant smell, and this must be taken into consideration when designing and locating a fermentation plant. This organism also dies when the butanol content of whatever it is fermenting rises to 7%. For comparison, yeast dies when the ethanol content of its feedstock hits 14%. Specialized strains can tolerate even greater ethanol concentrations - so-called turbo yeast can withstand up to 16% ethanol .[9] However, if ordinary Saccharomyces yeast can be modified to improve its ethanol resistance, scientists may yet one day produce a strain of the Weizmann organism with a butanol resistance higher than the natural boundary of 7%. This would be useful because butanol has a higher energy density than ethanol, and because waste fibre left over from sugar crops used to make ethanol could be made into butanol, raising the alcohol yield of fuel crops without there being a need for more crops to be planted.
+Despite these drawbacks, DuPont and BP have recently announced that they are jointly to build a small scale butanol fuel demonstration plant [10] alongside the large bioethanol plant they are jointly developing with Associated British Foods.
+Energy Environment International developed a method for producing butanol from biomass, which involves the use of two separate micro-organisms in sequence to minimize production of acetone and ethanol byproducts.[11]
+The Swiss company Butalco GmbH uses a special technology to modify yeasts in order to produce butanol instead of ethanol. Yeasts as production organisms for butanol have decisive advantages compared to bacteria.[12]
+Butanol combustion is: C4H9OH + 6O2  4CO2 + 5H2O + heat
+Propanol combustion is: 2C3H7OH + 9O2  6 CO2 + 8H2O + heat
+The 3-carbon alcohol, propanol (C3H7OH), is not often used as a direct fuel source for petrol engines(unlike ethanol, methanol and butanol), with most being directed into use as a solvent. However, it is used as a source of hydrogen in some types of fuel cell; it can generate a higher voltage than methanol, which is the fuel of choice for most alcohol-based fuel cells. However, since propanol is harder to produce than methanol (biologically OR from oil), methanol-utilising fuel cells are preferred over those that utilise propanol.
+By country[edit]
+Brazil[edit]
+Main article: Ethanol fuel in Brazil
+Brazil was until recently the largest producer of alcohol fuel in the world, typically fermenting ethanol from sugarcane. The country produces a total of 18 billion litres (4.8 billion gallons) annually, of which 3.5 billion liters are exported, 2 billion of them to the U.S..[13] Alcohol cars debuted in the Brazilian market in 1979 and became quite popular because of heavy subsidy, but in the 1980s prices rose and gasoline regained the leading market share.[14]
+However, from 2003 on, alcohol is rapidly rising its market share once again because of new technologies involving flexible-fuel engines,[15] called "Flex" or "Total Flex" by all major car manufacturers (Volkswagen, General Motors, Fiat, etc.). "Flex" engines work with gasoline, alcohol or any mixture of both fuels. As of May 2009, more than 88% of new vehicles sold in Brazil are flex fuel. [16]
+Because of the Brazilian leading production and technology, many countries became very interested in importing alcohol fuel and adopting the "Flex" vehicle concept.[15] On March 7 of 2007, US president George W. Bush visited the city of So Paulo to sign agreements with Brazilian president Luiz Incio Lula da Silva on importing alcohol and its technology as an alternative fuel.[17]
+China[edit]
+Main article: Bioenergy in China
+As early as 1935, China has made alcohol fuel powered cars. [18] China has reported with a 70% methanol use to conventional gasoline an independence from crude oil.
+National Committee of Planning and Action Coordination for Clean Automobile had listed key technologies related to alcohol/ether fuel and accelerated industrialization into its main agenda. Alcohol fuels had become part of five main alternative fuels: Two of which were alcohols; methanol and ethanol[19]
+United States[edit]
+See E85 in the United States
+The United States at the end of 2007 was producing 26.9 billion litres (7 billion gallons) per year.[20]E10 or Gasohol is commonly marketed in Delaware and E85 is found in many states, particularly in the Midwest where ethanol from corn is produced locally.
+Many states and municipalities have mandated that all gasoline fuel be blended with 10 percent alcohol (usually ethanol) during some or all of the year. This is to reduce pollution and allows these areas to comply with federal pollution limits. Because alcohol is partially oxygenated, it produces less overall pollution, including ozone. In some areas (California in particular) the regulations may also require other formulations or added chemicals that reduce pollution, but add complexity to the fuel distribution and increase the cost of the fuel.
+European Union[edit]
+Consumption of Bioethanol (GWh)[21][22][23]
+#
+Country
+2005
+2006
+2007
+2008
+1
+France
+871
+1,719
+3,164
+4,693
+2
+Germany
+1,682
+3,544
+3,448
+4,675
+3
+Sweden
+1,681
+1,894
+2,119
+2,488
+4
+Netherlands
+0
+179
+1,023
+1,512
+5
+Spain
+1,314
+1,332
+1,512
+1,454
+6
+Poland
+329
+611
+837
+1,382
+7
+United Kingdom
+502
+563
+906
+1,223
+8
+Finland
+0
+10
+20
+858
+9
+Austria
+0
+0
+199
+633
+10
+Hungary
+28
+136
+314
+454
+11
+Czech Republic
+0
+13
+1
+378
+12
+Ireland
+0
+13
+59
+207
+13
+Lithuania
+10
+64
+135
+182
+14
+Belgium
+0
+0
+0
+145
+15
+Slovakia
+0
+4
+140
+76
+16
+Bulgaria
+-
+0
+0
+72
+17
+Denmark
+0
+42
+60
+50
+18
+Slovenia
+0
+2
+9
+28
+19
+Estonia
+0
+0
+0
+17
+20
+Latvia
+5
+12
+0
+0
+21
+Luxembourg
+0
+0
+14
+11
+22
+Portugal
+0
+0
+0
+0
+23
+Italy
+59
+0
+0
+0
+24
+Greece
+0
+0
+0
+0
+25
+Romania
+-
+0
+0
+0
+26
+Malta
+0
+0
+0
+0
+27
+Cyprus
+0
+0
+0
+0
+27
+European Union
+6,481
+10,138
+13,962
+20,538
+1 toe = 11,63 MWh, 0 = no data
+Alcohol consumption does not specify the traffic fuel use
+The 2008 data is not confirmed yet
+Japan[edit]
+Main articles: ja:_() and ja:
+The first alcohol fuel in Japan began with GAIAX in 1999. GAIAX was developed in South Korea, and imported by Japan. The principal ingredient was methanol.
+Because GAIAX was not gasoline, it was a tax-free object of the gas tax of Japan. However, as a result, the use of GAIAX came to be considered an act of smuggling in Japan by the government and the petroleum industry. Retailing of GAIAX was done to avoid the tax evasion criticism by independently paying the diesel fuel tax in the legal system regulations.
+Accidental vehicle fires where GAIAX was being refueled began to be reported in around 2000 when the tax evasion discussion had almost ended. The car industry in Japan criticized GAIAX, saying that "fires broke out because high density alcohol had corroded the fuel pipes". GAIAX was named a "high density alcohol fuel," and a campaign was executed to exclude it from the market long term. Finally, the Ministry of Economy, Trade and Industry also joined this campaign.[24]
+The gasoline quality method was revised under the pretext of safety concerns in 2003. This prohibited the manufacturing and sale of "High density alcohol fuel", and added a substantial GAIAX sales ban. By revising the law, fuel manufacturers are prohibited from adding 3% or more alcohol to gasoline. This revision to the law is grounds not to be able to sell alcohol fuel greater than E3 in Japan.
+The petroleum industry in Japan is now proceeding with research and development of an original alcohol fuel that differs from GAIAX. However, the commercial manufacture and sale of any new fuel may be barred by existing laws that currently exclude GAIAX from the market. Moreover, the strong aversion by the Japanese consumer to a high density alcohol fuel of any type may prevent commercial success of any new fuel.
+See also[edit]
+Energy portal
+Renewable energy portal
+Sustainable development portal
+Anaerobic digestion
+Bioconversion of biomass to mixed alcohol fuels
+Bioethanol
+Biogas
+Butanol
+Direct biofuel
+E85
+Ecalene
+Energy development
+Ethanol fuel
+Hydrogen fuel
+Methanol fuel
+Propanol
+Timeline of alcohol fuel
+References[edit]
+^ ENZYMATIC CONVERSION OF CARBON DIOXIDE TO METHANOL http://www.anl.gov/PCS/acsfuel/preprint%20archive/Files/47_1_Orlando_03-02_0072.pdf
+^ Owen, K., Coley., C.S. Weaver, "Automotive Fuels Reference Book", SAE International, ISBN 978-1-56091-589-8
+^ Non-Methane HydroCarbons http://www.atmosphere.mpg.de/enid/EN__Compounds/NMHC_5rg.html
+^ Kelly, K.J., Bailey, B.K., Coburn, T.C., Clark, W., Lissiuk, P. "Federal Test Procedure Emissions Test Results from Ethanol Variable-Fuel Vehicle Chevrolet Luminas", SAE Technical Paper 961092
+^ Brinkman, N., Halsall, R., Jorgensen, S.W., & Kirwan, J.E., "The Development Of Improved Fuel Specifications for Methanol (M85) and Ethanol (Ed85), SAE Technical Paper 940764
+^ "Effect of Alcohol Fuels on Fuel-Line Materials of Gasoline Vehicles". SAE.
+^ "Tech: ethanol". Indycar.com. Retrieved 22 May 2007.
+^ "NSW to mandate ethanol in petrol". Sydney Morning Herald. 2007-05-11. Archived from the original on 21 October 2007. Retrieved 5 October 2007.
+^ "Make your own Fuel". Tripod.com. Retrieved 22 May 2007.
+^ "BP, ABF and DuPont Unveil $400 Million Investment in UK Biofuels". BP. Retrieved 3 August 2007.
+^ "Butanol Works in your Car Today". Environmental Energy, inc. Archived from the original on 29 May 2007. Retrieved 22 May 2007.
+^ Home
+^ "Lula diz que taxa dos EUA sobre etanol no tem sentido" (in Portuguese). Invertia. 2007-03-05. Retrieved 2007-05-22.
+^ "Indstria comemora 30 anos do 1 carro a lcool no pas (Portuguese)". globo.com. 2009-09-19. Retrieved 2013-02-20.
+^ a b "The rise, fall and rise of Brazil's biofuel". BBC News. 2006-01-24. Retrieved 2007-05-22.
+^ "de carros flex sobe em maio para 210,4 mil unidades" (in Portuguese). Invertia. 2009-06-04. Retrieved 2009-12-16.
+^ "Women in Brazil Protest Bush's Visit: The poor refuse to grow fuel for the rich". Food First/Institute for Food and Development Policy. 2007-03-07. Retrieved 2011-12-04.
+^ http://www.cqzx.gov.cn/Uploadfiles/szb/20100309-110253.pdf 
+^ "Alcohol Ether Fuel in China" (pdf). University of California Riverside Environmental Research Institute. 13 Nov 2005. Retrieved 2011-12-04.
+^ Ethanol Fact Book
+^ Biofuels barometer 2007 - EurObservER Systmes solaires Le journal des nergies renouvelables n 179, p. 63-75, 5/2007
+^ Biofuels barometer 2008 - EurObservER Systmes solaires Le journal des nergies renouvelables n 185, p. 49-66, 6/2008
+^ Biofuels barometer Euroberver  July 2009, no 192 p.54-77: Obs. The year 2008 data is preliminary info and not confirmed yet.
+^  
+External links[edit]
+World Bank, Biofuels: The Promise and the Risks. World Development Report 2008: Agriculture for Development
+Alcohol Stoves
+GTA Energy, Inc.
+Biobutanol by EERE.
+http://www.greencarcongress.com/biobutanol/index.html
+http://www.ethanol.org/pdf/contentmgmt/2007_Ethanol_Fact_Book.pdf
+v
+t
+e
+Alternative fuel vehicles
+Compressed-air engine
+Compressed air car
+Compressed-air vehicle
+Electric motor
+Battery-electric locomotive
+Battery electric vehicle
+Cater MetroTrolley
+Electric aircraft
+Electric bicycle
+Pedelec
+Electric boat
+Electric car
+Electric platform truck
+Electric vehicle
+Electric motorcycles and scooters
+Gyro flywheel locomotive
+Hybrid electric vehicle
+Hybrid train
+Motorized bicycle
+Neighborhood Electric Vehicle
+Plug-in electric vehicle
+Plug-in hybrid electric vehicle
+Solar vehicle
+Biofuel ICE
+Alcohol fuel
+Biodiesel
+Biogas
+Butanol fuel
+Common ethanol fuel mixtures
+E85
+Ethanol fuel
+Flexible-fuel vehicle
+Methanol economy
+Methanol fuel
+Wood gas
+Hydrogen
+Fuel cell vehicle
+Hydrogen economy
+Hydrogen vehicle
+Hydrogen internal combustion engine vehicle
+Others
+Autogas
+Hybrid electric vehicle
+Liquid nitrogen vehicle
+Natural gas vehicle
+Propane
+Steam car
+Multiple-fuel
+Bi-fuel vehicle
+Flexible-fuel vehicle
+Hybrid vehicle
+Multifuel
+Plug-in hybrid
+Documentaries
+Who Killed the Electric Car?
+What Is the Electric Car?
+Revenge of the Electric Car
+See also
+Wind-powered land vehicle
+Zero-emissions vehicle
+v
+t
+e
+Bioenergy
+Biofuels
+Alcohol
+Algae fuel
+Bagasse
+Babassu oil
+Biobutanol
+Biodiesel
+Biogas
+Biogasoline
+Corn stover
+Ethanol
+cellulosic
+mixtures
+Methanol
+Stover
+Corn stover
+Straw
+Cooking oil
+Vegetable oil
+Water hyacinth
+Wood gas
+Energy from
+foodstock
+Barley
+Cassava
+Grape
+Hemp
+Maize
+Oat
+Palm oil
+Potato
+Rapeseed
+Rice
+Sorghum bicolor
+Soybean
+Sugarcane
+Sugar beet
+Sunflower
+Wheat
+Yam
+Camelina sativa
+Non-food
+energy crops
+Arundo
+Big bluestem
+Camelina
+Chinese tallow
+Duckweed
+Jatropha curcas
+Millettia pinnata
+Miscanthus giganteus
+Switchgrass
+Wood fuel
+Technology
+BECCS
+Bioconversion
+Biomass heating systems
+Biorefinery
+FischerTropsch process
+Industrial biotechnology
+Pellets
+mill
+stove
+Thermal depolymerization
+Concepts
+Cellulosic ethanol commercialization
+Energy content of biofuel
+Energy crop
+Energy forestry
+EROEI
+Food vs. fuel
+Issues
+Sustainable biofuel
+NewPP limit report
+Parsed by mw1220
+Cached time: 20161119080104
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.344 seconds
+Real time usage: 0.461 seconds
+Preprocessor visited node count: 3609/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 75747/2097152 bytes
+Template argument size: 5082/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 5/500
+Lua time usage: 0.121/10.000 seconds
+Lua memory usage: 4.89 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+345.338
+1 - -total
+23.89%
+82.518
+1 - Template:Reflist
+15.82%
+54.644
+28 - Template:Flag
+13.63%
+47.055
+8 - Template:Cite_web
+11.43%
+39.486
+3 - Template:Citation_needed
+10.62%
+36.668
+1 - Template:Refimprove
+10.38%
+35.836
+5 - Template:Delink
+10.25%
+35.405
+3 - Template:Fix
+9.58%
+33.083
+2 - Template:Clarify
+8.74%
+30.187
+2 - Template:Fix-span
+Saved in parser cache with key enwiki:pcache:idhash:3398741-0!*!0!!en!4!* and timestamp 20161119080103 and revision id 749288581
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Alcohol_fuel&oldid=749288581"
+Categories: Alcohol fuelsBiofuelsLiquid fuelsHidden categories: CS1 Portuguese-language sources (pt)Pages using ISBN magic linksArticles needing additional references from January 2012All articles needing additional referencesWikipedia articles needing clarification from May 2009All articles with unsourced statementsArticles with unsourced statements from August 2008Articles with unsourced statements from October 2010Articles with unsourced statements from October 2012

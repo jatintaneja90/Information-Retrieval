@@ -1,0 +1,898 @@
+Carbontax
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Part of a series about
+Environmental economics
+Concepts
+Green accounting
+Green economy
+Green trading
+Eco commerce
+Green job
+Environmental enterprise
+Fiscal environmentalism
+Environmental finance
+Renewable energy
+Policies
+Sustainable tourism
+Ecotax
+Environmental tariff
+Net metering
+Environmental pricing reform
+Pigovian tax
+Dynamics
+Renewable energy commercialization
+Marginal abatement cost
+Green paradox
+Green politics
+Pollution haven hypothesis
+Carbon related
+Low-carbon economy
+Carbon neutral fuel
+Carbon neutrality
+Carbon pricing
+Emissions trading
+Carbon credit
+Carbon offset
+Carbon emission trading
+Personal carbon trading
+Carbon tax
+Carbon finance
+Feed-in tariff
+Carbon diet
+Food miles
+2000-watt society
+Carbon footprint
+v
+t
+e
+A coal-fired power plant in Luchegorsk, Russia. A carbon tax would tax the CO2 emitted from the power station.
+A carbon tax is a tax levied on the carbon content of fuels.[1] It is a form of carbon pricing. Carbon is present in every hydrocarbon fuel (coal, petroleum, and natural gas) and is released as carbon dioxide (CO
+2) when they are burned. In contrast, non-combustion energy sourceswind, sunlight, hydropower, and nucleardo not convert hydrocarbons to CO
+2. CO
+2 is a heat-trapping "greenhouse" gas[2] which represents a negative externality on the climate system (see scientific opinion on global warming).[2][3][4] Since GHG emissions caused by the combustion of fossil fuels are closely related to the carbon content of the respective fuels, a tax on these emissions can be levied by taxing the carbon content of fossil fuels at any point in the product cycle of the fuel.[5]
+Carbon tax offers social and economic benefits. It is a tax that increases revenue without significantly altering the economy while simultaneously promoting objectives of climate change policy. The objective of a carbon tax is to reduce the harmful and unfavorable levels of carbon dioxide emissions, thereby decelerating climate change and its negative effects on the environment and human health. [6]
+Carbon taxes offer a potentially cost-effective means of reducing greenhouse gas emissions.[7] From an economic perspective, carbon taxes are a type of Pigovian tax.[8] They help to address the problem of emitters of greenhouse gases not facing the full social cost of their actions. Carbon taxes can be a regressive tax, in that they may directly or indirectly affect low-income groups disproportionately. The regressive impact of carbon taxes could be addressed by using tax revenues to favour low-income groups.[9]
+A number of countries have implemented carbon taxes or energy taxes that are related to carbon content.[10] Most environmentally related taxes with implications for greenhouse gas emissions in OECD countries are levied on energy products and motor vehicles, rather than on CO
+2 emissions directly.[7]
+Opposition to increased environmental regulation such as carbon taxes often centres on concerns that firms might relocate and/or people might lose their jobs.[10] It has been argued, however, that carbon taxes are more efficient than direct regulation and may even lead to higher employment (see footnotes).[10] Many large users of carbon resources in electricity generation, such as the United States, Russia, and China, are resisting carbon taxation.
+Contents
+1 Background
+1.1 CO2 and global warming
+1.2 Economic theory
+1.3 Social cost of carbon
+1.4 Carbon leakage
+1.5 Border adjustments, tariffs and bans
+1.6 Other types of taxes
+1.7 Petroleum (motor gasoline, diesel, jet fuel)
+1.8 Calculation
+2 Implementation
+2.1 Africa
+2.1.1 Zimbabwe
+2.1.2 South Africa
+2.2 Asia
+2.2.1 China
+2.2.2 India
+2.2.3 Japan
+2.2.4 South Korea
+2.2.5 Taiwan
+2.3 Oceania
+2.3.1 Australia
+2.3.2 New Zealand
+2.4 Europe
+2.4.1 European Union
+2.4.1.1 Denmark
+2.4.1.2 Finland
+2.4.1.3 France
+2.4.1.4 Germany
+2.4.1.5 Republic of Ireland
+2.4.1.6 Netherlands
+2.4.1.7 Sweden
+2.4.1.8 United Kingdom
+2.4.2 Norway
+2.4.3 Switzerland
+2.5 Central America
+2.5.1 Costa Rica
+2.6 North America
+2.6.1 Canada
+2.6.2 United States
+3 Harmonized carbon taxes
+4 Support
+5 Opposition by environmental groups
+6 Carbon taxes compared to cap-and-trade
+6.1 Views
+6.1.1 Supporters of taxes over caps
+6.1.2 Difficulties with taxes
+7 Distributional impacts
+8 Footnotes
+9 See also
+10 References
+11 Further reading
+12 External links
+Background[edit]
+CO2 and global warming[edit]
+Carbon dioxide is one of several heat-trapping greenhouse gases (GHGs) emitted by humans (anthropogenic GHGs).[2]:6[11][12] The scientific consensus is that human-induced greenhouse gas emissions are the primary cause of global warming,[13] and that carbon dioxide is the most important of the anthropogenic GHGs.[14][15][16] Worldwide, 27 billion tonnes of carbon dioxide are produced by human activity annually.[17] The physical effect of CO2 in the atmosphere can be measured as a change in the Earth-atmosphere system's energy balance  the radiative forcing of CO2.[18] Carbon taxes are one of the policies available to governments to reduce GHG emissions.[19]
+In the Kyoto Protocol (an international treaty), CO2 emissions are regulated along with other GHGs. Different GHGs have different physical properties: the global warming potential is an internationally accepted scale of equivalence for other greenhouse gases in units of tonnes of carbon dioxide equivalent.
+Economic theory[edit]
+See also: Carbon tax Carbon taxes compared to cap-and-trade
+
+Economists like to argue, about climate change as much as anything else. [...] But on the biggest issue of all they nod in agreement, whatever their political persuasion. The best way to tackle climate change, they insist, is through a global carbon tax.
+
+The Economist, 28 November 2015[20]
+A carbon tax is a form of pollution tax.[21] Pollution taxes are often grouped with two other economic policy instruments: tradable pollution permits/credits and subsidies. These three environmental economic policy instruments are built upon a foundation of a command and control regulation. The difference is that classic command-penalty regulations stipulate, through performance or prescriptive standards, what each polluter is required to do to be in compliance with the law. Command and control regulation is not considered an economic instrument as it is typically enforced by narrower means such as stop or control order, though it may include an administrative monetary penalty in site-specific regulations.[22] The instrumental distinction between a tax and a command-and-control regulation is determined by the enacted legislative names, and whether they contain "tax" as a defined term within the Act, for example British Columbia's Carbon Tax Act versus Alberta's Specified Gas Emitters Regulation, Alta Reg 139/2007
+A carbon tax is also an indirect taxa tax on a transactionas opposed to a direct tax, which taxes income. A carbon tax is called a price instrument, since it sets a price for carbon dioxide emissions.[23] In economic theory, pollution is considered a negative externality, a negative effect on a party not directly involved in a transaction, which results in a market failure. To confront parties with the issue, the economist Arthur Pigou proposed taxing the goods (in this case hydrocarbon fuels), which were the source of the negative externality (carbon dioxide) so as to accurately reflect the cost of the goods' production to society, thereby internalizing the costs associated with the goods' production. A tax on a negative externality is called a Pigovian tax, and should equal the marginal damage costs.
+Within Pigou's framework, the changes involved are marginal, and the size of the externality is assumed to be small enough not to distort the rest of the economy.[24] According to the scientific consensus, the impact of climate change may result in catastrophe and non-marginal changes.[25][26] "Non-marginal" means that the impact could significantly reduce the growth rate in income and welfare. The amount of resources that should be devoted to avoiding climate change impacts is controversial.[25] Policies designed to reduce carbon emissions could also have a non-marginal impact.[27]
+Prices of hydrocarbon fuels are expected to continue increasing as more countries industrialize and add to the demand on fuel supplies.[28] In addition to creating incentives for energy conservation, a carbon tax would put renewable energy sources such as wind, solar and geothermal on a more competitive footing, stimulating their growth. David Gordon Wilson first proposed a carbon tax in 1973.[29]
+Social cost of carbon[edit]
+See also: Economic impacts of climate change Marginal impacts
+The social cost of carbon (SCC) is the marginal cost of emitting one extra tonne of carbon (as carbon dioxide) at any point in time.[30] To calculate the SCC, the atmospheric residence time of carbon dioxide must be estimated, along with an estimate of the impacts of climate change. The impact of the extra tonne of carbon dioxide in the atmosphere must then be converted to the equivalent impacts when the tonne of carbon dioxide was emitted. In economics, comparing impacts over time requires a discount rate. This rate determines the weight placed on impacts occurring at different times.
+According to economic theory, if SCC estimates were complete and markets perfect, a carbon tax should be set equal to the SCC. Emission permits would also have a value equal to the SCC. In reality, however, markets are not perfect, and SCC estimates are not complete (Yohe et al.., 2007:823).[31]
+An amount of CO2 pollution is measured by the weight (mass) of the pollution. Sometimes this is measured directly as the weight of the carbon dioxide molecules. This is called a tonne of carbon dioxide and is abbreviated "tCO2". Alternatively, the pollution's weight can be measured by adding up only the weight of the carbon atoms in the pollution, ignoring the oxygen atoms. This is called a tonne of carbon and is abbreviated "tC". Estimates of the dollar cost of carbon dioxide pollution is given per tonne, either carbon, $X/tC, or carbon dioxide, $X/tCO2. One tC is roughly equivalent to 3.7 tCO2.[32]
+Estimates of the SCC are highly uncertain.[33] Yohe et al. (2007:813) summarized the literature on SCC estimates: peer-reviewed estimates of the SCC for 2005 had an average value of $43/tC ($12/tCO2) with a standard deviation of $83/tC.[34] The wide range of estimates is explained mostly by underlying uncertainties in the science of climate change (e.g., the climate sensitivity, which is a measure of the amount of global warming expected for a doubling in the atmospheric concentration of CO
+2), different choices of discount rate, different valuations of economic and non-economic impacts, treatment of equity, and how potential catastrophic impacts are estimated.[34] Other estimates of the SCC spanned at least three orders of magnitude, from less than $1/tC to over $1,500/tC.[34] The true SCC is expected to increase over time.[34] The rate of increase will very likely be 2 to 4% per year.[34] A recent meta-analysis of the literature on the estimates of the social costs of carbon, however, finds evidence of publication bias in favor of larger estimates.[35]
+The US federal government, based on Executive Order 12866 and the findings of an interagency working group, has had an official estimate of the SCC since 2010. It was $36/tC02 in 2015 (about $132/tC).[36] In 2014, the Department of Energy factored in that cost when promulgating regulations on standards for commercial refrigeration equipment. Industry groups sued over the issue. In 2016 the 7th U.S. Circuit Court of Appeals upheld the rules.[37][38]
+Carbon leakage[edit]
+Carbon leakage is the effect that regulation of emissions in one country/sector has on the emissions in other countries/sectors that are not subject to the same regulation.[39] Leakage effects can be both negative (i.e., increasing the effectiveness of reducing overall emissions) and positive (reducing the effectiveness of reducing overall emissions).[40] Negative leakages, which are desirable, are usually referred to as "spill-over".[41]
+According to Goldemberg et al.. (1996, p.28), short-term leakage effects need to be judged against leakage effects in the long-term.[42] A policy that, for example, saw a carbon taxes set only in developed countries might lead to leakage of emissions to developing countries. However, a desirable negative leakage could occur due to a lowering in demands of coal, oil, and gas from the developed countries and thus the world prices. This will lead to developing countries being able to afford more of any hydrocarbon fuel type, thus being able to substitute more oil or gas for coal, in effect lowering their national emissions. In the long-run, however, if the transfer of less polluting technologies is delayed, this substitution by income effects might have no long-term benefit.
+Carbon leakage is central to the discussion on climate policy, given the confluence of issues that are currently being debated, including the 2030 Energy and Climate Framework and the review of the EU carbon leakage list by 2014.[43]
+Border adjustments, tariffs and bans[edit]
+A number of policies have been suggested to address concerns over competitive losses due to one country introducing a carbon tax while another country does not.[44][45] Similar policies have also been suggested in an attempt to induce countries to introduce carbon taxes. Suggested policies include border tax adjustments, trade tariffs and trade bans.
+Border tax adjustments would account for emissions attributable to imports from nations without a carbon price. An alternative would be trade bans or tariffs applied to non-taxing countries. It has been argued that such approaches could be disadvantageous to a target country as a trade measure (Gupta et al.., 2007).[7] To date, World Trade Organization case law has not provided specific rulings on climate-related taxes. The administrative aspects of border tax adjustments has also been discussed.[46]
+Other types of taxes[edit]
+See also: energy tax and fee and dividend
+Two other types of taxes that are related to carbon taxes are emissions taxes and energy taxes. An emissions tax on GHG emissions requires individual emitters to pay a fee, charge or tax for every tonne of greenhouse gas released into the atmosphere[7] while an energy tax is charged directly on the energy commodities.
+In terms of mitigating climate change, a carbon tax, which is levied according to the carbon content of fuels, is not a perfect substitute for a tax on CO2 emissions.[47] For example, a carbon tax encourages reduced use of hydrocarbon fuels, but it does not provide an incentive to mitigate or improve mitigation technologies, e.g. carbon capture and storage.
+Energy taxes increase the price of energy uniformly, regardless of the emissions produced by the energy source (Fisher et al.., 1996, p.416). An ad valorem energy tax is levied according to the energy content of a fuel or the value of an energy product, which may or may not be consistent with the emitted amounts of green house gases and their respective global warming potentials. Studies indicate that to reduce emissions by a certain amount, ad valorem energy taxes would be more costly than carbon taxes.[19] However, although CO2 emissions are an externality, using energy services may result in other negative externalities, e.g., air pollution. If these other externalities are accounted for, an energy tax may be more efficient than a carbon tax alone.
+Another type of tax is a fee and dividend, where the money collected from the tax is returned equitably to all households, effectively taxing carbon emitters and rebating those that burn less carbon.[citation needed]
+Petroleum (motor gasoline, diesel, jet fuel)[edit]
+Many OECD countries have taxed fuel directly for many years for some applications; for example, the UK imposes duty directly on vehicle hydrocarbon oils, including petrol and diesel fuel. The duty is adjusted to ensure that the carbon content of different fuels is handled with equivalence.[48]
+While a direct tax should send a clear signal to the consumer, its use as an efficient mechanism to influence consumers' fuel use has been challenged in some areas:[49]
+There may be delays of a decade or more as inefficient vehicles are replaced by newer models and the older models filter through the 'fleet'.
+There may be political reasons that deter policy makers from imposing a new range of charges on their electorate.
+There is some evidence that consumers' decisions on fuel economy are not entirely aligned to the price of fuel. In turn, this can deter manufacturers from producing vehicles that they judge have lower sales potential. Other efforts, such as imposing efficiency standards on manufacturers, or changing the income tax rules on taxable benefits, may be at least as significant.
+In many countries fuel is already taxed to influence transport behavior and to raise other public revenues. Historically, they have used these fuel taxes as a source of general revenue, as their experience has been that the price elasticity of fuel is low, thus increasing fuel taxation has only slightly impacted on their economies. However, in these circumstances the policy behind a carbon tax may be unclear.
+Some also note that a suitably priced tax on vehicle fuel may also counterbalance the "rebound effect" that has been observed when vehicle fuel consumption has improved through the imposition of efficiency standards. Rather than reduce their overall consumption of fuel, consumers have been seen to make additional journeys or purchase heavier and more powerful vehicles.[50]
+Calculation[edit]
+A carbon tax that compensates for the SCC varies by fuel source. The carbon dioxide production of the fuel source per unit mass or volume is multiplied by the SCC to obtain the tax. Based on the mean peer reviewed value ($43/tC or $12/tCO2, see Social cost of carbon, above), the table below estimates the tax:
+Fuel
+CO2 Emissions[51]
+(mass of CO2 produced)
+Tax
+(per fuel unit)
+CO2 Emissions[51]
+(mass of CO2 produced)
+Tax per kWh of electricity[52]
+gasoline
+19.6lb/USgal (2.35kg/L)
+$0.11/USgal ($0.028/L)
+n/a
+n/a
+diesel fuel
+22.3lb/USgal (2.67kg/L)
+$0.12/USgal ($0.032/L)
+n/a
+n/a
+jet fuel
+22.1lb/USgal (2.65kg/L)
+$0.12/USgal ($0.032/L)
+n/a
+n/a
+natural gas
+0.1206lb/cuft (1.93kg/m3)
+$0.00066/cu ft ($0.023/m3)
+117lb/MBTU (181 g/kWh)
+$0.0066
+coal (lignite)
+2791lb/ton (1.396kg/kg)
+n/a
+215lb/MBTU (333 g/kWh)
+$0.0121
+coal (subbutuminous)
+3715lb/ton (1.858kg/kg)
+n/a
+213lb/MBTU (330 g/kWh)
+$0.0119
+coal (butuminous)
+4931lb/ton (2.466kg/kg)
+n/a
+205lb/MBTU (317 g/kWh)
+$0.0115
+coal (anthracite)
+5685lb/ton (2.843kg/kg)
+n/a
+227lb/MBTU (351 g/kWh)
+$0.0127
+Note that the tax per kWh of electricity depends on the thermal efficiency of the generating power plant, which varies from power plant to power plant. The table follows the American Physical Society (APS) estimate of 10.3 BTU/Wh (33%).[53] The APS notes that "It is expected that future plants, especially those based on gas turbine systems, often will have higher efficiencies, in some cases exceeding 50%." A theoretical conversion rate of 100% is 3.412 BTU/Wh. A more practical limit for thermal power plants is Carnot's theorem.
+Implementation[edit]
+Both energy and carbon taxes have been implemented in responses to commitments under the United Nations Framework Convention on Climate Change.[19] In most cases where an energy or carbon tax is implemented, the tax is implemented in combination with various forms of exemptions.
+Africa[edit]
+Zimbabwe[edit]
+Carbon Tax is payable in foreign currency at the rate of US$0.03 (3 cents) per litre of petroleum and diesel products or 5% of cost, insurance and freight value (as defined in the Customs and Excise Act [Chapter 23:02]), whichever is greater./[54]
+South Africa[edit]
+This section's factual accuracy may be compromised due to out-of-date information. Please update this article to reflect recent events or newly available information. (August 2011)
+A tax on emissions has been proposed for South Africa. Announced by Finance Minister Pravin Gordhan, the tax will be implemented starting September 1, 2015 on new motor vehicles.[55] This tax will apply at the time of sale, and will be related to the amount of CO2 emitted by the vehicle. 75 South African Rand will be added to the price for every gram of CO2 per kilometer the vehicle emits over 120 g/km. The tax will apply to passenger cars first and eventually to commercial vehicles.[56] Bakkies (pickup trucks) will be taxed because they are often used as passenger vehicles: this has caused an uproar for fear of affecting industry.
+David Powels of the National Association of Automobile Manufacturers of South Africa (NAAMSA), opposes this taxation on light commercial vehicles.[55] The tax could increase the cost of new vehicles by 2.5% and cause a decrease in total automobile sales: in addition, Powels questions the ability to accurately predict CO2 emissions based on engine capacity.[57] NAAMSA acknowledges the ability of carbon taxes to change consumer behavior for the betterment of the environment, but argues that this tax is not transparent enough for consumers because the taxation occurs at the time of automobile production.[57] Powels says the tax is discriminatory because it targets new vehicles, and that the government should focus on introducing "green fuel" to South Africa.[57]
+The goal of the carbon tax is to put South Africa on a "sustainable path".[58] South Africa has produced Long Term Mitigation Scenarios (LTMS) to address climate policy issues that consider variables such as technology, investment, and policy (including carbon taxes) and to clarify South Africa's position for potential UNFCC negotiations.[58]
+Asia[edit]
+China[edit]
+The Chinese Government Ministry of Finance has proposed to introduce a carbon tax from 2012 or 2013, based on carbon dioxide output from hydrocarbon fuel sources such as oil and coal.[59][60] The introduction of a carbon tax in China might affect severely the internal market, as well as many other laws and regulations of the country, but given the size of Chinese economy also contribute importantly to the mitigation of climate change.[61]
+India[edit]
+On July 1, 2010 India introduced a nationwide carbon tax of 50 rupees per tonne ($1.07/t) of coal both produced and imported into India. In a budget speech on 2014, the finance Minister increased the price to 100 rupees per tonne ( $1.60/t at $60.5 conversion)[62] In India coal is used to power more than half of the country's electricity generation.[63]
+India's total coal production is estimated to reach 571.87 million tons in the year ending March 2010 and is expected to import around 100 million tons. The carbon tax expects to raise 25 billion rupees ($535 million) for the financial year 20102011. According to then Finance Minister Pranab Mukherjee, the clean energy tax will help to finance a National Clean Energy Fund (NCEF).[63] Industry bodies have not favored the levy and fear that the resultant higher price of coal could trigger inflation.[62]
+While many remain apprehensive, a carbon tax is a step towards helping India meet their voluntary target to reduce the amount of carbon dioxide released per unit of gross domestic product by 25% from 2005 levels by 2020. Environment Minister Jairam Ramesh told reporters in June 2010 that a domestic tax should come before a global carbon tax, and India has imposed one while others debate the issue. With the new government in India under PM Narendra Modi, the carbon tax has been further increased form 100Rs per tonne to 200Rs per tonne in the Budget 2015-16.[63][64]
+Japan[edit]
+In October 2012 Japan introduced a Carbon tax with the goal to take action on mitigating dangerous climate change. The government plans to use the revenues generated from this tax to finance clean energy and energy saving projects.[65]
+In December 2009, nine industry groupings opposed a carbon tax at the opening day of the COP-15 Copenhagen climate conference stating, "Japan should not consider a carbon tax as it would damage the economy which is already among the world's most energy efficient." The industry groupings represented the oil, cement, paper, chemical, gas, electric power, auto manufacturing and electronics, and information technology sectors. The sectors state that "the government has neither studied nor explained thoroughly enough why such a carbon tax is needed, how effective and fair it is and how the payments are to be used."[66]
+In 2005, an environmental tax proposed by Japanese authorities was also delayed due to major opposition from the Petroleum Association of Japan (PAJ), other industries and consumers. The delay was "to avoid putting too much economic burden on end-users as they were already paying heavy taxes on hydrocarbon fuels amid high oil prices." The tax that was to be implemented would be 2,400 yen ($20.85 in 2005 dollars) per tonne of carbon dioxide emitted from fuels. Tax on coal would be about 1.58 yen per kilogram and that on gasoline 1.52 yen per litre (4.3 cents per gallon in 2005 dollars). Officials estimated that the tax would generate income of 37 billion yen a year for the government and result in a payment of 2,100 yen per year for an average household.[67]
+South Korea[edit]
+On August 22, 2008 The Chong Wa Dae, also known as the Blue house  the executive office and official residence of the South Korean head of state, confirmed a list of 40 new administrative strategy agenda, which included substitution of a carbon tax with the current transportation tax.[68] Most revenues of the tax amounting to an annual $11 trillion won ($10.4 billion) will be financed toward the "Low Carbon, Green Growth" move, which was announced in President Lee Myung-bak's speech marking the nation's 63rd Liberation day the week before the announcement.[68] A carbon tax is imposed on emissions of greenhouse gases including carbon dioxide. The direct taxation system is now applied to several European countries, such as Sweden, the Netherlands and Norway, as well as several states in North America. The temporary transportation tax, one of the major objective taxes in the country, is slated to end in 2009. About 80 percent of its yield is used in transportation-related work like road construction. Additional taxation amendment could follow with a "tax on emissions" bottom line, in possible implementations of tax discrimination according to a vehicles' size and a carbon tax on the currently tax-free thermal power plants. Taxation on emissions is inevitable in that low carbon policies take substantial budget, the government says.[68]
+In February 2010, a deputy finance minister Yoon Young-sun confirmed that South Korea is considering a carbon tax to help reduce emissions 4% from 2005 levels by 2020.[69] This would be in conjunction with a cap-and-trade program to be implemented later this year. With a tax rate of 31,828 won (25 Euros) per ton of CO2, the South Korean government would collect 9.1 trillion won ($7.9 billion) in tax revenue based on 2007 emissions. Income from the carbon tax would be used to reduce corporate and income taxes. On July 22, 2010 Chairman Sohn Kyung-shik of the Korea Chamber of Commerce and Industry asked for the South Korean government to delay the implementation of the carbon tax: "If the government applies much stricter guidelines over carbon emissions, then companies might be burdened."[70]
+On July 13, 2010 South Korea's government announced plans to more than double its financing for green research and development projects to 3.5 trillion won ($2.9/1.9bn) by 2013. The finance ministry decided that the new investment will be put into a new dedicated green fund operated by the state-run Korea Finance Corporation, for distribution to private sector projects. The government said that the fund forms part of a huge low-carbon investment drive that will see it invest a total of 107.4 trillion won, or two percent of the country's annual gross domestic product, on green projects between 2009 and 2013.[71]
+However, the government signaled that in addition to setting aside state funds, it will ask private companies to contribute 2.4 trillion won to the fund. It added that spending from the fund will be directed mainly toward business involved in greenhouse gas emissions reduction and promoting energy efficiency. In addition, the government intends to expand its system of tax breaks to cover new technologies in solar, wind and thermal power, low-emission vehicles, rechargeable batteries and next generation nuclear reactors.[71]
+The government also set a voluntary target last year (2009) to reduce 2020 emissions by four percent on 2005 levels by 2020, and is expected to soon announce plans for carbon trading scheme to begin in 2012.[71]
+Taiwan[edit]
+In October 2009 vice finance minister Chang Sheng-ho announced that Taiwan was planning to adopt a carbon tax in 2011. [72] However, Premier Wu Den-yih and legislators stated that the carbon taxes would increase public suffering from the recession and that the government should not levy the new taxes until Taiwan's economy has recovered. He opposed the carbon tax.[73] Many Taiwanese citizens are opposed to tax increases as well. However, Chung-Hua Institution for Economic Research (CIER), the think-tank that was commissioned by the government to advise on its plan to overhaul the nation's taxes, had recommended a levy of NT$2,000 (US$61.8, 37.6) on each tonne of CO2 emissions. CIER estimated that Taiwan could raise NT$164.7bn (US$5.1bn, 3.1bn) from the energy tax and a further NT$239bn (US$7.3bn, 4.4bn) from the carbon levy on an annual basis by 2021.[72] If Taiwan does pass the carbon tax policy, Taiwan would become the first Asian country with taxation on carbon emissions.[74] Due to the amount of revenues from such a comparatively high carbon tax, the government is planning to subsidize low income families and public transportation by using the revenues from carbon taxes.[75]
+Oceania[edit]
+Australia[edit]
+Main article: Carbon pricing in Australia
+On 1 July 2012 the Australian Federal government introduced a carbon price of AUD$23 per tonne of emitted CO2-e on selected fossil fuels consumed by major industrial emitters and government bodies such as councils. To offset the impact of the tax on some sectors of society, the government reduced income tax (by increasing the tax-free threshold) and increased pensions and welfare payments slightly to cover expected price increases, as well as introducing compensation for some affected industries. On 17 July 2014, a report by the Australian National University estimated that the Australian scheme had cut carbon emissions by as much as 17 million tonnes, the biggest annual reduction in greenhouse gas emissions in 24 years of records in 2013 as the carbon tax helped drive a large drop in pollution from the electricity sector.[76]
+On 17 July 2014, the Abbott Government passed repeal legislation through the Senate, and Australia became the first nation to abolish a carbon tax.[77] In its place the government set up the Emission Reduction Fund, paid by taxpayers from consolidated revenue, which according to RepuTex, a markets consultancy, estimated the government's main climate policy may only meet a third of the emissions reduction challenge if Australia is to cut 2000 levels by 5% by 2020.[78]
+New Zealand[edit]
+In 2005, the Fifth Labour Government proposed a carbon tax in order to meet obligations under the Kyoto Protocol. The proposal would have set an emissions price of NZ$15 per tonne of CO2-equivalent. The planned tax was scheduled to take effect from April 2007, and applied across most economic sectors though with an exemption for methane emissions from farming and provisions for special exemptions from carbon intensive businesses if they adopted world's-best-practice standards of emissions.[79]
+After the 2005 election, some of the minor parties supporting the Fifth Labour Government (NZ First and United Future) opposed the proposed tax, and it was abandoned in December 2005.[80] In 2008, the New Zealand Emissions Trading Scheme was enacted via the Climate Change Response (Emissions Trading) Amendment Act 2008.[81]
+Europe[edit]
+In Europe, a number of countries have imposed energy taxes or energy taxes based partly on carbon content.[19] These include Denmark, Finland, Germany, Ireland, Italy, the Netherlands, Norway, Slovenia, Sweden, Switzerland, and the UK. None of these countries has been able to introduce a uniform carbon tax for fuels in all sectors. For a review of Europe's experience with carbon taxation see Andersen (2010).[82]
+European Union[edit]
+During the 1990s, a carbon/energy tax was proposed at the EU level but failed due to industrial lobbying.[83] In 2010, the European Commission considered implementing a pan-European minimum tax on pollution permits purchased under the European Union Greenhouse Gas Emissions Trading Scheme (EU ETS) in which the proposed new tax would be calculated in terms of carbon content rather than volume, so that fuels with high energy concentrations, despite their subsequently high carbon content, will no longer carry the same traditionally low price. [84] According to the European Commission, the new plan will charge firms a minimum tax per tonne of carbon dioxide emissions[85] at a suggested rate of 4 to 30 per tonne of CO2.[86]
+Denmark[edit]
+As of the year 2002, the standard carbon tax rate since 1996 amounts to 100 DKK per tonne of CO2, equivalent to approximately 13 Euros or 18 US dollars . Net carbon emission tax from fuel combustion can vary depending on the level of pollution each source emits, the tax rate varies between 402 DKK per tonne of oil to 5.6 DKK per tonne of natural gas and 0 for non-combustible renewables. The rate for electricity is 1164 DKK per tonne or 10 re per kWh, equivalent to .013 Euros or .017 US dollars per kWh. The CO2 tax applies to all energy users, including the industrial sector. But the industrial companies can be taxed differently according to two principles: the process the energy is used for, and whether or not the company has entered into a voluntary agreement to apply energy efficiency measures. Danish policies like this provide incentives for companies to put in place more sustainable practices similar to a cap and trade program on carbon dioxide.[87]
+In 1992 Denmark issued a carbon dioxide tax, which was about $14 for business and $7 for households, per ton of CO2 . However, Denmark offers a tax refund for energy efficient changes. One of the main goals for the tax is to have people change their habits, because most of the money collected would be put into research for alternative energy resources.[88]
+Finland[edit]
+Finland was the first country in the 1990s to introduce a CO2 tax, initially with few exemptions for specific fuels or sectors.[89] Since then, however, energy taxation has been changed many times and substantially. These changes were related to the opening of the Nordic electricity market. Other Nordic countries exempted energy-intensive industries, and Finnish industries felt disadvantaged by this. Finland did place a border tax on imported electricity, but this was found to be out of line with EU single market legislation. Changes were then made to the carbon tax to partially exclude energy-intensive firms. This had the effect of increasing the costs of reducing CO2 emissions (p.16).
+Vourc'h and Jimenez (2000, p.17) stated that arguments based on competitive losses needed to be viewed with caution. For example, they suggested that carbon tax revenues could be used to reduce labour taxes, which would favour the competitiveness of non energy-intensive industries.
+France[edit]
+On September 10, 2009, France detailed a new carbon tax with a new levy on oil, gas and coal consumption by households and businesses that was supposed to come into effect on January 1, 2010. The new carbon tax would be 17 euros (25 US dollars) per tonne of carbon dioxide (CO2) for households and businesses, which will raise the cost of a liter of unleaded fuel by about four cents (25 US cents per gallon). The total estimated income from the carbon tax would have been between 3 and 4.5 billion euros annually, with 55 percent of profit coming from households and 45 percent coming from businesses.[90] The tax will not apply to electricity as mostly produced by France's network of nuclear reactors.[91]
+On December 30, the bill was blocked by the French Constitutional Council.[92] It considered the bill included too many exceptions and said they were unconstitutional. It condemned the exemptions for industries as being unequal and inefficient, pointing out that less than half the whole emissions would have been taxed and saying it was unfair to apply the tax only to fuels and heating, which accounted for a limited part of carbon emissions.[93] Discounts and exceptions would have applied to many aspects of industry and agriculture, including fishing, trucking, and farming.[90] French President Nicolas Sarkozy, despite his vow to "lead the fight to save the human race from global warming",[94] did not support the bill, saying that France needed support from the rest of the European Union before it would try and proceed with a carbon tax.[95]
+In 2013 Carbon tax was again announced for France. Prime Minister Jean-Marc Ayrault launched the new Climate Energy Contribution (CEC) on September 21, 2013. The tax will apply at a rate of 7/tonne CO2 in 2014, 14.50 in 2015 and rising to 22 in 2016.[96]
+Germany[edit]
+The German ecological tax reform was adopted in 1999. After that, the ecological law of the country was amended twice-in 2000 and in 2003. First of all, the law provided rung-by-rung growth of the taxes on fuel and fossil fuels and laid the foundation for the tax for energy. Only in 2003, after the law's gradual implementation, the amount of emissions reduced by 2.4%, which is 20 million tons of CO2. Thus, the eco-tax is one of the most powerful instruments for climate protection in Germany. The number of workplaces rose by 250,000 jobs.[97]
+Republic of Ireland[edit]
+In 2004, following a policy review, the Irish Government rejected the introduction of a carbon tax as a policy option.[98] However, in 2007 a Fianna Fil-Green Party coalition government was formed, and promised to reconsider the matter. In the 2010 budget the country's first carbon tax was introduced.[99] The new tax was levied at 15 per tonne of CO2 emissions[100] (approx. US$20 per tonne).[101]
+The carbon tax applies to kerosene, marked gas oil, liquid petroleum gas, fuel oil, and natural gas. The Natural Gas Carbon Tax does not apply to electricity because the cost of electricity is already included in pricing under the Single Electricity Market (SEM). Similarly, natural gas users are exempt from the tax if they can prove they are using the gas to "generate electricity, for chemical reduction, or for electrolytic or metallurgical processes".[102] "A partial relief from the tax is granted for natural gas delivered for use in an installation that is covered by a greenhouse gas emissions permit issued by the Environmental Protection Agency. The natural gas concerned will be taxed at the minimum rate specified in the EU Energy Tax Directive, which is 0.54 per megawatt hour at gross calorific value."[103] Pure biofuels are also exempt.[104] The Economic and Social Research Institute has estimated the tax will cost between about 2 and 3 a week per household, or about 156 per year:[105] a survey from the Central Statistics Office reports that Ireland's average disposable income was almost 48,000 in 2007.[106]
+There is concern that the carbon tax may disproportionately affect elderly persons and low-income households. One group, Active Retirement Ireland, proposes that "an extra allowance of 4 per week be made to people in receipt of the State pension for the 30 weeks currently covered by the fuel allowance," they suggest that "home heating oil be added to the categories covered under the Household Benefit Package, which is available to older people in receipt of the State pension".[107]
+The tax is paid by companies to the Collector General. Fraudulent violation is punishable under section 1078 of the Taxes Consolidation Act 1997, which allows for a jail sentence of up to 5 years or a fine of no more than 126,970. Failure to comply with the tax violates section 73 of the Finance Act of 2010. Payment for the first accounting period was due in July 2010.[108]
+The NGO Irish Rural Link [1] has noted that according to the Irish Economic and Social Research Institute (ESRI) "a carbon tax would weigh more heavily on rural households."[109] Irish Rural Link claim that experience from other countries has shown that carbon taxation will only succeed if it is part of a comprehensive package of measures, which includes reducing some other taxes which does not appear to be the Government's approach.[110]
+Carbon Tax was introduced in Ireland in the 2010 budget by the Green Party/ Fianna Fil coalition government at a rate of 15/tonne CO2 which was applied to motor gasoline and diesel and to home heating oil (diesel). Electricity was exempted as electricity generation from fossil fuel power stations was covered under the EU ETS. Solid fuels including coal and turf were also exempted.[111]
+In 2011 the new government coalition of Fine Gael and Labour raised the carbon tax by 33% to 20/tonne. Farmers were granted a tax relief to compensate for this increase.[112]
+Netherlands[edit]
+The Netherlands initiated a carbon tax in 1990. However, in 1992 it was replaced with a 50/50 carbon/energy tax called the Environmental Tax on Fuels, the taxes are assessed partly on carbon content and partly on energy content. The charge was transformed into a tax and became part of general tax revenues. As such, it fell under the administration of the Ministry of Finance. The general fuel tax is collected on all hydrocarbon fuels. Fuels used as raw materials are not subject to the tax. Tax rates are based 50/50 on the energy and carbon contents of fuels. In 1996 The Regulatory Tax on Energy, another 50/50 carbon/energy tax, was also implemented. The Environmental tax and the regulatory tax are 5.16 Dutch guilder, or NLG, (~$3.13) or per tonne of CO2 and 27.00 NLG (~16.40) per tonne CO2 respectively. Under the general fuel tax, electricity is not taxed, though fuels used to produce electricity are taxable. Energy-intensive industries used to benefit from preferential rates under this tax but the benefit was cancelled in January 1997. Also, since 1997 nuclear power has been taxed under the general fuel tax at the rate of NLG 31.95 per gram of uranium-235.38[113][114][115] The European Environment Agency put out an Executive Summary stating "Although the 5th Environmental Action Programme of the EU in 1992 recommended the greater use of economic instruments such as environmental taxes, there has been little progress in their use since then at the EU level." However, "at Member State level, there has been a continuing increase in the use of environmental taxes over the last decade, which has accelerated in the last 56 year...Countries including the Netherlands and the United Kingdom."[116]
+More recently, in 2007, The Netherlands introduced a Waste Fund that is funded by a carbon-based packaging tax. This tax was both used to finance the national Treasury and to finance the activities to help reach the goals of recycling 65% of used packaging by 2012.[117] The organization Nedvang (Nederland van afval naar grondstof or The Netherlands from waste to value), which was set up in 2005, is the organization supporting producers and importers of packaged goods reaching individual company goals under the Dutch packaging decree. This decree was signed in 2005 and states that producers and importers of packaged goods are responsible for the collection and recycling of that waste, and that at least 65% of that wast has to be recycled. Producers and importers can choose to reach the goals on an individual basis or by joining an organization like Nedvang.[118]
+The Carbon-Based Tax on Packaging was analyzed on behalf of the Ministry of Infrastructure and the Environment and proven to be ineffective.[119] Therefore, the packaging tax was abolished. Producer responsibility activities for packaging are now financed based on private contracts, that have been declared legally binding.[120]
+Sweden[edit]
+This section's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions. (April 2010) (Learn how and when to remove this template message)
+In January 1991, Sweden enacted a CO2 tax of 0.25SEK/kg per ton ($40 at the time, or EUR27 at current rates) on the use of oil, coal, natural gas, liquefied petroleum gas, petrol, and aviation fuel used in domestic travel. Industrial users paid half the rate (between 1993 and 1997, 25% of the rate), and certain high-energy industries such as commercial horticulture, mining, manufacturing and the pulp and paper industry were fully exempted from these new taxes.
+In 1997 the rate was raised to 0.365SEK/kg ($60 per ton) of CO2.[121][122] In 2007, the tax was SEK930 (EUR101) per ton of CO2.[123] The full tax is paid in transport, space heating, and non-combined heat and power generation. Owing to the many exemptions, oil accounts for 96% of the revenues from the tax, although it produces less than three-quarters of CO2 from fuel combustion.[citation needed]
+The tax is credited with spurring a significant move from hydrocarbon fuels to biomass. As the Swedish Society for Nature Conservation climate change expert Emma Lindberg said, "It was the one major reason that steered society towards climate-friendly solutions. It made polluting more expensive and focused people on finding energy-efficient solutions."[124][125]
+"It increased the use of bioenergy", said University of Lund Professor Thomas Johansson, former director of energy and climate at the UN Development Programme. "It had a major impact in particular on heating. Every city in Sweden uses district heating. Before, coal or oil were used for district heating. Now biomass is used, usually waste from forests and forest industries."
+Economic growth appears to be unaffected. Between 1990 and 2006, Sweden's economy grew by 44-46 percent (approx 2,8% annually), depending on source.[124][125]
+United Kingdom[edit]
+In 1993, the UK government introduced the fuel duty escalator (FDE), an environmental tax on retail petroleum products. The tax was explicitly designed to reduce carbon dioxide emissions in the transport sector. Since carbon is in fixed ratio to the quantity of fuel, the FDE roughly approximated a carbon tax. The transport lobby in the UK was extremely critical of the FDE. The FDE, which was the UK's only "real" carbon tax, failed because of the political criticism it provoked, and the automatic increase of the FDE was cancelled in 1999.[83] Increases in fuel tax have since been discretionary.
+The politically damaging fuel protests in 2000 contributed to the government decision to reduce the real rates of fuel tax. At the time, tax and duty represented more than 75% of the total pump price. In money terms, the past increments of the FDE remain in force, but in real terms, increments have been reduced by the rate of inflation. In 2006, tax represented about  of the pump price.[126]
+In addition, the UK's Climate Change Levy was introduced in 2001.
+Norway[edit]
+Norway introduced a CO2 tax on hydrocarbon fuels in 1991.[127] The tax started at a high rate of US$51 per tonne of CO2 on gasoline, with an average tax of US$21 per tonne[128] The tax was also applied to diesel, mineral oil, oil and gas used in North Sea extraction activities.[129] The International Energy Agency's (IEA) 2001 Review of Norway in the Energy Policies of IEA Countries stated that "since 1991 a carbon dioxide tax has applied in addition to excise taxes on fuel." It is among the highest carbon taxes in the OECD. Carbon taxation is also applied to the production of oil and gas offshore. The IEA estimates for revenue generated by the CO2 tax in 2004 were 7,808 million NOK[130] (about US$1.3 billion in 2010 dollars).
+According to IEA 2005 Review of Norway,[130] Norway's CO2 tax is its most important climate policy instrument, and covers about 64% of Norwegian CO2 emissions and 52% of total GHG emissions. Some industry sectors have been granted exemptions from the tax to preserve their competitive position. Various studies in the 1990s, and an economic analysis by Statistics Norway, have estimated the effect of the CO2 tax to be a reduction of 2.511% of Norwegian emissions under a business-as-usual approach (i.e., the predicted emissions that would have occurred without the tax). However, even with the carbon tax, Norway's per capita emissions rose by 15% between 1991 (when the carbon tax was introduced) and 2008.[131]
+In attempt to reduce CO2 emissions by a larger amount Norway implemented the first phase of an Emissions Trading Scheme in 2005[132] and joined the European Union Emissions Trading Scheme (EU ETS) in 2008.[133] As of 2013, roughly 55% of CO2 emissions in Norway are taxed and emissions that are not covered by a carbon tax are included in the EU ETS.[133] Certain CO2 taxes are applied to emissions that result from petroleum activities on the continental shelf.[134] This tax is charged per liter of oil and natural gas liquids produced, as well as per standard cubic meter of gas burnt off or otherwise directly emitted into the air.[134] However, this carbon tax is considered a deductible operating cost for petroleum production which can therefore be written off to reduce the ordinary taxes paid by oil companies.[134] In 2013, carbon tax rates were doubled in Norway to a rate of 0.96 NOK per liter/standard cubic meter of mineral oil and natural gas.[134] As of 2016, the tax rate has been increased to 1,02 NOK per liter or standard cubic meter of oil and natural gas.[135] Despite this increase, there is intention to reduce the tax in the future if there is a rise in the EU ETS price from the rate it was when the increased carbon tax rate was implemented.[132] According to the Norwegian Ministry of the Environment, CO2 taxes have been the most important tool for reducing emissions produced by petroleum activities and there is a low level of CO2 emissions per produced oil equivalent.[136]
+Switzerland[edit]
+In January 2008, Switzerland implemented a CO2 incentive tax on all hydrocarbon fuels, such as coal, oil and natural gas, unless they are used for energy. Gasoline and diesel fuels are not affected by the CO2 tax. The tax is collected by the Swiss Federal Customs Administration. It is an incentive tax because it is designed to promote the economic use of hydrocarbon fuels.[137] The tax amounts to CHF 12 per tonne CO2 (US $11.41 per tonne CO2), which is the equivalent of CHF 0.03 per litre of heating oil (US $0.108 per gallon) and CHF 0.025 per m3 of natural gas (US $0.024 per m3).[138][139] This tax comes from Switzerland's 1999 Federal Law on the Reduction of CO2 (CO2 Law). Although Switzerland prefers to rely on voluntary actions and measures to achieve emissions reductions, the CO2 Law mandated the introduction of a CO2 tax if voluntary measures proved to be insufficient.[140] In 2005 the federal government decided that additional measures were needed to achieve emissions reductions and meet Kyoto Protocol commitments of an 8% reduction in greenhouse gas emissions below 1990 levels between 2008 and 2012.[141] In 2007, the CO2 tax was approved by the Swiss Federal Council, coming into effect 2008.[138] In 2010, the highest tax rate will be CHF 36 per tonne of CO2 (US $34.20 per tonne CO2).[142][143]
+Companies are allowed to exempt themselves from the tax by participating in a Swiss cap-and-trade emissions trading scheme where they voluntarily commit to legally binding targets to reduce their CO2 emissions.[144] Under this scheme, emission allowances are given to companies for free, and each year emission allowances equal to the amount of CO2 emitted must be surrendered by the company. Companies are allowed to sell or trade excess permits. However, should a company fail to surrender the correct amount of allowances, they must pay the CO2 tax retroactively for each tonne of CO2 emitted since the exemption was granted.[141] About 400 companies take part in trading CO2 emission credits under this program. In 2009, for the second year in a row, the companies returned enough credits to the Swiss government to cover their CO2 emissions for the year. The 2009 report shows that companies emitted only about 2.6 million tonnes of CO2, falling well below the total permissible quantity of 3.1 million tonnes.[145] The Swiss carbon market still remains fairly small, with few emissions permits being traded. Swiss domestic law tends to favor the use of a CO2 tax to achieve emissions reductions and this preference for taxes combined with an immature carbon market could partially explain why Switzerland has not yet joined the European Union Emission Trading Scheme (EU ETS).[146]
+The tax is revenue neutral, and its revenues are redistributed proportionally to companies and to the Swiss population. For example, if the population bears 60% of the tax burden, they will receive 60% of the redistribution. For companies, revenues will be redistributed to all companies, except those who chose to exempt themselves from the tax through the cap-and-trade program.[142] The revenue is given to the companies in proportion to the total payroll of their employees and is distributed through an AHV compensation fund (Federal Old Age and Survivors' Insurance) that pays the relevant amount of revenue to the company.[147] The revenues from the tax that were paid by the Swiss population are redistributed equally to all Swiss residents through health insurance companies and a deduction on their insurance premium.[142][147] In June 2009 the Swiss Parliament decided to allocate about one-third of the revenue from the carbon tax to a 10-year building program for climate-friendly building renovations. This program promotes building renovations, the use of renewable energies, the utilization of waste heat, and building engineering.[142]
+As part of the early-redistribution program decided by the Swiss Federal Council in 2009, the tax revenue from 2008, 2009 and 2010 are being distributed in 2010.[142] In 2008 alone, the tax of CHF 12 per tonne of CO2 raised around CHF 220 million (US $209 million) in revenue.[143] As of June 16, 2010, a total of around CHF 360 million (US $342 million) have become available for distribution to the Swiss population and economy.[143][147] It is estimated that in 2010, at the highest tax rate of CHF 36 per tonne of CO2, the revenue from the tax will be about CHF 630 million (US $598 million).[143] Out of the projected CHF 630 million, CHF 200 million (US $190 million) will be allocated for the building program and the remaining CHF 430 million (US $409 million) will be redistributed in 2010 to the population and the economy.[142][143] The International Energy Agency (IEA) commends Switzerland's CO2 tax for its excellent design and notes that the recycling of the tax revenues to all citizens and enterprises is "sound fiscal practice".[141]
+Since 2005, transport fuels in Switzerland have been subjected to the Climate Cent Initiative surchargea surcharge of CHF 0.015 per litre on gasoline and diesel (US $.0038 per gallon) which will remain in place until the end of 2012.[139] However, this surcharge can be supplemented with a CO2 tax on transport fuels if emissions reductions are not satisfactory. In their 2007 review, the IEA recommended that Switzerland implement a CO2 tax on transport fuels or increase the Climate Cent surcharge to better balance the high costs of meeting emissions reductions targets across sectors.[148]
+Switzerland is currently on track to meet its Kyoto Protocol commitment of an 8% reduction in greenhouse gas emissions below 1990 levels between 2008 and 2012. The combination of the CO2 tax and other voluntary measures by businesses and private individuals is enabling Switzerland to achieve these reduction goals.[149]
+Central America[edit]
+Costa Rica[edit]
+In 1997 Costa Rica imposed a 3.5 percent carbon tax on hydrocarbon fuels.[150] A portion of the funds generated by the tax go to "Payment for Environmental Services" (PSA) program which gives incentives to property owners to practice sustainable development and forest conservation.[151] Approximately 11% of Costa Rica's national territory is protected by the plan.[152] The program now pays out roughly $15 million a year to around 8,000 property owners.[153]
+North America[edit]
+Canada[edit]
+In the 2008 Canadian federal election a carbon tax proposed by Liberal Party leader Stphane Dion, known as the Green Shift, became a central issue in the campaign. It would have been revenue-neutral, with increased taxation on carbon being balanced by tax cuts for individual citizens. However, it proved to be unpopular and contributed to the defeat of Liberal Party with its worst share of the popular vote since Confederation.[154][155][156][157]
+Although there is no federal carbon tax, some Canadian provinces do have carbon taxes:
+Quebec:
+Main article: Quebec carbon tax
+The Canadian province of Quebec became the first in Canada to introduce a carbon tax.[158][159] The tax was to be imposed on energy producers starting October 1, 2007, with revenue collected used for energy-efficiency programs including public transit. The tax rate for gasoline is $CDN0.008 per liter, or about $3.50 per tonne of CO
+2 equivalent.[160]
+British Columbia:
+Main article: British Columbia carbon tax
+On February 19, 2008, the province of British Columbia announced its intention to implement a carbon tax of $10 per tonne of Carbon dioxide equivalent (CO2e) emissions (2.41 cents per litre on gasoline) beginning July 1, 2008, making BC the first North American jurisdiction to implement such a tax. The tax will increase each year after until 2012, reaching a final price of $30 per tonne (7.2 cents per litre at the pumps).[161][162] Unlike previous proposals, legislation will keep the pending carbon tax revenue neutral by reducing corporate and income taxes at an equivalent rate.[163] Also, the government will also reduce taxes above and beyond the carbon tax offset by $481 million over three years.[161] In January 2010, the carbon tax was applied to biodiesel. Before the tax actually went into effect, the government of British Columbia sent out "rebate cheques" from expected revenues to all residents of British Columbia as of December 31, 2007.[164] In January 2013, the carbon tax was collecting about $1 billion each year which was used to lower other taxes in British Columbia. Terry Lake, the minister of the environment of British Columbia, said "It makes sense, it's simple, it's well accepted."[165]
+The British Columbia revenue-neutral carbon tax is based on the following principles:
+ All carbon tax revenue is recycled through tax reductions  The government has a legal requirement to present an annual plan to the legislature demonstrating how all of the carbon tax revenue will be returned to taxpayers through tax reductions. The money will not be used to fund government programs.[166]
+ The tax rate started low and increases gradually  Starting at a low rate gave individuals and businesses time to make adjustments and respects decisions made prior to the announcement of the tax.[166]
+ Low-income individuals and families are protected  A refundable Low Income Climate Action Tax Credit is designed to help offset the carbon tax paid by low-income individuals and families.[166]
+ The tax has the broadest possible base  Virtually all emissions from fuel combustion in B.C. captured in Environment Canada's National Inventory Report are taxed, with no exemptions except those required for integration with other climate action policies in the future and for efficient administration.[166]
+ The tax will be integrated with other measures  The carbon tax will not, on its own, meet B.C.'s emission-reduction targets, but it is a key element in the strategy. The carbon tax and complementary measures such as a "cap and trade" system will be integrated as these other measures are designed and implemented.[166]
+Following implementation many Canadians concluded that the carbon tax generally benefitted the British Columbian economy, in large part because its revenue neutral feature did indeed reduce personal income taxes.[167] However some industries complained loudly that the tax had harmed them, notably cement manufacturers and farmers.[168] Nevertheless, the tax generated sufficient praise to attract broad attention in the United States and elsewhere from those seeking an economically efficient way of reducing the emission of greenhouse gases without hurting economic growth.[169]
+Alberta:
+In July 2007, Alberta enacted the Specified Gas Emitters Regulation, Alta. Reg. 139/2007,[170] (SGER). This carbon tax[171][172] requires a $15/tonne contribution be made to the "Climate Change and Emissions Management Fund" (CCEMF) by companies that emit more than 100,000 tonnes of greenhouse gas annually to either reduce their CO2 emissions per barrel by 12 percent, or buy an offset in Alberta to apply against their total emissions.[173][174][175] In January 2016, the contribution required by large emitters to the CCEMF was increased by the provincial government to $20/tonne.[176] The tax will fall most heavily on oil companies and coal-fired electricity plants. It intends to give companies a real incentive to lower emissions while fostering technology that makes the job easier. The plan only covers the largest companies that produce 70% of Alberta's emissions.[175] There are concerns that this is a serious omission because the smallest energy producers are often the most casual about emissions and pollution.[175] The carbon tax is currently $20 per tonne.[177] Because Alberta has the highest greenhouse gas emissions in Canada the majority of Albertans are strongly opposed to a nationwide carbon tax. There is a fear that a nationwide carbon tax would cause Alberta's economy to suffer significantly more in proportion to other provinces. Alberta is also opposed to a Cap and Trade system it fears the trades will pull revenue out of the province, a fear not to be dismissed. Alberta's local carbon price allows the money to stay within Alberta.[178]
+On Nov. 23, 2015, the Alberta government announced a new carbon tax scheme very similar to British Columbia's in that it will be applied to the entire economy. All businesses and residents will pay a carbon tax based upon the carbon dioxide equivalent emissions, including the burning of wood and biofuels. The tax will come into force in 2017 with a price of $20 per tonne. The price will increase to $30 per tonne in 2018 and increase thereafter by the rate of inflation plus 2%.
+Also announced will be the reduction of coal-powered electricity generation. Currently, coal provides 44% of the power in the province. The target is to reduce this to 17% by 2030. Renewable energy production (primarily wind and solar in Alberta) is targeted at 30% of generating capacity by 2030.
+The effect on consumers will be an increase of 6.67 per litre for gasoline and $1.4898 per gigajoule for natural gas.[179] Because it is primarily generated from burning hydrocarbons, electricity prices are also expected to rise, although the exact amount is currently unknown. The total personal cost is estimated to be about $500 per household. Rebates will be provided to low income earners and temporary rebates provided to exporters to offset competitive disadvantages.[180]
+United States[edit]
+Estimated effect of a carbon tax on sources of United States electrical generation (US Energy Information Administration)
+There is no nationwide carbon tax levied in the United States, although a few states and localities have introduced the tax. There is, however, a national grassroots movement called the Citizens' Climate Lobby to create support across parties to put a national price on carbon.
+Colorado
+In November 2006, voters in Boulder, Colorado passed what is said to be the first municipal carbon tax. It is a tax on electricity consumption (utility bills) with deductions for using electricity from renewable sources (primarily Xcel's WindSource program). The goal is to reduce carbon emissions to those outlined in the Kyoto Protocol; specifically to reduce their emissions by 7% below 1990 levels by 2012.[181] Tax revenues are collected by Xcel Energy and are directed to the city's Office of Environmental Affairs to fund programs to reduce community-wide greenhouse gas emissions.[182]
+Boulder's Climate Action Plan (CAP) tax is expected to raise $1.6 million in 2010. The tax was increased to a maximum allowable rate by voters in 2009 to meet CAP goals. Currently the tax is set at $0.0049 /kWh for residential users (ave. $21 per year), $0.0009 /kWh for commercial (ave. $94 per year), and $0.0003 /kWh for industrial (ave. $9,600 per year). The revenues from the tax are expected to decrease over time as businesses and residents reduce their energy use and begin to use more solar and wind power. The tax was renewed by voters on November 6, 2012.[181]
+California
+In May 2008, the Bay Area Air Quality Management District, which covers nine counties in the San Francisco Bay Area, passed a carbon tax on businesses of 4.4 cents per ton of CO2.[183]
+In 2006, the state of California, passed AB-32 (Global Warming Solutions Act of 2006), which requires California to reduce greenhouse gas emissions. To implement AB-32, the California Air Resources Board proposed a carbon tax, but has yet to reach agreement with the Western States Petroleum Association which represents the refineries in the state. The WSPA holds that AB-32 only allows a carbon tax to cover administrative costs.[184]
+Maryland
+In May 2010 Montgomery County, Maryland passed the nation's first county-level carbon tax.[185] The legislation required payments of $5 per ton of CO2 emitted from any stationary source emitting more than a million tons of carbon dioxide during a calendar year.[186] There is only one source of emissions fitting the criteria laid out by the council, an 850 megawatt coal-fired power plant owned by Mirant Corporation. The tax was expected to raise between $10 million and $15 million for the county, which faced a nearly $1 billion budget gap.[187] The law provided for half of revenue to go toward creating a low interest loan plan for county residents to invest in residential energy efficiency upgrades.[186] The County's energy supplier buys its energy at auction, so Mirant would have to sell its energy at market value, which meant no discernible increase in energy costs would be felt by the county's residents. In June 2010 the Mirant Corporation sued the county to stop the tax.[188] In June 2011 the Federal Court of Appeals ruled that the tax was a fee imposed "for regulatory or punitive purposes" rather than a tax, and therefore could be challenged in court.[189] The County Council repealed the fee in July 2012.[190]
+Washington
+In 2016, a group of climate activists put an initiative for a revenue-neutral carbon tax on the November ballot in Washington State. If approved by voters, it would have imposed a tax on carbon dioxide emissions and used that revenue to decrease the state's sales tax, the business tax, and expand the state's version of the earned income tax credit for low-income workers.
+Harmonized carbon taxes[edit]
+Cooper (1998, 2001)[44] has been a leading proponent of a harmonized carbon tax (a tax where the country setting the tax keeps all the revenues). Under his proposals, all participating nations would be subject to a tax at a common rate, thus achieving cost-effectiveness. A number of problems have been suggested with Cooper's proposals:
+One criticism is of the fairness of having developing countries being subject to the same tax rates as developed countries, given their relative level of welfare and responsibility for the climate problem.
+It has been asked what incentive developed countries would have to adopt a tax.
+It is possible that governments would attempt to neutralize the effects of the tax on certain economic sectors.
+Given the presence of existing tax distortions, it might not be politically feasible to implement a uniform tax rate.
+Support[edit]
+Former US Vice President Al Gore strongly backed a carbon tax in his book, Earth in the Balance. In 2000, when Gore ran for president, one commentator labeled Gore's carbon tax proposal a "central planning solution" harking back to "the New Deal politics of his father."[191]
+Greg Mankiw, head of the Council of Economic Advisers under the George W. Bush administration, economic adviser to Mitt Romney for his 2012 presidential campaign and economics professor at Harvard University since 1985, has been advocating for increased carbon/oil taxation since at least 1999.[192] In 2006, he founded the Pigou Club of economists advocating for Pigovian taxes, a carbon tax chiefly among them. In the club's manifesto, he writes that "[h]igher gasoline taxes, perhaps as part of a broader carbon tax, would be the most direct and least invasive policy to address environmental concerns."[193]
+In 1979, economist Milton Friedman expressed support for the idea of a carbon tax in an interview on the The Phil Donahue Show, saying "...the best way to [deal with pollution] is to impose a tax on the cost of the pollutants emitted by a car and make an incentive for car manufacturers and for consumers to keep down the amount of pollution."[194]
+In 2001, environmental scientist Lester Brown, founder of the Worldwatch Institute and founder and president of the Earth Policy Institute, outlined a detailed "tax shifting" structure which would not lead to an overall higher tax level: "It means reducing income taxes and offsetting them with taxes on environmentally destructive activities such as carbon emissions, the generation of toxic waste, the use of virgin raw materials, the use of non-refillable beverage containers, mercury emissions, the generation of garbage, the use of pesticides, and the use of throwaway products... activities that should be discouraged by taxing.""[195] Brown subsequently added that such a tax shift would amount to an "honest market," explaining, "The key to restructuring the economy is the creation of an honest market, one that tells the ecological truth."[196] In 2011 he estimated the cost of such a tax shift, including the effects of better technology, the use of renewables and "updating the concept of national security."[197]
+Former US Federal Reserve chairman Paul Volcker suggested (February 6, 2007) that "it would be wiser to impose a tax on oil, for example, than to wait for the market to drive up oil prices."[clarification needed][198]
+NASA climatologist James E. Hansen has argued in support of a carbon tax.[199][200][201][202][203]
+Commencing in North America, the nonprofit Citizens Climate Lobby has been advocating for carbon tax legislation (specifically a progressive fee and dividend model with revenue returned to citizens in the form of a check or rebate). The organization has about 165 chapters in the United States, Canada, and several other countries including Bangladesh and Sweden.[204]
+Former United States Congressional Representative Bob Inglis (R-South Carolina) heads the Energy and Enterprise Initiative at George Mason University which is making the conservative case for climate legislation through support for a carbon tax.[205]
+A number of businesses and business leaders also support a carbon tax. These include:
+FedEx CEO Fred Smith;[206]
+James Owens, CEO of Caterpillar;[207]
+and Paul Anderson, CEO and Chairman of Duke Energy.[208]
+Monica Prasad, a Northwestern University sociologist, wrote about Denmark's carbon tax in the New York Times in 2008.[209] In her view, the Danish carbon tax served as an example of how to reduce emissions in the US. Prasad argued, however, that a critical component for Denmark's success in reducing carbon emissions from 19902005 was that the tax revenues from the carbon tax were dedicated to subsidies for firms to use for alternative, environmentally cleaner sources of energy.
+Economist Laura D'Andrea Tyson wrote in June 2013: "The beauty of a carbon tax is its market-based simplicity. Economists since Adam Smith have insisted that prices are by far the most efficient way to guide the decisions of producers and consumers. Carbon emissions have an "unpriced" societal cost in terms of their deleterious effects on the earth's climate. A tax on carbon would reflect these costs and send a powerful price signal that would discourage carbon emissions." She listed several prominent economists and political figures that have supported carbon taxes.[210]
+Carbon Tax Now is an online petition for citizens from around the globe to show support for implementing a carbon tax in their country of citizenship.[211]
+Opposition by environmental groups[edit]
+In 2016 in Washington state, the Sierra Club, the Washington Environmental Council, Climate Solutions, and the Alliance for Jobs and Clean Energy said they opposed a proposed tax of $25 per metric ton on fossil fuels consumed in the state because the revenue from the tax would be used to reduce other taxes.[212]
+Carbon tax does well in setting emission prices, but does poorly in stipulating the level of emissions, which means that the tax does little in ensuring emissions are kept below a certain level. The uncertainty of emission levels under a carbon tax is inconsistent with specific emission targets that climate change policy hopes and works to achieve.[213]
+Carbon taxes compared to cap-and-trade[edit]
+See also: Cap-and-trade
+An alternative government policy to a carbon tax is a cap on greenhouse gas (GHG) emissions. Emission levels of GHGs are capped and permits to pollute are freely allocated (called "grandfathering") or auctioned to polluters. Auctioning permits has significant economic advantages over grandfathering. In particular, auctioning raises revenues that can be used to reduce distortionary taxes and improve overall efficiency.[214] A market may be allowed for these emission permits so that polluters can trade some or all of their permits with others (cap-and-trade). A hybrid instrument of a cap and carbon tax can be made by creating a price-floor and price-ceiling for emission permits.[23] A carbon tax can also be implemented concurrently with a cap.[42]
+Unlike a cap system with grandfathered permits, a carbon tax raises revenues. If the revenues are used to reduce other distortionary taxes, this can improve the efficiency of the tax. On the other hand, a cap with grandfathered permits can have an efficiency advantage of being applied to all industries. This provides an equal incentive at the margin for all polluters to reduce their emissions. This is an advantage over a tax that exempts or has reduced rates for certain sectors.[214]
+Views[edit]
+Both cap-and-trade and carbon taxes give polluters a financial incentive to reduce their GHG emissions. Carbon taxes provide certainty regarding emission prices, while a cap provides certainty regarding emissions quantity.[215] In a literature assessment, Fisher et al.. (1996:430) concluded that the choice between an international quota (cap) system, or an international carbon tax, remained ambiguous.[47] Lu et al. (2012) compared a carbon tax, an emission trading, and command-and-control regulation at the industrial level. Their abstract concludes that market-based mechanisms would perform better than emission standards in achieving emission targets without affecting industrial production.[216]
+Supporters of taxes over caps[edit]
+This section has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This section contains information of unclear or questionable importance or relevance to the article's subject matter. Please help improve this section by clarifying or removing superfluous information. If importance cannot be established, the section is likely to be moved to another article, pseudo-redirected, or removed.
+Find sources:"Carbon tax"news newspapers books scholar JSTOR free images (March 2010) (Learn how and when to remove this template message)
+This section's factual accuracy is disputed. Please help to ensure that disputed statements are reliably sourced. See the relevant discussion on the talk page. (March 2010) (Learn how and when to remove this template message)
+(Learn how and when to remove this template message)
+James E. Hansen has argued in his book (Storms of My Grandchildren) and in an open letter to President Obama, that policies to cap carbon emissions and trade permits for them (see cap and trade) will only make money for banks and hedge funds and allow 'business-as-usual' for the chief carbon-emitting industries.[199][217] He advocates phasing out and protesting against coal-fired power stations that do not have onsite carbon sequestration and imposing a progressive carbon tax.[200][201][202][203]
+Carl Pope, former executive director of the Sierra Club, supports a carbon tax over cap-and-trade because employers will know exactly what they paid for the carbon dioxide they produced, and because a cap-and-trade system (with grandfathered permits) rewards those who have the highest emissions now and have done the least to reduce them previously.[218]
+Gary Becker, a follower of the Chicago School of Economics, expressed his support for carbon taxes over cap-and-trade.[219] Becker won the Nobel Prize in economics in 1992.
+On December 11, 2008, Rex Tillerson, the CEO of Exxonmobil, said a carbon tax is "a more direct, more transparent and more effective approach" than a cap and trade program, which he said, "inevitably introduces unnecessary cost and complexity." He also said that he hoped that the revenues from a carbon tax would be used to lower other taxes so as to be revenue neutral.[220]
+The American Enterprise Institute, Environmental economist Jack Pezzey,[221] economist Jeffrey Sachs (director of the Earth Institute of Columbia University),[222] Yale economist William Nordhaus,[223] The Earth Policy Institute, The Australia Institute, the Centre for Independent Studies, and Harvard professor, Gregory Mankiw also prefer carbon taxes to cap-and-trade.[224][225]
+Difficulties with taxes[edit]
+According to the Carbon Trust (2009), a carbon tax suffers from combining a set price for carbon along with a transfer of revenue from industry to government.[215] This, it is argued, guarantees that the tax will not be set at the appropriate level, but will instead be determined by the politics of large-scale revenue transfers. With a cap, however, the revenues from emission allowances can be separately negotiated with industry.
+Another issue with taxes is whether the emissions reductions they bring about actually exist  that is, the "additionality" of emissions reductions attributable solely to the taxes (Carbon Trust, 2009). Additionality usually requires a comparison of observed emission reductions against an estimate of the emission reductions that would have taken place without the presence of the tax (the emissions "baseline"). The additionality of a carbon tax, in this sense, is difficult to establish because other policies usually will also have impacts on levels of emissions, e.g., subsidies and regulations. (As a case in point, greenhouse gas emissions from British Columbia had fallen 4.5% between 2007 and 2010 following imposition of its carbon tax. However, it is estimated by the government that most of this decrease is, in fact, attributable to an economic recession.[226]) There are about USD $550 billion in fossil fuel subsidies annually worldwide.[227]
+Distributional impacts[edit]
+In most instances, firms pass the costs of a carbon price onto consumers. Studies typically find that poor consumers spend a greater proportion of their income on energy-intensive goods and fuel, and cost increases in energy tend to impact the poor worse than the rich.[228] Therefore, if the revenue from a carbon tax is retained by the government, a price on carbon is expected to be regressive, similar to any policy that increases the cost of fuels and energy.
+A study by Resources for the Future (2014) examined the regressive nature of a carbon tax evaluating three different options for the use of a revenue neutral carbon tax. The study concluded that distributing the fee back to the public as a lump sum payment eliminates the regressive nature of the carbon tax, where people in the lower 60% of income brackets will, on average, perceive a positive impact on their household welfare.[229]
+Studies by Metcalf et al. (2008) and Metcalf (2009) consider the possible distributional impacts of carbon taxes in the United States.[230] The 2008 study considers three recent tax bills introduced to the US Congress. The taxes themselves are highly regressive, but when revenues from the tax are returned lump-sum, the taxes become progressive. The 2009 study looks at a carbon tax combined with a reduction in payroll taxes. It is found that this combination can be distributionally neutral. With an adjustment in Social Security payments for the lowest-income households, the carbon tax policy can be made progressive.
+A study by Ekins and Dresner (2004) considers the distributional impact in the UK of introducing a carbon tax and increasing fuel duty.[231] It is found that a carbon tax can be made progressive, but that the tax would make those currently worst affected by fuel poverty more badly off. Of the policy options looked at for transport, the most effective in compensating low-income motorists is found to be an increase in fuel duties and the abolishment of vehicle excise duty.
+Footnotes[edit]
+Bashmakov et al. (2001) refer to emissions taxes.[10] Carbon taxes are not identical to emissions taxes, but they can be designed to be a close approximation.[5]
+See also[edit]
+Global warming portal
+Ecology portal
+Environment portal
+4 Degrees and Beyond International Climate Conference
+Economics of global warming
+Cap and share
+Carbon Credit
+Carbon pricing
+Environmental economics
+Environmental impact of aviation
+Gasoline tax
+Hyper-mobile travel
+Landfill Tax Credit Scheme (in the UK)
+Mitigation of global warming
+The Pigou Club
+Polluter pays principle
+Tax horsepower
+Tax on electricity
+Congestion pricing
+Emissions Reduction Currency System
+References[edit]
+^ Hoeller, P.; M. Wallin (1991). OECD Economic Studies No. 17, Autumn 1991. Energy Prices, Taxes and Carbon Monoxide Emissions (PDF). OECD website. p.92. Retrieved 2010-04-23.
+^ a b c Staudt, A.; et al. (2008). "Understanding and Responding to Climate Change" (PDF). U.S. National Academy of Sciences. Retrieved 2010-11-09.
+^ Science academies of the G8 countries, plus Brazil, China, India, Mexico, and South Africa (May 2009). "G8+5 Academies' joint statement: Climate change and the transformation of energy technologies for a low carbon future" (PDF). Climate Change at the National Academies. Website of the US National Academy of Sciences, 500 Fifth St. N.W., Washington, D.C. 20001. Retrieved 2011-04-08. External link in |publisher= (help) CS1 maint: Multiple names: authors list (link)
+^ IPCC (2007). 3. Projected climate change and its impacts. In (section): Summary for Policymakers. In (book): Climate Change 2007: Synthesis Report. Contribution of Working Groups I, II and III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (Core Writing Team, Pachauri, R.K and Reisinger, A. (eds.)). Print version: IPCC, Geneva, Switzerland. This version: IPCC website. Retrieved 2011-03-30.
+^ a b Bashmakov, I.; et al. (2001). "6.2.2.2.1 Collection Point and Tax Base". In B. Metz; et al. Policies, Measures, and Instruments. Climate Change 2001: Mitigation. Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change. Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: GRID-Arendal website. Retrieved 2011-04-08.
+^ Nordhaus, William D. Carbon Taxes to Move Toward Fiscal Sustainability. The Economists' Voice 2.0: The Financial Crisis, Health Care Reform, and More, Edited by Aaron S. Edlin et al., Columbia University Press, 2012, pp. 208214, www.jstor.org/stable/10.7312/edli16014.29.
+^ a b c d Gupta, S.; et al. (2007). "13.2.1.2 Taxes and charges". Policies, instruments, and co-operative arrangements. Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz et al. Eds.). Print version: Cambridge University Press, Cambridge, U.K., and New York, N.Y., U.S.A.. This version: IPCC website. Retrieved 2010-03-18.
+^ Helm, D. (2005). "Economic Instruments and Environmental Policy". The Economic and Social Review. 36 (3): 45. Archived from the original on 2011-05-01. Retrieved 2011-04-08.
+^ IPCC (2001). 7.34. In (section): Question 7. In (book): Climate Change 2001: Synthesis Report. A Contribution of Working Groups I, II, and III to the Third Assessment Report of the Intergovernmental Panel on Climate Change (Watson, R.T. and the Core Writing Team (eds.)). Print version: Cambridge University Press, UK. This version: GRID-Arendal website. p.122. Retrieved 2011-03-29.
+^ a b c d Bashmakov, I.; et al. (2001). "6.2.2.2.2 Association with Trade, Employment, Revenue, and Research and Development Policies. In: Policies, Measures, and Instruments". In B. Metz; et al. Climate Change 2001: Mitigation. Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change. Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: GRID-Arendal website. Retrieved 2011-04-08.
+^ US NRC (2001). "Climate Change Science: An Analysis of Some Key Questions". National Academy Press, Washington, D.C., U.S.A. Retrieved 2010-02-11.
+^ Grubb, M. (JulySeptember 2003). "The Economics of the Kyoto Protocol" (PDF). World Economics. 4 (3): 146147. Retrieved 2010-03-25.
+^ Letter to U.S. Senators from 18 scientific organizations, by Alan I. Leshner (Executive Director, American Association for the Advancement of Science), Keith Sietter (Executive Director, American Meteorological Society), Douglas N. Arnold (President, Society for Industrial and Applied Mathematics), et al., October 21, 2009
+^ IPCC (2007). "Climate Change 2007: Synthesis Report" (PDF). International Panel Climate Change. p.14.
+^ "Air and Health  Local authorities, health and environment", p. 10, European Environment Agency, July 2009
+^ Massachusetts v. EPA, 549 U.S. 497 (2007)
+^ "Volcanic Gases and Their Effects", United States Geological Survey, retrieved 10-8-2009
+^ Forster, P.; et al. (2007). "2.2 Concept of Radiative Forcing". In Solomon, S. D.; et al. Changes in Atmospheric Constituents and in Radiative Forcing. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Climate Change 2007: The Physical Science Basis. Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: IPCC website. Retrieved 2010-08-25.
+^ a b c d Bashmakov, I.; et al. (2001). "Policies, Measures, and Instruments". In B. Metz; et al. Climate Change 2001: Mitigation. Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A. Retrieved 2009-05-20.
+^ Article "The way forward. Second-best solutions", The Economist, special report on "Climate change", 28 November 2015, pages 15-16.
+^ Groosman, Britt. "2500 Pollution Tax" (PDF). ENCYCLOPEDIA OF LAW & ECONOMICS. Edward Elgar and the University of Ghent. Retrieved 2 February 2014.
+^ Greenbaum, Allan (2010). Environmental Law and Policy in the Canadian Context. Concord, Ontario: Captus Press. pp.240241. ISBN978-1-55322-171-5.
+^ a b Hepburn, C. (2006). "Regulation by prices, quantities or both: an update and an overview" (PDF). Oxford Review of Economic Policy. 22 (2): 226247. doi:10.1093/oxrep/grj014. Retrieved August 30, 2009.
+^ Helm, D. (2005). "Economic Instruments and Environmental Policy". The Economic and Social Review. 36 (3). Archived from the original on May 1, 2011. Retrieved September 2, 2009.
+^ a b Helm, D. (ed) (2005). Climate change Policy: A Survey. In: "Climate Change Policy" (PDF). Oxford University Press. ISBN978-0-19-928145-9. Retrieved September 2, 2009.
+^ Stern, N. (2007). 2.6 Non-marginal policy decisions. In: Stern Review on the Economics of Climate Change (pre-publication edition). Print version: Cambridge University Press. Pre-publication version: HM Treasury website. pp.3435. Retrieved 2011-04-08.
+^ Helm, D. (2008). "Climate-change policy: why has so little been achieved?". Oxford Review of Economic Policy. 24 (2): 211238. doi:10.1093/oxrep/grn014. Retrieved September 2, 2009.
+^ "International Energy Outlook". US Energy Information Agency. May 25, 2010. Retrieved 2011-01-17.
+^ Berdik, Chris (10 August 2014). "The unsung inventor of the carbon tax". The Boston Globe. Retrieved 11 August 2014.
+^ Yohe, G.W.; et al. (2007). "20.6 Global and aggregate impacts". In M.L. Parry,; et al. Perspectives on climate change and sustainability. Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press. Retrieved 2011-10-12.
+^ Yohe, G.W.; et al. (2007). "20.6.1 History and present state of aggregate impact estimates". In M.L. Parry,; et al. Perspectives on climate change and sustainability. Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press. Retrieved 2011-10-12.
+^ The correct conversion factor is the molar mass of carbon dioxide divided by the molar mass of carbon (approx. 44 g per mol divided by 12 g per mol)
+^ Klein, R.J.T.; et al. (2007). "18.4.2 Consideration of costs and damages avoided and/or benefits gained". In M.L. Parry; et al. Inter-relationships between adaptation and mitigation. Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press. pp.756757. Retrieved 2011-10-12. Quote: "Note that the estimates of avoided damages are highly uncertain. A survey of fourteen experts in estimating the social cost of carbon rated their estimates as low confidence, due to the many gaps in the coverage of impacts and valuation studies, uncertainties in projected climate change, choices in the decision framework and the applied discount rate (...) Many published studies of damages in sectors that are quantified in economic models (but mostly market-based costs and related to incremental projections of temperature) and with discount rates commonly used in economic decision-making (e.g., 3% or higher) lead to low estimates of the social cost of carbon. In general, confidence in these estimates is low."
+^ a b c d e Yohe, G.W.; et al. (2007). "Executive summary". In M.L. Parry,; et al. Perspectives on climate change and sustainability. Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press. Retrieved 2011-10-12.
+^ Havranek, T., Irsova, Z., Janda, K, and D. Zilberman (2014). Selective Reporting and the Social Cost of Carbon. UC Berkeley CUDARE working paper 1139. Retrieved 2014-12-08. CS1 maint: Multiple names: authors list (link)
+^ Bloomberg. "Climate change may be doubted by some, but now it's the law". Retrieved 2016-08-18.
+^ "Federal Court Blocks Challenge To Social Cost Of Carbon". NPR.org. Retrieved 2016-08-17.
+^ "Federal Court Blocks Challenge To Social Cost Of Carbon". NPR.org. Retrieved 2016-08-18.
+^ Barker, T.; et al. (2007). "11.7.2 Carbon leakage. In (book chapter): Mitigation from a cross-sectoral perspective. In (book): Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz et al. Eds.)". Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: IPCC website. Retrieved 2010-04-05.
+^ Barker, T.; et al. (2007). "Executive Summary. In (book chapter): Mitigation from a cross-sectoral perspective. In (book): Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz et al. Eds.)". Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: IPCC website. Retrieved 2010-04-05.
+^ IPCC (2007). "Glossary A-D. In (section): Annex I. In (book): Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz et al. Eds.)". Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A. Retrieved 2010-04-18.
+^ a b Goldemberg, J.; et al. (1996). Introduction: scope of the assessment. In: Climate Change 1995: Economic and Social Dimensions of Climate Change. Contribution of Working Group III to the Second Assessment Report of the Intergovernmental Panel on Climate Change (J.P. Bruce et al. Eds.) (PDF). This version: Printed by Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. PDF version: IPCC website. doi:10.2277/0521568544. ISBN978-0-521-56854-8.
+^ Marcu, Andrei (December 2013). "Carbon Leakage: An overview". |access-date= requires |url= (help)
+^ a b Gupta, S.; et al. (2007). "13.3.3.4.3 Coordination/harmonization of policies. In (book chapter): Policies, instruments, and co-operative arrangements. In: Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz et al. Eds.)". Print version: Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. This version: IPCC website. Retrieved 2010-04-02.
+^ Farrahi Moghaddam, Reza; Farrahi Moghaddam, Fereydoun; Cheriet, Mohamed (2013). "A modified GHG intensity indicator: Toward a sustainable global economy based on a carbon border tax and emissions trading". Energy Policy. 57 (June): 363380. arXiv:1110.1567. doi:10.1016/j.enpol.2013.02.012.
+^ Ireland, Robert. "Implications for Customs of climate change mitigation and adaptation policy options: a preliminary examination" (PDF). World Customs Journal. 4 (2): 2136.
+^ a b Fisher, B.S.; et al. (1996). An Economic Assessment of Policy Instruments for Combating Climate Change. In: Climate Change 1995: Economic and Social Dimensions of Climate Change. Contribution of Working Group III to the Second Assessment Report of the Intergovernmental Panel on Climate Change (J.P. Bruce et al. Eds.) (PDF). This version: Printed by Cambridge University Press, Cambridge, UK, and New York, N.Y., U.S.A.. Web version: IPCC website. doi:10.2277/0521568544. ISBN978-0-521-56854-8.
+^ "Energy  Its Impact on the Environment and Society, Table 2A.1 Current rates of hydrocarbon duty" (PDF). UK Department for Business, Enterprise and Regulatory Reform. Retrieved 2009-06-22.
+^ "The cost and effectiveness of policies to reduce vehicle emissions" (PDF). OECD ITF Joint Transport Research Centre. February 1, 2008.
+^ "Oil dependence: Is transport running out of affordable fuel?" (PDF). OECD ITF Joint Transport Research Centre. November 16, 2007. Archived from the original (PDF) on 2016-03-04.
+^ a b "Fuel and Energy Source Codes and Emission Coefficients". Voluntary Reporting of Greenhouse Gases Program. U.S. Department of Energy (DOE), Energy Information Administration (EIA). Retrieved 2008-04-15.
+^ The calculation is: A lb CO2/million BTU x (1 million BTU/ 1000000 BTU) x (10.3 BTU/Wh) x (1 tonne/2205 lb) x ($12/tonne CO2) = B $/kWh. See "Special topics relating to electricity" in the Energy Units document from the American Physical Society, accessed 2010-07-16
+^ "Energy Units". American Physical Society. 2011. Retrieved 2011-05-05.
+^ Zimra website
+^ a b "South Africa gears up for carbon tax". CPC News. 2010-06-16. Retrieved 2010-06-16.
+^ "South Africa: Fuel Emissions". allafrica.com. 2010-08-04. Retrieved 2010-08-04.
+^ a b c Powels, David (August 8, 2010). "What the new CO2 tax will mean". Moneyweb Network. Retrieved Aug 19, 2010.
+^ a b "Long Term Mitigation Scenarios Strategic Options for South Africa" (PDF). Government of South Africa. October 2007. Retrieved August 16, 2010.
+^ Jiawei, Zhang (11 May 2010). "China ministries propose carbon tax from 2012 -report". China Daily. Retrieved 10 July 2011.
+^ "China ministries propose carbon tax from 2012 -report". Reuters. Alibaba News. 10 May 2010. Retrieved 10 July 2011.
+^ Farah, Paolo Davide (2015). "China's Role and Contribution in The Global Governance of Climate Change: Institutional Adjustments for Carbon Tax Introduction, Collection and Management in China". JOURNAL OF WORLD ENERGY LAW AND BUSINESS. 8 (6). Retrieved 30 November 2015.
+^ a b Dogra, Sapna. July 3, 2010. "India sets $1/mt clean coal tax for domestic producers/importers. Platts International Coal Report. Retrieved from: http://www.lexisnexis.com/hottopics/lnacademic/
+^ a b c Pearson, Natalie Obiko (July 1, 2010). "India to Raise $535 Million From Carbon Tax on Coal". Bloomberg Businessweek. Retrieved May 14, 2011.
+^ For more information about India's carbon tax and other efforts being taken to mitigate climate change refer to India's Climate Change Initiative for 2010
+^ "Japans Ministry of the Environment - Environmental taxation". Retrieved February 1, 2013.
+^ Reuters, Thomson (Dec 7, 2009). "Japan industry unites against carbon tax". Reuters. Retrieved August 9, 2010.
+^ Reuters, Thomson (October 27, 2005). "Japan should introduce Carbon Tax in 2007-Ministry". Planet Ark World Environment News. Retrieved August 3, 2010.
+^ a b c Hyun-cheol, Kim (August 22, 2008). "Carbon Tax to Be Introduced in 2010". The Korea Times. Retrieved August 4, 2010.
+^ "South Korea mulls carbon tax". Business Green. February 17, 2010. Retrieved January 5, 2011.
+^ Yoon-mi, Kim (March 30, 2010). "Carbon tax plan floated". The Korea Herald. Retrieved May 14, 2011.
+^ a b c Young, Tom (July 13, 2010). "South Korea More than Doubles Green R&D Funding". BusinessGreen.com. Retrieved 13 August 2010.
+^ a b Chan, Yvonne (2009-10-20). "Taiwan plans taxes for energy and CO2 emissions by 2011". Businessgreen.
+^ "View from Taiwan  Environmental venting". Michael Turton. 2009-10-29.
+^ Max Lin (2009-10-21). "Taiwan: Choosing Carbon Taxes Over Carbon Tariffs". The Wall Street Journal. Retrieved 2009-10-21.
+^ Earth Times Staff (2009-10-19). "Taiwan plans energy tax starting in 2011". Earth Times.
+^ Peter, Hannam. "Carbon price helped curb emissions, ANU study finds". The Guardian. Retrieved 17 July 2014.
+^ Cox, Lisa. "Carbon tax is gone: Repeal bills pass the Senate". The Guardian. Retrieved 17 July 2014.
+^ Sydney Morning Herald, 05/05/2015, Fall in greenhouse gas emissions biggest in 24 years
+^ Hodgson, Pete (4 May 2005). "Speech announcing carbon tax detail". Minister of Climate Change Issues, The Beehive, NZ Parliament. Retrieved 18 September 2009.
+^ NZPA (5 December 2005). "Carbon tax ditched". The New Zealand Herald. Archived from the original on 24 September 2009. Retrieved 24 September 2009.
+^ Parker, David (10 September 2008). "Historic climate change legislation passes". New Zealand Government Media Release. Retrieved 10 September 2008.
+^ Andersen, Prof. Mikael Skou (2010). "Europe's experience with carbon-energy taxation". SAPIENS. 3 (2). Retrieved 2011-08-24.
+^ a b Pearce, D. (2005). "The United Kingdom Climate Change Levy: A study in political economy" (PDF). OECD Environment Directorate, Centre for Tax Policy and Administration. Retrieved August 30, 2009.
+^ Kanter, James (2010-06-22). "Europe Considers New Taxes to Promote 'Clean' Energy". The New York Times.
+^ "Emissions trading: 2007 verified emissions from EU ETS businesses" (Press release). The European Commission. 23 May 2008. Retrieved 22 July 2011.
+^ Kanter, James (22 June 2010). "Europe Considers New Taxes to Promote 'Clean' Energy". The New York Times.
+^ International Energy Agency (2002). "Energy Policies of IEA Countries: Denmark Review" (PDF). Head of Publications Service, OECD/IEA 2, rue Andr-Pascal, 75775 Paris cedex 16, France. Retrieved 2010-08-03.
+^ David Morris (1994). "Green Taxes". Institute for local self reliance. Retrieved 2010-08-12.
+^ Vourc'h, A.; M. Jimenez (2000). "Enhancing Environmentally Sustainable Growth in Finland. Economics Department Working Papers No. 229" (PDF). OECD website. Retrieved 2010-04-21.
+^ a b Saltmarsh, Matthew (2010-03-23). "France Abandons Plan for Carbon Tax". The New York Times. Retrieved 2011-01-05.
+^ Puljak, Nadeje (2009-09-10). "Sarkozy unveils new French carbon tax". The Sydney Morning Herald.
+^ Kanter, James (December 30, 2009). "Council in France Blocks a Carbon Tax as Weak on Polluters". The New York Times.
+^ Dcision n 2009-599 DC du 29 dcembre 2009 French Constitutional Council (French)
+^ Chrisafis, Angelique (September 10, 2009). "Sarkozy Launches Carbon Tax to Help 'Save the Human Race'". The Guardian. London.
+^ Evans-Pritchard, Ambrose (March 23, 2010). "France Ditches Carbon Tax as Social Protests Mount". The Telegraph. London.
+^ Taxe carbone: comment a va marcher, The Tribune 23 September 2013.
+^ Carbon tax policy in Germany, German Biofuel Portal
+^ IEA (2007). "Energy Policies of IEA Countries  Ireland- 2007 Review". International Energy Agency's website. p.154. Retrieved 2010-04-21.
+^ The 2010 budget was delivered in December 2009
+^ "Carbon tax of 15 a tonne announced". Inside Ireland. 2009-12-09. Retrieved 2011-05-05.
+^ 1 was equal to US$1.32 as of August 2010. See: 9 August 2010, Currency Calculator
+^ Bord Gis Energy (2010). "Help & Questions  Home Gas  Carbon Tax". Bord Gis Energy website. Retrieved 2010-07-30.
+^ Revenue (2010). :Natural Gas Carbon Tax Guide pdf "Guide to Natural Gas Carbon Tax" Check |url= value (help). Revenue: Irish tax and customs. Retrieved 2010-08-04.
+^ Harry McGee (Jan 30, 2010). "Producers of biofuels want changes to carbon tax". Irish Times. Retrieved 2010-08-12.
+^ Harry McGee (2009-12-12). "Carbon tax to drive up fuel costs". IrishTimes.com. Retrieved 2010-08-02.
+^ AOIFE CARR (2009). "Irish household income up 10% in 2007". IrishTimes.com. Retrieved 2010-08-02.
+^ "Multy woman among group arguing for aid for elderly". Westmeath Examiner. 2010-07-28. Retrieved 2010-08-03.
+^ Revenue (2010). "Guide to Natural Gas Carbon Tax" (PDF). Revenue: Irish tax and customs. Retrieved 2010-08-04.
+^ "A Carbon Tax for Ireland" (PDF). ESRI Working Paper.
+^ "Carbon Tax and Rural Ireland" (PDF). Irish Rural Link Carbon Tax Briefing Note.
+^ "Department of Finance briefing on the Irish Carbon Tax" (PDF).
+^ "Budget 2012: The main points ... from mortgage relief to carbon tax". The Irish Independent. 6 December 2011.
+^ http://www.rprogress.org/publications/2001/eurosurvey_2001.pdf
+^ "11.1.5.2. Energy/carbon Taxes"
+^ "Climate Answers - Stephen Tindale Blog Archive Carbon and energy taxes in Europe". Climateanswers.info. Retrieved 2016-08-24.
+^ "European Environment Agency"
+^ "Carbon Tax on Packaging (Netherlands)", June 2009
+^ "Packaging Recovery Organisation Europe-Netherlands"
+^ "CE Delft", 2010
+^ "Afvalfonds Verpakkingen", 2014
+^ Gareth W, Osborn. "Can eco-taxation be effective in reducing carbon emissions?". Professor Tom Tietenberg's research site. Colby College. Retrieved 2011-05-05.
+^ "Carbon taxes raised to tackle climate change". The Local (Sweden's news in English). 2007-09-17. Retrieved 2011-05-05.
+^ IEA (2008). "Energy Policies of IEA Countries  Sweden- 2008 Review" (PDF). International Energy Agency website. p.150. Retrieved 2014-12-25.
+^ a b Fouch, Gwladys (April 29, 2008). "Sweden's carbon-tax solution to climate change puts it top of the green list". The Guardian. London.
+^ a b Carlgren, Fredrik (2015-10-07). "GDP - Gross Domestic Product - Ekonomifakta". Ekonomifakta.se. Retrieved 2016-08-24.
+^ Wilson, Bill (2006-02-02). "Why UK petrol prices remain high". BBC News.
+^ IEA (2005). "Energy Policies of IEA Countries  Norway- 2005 Review". International Energy Agency's website. p.208. Retrieved 2010-04-21.
+^ Annegrete Bruvoll; Bodil Merethe Larsen (2002). "Greenhouse gas emissions in Norway Do carbon taxes work?" (PDF). Statistics Norway, Research Department. p.28. Retrieved 2011-09-15.
+^ OECD (1998). "ECONOMIC/FISCAL INSTRUMENTS: TAXATION (I.E., CARBON/ENERGY) Annex I Expert Group on the United Nations Framwork Convention on Climate Change" (PDF). Organisation for Economic Co-operation and Development website. p.94. Retrieved 2010-04-21.
+^ a b IEA (2005). "Energy Policies of IEA Countries  Norway- 2005 Review". International Energy Agency's website. p.204. Retrieved 2010-08-04.
+^ Sumner, J, Bird, L, & Smith H (December 2009). "Carbon Taxes: A Review of Experience and Policy Design Considerations" (PDF). National Renewable Energy Laboratory. Retrieved 2011-06-06. CS1 maint: Multiple names: authors list (link)
+^ a b "Norway: An Emissions Trading Case Study" (PDF). International Emissions Trading Association. International Emissions Trading Association. May 2015. Retrieved 14 Nov. 2016. Check date values in: |access-date= (help)
+^ a b "Putting a Price on Carbon With A Tax" (PDF). World Bank. World Bank. Retrieved 14 Nov. 2016. Check date values in: |access-date= (help)
+^ a b c d "IEA - Norway". www.iea.org. Retrieved 2016-11-15.
+^ "The government's revenues - Norwegianpetroleum.no - Norwegian Petroleum". Norwegian Petroleum. Retrieved 2016-11-15.
+^ "Norway`s Fifth National Communication under the Framework Convention on Climate Change - Status report as of December 2009" (PDF). Norwegian Ministry of the Environment. Norwegian Ministry of the Environment. December 2009. Retrieved 14 Nov. 2016. Check date values in: |access-date= (help)
+^ Federal Office for the Environment (2010). "CO2 tax". Agency for the Environment FOEN. p.1. Retrieved 2010-08-10.
+^ a b IEA (2008). "CO2 Tax on Stationary Fuels". International Energy Agency's website. p.1. Archived from the original on May 1, 2011. Retrieved 2010-08-04.
+^ a b 1 Swiss franc = 0.9499 US dollar 1 litres = 0.264172052 US gallons
+^ IEA (2000). "Implementation of the Law on the Reduction of CO2 Emissions (CO2 Law)". International Energy Agency's website. p.1. Retrieved 2010-08-04.
+^ a b c IEA (2007). "Energy Policies of IEA Countries  Switzerland" (PDF). International Energy Agency's website. p.128. Retrieved 2010-08-04.
+^ a b c d e f Agency for the Environment FOEN (2010). "Redistribution of CO2 tax". Agency for the Environment FOE. p.1. Retrieved 2010-08-09.
+^ a b c d e 1 Swiss franc = 0.9499 US dollar
+^ European Parliament (2008). "Options and Implications of Linking the EU ETS with other Emissions Trading Schemes". European Parliament. p.30. Retrieved 2010-08-04.
+^ Agency for the Environment FOEN (2010). "Companies exceed CO2 targets in 2009". Federal Office for Environment. p.1. Retrieved 2010-08-09.
+^ Giles Broom (2009). "Swiss Favour Carbon Tax Over Emissions Trading". Swisster. p.1. Retrieved 2010-08-04.
+^ a b c Agency for the Environment FOEN (2010). "Redistribution of the CO2 tax: The economy receives some 360 million francs". Federal Office for Environment. p.1. Retrieved 2010-08-09.
+^ IEA (2007). "Energy Policies of IEA Countries  Switzerland" (PDF). International Energy Agency. p.128. Retrieved 2010-08-04.
+^ Agency for the Environment FOEN (2009). "Switzerland Able to Meet its International Commitments". Federal Office for the Environment. p.1. Retrieved 2010-08-11.
+^ Meyer, Peter. United States. Costa Rica: Background and U.S. Relations., 2010. http://assets.opencrs.com/rpts/R40593_20100222.pdf
+^ "Costa Rica: Experts warn about the dangers of missing environmental targets". Agence France Presse, October 8, 2009.
+^ http://assets.opencrs.com/rpts/R40593_20100222.pdf
+^ "Costa Rica aims to win "carbon neutral" race". Reuters. 2007-05-24.
+^ Bryden, Joan. Liberals cast themselves in leader's light. Toronto Star. October 20, 2008.
+^ Bilton, Chris. Green shifting right? Eye Weekly. January 7, 2009
+^ Reid, Scott. The good, the (mostly) bad, and the faint signs of hope. The Globe and Mail. December 26, 2009.
+^ Findlay, Martha Hall. After the Green Shift. The Globe and Mail. January 19, 2009.
+^ Quebec to collect nation's 1st carbon tax
+^ Quebec Government to Implement Carbon Tax
+^ Where Carbon is Taxed
+^ a b "B.C. introduces carbon tax". CanWest MediaWorks Publications. 22 February 2008. Archived from the original on 10 November 2012. Retrieved 9 January 2013.
+^ "British Columbia Carbon Tax" (PDF). Ministry of Small Business and Revenue. February 2008. Archived from the original (PDF) on 2013-05-13.
+^ "B.C.'s Revenue-neutral Carbon Tax". Balanced Budget 2008 Backgrounder. Province of British Columbia. 1 July 2008. Retrieved 5 May 2011.
+^ CTV News (23 June 2008). "B.C. tax rebate cheques due out this week". CTV British Columbia News. Retrieved 9 January 2013.
+^ Ahearn, Ashley (7 January 2013). "Talk Of A Carbon Tax In The Northwest". EarthFix  Oregon Public Broadcasting. Retrieved 9 January 2013. "It makes sense, it's simple, it's well accepted," says Terry Lake, the minister of the environment of British Columbia.
+^ a b c d e 2013, Province of British Columbia. "What is a Carbon Tax?". Government of British Columbia. Retrieved 27 October 2014.
+^ Beaty, Ross; Lipsey, Richard; Elgie, Stewart (9 July 2014). "The shocking truth about B.C.'s carbon tax: It works". The Globe and Mail. Toronto, Ontario. Retrieved 10 December 2015.
+^ "British Columbia's carbon tax; The evidence mounts". The Economist. 31 July 2014. Retrieved 10 December 2015.
+^ Halstead, Ted (16 November 2015). "The Republican Solution for Climate Change; Republicans have the ability to offer a market-based solution to climate change, so why aren't they doing it?". The Atlantic. Washington, D.C. Retrieved 10 December 2015.
+^ "Specified Gas Emitters Regulation, Alta Reg 139/2007". Retrieved 11 December 2013.
+^ "Alberta's carbon-tax windfall dilemma". Globe And Mail. 9 April 2013. Retrieved 12 December 2013.
+^ "The Tax Favored By Most Economists". Brookings. Retrieved 12 December 2013.
+^ To Spur Innovation, What Price to Put on Oil Sands Carbon?
+^ January 8, 2008, "Carbon tax proposal a non-starter in Alberta", CBC News. Retrieved August 19, 2010 from: http://www.cbc.ca/money/story/2008/01/08/renner-carbon.html
+^ a b c March 9, 2007, "Go figure  a carbon tax crafted right here at home", The Calgary Herald. Retrieved August 19, 2010 from: http://www.canada.com/calgaryherald/columnists/story.html?id=8c3c9760-7cbe-4fab-b00c-1c77243903b6
+^ http://business.financialpost.com/news/energy/alberta-boosts-carbon-tax-to-20-a-tonne-starting-in-2016-as-part-of-climate-change-plan
+^ "Alberta Extends Climate Change Rules, Including $15 Tonne Carbon Levy". Huffpost Alberta. Retrieved 27 November 2015. |first1= missing |last1= in Authors list (help)
+^ Simpson, Jeffery, January 22, 2010, "Many Albertans agree: A carbon tax was the best solution", The Globe and Mail. Retrieved August 19, 2010 from: http://www.theglobeandmail.com/news/opinions/many-albertans-agree-a-carbon-tax-was-the-best-solution/article1441309/
+^ "Tax Rates on Fuels" (PDF). B.C. government. Retrieved 27 November 2015. |first1= missing |last1= in Authors list (help)
+^ Tombe, Trevor. "Here's what we knowand don't knowabout Alberta's carbon tax". Macleans. Retrieved 27 November 2015.
+^ a b Climate Action Plan Tax, City of Boulder, Colorado "Archived copy". Archived from the original on 2011-02-27. Retrieved 2010-03-20. June 30, 2010 accessed Aug 5, 2010
+^ Kelley, Katie (2006-11-18). "City Approves 'Carbon Tax' in Effort to Reduce Gas Emissions". The New York Times. Retrieved 2010-01-28.
+^ Air quality board to fine Bay Area polluters, San Francisco Chronicle, May 22, 2008
+^ California and AB32 http://www.carbonshare.org/californiaAB32.html accessed Aug 8, 2010
+^ "Natural Sciences Repository Index 130". Itsgettinghotinhere.org. Retrieved 2016-08-24.
+^ a b "Archived copy". Archived from the original on 2010-07-17. Retrieved 2010-08-04.
+^ "Archive Template". Washingtonexaminer.com. 2013-06-13. Retrieved 2016-08-24.
+^ "Archive Template". Washingtonexaminer.com. 2013-06-13. Retrieved 2016-08-24.
+^ http://www.ca4.uscourts.gov/Opinions/Published/101882.P.pdf
+^ http://www.montgomerycountymd.gov/council/resources/files/res/2012/20120710_17-484.pdf
+^ Noah, Timothy (Nov. 9, 2006). The GOP Triangulates. Slate.
+^ Gas Tax Now! First Principles, Greg Mankiw, Fortune, May 24, 1999.
+^ The Pigou Club Manifesto, Greg Mankiw, October 20, 2006.
+^ McMahon, Jeff (October 12, 2014). "What Would Milton Friedman Do About Climate Change? Tax Carbon". Forbes. Retrieved March 20, 2016.
+^ Brown, Lester. Eco-Economy: Building an Economy for the Earth, Chapter 11. Tools for Restructuring the Economy: Tax Shifting, Earth Policy Institute (2001)
+^ Brown, Lester. Plan B: Rescuing a Planet Under Stress and a Civilization in Trouble, Chapter 11. Plan B: Rising to the Challenge: Creating an Honest Market, Earth Policy Institute (2003)
+^ Brown, Lester. World on the Edge: How to Prevent Environmental and Economic Collapse, Earth Policy Institute (2011), Preface to Part 3
+^ "Economist Paul Volcker says steps to curb global warming would not devastate an economy". Associated Press. 2007-02-06. Archived from the original on 2009-02-10. Retrieved 2008-04-15.
+^ a b Hansen, James. "Letter to Obama" (PDF). Archived from the original (PDF) on 2009-01-26. Retrieved 2009-12-10.
+^ a b Bone, James (2009-12-03). "Climate scientist James Hansen hopes the summit will fail". Timesonline. London. Retrieved 2009-12-10.
+^ a b Randerson, James (2009-01-02). "Nasa climate expert makes personal appeal to Obama". The Guardian. London. Retrieved 2009-12-10.
+^ a b Hansen, James. "Tell Barack Obama the Truth" (PDF). Retrieved 2009-12-10.
+^ a b Kloor, Keith (2009-11-26). "The Eye of the Storm. Nature Reports Climate Change". Nature. Retrieved 2009-12-11.
+^ "Climate group forming in Oklahoma City". The Oklahoman. 2012-12-11. Retrieved 2012-12-20.
+^ "Energy and Enterprise Initiative". Retrieved 2012-12-20.
+^ "Fred Smith Addresses the Topic of Carbon Tax". FedEx Multimedia Center. 2009-04-27. Retrieved 2010-01-28.
+^ Bittle, Scott; Johnson, Jean. "The Energy Debate We Should Be Having". Forbes. Retrieved 28 December 2015.
+^ Makower, Joel (2005-04-08). "Climate Change: Keeping Up with the Andersons". Two Steps forward. Retrieved 2008-04-15.
+^ Monica Prasad (2008-03-25). "On Carbon, Tax and Don't Spend". NY Times. Retrieved 2010-08-04.
+^ Tyson, Laura (June 28, 2013). "The Myriad Benefits of a Carbon Tax". The New York Times. Retrieved June 28, 2013.
+^ "Carbon Tax Now". Retrieved 14 April 2016.
+^ Most Environmental Groups Oppose Washington State's Carbon Tax Initiative, The Heartland Institute, August 19, 2016
+^ Goulder, Lawrence H., and Andrew Schein. "Carbon taxes vs. cap and trade." Unpublished paper, Stanford University (2012).
+^ a b Smith, S. (June 11, 2008). "Environmentally Related Taxes and Tradable Permit Systems in Practice" (PDF). OECD, Environment Directorate, Centre for Tax Policy and Administration. Retrieved August 26, 2009.
+^ a b "Memorandum submitted by The Carbon Trust (ET19)". Environmental Audit Committee  Memoranda. Contents: The role of carbon markets in preventing dangerous climate charge. UK Parliament website. March 2009. Retrieved 2009-08-30.
+^ Yujie Lu; Xinyuan Zhu; Qingbin Cui (2012). "Effectiveness and equity implications of carbon policies in the United States construction industry". Building and Environment. Elsevier Ltd. 49: 259269. doi:10.1016/j.buildenv.2011.10.002.
+^ James Hansen. Storms of My Grandchildren Bloomsbury, London 2009 ISBN 978-1-4088-0744-6 p 241.
+^ "Tax on Carbon Emissions Gains Support", Juliet Eilperin and Steven Mufson, The Washington Post, April 1, 2007, Page A05
+^ "The Power in the Carbon Tax", John D. Dingell, Washington Post, page A21, August 2, 2007
+^ Exxon supports carbon tax, Herald News Services, January 09, 2009
+^ "Exploring a Carbon Tax for Australia", John Humphreys, The Centre for Independent Studies
+^ "Experts divided on carbon tax", Matthew Warren, The Australian, July 17, 2008
+^ Tickell, Oliver (2009-03-12). "Replace Kyoto protocol with global carbon tax, says Yale economist". The Guardian,. London. Retrieved 2010-01-27.
+^ "We need to start emissions debate", John Humphreys, The Australian, Feb 18, 2009
+^ "Carbon tax only way to keep planet cool: Hansen", AFP, March 12, 2009
+^ "Economy plays key role in B.C. meeting greenhouse gas targets", June 28, 2012
+^ IEA (June 16, 2010) ANALYSIS OF THE SCOPE OF ENERGY SUBSIDIES AND SUGGESTIONS FOR THE G-20 INITIATIVE Retrieved 2014-06-29.
+^ Neuhoff, K. (2008). "Tackling Carbon: How to price carbon for climate policy" (PDF). Electricity Policy Research Group. Retrieved August 30, 2009.
+^ Roberton C. Williams III; Hal Gordon; Dallas Burtraw; Jared C. Carbone; Richard D. Morgenstern (2014). "The Initial Incidence of a Carbon Tax across Income Groups". Resources for the Future. Retrieved January 6, 2016.
+^ Burtraw, D.; et al. (June 2009). "The Incidence of U.S. Climate Policy: Alternative Uses of Revenues from a Cap-and-Trade Auction" (PDF). Resources for the Future. Retrieved September 2, 2009.
+^ Ekins, P.; S. Dresner (2004). "Green taxes and charges: Reducing their impact on low-income households". Joseph Rowntree Foundation. Retrieved September 4, 2009.
+Further reading[edit]
+Aldy, J. (9 August 2007). "Cap-and-Trade vs. Emission Tax: An Introduction". ClimatePolicy website. Retrieved 2009-08-30. External link in |publisher= (help)
+Cuervo, J.; V.P. Gandhi (1 May 1998). "Carbon Taxes  Their Macroeconomic Effects and Prospects for Global Adoption  A Survey of the Literature. Working Paper No. 98/73". International Monetary Fund, Fiscal Affairs Department. Retrieved 2010-05-12.
+Dower, R.C.; M.B. Zimmerman (August 1992). "The right climate for carbon taxes: Creating economic incentives to protect the environment". World Resources Institute website. Retrieved 2010-05-12.
+External links[edit]
+Climate change at the OECD.
+The Carbon Tax Center
+Analysis of Proposed Carbon Tax Rates
+Energy Taxes  analysis by Global Policy Forum
+The Case for Charges on Greenhouse Gas Emissions  Richard Cooper, on behalf of the Harvard Project on International Climate Agreements
+TACA Association's website Arguments for an Ecotax.
+GEMINI-E3 web is a web application which simulates world climate change policies and their impacts at the world level.
+France's Example: Understanding France's Carbon Tax.
+v
+t
+e
+Global warming and climate change
+Temperatures
+Brightness temperature
+Effective temperature
+Geologic record
+Hiatus
+Historical climatology
+Instrumental record
+Paleoclimatology
+Paleotempestology
+Proxy data
+Record of the past 1,000 years
+Satellite measurements
+Causes
+Anthropogenic
+Attribution of recent climate change
+Aviation
+Biofuel
+Black carbon
+Carbon dioxide
+Deforestation
+Earth's energy budget
+Earth's radiation balance
+Ecocide
+Fossil fuel
+Global dimming
+Global warming potential
+Greenhouse effect
+(Infrared window)
+Greenhouse gases
+(Halocarbons)
+Land use, land-use change and forestry
+Radiative forcing
+Tropospheric ozone
+Urban heat island
+Natural
+Albedo
+Bond events
+Climate oscillations
+Climate sensitivity
+Cloud forcing
+Cosmic rays
+Feedbacks
+Glaciation
+Global cooling
+Milankovitch cycles
+Ocean variability
+AMO
+ENSO
+IOD
+PDO
+Orbital forcing
+Solar variation
+Volcanism
+Models
+Global climate model
+History
+History of climate change science
+Atmospheric thermodynamics
+Svante Arrhenius
+James Hansen
+Charles David Keeling
+Opinion and climate change
+Environmental ethics
+Media coverage of climate change
+Public opinion on climate change
+(Popular culture)
+Scientific opinion on climate change
+Scientists opposing the mainstream assessment
+Climate change denial
+Global warming conspiracy theory
+By country & region
+(Africa
+Arctic
+Argentina
+Australia
+Bangladesh
+Belgium
+Canada
+China
+Europe
+European Union
+Finland
+Grenada
+Japan
+Luxembourg
+New Zealand
+Norway
+Russia
+Scotland
+South Korea
+Sweden
+Tuvalu
+United Kingdom
+United States)
+Politics
+Clean Power Plan
+Climate change denial
+(Manufactured controversy)
+Intergovernmental Panel on Climate Change (IPCC)
+United Nations Framework Convention on Climate Change (UNFCCC / FCCC)
+Global climate regime
+Potential effects and issues
+General
+Abrupt climate change
+Anoxic event
+Arctic dipole anomaly
+Arctic haze
+Arctic methane release
+Climate change and agriculture
+Climate change and ecosystems
+Climate change and poverty
+Current sea level rise
+Drought
+Economics of global warming
+Effect on plant biodiversity
+Effects on health
+Effects on humans
+Effects on marine mammals
+Environmental migrant
+Extinction risk from global warming
+Fisheries and climate change
+Forest dieback
+Iris hypothesis
+Megadrought
+Ocean acidification
+Ozone depletion
+Physical impacts
+Polar stratospheric cloud
+Regime shift
+Retreat of glaciers since 1850
+Runaway climate change
+Season creep
+Shutdown of thermohaline circulation
+By country
+Australia
+India
+Nepal
+(South Asia)
+United States
+Mitigation
+Kyoto Protocol
+Clean Development Mechanism
+Joint Implementation
+Bali Road Map
+2009 United Nations Climate Change Conference
+Governmental
+European Climate Change Programme
+G8 Climate Change Roundtable
+United Kingdom Climate Change Programme
+Paris Agreement
+Regional climate change initiatives in the United States
+List of climate change initiatives
+Emissions reduction
+Carbon credit
+Carbon-neutral fuel
+Carbon offset
+Carbon tax
+Emissions trading
+Fossil-fuel phase-out
+Carbon-free energy
+Carbon capture and storage
+Efficient energy use
+Low-carbon economy
+Nuclear power
+Renewable energy
+Personal
+Individual action on climate change
+Simple living
+Other
+Carbon dioxide removal
+Carbon sink
+Climate change mitigation scenarios
+Climate engineering
+Individual and political action on climate change
+Reducing emissions from deforestation and forest degradation
+Reforestation
+Urban reforestation
+Climate Action Plan
+Climate action
+Proposed adaptations
+Strategies
+Damming glacial lakes
+Desalination
+Drought tolerance
+Irrigation investment
+Rainwater storage
+Sustainable development
+Weather modification
+Programmes
+Avoiding dangerous climate change
+Land Allocation Decision Support System
+Glossary of climate change
+Index of climate change articles
+Category:Climate change
+Category:Global warming
+Portal:Global warming
+NewPP limit report
+Parsed by mw1271
+Cached time: 20161119042441
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 1.460 seconds
+Real time usage: 1.576 seconds
+Preprocessor visited node count: 10170/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 457160/2097152 bytes
+Template argument size: 22414/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 8/500
+Lua time usage: 0.698/10.000 seconds
+Lua memory usage: 10.72 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1332.833
+1 - -total
+59.90%
+798.306
+1 - Template:Reflist
+23.97%
+319.483
+101 - Template:Cite_web
+11.12%
+148.232
+39 - Template:Cite_news
+7.55%
+100.583
+5 - Template:Ambox
+7.09%
+94.513
+18 - Template:Cite_book
+4.54%
+60.509
+1 - Template:Global_warming
+4.31%
+57.479
+1 - Template:Navbox_with_collapsible_groups
+4.19%
+55.815
+2 - Template:Citation_needed
+4.16%
+55.499
+1 - Template:Multiple_issues
+Saved in parser cache with key enwiki:pcache:idhash:84107-0!*!0!!en!4!* and timestamp 20161119042439 and revision id 750191741
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Carbon_tax&oldid=750191741"
+Categories: Environmental taxationEnvironmental lawCarbon financeClimate change policyLow-carbon economyHidden categories: CS1 errors: external linksCS1 maint: Multiple names: authors listPages using citations with accessdate and no URLArticles with French-language external linksPages with URL errorsCS1 errors: datesCS1 errors: missing author or editorPages using ISBN magic linksAll articles with unsourced statementsArticles with unsourced statements from December 2013Articles with obsolete information from August 2011All Wikipedia articles in need of updatingWikipedia articles needing style editing from April 2010All articles needing style editingArticles with unsourced statements from August 2016Wikipedia articles needing clarification from April 2010Accuracy disputes from March 2010All accuracy disputes

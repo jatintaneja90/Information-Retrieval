@@ -1,0 +1,78 @@
+88888LightsOut
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}88888 Lights Out was a campaign with the stated goal of increasing awareness of global warming and promoting actions to reduce energy consumption. By encouraging India's residents to turn out the lights for eight minutes and to become more aware of environmental concerns, the organisers sought to limit greenhouse gas emissions and reduce pollution of the globe.[1]
+Contents
+1 Campaign organisation
+2 See also
+3 References
+4 External links
+Campaign organisation[edit]
+The campaign was started by Exnora International,[2] a non-governmental organisation in India. It called for people to switch off their lights for eight minutes at 8 p.m. on August 8, 2008 (8-8-8-8-8) to spread awareness and take action to reduce energy consumption and the resulting environmental damage.[3]
+In the city of Chennai, Governor Surjit Singh Barnala ordered the lights off in Raj Bhavan at 8 p.m. for 8 minutes and said that an awakening should be created among the people of all walks of life on the root cause of global warming, it occurred at the very beginning of the 2008 Olympics.[4]
+The effort has been part of a wider effort by the groups involved to bring attention to environmental issues.[2]
+See also[edit]
+FLICK OFF
+Earth Hour
+References[edit]
+^ "Chennai: 88888 Lights Out on Aug 8". Times of India. August 5, 2008. Retrieved 2008-11-13.
+^ a b "Chennai Lights Out Campaign builds awareness" (Press release). Exnora. Retrieved 2009-01-21.
+^ "'Lights Out 88888' campaign launched". The Hindu. 2008-08-08. Retrieved 2008-11-13.
+^ "Campaign eloquent as lights fall 'silent'". The Hindu. 2008-08-09. Retrieved 2008-11-13.
+External links[edit]
+88888 Lights Out
+EXcellent NOvel RAdical (ExNoRa) website
+OneIndia (Tamil)
+Indian Society of Heating, Refrigerating and Air Conditioning Engineers
+Chennai City News
+"Similar programmes have already been undertaken in countries like Australia, Canada, US, New Zealand, Denmark, Fiji, Philippines, Ireland and Israel. In the UK, residents of London also undertook a similar programme. The people of Mumbai also observed such a programme, added the group." Appeal to switch off lamps for eight minutes today Aug. 7, 2008 Assam Tribune
+"'88888 Lights Out' campaign today". The Hindu. August 8, 2008. Retrieved 2008-11-13.
+NewPP limit report
+Parsed by mw1274
+Cached time: 20161117233745
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.068 seconds
+Real time usage: 0.089 seconds
+Preprocessor visited node count: 320/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 8329/2097152 bytes
+Template argument size: 287/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.030/10.000 seconds
+Lua memory usage: 2.19 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+80.387
+1 - -total
+60.31%
+48.480
+1 - Template:Reflist
+47.57%
+38.241
+4 - Template:Cite_news
+31.44%
+25.271
+1 - Template:Use_Indian_English
+11.62%
+9.339
+1 - Template:DMCA
+10.12%
+8.135
+1 - Template:Dated_maintenance_category
+7.01%
+5.638
+1 - Template:FULLROOTPAGENAME
+5.46%
+4.390
+1 - Template:Cite_press_release
+4.87%
+3.912
+1 - Template:Ns_has_subpages
+1.39%
+1.118
+1 - Template:Column-count
+Saved in parser cache with key enwiki:pcache:idhash:19058591-0!*!0!!en!*!* and timestamp 20161117233745 and revision id 703351677
+Retrieved from "https://en.wikipedia.org/w/index.php?title=88888_Lights_Out&oldid=703351677"
+Categories: Environment of IndiaEnergy conservationEnergy efficiency in IndiaHidden categories: Use Indian English from February 2016All Wikipedia articles written in Indian English

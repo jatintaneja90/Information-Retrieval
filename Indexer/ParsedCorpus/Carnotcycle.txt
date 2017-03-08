@@ -1,0 +1,597 @@
+Carnotcycle
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Thermodynamics
+The classical Carnot heat engine
+Branches
+Classical
+Statistical
+Chemical
+Equilibrium/ Non-equilibrium
+Laws
+Zeroth
+First
+Second
+Third
+Systems
+State
+Equation of state
+Ideal gas
+Real gas
+State of matter
+Equilibrium
+Control volume
+Instruments
+Processes
+Isobaric
+Isochoric
+Isothermal
+Adiabatic
+Isentropic
+Isenthalpic
+Quasistatic
+Polytropic
+Free expansion
+Reversibility
+Irreversibility
+Endoreversibility
+Cycles
+Heat engines
+Heat pumps
+Thermal efficiency
+System properties
+Note: Conjugate variables in italics
+Property diagrams
+Intensive and extensive properties
+Functions of state
+Temperature/ Entropy(introduction)
+Pressure/ Volume
+Chemical potential/ Particle number
+Vapor quality
+Reduced properties
+Process functions
+Work
+Heat
+Material properties
+Property databases
+Specific heat capacity
+c
+=
+{\displaystyle c=}
+T
+{\displaystyle T}
+ 
+S
+{\displaystyle \partial S}
+N
+{\displaystyle N}
+ 
+T
+{\displaystyle \partial T}
+Compressibility
+ 
+=
+ 
+{\displaystyle \beta =-}
+1
+{\displaystyle 1}
+ 
+V
+{\displaystyle \partial V}
+V
+{\displaystyle V}
+ 
+p
+{\displaystyle \partial p}
+Thermal expansion
+ 
+=
+{\displaystyle \alpha =}
+1
+{\displaystyle 1}
+ 
+V
+{\displaystyle \partial V}
+V
+{\displaystyle V}
+ 
+T
+{\displaystyle \partial T}
+Equations
+Carnot's theorem
+Clausius theorem
+Fundamental relation
+Ideal gas law
+Maxwell relations
+Onsager reciprocal relations
+Bridgman's equations
+Table of thermodynamic equations
+Potentials
+Free energy
+Free entropy
+Internal energy
+U
+(
+S
+,
+V
+)
+{\displaystyle U(S,V)}
+Enthalpy
+H
+(
+S
+,
+p
+)
+=
+U
++
+p
+V
+{\displaystyle H(S,p)=U+pV}
+Helmholtz free energy
+A
+(
+T
+,
+V
+)
+=
+U
+ 
+T
+S
+{\displaystyle A(T,V)=U-TS}
+Gibbs free energy
+G
+(
+T
+,
+p
+)
+=
+H
+ 
+T
+S
+{\displaystyle G(T,p)=H-TS}
+History
+Culture
+History
+General
+Heat
+Entropy
+Gas laws
+"Perpetual motion" machines
+Philosophy
+Entropy and time
+Entropy and life
+Brownian ratchet
+Maxwell's demon
+Heat death paradox
+Loschmidt's paradox
+Synergetics
+Theories
+Caloric theory
+Theory of heat
+Vis viva ("living force")
+Mechanical equivalent of heat
+Motive power
+Key publications
+"An Experimental Enquiry
+Concerning ... Heat"
+"On the Equilibrium of
+Heterogeneous Substances"
+"Reflections on the
+Motive Power of Fire"
+Timelines
+Thermodynamics
+Heat engines
+Art
+Education
+Maxwell's thermodynamic surface
+Entropy as energy dispersal
+Scientists
+Bernoulli
+Carnot
+Clapeyron
+Clausius
+Carathodory
+Duhem
+Gibbs
+von Helmholtz
+Joule
+Maxwell
+von Mayer
+Onsager
+Rankine
+Smeaton
+Stahl
+Thompson
+Thomson
+Waterston
+Book:Thermodynamics
+v
+t
+e
+The Carnot cycle is a theoretical thermodynamic cycle proposed by Nicolas Lonard Sadi Carnot in 1824 and expanded upon by others in the 1830s and 1840s. It provides an upper limit on the efficiency that any classical thermodynamic engine can achieve during the conversion of heat into work, or conversely, the efficiency of a refrigeration system in creating a temperature difference (e.g. refrigeration) by the application of work to the system. It is not an actual thermodynamic cycle but is a theoretical construct.
+Every single thermodynamic system exists in a particular state. When a system is taken through a series of different states and finally returned to its initial state, a thermodynamic cycle is said to have occurred. In the process of going through this cycle, the system may perform work on its surroundings, thereby acting as a heat engine. A system undergoing a Carnot cycle is called a Carnot heat engine, although such a "perfect" engine is only a theoretical construct and cannot be built in practice [1]. However, a microscopic Carnot heat engine has been designed and run [2].
+Essentially, there are two systems at temperatures Th and Tc (hot and cold respectively), which are so large that their temperatures are practically unaffected by a single cycle. As such, they are called "heat reservoirs". Since the cycle is reversible, there is no generation of entropy during the cycle; entropy is conserved. During the cycle, an arbitrary amount of entropy S is extracted from the hot reservoir, and deposited in the cold reservoir. Since there is no volume change in either reservoir, they do no work, and during the cycle, an amount of energy ThS is extracted from the hot reservoir and a smaller amount of energy TcS is deposited in the cold reservoir. The difference in the two energies (Th-Tc)S is equal to the work done by the engine.
+Contents
+1 Stages
+1.1 The pressure-volume graph
+2 Properties and significance
+2.1 The temperature-entropy diagram
+2.2 The Carnot cycle
+2.3 The Reversed Carnot cycle
+2.4 Carnot's theorem
+2.5 Efficiency of real heat engines
+3 See also
+4 References
+5 External links
+Stages[edit]
+Figure 1: A Carnot cycle illustrated on a PV diagram to illustrate the work done.
+The Carnot cycle when acting as a heat engine consists of the following steps:
+Reversible isothermal expansion of the gas at the "hot" temperature, T1 (isothermal heat addition or absorption). During this step (1 to 2 on Figure 1, A to B in Figure 2) the gas is allowed to expand and it does work on the surroundings. The temperature of the gas does not change during the process, and thus the expansion is isothermal. The gas expansion is propelled by absorption of heat energy Q1 from the high temperature reservoir and results in an increase of entropy of the gas in the amount
+ 
+S
+1
+=
+Q
+1
+/
+T
+1
+{\displaystyle \Delta S_{1}=Q_{1}/T_{1}}
+.
+Isentropic (reversible adiabatic) expansion of the gas (isentropic work output). For this step (2 to 3 on Figure 1, B to C in Figure 2) the mechanisms of the engine are assumed to be thermally insulated, thus they neither gain nor lose heat (an adiabatic process). The gas continues to expand, doing work on the surroundings, and losing an amount of internal energy equal to the work that leaves the system. The gas expansion causes it to cool to the "cold" temperature, T2. The entropy remains unchanged.
+Reversible isothermal compression of the gas at the "cold" temperature, T2. (isothermal heat rejection) (3 to 4 on Figure 1, C to D on Figure 2) Now the surroundings do work on the gas, causing an amount of heat energy Q2 to leave the system to the low temperature reservoir and the entropy of the system decreases in the amount
+ 
+S
+2
+=
+Q
+2
+/
+T
+2
+{\displaystyle \Delta S_{2}=Q_{2}/T_{2}}
+. (This is the same amount of entropy absorbed in step 1, as can be seen from the Clausius inequality.)
+Isentropic compression of the gas (isentropic work input). (4 to 1 on Figure 1, D to A on Figure 2) Once again the mechanisms of the engine are assumed to be thermally insulated, and frictionless, hence reversible. During this step, the surroundings do work on the gas, increasing its internal energy and compressing it, causing the temperature to rise to T1 due solely to the work added to the system, but the entropy remains unchanged. At this point the gas is in the same state as at the start of step 1.
+In this case,
+ 
+S
+1
+=
+ 
+S
+2
+{\displaystyle \Delta S_{1}=\Delta S_{2}}
+,
+or,
+Q
+1
+/
+T
+1
+=
+Q
+2
+/
+T
+2
+{\displaystyle Q_{1}/T_{1}=Q_{2}/T_{2}}
+.
+This is true as
+Q
+2
+{\displaystyle Q_{2}}
+and
+T
+2
+{\displaystyle T_{2}}
+are both lower and in fact are in the same ratio as
+Q
+1
+/
+T
+1
+{\displaystyle Q_{1}/T_{1}}
+.
+The pressure-volume graph[edit]
+When the Carnot cycle is plotted on a pressure volume diagram, the isothermal stages follow the isotherm lines for the working fluid, adiabatic stages move between isotherms and the area bounded by the complete cycle path represents the total work that can be done during one cycle.
+Properties and significance[edit]
+The temperature-entropy diagram[edit]
+Figure 2: A Carnot cycle acting as a heat engine, illustrated on a temperature-entropy diagram. The cycle takes place between a hot reservoir at temperature TH and a cold reservoir at temperature TC. The vertical axis is temperature, the horizontal axis is entropy.
+A generalized thermodynamic cycle taking place between a hot reservoir at temperature TH and a cold reservoir at temperature TC. By the second law of thermodynamics, the cycle cannot extend outside the temperature band from TC to TH. The area in red QC is the amount of energy exchanged between the system and the cold reservoir. The area in white W is the amount of work energy exchanged by the system with its surroundings. The amount of heat exchanged with the hot reservoir is the sum of the two. If the system is behaving as an engine, the process moves clockwise around the loop, and moves counter-clockwise if it is behaving as a refrigerator. The efficiency to the cycle is the ratio of the white area (work) divided by the sum of the white and red areas (heat absorbed from the hot reservoir).
+The behaviour of a Carnot engine or refrigerator is best understood by using a temperature-entropy diagram (TS diagram), in which the thermodynamic state is specified by a point on a graph with entropy (S) as the horizontal axis and temperature (T) as the vertical axis. For a simple closed system (control mass analysis), any point on the graph will represent a particular state of the system. A thermodynamic process will consist of a curve connecting an initial state (A) and a final state (B). The area under the curve will be:
+Q
+=
+ 
+A
+B
+T
+d
+S
+(
+1
+)
+{\displaystyle Q=\int _{A}^{B}T\,dS\quad \quad (1)}
+which is the amount of thermal energy transferred in the process. If the process moves to greater entropy, the area under the curve will be the amount of heat absorbed by the system in that process. If the process moves towards lesser entropy, it will be the amount of heat removed. For any cyclic process, there will be an upper portion of the cycle and a lower portion. For a clockwise cycle, the area under the upper portion will be the thermal energy absorbed during the cycle, while the area under the lower portion will be the thermal energy removed during the cycle. The area inside the cycle will then be the difference between the two, but since the internal energy of the system must have returned to its initial value, this difference must be the amount of work done by the system over the cycle. Referring to figure 1, mathematically, for a reversible process we may write the amount of work done over a cyclic process as:
+W
+=
+
+P
+d
+V
+=
+
+(
+d
+Q
+ 
+d
+U
+)
+=
+
+(
+T
+d
+S
+ 
+d
+U
+)
+=
+
+T
+d
+S
+ 
+
+d
+U
+=
+
+T
+d
+S
+(
+2
+)
+{\displaystyle W=\oint PdV=\oint (dQ-dU)=\oint (TdS-dU)=\oint TdS-\oint dU=\oint TdS\quad \quad \quad \quad (2)}
+Since dU is an exact differential, its integral over any closed loop is zero and it follows that the area inside the loop on a T-S diagram is equal to the total work performed if the loop is traversed in a clockwise direction, and is equal to the total work done on the system as the loop is traversed in a counterclockwise direction.
+A Carnot cycle taking place between a hot reservoir at temperature TH and a cold reservoir at temperature TC.
+The Carnot cycle[edit]
+Evaluation of the above integral is particularly simple for the Carnot cycle. The amount of energy transferred as work is
+W
+=
+
+P
+d
+V
+=
+
+T
+d
+S
+=
+(
+T
+H
+ 
+T
+C
+)
+(
+S
+B
+ 
+S
+A
+)
+{\displaystyle W=\oint PdV=\oint TdS=(T_{H}-T_{C})(S_{B}-S_{A})}
+The total amount of thermal energy transferred from the hot reservoir to the system will be
+Q
+H
+=
+T
+H
+(
+S
+B
+ 
+S
+A
+)
+{\displaystyle Q_{H}=T_{H}(S_{B}-S_{A})\,}
+and the total amount of thermal energy transferred from the system to the cold reservoir will be
+Q
+C
+=
+T
+C
+(
+S
+B
+ 
+S
+A
+)
+{\displaystyle Q_{C}=T_{C}(S_{B}-S_{A})\,}
+The efficiency
+ 
+{\displaystyle \eta }
+is defined to be:
+ 
+=
+W
+Q
+H
+=
+1
+ 
+T
+C
+T
+H
+(
+3
+)
+{\displaystyle \eta ={\frac {W}{Q_{H}}}=1-{\frac {T_{C}}{T_{H}}}\quad \quad \quad \quad \quad \quad \quad \quad \quad (3)}
+where
+W
+{\displaystyle W}
+is the work done by the system (energy exiting the system as work),
+Q
+C
+{\displaystyle Q_{C}}
+is the heat taken from the system (heat energy leaving the system),
+Q
+H
+{\displaystyle Q_{H}}
+is the heat put into the system (heat energy entering the system),
+T
+C
+{\displaystyle T_{C}}
+is the absolute temperature of the cold reservoir, and
+T
+H
+{\displaystyle T_{H}}
+is the absolute temperature of the hot reservoir.
+S
+B
+{\displaystyle S_{B}}
+is the maximum system entropy
+S
+A
+{\displaystyle S_{A}}
+is the minimum system entropy
+This definition of efficiency makes sense for a heat engine, since it is the fraction of the heat energy extracted from the hot reservoir and converted to mechanical work. A Rankine cycle is usually the practical approximation.
+The Reversed Carnot cycle[edit]
+The Carnot heat-engine cycle described is a totally reversible cycle. That is, all the processes that comprise it can be reversed, in which case it becomes the Carnot refrigeration cycle. This time, the cycle remains exactly the same except that the directions of any heat and work interactions are reversed. Heat is absorbed from the low-temperature reservoir, heat is rejected to a high-temperature reservoir, and a work input is required to accomplish all this. The P-V diagram of the reversed Carnot cycle is the same as for the Carnot cycle except that the directions of the processes are reversed.[3]
+Carnot's theorem[edit]
+Main article: Carnot's theorem (thermodynamics)
+It can be seen from the above diagram, that for any cycle operating between temperatures
+T
+H
+{\displaystyle T_{H}}
+and
+T
+C
+{\displaystyle T_{C}}
+, none can exceed the efficiency of a Carnot cycle.
+A real engine (left) compared to the Carnot cycle (right). The entropy of a real material changes with temperature. This change is indicated by the curve on a T-S diagram. For this figure, the curve indicates a vapor-liquid equilibrium (See Rankine cycle). Irreversible systems and losses of energy (for example, work due to friction and heat losses) prevent the ideal from taking place at every step.
+Carnot's theorem is a formal statement of this fact: No engine operating between two heat reservoirs can be more efficient than a Carnot engine operating between those same reservoirs. Thus, Equation 3 gives the maximum efficiency possible for any engine using the corresponding temperatures. A corollary to Carnot's theorem states that: All reversible engines operating between the same heat reservoirs are equally efficient. Rearranging the right side of the equation gives what may be a more easily understood form of the equation. Namely that the theoretical maximum efficiency of a heat engine equals the difference in temperature between the hot and cold reservoir divided by the absolute temperature of the hot reservoir. To find the absolute temperature in kelvin, add 273.15 degrees to the Celsius temperature. Looking at this formula an interesting fact becomes apparent. Lowering the temperature of the cold reservoir will have more effect on the ceiling efficiency of a heat engine than raising the temperature of the hot reservoir by the same amount. In the real world, this may be difficult to achieve since the cold reservoir is often an existing ambient temperature.
+In other words, maximum efficiency is achieved if and only if no new entropy is created in the cycle, which would be the case if e.g. friction leads to dissipation of work into heat. In that case the cycle is not reversible and the Clausius theorem becomes an inequality rather than an equality. Otherwise, since entropy is a state function, the required dumping of heat into the environment to dispose of excess entropy leads to a (minimal) reduction in efficiency. So Equation 3 gives the efficiency of any reversible heat engine.
+In mesoscopic heat engines, work per cycle of operation fluctuates due to thermal noise. For the case when work and heat fluctuations are counted, there is exact equality that relates average of exponents of work performed by any heat engine and the heat transfer from the hotter heat bath.[4] This relation transforms Carnot's inequality into an exact equality that applies to an arbitrary heat engine coupled to two heat reservoirs and operating at an arbitrary rate.
+Efficiency of real heat engines[edit]
+See also: Heat engine efficiency and other performance criteria
+Carnot realized that in reality it is not possible to build a thermodynamically reversible engine, so real heat engines are even less efficient than indicated by Equation 3. In addition, real engines that operate along this cycle are rare. Nevertheless, Equation 3 is extremely useful for determining the maximum efficiency that could ever be expected for a given set of thermal reservoirs.
+Although Carnot's cycle is an idealisation, the expression of Carnot efficiency is still useful. Consider the average temperatures,
+ 
+T
+H
+ 
+=
+1
+ 
+S
+ 
+Q
+i
+n
+T
+d
+S
+{\displaystyle \langle T_{H}\rangle ={\frac {1}{\Delta S}}\int _{Q_{in}}TdS}
+ 
+T
+C
+ 
+=
+1
+ 
+S
+ 
+Q
+o
+u
+t
+T
+d
+S
+{\displaystyle \langle T_{C}\rangle ={\frac {1}{\Delta S}}\int _{Q_{out}}TdS}
+at which heat is input and output, respectively. Replace TH and TC in Equation (3) by TH and TC respectively.
+For the Carnot cycle, or its equivalent, the average value TH will equal the highest temperature available, namely TH, and TC the lowest, namely TC. For other less efficient cycles, TH will be lower than TH, and TC will be higher than TC. This can help illustrate, for example, why a reheater or a regenerator can improve the thermal efficiency of steam power plantsand why the thermal efficiency of combined-cycle power plants (which incorporate gas turbines operating at even higher temperatures) exceeds that of conventional steam plants. The first prototype of the diesel engine was based on the Carnot cycle.
+See also[edit]
+Carnot heat engine
+Reversible process (thermodynamics)
+Carnot cycle graphs (above) should not be confused with Karnaugh maps in boolean logic and digital electronics.
+References[edit]
+^ Nicholas Giordano (13 February 2009). College Physics: Reasoning and Relationships. Cengage Learning. p.510. ISBN0-534-42471-6.
+^ Ignacio A. Martnez; et al. (6 January 2016). "Brownian Carnot engine". Nature Physics. p.6770. CS1 maint: Explicit use of et al. (link)
+^ engel, Yunus A., and Michael A. Boles. "6-7." Thermodynamics: An Engineering Approach. 7th ed. New York: McGraw-Hill, 2011. 299. Print.
+^ N. A. Sinitsyn (2011). "Fluctuation Relation for Heat Engines". J. Phys. A: Math. Theor.corollary to Carnot's theorem states that: All reversible engines operating between the same heat reservoirs are equally efficient. Rearranging the right side of the equation gives what may be a more easily understood form of the equation. Namely that the theoretical maximum efficiency of a heat engine equals the difference in temperature between the hot and cold reservoir divided by the absolute temperature of the hot reservoir. To find the absolute temperature in kelvin, add 273.15 degrees to the Celsius temperature. Looking at this formula an interesting fact becomes apparent. Lowering the temperature of the cold reservoir will have more effect on the ceiling efficiency of a heat engine than raising the temperature of the hot reservoir by the same amount. In the real world, this may be difficult to achieve since the cold reservoir is often an existing ambient temperature. In other words, maximum efficiency is achieved if and only if no new entropy is created in the cycle.[clarification needed] Otherwise, since entropy is a state function, the required dumping of heat into the environment to dispose of excess entropy leads to a reduction in efficiency. S. 44: 405001. arXiv:1111.7014. Bibcode:2011JPhA...44N5001S. doi:10.1088/1751-8113/44/40/405001.
+Carnot, Sadi, Reflections on the Motive Power of Fire
+Feynman, Richard P.; Leighton, Robert B.; Sands, Matthew (1963). The Feynman Lectures on Physics. Addison-Wesley Publishing Company. pp.444f. ISBN0-201-02116-1.
+Halliday, David; Resnick, Robert (1978). Physics (3rd ed.). John Wiley & Sons. pp.541548. ISBN0-471-02456-2.
+Kittel, Charles; Kroemer, Herbert (1980). Thermal Physics (2nd ed.). W. H. Freeman Company. ISBN0-7167-1088-9.
+Kostic, M. "Revisiting The Second Law of Energy Degradation and Entropy Generation: From Sadi Carnot's Ingenious Reasoning to Holistic Generalization". AIP Conf. Proc. 1411: 327350. doi:10.1063/1.3665247. American Institute of Physics, 2011. ISBN 978-0-7354-0985-9. Abstract at: [1]. Full article (24 pages [2]), also at [3].
+External links[edit]
+Hyperphysics article on the Carnot cycle.
+Interactive Java applet showing behavior of a Carnot engine.
+v
+t
+e
+Thermodynamic cycles
+External combustion
+Without phase change
+(hot air engines)
+Bell Coleman
+Brayton / Joule
+Carnot
+Ericsson
+Stirling
+Stirling (pseudo / adiabatic)
+Stoddard
+With phase change
+Kalina
+Hygroscopic
+Rankine (Organic Rankine)
+Regenerative
+Internal combustion
+Atkinson
+Brayton / Joule
+Diesel
+Expander
+Gas-generator
+Homogeneous charge compression ignition
+Lenoir
+Miller
+Otto
+Scuderi
+Staged combustion
+Mixed
+Combined
+HEHC
+Mixed / Dual
+Refrigeration
+HampsonLinde
+Kleemenko
+Pulse tube
+Regenerative cooling
+Transcritical
+Vapor absorption
+Vapor-compression
+Siemens
+Vuilleumier
+Uncategorized
+Barton
+Humphrey
+Saved in parser cache with key enwiki:pcache:idhash:5994167-0!*!0!!en!4!*!math=5 and timestamp 20161115200436 and revision id 749710583
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Carnot_cycle&oldid=749710583"
+Categories: Thermodynamic cyclesHidden categories: CS1 maint: Explicit use of et al.Wikipedia articles needing clarification from April 2014Pages using ISBN magic links

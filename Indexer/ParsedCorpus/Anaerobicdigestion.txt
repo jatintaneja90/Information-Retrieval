@@ -1,0 +1,606 @@
+Anaerobicdigestion
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Part of a series about
+Sustainable energy
+Energy conservation
+Cogeneration
+Efficient energy use
+Green building
+Heat pump
+Low-carbon power
+Microgeneration
+Passive solar building design
+Renewable energy
+Anaerobic digestion
+Geothermal
+Hydroelectricity
+Solar
+Tidal
+Wind
+Sustainable transport
+Carbon-neutral fuel
+Electric vehicle
+Fossil fuel phase-out
+Green vehicle
+Plug-in hybrid
+Sustainable development portal
+Renewable energy portal
+Environment portal
+v
+t
+e
+Anaerobic digestion is a collection of processes by which microorganisms break down biodegradable material in the absence of oxygen.[1] The process is used for industrial or domestic purposes to manage waste or to produce fuels. Much of the fermentation used industrially to produce food and drink products, as well as home fermentation, uses anaerobic digestion.
+Anaerobic digestion occurs naturally in some soils and in lake and oceanic basin sediments, where it is usually referred to as "anaerobic activity".[2][3] This is the source of marsh gas methane as discovered by Volta in 1776.[4][5]
+The digestion process begins with bacterial hydrolysis of the input materials. Insoluble organic polymers, such as carbohydrates, are broken down to soluble derivatives that become available for other bacteria. Acidogenic bacteria then convert the sugars and amino acids into carbon dioxide, hydrogen, ammonia, and organic acids. These bacteria convert these resulting organic acids into acetic acid, along with additional ammonia, hydrogen, and carbon dioxide. Finally, methanogens convert these products to methane and carbon dioxide.[6] The methanogenic archaea populations play an indispensable role in anaerobic wastewater treatments.[7]
+Anaerobic digestion is used as part of the process to treat biodegradable waste and sewage sludge. As part of an integrated waste management system, anaerobic digestion reduces the emission of landfill gas into the atmosphere. Anaerobic digesters can also be fed with purpose-grown energy crops, such as maize.[8]
+Anaerobic digestion is widely used as a source of renewable energy. The process produces a biogas, consisting of methane, carbon dioxide and traces of other contaminant gases.[1] This biogas can be used directly as fuel, in combined heat and power gas engines[9] or upgraded to natural gas-quality biomethane. The nutrient-rich digestate also produced can be used as fertilizer.
+With the re-use of waste as a resource and new technological approaches that have lowered capital costs, anaerobic digestion has in recent years received increased attention among governments in a number of countries, among these the United Kingdom (2011),[10] Germany [11] and Denmark (2011).[12]
+Contents
+1 Process
+1.1 Process stages
+1.2 Configuration
+1.2.1 Batch or continuous
+1.2.2 Temperature
+1.2.3 Solids content
+1.2.4 Complexity
+1.2.5 Residence time
+1.3 Inhibition
+2 Feedstocks
+2.1 Moisture content
+2.2 Contamination
+2.3 Substrate composition
+3 Applications
+3.1 Waste and wastewater treatment
+3.2 Power generation
+3.3 Grid injection
+3.4 Vehicle fuel
+3.5 Fertiliser and soil conditioner
+3.6 Cooking gas
+4 Products
+4.1 Biogas
+4.2 Digestate
+4.3 Wastewater
+5 History
+6 See also
+7 References
+8 External links
+Process[edit]
+Main article: Anaerobic respiration
+Many microorganisms affect anaerobic digestion, including acetic acid-forming bacteria (acetogens) and methane-forming archaea (methanogens). These organisms promote a number of chemical processes in converting the biomass to biogas.[13]
+Gaseous oxygen is excluded from the reactions by physical containment. Anaerobes utilize electron acceptors from sources other than oxygen gas. These acceptors can be the organic material itself or may be supplied by inorganic oxides from within the input material. When the oxygen source in an anaerobic system is derived from the organic material itself, the 'intermediate' end products are primarily alcohols, aldehydes, and organic acids, plus carbon dioxide. In the presence of specialised methanogens, the intermediates are converted to the 'final' end products of methane, carbon dioxide, and trace levels of hydrogen sulfide.[14] In an anaerobic system, the majority of the chemical energy contained within the starting material is released by methanogenic bacteria as methane.[15]
+Populations of anaerobic microorganisms typically take a significant period of time to establish themselves to be fully effective. Therefore, common practice is to introduce anaerobic microorganisms from materials with existing populations, a process known as "seeding" the digesters, typically accomplished with the addition of sewage sludge or cattle slurry.[16]
+Process stages[edit]
+The four key stages of anaerobic digestion involve hydrolysis, acidogenesis, acetogenesis and methanogenesis.[17] The overall process can be described by the chemical reaction, where organic material such as glucose is biochemically digested into carbon dioxide (CO2) and methane (CH4) by the anaerobic microorganisms.
+C6H12O6  3CO2 + 3CH4
+Hydrolysis
+In most cases, biomass is made up of large organic polymers. For the bacteria in anaerobic digesters to access the energy potential of the material, these chains must first be broken down into their smaller constituent parts. These constituent parts, or monomers, such as sugars, are readily available to other bacteria. The process of breaking these chains and dissolving the smaller molecules into solution is called hydrolysis. Therefore, hydrolysis of these high-molecular-weight polymeric components is the necessary first step in anaerobic digestion.[18] Through hydrolysis the complex organic molecules are broken down into simple sugars, amino acids, and fatty acids.
+Acetate and hydrogen produced in the first stages can be used directly by methanogens. Other molecules, such as volatile fatty acids (VFAs) with a chain length greater than that of acetate must first be catabolised into compounds that can be directly used by methanogens.[19]
+Acidogenesis
+The biological process of acidogenesis results in further breakdown of the remaining components by acidogenic (fermentative) bacteria. Here, VFAs are created, along with ammonia, carbon dioxide, and hydrogen sulfide, as well as other byproducts.[20] The process of acidogenesis is similar to the way milk sours.
+Acetogenesis
+The third stage of anaerobic digestion is acetogenesis. Here, simple molecules created through the acidogenesis phase are further digested by acetogens to produce largely acetic acid, as well as carbon dioxide and hydrogen.[21]
+Methanogenesis
+The terminal stage of anaerobic digestion is the biological process of methanogenesis. Here, methanogens use the intermediate products of the preceding stages and convert them into methane, carbon dioxide, and water. These components make up the majority of the biogas emitted from the system. Methanogenesis is sensitive to both high and low pHs and occurs between pH 6.5 and pH 8.[22] The remaining, indigestible material the microbes cannot use and any dead bacterial remains constitute the digestate.
+[23]
+Configuration[edit]
+Anaerobic digesters can be designed and engineered to operate using a number of different configurations and can be categorized into batch vs. continuous process mode, mesophilic vs. thermophilic temperature conditions, high vs. low portion of solids, and single stage vs. multistage processes. More initial build money and a larger volume of the batch digester is needed to handle the same amount of waste as a continuous process digester.[24] Higher heat energy is demanded in a thermophilic system compared to a mesophilic system and has a larger gas output capacity and higher methane gas content.[25] For solids content, low will handle up to 15% solid content. Above this level is considered high solids content and can also be known as dry digestion.[26] In a single stage process, one reactor houses the four anaerobic digestion steps. A multistage process utilizes two or more reactors for digestion to separate the methanogenesis and hydrolysis phases.[27]
+Batch or continuous[edit]
+Anaerobic digestion can be performed as a batch process or a continuous process. In a batch system, biomass is added to the reactor at the start of the process. The reactor is then sealed for the duration of the process. In its simplest form batch processing needs inoculation with already processed material to start the anaerobic digestion. In a typical scenario, biogas production will be formed with a normal distribution pattern over time. Operators can use this fact to determine when they believe the process of digestion of the organic matter has completed. There can be severe odour issues if a batch reactor is opened and emptied before the process is well completed. A more advanced type of batch approach has limited the odour issues by integrating anaerobic digestion with in-vessel composting. In this approach inoculation takes place through the use of recirculated degasified percolate. After anaerobic digestion has completed, the biomass is kept in the reactor which is then used for in-vessel composting before it is opened [28] As the batch digestion is simple and requires less equipment and lower levels of design work, it is typically a cheaper form of digestion.[29] Using more than one batch reactor at a plant can ensure constant production of biogas.
+In continuous digestion processes, organic matter is constantly added (continuous complete mixed) or added in stages to the reactor (continuous plug flow; first in  first out). Here, the end products are constantly or periodically removed, resulting in constant production of biogas. A single or multiple digesters in sequence may be used. Examples of this form of anaerobic digestion include continuous stirred-tank reactors, upflow anaerobic sludge blankets, expanded granular sludge beds and internal circulation reactors.[30][31]
+Temperature[edit]
+The two conventional operational temperature levels for anaerobic digesters determine the species of methanogens in the digesters:[32]
+Mesophilic digestion takes place optimally around 30 to 38C, or at ambient temperatures between 20 and 45C, where mesophiles are the primary microorganism present.
+Thermophilic digestion takes place optimally around 49 to 57C, or at elevated temperatures up to 70C, where thermophiles are the primary microorganisms present.
+A limit case has been reached in Bolivia, with anaerobic digestion in temperature working conditions of less than 10C. The anaerobic process is very slow, taking more than three times the normal mesophilic time process.[33] In experimental work at University of Alaska Fairbanks, a 1,000 litre digester using psychrophiles harvested from "mud from a frozen lake in Alaska" has produced 200300litres of methane per day, about 20 to 30% of the output from digesters in warmer climates.[34] Mesophilic species outnumber thermophiles, and they are also more tolerant to changes in environmental conditions than thermophiles. Mesophilic systems are, therefore, considered to be more stable than thermophilic digestion systems. In contrast, while thermophilic digestion systems are considered less stable, their energy input is higher, with more biogas being removed from the organic matter in an equal amount of time. The increased temperatures facilitate faster reaction rates, and thus faster gas yields. Operation at higher temperatures facilitates greater pathogen reduction of the digestate. In countries where legislation, such as the Animal By-Products Regulations in the European Union, requires digestate to meet certain levels of pathogen reduction there may be a benefit to using thermophilic temperatures instead of mesophilic.[35]
+Additional pre-treatment can be used to reduce the necessary retention time to produce biogas. For example, certain processes shred the substrates to increase the surface area or use a thermal pretreatment stage (such as pasteurisation) to significantly enhance the biogas output. The pasteurisation process can also be used to reduce the pathogenic concentration in the digesate leaving the anaerobic digester. Pasteurisation may be achieved by heat treatment combined with maceration of the solids.
+Solids content[edit]
+In a typical scenario, three different operational parameters are associated with the solids content of the feedstock to the digesters:
+High solids (drystackable substrate)
+High solids (wetpumpable substrate)
+Low solids (wetpumpable substrate)
+High solids (dry) digesters are designed to process materials with a solids content between 25 and 40%. Unlike wet digesters that process pumpable slurries, high solids (dry  stackable substrate) digesters are designed to process solid substrates without the addition of water. The primary styles of dry digesters are continuous vertical plug flow and batch tunnel horizontal digesters. Continuous vertical plug flow digesters are upright, cylindrical tanks where feedstock is continuously fed into the top of the digester, and flows downward by gravity during digestion. In batch tunnel digesters, the feedstock is deposited in tunnel-like chambers with a gas-tight door. Neither approach has mixing inside the digester. The amount of pretreatment, such as contaminant removal, depends both upon the nature of the waste streams being processed and the desired quality of the digestate. Size reduction (grinding) is beneficial in continuous vertical systems, as it accelerates digestion, while batch systems avoid grinding and instead require structure (e.g. yard waste) to reduce compaction of the stacked pile. Continuous vertical dry digesters have a smaller footprint due to the shorter effective retention time and vertical design. Wet digesters can be designed to operate in either a high-solids content, with a total suspended solids (TSS) concentration greater than ~20%, or a low-solids concentration less than ~15%.[36][37]
+High solids (wet) digesters process a thick slurry that requires more energy input to move and process the feedstock. The thickness of the material may also lead to associated problems with abrasion. High solids digesters will typically have a lower land requirement due to the lower volumes associated with the moisture.[citation needed] High solids digesters also require correction of conventional performance calculations (e.g. gas production, retention time, kinetics, etc.) originally based on very dilute sewage digestion concepts, since larger fractions of the feedstock mass are potentially convertible to biogas.[38]
+Low solids (wet) digesters can transport material through the system using standard pumps that require significantly lower energy input. Low solids digesters require a larger amount of land than high solids due to the increased volumes associated with the increased liquid-to-feedstock ratio of the digesters. There are benefits associated with operation in a liquid environment, as it enables more thorough circulation of materials and contact between the bacteria and their food. This enables the bacteria to more readily access the substances on which they are feeding, and increases the rate of gas production.[citation needed]
+Complexity[edit]
+Digestion systems can be configured with different levels of complexity.[36] In a single-stage digestion system (one-stage), all of the biological reactions occur within a single, sealed reactor or holding tank. Using a single stage reduces construction costs, but results in less control of the reactions occurring within the system. Acidogenic bacteria, through the production of acids, reduce the pH of the tank. Methanogenic bacteria, as outlined earlier, operate in a strictly defined pH range.[39] Therefore, the biological reactions of the different species in a single-stage reactor can be in direct competition with each other. Another one-stage reaction system is an anaerobic lagoon. These lagoons are pond-like, earthen basins used for the treatment and long-term storage of manures.[40] Here the anaerobic reactions are contained within the natural anaerobic sludge contained in the pool.
+In a two-stage digestion system (multistage), different digestion vessels are optimised to bring maximum control over the bacterial communities living within the digesters. Acidogenic bacteria produce organic acids and more quickly grow and reproduce than methanogenic bacteria. Methanogenic bacteria require stable pH and temperature to optimise their performance.[41]
+Under typical circumstances, hydrolysis, acetogenesis, and acidogenesis occur within the first reaction vessel. The organic material is then heated to the required operational temperature (either mesophilic or thermophilic) prior to being pumped into a methanogenic reactor. The initial hydrolysis or acidogenesis tanks prior to the methanogenic reactor can provide a buffer to the rate at which feedstock is added. Some European countries require a degree of elevated heat treatment to kill harmful bacteria in the input waste.[42] In this instance, there may be a pasteurisation or sterilisation stage prior to digestion or between the two digestion tanks. Notably, it is not possible to completely isolate the different reaction phases, and often some biogas is produced in the hydrolysis or acidogenesis tanks.
+Residence time[edit]
+The residence time in a digester varies with the amount and type of feed material, and with the configuration of the digestion system. In a typical two-stage mesophilic digestion, residence time varies between 15 and 40days,[43] while for a single-stage thermophilic digestion, residence times is normally faster and takes around 14days. The plug-flow nature of some of these systems will mean the full degradation of the material may not have been realised in this timescale. In this event, digestate exiting the system will be darker in colour and will typically have more odour.[citation needed]
+In the case of an upflow anaerobic sludge blanket digestion (UASB), hydraulic residence times can be as short as 1 hour to 1 day, and solid retention times can be up to 90 days. In this manner, a UASB system is able to separate solids and hydraulic retention times with the use of a sludge blanket.[44] Continuous digesters have mechanical or hydraulic devices, depending on the level of solids in the material, to mix the contents, enabling the bacteria and the food to be in contact. They also allow excess material to be continuously extracted to maintain a reasonably constant volume within the digestion tanks.[citation needed]
+Inhibition[edit]
+The anaerobic digestion process can be inhibited by several compounds, affecting one or more of the bacterial groups responsible for the different organic matter degradation steps. The degree of the inhibition depends, among other factors, on the concentration of the inhibitor in the digester. Potential inhibitors are ammonia, sulfide, light metal ions (Na, K, Mg, Ca, Al), heavy metals, some organics (chlorophenols, halogenated aliphatics, N-substituted aromatics, long chain fatty acids), etc.[45]
+Left: Farm-based maize silage digester located near Neumnster in Germany, 2007 - the green, inflatable biogas holder is shown on top of the digester. Right: Two-stage, low solids, UASB digestion component of a mechanical biological treatment system near Tel Aviv; the process water is seen in balance tank and sequencing batch reactor, 2005.
+Feedstocks[edit]
+Anaerobic lagoon and generators at the Cal Poly Dairy, United States
+The most important initial issue when considering the application of anaerobic digestion systems is the feedstock to the process. Almost any organic material can be processed with anaerobic digestion;[46] however, if biogas production is the aim, the level of putrescibility is the key factor in its successful application.[47] The more putrescible (digestible) the material, the higher the gas yields possible from the system.
+Feedstocks can include biodegradable waste materials, such as waste paper, grass clippings, leftover food, sewage, and animal waste.[1] Woody wastes are the exception, because they are largely unaffected by digestion, as most anaerobes are unable to degrade lignin. Xylophalgeous anaerobes (lignin consumers) or using high temperature pretreatment, such as pyrolysis, can be used to break down the lignin. Anaerobic digesters can also be fed with specially grown energy crops, such as silage, for dedicated biogas production. In Germany and continental Europe, these facilities are referred to as "biogas" plants. A codigestion or cofermentation plant is typically an agricultural anaerobic digester that accepts two or more input materials for simultaneous digestion.[48]
+The length of time required for anaerobic digestion depends on the chemical complexity of the material. Material rich in easily digestible sugars breaks down quickly where as intact lignocellulosic material rich in cellulose and hemicellulose polymers can take much longer to break down.[49] Anaerobic microorganisms are generally unable to break down lignin, the recalcitrant aromatic component of biomass.[50]
+Anaerobic digesters were originally designed for operation using sewage sludge and manures. Sewage and manure are not, however, the material with the most potential for anaerobic digestion, as the biodegradable material has already had much of the energy content taken out by the animals that produced it. Therefore, many digesters operate with codigestion of two or more types of feedstock. For example, in a farm-based digester that uses dairy manure as the primary feedstock, the gas production may be significantly increased by adding a second feedstock, e.g., grass and corn (typical on-farm feedstock), or various organic byproducts, such as slaughterhouse waste, fats, oils and grease from restaurants, organic household waste, etc. (typical off-site feedstock).[51]
+Digesters processing dedicated energy crops can achieve high levels of degradation and biogas production.[37][52][53] Slurry-only systems are generally cheaper, but generate far less energy than those using crops, such as maize and grass silage; by using a modest amount of crop material (30%), an anaerobic digestion plant can increase energy output tenfold for only three times the capital cost, relative to a slurry-only system.[54]
+Moisture content[edit]
+A second consideration related to the feedstock is moisture content. Dryer, stackable substrates, such as food and yard waste, are suitable for digestion in tunnel-like chambers. Tunnel-style systems typically have near-zero wastewater discharge, as well, so this style of system has advantages where the discharge of digester liquids are a liability. The wetter the material, the more suitable it will be to handling with standard pumps instead of energy-intensive concrete pumps and physical means of movement. Also, the wetter the material, the more volume and area it takes up relative to the levels of gas produced. The moisture content of the target feedstock will also affect what type of system is applied to its treatment. To use a high-solids anaerobic digester for dilute feedstocks, bulking agents, such as compost, should be applied to increase the solids content of the input material.[55] Another key consideration is the carbon:nitrogen ratio of the input material. This ratio is the balance of food a microbe requires to grow; the optimal C:N ratio is 2030:1.[56] Excess N can lead to ammonia inhibition of digestion.[52]
+Contamination[edit]
+The level of contamination of the feedstock material is a key consideration. If the feedstock to the digesters has significant levels of physical contaminants, such as plastic, glass, or metals, then processing to remove the contaminants will be required for the material to be used.[57] If it is not removed, then the digesters can be blocked and will not function efficiently. It is with this understanding that mechanical biological treatment plants are designed. The higher the level of pretreatment a feedstock requires, the more processing machinery will be required, and, hence, the project will have higher capital costs.[58]
+After sorting or screening to remove any physical contaminants from the feedstock, the material is often shredded, minced, and mechanically or hydraulically pulped to increase the surface area available to microbes in the digesters and, hence, increase the speed of digestion. The maceration of solids can be achieved by using a chopper pump to transfer the feedstock material into the airtight digester, where anaerobic treatment takes place.
+Substrate composition[edit]
+Substrate composition is a major factor in determining the methane yield and methane production rates from the digestion of biomass. Techniques to determine the compositional characteristics of the feedstock are available, while parameters such as solids, elemental, and organic analyses are important for digester design and operation.[59]
+Applications[edit]
+Schematic of an anaerobic digester as part of a sanitation system. It produces a digested slurry (digestate) that can be used as a fertilizer, and biogas that can be used for energy.[60]
+Using anaerobic digestion technologies can help to reduce the emission of greenhouse gases in a number of key ways:
+Replacement of fossil fuels
+Reducing or eliminating the energy footprint of waste treatment plants
+Reducing methane emission from landfills
+Displacing industrially produced chemical fertilizers
+Reducing vehicle movements
+Reducing electrical grid transportation losses
+Reducing usage of LP Gas for cooking
+Waste and wastewater treatment[edit]
+Anaerobic digestion is particularly suited to organic material, and is commonly used for industrial effluent, wastewater and sewage sludge treatment.[61] Anaerobic digestion, a simple process, can greatly reduce the amount of organic matter which might otherwise be destined to be dumped at sea,[62] dumped in landfills, or burnt in incinerators.[63]
+Pressure from environmentally related legislation on solid waste disposal methods in developed countries has increased the application of anaerobic digestion as a process for reducing waste volumes and generating useful byproducts. It may either be used to process the source-separated fraction of municipal waste or alternatively combined with mechanical sorting systems, to process residual mixed municipal waste. These facilities are called mechanical biological treatment plants.[64][65][66]
+If the putrescible waste processed in anaerobic digesters were disposed of in a landfill, it would break down naturally and often anaerobically. In this case, the gas will eventually escape into the atmosphere. As methane is about 20 times more potent as a greenhouse gas than carbon dioxide, this has significant negative environmental effects.[67]
+In countries that collect household waste, the use of local anaerobic digestion facilities can help to reduce the amount of waste that requires transportation to centralized landfill sites or incineration facilities. This reduced burden on transportation reduces carbon emissions from the collection vehicles. If localized anaerobic digestion facilities are embedded within an electrical distribution network, they can help reduce the electrical losses associated with transporting electricity over a national grid.[68]
+Power generation[edit]
+See also: Electrical energy efficiency on United States farms
+In developing countries, simple home and farm-based anaerobic digestion systems offer the potential for low-cost energy for cooking and lighting.[33][69][70][71] From 1975, China and India have both had large, government-backed schemes for adaptation of small biogas plants for use in the household for cooking and lighting.[72] At present, projects for anaerobic digestion in the developing world can gain financial support through the United Nations Clean Development Mechanism if they are able to show they provide reduced carbon emissions.[73]
+Methane and power produced in anaerobic digestion facilities can be used to replace energy derived from fossil fuels, and hence reduce emissions of greenhouse gases, because the carbon in biodegradable material is part of a carbon cycle. The carbon released into the atmosphere from the combustion of biogas has been removed by plants for them to grow in the recent past, usually within the last decade, but more typically within the last growing season. If the plants are regrown, taking the carbon out of the atmosphere once more, the system will be carbon neutral.[74][75] In contrast, carbon in fossil fuels has been sequestered in the earth for many millions of years, the combustion of which increases the overall levels of carbon dioxide in the atmosphere.
+Biogas from sewage works is sometimes used to run a gas engine to produce electrical power, some or all of which can be used to run the sewage works.[76] Some waste heat from the engine is then used to heat the digester. The waste heat is, in general, enough to heat the digester to the required temperatures. The power potential from sewage works is limited  in the UK, there are about 80MW total of such generation, with the potential to increase to 150MW, which is insignificant compared to the average power demand in the UK of about 35,000MW. The scope for biogas generation from nonsewage waste biological matter  energy crops, food waste, abattoir waste, etc. - is much higher, estimated to be capable of about 3,000MW.[citation needed] Farm biogas plants using animal waste and energy crops are expected to contribute to reducing CO2 emissions and strengthen the grid, while providing UK farmers with additional revenues.[77]
+Some countries offer incentives in the form of, for example, feed-in tariffs for feeding electricity onto the power grid to subsidize green energy production.[1][78]
+In Oakland, California at the East Bay Municipal Utility Districts main wastewater treatment plant (EBMUD), food waste is currently codigested with primary and secondary municipal wastewater solids and other high-strength wastes. Compared to municipal wastewater solids digestion alone, food waste codigestion has many benefits. Anaerobic digestion of food waste pulp from the EBMUD food waste process provides a higher normalized energy benefit, compared to municipal wastewater solids: 730 to 1,300 kWh per dry ton of food waste applied compared to 560 to 940 kWh per dry ton of municipal wastewater solids applied.[79][80]
+Grid injection[edit]
+Biogas grid-injection is the injection of biogas into the natural gas grid.[81] The raw biogas has to be previously upgraded to biomethane. This upgrading implies the removal of contaminants such as hydrogen sulphide or siloxanes, as well as the carbon dioxide. Several technologies are available for this purpose, being the most widely implemented the pressure swing adsorption (PSA), water or amine scrubbing (absorption processes) and, in the last years, membrane separation.[82] As an alternative, the electricity and the heat can be used for on-site generation,[83] resulting in a reduction of losses in the transportation of energy. Typical energy losses in natural gas transmission systems range from 12%, whereas the current energy losses on a large electrical system range from 58%.[84]
+In October 2010, Didcot Sewage Works became the first in the UK to produce biomethane gas supplied to the national grid, for use in up to 200 homes in Oxfordshire.[85] By 2017, UK electricity firm Ecotricity plan to have digester fed by locally sourced grass [86] fueling 6000 homes [87]
+Vehicle fuel[edit]
+After upgrading with the above-mentioned technologies, the biogas (transformed into biomethane) can be used as vehicle fuel in adapted vehicles. This use is very extensive in Sweden, where over 38,600 gas vehicles exist, and 60% of the vehicle gas is biomethane generated in anaerobic digestion plants.[88]
+Fertiliser and soil conditioner[edit]
+The solid, fibrous component of the digested material can be used as a soil conditioner to increase the organic content of soils. Digester liquor can be used as a fertiliser to supply vital nutrients to soils instead of chemical fertilisers that require large amounts of energy to produce and transport. The use of manufactured fertilisers is, therefore, more carbon-intensive than the use of anaerobic digester liquor fertiliser. In countries such as Spain, where many soils are organically depleted, the markets for the digested solids can be equally as important as the biogas.[89]
+Cooking gas[edit]
+By using a bio-digester, which produces the bacteria required for decomposing, cooking gas is generated. The organic garbage like fallen leaves, kitchen waste, food waste etc. are fed into a crusher unit, where the mixture is conflated with a small amount of water. The mixture is then fed into the bio-digester, where the bacteria decomposes it to produce cooking gas. This gas is piped to kitchen stove. A 2 cubic meter bio-digester can produce 2 cubic meter of cooking gas. This is equivalent to 1kg of LPG. The notable advantage of using a bio-digester is the sludge which is a rich organic manure.[90]
+Products[edit]
+The three principal products of anaerobic digestion are biogas, digestate, and water.[36][91][92]
+Biogas[edit]
+Main article: Biogas
+Typical composition of biogas
+Compound
+Formula
+%
+Methane
+CH
+4
+5075
+Carbon dioxide
+CO
+2
+2550
+Nitrogen
+N
+2
+010
+Hydrogen
+H
+2
+01
+Hydrogen sulphide
+H
+2S
+03
+Oxygen
+O
+2
+00
+Source: www.kolumbus.fi, 2007[93]
+Biogas is the ultimate waste product of the bacteria feeding off the input biodegradable feedstock[94] (the methanogenesis stage of anaerobic digestion is performed by archaea (a micro-organism on a distinctly different branch of the phylogenetic tree of life to bacteria), and is mostly methane and carbon dioxide,[95][96] with a small amount hydrogen and trace hydrogen sulfide. (As-produced, biogas also contains water vapor, with the fractional water vapor volume a function of biogas temperature).[38] Most of the biogas is produced during the middle of the digestion, after the bacterial population has grown, and tapers off as the putrescible material is exhausted.[97] The gas is normally stored on top of the digester in an inflatable gas bubble or extracted and stored next to the facility in a gas holder.
+The methane in biogas can be burned to produce both heat and electricity, usually with a reciprocating engine or microturbine[98] often in a cogeneration arrangement where the electricity and waste heat generated are used to warm the digesters or to heat buildings. Excess electricity can be sold to suppliers or put into the local grid. Electricity produced by anaerobic digesters is considered to be renewable energy and may attract subsidies.[99] Biogas does not contribute to increasing atmospheric carbon dioxide concentrations because the gas is not released directly into the atmosphere and the carbon dioxide comes from an organic source with a short carbon cycle.
+Biogas may require treatment or 'scrubbing' to refine it for use as a fuel.[100] Hydrogen sulfide, a toxic product formed from sulfates in the feedstock, is released as a trace component of the biogas. National environmental enforcement agencies, such as the U.S. Environmental Protection Agency or the English and Welsh Environment Agency, put strict limits on the levels of gases containing hydrogen sulfide, and, if the levels of hydrogen sulfide in the gas are high, gas scrubbing and cleaning equipment (such as amine gas treating) will be needed to process the biogas to within regionally accepted levels.[101] Alternatively, the addition of ferrous chloride FeCl2 to the digestion tanks inhibits hydrogen sulfide production.[102]
+Volatile siloxanes can also contaminate the biogas; such compounds are frequently found in household waste and wastewater. In digestion facilities accepting these materials as a component of the feedstock, low-molecular-weight siloxanes volatilise into biogas. When this gas is combusted in a gas engine, turbine, or boiler, siloxanes are converted into silicon dioxide (SiO2), which deposits internally in the machine, increasing wear and tear.[103][104] Practical and cost-effective technologies to remove siloxanes and other biogas contaminants are available at the present time.[105] In certain applications, in situ treatment can be used to increase the methane purity by reducing the offgas carbon dioxide content, purging the majority of it in a secondary reactor.[106]
+In countries such as Switzerland, Germany, and Sweden, the methane in the biogas may be compressed for it to be used as a vehicle transportation fuel or input directly into the gas mains.[107] In countries where the driver for the use of anaerobic digestion are renewable electricity subsidies, this route of treatment is less likely, as energy is required in this processing stage and reduces the overall levels available to sell.[108]
+Biogas holder with lightning protection rods and backup gas flare
+Biogas carrying pipes
+Digestate[edit]
+Main article: digestate
+Digestate is the solid remnants of the original input material to the digesters that the microbes cannot use. It also consists of the mineralised remains of the dead bacteria from within the digesters. Digestate can come in three forms: fibrous, liquor, or a sludge-based combination of the two fractions. In two-stage systems, different forms of digestate come from different digestion tanks. In single-stage digestion systems, the two fractions will be combined and, if desired, separated by further processing.[109][110]
+Acidogenic anaerobic digestate
+The second byproduct (acidogenic digestate) is a stable, organic material consisting largely of lignin and cellulose, but also of a variety of mineral components in a matrix of dead bacterial cells; some plastic may be present. The material resembles domestic compost and can be used as such or to make low-grade building products, such as fibreboard.[111][112] The solid digestate can also be used as feedstock for ethanol production.[113]
+The third byproduct is a liquid (methanogenic digestate) rich in nutrients, which can be used as a fertiliser, depending on the quality of the material being digested.[114] Levels of potentially toxic elements (PTEs) should be chemically assessed. This will depend upon the quality of the original feedstock. In the case of most clean and source-separated biodegradable waste streams, the levels of PTEs will be low. In the case of wastes originating from industry, the levels of PTEs may be higher and will need to be taken into consideration when determining a suitable end use for the material.
+Digestate typically contains elements, such as lignin, that cannot be broken down by the anaerobic microorganisms. Also, the digestate may contain ammonia that is phytotoxic, and may hamper the growth of plants if it is used as a soil-improving material. For these two reasons, a maturation or composting stage may be employed after digestion. Lignin and other materials are available for degradation by aerobic microorganisms, such as fungi, helping reduce the overall volume of the material for transport. During this maturation, the ammonia will be oxidized into nitrates, improving the fertility of the material and making it more suitable as a soil improver. Large composting stages are typically used by dry anaerobic digestion technologies.[115][116]
+Wastewater[edit]
+The final output from anaerobic digestion systems is water, which originates both from the moisture content of the original waste that was treated and water produced during the microbial reactions in the digestion systems. This water may be released from the dewatering of the digestate or may be implicitly separate from the digestate.
+The wastewater exiting the anaerobic digestion facility will typically have elevated levels of biochemical oxygen demand (BOD) and chemical oxygen demand (COD). These measures of the reactivity of the effluent indicate an ability to pollute. Some of this material is termed 'hard COD', meaning it cannot be accessed by the anaerobic bacteria for conversion into biogas. If this effluent were put directly into watercourses, it would negatively affect them by causing eutrophication. As such, further treatment of the wastewater is often required. This treatment will typically be an oxidation stage wherein air is passed through the water in a sequencing batch reactors or reverse osmosis unit.[117][118][119]
+History[edit]
+Gas street lamp
+Reported scientific interest in the manufacturing of gas produced by the natural decomposition of organic matter dates from the 17th century, when Robert Boyle (1627-1691) and Stephen Hales (1677-1761) noted that disturbing the sediment of streams and lakes released flammable gas.[15] In 1808 Sir Humphry Davy proved the presence of methane in the gases produced by cattle manure.[17][120] In 1859 a leper colony in Bombay in India built the first anaerobic digester. In 1895, the technology was developed in Exeter, England, where a septic tank was used to generate gas for the sewer gas destructor lamp, a type of gas lighting. Also in England, in 1904, the first dual-purpose tank for both sedimentation and sludge treatment was installed in Hampton, London. In 1907, in Germany, a patent was issued[by whom?] for the Imhoff tank,[121] an early form of digester.[citation needed]
+Research on anaerobic digestion began in earnest in the 1930s.[122]
+See also[edit]
+Anaerobic digester types
+Bioconversion of biomass to mixed alcohol fuels
+Carbon dioxide air capture
+Environmental issues with energy
+Eutrophication
+Global Methane Initiative
+Hypoxia (environmental)
+Mesophilic digester
+Methane capture
+Methane clathrate
+Microbiology of decomposition
+Relative cost of electricity generated by different sources
+Sanitation
+Sewage treatment
+Thermophilic digester
+Upflow anaerobic sludge blanket digestion (UASB)
+Wastewater quality indicators
+Renewable energy portal
+Energy portal
+Environment portal
+Sustainable development portal
+References[edit]
+^ a b c d National Non-Food Crops Centre. "NNFCC Renewable Fuels and Energy Factsheet: Anaerobic Digestion", Retrieved on 2011-11-22
+^ Koyama, Tadashiro (1963). "Gaseous metabolism in lake sediments and paddy soils and the production of atmospheric methane and hydrogen". Journal of Geophysical Research. 68 (13): 39713973. doi:10.1029/JZ068i013p03971.
+^ Pamatmat, Mario Macalalag; Bhagwat, Ashok M. (1973). "Anaerobic metabolism in Lake Washington sediments" (PDF). Limnology and Oceanography. pp.611627. doi:10.4319/lo.1973.18.4.0611. Archived (PDF) from the original on 16 December 2013.
+^ Zehnder, Alexander J. B. (1978). "Ecology of methane formation". In Mitchell, Ralph. Water pollution microbiology 2. New York: Wiley. pp.349376. ISBN978-0-471-01902-2.
+^ MacGregor, A. N.; Keeney, D. R. (1973). "Methane formation by lake sediments during in vitro incubations". Journal of the American Water Resources Association (JAWRA). 9 (6): 11531158. doi:10.1111/j.1752-1688.1973.tb05854.x.
+^ Anaerobic digestion reference sheet, waste.nl. Retrieved 25.10.07.
+^ Meisam Tabatabaei, Raha Abdul Rahim, Andr-Denis G. Wright, Yoshihito Shirai, Norhani Abdullah, Alawi Sulaiman, Kenji Sakai and Mohd Ali Hassan. 2010. Importance of the methanogenic archaea populations in anaerobic wastewater treatments (Process Biochemistry- 45(8), pp: 1214-1225)
+^ Agricultural Biogas, www.clarke-energy.com, accessed 08.11.11
+^ GE Jenbacher Biogas Engines, www.clarke-energy.com, accessed 15.04.11
+^ Anaerobic Digestion Strategy and Action Plan, defra.gov.uk. Accessed 19.01.2012
+^ (source needed)
+^ Jyllands-Posten 29. December 2011. Accessed 19.01.2012 via Google Translate
+^ National Non-Food Crops Centre. Evaluation of Opportunities for Converting Indigenous UK Wastes to Fuels and Energy (Report), NNFCC 09-012
+^ Adapted from Beychok, M. (1967) Aqueous Wastes from Petroleum and Petrochemical Plants, First edition, John Wiley & Sons, LCCN 67019834
+^ a b Fergusen, T. & Mah, R. (2006) Methanogenic bacteria in Anaerobic digestion of biomass, p49
+^ The biogas plant, unu.edu. Retrieved 5.11.07.
+^ a b Anaerobic digestion, waste.nl. Retrieved 19.08.07.
+^ Sleat, R. & Mah, R. (2006) Hydrolytic Bacteria in Anaerobic digestion of biomass, p15
+^ Boone, D. & Mah, R. (2006) Transitional bacteria in anaerobic digestion of biomass, p35
+^ What is anaerobic digestion, sop.inria.fr. Retrieved 24.10.07.
+^ Anaerobic digestion, biotank.co.uk. Retrieved 24.10.07.
+^ "Anaerobic Digester: How It Works [Process] | GreenTheFuture.com". greenthefuture.com. Retrieved 2016-02-23.
+^ "Landfill Gas & Biogas Analyzers | Nova Gas". Nova Gas. Retrieved 2016-02-23.
+^ A, Igoni Hilkia; Abowei, M. F. N.; Ayotamuno, M. J.; Eze, C. L. (2009-01-16). "Comparative Evaluation of Batch and Continuous Anaerobic Digesters in Biogas Production from Municipal Solid Waste using Mathematical Models". Agricultural Engineering International: CIGR Journal. ISSN1682-1130.
+^ "COMPARING OF MESOPHILIC AND THERMOPHILIC ANAEROBIC FERMENTED SEWAGE SLUDGE BASED ON CHEMICAL AND BIOCHEMICAL TESTS" (PDF). www.aloki.hu. Retrieved 23 February 2016.
+^ "Low and High Solid Anaerobic Digestion Technology". www.theecoambassador.com. Retrieved 2016-02-23.
+^ 2008, DEVinitiv GbR,. "Anaerobic Digestion Systems". www.wtert.eu. Retrieved 2016-02-23.
+^ aikantechnology.com Retrieved 10. Feb. 2012.
+^ Anaerobic digestion, energy.ca.gov. Retrieved 18.06.09.
+^ BIOPAQ IC, paques.nl. Retrieved 19.08.07.
+^ Biological processes with Biomar technology envirochemie.com. Retrieved 24.10.2012.
+^ Song, Y.C., Kwon, S.J., Woo, J.H. (2004) Mesophilic and thermophilic temperature co-phase anaerobic digestion compared with single-stage mesophilic- and thermophilic digestion of sewage sludge, Water Res. 2004 Apr;38(7):165362
+^ a b Transfer of low-cost plastic biodigester technology at household level in Bolivia, lrrd.org
+^ Gupta, Sujata (2010-11-06). "Biogas comes in from the cold". New Scientist. London: Sunita Harrington. p.14. Retrieved 2011-02-04.
+^ Animal by-products introduction, ec.europa.eu. Retrieved 24.10.07.
+^ a b c Feasibility study concerning anaerobic digestion in Northern Ireland, eunomia.co.uk , Retrieved 19.08.07. Archived 28 November 2007 at the Wayback Machine.
+^ a b Jewell, W.; Cummings, R.; Richards, B. (1993). "Methane fermentation of energy crops: Maximum conversion kinetics and in situ biogas purification". Biomass and Bioenergy. 5 (34): 261278. doi:10.1016/0961-9534(93)90076-G.
+^ a b Richards, B.; Cummings, R.; White, T.; Jewell, W. (1991). "Methods for kinetic analysis of methane fermentation in high solids biomass digesters". Biomass and Bioenergy. 1 (2): 6526. doi:10.1016/0961-9534(91)90028-B.
+^ Biomethanation in advances in biochemical engineering and biotechnology, books.google.com. Retrieved 24.10.07.
+^ Anaerobic Lagoons for Storage/Treatment of Livestock Manure, missouri.edu. Retrieved 8.11.07.
+^ Abstract: Methanogenic population dynamics during start-up of anaerobic digesters treating municipal solid waste and biosolids, interscience.wiley.com. Retrieved 24.10.07.
+^ Animal By-Products Regulations, defra.gov.uk. Retrieved 24.10.07. Archived 16 April 2014 at the Wayback Machine.
+^ HIMETA Two-Stage Anaerobic Digestion Process for Converting Waste to Energy, gastechnology.org. Retrieved 19.08.07.
+^ Finstein, M. S. (2006) ArrowBio process integrates preprocessing and advanced anaerobic digestion to recover recyclables and generate electricity, oaktech-environmental.com. Retrieved 19.08.07.
+^ Chen Y., Cheng J.J., Creamer K.S. (2008). Inhibition of anaerobic digestion process: A review. Bioresource Technology 99, 4044-4064
+^ Alfagy.com, retrieved 16.08.09
+^ Anaerobic digestion feedstock classification, wisbiorefine.org. Retrieved 24.10.07.
+^ Lemmer, A. & Oeschsner, H. Co-fermentation of grass and forage maize, Energy, Landtechnik, 5/11, p 56, ltnet.lv-h.de
+^ [1], waste-management-world.com. Retrieved 24.10.07.
+^ Benner, Ronald (1989). "Book Review: Biology of anaerobic microorganisms" (PDF). Limnology and Oceanography. 34 (3): 647. doi:10.4319/lo.1989.34.3.0647. Archived from the original (PDF) on 13 November 2006.
+^ Anaerobic Digestion Initiative Advisory Committee (ADIAC). "Feedstock". Archived from the original on 13 December 2011.
+^ a b Richards, B.; Cummings, R. J.; Jewell, W. J. (1991). "High rate low solids methane fermentation of sorghum, corn and cellulose". Biomass and Bioenergy. 1 (5): 249260. doi:10.1016/0961-9534(91)90036-C.
+^ Richards, B.; Cummings, R. J.; Jewell, W. J.; Herndon, F. G. (1991). "High solids anaerobic methane fermentation of sorghum and cellulose". Biomass and Bioenergy. 1: 4753. doi:10.1016/0961-9534(91)90051-D.
+^ National Non-Food Crops Centre. Farm-Scale Anaerobic Digestion Plant Efficiency, NNFCC 11-015
+^ Management of Urban Biodegradable Waste, books.google.com. Retrieved 24.10.07.
+^ Anaerobic co-digestion of sewage sludge and rice straw, bvsde.ops-oms.org. Retrieved 24.10.07.
+^ Anaerobic digestion of classified municipal solid wastes, seas.ucla.edu. Retrieved 24.10.07.
+^ National Non-Food Crops Centre. Economic Assessment of Anaerobic Digestion Technology & its Suitability to UK Farming & Waste Systems (Report, 2nd Edition), NNFCC 10-010
+^ Jerger, D. & Tsao, G. (2006) Feed composition in Anaerobic digestion of biomass, p65
+^ Tilley, E., Ulrich, L., Lthi, C., Reymond, Ph., Zurbrgg, C. (2014) Compendium of Sanitation Systems and Technologies - (2nd Revised Edition). Swiss Federal Institute of Aquatic Science and Technology (Eawag), Duebendorf, Switzerland.
+^ Anaerobic Digestion, wasteresearch.co.uk. Retrieved 24.10.07.
+^ Sea Dumping of Sewage Sludge, encyclopedia.com. Retrieved 22.02.2010.
+^ Ocean Dumping Ban Act (1988), bookrags.com. Retrieved 22.02.2010.
+^ Juniper (2005) MBT: A Guide for Decision Makers  Processes, Policies & Markets, juniper.co.uk, (Project funding supplied by Sita Environmental Trust). Retrieved 22.11.06.
+^ Svoboda, I (2003) Anaerobic digestion, storage, olygolysis, lime, heat and aerobic treatment of livestock manures, scotland.gov.uk. Retrieved 17.08.07.
+^ Haase Mechanical Biological Treatment and Wet Anaerobic Digestion, haase-energietechnik.de. Retrieved 23.10.07.
+^ Global warming methane could be far more potent than carbon dioxide newmediaexplorer.org. Retrieved 17.08.07.
+^ Renewable Energy Framework, esru.strath.ac.uk. Retrieved 8.11.07.
+^ Friends of the Earth (2004) Anaerobic digestion Briefing Paper, foe.co.uk. Retrieved 17.08.07.
+^ Cardiff University (2005) Anaerobic Digestion Page, wasteresearch.co.uk. Retrieved 17.08.07.
+^ Doelle, H. W. (2001) Biotechnology and Human Development in Developing Countries, ejbiotechnology.info. Retrieved 19.08.07.
+^ Biogas Bonanza for Third World Development, i-sis.org.uk. Retrieved 4.11.07.
+^ The Clean Development Mechanism in Nepal in The Tiempo Climate Newswatch, tiempocyberclimate.org
+^ Benefits of Anaerobic Digestion, afbini.gov.uk. Retrieved 22 February 2010. Archived 9 May 2013 at the Wayback Machine.
+^ Questions about biomass energy, dti.gov.uk. Retrieved 17.08.07.
+^ 38% HHV Caterpillar Bio-gas Engine Fitted to Sewage Works | Claverton Group, claverton-energy.com
+^ Alfagy.com, "Be Green  Make Gas"
+^ CHP Feed-In Tariffs & Green Energy Financial Support, www.alfagy.com
+^ East Bay Municipal Utility District (2008). Anaerobic Digestion of Food Waste (PDF). United States Environmental Protection Agency.
+^ "Organics: Anaerobic Digestion". United States Environmental Protection Agency. Retrieved 16 September 2013.
+^ Half Britains homes could be heated by renewable gas, nationalgrid.com
+^ Petersson A., Wellinger A. (2009). Biogas upgrading technologies - developments and innovations. IEA Bioenergy Task 37
+^ Biogas flows through Germany's grid 'big time', renewableenergyworld.com
+^ Transmission loss, energyvortex.com
+^ Shah, Dhruti (5 October 2010). "Oxfordshire town sees human waste used to heat homes". BBC NEWS. Archived from the original on 5 October 2010. Retrieved 5 October 2010.
+^ http://www.theguardian.com/environment/2015/apr/20/ecotricity-offers-anaerobic-digestion-of-grass-as-answer-to-fracking
+^ http://www.hydrogenfuelnews.com/green-energy-plant-could-be-uks-alternative-to-fracking/8521901/
+^ Natural & bioGas Vehicle Association (NVGA). Sweden
+^ Introduction and Spanish organic waste situation, compostnetwork.info. Retrieved 19.08.07.
+^ "Satisfaction of reducing your carbon footprint". The Hindu. Retrieved 2012-07-31.
+^ Abstract from Operation of Municipal Wastewater Treatment Plants Manual of Practice-MOP 11 Fifth Edition, e-wef.org. Retrieved 19.08.07.
+^ Anaerobic Digestion  An Introduction and Commercial Status in the US  As of 2006, anaerobic-digestion.com. Retrieved 07.12.14
+^ Basic Information on Biogas, www.kolumbus.fi. Retrieved 2.11.07.
+^ Roubk, Hynek; Mazancov, Jana; Banout, Jan; Verner, Vladimr (2016-01-20). "Addressing problems at small-scale biogas plants: a case study from central Vietnam". Journal of Cleaner Production. 112, Part 4: 27842792. doi:10.1016/j.jclepro.2015.09.114.
+^ [2], Beginners Guide to Biogas. Retrieved 04.10.15.
+^ How Anaerobic Digestion (Methane Recovery) Works, eere.energy.gov. Retrieved 19.08.07.
+^ Anaerobic digestion briefing sheet, foe.co.uk. Retrieved 24.10.07.
+^ GE Energy  Jenbacher Gas Engines for Power Generation, power-technology.com. Retrieved 19 August 2007.[unreliable source?]
+^ work3.pdf UK Biomass Strategy 2007, defra.gov.uk , Retrieved 19.08.07. Archived 16 December 2008 at the Wayback Machine.
+^ What is anaerobic digestion?, afbini.gov.uk. Retrieved 24.10.07.
+^ Removal of hydrogen sulfide from anaerobic digester gas, U.S. Patent, patentstorm.us. Retrieved 17.08.07.
+^ Abstract from Online Measurement of Dissolved and Gaseous-Hydrogen Sulfide in Anaerobic Biogas Reactors, cheric.org. Retrieved 24.10.07.
+^ Wheles, E. & Pierece, E. (2004) Siloxanes in landfill and digester gas, scsengineers.com. Retrieved 17.08.07.
+^ Biogas Upgrading and Utilisation, EEA Bioenergy, iea-biogas.net. Retrieved 25.10.07.
+^ Tower, P.; Wetzel, J.; Lombard, X. (March 2006). "New Landfill Gas Treatment Technology Dramatically Lowers Energy Production Costs". Applied Filter Technology. Archived from the original on 24 September 2011. Retrieved 2009-04-30., appliedfiltertechnology.com
+^ Richards, B.; Herndon, F. G.; Jewell, W. J.; Cummings, R. J.; White, T. E. (1994). "In situ methane enrichment in methanogenic energy crop digesters". Biomass and Bioenergy. 6 (4): 275274. doi:10.1016/0961-9534(94)90067-1.
+^ Biogas as a road transport fuel nfuonline.com. Retrieved 24.10.07. Archived 15 October 2007 at the Wayback Machine.
+^ Haase biogas energy centre haase-energietechnik.de. Retrieved 19.08.07. Archived 17 December 2008 at the Wayback Machine.
+^ Fact sheet on anaerobic digestion, waste.nl. Retrieved 19.08.07.
+^ Biomass and biogas globalwarming101.com. Retrieved 19.08.07. Archived 21 August 2007 at the Wayback Machine.
+^ Oaktech Consultation Response to UK Source Segregation Requirement, alexmarshall.me.uk. Retrieved 19.08.07.
+^ UK Strategy for centralised anaerobic digestion, ingentaconnect.com. Retrieved 24.10.07.
+^ Solid Digestate to Ethanol, onlinelibrary.wiley.com Retrieved 11.18.10
+^ Biomass and biogas, globalwarming101.com. Retrieved 24.10.07. Archived 5 June 2007 at the Wayback Machine.
+^ Vitoria Plant Information, ows.be. Retrieved 24.10.07.
+^ Kompogas Homepage, kompogas.ch. Retrieved 24.10.07. Archived 9 February 2008 at the Wayback Machine.
+^ Dosta, Joan; Gal, Alexandre; Mac, Sandra; Matalvarez, Joan (February 2007). "Modelling a sequencing batch reactor to treat the supernatant from anaerobic digestion of the organic fraction of municipal solid waste". Journal of Chemical Technology & Biotechnology. 82 (2): 15864. doi:10.1002/jctb.1645. Retrieved 16 September 2013.
+^ Clarke Energy Reverse Osmosis Unit, clarke-energy.co.uk. Retrieved 24.10.07. Archived 16 December 2007 at the Wayback Machine.
+^ BOD Effluent Treatment, virtualviz.com. Retrieved 24.10.07.
+^ Cruazon, B. (2007) History of anaerobic digestion, web.pdx.edu. Retrieved 17.08.07.
+^ Water.me.vccs.edu. Retrieved 22 February 2010.
+^ Humenik, F. et al. (2007) [3], epa.gov. Retrieved 14.07.14.
+External links[edit]
+Official Website of the Anaerobic Digestion and Bioresources Association, Anaerobic Digestion and Bioresources Association (ADBA)
+Online AD Cost Calculator, nnfcc.co.uk
+UK's Official Information Portal on Anaerobic Digestion and Biogas, biogas-info.co.uk
+US Government Information Sheet: Methane from anaerobic digesters, web.archive.org
+American Biogas Council
+Introduction to Biogas and Anaerobic Digestion, information from eXtension's Livestock and Poultry Environmental Learning Center
+v
+t
+e
+Biosolids, waste and waste management
+Major types
+Agricultural wastewater
+Biodegradable waste
+Brown waste
+Chemical waste
+Construction waste
+Demolition waste
+Electronic waste
+by country
+Food waste
+Green waste
+Hazardous waste
+Heat waste
+Industrial waste
+Litter
+Marine debris
+Biomedical waste
+Mining waste
+Municipal solid waste
+Open defecation
+Photodegradation
+Post-consumer waste
+Radioactive waste
+Sewage
+Toxic waste
+Wastewater
+Processes
+Anaerobic digestion
+Biodegradation
+Composting
+Garden waste dumping
+Illegal dumping
+Incineration
+Landfill
+Landfill mining
+Mechanical biological treatment
+Mechanical sorting
+Open dump
+Recycling
+Resource recovery
+Sewage treatment
+Waste collection
+Waste picking
+Waste sorting
+Waste trade
+Waste treatment
+Waste-to-energy
+Countries
+Armenia
+Bangladesh
+Brazil
+Hong Kong
+India
+New Zealand
+Russia
+Switzerland
+UK
+USA
+Agreements
+Bamako Convention
+Basel Convention
+EU directives
+batteries
+landfills
+RoHS
+framework
+incineration
+waste water
+WEEE
+London Convention
+Oslo Convention
+OSPAR Convention
+Other topics
+Blue Ribbon Commission on America's Nuclear Future
+Cleaner production
+Downcycling
+Eco-industrial park
+Extended producer responsibility
+High-level radioactive waste management
+History of waste management
+Landfill fire
+Sewage regulation and administration
+Upcycling
+Waste hierarchy
+Waste legislation
+Waste minimisation
+Zero waste
+Environment portal
+Category
+Commons
+Concepts
+Index
+Journals
+Lists
+Organizations
+v
+t
+e
+Wastewater
+Sources of wastewater
+Acid mine drainage
+Ballast water
+Blackwater (coal)
+Blackwater (waste)
+Boiler blowdown
+Brine
+Combined sewer
+Cooling tower
+Cooling water
+Fecal sludge
+Greywater
+Infiltration/Inflow
+Industrial effluent
+Ion exchange
+Leachate
+Manure
+Papermaking
+Produced water
+Return flow
+Reverse osmosis
+Sanitary sewer
+Septage
+Sewage
+Sewage sludge
+Storm drain
+Urban runoff
+Wastewater quality indicators
+Biochemical oxygen demand
+Chemical oxygen demand
+Coliform index
+Dissolved oxygen
+Heavy metals
+pH
+Salinity
+Temperature
+Total dissolved solids
+Total suspended solids
+Turbidity
+Wastewater treatment processes
+Activated sludge
+Aerated lagoon
+Agricultural wastewater treatment
+API oil-water separator
+Carbon filtration
+Chlorination
+Clarifier
+Constructed wetland
+Extended aeration
+Facultative lagoon
+Fecal sludge management
+Filtration
+Imhoff tank
+Industrial wastewater treatment
+Ion exchange
+Membrane bioreactor
+Reverse osmosis
+Rotating biological contactor
+Secondary treatment
+Sedimentation
+Septic tank
+Settling basin
+Sewage sludge treatment
+Sewage treatment
+Stabilization pond
+Trickling filter
+Ultraviolet germicidal irradiation
+UASB
+Wastewater treatment plant
+Wastewater disposal and reuse options
+Combined sewer
+Evaporation pond
+Groundwater recharge
+Infiltration basin
+Injection well
+Irrigation
+Marine dumping
+Marine outfall
+Sanitary sewer
+Septic drain field
+Sewage farm
+Sewerage
+Stabilization pond
+Storm drain
+Surface runoff
+Water reclamation
+Authority control
+GND: 4006798-1
+NewPP limit report
+Parsed by mw1207
+Cached time: 20161120075526
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.668 seconds
+Real time usage: 0.772 seconds
+Preprocessor visited node count: 4734/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 125281/2097152 bytes
+Template argument size: 5343/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 5/500
+Lua time usage: 0.280/10.000 seconds
+Lua memory usage: 5.54 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+623.383
+1 - -total
+39.11%
+243.781
+1 - Template:Reflist
+21.81%
+135.940
+8 - Template:Fix
+18.55%
+115.628
+6 - Template:Citation_needed
+13.19%
+82.194
+8 - Template:Delink
+12.47%
+77.743
+11 - Template:Cite_journal
+7.50%
+46.762
+14 - Template:Category_handler
+6.76%
+42.127
+1 - Template:Sustainable_energy
+6.52%
+40.664
+11 - Template:Cite_web
+6.43%
+40.103
+1 - Template:Sidebar
+Saved in parser cache with key enwiki:pcache:idhash:1545608-0!*!0!!en!4!* and timestamp 20161120075525 and revision id 750315248
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Anaerobic_digestion&oldid=750315248"
+Categories: Anaerobic digestionBiodegradable waste managementBiofuelsEnvironmental engineeringHydrogen productionMechanical biological treatmentPower station technologySewerageSustainable technologiesWater technologyGas technologiesRenewable energyHidden categories: Webarchive template wayback linksAll articles lacking reliable referencesArticles lacking reliable references from June 2016All articles with unsourced statementsArticles with unsourced statements from February 2010Articles with unsourced statements from November 2009Articles with specifically marked weasel-worded phrases from June 2014Use dmy dates from May 2011Wikipedia articles with GND identifiers

@@ -1,0 +1,27 @@
+COGENEurope
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (December 2012) (Learn how and when to remove this template message)
+COGEN Europe is a European advocacy group based in Belgium that promotes the practice of cogeneration in energy production. The group acts as a liaison between its member companies and European Union energy organizations and committees.[1][2][3]
+The managing director of COGEN Europe is also the coordinator of the ene.field project.[4]
+See also[edit]
+Combined Heat and Power Association
+References[edit]
+^ COGEN Europe
+^ Growing cogeneration in Europe
+^ MicroCHP championed by COGEN Europe in latest position statement
+^ 5th stakeholders general assembly of the FCH JU
+External links[edit]
+Official website
+This article about energy, its collection, its distribution, or its uses is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+This organization-related article is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+Saved in parser cache with key enwiki:pcache:idhash:38063354-0!*!0!!*!4!* and timestamp 20161105160934 and revision id 719526947
+Retrieved from "https://en.wikipedia.org/w/index.php?title=COGEN_Europe&oldid=719526947"
+Categories: Industry trade groups based in BelgiumCogenerationInternational energy organizationsEnergy stubsOrganization stubsHidden categories: Articles lacking reliable references from December 2012All articles lacking reliable referencesAll stub articles

@@ -1,0 +1,212 @@
+Baseloadpowerplant
+From Wikipedia, the free encyclopedia
+(Redirected from Base load power plant)
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}The base load on a grid is the minimum level of demand on an electrical grid over 24 hours. Base load power sources are power stations which can consistently generate the electrical power needed to satisfy this minimum demand.
+Historically, large power grids have used base load power plants exclusively. However, there is no specific technical requirement for this to be so. The base load requirement can equally well be met by the appropriate mix of intermittent power sources, peaking power plants, hydroelectric power and other sources.
+Contents
+1 Description
+2 Economics
+3 Base load power plant usage
+4 See also
+5 References
+6 External links
+Description[edit]
+A base load power station in Taiwan.
+Baseload plant, (also baseload power plant or base load power station) is an energy station devoted to the production of base load supply. Baseload plants are the production facilities used to meet some or all of a given region's continuous energy demand, and produce energy at a constant rate, usually at a low cost relative to other production facilities available to the system.[1] Examples of baseload plants using nonrenewable fuels include nuclear and coal-fired plants. Baseload plants typically run at all times through the year except in the case of repairs or maintenance. These plants are often designed for relatively high efficiency, and may be combined cycle plants, but may take several days to start up and shut down.[2]
+Each baseload power plant on a grid is allotted a specific amount of the baseload power demand to handle. The base load power is determined by the load duration curve of the system. For a typical power system, the rule of thumb is that the base load power is usually 35-40% of the maximum load during the year.[citation needed]
+Peaks or spikes in customer power demand are frequently handled by smaller and more responsive, but perhaps somewhat less efficient types of power plants called peaking power plants, often powered with gas turbines.[citation needed]
+While historically large power grids have had base load power plant to exclusively meet the base load, there is no specific technical requirement for this to be so. The base load can equally well be met by the appropriate quantity of intermittent power sources and peaking power plant.[3][4]
+Among the renewable energy sources, hydroelectric, geothermal,[5] biogas, biomass, solar thermal with storage and ocean thermal energy conversion can provide base load power. A significant fraction of the average wind power production is available with 95% or greater probability, and so may be used for baseload power.
+Hydroelectric power also has the desirable attribute of dispatchability, but conversely a hydroelectric plant may run low on its "fuel" (water at the reservoir elevation) if a long drought occurs over its drainage basin.
+Economics[edit]
+Power plants are designated baseload based on their low cost generation, efficiency and safety at rated output power levels. Baseload power plants do not change production to match power consumption demands since it is more economical to operate them at constant production levels. Use of higher cost combined-cycle plants or combustion turbines is thus minimized, and these plants can be cycled up and down to match more rapid fluctuations in consumption. Baseload generators, such as nuclear and coal, often have very high fixed costs, high plant load factor but very low marginal costs. On the other hand, peak load generators, such as natural gas, have low fixed costs, low plant load factor and high marginal costs.[6] Typically baseload plants are large and provide a majority of the power used by a grid. Thus, they are more effective when used continuously to cover the power baseload required by the grid.
+Base load power plant usage[edit]
+Nuclear power plants may take many hours, if not days, to change their power output,[7] although modern stations, and those in France, can and do operate as load following power plants and alter their output to meet varying demands.[8] Because they require a long period of time to heat up to operating temperature, these plants typically handle large amounts of baseload demand. Different plants and technologies may have differing capacities to increase or decrease output on demand: nuclear plants are generally run at close to maximum output continuously (apart from maintenance, refueling and periodic refurbishment), while coal-fired plants may be cycled over the course of a day to meet demand.[citation needed] Plants with multiple generating units may be used as a group to improve the "fit" with demand, by operating each unit as close to peak efficiency as possible.
+According to National Grid plc chief executive officer Steve Holliday in 2015, baseload is "outdated", as microgrids would become the primary means of production, and large powerplants relegated to supply the remainder.[9]
+In 2016, Ambrose Evans-Pritchard of the Daily Telegraph wrote that, with advances in energy storage, 'there ceases to be much point in building costly "baseload" power plants' and goes on to argue 'Nuclear reactors cannot be switched on and off as need demands - unlike gas plants. They are useless as a back-up for the decentralized grid of the future, when wind, solar, hydro, and other renewables will dominate the power supply'.[10]
+See also[edit]
+Energy portal
+Capacity factor
+Energy demand management
+Grid energy storage
+Load balancing (electrical power)
+Smart grid
+Load following power plant
+Peaking power plant
+References[edit]
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (June 2009) (Learn how and when to remove this template message)
+^ "Energy Dictionary - Baseload plant". EnergyVortex.com. Retrieved 2008-08-03.
+^ ZDNet Why baseload power is doomed
+^ pubs.pembina.org/reports/TheBasicsOnBaseload.pdf
+^ http://www.stanford.edu/group/efmh/winds/aj07_jamc.pdf
+^ "Scaling Geothermal for Reliable Baseload Power". renewableenergyworld.com. 2007-10-05. Retrieved 2008-08-03.
+^ Ronald J. Daniels (1996). Ontario Hydro at the Millennium: Has Monopoly's Moment Passed?. Montreal and Kingston: McGill-Queen's University Press. Retrieved 2008-08-03.
+^ http://www.rmi.org/Knowledge-Center/Library/2009-09_FourNuclearMyths
+^ Nuclear Development, June 2011, page 10 from http://www.oecd-nea.org/
+^ Karel Beckman (11 September 2015). "Steve Holliday CEO National Grid: baseload is outdated". EnergyPost.eu. Archived from the original on 10 September 2016. Retrieved 6 October 2016.
+^ Evans-Pritchard, Ambrose (10 August 2016). "Holy Grail of energy policy in sight as battery technology smashes the old order". The Telegraph.
+External links[edit]
+Base Load Power Plants - Fundamentals of Electricity - Broken
+Levelized Costs of Electricity Production by Technology - Broken
+The Energy Resources and Economics Workbook (.doc) - Broken
+v
+t
+e
+Electricity delivery
+Concepts
+Availability factor
+Automatic generation control
+Base load
+Black start
+Capacity factor
+Demand factor
+Droop speed control
+Demand management
+EROEI
+Fault
+Grid storage
+Intermittency
+Load factor
+Load following
+Nameplate capacity
+Peak demand
+Power quality
+Power-flow study
+Repowering
+Variability
+Sources
+Nonrenewable
+Coal
+Fossil-fuel power station
+Natural gas
+Petroleum
+Nuclear
+Oil shale
+Renewable
+Biomass
+Biofuel
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmission
+and distribution
+Blackout (Rolling blackout)
+Brownout
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electric power system
+Electric power transmission
+Electrical grid
+High-voltage direct current
+Load management
+Pumped hydro
+Power station
+Power storage
+Smart grid
+Substation
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Protective
+devices
+Arc-fault_circuit_interrupter
+Earth leakage circuit breaker
+Residual-current device (GFI)
+Power-system protection
+Protective relay
+Digital protective relay
+Sulfur hexafluoride circuit breaker
+Economics
+and policies
+Carbon offset
+Cost of electricity by source
+Ecotax
+Energy subsidies
+Feed-in tariff
+Fossil-fuel phase-out
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark spread
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+Sustainable development
+NewPP limit report
+Parsed by mw1255
+Cached time: 20161119070334
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.148 seconds
+Real time usage: 0.198 seconds
+Preprocessor visited node count: 1267/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 44978/2097152 bytes
+Template argument size: 2167/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.068/10.000 seconds
+Lua memory usage: 3.04 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+156.492
+1 - -total
+33.68%
+52.705
+3 - Template:Fix
+30.56%
+47.828
+1 - Template:Reflist
+28.13%
+44.025
+1 - Template:Cn
+19.52%
+30.551
+3 - Template:Cite_web
+16.47%
+25.773
+6 - Template:Category_handler
+15.25%
+23.860
+3 - Template:Delink
+14.49%
+22.681
+2 - Template:Citation_needed
+13.84%
+21.652
+2 - Template:Navbox
+13.04%
+20.399
+1 - Template:Electricity_generation
+Saved in parser cache with key enwiki:pcache:idhash:1867804-0!*!0!!en!4!* and timestamp 20161119070334 and revision id 746819673
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Base_load&oldid=746819673"
+Categories: Power station technologyHidden categories: All articles with unsourced statementsArticles with unsourced statements from March 2015Articles with unsourced statements from November 2009Articles with unsourced statements from June 2008Articles lacking in-text citations from June 2009All articles lacking in-text citations

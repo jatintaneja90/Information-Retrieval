@@ -1,0 +1,136 @@
+Carbondiet
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Part of a series about
+Environmental economics
+Concepts
+Green accounting
+Green economy
+Green trading
+Eco commerce
+Green job
+Environmental enterprise
+Fiscal environmentalism
+Environmental finance
+Renewable energy
+Policies
+Sustainable tourism
+Ecotax
+Environmental tariff
+Net metering
+Environmental pricing reform
+Pigovian tax
+Dynamics
+Renewable energy commercialization
+Marginal abatement cost
+Green paradox
+Green politics
+Pollution haven hypothesis
+Carbon related
+Low-carbon economy
+Carbon neutral fuel
+Carbon neutrality
+Carbon pricing
+Emissions trading
+Carbon credit
+Carbon offset
+Carbon emission trading
+Personal carbon trading
+Carbon tax
+Carbon finance
+Feed-in tariff
+Carbon diet
+Food miles
+2000-watt society
+Carbon footprint
+v
+t
+e
+A carbon diet refers to reducing the impact on climate change by reducing greenhouse gas (principally CO2) production.
+Individuals and businesses produce carbon dioxide from daily activities such as driving, heating, and the consumption of products and services. To reduce the effects of climate change, we could reduce our carbon output by going on a carbon diet.
+There are references to the use of the term carbon diet in several publications.
+The term "carbon diet" is used in the book Gore: A Political Life[1]
+"And many scientists and economists maintain that the costs of adapting to any change are both easier to achieve politically and more efficacious scientifically than trying to avoid the problem through a crash carbon diet."
+Deborah Jones from The Globe & Mail newspaper writes "It's week two of my family's "carbon diet" -- a Globe and Mail assignment to see how my family of four adults can cut its greenhouse-gas emissions to match the provincial goal of a 33-per-cent reduction..."[2]
+This differs from a low carbon diet which refers to making choices about eating that reduce greenhouse gas emissions.
+Contents
+1 Key components of a carbon diet
+2 See also
+3 References
+4 External links
+Key components of a carbon diet[edit]
+A carbon diet is similar to a food diet. It starts with assessing weight (measured in tonnes of carbon dioxide) and then determining where the ideal weight should be. The following outlines the steps of a carbon diet:
+Calculate a carbon footprint to understand the amount of carbon dioxide emissions
+Measure the carbon footprint against peers (e.g., similar company size or for individuals, a national average)
+Determine the ideal carbon footprint
+Identify the source of the most significant carbon dioxide emissions [3]
+Reduce carbon dioxide emissions by starting with the most significant sources first
+See also[edit]
+Sustainable Development portal
+Carbon footprint
+Going green
+Individual and political action on climate change
+Low carbon diet
+Sustainability
+Sustainable living
+References[edit]
+^ Zelnick, Robert (1999). Gore: a political life. Washington, DC: Regnery Pub. p.330. ISBN0-89526-326-2.
+^ Deborah Jones, "Stepping Towards Greener Pastures: Part 2 of BC family's carbon diet focuses on transportation," The Globe and Mail, March 30, 2007
+^ Data and studies on CO2 emissions from common goods and services are at CO2List.org
+External links[edit]
+Carbon Diet resources, CarbonDiet.ca
+J P Miller, "The Carbon Diet," National Geographic
+O'Neill, Meaghan. "Welcome to the Slate Green Challenge; Your eight-week carbon diet.". slate.com. Slate (magazine). Retrieved August 31, 2016.
+Rob Meyer, Your Carbon Diet, PBS
+Easy Healthy Diet
+This environment-related article is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+NewPP limit report
+Parsed by mw1273
+Cached time: 20161120111154
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.080 seconds
+Real time usage: 0.105 seconds
+Preprocessor visited node count: 235/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 13428/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.036/10.000 seconds
+Lua memory usage: 1.9 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+82.135
+1 - -total
+46.43%
+38.134
+1 - Template:Reflist
+40.02%
+32.872
+1 - Template:Cite_book
+24.53%
+20.146
+1 - Template:Green_economics_sidebar
+22.79%
+18.722
+1 - Template:Sidebar
+12.72%
+10.446
+1 - Template:Environment-stub
+11.19%
+9.194
+1 - Template:Asbox
+6.98%
+5.733
+1 - Template:Portal
+6.27%
+5.146
+1 - Template:Cite_web
+Saved in parser cache with key enwiki:pcache:idhash:17672359-0!*!0!!en!4!* and timestamp 20161120111154 and revision id 749566615
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Carbon_diet&oldid=749566615"
+Categories: Low-carbon economyEnergy conservationEnergy in transportEnvironmental terminologyEnvironment stubsHidden categories: All stub articles

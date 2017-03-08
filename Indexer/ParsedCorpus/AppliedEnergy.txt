@@ -1,0 +1,17 @@
+AppliedEnergy
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}Applied Energy is a peer-reviewed academic journal covering research on energy engineering that was established in 1975. It is published by Elsevier and the editor-in-chief is Jinyue Yan. According to the Journal Citation Reports, the journal has a 2014 impact factor of 5.613, ranking it 9th out of 89 journals in the category "Energy & Fuels" and 6th out of 135 journals in "engineering, chemical".[1]
+References[edit]
+^ Thomson Reuters, Journal Citation Reports 2015, Retrieved 27. December 2015.
+External links[edit]
+Official website
+ISSN0306-2619
+This article about an engineering journal is a stub. You can help Wikipedia by expanding it.
+v
+t
+e
+See tips for writing articles about academic journals. Further suggestions might be found on the article's talk page.
+Saved in parser cache with key enwiki:pcache:idhash:48924130-0!*!0!!*!4!* and timestamp 20161107121828 and revision id 738949998
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Applied_Energy&oldid=738949998"
+Categories: Elsevier academic journalsPublications established in 1975English-language journalsEnergy and fuel journalsEngineering journal stubsHidden categories: All stub articles

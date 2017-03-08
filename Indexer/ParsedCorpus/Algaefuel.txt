@@ -1,0 +1,654 @@
+Algaefuel
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}"Algal oil", which redirects here, is also a term used for a marine source of omega-3 fatty acids not extracted from fish, a source of docosahexaenoic acid used as a dietary supplement.
+A conical flask of "green" jet fuel made from algae
+Algae fuel or algal biofuel is an alternative to liquid fossil fuels that uses algae as its source of energy-rich oils. Also, algae fuels are an alternative to common known biofuel sources, such as corn and sugarcane.[1][2] Several companies and government agencies are funding efforts to reduce capital and operating costs and make algae fuel production commercially viable.[3] Like fossil fuel, algae fuel releases CO2 when burnt, but unlike fossil fuel, algae fuel and other biofuels only release CO2 recently removed from the atmosphere via photosynthesis as the algae or plant grew. The energy crisis and the world food crisis have ignited interest in algaculture (farming algae) for making biodiesel and other biofuels using land unsuitable for agriculture. Among algal fuels' attractive characteristics are that they can be grown with minimal impact on fresh water resources,[4][5] can be produced using saline and wastewater, have a high flash point,[6] and are biodegradable and relatively harmless to the environment if spilled.[7][8] Algae cost more per unit mass than other second-generation biofuel crops due to high capital and operating costs,[9] but are claimed to yield between 10 and 100 times more fuel per unit area.[10] The United States Department of Energy estimates that if algae fuel replaced all the petroleum fuel in the United States, it would require 15,000 square miles (39,000km2), which is only 0.42% of the U.S. map,[11] or about half of the land area of Maine. This is less than 17 the area of corn harvested in the United States in 2000.[12]
+According to the head of the Algal Biomass Organization, algae fuel can reach price parity with oil in 2018 if granted production tax credits.[13] However, in 2013, Exxon Mobil Chairman and CEO Rex Tillerson said that after committing to spend up to $600 million over 10 years on development in a joint venture with J. Craig Venters Synthetic Genomics in 2009, Exxon pulled back after four years (and $100 million) when it realized that algae fuel is "probably further" than 25 years away from commercial viability.[14] On the other hand, Solazyme,[15] Sapphire Energy,[16] and Algenol,[17] among others have begun commercial sale of algal biofuel in 2012 and 2013, and 2015, respectively.
+Contents
+1 History
+2 Fuels
+2.1 Biodiesel
+2.2 Biobutanol
+2.3 Biogasoline
+2.4 Methane
+2.5 Ethanol
+2.6 Green Diesel
+2.7 Jet fuel
+3 Species
+4 Algae Nutrients and Growth Inputs
+5 Algae cultivation
+5.1 Closed-loop system
+5.2 Photobioreactors
+5.3 Open pond
+5.4 Algal turf scrubber
+6 Fuel production
+6.1 Dehydration
+6.2 Hydrothermal liquefaction
+7 Nutrients
+7.1 Carbon dioxide
+7.2 Nitrogen
+7.3 Wastewater
+8 Environmental impact
+8.1 Polycultures
+9 Economic viability
+10 Use of Byproducts
+11 Advantages
+11.1 Ease of growth
+11.2 Impact on food
+11.3 Minimization of waste
+12 Disadvantages
+12.1 Commercial Viability
+12.2 Stability
+13 Research
+13.1 Current projects
+13.1.1 United States
+13.1.2 Europe
+13.1.3 India
+13.1.4 Other
+13.2 Genetic engineering
+13.3 Funding programs
+14 International policies
+14.1 Canada
+14.2 United States
+14.3 Other
+15 Companies
+15.1 Algenol Biofuels
+15.2 Blue Marble Production
+15.3 Solazyme
+15.4 Sapphire Energy
+15.5 Diversified Technologies Inc.
+15.6 Origin Oils Inc.
+15.7 Proviron
+15.8 Genifuels
+15.9 Qeshm Microalgae Biorefinery Co. (QMAB)
+16 See also
+17 References
+18 Further reading
+19 External links
+History[edit]
+In 1942 Harder and Von Witsch were the first to propose that microalgae be grown as a source of lipids for food or fuel.[18][19] Following World War II, research began in the US,[20][21][22] Germany,[23] Japan,[24] England,[25] and Israel[26] on culturing techniques and engineering systems for growing microalgae on larger scales, particularly species in the genus Chlorella. Meanwhile, H. G. Aach showed that Chlorella pyrenoidosa could be induced via nitrogen starvation to accumulate as much as 70% of its dry weight as lipids.[27] Since the need for alternative transportation fuel had subsided after World War II, research at this time focused on culturing algae as a food source or, in some cases, for wastewater treatment.[28]
+Interest in the application of algae for biofuels was rekindled during the oil embargo and oil price surges of the 1970s, leading the US Department of Energy to initiate the Aquatic Species Program in 1978.[29] The Aquatic Species Program spent $25 million over 18 years with the goal of developing liquid transportation fuel from algae that would be price competitive with petroleum-derived fuels.[30] The research program focused on the cultivation of microalgae in open outdoor ponds, systems which are low in cost but vulnerable to environmental disturbances like temperature swings and biological invasions. 3,000 algal strains were collected from around the country and screened for desirable properties such as high productivity, lipid content, and thermal tolerance, and the most promising strains were included in the SERI microalgae collection at the Solar Energy Research Institute (SERI) in Golden, Colorado and used for further research.[30] Among the programs most significant findings were that rapid growth and high lipid production were "mutually exclusive," since the former required high nutrients and the latter required low nutrients.[30] The final report suggested that genetic engineering may be necessary to be able to overcome this and other natural limitations of algal strains, and that the ideal species might vary with place and season.[30] Although it was successfully demonstrated that large-scale production of algae for fuel in outdoor ponds was feasible, the program failed to do so at a cost that would be competitive with petroleum, especially as oil prices sank in the 1990s. Even in the best case scenario, it was estimated that unextracted algal oil would cost $59186 per barrel,[30] while petroleum cost less than $20 per barrel in 1995.[29] Therefore, under budget pressure in 1996, the Aquatic Species Program was abandoned.[30]
+Other contributions to algal biofuels research have come indirectly from projects focusing on different applications of algal cultures. For example, in the 1990s Japans Research Institute of Innovative Technology for the Earth (RITE) implemented a research program with the goal of developing systems to fix CO
+2 using microalgae.[31] Although the goal was not energy production, several studies produced by RITE demonstrated that algae could be grown using flue gas from power plants as a CO
+2 source,[32][33] an important development for algal biofuel research. Other work focusing on harvesting hydrogen gas, methane, or ethanol from algae, as well as nutritional supplements and pharmaceutical compounds, has also helped inform research on biofuel production from algae.[28]
+Following the disbanding of the Aquatic Species Program in 1996, there was a relative lull in algal biofuel research. Still, various projects were funded in the US by the Department of Energy, Department of Defense, National Science Foundation, Department of Agriculture, National Laboratories, state funding, and private funding, as well as in other countries.[29] More recently, rising oil prices in the 2000s spurred a revival of interest in algal biofuels and US federal funding has increased,[29] numerous research projects are being funded in Australia, New Zealand, Europe, the Middle East, and other parts of the world,[34] and a wave of private companies has entered the field[35] (see Companies). In November 2012, Solazyme and Propel Fuels made the first retail sales of algae-derived fuel,[15] and in March 2013 Sapphire Energy began commercial sales of algal biofuel to Tesoro.[16]
+Fuels[edit]
+Algae can be converted into various types of fuels, depending on the technique and the part of the cells used. The lipid, or oily part of the algae biomass can be extracted and converted into biodiesel through a process similar to that used for any other vegetable oil, or converted in a refinery into "drop-in" replacements for petroleum-based fuels. Alternatively or following lipid extraction, the carbohydrate content of algae can be fermented into bioethanol or butanol fuel.[36]
+Biodiesel[edit]
+Main article: Biodiesel
+Biodiesel is a diesel fuel derived from animal or plant lipids (oils and fats). Studies have shown that some species of algae can produce 60% or more of their dry weight in the form of oil.[27][30][37][38][39] Because the cells grow in aqueous suspension, where they have more efficient access to water, CO
+2 and dissolved nutrients, microalgae are capable of producing large amounts of biomass and usable oil in either high rate algal ponds or photobioreactors. This oil can then be turned into biodiesel which could be sold for use in automobiles. Regional production of microalgae and processing into biofuels will provide economic benefits to rural communities.[40]
+As they do not have to produce structural compounds such as cellulose for leaves, stems, or roots, and because they can be grown floating in a rich nutritional medium, microalgae can have faster growth rates than terrestrial crops. Also, they can convert a much higher fraction of their biomass to oil than conventional crops, e.g. 60% versus 2-3% for soybeans.[37] The per unit area yield of oil from algae is estimated to be from 58,700 to 136,900 L/ha/year, depending on lipid content, which is 10 to 23 times as high as the next highest yielding crop, oil palm, at 5,950 L/ha/year.[41]
+The U.S. Department of Energy's Aquatic Species Program, 19781996, focused on biodiesel from microalgae. The final report suggested that biodiesel could be the only viable method by which to produce enough fuel to replace current world diesel usage.[42] If algae-derived biodiesel were to replace the annual global production of 1.1bn tons of conventional diesel then a land mass of 57.3 million hectares would be required, which would be highly favorable compared to other biofuels.[43]
+Biobutanol[edit]
+Main article: Butanol fuel
+Butanol can be made from algae or diatoms using only a solar powered biorefinery. This fuel has an energy density 10% less than gasoline, and greater than that of either ethanol or methanol. In most gasoline engines, butanol can be used in place of gasoline with no modifications. In several tests, butanol consumption is similar to that of gasoline, and when blended with gasoline, provides better performance and corrosion resistance than that of ethanol or E85.[44]
+The green waste left over from the algae oil extraction can be used to produce butanol. In addition, it has been shown that macroalgae (seaweeds) can be fermented by Clostridia genus bacteria to butanol and other solvents.[45]
+Biogasoline[edit]
+Biogasoline is gasoline produced from biomass. Like traditionally produced gasoline, it contains between 6 (hexane) and 12 (dodecane) carbon atoms per molecule and can be used in internal-combustion engines.[46]
+Methane[edit]
+Methane,[47] the main constituent of natural gas can be produced from algae in various methods, namely Gasification, Pyrolysis and Anaerobic Digestion. In Gasification and Pyrolysis methods methane is extracted under high temperature and pressure. Anaerobic Digestion[48] is a straightforward method involved in decomposition of algae into simple components then transforming it into fatty acids using microbes like acidific bacteria followed by removing any solid particles and finally adding methanogenic bacteria to release a gas mixture containing methane. A number of studies have successfully shown that biomass from microalgae can be converted into biogas via anaerobic digestion.[49][50][51][52][53] Therefore, in order to improve the overall energy balance of microalgae cultivation operations, it has been proposed to recover the energy contained in waste biomass via anaerobic digestion to methane for generating electricity.[54]
+Ethanol[edit]
+The Algenol system which is being commercialized by BioFields in Puerto Libertad, Sonora, Mexico utilizes seawater and industrial exhaust to produce ethanol. Porphyridium cruentum also have shown to be potentially suitable for ethanol production due to its capacity for accumulating large amount of carbohydrates.[55]
+Green Diesel[edit]
+Main article: Vegetable oil refining
+Algae can be used to produce 'green diesel' (also known as renewable diesel, hydrotreating vegetable oil[56] or hydrogen-derived renewable diesel)[57] through a hydrotreating refinery process that breaks molecules down into shorter hydrocarbon chains used in diesel engines.[56][58] It has the same chemical properties as petroleum-based diesel[56] meaning that it does not require new engines, pipelines or infrastructure to distribute and use. It has yet to be produced at a cost that is competitive with petroleum.[57] While hydrotreating is currently the most common pathway to produce fuel-like hydrocarbons via decarboxylation/decarbonylation, an alternative process offering a number of important advantages over hydrotreating. In this regard, the work of Crocker et al.[59] and Lercher et al.[60] is particularly noteworthy. for of oil refining, research is underway for catalytic conversion of renewable fuels by decarboxylation.[61] As the oxygen is present in crude oil at rather low levels, of the order of 0.5%, deoxygenation in petroleum refining is not of
+much concern, and no catalysts are specifically formulated for oxygenates hydrotreating. Hence, one of the critical technical challenges to make the hydrodeoxygenation of algae oil process economically feasible is related to the research and development of effective catalysts.[62][63]
+Jet fuel[edit]
+Main article: Aviation biofuel
+Rising jet fuel prices are putting severe pressure on airline companies,[64] creating an incentive for algal jet fuel research. The International Air Transport Association, for example, supports research, development and deployment of algal fuels. IATA's goal is for its members to be using 10% alternative fuels by 2017.[65]
+Trials have been carried with aviation biofuel by Air New Zealand,[66] Lufthansa, and Virgin Airlines.[67]
+In February 2010, the Defense Advanced Research Projects Agency announced that the U.S. military was about to begin large-scale oil production from algal ponds into jet fuel. After extraction at a cost of $2 per gallon, the oil will be refined at less than $3 a gallon. A larger-scale refining operation, producing 50 million gallons a year, is expected to go into production in 2013, with the possibility of lower per gallon costs so that algae-based fuel would be competitive with fossil fuels. The projects, run by the companies SAIC and General Atomics, are expected to produce 1,000 gallons of oil per acre per year from algal ponds.[68]
+Species[edit]
+Research into algae for the mass-production of oil focuses mainly on microalgae (organisms capable of photosynthesis that are less than 0.4mm in diameter, including the diatoms and cyanobacteria) as opposed to macroalgae, such as seaweed. The preference for microalgae has come about due largely to their less complex structure, fast growth rates, and high oil-content (for some species). However, some research is being done into using seaweeds for biofuels, probably due to the high availability of this resource.[69][70]
+As of 2012[update] researchers across various locations worldwide have started investigating the following species for their suitability as a mass oil-producers:[71][72][73]
+Botryococcus braunii
+Chlorella
+Dunaliella tertiolecta
+Gracilaria
+Pleurochrysis carterae (also called CCMP647).[74]
+Sargassum, with 10 times the output volume of Gracilaria.[75]
+The amount of oil each strain of algae produces varies widely. Note the following microalgae and their various oil yields:
+Ankistrodesmus TR-87: 2840% dry weight
+Botryococcus braunii: 2975% dw
+Chlorella sp.: 29%dw
+Chlorella protothecoides(autotrophic/ heterothrophic): 1555% dw
+Crypthecodinium cohnii: 20%dw
+Cyclotella DI- 35: 42%dw
+Dunaliella tertiolecta: 3642%dw
+Hantzschia DI-160: 66%dw
+Nannochloris: 31(663)%dw
+Nannochloropsis: 46(3168)%dw
+Neochloris oleoabundans: 3554%dw
+Nitzschia TR-114: 2850%dw
+Phaeodactylum tricornutum: 31%dw
+Scenedesmus TR-84: 45%dw
+Schizochytrium 5077%dw[76]
+Stichococcus: 33(959)%dw
+Tetraselmis suecica: 1532%dw
+Thalassiosira pseudonana: (2131)%dw
+In addition, due to its high growth-rate, Ulva[77] has been investigated as a fuel for use in the SOFT cycle, (SOFT stands for Solar Oxygen Fuel Turbine), a closed-cycle power-generation system suitable for use in arid, subtropical regions.[78]
+Algae Nutrients and Growth Inputs[edit]
+Light is what algae primarily needs for growth as it is the most limiting factor. Many companies are investing for developing systems and technologies for providing artificial light. One of them is OriginOil that has developed a Helix BioReactorTM that features a rotating vertical shaft with low-energy lights arranged in a helix pattern.[79] Water temperature also influences the metabolic and reproductive rates of algae. Although most algae species grow at low rate when the water temperature gets lower, the biomass of algal communities can get large due to the absence of grazing organisms.[79] The modest increases in water current velocity may also affect rates of algae growth since the rate of nutrient uptake and boundary layer diffusion increases with current velocity.[79]
+Other than light and water, phosphorous, nitrogen, and certain micronutrients are also useful and essential in growing algae. Nitrogen and Phosphorus are the two most significant nutrients required for algal productivity, but other nutrients such as carbon and silica are additionally required.[80] Of the nutrients required, phosphorus is one of the most essential ones as it is used in numerous metabolic processes. The microalgae D. tertiolecta was analyzed to see which nutrient affects its growth the most.[81] The concentrations of Phosphorus (P), Iron (Fe), Cobalt (Co), Zinc (Zn), Manganese (Mn) and Molybdenum (Mo), Magnesium (Mg), Calcium (Ca,), Silicon (Si) and Sulfur (S) concentrations were measured daily using inductively coupled plasma (ICP) analysis. Among all these elements being measured, phosphorus resulted in the most dramatic decrease, with a reduction of 84% over the course of the culture.[81] This result indicates that phosphorus, in the form of phosphate, is required in high amounts by all organisms for metabolism.
+There are two enrichment media that have been extensively used to grow most of the algae species: Walne medium and the Guillards F/2 medium.[82] These commercially available nutrient solutions may reduce time for preparing all the nutrients required to grow algae. However, due to their complexity in the process of generation and high cost, they are not used for large-scale culture operations.[82] Therefore, enrichment media used for mass production of algae contain only the most important nutrients with agriculture-grade fertilizers rather than laboratory-grade fertilizers.[82]
+Algae cultivation[edit]
+See also: Culture of microalgae in hatcheries
+Photobioreactor from glass tubes
+Design of a race-way open pond commonly used for algal culture
+Algae grow much faster than food crops, and can produce hundreds of times more oil per unit area than conventional crops such as rapeseed, palms, soybeans, or jatropha.[41] As algae have a harvesting cycle of 110 days, their cultivation permits several harvests in a very short time-frame, a strategy differing from that associated with annual crops.[38] In addition, algae can be grown on land unsuitable for terrestrial crops, including arid land and land with excessively saline soil, minimizing competition with agriculture.[83] Most research on algae cultivation has focused on growing algae in clean but expensive photobioreactors, or in open ponds, which are cheap to maintain but prone to contamination.[84]
+Closed-loop system[edit]
+The lack of equipment and structures needed to begin growing algae in large quantities has inhibited widespread mass-production of algae for biofuel production. Maximum use of existing agriculture processes and hardware is the goal.[85]
+Closed systems (not exposed to open air) avoid the problem of contamination by other organisms blown in by the air. The problem for a closed system is finding a cheap source of sterile CO
+2. Several experimenters have found the CO
+2 from a smokestack works well for growing algae.[86][87] For reasons of economy, some experts think that algae farming for biofuels will have to be done as part of cogeneration, where it can make use of waste heat and help soak up pollution.[88][89]
+Photobioreactors[edit]
+Most companies pursuing algae as a source of biofuels pump nutrient-rich water through plastic or borosilicate glass tubes (called "bioreactors" ) that are exposed to sunlight (and so-called photobioreactors or PBR).
+Running a PBR is more difficult than using an open pond, and costlier, but may provide a higher level of control and productivity.[38] In addition, a photobioreactor can be integrated into a closed loop cogeneration system much more easily than ponds or other methods.
+Open pond[edit]
+Raceway pond used for the cultivation of microalgae
+Open-pond systems for the most part have been given up for the cultivation of algae with especially high oil content.[90] Many[who?] believe that a major flaw of the Aquatic Species Program was the decision to focus their efforts exclusively on open-ponds; this makes the entire effort dependent upon the hardiness of the strain chosen, requiring it to be unnecessarily resilient in order to withstand wide swings in temperature and pH, and competition from invasive algae and bacteria. Open systems using a monoculture are also vulnerable to viral infection. The energy that a high-oil strain invests into the production of oil is energy that is not invested into the production of proteins or carbohydrates, usually resulting in the species being less hardy, or having a slower growth rate. Algal species with a lower oil content, not having to divert their energies away from growth, can be grown more effectively in the harsher conditions of an open system.[38]
+Some open sewage-ponds trial production has taken place in Marlborough, New Zealand.[91]
+Algal turf scrubber[edit]
+2.5 acre ATS system, installed by Hydromentia on a farm creek in Florida
+The algal turf scrubber (ATS) is a system designed primarily for cleaning nutrients and pollutants out of water using algal turfs. ATS mimics the algal turfs of a natural coral reef by taking in nutrient rich water from waste streams or natural water sources, and pulsing it over a sloped surface.[92] This surface is coated with a rough plastic membrane or a screen, which allows naturally occurring algal spores to settle and colonize the surface. Once the algae has been established, it can be harvested every 515 days,[93] and can produce 18 metric tons of algal biomass per hectare per year.[94] In contrast to other methods, which focus primarily on a single high yielding species of algae, this method focuses on naturally occurring polycultures of algae. As such, the lipid content of the algae in an ATS system is usually lower, which makes it more suitable for a fermented fuel product, such as ethanol, methane, or butanol.[94] Conversely, the harvested algae could be treated with a hydrothermal liquefaction process, which would make possible biodiesel, gasoline, and jet fuel production.[95]
+There are three major advantages of ATS over other systems. The first advantage is documented higher productivity over open pond systems.[96] The second is lower operating and fuel production costs. The third is the elimination of contamination issues due to the reliance on naturally occurring algae species. The projected costs for energy production in an ATS system are $0.75/kg, compared to a photobioreactor which would cost $3.50/kg.[94] Furthermore, due to the fact that the primary purpose of ATS is removing nutrients and pollutants out of water, and these costs have been shown to be lower than other methods of nutrient removal, this may incentivize the use of this technology for nutrient removal as the primary function, with biofuel production as an added benefit.[97]
+Algae being harvested and dried from an ATS system
+Fuel production[edit]
+After harvesting the algae, the biomass is typically processed in a series of steps, which can differ based on the species and desired product; this is an active area of research.[38] and also is the bottleneck of this technology: the cost of extraction is higher than those obtained. One of the solutions is to use filter feeders to "eat" them. Improved animals can provide both foods and fuels.
+Dehydration[edit]
+Often, the algae is dehydrated, and then a solvent such as hexane is used to extract energy-rich compounds like triglycerides from the dried material.[1] Then, the extracted compounds can be processed into fuel using standard industrial procedures. For example, the extracted triglycerides are reacted with methanol to create biodiesel via transesterification.[1] The unique composition of fatty acids of each species influences the quality of the resulting biodiesel and thus must be taken into account when selecting algal species for feedstock.[38]
+Hydrothermal liquefaction[edit]
+An alternative approach called Hydrothermal liquefaction employs a continuous process that subjects harvested wet algae to high temperatures and pressures350C (662F) and 3,000 pounds per square inch (21,000kPa).[98][99][100]
+Products include crude oil, which can be further refined into aviation fuel, gasoline, or diesel fuel using one or many upgrading processes.[101] The test process converted between 50 and 70 percent of the algaes carbon into fuel. Other outputs include clean water, fuel gas and nutrients such as nitrogen, phosphorus, and potassium.[98]
+Nutrients[edit]
+Main article: Algal nutrient solutions
+Nutrients like nitrogen (N), phosphorus (P), and potassium (K), are important for plant growth and are essential parts of fertilizer. Silica and iron, as well as several trace elements, may also be considered important marine nutrients as the lack of one can limit the growth of, or productivity in, an area.[102]
+Carbon dioxide[edit]
+Bubbling CO
+2 through algal cultivation systems can greatly increase productivity and yield (up to a saturation point). Typically, about 1.8 tonnes of CO
+2 will be utilised per tonne of algal biomass (dry) produced, though this varies with algae species.[103] The Glenturret Distillery in Perthshire, UK  home to The Famous Grouse Whisky  percolate CO
+2 made during the whisky distillation through a microalgae bioreactor. Each tonne of microalgae absorbs two tonnes of CO
+2. Scottish Bioenergy, who run the project, sell the microalgae as high value, protein-rich food for fisheries. In the future, they will use the algae residues to produce renewable energy through anaerobic digestion.[104]
+Nitrogen[edit]
+Nitrogen is a valuable substrate that can be utilized in algal growth. Various sources of nitrogen can be used as a nutrient for algae, with varying capacities. Nitrate was found to be the preferred source of nitrogen, in regards to amount of biomass grown. Urea is a readily available source that shows comparable results, making it an economical substitute for nitrogen source in large scale culturing of algae.[105] Despite the clear increase in growth in comparison to a nitrogen-less medium, it has been shown that alterations in nitrogen levels affect lipid content within the algal cells. In one study[106] nitrogen deprivation for 72 hours caused the total fatty acid content (on a per cell basis) to increase by 2.4-fold. 65% of the total fatty acids were esterified to triacylglycerides in oil bodies, when compared to the initial culture, indicating that the algal cells utilized de novo synthesis of fatty acids. It is vital for the lipid content in algal cells to be of high enough quantity, while maintaining adequate cell division times, so parameters that can maximize both are under investigation.
+Wastewater[edit]
+Main article: Wastewater treatment facility
+A possible nutrient source is waste water from the treatment of sewage, agricultural, or flood plain run-off, all currently major pollutants and health risks. However, this waste water cannot feed algae directly and must first be processed by bacteria, through anaerobic digestion. If waste water is not processed before it reaches the algae, it will contaminate the algae in the reactor, and at the very least, kill much of the desired algae strain. In biogas facilities, organic waste is often converted to a mixture of carbon dioxide, methane, and organic fertilizer. Organic fertilizer that comes out of the digester is liquid, and nearly suitable for algae growth, but it must first be cleaned and sterilized.[107]
+The utilization of wastewater and ocean water instead of freshwater is strongly advocated due to the continuing depletion of freshwater resources. However, heavy metals, trace metals, and other contaminants in wastewater can decrease the ability of cells to produce lipids biosynthetically and also impact various other workings in the machinery of cells. The same is true for ocean water, but the contaminants are found in different concentrations. Thus, agricultural-grade fertilizer is the preferred source of nutrients, but heavy metals are again a problem, especially for strains of algae that are susceptible to these metals. In open pond systems the use of strains of algae that can deal with high concentrations of heavy metals could prevent other organisms from infesting these systems.[83] In some instances it has even been shown that strains of algae can remove over 90% of nickel and zinc from industrial wastewater in relatively short periods of time.[108]
+Environmental impact[edit]
+In comparison with terrestrial-based biofuel crops such as corn or soybeans, microalgal production results in a much less significant land footprint due to the higher oil productivity from the microalgae than all other oil crops.[109] Algae can also be grown on marginal lands useless for ordinary crops and with low conservation value, and can use water from salt aquifers that is not useful for agriculture or drinking.[88][110] Algae can also grow on the surface of the ocean in bags or floating screens.[111] Thus microalgae could provide a source of clean energy with little impact on the provisioning of adequate food and water or the conservation of biodiversity.[112] Algae cultivation also requires no external subsidies of insecticides or herbicides, removing any risk of generating associated pesticide waste streams. In addition, algal biofuels are much less toxic, and degrade far more readily than petroleum-based fuels.[113][114][115] However, due to the flammable nature of any combustible fuel, there is potential for some environmental hazards if ignited or spilled, as may occur in a train derailment or a pipeline leak.[116] This hazard is reduced compared to fossil fuels, due to the ability for algal biofuels to be produced in a much more localized manner, and due to the lower toxicity overall, but the hazard is still there nonetheless. Therefore, algal biofuels should be treated in a similar manner to petroleum fuels in transportation and use, with sufficient safety measures in place at all times.
+Studies have determined that replacing fossil fuels with renewable energy sources, such as biofuels, have the capability of reducing CO
+2 emissions by up to 80%.[117] An algae-based system could capture approximately 80% of the CO
+2 emitted from a power plant when sunlight is available. Although this CO
+2 will later be released into the atmosphere when the fuel is burned, this CO
+2 would have entered the atmosphere regardless.[110] The possibility of reducing total CO
+2 emissions therefore lies in the prevention of the release of CO
+2 from fossil fuels. Furthermore, compared to fuels like diesel and petroleum, and even compared to other sources of biofuels, the production and combustion of algal biofuel does not produce any sulfur oxides or nitrous oxides, and produces a reduced amount of carbon monoxide, unburned hydrocarbons, and reduced emission of other harmful pollutants.[118] Since terrestrial plant sources of biofuel production simply do not have the production capacity to meet current energy requirements, microalgae may be one of the only options to approach complete replacement of fossil fuels.
+Microalgae production also includes the ability to use saline waste or waste CO
+2 streams as an energy source. This opens a new strategy to produce biofuel in conjunction with waste water treatment, while being able to produce clean water as a byproduct.[118] When used in a microalgal bioreactor, harvested microalgae will capture significant quantities of organic compounds as well as heavy metal contaminants absorbed from wastewater streams that would otherwise be directly discharged into surface and ground-water.[109] Moreover, this process also allows the recovery of phosphorus from waste, which is an essential but scarce element in nature  the reserves of which are estimated to have depleted in the last 50 years.[119] Another possibility is the use of algae production systems to clean up non-point source pollution, in a system known as an algal turf scrubber (ATS). This has been demonstrated to reduce nitrogen and phosphorus levels in rivers and other large bodies of water affected by eutrophication, and systems are being built that will be capable of processing up to 110 million liters of water per day. ATS can also be used for treating point source pollution, such as the waste water mentioned above, or in treating livestock effluent.[94][120][121]
+Polycultures[edit]
+Nearly all research in algal biofuels has focused on culturing single species, or monocultures, of microalgae. However, ecological theory and empirical studies have demonstrated that plant and algae polycultures, i.e. groups of multiple species, tend to produce larger yields than monocultures.[122][123][124][125] Experiments have also shown that more diverse aquatic microbial communities tend to be more stable through time than less diverse communities.[126][127][128][129] Recent studies found that polycultures of microalgae produced significantly higher lipid yields than monocultures.[130][131] Polycultures also tend to be more resistant to pest and disease outbreaks, as well as invasion by other plants or algae.[132] Thus culturing microalgae in polyculture may not only increase yields and stability of yields of biofuel, but also reduce the environmental impact of an algal biofuel industry.[112]
+Economic viability[edit]
+There is clearly a demand for sustainable biofuel production, but whether a particular biofuel will be used ultimately depends not on sustainability but cost efficiency. Therefore, research is focusing on cutting the cost of algal biofuel production to the point where it can compete with conventional petroleum.[38] The production of several products from algae has been mentioned[weaselwords] as the most important factor for making algae production economically viable. Other factors are the improving of the solar energy to biomass conversion efficiency (currently 3%, but 5 to 7% is theoretically attainable[133])and making the oil extraction from the algae easier.[134]
+In a 2007 report[38] a formula was derived estimating the cost of algal oil in order for it to be a viable substitute to petroleum diesel:
+C(algal oil) = 25.9  103 C(petroleum)
+where: C(algal oil) is the price of microalgal oil in dollars per gallon and C(petroleum) is the price of crude oil in dollars per barrel. This equation assumes that algal oil has roughly 80% of the caloric energy value of crude petroleum.[135]
+With current technology available, it is estimated that the cost of producing microalgal biomass is $2.95/kg for photobioreactors and $3.80/kg for open-ponds. These estimates assume that carbon dioxide is available at no cost.[136] If the annual biomass production capacity is increased to 10,000 tonnes, the cost of production per kilogram reduces to roughly $0.47 and $0.60, respectively. Assuming that the biomass contains 30% oil by weight, the cost of biomass for providing a liter of oil would be approximately $1.40 ($5.30/gal) and $1.81 ($6.85/gal) for photobioreactors and raceways, respectively. Oil recovered from the lower cost biomass produced in photobioreactors is estimated to cost $2.80/L, assuming the recovery process contributes 50% to the cost of the final recovered oil.[38] If existing algae projects can achieve biodiesel production price targets of less than $1 per gallon, the United States may realize its goal of replacing up to 20% of transport fuels by 2020 by using environmentally and economically sustainable fuels from algae production.[137]
+Whereas technical problems, such as harvesting, are being addressed successfully by the industry, the high up-front investment of algae-to-biofuels facilities is seen by many as a major obstacle to the success of this technology. Only few studies on the economic viability are publicly available, and must often rely on the little data (often only engineering estimates) available in the public domain. Dmitrov[138] examined the GreenFuel's photobioreactor and estimated that algae oil would only be competitive at an oil price of $800 per barrel. A study by Alabi et al.[139] examined raceways, photobioreactors and anaerobic fermenters to make biofuels from algae and found that photobioreactors are too expensive to make biofuels. Raceways might be cost-effective in warm climates with very low labor costs, and fermenters may become cost-effective subsequent to significant process improvements. The group found that capital cost, labor cost and operational costs (fertilizer, electricity, etc.) by themselves are too high for algae biofuels to be cost-competitive with conventional fuels. Similar results were found by others,[140][141][142] suggesting that unless new, cheaper ways of harnessing algae for biofuels production are found, their great technical potential may never become economically accessible. Recently, Rodrigo E. Teixeira[143] demonstrated a new reaction and proposed a process for harvesting and extracting raw materials for biofuel and chemical production that requires a fraction of the energy of current methods, while extracting all cell constituents.
+Use of Byproducts[edit]
+Many of the byproducts produced in the processing of microalgae can be used in various applications, many of which have a longer history of production than algal biofuel. Some of the products not used in the production of biofuel include natural dyes and pigments, antioxidants, and other high-value bio-active compounds.[84][144][145] These chemicals and excess biomass have found numerous use in other industries. For example, the dyes and oils have found a place in cosmetics, commonly as thickening and water-binding agents.[146] Discoveries within the pharmaceutical industry include antibiotics and antifungals derived from microalgae, as well as natural health products, which have been growing in popularity over the past few decades. For instance Spirulina contains numerous polyunsaturated fats (Omega 3 and 6), amino acids, and vitamins,[147] as well as pigments that may be beneficial, such as beta-carotene and chlorophyll.[148]
+Advantages[edit]
+Ease of growth[edit]
+One of the main advantages that using microalgae as the feedstock when compared to more traditional crops is that it can be grown much more easily.[149] Algae can be grown in land that would not be considered suitable for the growth of the regularly used crops.[84] In addition to this, wastewater that would normally hinder plant growth has been shown to be very effective in growing algae.[149] Because of this, algae can be grown without taking up arable land that would otherwise be used for producing food crops, and the better resources can be reserved for normal crop production. Microalgae also require fewer resources to grow and little attention is needed, allowing the growth and cultivation of algae to be a very passive process.[84]
+Impact on food[edit]
+Many traditional feedstocks for biodiesel, such as corn and palm, are also used as feed for livestock on farms, as well as a valuable source of food for humans. Because of this, using them as biofuel reduces the amount of food available for both, resulting in an increased cost for both the food and the fuel produced. Using algae as a source of biodiesel can alleviate this problem in a number of ways. First, algae is not used as a primary food source for humans, meaning that it can be used solely for fuel and there would be little impact in the food industry.[150] Second, many of the waste-product extracts produced during the processing of algae for biofuel can be used as a sufficient animal feed. This is an effective way to minimize waste and a much cheaper alternative to the more traditional corn- or grain-based feeds.[151]
+Minimization of waste[edit]
+Growing algae as a source of biofuel has also been shown to have numerous environmental benefits, and has presented itself as a much more environmentally friendly alternative to current biofuels. For one, it is able to utilize run-off, water contaminated with fertilizers and other nutrients that are a by-product of farming, as its primary source of water and nutrients.[149] Because of this, it prevents this contaminated water from mixing with the lakes and rivers that currently supply our drinking water. In addition to this, the ammonia, nitrates, and phosphates that would normally render the water unsafe actually serve as excellent nutrients for the algae, meaning that fewer resources are needed to grow the algae.[84] Many algae species used in biodiesel production are excellent bio-fixers, meaning they are able to remove carbon dioxide from the atmosphere to use as a form of energy for themselves. Because of this, they have found use in industry as a way to treat flue gases and reduce GHG emissions.[84]
+Disadvantages[edit]
+Commercial Viability[edit]
+Algae biodiesel is still a fairly new technology. Despite the fact that research began over 30 years ago, it was put on hold during the mid-1990s, mainly due to a lack of funding and a relatively low petroleum cost.[34] For the next few years algae biofuels saw little attention; it was not until the gas peak of the early 2000s that it eventually had a revitalization in the search for alternative fuel sources.[34] While the technology exists to harvest and convert algae into a usable source of biodiesel, it still hasn't been implemented into a large enough scale to support the current energy needs. Further research will be required to make the production of algae biofuels more efficient, and at this point it is currently being held back by lobbyists in support of alternative biofuels, like those produced from corn and grain.[34] In 2013, Exxon Mobil Chairman and CEO Rex Tillerson said that after originally committing to spending up to $600 million on development in a joint venture with J. Craig Venters Synthetic Genomics, algae is "probably further" than "25 years away" from commercial viability,[14] although Solazyme[15] and Sapphire Energy[16] already began small-scale commercial sales in 2012 and 2013, respectively.
+Stability[edit]
+The biodiesel produced from the processing of microalgae differs from other forms of biodiesel in the content of polyunsaturated fats.[149] Polyunsaturated fats are known for their ability to retain fluidity at lower temperatures. While this may seem like an advantage in production during the colder temperatures of the winter, the polyunsaturated fats result in lower stability during regular seasonal temperatures.[150]
+Research[edit]
+Current projects[edit]
+United States[edit]
+Main article: Algae fuel in the United States
+The National Renewable Energy Laboratory (NREL) is the U.S. Department of Energy's primary national laboratory for renewable energy and energy efficiency research and development. This program is involved in the production of renewable energies and energy efficiency. One of its most current divisions is the biomass program which is involved in biomass characterization, biochemical and thermochemical conversion technologies in conjunction with biomass process engineering and analysis. The program aims at producing energy efficient, cost-effective and environmentally friendly technologies that support rural economies, reduce the nations dependency in oil and improve air quality.[152]
+At the Woods Hole Oceanographic Institution and the Harbor Branch Oceanographic Institution the wastewater from domestic and industrial sources contain rich organic compounds that are being used to accelerate the growth of algae.[36] The Department of Biological and Agricultural Engineering at University of Georgia is exploring microalgal biomass production using industrial wastewater.[153] Algaewheel, based in Indianapolis, Indiana, presented a proposal to build a facility in Cedar Lake, Indiana that uses algae to treat municipal wastewater, using the sludge byproduct to produce biofuel.[154][155] A similar approach is being followed by Algae Systems, a company based in Daphne, Alabama.[156]
+Sapphire Energy (San Diego) has produced green crude from algae.
+Solazyme (South San Francisco, California) has produced a fuel suitable for powering jet aircraft from algae.[157]
+Europe[edit]
+Universities in the United Kingdom which are working on producing oil from algae include: University of Manchester, University of Sheffield, University of Glasgow, University of Brighton, University of Cambridge, University College London, Imperial College London, Cranfield University and Newcastle University. In Spain, it is also relevant the research carried out by the CSICs Instituto de Bioqumica Vegetal y Fotosntesis (Microalgae Biotechnology Group, Seville).[158]
+The Marine Research station in Ketch Harbour, Nova Scotia, has been involved in growing algae for 50 years. The National Research Council (Canada) (NRC) and National Byproducts Program have provided $5 million to fund this project. The aim of the program has been to build a 50 000 litre cultivation pilot plant at the Ketch harbor facility. The station has been involved in assessing how best to grow algae for biofuel and is involved in investigating the utilization of numerous algae species in regions of North America. NRC has joined forces with the United States Department of Energy, the National Renewable Energy Laboratory in Colorado and Sandia National Laboratories in New Mexico.[152]
+The European Algae Biomass Association (EABA) is the European association representing both research and industry in the field of algae technologies, currently with 79 members. The association is headquartered in Florence, Italy. The general objective of the EABA is to promote mutual interchange and cooperation in the field of biomass production and use, including biofuels uses and all other utilisations. It aims at creating, developing and maintaining solidarity and links between its Members and at defending their interests at European and international level. Its main target is to act as a catalyst for fostering synergies among scientists, industrialists and decision makers to promote the development of research, technology and industrial capacities in the field of Algae.
+CMCL innovations and the University of Cambridge are carrying out a detailed design study of a C-FAST[159] (Carbon negative Fuels derived from Algal and Solar Technologies) plant. The main objective is to design a pilot plant which can demonstrate production of hydrocarbon fuels (including diesel and gasoline) as sustainable carbon-negative energy carriers and raw materials for the chemical commodity industry. This project will report in June 2013.
+Ukraine plans to produce biofuel using a special type of algae.[160]
+The European Commission's Algae Cluster Project, funded through the Seventh Framework Programme, is made up of three algae biofuel projects, each looking to design and build a different algae biofuel facility covering 10ha of land. The projects are BIOFAT, All-Gas and InteSusAl.[161]
+Since various fuels and chemicals can be produced from algae, it has been suggested to investigate the feasibility of various production processes( conventional extraction/separation, hydrothermal liquefaction, gasification and pyrolysis) for application in an integrated algal biorefinery.[162]
+India[edit]
+Reliance industries in collaboration with Algenol, USA commissioned a pilot project to produce algal bio-oil in the year 2014.[163] Spirulina which is an alga rich in proteins content has been commercially cultivated in India. Algae is used in India for treating the sewage in open/natural oxidation ponds This reduces the Biological Oxygen Demand (BOD) of the sewage and also provides algal biomass which can be converted to fuel.[164]
+Other[edit]
+The Algae Biomass Organization (ABO)[165] is a non-profit organization whose mission is "to promote the development of viable commercial markets for renewable and sustainable commodities derived from algae".
+The National Algae Association (NAA) is a non-profit organization of algae researchers, algae production companies and the investment community who share the goal of commercializing algae oil as an alternative feedstock for the biofuels markets. The NAA gives its members a forum to efficiently evaluate various algae technologies for potential early stage company opportunities.
+Pond Biofuels Inc.[166] in Ontario, Canada has a functioning pilot plant where algae is grown directly off of smokestack emissions from a cement plant, and dried using waste heat.[89] In May 2013, Pond Biofuels announced a partnership with the National Research Council of Canada and Canadian Natural Resources Limited to construct a demonstration-scale algal biorefinery at an oil sands site near Bonnyville, Alberta.[167]
+Ocean Nutrition Canada in Halifax, Nova Scotia, Canada has found a new strain of algae that appears capable of producing oil at a rate 60 times greater than other types of algae being used for the generation of biofuels.[168]
+VG Energy, a subsidiary of Viral Genetics Incorporated,[169] claims to have discovered a new method of increasing algal lipid production by disrupting the metabolic pathways that would otherwise divert photosynthetic energy towards carbohydrate production. Using these techniques, the company states that lipid production could be increased several-fold, potentially making algal biofuels cost-competitive with existing fossil fuels.
+Algae production from the warm water discharge of a nuclear power plant has been piloted by Patrick C. Kangas at Peach Bottom Nuclear Power Station, owned by Exelon Corporation. This process takes advantage of the relatively high temperature water to sustain algae growth even during winter months.[170]
+Companies such as Sapphire Energy and Bio Solar Cells[171] are using genetic engineering to make algae fuel production more efficient. According to Klein Lankhorst of Bio Solar Cells, genetic engineering could vastly improve algae fuel efficiency as algae can be modified to only build short carbon chains instead of long chains of carbohydrates.[172] Sapphire Energy also uses chemically induced mutations to produce algae suitable for use as a crop.[173]
+Some commercial interests into large-scale algal-cultivation systems are looking to tie in to existing infrastructures, such as cement factories,[89] coal power plants, or sewage treatment facilities. This approach changes wastes into resources to provide the raw materials, CO
+2 and nutrients, for the system.[174]
+A feasibility study using marine microalgae in a photobioreactor is being done by The International Research Consortium on Continental Margins at the Jacobs University Bremen.[175]
+The Department of Environmental Science at Ateneo de Manila University in the Philippines, is working on producing biofuel from a local species of algae.[176]
+Genetic engineering[edit]
+Genetic engineering algae has been used to increase lipid production or growth rates. Current research in genetic engineering includes either the introduction or removal of enzymes. In 2007 Oswald et al. introduced a monoterpene synthase from sweet basil into Saccharomyces cerevisiae, a strain of yeast.[177] This particular monoterpene synthase causes the de novo synthesis of large amounts of geraniol, while also secreting it into the medium. Geraniol is a primary component in rose oil, palmarosa oil, and citronella oil as well as essential oils, making it a viable source of triacylglycerides for biodiesel production.[178]
+The enzyme ADP-glucose pyrophosphorylase is vital in starch production, but has no connection to lipid synthesis. Removal of this enzyme resulted in the sta6 mutant, which showed increased lipid content. After 18 hours of growth in nitrogen deficient medium the sta6 mutants had on average 17ng triacylglycerides/1000 cells, compared to 10ng/1000 cells in WT cells. This increase in lipid production was attributed to reallocation of intracellular resources, as the algae diverted energy from starch production.[179]
+In 2013 researchers used a "knock-down" of fat-reducing enzymes (multifunctional lipase/phospholipase/acyltransferase) to increase lipids (oils) without compromising growth. The study also introduced an efficient screening process. Antisense-expressing knockdown strains 1A6 and 1B1 contained 2.4- and 3.3-fold higher lipid content during exponential growth, and 4.1- and 3.2-fold higher lipid content after 40 h of silicon starvation.[180][181]
+Funding programs[edit]
+Numerous Funding programs have been created with aims of promoting the use of Renewable Energy. In Canada, the ecoAgriculture biofuels capital initiative (ecoABC) provides $25 million per project to assist farmers in constructing and expanding a renewable fuel production facility. The program has $186 million set aside for these projects. The sustainable development (SDTC) program has also applied $500 millions over 8 years to assist with the construction of next-generation renewable fuels. In addition, over the last 2 years $10 million has been made available for renewable fuel research and analysis[182]
+In Europe, the Seventh Framework Programme (FP7) is the main instrument for funding research. Similarly, the NER 300 is an unofficial, independent portal dedicated to renewable energy and grid integration projects. Another program includes the horizon 2020 program which will start 1 January, and will bring together the framework program and other EC innovation and research funding into a new integrated funding system[183]
+The American NBB's Feedstock Development program is addressing production of algae on the horizon to expand available material for biodiesel in a sustainable manner.[184]
+International policies[edit]
+Canada[edit]
+Numerous policies have been put in place since the 1975 oil crisis in order to promote the use of Renewable Fuels in the United States, Canada and Europe. In Canada, these included the implementation of excise taxes exempting propane and natural gas which was extended to ethanol made from biomass and methanol in 1992. The federal government also announced their renewable fuels strategy in 2006 which proposed four components: increasing availability of renewable fuels through regulation, supporting the expansion of Canadian production of renewable fuels, assisting farmers to seize new opportunities in this sector and accelerating the commercialization of new technologies. These mandates were quickly followed by the Canadian provinces:
+BC introduced a 5% ethanol and 5% renewable diesel requirement which was effective by January 2010. It also introduced a low carbon fuel requirement for 2012 to 2020.
+Alberta introduced a 5% ethanol and 2% renewable diesel requirement implemented April 2011. The province also introduced a minimum 25% GHG emission reduction requirement for qualifying renewable fuels.
+Saskatchewan implemented a 2% renewable diesel requirement in 2009.[185]
+Additionally, in 2006, the Canadian Federal Government announced its commitment to using its purchasing power to encourage the biofuel industry. Section three of the 2006 alternative fuels act stated that when it is economically feasible to do so-75% per cent of all federal bodies and crown corporation will be motor vehicles.[182]
+The National Research Council of Canada has established research on Algal Carbon Conversion as one of its flagship programs.[186] As part of this program, the NRC made an announcement in May 2013 that they are partnering with Canadian Natural Resources Limited and Pond Biofuels to construct a demonstration-scale algal biorefinery near Bonnyville, Alberta.[167]
+United States[edit]
+Policies in the United States have included a decrease in the subsidies provided by the federal and state governments to the oil industry which have usually included $2.84 billion. This is more than what is actually set aside for the biofuel industry. The measure was discussed at the G20 in Pittsburgh where leaders agreed that "inefficient fossil fuel subsidies encourage wasteful consumption, reduce our energy security, impede investment in clean sources and undermine efforts to deal with the threat of climate change". If this commitment is followed through and subsidies are removed, a fairer market in which algae biofuels can compete will be created. In 2010, the U.S. House of Representatives passed a legislation seeking to give algae-based biofuels parity with cellulose biofuels in federal tax credit programs. The algae-based renewable fuel promotion act (HR 4168) was implemented to give biofuel projects access to a $1.01 per gal production tax credit and 50% bonus depreciation for biofuel plant property. The U.S Government also introduced the domestic Fuel for Enhancing National Security Act implemented in 2011. This policy constitutes an amendment to the Federal property and administrative services act of 1949 and federal defense provisions in order to extend to 15 the number of years that the Department of Defense (DOD) multiyear contract may be entered into the case of the purchase of advanced biofuel. Federal and DOD programs are usually limited to a 5-year period[187]
+Other[edit]
+The European Union (EU) has also responded by quadrupling the credits for second-generation algae biofuels which was established as an amendment to the Biofuels and Fuel Quality Directives[183]
+Companies[edit]
+See also: List of algal fuel producers
+With algal biofuel being a relatively new alternative to conventional petroleum products, it leaves numerous opportunities for drastic advances in all aspects of the technology. Producing algae biofuel is not yet a cost-effective replacement for gasoline, but alterations to current methodologies can change this. The two most common targets for advancements are the growth medium (open pond vs. photobioreactor) and methods to remove the intracellular components of the algae. Below are companies that are currently innovating algal biofuel technologies.
+Algenol Biofuels[edit]
+Founded in 2006, Algenol Biofuels is a global, industrial biotechnology company that is commercializing its patented algae technology for production of ethanol and other fuels. Based in Southwest Florida, Algenols patented technology enables the production of the four most important fuels (ethanol, gasoline, jet, and diesel fuel) using proprietary algae, sunlight, carbon dioxide and saltwater for around $1.27 per gallon and at production levels of 8,000 total gallons of liquid fuel per acre per year. Algenol's technology produces high yields and relies on patented photobioreactors and proprietary downstream techniques for low-cost fuel production using carbon dioxide from industrial sources.[188] The company originally intended on producing commercially by 2014, but was set back when Florida Governor Rick Scott signed a bill in 2013 eliminating the state's mandate of a minimum of 10% ethanol in commercial gasoline.[189] This caused Algenol CEO Paul Woods to scrap a plan for a US $500 million plant to produce commercial amounts of algae biofuels and pursue other job sites. Currently, Algenol is a partner of the US Department of Energy's Bioenergy Technologies Office, and in 2015 began smaller-scale commercial sales of E15 and E85 ethanol blends to Protec Fuel, a Florida-based fuel distributor.[190]
+Blue Marble Production[edit]
+Blue Marble Production is a Seattle-based company that is dedicated to removing algae from algae-infested water. This in turn cleans up the environment and allows this company to produce biofuel. Rather than just focusing on the mass production of algae, this company focuses on what to do with the byproducts. This company recycles almost 100% of its water via reverse osmosis, saving about 26,000 gallons of water every month. This water is then pumped back into their system. The gas produced as a byproduct of algae will also be recycled by being placed into a photobioreactor system that holds multiple strains of algae. Whatever gas remains is then made into pyrolysis oil by thermochemical processes. Not only does this company seek to produce biofuel, but it also wishes to use algae for a variety of other purposes such as fertilizer, food flavoring, anti-inflammatory, and anti-cancer drugs.[191]
+Solazyme[edit]
+Solazyme is one of a handful of companies which is supported by oil companies such as Chevron. Additionally, this company is also backed by Imperium Renewables, Blue Crest Capital Finance, and The Roda Group. Solazyme has developed a way to use up to 80% percent of dry algae as oil.[192] This process requires the algae to grow in a dark fermentation vessel and be fed by carbon substrates within their growth media. The effect is the production of triglycerides that are almost identical to vegetable oil. Solazyme's production method is said to produce more oil than those algae cultivated photosynthetically or made to produce ethanol. Oil refineries can then take this algal oil and turn it into biodiesel, renewable diesel or jet fuels.
+Part of Solazyme's testing, in collaboration with Maersk Line and the US Navy, placed 30 tons of Soladiesel(RD) algae fuel into the 98,000-tonne, 300-meter container ship Maersk Kalmar. This fuel was used at blends from 7% to 100% in an auxiliary engine on a month-long trip from Bremerhaven, Germany to Pipavav, India in Dec 2011. In Jul 2012, The US Navy used 700,000 gallons of HRD76 biodiesel in three ships of the USS Nimitz "Green Strike Group" during the 2012 RIMPAC exercise in Hawaii. The Nimitz also used 200,000 gallons of HRJ5 jet biofuel. The 50/50 biofuel blends were provided by Solazyme and Dynamic Fuels.[193][194][195]
+Sapphire Energy[edit]
+Sapphire Energy is a leader in the algal biofuel industry backed by the Wellcome Trust, Bill Gates' Cascade Investment, Monsanto, and other large donors.[196] After experimenting with production of various algae fuels beginning in 2007, the company now focuses on producing what it calls "green crude" from algae in open raceway ponds. After receiving more than $100 million in federal funds in 2012, Sapphire built the first commercial demonstration algae fuel facility in New Mexico and has continuously produced biofuel since completion of the facility in that year.[196] In 2013, Sapphire began commercial sales of algal biofuel to Tesoro, making it one of the first companies, along with Solazyme, to sell algae fuel on the market.[16]
+Diversified Technologies Inc.[edit]
+Diversified Technologies Inc. has created a patent pending pre-treatment option to reduce costs of oil extraction from algae. This technology, called Pulsed Electric Field (PEF) technology, is a low cost, low energy process that applies high voltage electric pulses to a slurry of algae.[197] The electric pulses enable the algal cell walls to be ruptured easily, increasing the availability of all cell contents (Lipids, proteins and carbohydrates), allowing the separation into specific components downstream. This alternative method to intracellular extraction has shown the capability to be both integrated in-line as well as scalable into high yield assemblies. The Pulse Electric Field subjects the algae to short, intense bursts of electromagnetic radiation in a treatment chamber, electroporating the cell walls. The formation of holes in the cell wall allows the contents within to flow into the surrounding solution for further separation. PEF technology only requires 1-10 microsecond pulses, enabling a high-throughput approach to algal extraction.
+Preliminary calculations have shown that utilization of PEF technology would only account for $0.10 per gallon of algae derived biofuel produced. In comparison, conventional drying and solvent-based extractions account for $1.75 per gallon. This inconsistency between costs can be attributed to the fact that algal drying generally accounts for 75% of the extraction process.[198] Although a relatively new technology, PEF has been successfully used in both food decomtamination processes as well as waste water treatments.[199]
+Origin Oils Inc.[edit]
+Origin Oils Inc. has been researching a revolutionary method called the Helix Bioreactor,[200] altering the common closed-loop growth system. This system utilizes low energy lights in a helical pattern, enabling each algal cell to obtain the required amount of light.[201] Sunlight can only penetrate a few inches through algal cells, making light a limiting reagent in open-pond algae farms. Each lighting element in the bioreactor is specially altered to emit specific wavelengths of light, as a full spectrum of light is not beneficial to algae growth. In fact, ultraviolet irradiation is actually detrimental as it inhibits photosynthesis, photoreduction, and the 520nm light-dark absorbance change of algae.[202]
+This bioreactor also addresses another key issue in algal cell growth; introducing CO2 and nutrients to the algae without disrupting or over-aerating the algae. Origin Oils Inc. combats this issues through the creation of their Quantum Fracturing technology. This process takes the CO2 and other nutrients, fractures them at extremely high pressures and then deliver the micron sized bubbles to the algae. This allows the nutrients to be delivered at a much lower pressure, maintaining the integrity of the cells.[201]
+Proviron[edit]
+Proviron is a Belgian microalgae company that also operates in the United States. The company has been working on a new type of reactor (using flat plates) which reduces the cost of algae cultivation. At AlgaePARC similar research is being conducted using 4 grow systems (1 open pond system and 3 types of closed systems). According to Ren Wijffels the current systems do not yet allow algae fuel to be produced competitively. However using new (closed) systems, and by scaling up the production it would be possible to reduce costs by 10X, up to a price of 0,4  per kg of algae.[203] Currently, Proviron focuses primarily on alternative uses of algae cultures, such as environmentally-conscious plastics, esterification processes, and de-icing processes.[204]
+Genifuels[edit]
+Genifuel Corporation has licensed the high temperature/pressure fuel extraction process and has been working with the team at the lab since 2008. The company intends to team with some industrial partners to create a pilot plant using this process to make biofuel in industrial quantities.[98] Genifuel process combines hydrothermal liquefaction with catalytic hydrothermal gasification in reactor running at 350 Celsius (662 Fahrenheit) and pressure of 3000 PSI.[205]
+Qeshm Microalgae Biorefinery Co. (QMAB)[edit]
+QMAB is an Iran-based biofuels company operating solely on the island of Iranian island of Qeshm in the Strait of Hormuz. QMAB's original pilot plant has been operating since 2009, and has a 25,000 Liter capacity.[206] In 2014, QMAB released BAYA Biofuel, a biofuel deriving from the algae Nannochloropsis, and has since specified that its unique strain is up to 68% lipids by dry weight volume.[206] Development of the farm mainly focuses on 2 phases, production of nutraceutical products and green crude oil to produce biofuel. The main product of their microalgae culture is crude oil, which can be fractioned into the same kinds of fuels and chemical compounds.[207]
+See also[edit]
+Renewable energy portal
+Energy portal
+ABE fermentation
+Algenol
+Algaculture
+Biochemical engineering
+Biological hydrogen production (Algae)
+Butanol fuel
+Carbon neutrality
+Culture Fuels
+Cyanotoxin
+Helioculture
+International Renewable Energy Alliance
+List of algal fuel producers
+Ocean thermal energy conversion
+Nannochloropsis and biofuel
+Nannochloropsis
+Phycology
+Phytoplankton
+Thermal depolymerization
+Residual Sodium Carbonate Index
+References[edit]
+^ a b c Scott, S. A.; Davey, M. P.; Dennis, J. S.; Horst, I.; Howe, C. J.; Lea-Smith, D. J.; Smith, A. G. (2010). "Biodiesel from algae: Challenges and prospects". Current Opinion in Biotechnology. 21 (3): 277286. doi:10.1016/j.copbio.2010.03.005. PMID20399634.
+^ Darzins, Al; Pienkos, Philip; Edye, Les (2010). Current status and potential for algal biofuels production (PDF). IEA Bioenergy Task 39.
+^ Oncel, S. S. (2013). "Microalgae for a macroenergy world". Renewable and Sustainable Energy Reviews. 26: 241264. doi:10.1016/j.rser.2013.05.059.
+^ Yang, Jia; Ming Xu; Xuezhi Zhang; Qiang Hu; Milton Sommerfeld; YongShen Chen (2010). "Life-cycle analysis on biodiesel production from microalgae: Water footprint and nutrients balance" (PDF). Bioresources Technology. 10: 1016.
+^ Cornell, Clayton B. (29 March 2008). "First Algae Biodiesel Plant Goes Online: 1 April 2008". Gas 2.0. Retrieved 10 June 2008.
+^ Dinh, L. T. T.; Guo, Y.; Mannan, M. S. (2009). "Sustainability evaluation of biodiesel production using multicriteria decision-making". Environmental Progress & Sustainable Energy. 28: 3846. doi:10.1002/ep.10335.
+^ Demirbas, A. (2011). "Biodiesel from oilgae, biofixation of carbon dioxide by microalgae: A solution to pollution problems". Applied Energy. 88 (10): 35413547. doi:10.1016/j.apenergy.2010.12.050.
+^ AH Demirbas (2009). "Inexpensive oil and fats feedstocks for production of biodiesel". Energy Education Science and Technology Part A: Energy Science and Research. 23: 113.
+^ Carriquiry, M. A.; Du, X.; Timilsina, G. R. (2011). "Second generation biofuels: Economics and policies". Energy Policy. 39 (7): 42224234. doi:10.1016/j.enpol.2011.04.036.
+^ Greenwell, H. C.; Laurens, L. M. L.; Shields, R. J.; Lovitt, R. W.; Flynn, K. J. (2009). "Placing microalgae on the biofuels priority list: A review of the technological challenges". Journal of the Royal Society Interface. 7 (46): 703726. doi:10.1098/rsif.2009.0322.
+^ Hartman, Eviana (6 January 2008). "A Promising Oil Alternative: Algae Energy". The Washington Post. Retrieved 10 June 2008.
+^ Dyer, Gwynne (17 June 2008). "A replacement for oil". The Chatham Daily News. Retrieved 18 June 2008.
+^ Feldman, Stacy (22 November 2010). "Algae Fuel Inches Toward Price Parity with Oil". Reuters. Retrieved 14 February 2011. "We're hoping to be at parity with fossil fuel-based petroleum in the year 2017 or 2018, with the idea that we will be at several billions of gallons," Rosenthal told SolveClimate News in a phone interview.
+^ a b "Exxon at Least 25 Years Away From Making Fuel From Algae" Bloomberg, 8 March 2013
+^ a b c Erin Voegele (15 November 2012). "Propel, Solazyme make algae biofuel available to the public". Biomass Magazine.
+^ a b c d Andrew Herndon (20 March 2013). "Tesoro is first customer for Sapphire's algae-derived crude oil". Bloomberg.
+^ "Algenol Announces Commercial Algal Ethanol Fuel Partnership". Energy.gov. Retrieved 2016-11-15.
+^ Harder, R.; von Witsch, H. (1942). "Bericht ber versuche zur fettsynthese mittels autotropher microorganismen". Forschungsdienst Sonderheft. 16: 270275.
+^ Harder, R.; von Witsch, H. (1942). "Die massenkultur von diatomeen". Berichte der Deutschen Botanischen Gesellschaft. 60: 146152.
+^ Cook P.M. 1950. Large-scale culture of Chlorella. In: Brunel J., G.W. Prescott (eds) The culture of algae. Charles F. Kettering Foundation, Dayton, p. 5377.
+^ Burlew J.S. (ed). 1953. Algae culture: from laboratory to pilot plant. Carnegie Institution of Washington, Washington, DC, p. 1357.
+^ Burlew J.S. 1953. Current status of large-scale culture of algae. In: Burlew J.S. (ed). Algal culture: from laboratory to pilot plant. Carnegie Institution, Washington, DC, p. 323.
+^ Gummert F., M.E. Meffert, and H. Stratmann. 1953. Nonsterile large-scale culture of Chlorella in greenhouse and open air. In: Burlew J.S. (ed). Algal culture: from laboratory to pilot plant. Carnegie Institution of Washington, Washington, DC, p. 166176.
+^ Mituya A., T. Nyunoya, and H. Tamiya. 1953. Pre-pilot-plant experiments on algal mass culture. In: Burlew J.S. (ed). Algal culture: from labo- ratory to pilot plant. Carnegie Institution, Washington, DC, p. 273281.
+^ Geoghegan M.J. 1953. Experiments with Chlorella at Jealotts Hill. In: Burlew J.S. (ed). Algal culture: from laboratory to pilot plant. Carnegie Institution, Washington, DC, p. 182189.
+^ Evenari M., A.M. Mayer, and E. Gottesman. 1953. Experiments of culture of algae in Israel. In: Burlew J.S. (ed). Algal culture. From laboratory to pilot plant. Carnegie Institution, Washington, DC, p. 197203.
+^ a b Aach, H. G. (1952). "ber Wachstum und Zusammensetzung von Chlorella pyrenoidosa bei unterschiedlichen Lichtstrken und Nitratmengen". Archiv fr Mikrobiologie. 17: 213246. doi:10.1007/BF00410827.
+^ a b Borowitzka, M. A. (2013). "Energy from Microalgae: A Short History". Algae for Biofuels and Energy. p.1. doi:10.1007/978-94-007-5479-9_1. ISBN978-94-007-5478-2.
+^ a b c d "National Algal Biofuels Technology Roadmap" (PDF). US Department of Energy, Office of Energy Efficiency and Renewable Energy, Biomass Program. Retrieved 3 April 2014.
+^ a b c d e f g Sheehan J., T. Dunahay, J. Benemann, P. Roessler. 1998. A look back at the U.S. Department of Energys Aquatic Species Program  biodiesel from algae. National Renewable Energy Laboratory: Golden, Colorado. NREL/TP-580-24190, p. 1328.
+^ Michiki, H. (1995). "Biological CO2 fixation and utilization project". Energy Conversion and Management. 36 (69): 701705. doi:10.1016/0196-8904(95)00102-J.
+^ Negoro, M.; Shioji, N.; Miyamoto, K.; Micira, Y. (1991). "Growth of Microalgae in High CO2 Gas and Effects of SOX and NOX". Applied Biochemistry and Biotechnology. 28-29: 87786. doi:10.1007/BF02922657. PMID1929389.
+^ Negoro, M.; Shioji, N.; Ikuta, Y.; Makita, T.; Uchiumi, M. (1992). "Growth characteristics of microalgae in high-concentration co2 gas, effects of culture medium trace components, and impurities thereon". Applied Biochemistry and Biotechnology. 34-35: 681692. doi:10.1007/BF02920589.
+^ a b c d Pienkos, P. T.; Darzins, A. (2009). "The promise and challenges of microalgal-derived biofuels". Biofuels, Bioproducts and Biorefining. 3 (4): 431440. doi:10.1002/bbb.159.
+^ Darzins, A., 2008. Recent and current research & roadmapping activities: overview. National Algal Biofuels Technology Roadmap Workshop, University of Maryland.
+^ a b "Biofuels from industrial/domestic wastewater". Retrieved 11 June 2008.
+^ a b Tornabene, et al (1983), Lipid composition of nitrogen starved, green Neochloris oleoabundans
+^ a b c d e f g h i Chisti, Y. (2007). "Biodiesel from microalgae". Biotechnology Advances. 25 (3): 294306. doi:10.1016/j.biotechadv.2007.02.001. PMID17350212.
+^ Banerjee, Anirban; Sharma, Rohit; Chisti, Yusuf; Banerjee, U. C. (2002). "Botryococcus braunii: A Renewable Source of Hydrocarbons and Other Chemicals". Critical Reviews in Biotechnology. 22 (3): 245279. doi:10.1080/07388550290789513.
+^ "Microalgal Production SARDI AQUATIC SCIENCES" (PDF). Government of South Australia. Archived from the original (PDF) on 17 December 2008. Retrieved 3 November 2008.
+^ a b Atabani, A. E.; Silitonga, A. S.; Badruddin, I. A.; Mahlia, T. M. I.; Masjuki, H. H.; Mekhilef, S. (2012). "A comprehensive review on biodiesel as an alternative energy resource and its characteristics". Renewable and Sustainable Energy Reviews. 16 (4): 20702093. doi:10.1016/j.rser.2012.01.003.
+^ "Biodiesel Production from Algae" (PDF). Department of Energy Aquatic Species Program, National Renewable Energy Laboratory. Archived (PDF) from the original on 26 September 2006. Retrieved 29 August 2006.
+^ Shirvani, T.; Yan, X.; Inderwildi, O. R.; Edwards, P. P.; King, D. A. (2011). "Life cycle energy and greenhouse gas analysis for algae-derived biodiesel". Energy & Environmental Science. 4 (10): 3773. doi:10.1039/C1EE01791H.
+^ Wolf Archived 30 October 2008 at the Wayback Machine.
+^ Potts, T.; Du, J.; Paul, M.; May, P.; Beitle, R.; Hestekin, J. (2012). "The Production of Butanol from Jamaica Bay Macro Algae". Environmental Progress and Sustainable Energy. 31 (1): 2936. doi:10.1002/ep.10606.
+^ Mascal, M.; Dutta, S.; Gandarias, I. (2014). "Hydrodeoxygenation of the Angelica Lactone Dimer, a Cellulose-Based Feedstock: Simple, High-Yield Synthesis of Branched C7-C10Gasoline-like Hydrocarbons". Angewandte Chemie International Edition. 53 (7): 18541857. doi:10.1002/anie.201308143.
+^ "Methane production". FAO, Agriculture Department. Retrieved 29 August 2006.
+^ Methane from algae  Oilgae  Oil from Algae. Oilgae (2 December 2009). Retrieved 15 April 2012.
+^ Eisenberg, D.M., W.J. Oswald, J.R. Benemann, R.P. Goebel, and T.T. Tiburzi. 1979. Methane fermentation of microalgae. In Anaerobic digestion, edited by D. A. Stafford, B. I. Wheatley and D. E. Hughes. London, United Kingdom: Applied Science Publishers LTD.
+^ Golueke, C.G.; Oswald, W.J.; Gotaas, H.B. (1957). "Anaerobic digestion of algae". Applied and Environmental Microbiology. 5 (1): 4755.
+^ Rigoni-Stern, S.; Rismondo, R.; Szpyrkowicz, L.; Zilio-Grandi, F.; Vigato, P.A. (1990). "Anaerobic digestion of nitrophilic algal biomass from the Venice Lagoon". Biomass. 23 (3): 179199. doi:10.1016/0144-4565(90)90058-r.
+^ Samson, R. J.; Leduyt, A. (1986). "Detailed study of anaerobic digestion ofSpirulina maxima algal biomass". Biotechnology and Bioengineering. 28 (7): 10141023. doi:10.1002/bit.260280712. PMID18555423.
+^ Yen, H.; Brune, D. (2007). "Anaerobic co-digestion of algal sludge and waste paper to produce methane". Bioresource Technology. 98 (1): 130134. doi:10.1016/j.biortech.2005.11.010. PMID16386894.
+^ Lundquist, T.J., I.C. Woertz, N.W.T. Quinn, and J.R. Benemann, October 2010, A realistic technology and engineering assessment of algae biofuel production
+^ "Effects of nitrogen on growth and carbohydrate formation in Porphyridium cruentum". Open Life Sciences. 9. 2013-09-21. doi:10.2478/s11535-013-0248-z. Retrieved 2014-08-19.
+^ a b c Knothe, Gerhard (2010). "Biodiesel and renewable diesel: A comparison". Progress in Energy and Combustion Science
+^ a b "Alternative & Advanced Fuels". US Department of Energy. Retrieved 7 March 2012.
+^ Brown, Robert; Jennifer Holmgren. "Fast Pyrolysis and Bio-Oil Upgrading" (PDF). Retrieved 15 March 2012.
+^ Crocker, Mark H.; et al. (March 21, 2015). "CO2 Recycling Using Microalgae for the Production of Fuels". Applied Petrochemical Research. 4: 4153. doi:10.1007/s13203-014-0052-3.
+^ "Catalytic deoxygenation of microalgae oil to green hydrocarbons - Green Chemistry (RSC Publishing)". pubs.rsc.org. Retrieved 2015-06-08.
+^ "ACS Presentations on Demand". presentations.acs.org. Retrieved 2015-06-02.
+^ "Evaluation of Presulfided NiMo/-Al2O3 for Hydrodeoxygenation of Microalgae Oil To Produce Green Diesel". ENERGY &FUELS. 29.1 (2014): 262-272.
+^ "Hydrodeoxygenation of microalgae oil to green diesel over Pt, Rh and presulfided NiMo catalysts". Catalysis Science & Technology. 6.5 (2016): 1442-1454.
+^ More airlines fold as fuel prices soar: IATA. News.asiaone.com. Retrieved 15 April 2012.
+^ Alternative Fuels. Iata.org. Retrieved 15 April 2012.
+^ Black, Richard (28 September 2007). "Biofuel trial flight set for 747". BBC News. Archived from the original on 29 October 2007. Retrieved 28 September 2007.
+^ "First biofuel flight touches down". BBC News. 24 February 2008. Archived from the original on 29 February 2008. Retrieved 24 February 2008.
+^ Suzanne Goldenberg (13 February 2010). "Algae to solve the Pentagon's jet fuel problem". The Guardian. London.
+^ Lewis, Leo (14 May 2005). "Seaweed to breathe new life into fight against global warming". London: The Times Online. Retrieved 11 February 2008.
+^ Seaweed Biofuels: Production of Biogas and Bioethanol from Brown Macroalgae. Amazon.com. Retrieved 15 April 2012.
+^ Algae FAQ Archived 22 October 2008 at the Wayback Machine.
+^ Bioenergy
+^ Selection of Optimal Microalgae Species for CO2 Sequestration
+^ Ecogenics Product 2. Ecogenicsresearchcenter.org. Retrieved 15 April 2012.
+^ "Algae eyed as biofuel alternative". The Taipei Times. 12 January 2008. Archived from the original on 24 July 2008. Retrieved 10 June 2008.
+^ "Algal Oil Yields". Oilgae. Retrieved 13 March 2012.
+^ Seaweed Ulva Photosynthesis and Zero Emissions Power Generation. Pennenergy.com. Retrieved 15 April 2012.
+^ Toward a live sea near the dead one. (PDF) . Retrieved 15 April 2012.
+^ a b c "Chapter 1 - Introduction to Algae Biofuels - Selecting Algae Species, Algae Production Issues, Harvesting Algae and Extracting Oil, and Converting Algae Oil to Biofuels". lawofalgae.wiki.zoho.com. Retrieved 2016-11-16.
+^ "Nutrients and Algae". www.krisweb.com. Retrieved 2016-11-16.
+^ a b Chen, Meng; Tang, Haiying; Ma, Hongzhi; Holland, Thomas C.; Ng, K. Y. Simon; Salley, Steven O. (2011-01-01). "Effect of nutrients on growth and lipid accumulation in the green algae Dunaliella tertiolecta". Bioresource Technology. 102 (2): 16491655. doi:10.1016/j.biortech.2010.09.062. ISSN1873-2976. PMID20947341.
+^ a b c "2.3. Algal production". www.fao.org. Retrieved 2016-11-16.
+^ a b Schenk, P. M.; Thomas-Hall, S. R.; Stephens, E.; Marx, U. C.; Mussgnug, J. H.; Posten, C.; Kruse, O.; Hankamer, B. (2008). "Second Generation Biofuels: High-Efficiency Microalgae for Biodiesel Production". BioEnergy Research. 1: 2043. doi:10.1007/s12155-008-9008-8.
+^ a b c d e f Mata, T. M.; Martins, A. N. A.; Caetano, N. S. (2010). "Microalgae for biodiesel production and other applications: A review". Renewable and Sustainable Energy Reviews. 14: 217232. doi:10.1016/j.rser.2009.07.020.
+^ 'Maryking' (29 August 2007). "Will algae beat its competitors to become the king source of biofuels?". Environmental Graffiti. Retrieved 10 June 2008.
+^ Clayton, Mark (11 January 2006). "Algae  Like a Breath Mint for Smokestacks". Christian Science Monitor. Archived from the original on 14 September 2008. Retrieved 10 June 2008.
+^ "Growth Rates of Emission-Fed Algae Show Viability of New Biomass Crop" (PDF). Arizona Public Service Company (APS) and GreenFuel Technologies Corporation (GFT). 26 September 2008. Archived from the original (PDF) on 2008-05-21. Retrieved 15 December 2013.
+^ a b Herro, Alana (8 October 2007). "Better Than Corn? Algae Set to Beat Out Other Biofuel Feedstocks". Worldwatch Institute. Archived from the original on 21 June 2008. Retrieved 10 June 2008.
+^ a b c Hamilton, Tyler. (18 March 2010) CO2-eating Algae Tturns Cement-maker Green Toronto Star Article, 18 March 2010. Thestar.com. Retrieved 15 April 2012.
+^ Briggs, Michael. UNH Biodiesel Group (2004). Retrieved 26 May 2004.
+^ "Biodiesel Made from Algae in Sewerage Ponds". Renewable Energy Access. 2006. Archived from the original on 31 March 2007. Retrieved 31 January 2007.
+^ ":: The Algal Turf Scrubber::".
+^ Jeffrey Bannon, J.; Adey, W. (2008). Algal Turf Scrubbers: Cleaning Water while Capturing Solar Energy for Bio fuel Production (PDF). Proceedings of the Fourth Environmental Physics Conference (EPC'10). pp.1923. Retrieved November 4, 2016.
+^ a b c d Adey, Walter H.; Kangas, Patrick C.; Mulbry, Walter (1 June 2011). "Algal Turf Scrubbing: Cleaning Surface Waters with Solar Energy while Producing a Biofuel". BioScience. 61 (6): 434441. doi:10.1525/bio.2011.61.6.5  via bioscience.oxfordjournals.org.
+^ Mary Biddy; Ryan Davis; Susanne Jones; Yunhua Zhu. "Whole Algae Hydrothermal Liquefaction Technology Pathway" (PDF). National Renewable Energy Laboratory. Retrieved November 4, 2016.
+^ John Sheehan; Terri Dunahay; John Benemann; Paul Roessler (July 1998). "A Look Back at the U.S. Department of Energy's Aquatic Species Program: Biodiesel from Algae" (PDF). U.S. Department of Energy's Office of Fuels Development. Retrieved November 4, 2016.
+^ "Cost Effective - Hydromentia: Hydromentia".
+^ a b c "Algae to crude oil: Million-year natural process takes minutes in the lab". Gizmag.com. Retrieved 2013-12-31.
+^ Fuel extracation video on YouTube
+^ Elliott, D. C.; Hart, T. R.; Schmidt, A. J.; Neuenschwander, G. G.; Rotness, L. J.; Olarte, M. V.; Zacher, A. H.; Albrecht, K. O.; Hallen, R. T.; Holladay, J. E. (2013). "Process development for hydrothermal liquefaction of algae feedstocks in a continuous-flow reactor". Algal Research. 2 (4): 445454. doi:10.1016/j.algal.2013.08.005.
+^ Ramirez, Jerome; Brown, Richard; Rainey, Thomas (1 July 2015). "A Review of Hydrothermal Liquefaction Bio-Crude Properties and Prospects for Upgrading to Transportation Fuels". Energies. 8 (7): 67656794. doi:10.3390/en8076765.
+^ Anderson, Genny (18 December 2004). "Seawater Composition". Archived from the original on 10 June 2008. Retrieved 18 June 2008.
+^ "Accelerating the uptake of CCS: Industrial use of captured carbon dioxide". Global CCS Institute. Retrieved 25 February 2012.
+^ Aylott, Matthew (September 2010). "Forget palm oil and soya, microalgae is the next big biofuel source".
+^ Arumugam, M.; Agarwal, A.; Arya, M. C.; Ahmed, Z. (2013). "Influence of nitrogen sources on biomass productivity of microalgae Scenedesmus bijugatus". Bioresource Technology. 131: 246249. doi:10.1016/j.biortech.2012.12.159. PMID23353039.
+^ Moellering, E. R.; Benning, C. (2009). "RNA Interference Silencing of a Major Lipid Droplet Protein Affects Lipid Droplet Size in Chlamydomonas reinhardtii". Eukaryotic Cell. 9 (1): 97106. doi:10.1128/EC.00203-09. PMC2805299. PMID19915074.
+^ Pittman, J. K.; Dean, A. P.; Osundeko, O. (2011). "The potential of sustainable algal biofuel production using wastewater resources". Bioresource Technology. 102 (1): 1725. doi:10.1016/j.biortech.2010.06.035. PMID20594826.
+^ Chong, A. M. Y.; Wong, Y. S.; Tam, N. F. Y. (2000). "Performance of different microalgal species in removing nickel and zinc from industrial wastewater". Chemosphere. 41 (12): 2517. doi:10.1016/S0045-6535(99)00418-X. PMID10819208.
+^ a b Smith, V. H.; Sturm, B. S. M.; Denoyelles, F. J.; Billings, S. A. (2010). "The ecology of algal biodiesel production". Trends in Ecology & Evolution. 25 (5): 301309. doi:10.1016/j.tree.2009.11.007.
+^ a b Bullis, Kevin (2007-02-05). "Algae-Based Fuels Set to Bloom | MIT Technology Review". Technologyreview.com. Retrieved 29 November 2013.
+^ "NASA OMEGA Project". Retrieved 8 May 2012.
+^ a b Groom, M. J.; Gray, E. M.; Townsend, P. A. (2008). "Biofuels and Biodiversity: Principles for Creating Better Policies for Biofuel Production". Conservation Biology. 22 (3): 6029. doi:10.1111/j.1523-1739.2007.00879.x. PMID18261147.
+^ EPA,OSWER,OEM, US. "Emergency Response" (PDF). CS1 maint: Multiple names: authors list (link)
+^ "n-Butyl Alcohol CAS N: 71-36-3" (PDF). OECD SIDS. November 9, 2001. Retrieved November 4, 2016.
+^ "Archived copy". Archived from the original on 1 January 1970. Retrieved 22 February 2015.
+^ "Large Volume Ethanol Spills  Environmental Impacts and Response Options" (PDF). July 2011. Retrieved November 4, 2016.
+^ Acin Fernndez, F. G.; Gonzlez-Lpez, C. V.; Fernndez Sevilla, J. M.; Molina Grima, E. (2012). "Conversion of CO2 into biomass by microalgae: How realistic a contribution may it be to significant CO2 removal?". Applied Microbiology and Biotechnology. 96 (3): 577586. doi:10.1007/s00253-012-4362-z. PMID22923096.
+^ a b Hemaiswarya, S.; Raja, R.; Carvalho, I. S.; Ravikumar, R.; Zambare, V.; Barh, D. (2012). "An Indian scenario on renewable and sustainable energy sources with emphasis on algae". Applied Microbiology and Biotechnology. 96 (5): 11251135. doi:10.1007/s00253-012-4487-0. PMID23070650.
+^ Kumar, A.; Ergas, S.; Yuan, X.; Sahu, A.; Zhang, Q.; Dewulf, J.; Malcata, F. X.; Van Langenhove, H. (2010). "Enhanced CO2 fixation and biofuel production via microalgae: Recent developments and future directions". Trends in Biotechnology. 28 (7): 371380. doi:10.1016/j.tibtech.2010.04.004. PMID20541270.
+^ Mark J. Zivojnovich (February 16, 2010). "Algae Based Water Treatment Systems  Cost-Effective Nutrient Pollution Control and for Point and Nonpoint Source Applications" (PDF). Retrieved November 4, 2016.
+^ Charlotta Dixner (2013-07-20). "Application of Algal Turf Scrubber Technique to remove nutrient from a eutrophic reservoir in the Jiulong River watershed, Southeast China" (PDF). International Summer Water Resources Research School. Retrieved November 4, 2016.
+^ Downing, A. L.; Leibold, M. A. (2002). "Ecosystem consequences of species richness and composition in pond food webs". Nature. 416: 837841. doi:10.1038/416837a.
+^ Cardinale, B. J.; Srivastava, D. S.; Duffy, J. E.; Wright, J. P.; Downing, A. L.; Sankaran, M.; Jouseau, C. (2006). "Effects of biodiversity on the functioning of trophic groups and ecosystems". Nature. 443: 989992. doi:10.1038/nature05202.
+^ Tilman, D.; Wedin, D.; Knops, J. (1996). "Productivity and sustainability influenced by biodiversity in grassland ecosystems". Nature. 379: 718720. doi:10.1038/379718a0.
+^ Hector, A.; Schmid, B; Beierkuhnlein, C; Caldeira, M. C.; Diemer, M; Dimitrakopoulos, P. G.; Finn, J. A.; Freitas, H; Giller, P. S.; Good, J; Harris, R; Hogberg, P; Huss-Danell, K; Joshi, J; Jumpponen, A; Korner, C; Leadley, P. W.; Loreau, M; Minns, A; Mulder, C. P.; O'Donovan, G; Otway, S. J.; Pereira, J. S.; Prinz, A; Read, D. J.; Et, al (1999). "Plant Diversity and Productivity Experiments in European Grasslands". Science. 286 (5442): 11237. doi:10.1126/science.286.5442.1123. PMID10550043.
+^ Ptacnik, R.; Solimini, A. G.; Andersen, T.; Tamminen, T.; Brettum, P.; Lepisto, L.; Willen, E.; Rekolainen, S. (2008). "Diversity predicts stability and resource use efficiency in natural phytoplankton communities". Proceedings of the National Academy of Sciences of the United States of America. 105: 51345138. doi:10.1073/pnas.0708328105.
+^ McGrady-Steed, J.; Harris, P.; Morin, P. (1997). "Biodiversity regulates ecosystem predictability". Nature. 390: 162165.
+^ Naeem, S.; Li, S. (1997). "Biodiversity enhances ecosystem reliability". Nature. 390: 507509.
+^ Steiner, C. F.; Long, Z.; Krumins, J.; Morin, P. (2005). "Temporal stability of aquatic food webs: partitioning the effects of species diversity, species composition and enrichment". Ecology Letters. 8: 819828. doi:10.1111/j.1461-0248.2005.00785.x.
+^ Stockenreiter, M.; Graber, A. K.; Haupt, F.; Stibor, H. (2011). "The effect of species diversity on lipid production by micro-algal communities". Journal of Applied Phycology. 24: 4554. doi:10.1007/s10811-010-9644-1.
+^ Stockenreiter, M.; Haupt, F.; Graber, A. K.; Seppl, J.; Spilling, K.; Tamminen, T.; Stibor, H. (2013). "Functional group richness: Implications of biodiversity for light use and lipid yield in microalgae". Journal of Phycology: n/a. doi:10.1111/jpy.12092.
+^ Cardinale, B. J.; Duffy, J. E.; Gonzalez, A.; Hooper, D. U.; Perrings, C.; Venail, P.; Narwani, A.; Mace, G. M.; Tilman, D.; Wardle, D. A.; Kinzig, A. P.; Daily, G. C.; Loreau, M.; Grace, J. B.; Larigauderie, A.; Srivastava, D. S.; Naeem, S. (2012). "Biodiversity loss and its impact on humanity". Nature. 486 (7401): 5967. doi:10.1038/nature11148. PMID22678280.
+^ Note that for biofuel crops it is only 0,5%
+^ NewScientist, march 2014
+^ Organization of the Petroleum Exporting Countries: Basket Prices. (accessed 01/29, 2013)
+^ Molina Grima, E.; Belarbi, E. H.; Acin Fernndez, F. G.; Robles Medina, A.; Chisti, Y. (2003). "Recovery of microalgal biomass and metabolites: Process options and economics". Biotechnology Advances. 20 (78): 491515. doi:10.1016/S0734-9750(02)00050-2. PMID14550018.
+^ Ghasemi, Y.; Rasoul-Amini, S.; Naseri, A. T.; Montazeri-Najafabady, N.; Mobasher, M. A.; Dabbagh, F. (2012). "Microalgae biofuel potentials (Review)". Applied Biochemistry and Microbiology. 48 (2): 126144. doi:10.1134/S0003683812020068.
+^ Dmitrov, Krassen (March 2007). "GreenFuel Technologies: A Case Study for Industrial Photosynthetic Energy Capture" (PDF).
+^ Alabi, Yomi; et al. (14 January 2009). "Microalgae Technologies and Processes for Biofuels/Bioenergy Production in British Columbia". British Columbia Innovation Council.
+^ Steiner, U. "Biofuels' cost explosion necessitates adaptation of process concepts. Algae as alternative raw materials. (slide presentation). Paper presented at the European White Biotechnology Summit, 2122 May 2008, Frankfurt, Germany".
+^ Radmer, R.J. (1994). "Commercial applications of algae: opportunities and constraints". Journal of Applied Phycology, 6(2), 9398.
+^ Carbon Trust (UK) (2008). "Algae biofuels challenge- frequently asked questions" (PDF). Retrieved 14 November 2008.
+^ Teixeira, R. E. (2012). "Energy-efficient extraction of fuel and chemical feedstocks from algae". Green Chemistry. 14 (2): 419427. doi:10.1039/C2GC16225C.
+^ Pultz, O.; Gross, W. (2004). "Valuable Products from Biotechnology of Microalgae". Applied Microbiology and Biotechnology. 65: 635648.
+^ Singh, S.; Kate, B.N.; Banerjee, U.C. (2005). "Bioactive Compounds from Cyanobacteria and Microalgae: An Overview". Critical Reviews in Biotechnology. 25: 7395. doi:10.1080/07388550500248498.
+^ Sporalore, P., C.Joannis-Cassan, E. Duran, and A. Isambert, "Commercial Applications of Microalgae", Journal of Bioscience and Bioengineering, 101(2):87-96, 2006.
+^ Tokuoglu, O.; Uunal, M. K. (2003). "Biomass Nutrient Profiles of Three Microalgae: Spirulina platensis, Chlorella vulgaris, and Isochrisis galbana". Journal of Food Science. 68 (4): 11441148. doi:10.1111/j.1365-2621.2003.tb09615.x.
+^ Vonshak, A. (ed.). Spirulina platensis (Arthrospira): Physiology, Cell-biology and Biotechnology. London: Taylor & Francis, 1997.
+^ a b c d Demirbas, A.; Fatih Demirbas, M. (2011). "Importance of algae oil as a source of biodiesel". Energy Conversion and Management. 52: 163170. doi:10.1016/j.enconman.2010.06.055.
+^ a b Vasudevan, P. T.; Briggs, M. (2008). "Biodiesel productioncurrent state of the art and challenges". Journal of Industrial Microbiology & Biotechnology. 35 (5): 421430. doi:10.1007/s10295-008-0312-2.
+^ Demirba, A. (2008). "Production of Biodiesel from Algae Oils". Energy Sources, Part A: Recovery, Utilization, and Environmental Effects. 31 (2): 163168. doi:10.1080/15567030701521775.
+^ a b National Research Council Canada. http://archive.nrc-cnrc.gc.ca/eng/locations/cities/ketch-harbour.html (accessed 29 January 2013)
+^ Microsoft PowerPoint - 09-Microalgal_Biomass_Production_Using_Industrial_Wastewater_mar7[1].ppt
+^ "Algaewheel  Wastewater Treatment Specialists". Archived from the original on 30 May 2008. Retrieved 18 June 2008.
+^ "Indiana Company to Submit Proposal to Utilize Algae to Treat Wastewater and Create Renewable Energy". E-Wire. 12 June 2008. Retrieved 18 June 2008.
+^ "Algae Systems  Process".
+^ "Solazyme Delivers 100% Algal-Derived Renewable Jet Fuel to U.S. Navy". Retrieved 20 July 2010.
+^ Choose language | Drupal. Ibvf.cartuja.csic.es. Retrieved 15 April 2012.
+^ "The C-FAST Project - CMCL Innovations".
+^ Biodiesel news / Ukraine to produce biofuel of algae. Biofuels.ru. Retrieved 15 April 2012.
+^ "ALGAECLUSTER - Algae Cluster From Algae Technologies".
+^ Patel, B.; Tamburic, B.; Zemichael, F. W.; Dechatiwongse, P.; Hellgardt, K. (2012). "Algal Biofuels: A Credible Prospective?". ISRN Renewable Energy. 2012: 114. doi:10.5402/2012/631574.
+^ "Algenol and Reliance launch algae fuels demonstration project in India". Retrieved 29 May 2015.
+^ "Productive usage of biomass". Retrieved 29 May 2015.
+^ "Algae Biomass Organization, Renewable, Sustainable Commodities from Algae". Algaebiomass.org. 2013-09-30. Retrieved 29 November 2013.
+^ Pond Biofuels Inc., Working Green. Pondbiofuels.com (25 October 2011). Retrieved 15 April 2012.
+^ a b "Government of Canada investing in technology to reduce GHG emissions in the oil sands - National Research Council Canada". Nrc-cnrc.gc.ca. Retrieved 29 November 2013.
+^ Brenhouse, Hillary (29 September 2010). "Canada Produces Strain of Algae for Fuel". The New York Times.
+^ VG Energy Inc. Vgenergy.net (31 January 2012). Retrieved 15 April 2012.
+^ Algae eyed to clean Chesapeake Bay  Environmental Science and Technology (ENST) Archived 7 April 2011 at the Wayback Machine.. Enst.umd.edu (26 September 2010). Retrieved 15 April 2012.
+^ Bio Solar Cells. Biosolarcells.nl. Retrieved 15 April 2012.
+^ NWT magazine, April 2011
+^ Pollack, Andrew (26 July 2010). "Exploring Algae as Fuel". The New York Times.
+^ Carbon Dioxide Capture with Algae. Docstoc.com. Retrieved 15 April 2012.
+^ "Greenhouse Gas Mitigation Project at the International University Bremen". The International Research Consortium on Continental Margins. 2006. Archived from the original on 14 February 2007. Retrieved 31 January 2007.
+^ Maalac, Melissa M. (2008-05-09). "Ateneo scientists working on algae as biodiesel source". ABSCBN News Online, Philippines. Retrieved 15 December 2013.
+^ Oswald, M.; Fischer, M.; Dirninger, N.; Karst, F. (2007). "Monoterpenoid biosynthesis inSaccharomyces cerevisiae". FEMS Yeast Research. 7 (3): 413421. doi:10.1111/j.1567-1364.2006.00172.x. PMID17096665.
+^ Geraniol, The Merck Index, 12th Edition
+^ Wang, Z. T.; Ullrich, N.; Joo, S.; Waffenschmidt, S.; Goodenough, U. (2009). "Algal Lipid Bodies: Stress Induction, Purification, and Biochemical Characterization in Wild-Type and Starchless Chlamydomonas reinhardtii". Eukaryotic Cell. 8 (12): 18561868. doi:10.1128/EC.00272-09. PMC2794211. PMID19880756.
+^ "Faster, cheaper biofuel production". KurzweilAI. doi:10.1073/pnas.1309299110. Retrieved 2013-12-31.
+^ Trentacoste, E. M.; Shrestha, R. P.; Smith, S. R.; Gle, C.; Hartmann, A. C.; Hildebrand, M.; Gerwick, W. H. (2013). "Metabolic engineering of lipid catabolism increases microalgal lipid accumulation without compromising growth". Proceedings of the National Academy of Sciences. 110 (49): 1974819753. doi:10.1073/pnas.1309299110.
+^ a b Gao, Y.; Gregor, C.; Liang, Y.; Tang, D.; Tweed, C. (2012). "Algae biodiesel - a feasibility report". Chemistry Central Journal. 6: S1. doi:10.1186/1752-153X-6-S1-S1.
+^ a b European biofuels technology platform. R&D&D funding (accessed 28 January 2013))
+^ "404 Error - Biodiesel.org" (PDF).
+^ OConnor Don, Canadian Energy Legislation. Canadian Biofuel Policies. (S&T) 2 Consultants Inc June, 2011, pp. 1-19.
+^ "Algal Carbon Conversion Flagship - National Research Council Canada". Nrc-cnrc.gc.ca. Retrieved 29 November 2013.
+^ G20. G20 Leaders Statement - 2009 Pittsburgh Summit. 2009.
+^ "About Algenol | Algenol Biofuels". Algenol.com. Retrieved 2014-08-19.
+^ http://www.nbc-2.com/story/22574373/algenol-governor-rick-scott-algae-ethanol-lee-county#.Ubsmf8u9KSM
+^ http://energy.gov/eere/bioenergy/articles/algenol-announces-commercial-algal-ethanol-fuel-partnership
+^ Sims, B. "Blue marble, um partner to optimize algal biomass utilization". Retrieved 13 March 2012.
+^ Nathan (2013-04-10). "Breakthrough In Microalgae Oil Production, Accelerated Ability To Produce Variety Of Different Oils". CleanTechnica. Retrieved 29 November 2013.
+^ Fehrenbacher, K. "15 Algae Startups Bringing Pond Scum to Fuel Tanks". Retrieved 13 March 2012.
+^ "Solazyme Integrated Biorefinery: Diesel Fuesl from Heterotrophic algae" (PDF). Retrieved 13 March 2012.
+^ "Solzayme: Meeting the growing need for renewable fuels". Retrieved 13 March 2012.
+^ a b "The Sapphire Story". Retrieved 21 April 2014.
+^ Diversified Technology Inc. (accessed 01/14, 2013).))
+^ Gieskes, Thomas E. Algae Oil Extraction (Powerpoint Presentation), Organic Fuels Holding, Inc., March 2008
+^ Environmental Protection Agency: Wastewater Treatment by Pulsed Electric Field Processing. (accessed 01/20, 2013).
+^ deGrasse Tyson, N. PBS Online Algae Biofuel (accessed 01/16, 2013).
+^ a b Piccolo, T. Origin Oil's Bioreactor: A Breakthrough in the Production of Oil from Algae Archived 3 December 2013 at the Wayback Machine.. (accessed 01/16, 2013).))
+^ Mantai, K. E.; Bishop, N. I. (1967). "Studies on the effects of ultraviolet irradiation on photosynthesis and on the 520 nm light-dark difference spectra in green algae and isolated chloroplasts". Biochimica et Biophysica Acta (BBA) - Bioenergetics. 131 (2): 350356. doi:10.1016/0005-2728(67)90148-X.
+^ EOS magazine, 6, 2012
+^ http://www.proviron.be/
+^ "Algae to crude oil: Million-year natural process takes minutes in the lab". PNNL. 17 December 2013. Retrieved 16 January 2014.
+^ a b http://www.algaeindustrymagazine.com/qmab-launches-baya-microalgal-biofuel/
+^ "Home". qmabco.com. Retrieved 2016-05-08.
+Further reading[edit]
+Worldwatch Institute (2007). Biofuels for Transport: Global Potential and Implications for Sustainable Agriculture and Energy in the 21st century. Earthscan. ISBN978-1-84407-422-8.
+McKay, David JC (3 November 2008). Sustainable Energy-Without Hot Air. 3.5.2. UIT Cambridge Ltd. ISBN0-9544529-3-3.
+Lane, Jim (18 April 2010). "Salt Water: The Tangy Taste of Energy Freedom". Renewable Energy World. Retrieved 21 April 2010.
+Bhatnagar, S.K.; Atul Saxena; Stefan Kraan, eds. (2011). Algae biofuel. New Delhi: Studium Press (India) Pvt. Ltd. ISBN978-93-8001-244-5.
+Darzins, Al; Pienkos, Philip; Edye, Les (2010). Current status and potential for algal biofuels production (PDF). IEA Bioenergy Task 39.
+External links[edit]
+Wikimedia Commons has media related to Algae fuel.
+A Report on Commercial Usage and Production of Algal Oil
+A Sober Look at Biofuels from Algae (Biodiesel Magazine)
+US National Renewable Energy Laboratory Publications
+Current Status and Potential for Algal Biofuels Production
+v
+t
+e
+Bioenergy
+Biofuels
+Alcohol
+Algae fuel
+Bagasse
+Babassu oil
+Biobutanol
+Biodiesel
+Biogas
+Biogasoline
+Corn stover
+Ethanol
+cellulosic
+mixtures
+Methanol
+Stover
+Corn stover
+Straw
+Cooking oil
+Vegetable oil
+Water hyacinth
+Wood gas
+Energy from
+foodstock
+Barley
+Cassava
+Grape
+Hemp
+Maize
+Oat
+Palm oil
+Potato
+Rapeseed
+Rice
+Sorghum bicolor
+Soybean
+Sugarcane
+Sugar beet
+Sunflower
+Wheat
+Yam
+Camelina sativa
+Non-food
+energy crops
+Arundo
+Big bluestem
+Camelina
+Chinese tallow
+Duckweed
+Jatropha curcas
+Millettia pinnata
+Miscanthus giganteus
+Switchgrass
+Wood fuel
+Technology
+BECCS
+Bioconversion
+Biomass heating systems
+Biorefinery
+FischerTropsch process
+Industrial biotechnology
+Pellets
+mill
+stove
+Thermal depolymerization
+Concepts
+Cellulosic ethanol commercialization
+Energy content of biofuel
+Energy crop
+Energy forestry
+EROEI
+Food vs. fuel
+Issues
+Sustainable biofuel
+NewPP limit report
+Parsed by mw1184
+Cached time: 20161120125505
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 1.208 seconds
+Real time usage: 1.289 seconds
+Preprocessor visited node count: 10708/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 316823/2097152 bytes
+Template argument size: 4943/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 4/500
+Lua time usage: 0.607/10.000 seconds
+Lua memory usage: 8.29 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1133.998
+1 - -total
+67.78%
+768.674
+1 - Template:Reflist
+26.88%
+304.818
+72 - Template:Cite_journal
+19.33%
+219.233
+65 - Template:Cite_web
+4.07%
+46.191
+17 - Template:Chem
+3.50%
+39.724
+17 - Template:Chem/link
+3.36%
+38.099
+12 - Template:Cite_news
+3.12%
+35.380
+1 - Template:Who
+2.91%
+32.995
+1 - Template:Fix
+2.80%
+31.780
+34 - Template:Chem/atom
+Saved in parser cache with key enwiki:pcache:idhash:14205946-0!*!0!!en!4!* and timestamp 20161120125503 and revision id 749803399
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Algae_fuel&oldid=749803399"
+Categories: Algae biofuelsBioreactorsHigh lipid content microalgaeRenewable energyAlternative energyRenewable fuelsBiochemical engineeringHidden categories: Webarchive template wayback linksArticles with inconsistent citation formatsCS1 maint: Multiple names: authors listUse dmy dates from November 2012Articles containing potentially dated statements from 2012All articles containing potentially dated statementsAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from September 2012Articles with specifically marked weasel-worded phrases from August 2015Commons category with local link same as on Wikidata

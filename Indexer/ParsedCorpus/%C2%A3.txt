@@ -1,0 +1,304 @@
+%C2%A3
+From Wikipedia, the free encyclopedia
+(Redirected from )
+Jump to:					navigation, 					search
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about the currency symbol "". For the sign "#", see Number sign.
+
+Pound sign
+Punctuation
+apostrophe
+'
+brackets
+[](){}
+colon
+:
+comma
+,
+dash
+   
+ellipsis
+.... . .
+exclamation mark
+!
+full stop, period
+.
+guillemets
+
+hyphen
+
+hyphen-minus
+-
+question mark
+?
+quotation marks
+''""
+semicolon
+;
+slash, stroke, solidus
+/
+Word dividers
+interpunct
+
+space
+General typography
+ampersand
+&
+asterisk
+*
+at sign
+@
+backslash
+\
+bullet
+
+caret
+^
+dagger
+ 
+degree
+
+ditto mark
+
+inverted exclamation mark
+
+inverted question mark
+
+note
+
+numbersign, pound, hash, octothorpe
+#
+numero sign
+
+obelus
+
+multiplication sign
+
+ordinal indicator
+ 
+percent, per mil
+% 
+plus and minus
++ 
+equals sign
+=
+basis point
+
+pilcrow
+
+prime
+
+section sign
+
+tilde
+~
+underscore, understrike
+_
+vertical bar, pipe, brokenbar
+|
+Intellectual property
+copyright
+
+sound-recording copyright
+
+registered trademark
+
+service mark
+
+trademark
+
+Currency
+currency sign
+
+currency symbols
+         $                                          
+Uncommon typography
+asterism
+
+hedera
+
+index, fist
+
+interrobang
+
+irony punctuation
+
+lozenge
+
+tie
+
+Related
+Diacritics
+Logic symbols
+Whitespace characters
+In other scripts
+Chinese
+Hebrew
+Japanese
+Korean
+Category
+Portal
+Book
+v
+t
+e
+The pound sign () is the symbol for the pound sterlingthe currency of the United Kingdom (UK). The same symbol is used for similarly named currencies such as the Gibraltar pound or occasionally the Syrian pound. It is also sometimes used for currencies named lira, for example the now withdrawn Italian lira, and on rare occasion, the Turkish lira.
+The symbol derives from a capital "L", representing libra, the basic unit of weight in the Roman Empire, which in turn is derived from the Latin name of the same spelling for scales or a balance. The pound became an English unit of weight and was so named because it originally had the value of one tower pound (~350 grams) of fine (pure) silver.
+The pound sign is placed before the number (e.g. "12,000") and separated from the following digits by no space or only a thin space.
+The symbol  was called the lira sign in Italy, before the adoption of the euro. It was used as an alternative to the more usual L to show prices in lire. It was also used unofficially as the symbol of the Maltese lira instead of the official Lm.
+In American English, the term "pound sign" usually refers to the symbol # (see number sign), and the corresponding telephone key is called the "pound key".[1] The symbols  and # are both referred to as the pound sign in Canadian English (# is also referred to as the "number sign" and "noughts-and-crosses board").[2]
+In the original old Caslon metal fonts, the pound sign was identical to the italic capital "J" rotated 180 degrees.[citation needed]
+Contents
+1 Codepoints
+2 Entry methods
+2.1 Historical
+2.2 PC
+2.3 Mac
+2.4 Compose key
+3 Printing
+4 See also
+5 References
+Codepoints[edit]
+In the Unicode standard, the symbol  is called "pound sign" and the symbol  "lira sign". These have respective code points:
+U+00A3  POUND SIGN (HTML&#163; &pound;
+inherited from Latin-1)[3]
+U+20A4  LIRA SIGN (HTML&#8356;)[4]
+Unicode notes that the "lira sign" is not widely used, and the preferred sign for lira is the pound sign.[contradictory] Some fonts render the pound sign with a double bar (for example on a previous version of the British five pound note[5]); this is simply a different glyph, and the underlying character (and therefore Unicode codepoint) is still a pound sign, and not a lira sign.
+Entry methods[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2016) (Learn how and when to remove this template message)
+Historical[edit]
+Prior to the introduction of the IBM PC, there was no unique accepted standard for entering, displaying, printing, or storing the  sign in the UK computer industry. On personal computers prior to the PC the "#" key was often used; sometimes it was displayed on screen as "#", but many printers could be set up to print "" where "#" was sent to the printer by an application program. Keying in, storing, displaying, and printing the sign often required special set-up. Although the "#" sign is commonly called the "hash symbol", it is also referred to as the "pound sign" in North America (though in reference to the unit of weight, not the unit of currency). It is also known as the number symbol or key.
+The Commodore 64 computer included a dedicated key for the pound sign (to the right of the number row).
+The BBC Micro used a variant of ASCII that replaced the backtick ("`", character 96, hex 60) with the pound sign (ISO/IEC 8859 had not yet been standardised, and it was advantageous to have commonly used characters available in the lower, 7-bit ASCII table), denoted as CHR$96 or (hex) CHR$&60. Since the BBC Micro used a Teletext mode as standard, this means that the pound sign is in the 7-bit ASCII variant used on Teletext systems such as Ceefax, ORACLE and Teletext Ltd as well.
+On Latin-alphabet typewriters lacking a "" symbol type element, a reasonable approximation can be made by typing an "f" over an "L".
+PC[edit]
+On Microsoft Windows, Linux and Unix, the UK keyboard layout has the "" symbol on the 3 number key and is typed using:
+ Shift+3
+On a US-International keyboard in Windows, the "" can be entered using:
+ Shift+AltGr+4
+ Shift+Ctrl+Alt+4
+On a US-International keyboard in Linux and Unix, the "" can be entered using:
+Ctrl+ Shift+U followed by a 3
+ Shift+AltGr+3
+In Windows, it can also be generated through the Alt keycodes:
+Alt+0163 (keeping Alt pressed until all 4 digits have been typed on the numeric keypad only)
+Alt+6556
+Alt+156
+In MS-DOS
+ Shift+Alt+156
+The Character Map utility and Microsoft Word's Insert Symbol commands may also be used to enter this character.
+Mac[edit]
+The symbol "" is in the MacRoman character set and can be generated on most non-UK Mac OS keyboard layouts which do not have a dedicated key for it, typically through:
+ Option+3
+On UK Apple Mac keyboards, this is reversed, with the "" symbol on the number 3 key, typed using:
+ Shift+3 (and the number sign "#" generated by  Option+3)
+Compose key[edit]
+The compose key sequence is:
+Compose+L+-
+Printing[edit]
+In the 1980s, the two main standards for the print codes for a pound sign were ASCII 186 for the HP Laserjet and ASCII 156 for most other printers including the IBM Quietwriter and Epson dot matrix printers. In order to print a pound sign, each word processor needed to be set up individually to print the sign for a particular printer. For many word processors a terminate and stay resident program (TSR) was needed to convert the code generated by the package into the right code for the printer. Packages such as WordPerfect had utilities to set up this conversion without needing a TSR.
+See also[edit]
+ : Latin letter L with stroke
+Parlophone
+References[edit]
+^ William Safire (1991-03-24). "On Language; Hit the Pound Sign". New York Times. Retrieved 2011-05-21.
+^ Barber, edited by Katherine (2004). The Canadian Oxford dictionary (2nd ed.). Toronto: Oxford University Press. ISBN0-19-541816-6.
+^ The Unicode Consortium (11 June 2015). "The Unicode Standard, Version 8.0 | Character Code Charts" (PDF). Retrieved 2015-09-02.
+^ The Unicode Consortium (26 August 2015). "The Unicode Standard, Version 8.0 | Character Code Charts" (PDF). Retrieved 2015-09-02.
+^ "Image: five_pound_note_front.JPG, (344  181 px)". oldenglishbanknotes.com. Retrieved 2015-09-02.
+v
+t
+e
+Currency symbols ()
+Circulating
+
+
+
+
+
+
+$
+
+
+
+
+
+
+
+
+ / 
+
+
+
+
+
+
+
+$
+
+
+
+
+
+
+Historic
+
+
+
+DM
+
+
+
+
+
+
+
+
+NewPP limit report
+Parsed by mw1197
+Cached time: 20161119195638
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.500 seconds
+Real time usage: 0.594 seconds
+Preprocessor visited node count: 9695/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 209147/2097152 bytes
+Template argument size: 11427/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 2/500
+Lua time usage: 0.195/10.000 seconds
+Lua memory usage: 3.47 MB/50 MB
+Transclusion expansion time report (%,ms,calls,template)
+100.00%
+508.336
+1 - -total
+37.73%
+191.820
+1 - Template:Punctuation_marks
+35.96%
+182.821
+1 - Template:Infobox
+25.20%
+128.109
+6 - Template:Aligned_table
+14.38%
+73.087
+22 - Template:Keypress
+13.17%
+66.927
+45 - Template:Key_press/core
+11.64%
+59.186
+2 - Template:Fix
+10.58%
+53.783
+2 - Template:Unichar
+10.02%
+50.934
+1 - Template:Citation_needed
+9.80%
+49.814
+2 - Template:Unichar/main
+Saved in parser cache with key enwiki:pcache:idhash:367168-0!*!0!!en!4!* and timestamp 20161119195638 and revision id 750443626
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pound_sign&oldid=750443626"
+Categories: Currency symbolsHidden categories: All articles with unsourced statementsArticles with unsourced statements from June 2012All self-contradictory articlesArticles needing additional references from May 2016All articles needing additional references
