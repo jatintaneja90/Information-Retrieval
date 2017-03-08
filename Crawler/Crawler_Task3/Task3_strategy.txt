@@ -1,0 +1,13 @@
+﻿Task	3:		
+
+In first question, priority of retrieved URLs has been defined that pages	in	a	shallower	depth	are	more important	than	deeper	ones so we should cover depth of both pages serially.
+My approach would be saving the count of number of URL retrieved at each level. 
+While merging we could use this URL count to merge lower count depth so that we retain important links only.
+
+Merit of this approach
+1) Shallower links will be saved which contain more information than links at deep depth
+
+Demerit of this approach
+1) We need to save the count in a structure which takes space.
+
+
